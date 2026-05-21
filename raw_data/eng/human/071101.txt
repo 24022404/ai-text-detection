@@ -1,0 +1,1 @@
+head i=softmax (QT Finally, all of heads will be concatenated and I obtained the multi-head attention through a projection layer as:

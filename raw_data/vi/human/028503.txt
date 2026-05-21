@@ -1,0 +1,1 @@
+HDFS có khả năng chịu lỗ cao và được thiết kế điển trên khai trên phần cứng giá rẻ. HDFS cung cấp khả năng truy cập thông lượng cao vào dữ lệu ứng dụng và phù hợp với các ứng dụng có tập dữ lệu lớn. HDFS nới lỏng một số yêu cầu POSIX điểm cho phép truy cập trực tuyến vào dữ lệu hệ thống tệp.

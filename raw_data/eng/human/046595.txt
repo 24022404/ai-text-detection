@@ -1,0 +1,1 @@
+Create User : This sub-use case will allow user to create new user profile.•View User Information : This sub-use case will allow admin to view user informations.

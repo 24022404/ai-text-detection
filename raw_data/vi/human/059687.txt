@@ -1,0 +1,1 @@
+Controller là một phần của ứng dụng xử lý tương tác của người dùng. Trên OS, Controller sẽ nhận sự kện kích hoạt từ Vew kh người dùng thao tác trên giao diện.

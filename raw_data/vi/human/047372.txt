@@ -1,0 +1,1 @@
+Tính dễ mở rộng: hệ thống cần đáp ứng nhu cầu sử dụng của khách hàng trong những giờ cao điểm hoặc nhu cầu mở rộng trong tương lai. Cần sử dụng các công nghệ xử lý các luồng dữ lệu hành vi khách hàng theo hướng phân tán, khả mở.

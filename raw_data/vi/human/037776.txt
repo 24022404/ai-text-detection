@@ -1,0 +1,1 @@
+Website Magento phiên bản 2.4.3 được triển khai vớ địa chỉ là " 3855.nfo". Website sử dụng PHP 7.4, Elasticsearch, MySQL, được chạy trên server nginx và quản lý cơ sở dữ liệu qua công cụ PhpMyAdmin chạy trên server Apache.

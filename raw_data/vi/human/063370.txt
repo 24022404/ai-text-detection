@@ -1,0 +1,1 @@
+Kiểm tra sự khác biệt giữa ảnh GAN và ảnh thật dùng IMAP  Sử dụng IMAP  điểm giảm chiều và biểu diễn các hình ảnh của mỗi tập xuống điểm biểu diễn. Luồng xử lý sẽ theo sơ đồ 4.2:

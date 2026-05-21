@@ -1,0 +1,1 @@
+Backend được chia thành 3 mô đun: Mô đun kiểm tra và sửa lỗ của câu văn (Check Input Module), Mô đun kiểm tra và sửa lỗi chính tả (SC Module), Mô đun kiểm tra bằng file (Check Document Module).

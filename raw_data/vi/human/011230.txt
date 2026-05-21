@@ -1,0 +1,1 @@
+Mục tiêu thứ ba là xây dựng thuật toán phát hiện hành vi lấy đồ dựa trên việc theo dõi sản phẩm. Từ đó xác định khách hàng đã lấy sản phẩm thông qua gả pháp nhận diện khách hàng đã nêu.

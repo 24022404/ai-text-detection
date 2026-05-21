@@ -1,0 +1,1 @@
+Do đió, Đồ án này đã được bổ sung chức năng quản lý phản hồi khách hàng qua email; cho phép khách hàng có thể gửi email phản hồi về dịch vụ bán hàng và hệ thống sẽ lưu trữ, phân loại điểm chủ cửa hàng, người quản lý có thể xử lý kịp thờ, tiết kệm thờ gần và công sức.

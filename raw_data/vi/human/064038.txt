@@ -1,0 +1,1 @@
+STT Tên trường Yêu cầu 1 Tên Workspace Bắt buộc Bảng 4.11: Dữ liệu đầu vào cho trường hợp kiểm thử "Tạo Workspace" Các ca kiểm thử cho chức năng "Tạo Workspace":

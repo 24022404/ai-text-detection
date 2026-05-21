@@ -1,0 +1,1 @@
+Thành viên thực hiện công việc có quyền thực hiện use case () xem danh sách công việc, () tạo công việc sau khi lập kế hoạch, () chỉnh sửa thông tin công việc, (v) xem ch tết công việc, và (v) tìm kiếm công việc.

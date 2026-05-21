@@ -1,0 +1,1 @@
+Asimple path is a path going through each edge at most one time. Each longestFigure 2.3: de Bruijn graph of order 4,G4.

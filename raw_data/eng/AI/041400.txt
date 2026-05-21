@@ -1,0 +1,1 @@
+Users receive notifications or can view details about suspicious API calls, helping them detect potential threats or vulnerabilities.

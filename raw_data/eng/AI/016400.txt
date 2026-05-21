@@ -1,0 +1,11 @@
+Here is a potential abstract for the graduation thesis:
+
+Background and motivation: The quality of welds is crucial in various industries, including construction, manufacturing, and aerospace. However, traditional inspection methods are time-consuming, labor-intensive, and prone to human error. The increasing demand for efficient and accurate weld quality inspection has motivated the development of automated systems leveraging image processing and deep learning technologies.
+
+Objectives: This thesis aims to design and develop a software system that utilizes image processing and segmentation deep learning techniques to automatically inspect and evaluate weld quality. The primary objectives are to detect defects, classify weld types, and predict quality scores, thereby addressing the limitations of traditional inspection methods.
+
+Methodology: The proposed system employs a convolutional neural network (CNN) architecture, combining image processing techniques with deep learning-based segmentation. The system is trained on a dataset of weld images, annotated with ground truth labels, to learn features and patterns that distinguish between high-quality and defective welds.
+
+Results and expected contributions: The developed system demonstrates promising results in detecting weld defects, classifying weld types, and predicting quality scores. The expected contributions of this research include improving the efficiency, accuracy, and reliability of weld quality inspection, reducing the need for manual inspection, and providing a valuable tool for industries that rely on high-quality welds.
+
+Conclusion: This thesis presents a novel software system for automated weld quality inspection using image processing and deep learning techniques. The system has the potential to revolutionize the field of weld inspection, enabling faster, more accurate, and cost-effective quality control. Future developments may include integrating the system with robotic inspection platforms, exploring applications in other industries, and refining the system's performance using larger datasets and advanced deep learning architectures.

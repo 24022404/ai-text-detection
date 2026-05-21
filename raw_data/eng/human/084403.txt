@@ -1,0 +1,1 @@
+Navigation Bar: Contains links to various parts of the application, such as SCANS, DYNAMIC ANALYZER, and user account management options.

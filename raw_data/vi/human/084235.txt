@@ -1,0 +1,1 @@
+Cung cấp tệp JSON định nghĩa kết quả dịch của chuỗi ký tự mặc định: thay cho tác vụ kết nối với bộ phận xử lý dịch để nhận về tệp JSON chứa kết quả đã dịch.

@@ -1,0 +1,1 @@
+–Đảm bảo an toàn bảo mật, tránh truy cập trái phép hay làm hỏng dữ lệu từ mã độc (như SQL Injection).1. Phía backend:

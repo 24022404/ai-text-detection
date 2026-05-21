@@ -1,0 +1,5 @@
+Một nghiên cứu mới đây đã đạt được thành công trong việc biểu hiện gen mã hóa enzyme endo-1,4-β-xylanase chịu nhiệt, hoạt động trong môi trường axit. Enzyme này có khả năng phân hủy xylan, một loại polysaccharide phổ biến trong thực vật, thành các đơn vị nhỏ hơn.
+
+Kết quả nghiên cứu cho thấy enzyme endo-1,4-β-xylanase chịu nhiệt có hoạt động ổn định trong môi trường axit, với pH từ 2 đến 6. Điều này mở ra khả năng ứng dụng enzyme này trong các quá trình sản xuất thực phẩm, dược phẩm và sinh học.
+
+Nghiên cứu này cũng đã xác định được các yếu tố ảnh hưởng đến hoạt động của enzyme, bao gồm nhiệt độ, pH và nồng độ muối. Kết quả này sẽ giúp các nhà khoa học hiểu rõ hơn về cơ chế hoạt động của enzyme và có thể phát triển các ứng dụng mới cho enzyme này.

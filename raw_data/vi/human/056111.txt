@@ -1,0 +1,1 @@
+RDD Spark xoay quanh khá nệm về tập dữ lệu phân tán có khả năng phục hồ (RDD), là một tập hợp các phần tử có khả năng chịu lỗ có thể hoạt động song song.

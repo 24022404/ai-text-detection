@@ -1,0 +1,9 @@
+Nền tảng dữ liệu chứng khoán Việt Nam Phân hệ quản lý và lập lịch trình tính toán chỉ báo là một hệ thống thông tin được thiết kế để cung cấp thông tin chính xác và kịp thời về thị trường chứng khoán Việt Nam. Hệ thống này bao gồm phân hệ quản lý, phân hệ lập lịch trình tính toán chỉ báo và phân hệ lưu trữ dữ liệu.
+
+Phân hệ quản lý cho phép người dùng quản lý và cập nhật dữ liệu về các công ty niêm yết trên thị trường chứng khoán Việt Nam, bao gồm thông tin về cổ phiếu, công ty, và các thông tin khác liên quan. Phân hệ này cũng cung cấp các công cụ để phân tích và đánh giá hiệu suất của các công ty niêm yết.
+
+Phân hệ lập lịch trình tính toán chỉ báo cho phép người dùng lập lịch trình tính toán các chỉ báo kỹ thuật và cơ bản để phân tích và đánh giá hiệu suất của các cổ phiếu và thị trường chứng khoán. Hệ thống này sử dụng các thuật toán và mô hình toán học để tính toán các chỉ báo và cung cấp thông tin chính xác và kịp thời.
+
+Phân hệ lưu trữ dữ liệu cho phép người dùng lưu trữ và quản lý dữ liệu về các cổ phiếu, công ty, và các thông tin khác liên quan. Hệ thống này cũng cung cấp các công cụ để phân tích và đánh giá hiệu suất của các cổ phiếu và thị trường chứng khoán.
+
+Tổng thể, nền tảng dữ liệu chứng khoán Việt Nam Phân hệ quản lý và lập lịch trình tính toán chỉ báo là một hệ thống thông tin mạnh mẽ và toàn diện, cung cấp thông tin chính xác và kịp thời về thị trường chứng khoán Việt Nam. Hệ thống này có thể được sử dụng bởi các nhà đầu tư, các công ty chứng khoán, và các tổ chức tài chính khác để phân tích và đánh giá hiệu suất của các cổ phiếu và thị trường chứng khoán.

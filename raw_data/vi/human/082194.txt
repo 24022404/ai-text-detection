@@ -1,0 +1,1 @@
+() Tên use case: Đặt mua () Các dòng sự kiện chính: trên giao diện giỏ hàng , khách hàng thành viên chọn đặt mua. Hệ thống sẽ hiển thị giao diện chứa thông tin khách hàng và danh sách các sản phẩm khách hàng đặt mua. Sau khi nhập điầy đủ thông tin thì khách hàng xác nhận đặt mua.

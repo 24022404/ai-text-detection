@@ -1,0 +1,1 @@
+Thiết kế lớp a, Module tải lên tệp tin Lớp UploadController Upload Control + upload Avatar(): vod + upload CV (): vod Bảng 4.1: Lớp Uploadcontroller Ý nghĩa các phương thức:+ upload Avatar(): nhận request file phương tiện từ client rồ gọi điện upload server để lưu file. Sau đó trả về đường dẫn đến file phương tiện cho client.

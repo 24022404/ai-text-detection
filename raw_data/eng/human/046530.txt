@@ -1,0 +1,1 @@
+The BoW representation is commonly used in document classification methods, where the frequency of occurrence of words aids in the training of classifiers.

@@ -1,0 +1,1 @@
+create Conversation: phương thức này gồm 1 tham số là conversatioNal, nhằm tạo mới một cuộc hội thoại có tên là conversation Name.

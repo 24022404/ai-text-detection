@@ -1,0 +1,1 @@
+Bộ phận phát: Bao gồm bộ mã hóa và bộ phát ASK. Bộ mã hóa tạo địa chỉ có 8 bt và 4 bt. Chúng ta có thể đặt địa chỉ bằng cách sử dụng công tắc DIP được kết nối trong bộ mã hóa A0 – A7. Trong trường hợp thiết lập 1 địa chỉ trong mạch phát, địa chỉ này sẽ được yêu cầu trong phần thu. Chính vì lý do nà nên phần máy thu và máy phát phải được đặt trong cùng một địa chỉ.

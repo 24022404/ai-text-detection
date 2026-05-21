@@ -1,0 +1,9 @@
+This paper presents Pupil, an innovative open-source platform designed to facilitate pervasive eye tracking and enable mobile gaze-based interaction. The research addresses the need for accessible, flexible, and cost-effective solutions in eye tracking technology, which can be applied in diverse fields such as augmented reality, user experience research, and assistive technology.
+
+Methods: The Pupil platform utilizes cutting-edge computer vision techniques and an adaptable hardware design to provide real-time gaze tracking capabilities. The platform is composed of a lightweight wearable device equipped with cameras and software for capturing and analyzing eye movements. By leveraging open-source software engineering practices, Pupil allows for easy customization and integration with third-party applications, promoting collaboration within the research community.
+
+Results: Our evaluation demonstrates that Pupil achieves high accuracy in gaze tracking under various lighting conditions and across different user demographics. Benchmark comparisons show that Pupil performs competitively with commercial alternatives, while offering the advantage of open-source flexibility. User studies underline the platform's effectiveness in facilitating intuitive gaze-based interaction for mobile environments.
+
+Conclusion: Pupil's open-source nature and comprehensive feature set make it a highly valuable contribution to the field of eye-tracking technology. Its adaptability and low cost democratize access to advanced eye tracking, opening new opportunities for research and application development. Future work includes enhancing the platform's robustness and extending its functionalities to support a wider range of interactive scenarios.
+
+Keywords: Eye tracking, gaze interaction, open source, computer vision, mobile applications, Pupil platform, wearable technology.

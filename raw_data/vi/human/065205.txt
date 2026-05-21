@@ -1,0 +1,1 @@
+Yêu cầu máy chủ tương đối cao: Vì Laravel sử dụng nhiều tính năng nâng cao và hiện đại, yêu cầu máy chủ để chạy ứng dụng Laravel có thể tương đối cao hơn so với một số framework khác. Đều này có thể là vấn đề đối với các dự án có tài nguyên hạn chế. tiếp. Eloquent giúp giảm đáng kể công việc tương tác với cơ sở dữ lệu và tăng tính bảo mật của ứng dụng.

@@ -1,0 +1,1 @@
+: Một thuật toán điều khiển cánh lái h ướng cấp nước cho turbin d ựa trên gi ải thuật backstepping đã được xây dựng. Trên c ơ sở thuật toán đề xuất này tần số quay của turbin trong t ổ máy phát điện với công suất vừa và nhỏ được điều khiển ổn định.

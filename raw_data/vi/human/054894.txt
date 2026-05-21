@@ -1,0 +1,1 @@
+Kh sản phẩm có sẵn mã vạch, nhân viên chỉ cần sử dụng máy đọc mã vạch để quét mã sản phẩm. Dữ liệu về sản phẩm, ví dụ như gá, số lượng tồn kho và các thông tin khác sẽ được hiển thị trên màn hình máy tính của nhân viên. Từ đó, nhân viên có thể dễ dàng cập nhật thông tin sản phẩm, kiểm tra số lượng tồn kho và đặt hàng kh cần thiết.

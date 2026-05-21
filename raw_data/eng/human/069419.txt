@@ -1,0 +1,1 @@
+Check character die This test case is to check whether the character dies when runs out of health point (Figure 4.8).

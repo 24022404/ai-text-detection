@@ -1,0 +1,1 @@
+Nếu máy chủ website của bạn chứa dữ liệu quan trọng, nó cần được bảo vệ chặt chẽ để đảm bảo an toàn và bảo mật. Nếu dữ liệu này bị đánh cắp hoặc bị rò rỉ, có thể gây ra nhiều tổn hại cho doanh nghiệp của bạn.

@@ -1,0 +1,1 @@
+Javascript được trình duyệt web biên dịch thông qua HTML, các đoạn mã HTML được tải về máy khách và xử lý tạ đó thay vì xử lý trên server.

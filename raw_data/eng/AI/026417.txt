@@ -1,0 +1,1 @@
+Users can view detailed insights into individual API calls, making it easier to identify security issues or spot abnormal behaviors as they occur.

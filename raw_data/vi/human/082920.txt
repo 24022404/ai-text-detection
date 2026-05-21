@@ -1,0 +1,1 @@
+Vớ những khuyết điểm trên, các mẫu từ vựng được suy ra từ ngữ liệu sử dụng một số phương pháp giám sát hoặc hạt giống. Các mẫu từ vựng này được tạo ra từ kho ngữ liệu bằng cách sử dụng các thuật toán học máy, có thể tự động họ các mô hình từ kho ngữ liệu và sử dụng mô hình này để tạo ra các mẫu từ vựng mớ.

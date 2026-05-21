@@ -1,0 +1,1 @@
+Biểu đồ use case phân rã: "Quản lý bộ sưu tập" Hình 2.3: Biểu đồ use case phân rã: Quản lý bộ sưu tập Tác nhân: Người dùng Các use case với tác nhân quản trị viên hệ thống được mô tả trong Bảng 2.6.

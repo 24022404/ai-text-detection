@@ -1,0 +1,1 @@
+Chương 3 trình bày về các công nghệ liên quan đến thiết kế giao diện và mạng học sâu có sử dụng trong đồ án này.

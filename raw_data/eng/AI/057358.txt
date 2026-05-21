@@ -1,0 +1,9 @@
+Objective: Capturing both local interactions and global structural patterns (“graph Gestalt”) remains a key challenge in graph representation learning. This paper introduces a novel kernel-regularized framework to guide graph neural networks (GNNs) toward embeddings that respect high-order graph similarities in addition to standard node-level features.
+
+Methods: We construct a differentiable graph kernel matrix encoding global structural affinities—such as walks, subgraph patterns, or spectral signatures—and integrate it as a regularization term into the GNN training objective. By balancing the conventional message-passing loss with a kernel-induced penalty, our approach unifies local aggregation with global graph Gestalt. To ensure scalability, we develop an efficient low-rank approximation of the kernel matrix and a mini-batch optimization scheme.
+
+Results: On benchmark datasets for node classification (CORA, Citeseer), link prediction (PPI), and graph classification (MUTAG, PROTEINS), our kernel-regularized GNN consistently outperforms baseline models (GCN, GraphSAGE, GAT) by 2–5% in accuracy or ROC-AUC. Ablation studies confirm the contributions of different kernel types and regularization strengths, demonstrating enhanced robustness and generalization under sparse training regimes and noisy graphs.
+
+Conclusions: Integrating graph kernels into representation learning effectively preserves global structural Gestalt, leading to more discriminative and transferable embeddings. This kernel-regularized GNN framework opens new directions for applications in bioinformatics, social network analysis, and recommendation systems, and can be extended to dynamic or heterogeneous graph settings.
+
+Keywords: graph representation learning, graph kernels, kernel regularization, graph neural networks, graph embedding.

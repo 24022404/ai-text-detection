@@ -1,0 +1,1 @@
+Pevzner, Tang, and Waterman (2001) introduce innovative computational approaches for assembling DNA sequence fragments, significantly enhancing both the accuracy and efficiency of DNA sequencing processes.

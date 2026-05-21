@@ -1,0 +1,1 @@
+The method provides real-time log streaming to the client by returning a StreamingHttpResponse with the content type set to text/event stream.

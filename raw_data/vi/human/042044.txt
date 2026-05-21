@@ -1,0 +1,1 @@
+Tầng trình bày: Tầng xử lý giao tiếp với người dùng, hiển thị giao diện, nhận yêu cầu từ người dùng, truyền tả yêu cầu cần xử lý điến tầng ứng dụng, đồng thời nhận lại các kết quả trả về từ tầng ứng dụng điểm thông tin và hiển thị đến người dùng.

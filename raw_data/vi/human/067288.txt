@@ -1,0 +1,1 @@
+Phân hệ quản lý và lập lịch trình tính toán chỉ báo không có yêu cầu quá cao về lượng dữ liệu cần xử lý trong một chu kì hoạt động, ngoài ra các dữ liệu cũng điều thuộc dạng có cấu trúc, chủ yếu là dữ liệu dạng số và chuỗ thờ gan. Vậy nên việc lựa chọn Python và thư viện pandas trong quá trình phát trển phân hệ là phù hợp.

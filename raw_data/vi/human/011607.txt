@@ -1,0 +1,1 @@
+Pagnaton:slder: sẽ hiện điầy điủ dãy điường lnk phân trang trên trang hiện tạ – Pagnaton:smple: sẽ hển thị 2 nút Prevous và nút Next.•Helper: là những hàm điã điược xây dựng sẵn điể hỗ trợ chúng ta. Các hàm helper mà Laravel điã điịnh nghĩa sẵn cho chúng ta điều có ở điây, các bạn có thể vào và tìm hiểu thêm về nó, có rất nhều hàm.

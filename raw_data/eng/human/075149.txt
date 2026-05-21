@@ -1,0 +1,1 @@
+hash(’Heypasswor’) = 1b21hb2hb1u2gu3g2fxy1v2ux1v2y3vu12g4svvdax Figure 3.1: Bcrypt Bcrypt is a library to help you hash passwords. It uses a password-hashing function that is based on the Blowfish cipher. The Blowfish cipher is a symmetric block cipher that provides the best encryption rate in the industry; thus, it can be used in cipher suites and encryption products.

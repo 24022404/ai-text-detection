@@ -1,0 +1,1 @@
+Ethereum Blockchain Environment : Execution environment of the blockchain ecosystem. This environment includes a user interface for users to interact with Ethereum, a database that stores block data, an encryption mechanism that ensures the security of transactions, and a network infrastructure to support communication. communication between blocks on the blockchain network.

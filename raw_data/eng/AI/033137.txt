@@ -1,0 +1,1 @@
+The "Severity" column indicates the seriousness of a security issue, ranging from informational to high, which helps teams prioritize addressing the most critical vulnerabilities before others.

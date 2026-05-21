@@ -1,0 +1,1 @@
+Sau khi hoàn tất việc chọn sản phẩm và tạo hoá đơn bán hàng, khách hàng có thể thanh toán bằng tiền mặt hoặc chuyển khoản. Nếu thanh toán bằng tiền mặt, người bán hàng sẽ tiếp nhận tiền và cập nhật vào hệ thống quản lý bán hàng. Nếu khách hàng chọn thanh toán chuyển khoản, hệ thống sẽ hiển thị thông tin số tài khoản điểm khách hàng tiến hành chuyển khoản.

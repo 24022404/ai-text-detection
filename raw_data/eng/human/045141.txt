@@ -1,0 +1,1 @@
+Section Description Navigation Bar Contains navigation links to "SCANS", "DYNAMIC ANALYZER", and user account options. If the user is authenticated, a dropdown menu with user details and management options is displayed.

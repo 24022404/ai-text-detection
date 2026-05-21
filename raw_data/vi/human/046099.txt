@@ -1,0 +1,1 @@
+Vớ mỗ phương pháp, thực hiện tính toán các giá trị độ đo đánh giá đối với bộ số đủ lớn của 3072 bước thờ gan để tính toán giá trị trung bình một cách chính xác.

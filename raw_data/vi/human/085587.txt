@@ -1,0 +1,1 @@
+Các dự án phát triển theo mô hình Client Server (NodeJS đứng trong và trò làm các services cung cấp APIs), NodeJS rất phù hợp cho kiến trúc Mcroser vces điểm đưa các bài toán lớn thành các bài toán nhỏ và có thể phát triển nhanh chóng và quản lý dễ dàng 1 dự án lớn.

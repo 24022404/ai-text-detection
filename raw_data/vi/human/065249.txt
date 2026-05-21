@@ -1,0 +1,1 @@
+Biểu đồ thiết kế này giúp phân chia rõ ràng và tách biệt các trách nhiệm của các thành phần. Các lớp Controller chỉ nhận các yêu cầu xử lý từ người dùng, còn việc xử lý logic nghiệp vụ sẽ do các lớp Servce đảm nhận, các lớp Repository sẽ được dùng để thao tác với dữ liệu trong cơ sở dữ liệu.

@@ -1,0 +1,1 @@
+Nhìn nhận thực tế cho thấy rằng, chưa có một góc gả pháp bảo mật nào cung cấp đầy đủ những cách thức bảo vệ cho hệ thống website cùng với đó là việc gặp khó khăn khi phải cài đặt từng gả pháp cho từng phương án bảo mật cụ thể.

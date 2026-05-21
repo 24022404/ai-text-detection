@@ -1,0 +1,1 @@
+Sử dụng Snow Plow trong thu thập dữ lệu Đây là phần thuộc phân hệ thu thập, xử lý và phân tích dữ lệu được bạn Phú thực hiện. Em sẽ nó một các tổng quan điểm người đọc có thể hiểu tổng quan về hệ thống.

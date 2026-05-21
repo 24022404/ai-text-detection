@@ -1,0 +1,1 @@
+Tập hợp các công nghệ a, PHP PHP là một ngôn ngữ lập trình phổ bến điược sử dụng điể phát trển các ứng dụng web động và tương tác với cơ sở dữ lệu. Nó điược thết kế điể thực hiện các tác vụ phía máy chủ, chẳng hạn như tạo trang web động, xử lý dữ lệu bểu mẫu và thao tác với cơ sở dữ lệu.

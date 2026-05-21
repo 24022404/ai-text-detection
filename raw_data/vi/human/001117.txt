@@ -1,0 +1,1 @@
+BartPho là mô hình đào tạo trước được phát triển bởi Nguyễn Lương Trân, Dương Minh Lê và Đạt Quốc Nguyễn thuộc VnAI.

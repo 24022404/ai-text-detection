@@ -1,0 +1,1 @@
+Tạ đây, người dùng có thể xem a đã có quyền truy cập và thay đổi các quyền truy cập của từng người dùng nếu cần.

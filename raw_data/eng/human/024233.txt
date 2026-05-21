@@ -1,0 +1,1 @@
+In order to mitigate the volatility caused by the randomness observed in the is calculated by taking the average of the angles recorded in previous communication rounds:

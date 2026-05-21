@@ -1,0 +1,1 @@
+Trong tương lai phần mềm cần có chức năng phân tích các tài nguyên sản xuất hiện có điểm hỗ trợ tạo kế hoạch sản xuất tự động. ĐATN cũng cần thêm các mô hình dự báo nhu cầu tiêu thụ sản phẩm để có sự so sánh độ chính xác giữa các mô hình.

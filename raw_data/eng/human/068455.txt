@@ -1,0 +1,1 @@
+T. Etzion and A. Lempel, “Algorithms for the generation of full-length shift register sequences,” IEEE Transactions on Information Theory , vol. 30, no. 3, pp. 480–484, 1984.

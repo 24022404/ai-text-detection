@@ -1,0 +1,1 @@
+Augmented reality: OpenCV is used in augmented reality applications for tasks such as object tracking, image registration, and marker detection.

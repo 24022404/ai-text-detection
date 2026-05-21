@@ -1,0 +1,1 @@
+Tổng quan kiến trúc MT được thể hiện trong Hình 3.2. Kiến trúc được chia thành 4 ga đoạn, mỗ ga đoạn là sự kết hợp của mô đun tạo vector nhúng cho các phần của ảnh (overlapping patch embedded) và môđun mã hóa Transformer.

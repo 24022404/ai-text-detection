@@ -1,0 +1,1 @@
+Qua hình vẽ chúng ta có thể thấy hệ thống microservice của Uber chia thành 8 service, trong đó có các service gao tập lập trình API cho server khác hay ứng dụng client gọi tớ: passenger management, bllng, passenger web u, driver management, payments, driver web u, trp management và notification.

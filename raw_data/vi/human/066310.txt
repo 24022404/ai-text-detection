@@ -1,0 +1,1 @@
+Bên cạnh đó, NodeJS tồn tại một và nhược điểm như việc triển khai trên Host không dễ dàng; NodeJS không sử dụng để xây dựng các ứng dụng nặng và tốn tài nguyên; thiếu sự kiểm duyệt chất lượng các module NodeJS. Một số công ty/tổ chức hiện đang sử dụng NodeJS có thể kể điển eBay, Microsoft, PayPal, Uber, Yammer,. . .

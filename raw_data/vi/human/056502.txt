@@ -1,0 +1,1 @@
+Security Assertion Markup Language Security Assertion Markup Language (SAML)  là một tiêu chuẩn dựa trên ngôn ngữ đánh dấu XML để xác thực người dùng trên Internet. SAML là 1 dạng triển khai Single Sign On (cùng vớ Open Authorization  OAUTH và Open Authorization 2  OAUTH2).

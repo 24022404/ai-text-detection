@@ -1,0 +1,1 @@
+The user interface is built using Reactjs for good and fast interoperability for web and mobile applications. Support admin to manage effectively, help employees have customer information, fastest suitable products, and help customers choose the most suitable product model.

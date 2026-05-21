@@ -1,0 +1,1 @@
+Nếu cả 2 người cùng follow thì sẽ hiển thị trên danh sách bạn bè. Người dùng chọn người muốn nhắn tin và thực hiện nhắn tin trao đổi.

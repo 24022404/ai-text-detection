@@ -1,0 +1,1 @@
+MongoDB cha các nhóm các dữ liệu thuộc cùng loại thành các collection. Sự khác nhau giữa collection và table trong các loại cơ sở dữ liệu quan hệ đó là collector không có ràng buộc, quan hệ với collection khác. Mỗ dữ liệu trong collection không cố định về số trường như row trong table. Do đó MongoDB có tính sẵn sàng cao, hiệu suất lớn và dễ dàng mở rộng lưu trữ.

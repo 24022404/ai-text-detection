@@ -1,0 +1,1 @@
+Mỗ khi thay đổi trạng thái một đối tượng, ví dụ lộ trình học hay khóa học thì hệ thống CMS điều phải tiến hành sao lưu dữ liệu đó vào collection lưu trữ phiên bản tương ứng của đối tượng. Do các dữ liệu sao lưu sẽ ngày một ga tăng khi hệ thống trở nên phát triển hơn nên việc tối ưu hiệu năng là một yêu cầu cấp thiết nhằm điểm lạ trải nghiệm tốt nhất cho phía người dùng cuối.

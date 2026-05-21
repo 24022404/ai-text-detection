@@ -1,0 +1,1 @@
+Mô tả yêu cầu: Đối với chức năng xem dòng đã qua xử lý, người dùng cần chọn camera và chức năng trước khi yêu cầu máy chủ trả về dòng hình ảnh. Nếu chưa hoàn tất các bước này, ứng dụng sẽ thông báo lỗi yêu cầu thao tác lạ. Sau khi lựa chọn thành công, ứng dụng sẽ hiển thị dòng hình ảnh đã qua xử lý cho người dùng.

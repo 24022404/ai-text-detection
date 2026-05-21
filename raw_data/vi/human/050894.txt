@@ -1,0 +1,1 @@
+Subnetwork là một mạng mới ra đời (Manet 03/05/2023) với một số ưu điểm như sau: Hiệu năng cao, Khả năng chịu lỗ tốt, luôn duy trì bảo mật trong các điều kiện mạng xấu, hoạt động độc cục bộ hiệu quả, truy vấn dữ liệu nhanh.

@@ -1,0 +1,1 @@
+Bây giờ chúng ta chạy một file có kích thước nhỏ 3x3 trên toàn bộ bản đồ đặc trưng này để dự đoán các hộp giới hạn và xác suất phân loại. SSD cũng sử dụng các hộp neo ở các tỷ lệ khung hình khác nhau tượng tự như Faster RCNN. Để xử lý tỷ lệ, SSD dự đoán các hộp giới hạn sau nhiều lần có dãn.

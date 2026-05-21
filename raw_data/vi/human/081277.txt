@@ -1,0 +1,1 @@
+Nguyên cứu và thực nghiệm ha mô hình học máy và học sâu cho bài toán phân tích sắc thái vớ độ khó là 3 nhãn tốt, trung bình và không tốt.

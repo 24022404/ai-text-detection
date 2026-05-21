@@ -1,0 +1,1 @@
+Lớp này yêu cầu component NavMeshAgent gắn vào game object của người chơ điểm có thể điều khiển được component này.

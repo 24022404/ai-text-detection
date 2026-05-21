@@ -1,0 +1,1 @@
+Tích hợp và gả phương trình vi phân: ScPy cung cấp chức năng để tính toán và gả các phương trình vi phân thông.

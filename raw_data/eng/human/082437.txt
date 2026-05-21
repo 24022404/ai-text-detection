@@ -1,0 +1,1 @@
+Theorem1 (Longest simple path ).LetC= min ( s−1, k−s−2). The length ofthe longest path in Gk,s,ℓ(Gk,s), is equal to U(k, s), where:

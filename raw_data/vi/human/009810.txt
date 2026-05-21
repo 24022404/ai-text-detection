@@ -1,0 +1,1 @@
+Kh truy cập vào trang web, chọn chức năng đăng nhập tài khoản Khi đó, người dùng nhập đầy đủ thông tin đăng nhập hiện tại gồm tên đăng nhập và mật khẩu trước khi nhấn vào button Đăng nhập Sau đó, trả về trang chủ và hiển thị thông báo "Bạn đã đăng nhập tài khoản thành công" 2. Acceptance Criteria 2:

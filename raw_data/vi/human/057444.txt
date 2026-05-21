@@ -1,0 +1,1 @@
+Khóa còn lạ đại diện cho chính hợp đồng, khóa này có va trò như một mã định danh kỹ thuật số duy nhất cho mỗ smart contract.

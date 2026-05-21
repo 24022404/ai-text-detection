@@ -1,0 +1,1 @@
+In recent years, pre-trained models have demonstrated remarkable performance when fine-tuned for specific tasks. After careful examination of the challenges at hand and the modern deep neural network models available, I have made the decision to adopt the PRIMERA model  for the following reasons:

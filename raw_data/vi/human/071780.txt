@@ -1,0 +1,1 @@
+Phiên bản Magento Open Source và Magento Commerce: Magento có hạ phiên bản chính: Magento Open Source (trước đây là Magento Community Edition)  miễn phí và có mã nguồn mở, Magento Commerce (trước đây là Magento Enterprise Edition)  phiên bản trả phí có nhiều tính năng cao cấp hơn.

@@ -1,0 +1,1 @@
+To deploy the app, create the deployment.yaml file in the same directory as your other files. The sample content of the file could be like:

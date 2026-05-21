@@ -1,0 +1,1 @@
+Ưu điểm của Reactjs cũng như Nodejs chính là sự dễ tiếp cận và học hỏi cũng như xây dựng hệ thống mà nó mang lại, vớ một cộng đồng phát triển lớn.

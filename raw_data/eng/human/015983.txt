@@ -1,0 +1,1 @@
+In terms of server configuration, the specifics are managed by Streamlit’s plat form. This includes allocating the necessary resources to ensure the app runs smoothly and efficiently. Users can access the application by simply visiting the provided URL, and Streamlit takes care of the rest.

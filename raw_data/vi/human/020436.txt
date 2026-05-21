@@ -1,0 +1,1 @@
+Tên trường Kiểu dữ lệu Ý nghĩa d Trong d của nhà hàng name Trong tên nhà hàng address_id String dđiịa chỉ của nhà hàng category_id String d danh mục của nhà hàng mage Trong ảnh mô tả của nhà hàng user_id Tostring d chủ nhà hàng Bảng 4.4: Mô tả chợ tết collection restaurants Ch tết collection menus được trình bày trong bảng sau:

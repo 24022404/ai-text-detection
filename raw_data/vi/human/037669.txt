@@ -1,0 +1,1 @@
+Model : Đây là thành phần có trách nhiệm định nghĩa và cung cấp các thao tác với cơ sở dữ lệu. Các lớp ở tầng Model sẽ cung cấp các phương thức mà tầng Controller sẽ sử dụng để thao tác với dữ lệu trong cơ sở dữ lệu và thực hiện các logc nghiệp vụ.

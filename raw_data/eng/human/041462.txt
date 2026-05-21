@@ -1,0 +1,1 @@
+Simplified error handling: With DTO, error handling can be simplified, making it easier to identify and fix issues that may arise when transferring data between different layers.

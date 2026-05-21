@@ -1,0 +1,1 @@
+Kết quả đạt được Sau khi tìm hiểu ra được gả pháp trên tác giả đã tích hợp được khả năng thanh toán cho trang web của mình. Hình 5.5 minh họa giao diện người dùng đang thanh toán bằng tài khoản Paypal.

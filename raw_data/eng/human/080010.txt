@@ -1,0 +1,1 @@
+Candidate box extraction Figure 3.4: Steps of candidate box estraction We developed this step based on Human Area Detection algorithm . After detecting bounding boxes of humans, the goal is to determine and crop areas (called candidate boxes) containing groups of humans. There are two sub-steps in this stage namely group finding and group cropping as depicted in Figure ??.

@@ -1,0 +1,1 @@
+Dướ điây là hình vẽ kiến trúc phân tầng của hệ thống dựa trên mô hình MVC:Hình 4.2: Kến trúc hệ thống quản lý thư vện.4.2 Thiết kế ch tết 4.2.1 Thiết kế giao diện Sau điây là thết kế giao diện của một số các chức năng của hệ thống.

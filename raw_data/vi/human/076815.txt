@@ -1,0 +1,1 @@
+OAuth2 (Open Authentication/Authorization)  là một phương thức chứng thực gúp các ứng dụng chia sẻ tài nguyên với nhau mà không cần chia sẻ thông tin như username, password.

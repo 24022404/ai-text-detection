@@ -1,0 +1,1 @@
+Khố gả mã sử dụng cơ chế tập chung vị trí (piston attention). Đầu ra của khối mã hóa sẽ được đưa vào trong khố này và trích xuất ra những đặc trưng để có thể dự đoán đầu ra. Ta có đầu ra của khối mã hoá được mô tả bằng công thức:

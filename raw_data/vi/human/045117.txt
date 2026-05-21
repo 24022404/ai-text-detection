@@ -1,0 +1,1 @@
+Chương 2 trình bày tổng quan về hệ thống và các chức năng chính trên hệ thống, từ đó phân tích ch tết từng chức năng và trình bày về các yêu cầu phi chức năng của hệ thống.

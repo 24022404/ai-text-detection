@@ -1,0 +1,1 @@
+Trong chương 2, em sẽ trình bày về các công nghệ được sử dụng trong ĐATN này và ứng dụng của chúng trong việc xây dựng các giải pháp được nêu ra ở mục 1.3.

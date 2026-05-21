@@ -1,0 +1,1 @@
+Before beginning analysis, the user is required to upload the Android APK file and configure the necessary analysis tools, whether they are for static or dynamic analysis, to ensure accurate results.

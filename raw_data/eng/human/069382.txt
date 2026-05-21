@@ -1,0 +1,1 @@
+The AOI in front of the oven can detect the problem (for external components only) and fix it right in front of the oven.

@@ -1,0 +1,9 @@
+Objective: Temporal Difference (TD) learning methods are central to reinforcement learning but often require careful tuning of step-size and auxiliary parameters to ensure stable, sample-efficient convergence—an impediment for real-world deployment. This paper introduces Parameter-Free Gradient Temporal Difference Learning (PF-GTD), a novel family of off-policy TD algorithms that eliminate manual hyperparameter selection while preserving theoretical guarantees.
+
+Methods: PF-GTD derives a dual-averaging update rule that automatically adapts its effective learning rate and eligibility-trace scalars from observed Bellman errors. By embedding gradient-based control of step-size into the GTD2 framework, PF-GTD maintains unbiased temporal-difference updates and provable convergence under standard Markovian sampling. The method further integrates a lightweight normalization scheme to prevent parameter drift without requiring user-specified thresholds.
+
+Results: We evaluate PF-GTD on classical benchmarks including Mountain Car, Four-Rooms navigation, and a suite of continuous-control tasks. Across all domains, PF-GTD matches or outperforms well-tuned baselines (GTD2, TDC, and conventional TD(λ)) in terms of sample efficiency and stability. Notably, PF-GTD delivers robust learning trajectories without any hyperparameter sweeps, reducing overall training time by up to 60%.
+
+Conclusion: PF-GTD offers a turnkey solution for off-policy value estimation, removing the barrier of step-size calibration. Its parameter-free design broadens the accessibility of gradient TD methods and paves the way for more reliable deployment of reinforcement learning in dynamic environments.  
+
+Keywords: Parameter-free learning; Gradient Temporal Difference; reinforcement learning; step-size adaptation; off-policy value estimation.

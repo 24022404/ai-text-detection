@@ -1,0 +1,1 @@
+Trong Chương 2 em sẽ trình bày đóng góp chính của đồ án về việc phân tích và thiết kế hệ thống website kinh doanh thiết bị mạng cho mô hình kinh doanh hộ gia đình vừa và nhỏ , sử dụng sơ đồ UML, các biểu đồ use case, biểu đồ hoạt động và tuần tự để làm rõ từng chức năng, hoạt động của người dùng cũng như quản trị viên hệ thống. Các chức năng sơ bộ điã điược nhắc điến ở Chương 1.

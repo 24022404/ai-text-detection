@@ -1,0 +1,1 @@
+Giả mạo định danh người dùng trong các hệ thống website (hay còn gọi là đánh lừa định danh người dùng) là một kỹ thuật tấn công phổ biến mà kẻ tấn công sử dụng để lừa đảo và đánh lừa người dùng trong việc tết lộ thông tin cá nhân hoặc truy cập vào các tài khoản của họ.

@@ -1,0 +1,1 @@
+Phân hệ ứng dụng và quản lý nền tảng: bao gồm 3 thành phần chính là một webserver được xây dựng bằng FastAPI cho backend và ReactJS cho frontend, một cơ sở dữ liệu người dùng được trển kha bằng MySQL Server .

@@ -1,0 +1,1 @@
+Gả pháp a, Tổng quan giải pháp Tổng quan giải pháp: Hệ thống sử dụng OAuth 2.0 để xác thực và ủy quyền truy cập vào API Cloud. Ở đây là API Google.

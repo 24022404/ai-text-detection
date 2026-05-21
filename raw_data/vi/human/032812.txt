@@ -1,0 +1,1 @@
+Sau điây đồ án sẽ trình bày các kịch bản kểm thử cho các chức năng của phân hệ quản lý và lập lịch trình tính toán chỉ báo gồm: chức năng tính toán chỉ báo và chức năng thêm mớ chỉ báo cá nhân.

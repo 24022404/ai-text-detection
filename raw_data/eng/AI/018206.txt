@@ -1,0 +1,1 @@
+The 'templates/' folder holds global templates like 'base.html' that are utilized across the entire project, promoting code reusability and streamlined design. Additionally, 'manage.py' serves as the main Django project file, handling essential tasks including server management, app creation, and database migrations.

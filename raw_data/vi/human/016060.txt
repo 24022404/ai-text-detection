@@ -1,0 +1,1 @@
+Chương 2 trình bày về quá trình xây dựng và thiết kế tổng thể nền tảng, các phân hệ trong nền tảng. Nộ dung bao gồm từ các kiến thức lý thuyết cơ bản về thị trường chứng khoán cho điến các sơ đồ thiết kế tổng quan cho toàn bộ nền tảng dữ lệu này.

@@ -1,0 +1,1 @@
+Y. H. Au's article examines generalized de Bruijn words, discussing their construction and connection to primitive words and word powers.

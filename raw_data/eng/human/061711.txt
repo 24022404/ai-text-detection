@@ -1,0 +1,1 @@
+Ticket Details Clicking on a ticket in the list view should open a detailedview. This view typically includes more comprehensive in formation about the ticket, such as the description of theissue, customer details, communication history, and any re lated attachments.

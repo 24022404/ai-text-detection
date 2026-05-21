@@ -1,0 +1,1 @@
+− EntityCollection<TEntity> và EntityReference<TEntty>: là các đi ốt tượng thể hiện mối quan hệ (relationship) giữa hà entity class. Mỗ đối tượng này có thể được truy xuất thông qua các property của entity class.

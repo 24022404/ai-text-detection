@@ -1,0 +1,1 @@
+Understanding: When a monolithic application scales up, it becomes toocomplicated to understand. Also, a complex system of code within one ap plication is hard to manage.

@@ -1,0 +1,9 @@
+Objective: Reward poisoning attacks, in which adversaries subtly alter reward signals, pose significant threats to reinforcement learning (RL) systems by degrading policy performance or inducing unsafe behaviors. This paper addresses the challenge of detecting and mitigating such attacks to safeguard RL agents in safety-critical applications.
+
+Methods: We propose a two-stage defense framework combining statistical anomaly detection with robust reward estimation. First, a lightweight monitoring module tracks reward distributions in real time, flagging suspicious reward sequences via dynamic thresholding and change-point analysis. Second, when anomalies are detected, a robust estimator reconstructs plausible reward signals using a dual-model approach: an unpoisoned reward predictor trained on trusted data and a consistency validator that cross-checks predicted rewards against recent observations. The defended RL agent retrains intermittently using corrected reward feedback to maintain policy integrity.
+
+Results: We evaluate our approach on benchmark environments including CartPole, LunarLander, and selected Atari games, under various poisoning strategies (random noise injection, targeted biasing, and stealthy manipulators). Experimental results demonstrate that our defense recovers up to 90% of the clean-policy performance under moderate attacks, outperforming baseline filters and robust RL algorithms by 25–40% in cumulative reward. Attack detection rates exceed 95% with low false-alarm ratios (<5%).
+
+Conclusion: The proposed framework effectively neutralizes reward poisoning threats with minimal computational overhead, preserving learning efficiency and policy safety. This work contributes a practical defense mechanism for RL deployments in autonomous systems, financial trading, and robotics.  
+
+Keywords: reinforcement learning; reward poisoning; adversarial attacks; anomaly detection; robust learning.

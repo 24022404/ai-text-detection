@@ -1,0 +1,1 @@
+TPR (true positive rate): Also known as recall or sensitivity. Is the ratio of casesthat are correctly classified as positive to the total number of cases that are actu ally positive. This index will evaluate the accuracy of the model’s prediction on positive. The higher its value, the better the model predicts on the positive group.

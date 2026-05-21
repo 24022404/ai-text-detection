@@ -1,0 +1,1 @@
+Moreover, by using the same spectral analysis, I answer the question of why the NCM classifier gives better performance than the Softmax classifier with CE loss. I find that spectral components with larger eigenvalues have better transferability, and CE loss does decrease the eigenvalues of spectral components, which leads to worse results.

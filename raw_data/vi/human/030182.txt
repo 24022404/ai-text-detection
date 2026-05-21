@@ -1,0 +1,1 @@
+Quá trình phát triển OAuth2 là kết quả của nhiều bước cả tên và mở rộng từ phiên bản cũ. Mục đích của hoạt động nghiên cứu nhằm đáp ứng nhu cầu sử dụng phức tạp và đa dạng của môi trường trực tuyến ngày nay.

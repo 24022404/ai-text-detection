@@ -1,0 +1,1 @@
+Chương 4 Hệ thống kiến trúc của Web: Trình bày mô hình kiến trúc của ứng dụng, thiết kế giao diện, đưa ra trình tự các bước xử lý trong hệ thống kh tác nhân thao tác và thiết kế cơ sở dữ liệu.

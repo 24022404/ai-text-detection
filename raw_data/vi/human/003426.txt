@@ -1,0 +1,1 @@
+Tính khả dụng và độ tin cậy cao: Mô hình client server cung cấp tính khả dụng và độ tin cậy cao, vì dữ liệu được lưu trữ trên máy chủ, không bị ảnh hưởng bởi sự cố trên máy khách. Ngoài ra, mô hình này cho phép máy chủ được bảo trì và nâng cấp một cách độc lập, không ảnh hưởng đến phía máy khách.

@@ -1,0 +1,1 @@
+Cơ bản nắm được các bước xây dựng một webste bán giày trực tuyến, thực hiện đúng quy trình và đáp ứng điầy đủ các yêu cầu. Xây dựng được thành công trang web sử dụng các ngôn ngữ và framework phù hợp.

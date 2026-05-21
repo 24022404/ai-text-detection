@@ -1,0 +1,1 @@
+Tính linh hoạt: Mô hình MVC cho phép thay đổi giao diện và mô hình dữ lệu mà không ảnh hưởng đến logic nghiệp vụ và ngược lạ.

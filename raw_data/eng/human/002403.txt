@@ -1,0 +1,1 @@
+Structured Report: A comprehensive, structured report combin ing all the findings from the different analysis phases. This report includes severity levels, actionable insights, and a summary of the application’s security posture.

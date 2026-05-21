@@ -1,0 +1,1 @@
+Results on lexicographically minimal de Bruijn sequence The lexicographically minimal de Bruijn sequence, or granddaddy sequenceas called by Knuth , is one the most interesting among other de Bruijn se quences. An example of granddaddy is provided in example 2.3.

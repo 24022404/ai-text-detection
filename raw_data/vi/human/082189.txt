@@ -1,0 +1,1 @@
+Mã code gồm có các thông tin như d (dùng để định danh), language (mã code hiện tại thuộc ngôn ngữ gì như C++, Java, Python), source_code chính là mã code của ngôn ngữ trên. Cuố cùng, người được chia sẻ phòng có các thông tin như user_id là d của người dùng được chia sẻ phòng, room là d của phòng được chia sẻ và access person là quyền truy cập của người dùng đó ở trong phòng.

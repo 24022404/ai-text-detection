@@ -1,0 +1,1 @@
+Vớ mối quan hệ thuật ngữ và tài liệu, trọng số sẽ là tần suất xuất hiện của thuật ngữ trong tài liệu đối. Với các mối quan hệ khác ví dụ: năm phát hành và tài liệu, tác giả của tài liệu và tài liệu, hội nghị phát hành của tài liệu và tài liệu thì trọng số sẽ có giá trị một.

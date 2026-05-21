@@ -1,0 +1,1 @@
+Dù vậy, điển xây dựng được ứng dụng Nodejs cũng đi hỏi nhiều kỹ năng cũng như công sức.Bên cạnh đó, Nodejs còn là kỹ năng thường xuyên được em sử dụng trong học tập và công việc. Đó chính là lý do tại sao em đã chọn sử dụng Expressjs điểm phát triển backend cho ứng dụng.

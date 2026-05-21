@@ -1,0 +1,1 @@
+Thiết kế giao diện Giao diện game được thiết kế trên màn hình có độ phân giải là 1920x1080 Full HD của màn hình máy tính.

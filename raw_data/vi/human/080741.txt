@@ -1,0 +1,1 @@
+Cơ sở dữ lệu –Thành phần cốt lõ của SQL Server là Cơ sở dữ lệu. Công cụ cơ sở dữ lệu bao gồm một công cụ quan hệ xử lý các truy vấn và một công cụ lưu trữ quản lý các tệp, trang, chỉ mục cơ sở dữ lệu, v.v. Các điố tượng cơ sở dữ lệu như thủ tục được lưu trữ, dạng xem và trình kích hoạt cũng được Công cụ cơ sở dữ lệu tạo và thực th.

@@ -1,0 +1,1 @@
+Tổng quan về hệ thống Hình 4.1 là sơ đồ tổng quan về hệ thống nền tảng dữ lệu khách hàng bao gồm đầy đủ các phân hệ mà nhóm sẽ thực hiện.

@@ -1,0 +1,1 @@
+MySQL là hệ quản trị cơ sở dữ lệu quan hệ mã nguồn mở được sử dụng rộng rãi. Nó có những ưu điểm nổi bật. Đầu tên, MySQL dễ sử dụng và cài đặt, phù hợp cho các dự án nhỏ và trung bình. Nó điã điược phát trển trong một thời gian dày và có một cộng đồng lớn các nhà phát triển và tài lệu hỗ trợ.

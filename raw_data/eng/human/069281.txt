@@ -1,0 +1,1 @@
+The GUI Manager library is built with a prefab that serves as an object managingthe entire GUI system of the game. All UI components in the game will be dynam ically loaded through the Resources folder to ensure performance, reusability, and consistency of the UI system.

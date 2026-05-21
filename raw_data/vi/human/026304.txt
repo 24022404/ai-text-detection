@@ -1,0 +1,1 @@
+Hệ thống sẽ kiểm tra thông tin, nếu đúng sẽ lưu thông tin bài viết vào database sau đó thông báo sửa bài viết thành công. Nếu sa sẽ yêu cầu điền lại form.

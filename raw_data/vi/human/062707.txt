@@ -1,0 +1,1 @@
+Overlord (Lãnh chúa) là tến trình làm nhệm vụ chấp thuận các tác vụ nhận dữ liệu vào Drud. Overlord có thể được chạy ở ha chế điộ local (tạ chỗ) và remote (từ xa). Kh chạy ở chế điộ local, Overlord chịu trách nhệm tạo các Peons điể thực th các tác vụ nhận dữ liệu. Overlord kh hoạt động local cần sự trợ giúp của Mddle Manager.

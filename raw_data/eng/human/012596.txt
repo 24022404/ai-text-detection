@@ -1,0 +1,1 @@
+Number of parameters in the model : There are approximately 110 million parameters in total, including 110 million from the feature extractor and very few parameters, compared to the feature extractor, from the softmax classifier and the projection in the SCL framework.

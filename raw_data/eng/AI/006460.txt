@@ -1,0 +1,1 @@
+Analysts test application security by modifying or injecting inputs to observe its behavior and uncover vulnerabilities related to input validation, like buffer overflows or improper error handling. This process helps ensure robust protection against potential attacks.

@@ -1,0 +1,1 @@
+docker run d p 9000:9000 p 9001:9001 e "MINIO_ROOT USER=root"  e "MINIO_ROOT_PASSWORD=[*****]" –name mpns v /mn odata:/data mno/mno server /data –console address ":9001"Tạo dải địa chỉ mạng trong Docker và kết nối với container chạy MySQL:

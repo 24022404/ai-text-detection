@@ -1,0 +1,1 @@
+Theorem 1 establishes that for the graph Gk,s, the longest simple path has length ℓ(Gk,s) = U(k, s), where C is min(s−1, k−s−2).

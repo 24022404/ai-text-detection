@@ -1,0 +1,1 @@
+Tổng hợp những bài học kinh nghiệm mà em rút ra được Quản lý cấu trúc phần mềm, quản lý code, phân chia module, tá sử dụng mã nguồn. Bằng cách áp dụng những kiến thức đã được học ở môn mẫu thiết kế phần mềm.

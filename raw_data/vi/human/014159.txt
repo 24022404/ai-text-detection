@@ -1,0 +1,1 @@
+Độc lập với cơ sở dữ lệu: bạn có thể thay đổi từ Oracle hoặc Sql Server thành Mongodb, BigTable, CouchDB hoặc bất kỳ hệ quản trị cơ sở dữ lệu nào.

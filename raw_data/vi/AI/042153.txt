@@ -1,0 +1,1 @@
+Tập S gồm các xâu độ dài n trên bảng chữ cái Σ sao cho không chứa một chuỗi con độ dài q−1 theo chu kỳ.

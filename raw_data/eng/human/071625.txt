@@ -1,0 +1,1 @@
+Besides, for each s-RLL sequence x= (x1,..., x k)∈W(k, s), its prefix and suffix, (x1, . . . , x k−1)and(x2, . . . , x k), are both s-RLL sequence of length k−1.

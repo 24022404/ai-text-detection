@@ -1,0 +1,1 @@
+User: This entity stores values related to login and defines the role of the user, which can be either ’customer’ or ’provider’.

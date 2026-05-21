@@ -1,0 +1,1 @@
+PHP có hỗ trợ lập trình hướng điố tượng. Trong toàn bộ dự án, em điều sử dụng phương pháp lập trình hướng điố tượng.

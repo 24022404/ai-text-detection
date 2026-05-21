@@ -1,0 +1,1 @@
+Middleware: Đây là một trong những điểm mạnh nhất của Express. Middleware cho phép bạn mở rộng chức năng của ứng dụng bằng cách thêm các thành phần xử lý yêu cầu như logging, xác thực, và nén dữ liệu một cách dễ dàng.

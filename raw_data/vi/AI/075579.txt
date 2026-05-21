@@ -1,0 +1,7 @@
+Sóng hài lan truyền qua máy biến áp phân phối là một vấn đề quan trọng trong lĩnh vực điện lực. Sóng hài là những sóng điện áp không mong muốn có tần số cao, thường gây ra các vấn đề về độ tin cậy và hiệu suất của hệ thống điện.
+
+Máy biến áp phân phối là một phần quan trọng của hệ thống điện, giúp phân phối điện năng đến các khu vực dân cư và công nghiệp. Tuy nhiên, khi máy biến áp phân phối hoạt động, nó có thể tạo ra sóng hài lan truyền qua hệ thống điện.
+
+Phân tích sóng hài lan truyền qua máy biến áp phân phối giúp xác định nguyên nhân và mức độ ảnh hưởng của sóng hài đến hệ thống điện. Kết quả phân tích này có thể giúp các nhà quản lý hệ thống điện thực hiện các biện pháp để giảm thiểu tác động của sóng hài và đảm bảo độ tin cậy và hiệu suất của hệ thống điện.
+
+Các phương pháp phân tích sóng hài lan truyền qua máy biến áp phân phối bao gồm sử dụng phần mềm mô phỏng, đo lường và phân tích dữ liệu thực tế. Kết quả phân tích này có thể giúp các nhà quản lý hệ thống điện thực hiện các biện pháp để giảm thiểu tác động của sóng hài và đảm bảo độ tin cậy và hiệu suất của hệ thống điện.

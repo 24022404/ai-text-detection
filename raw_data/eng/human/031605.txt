@@ -1,0 +1,1 @@
+Solution With the limitation of this Thesis, we decided to go with a third party service that could help me deal with this problem. There are many paid services like Speechace can provide us with such features. After researching, we found out that Microsoft has the Azure Cognitive Services, which provides many speech-to-text features.

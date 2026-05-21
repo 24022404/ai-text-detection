@@ -1,0 +1,1 @@
+By comparing the accuracy of training techniques, we can see that: Among the deep learning techniques, the image-based pre-trained models, specifically ResNet152and VGG-19, perform the best, with VGG-19 correctly classifying over 92 per cent of the samples. The best of our other image-based models (i.e., those not pre-trained) achieved just under 90 percent accuracy.

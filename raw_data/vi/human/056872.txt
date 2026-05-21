@@ -1,0 +1,1 @@
+Tính năng quản lý, xác thực tài khoản người dùng: Cho phép người dùng đăng nhập và sử dụng công cụ, cũng như quản lý tài khoản của bản thân.

@@ -1,0 +1,5 @@
+Góc ma sát trong của đất cát là một yếu tố quan trọng trong xây dựng và công trình địa kỹ thuật. Để xác định góc ma sát trong này, các nhà khoa học đã thực hiện thí nghiệm nén một trục không nở hông. Thí nghiệm này nhằm mục đích đo lường lực cần thiết để gây ra sự nén một trục trong đất cát mà không làm cho đất cát nở hông.
+
+Quá trình thí nghiệm bao gồm việc đặt một trục kim loại vào trong đất cát và sau đó áp dụng lực lên trục để gây ra sự nén. Lực cần thiết để gây ra sự nén này được đo lường và sử dụng để tính toán góc ma sát trong của đất cát.
+
+Kết quả thí nghiệm cho thấy rằng góc ma sát trong của đất cát phụ thuộc vào nhiều yếu tố như độ ẩm, mật độ và loại đất cát. Các kết quả này có thể được sử dụng để dự đoán và kiểm soát sự nén đất cát trong các công trình địa kỹ thuật, từ đó đảm bảo an toàn và hiệu quả cho các công trình này.

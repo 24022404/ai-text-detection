@@ -1,0 +1,1 @@
+Ladhak, Faisal and Durmus, Esin and Cardie, Claire and McKeown, Kathleen, Wikilingua: A new benchmark dataset for cross-lingual abstractive summarization , 2020. DOI:10.48550/ARXIV .2010.03093 .

@@ -1,0 +1,1 @@
+Mô hình BERT nhờ cách tạo ra các biểu diễn theo ngữ cảnh dựa vào từ đứng trước và đứng sau nó đã tạo ra một mô hình ngôn ngữ và ngữ nghĩa phong phú.

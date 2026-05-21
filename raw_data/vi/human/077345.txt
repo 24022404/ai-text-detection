@@ -1,0 +1,1 @@
+Yêu cầu về khả năng mở rộng Hệ thống cần có khả năng mở rộng hiệu quả, đáp ứng được sự phát triển tính năng và sự gia tăng của số lượng người sử dụng.Trong phần này, tô trình bày các công nghệ được áp dụng trong quá trình nghiên cứu và xây dựng hệ thống. Mỗ công nghệ sẽ được trình bày mô tả ngắn gọn và giả thích lý do lựa chọn công nghệ đió.

@@ -1,0 +1,1 @@
+Bộ dữ liệu huấn luyện và kiểm thử mô hình bao gồm 5 bộ dữ liệu với các thông số được mô tả trong Bảng 4.1: Kvass , CVCClnc DB , CVCColon DB , EndoScene  và ETIS Lab Polyp DB . Đây là những bộ dữ liệu mở chứa ảnh nội soi polyp đại tràng, được sử dụng phổ biến trong cộng đồng nghiên cứu:

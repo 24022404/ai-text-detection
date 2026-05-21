@@ -1,0 +1,1 @@
+Tiếp theo, dùng thuật toán watershed để tách các ký tự ra nhằm tạo ra hộp giới hạn mức độ ký tự.

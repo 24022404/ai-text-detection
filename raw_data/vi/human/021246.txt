@@ -1,0 +1,1 @@
+Nhân viên bán hàng tạo đơn hàng trên hệ thống với thông tin về sản phẩm, số lượng, khách hàng, hình thức thanh toán.

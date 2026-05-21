@@ -1,0 +1,1 @@
+Đều này có nghĩa là, điể hỗ trợ các giao dịch meta trong ứng dụng của bạn, bạn cần duy trì quá trình chuyển tếp  hoặc tận dụng mạng chuyển tếp phi tập trung.

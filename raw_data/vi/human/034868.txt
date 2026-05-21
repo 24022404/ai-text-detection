@@ -1,0 +1,1 @@
+Mong: Ga đoạn này được thực hiện sau khi khởi tạo xong. Đây là quá trình gắn React element (Virtual DOM) của một component vào Real DOM điểm thể hiện kết quả lên trình duyệt.Mounting có 3 phương thức là: componentWillMount, render, componentDidMount.

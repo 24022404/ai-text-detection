@@ -1,0 +1,1 @@
+Tổng hợp số lệu nhóm theo date and hour, số lượt xem sẽ là số lượng bản gh, số người dùng là số lượng bản ghi không lặp lại dựa trên trường gud.

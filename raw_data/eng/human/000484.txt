@@ -1,0 +1,1 @@
+Main scenario (success)ON Actors Actions 1User Click the "Create post" button, and the 2System Display create post form interface 3User Enters the content of the post, uploads files, add destination and then click "Post" button.

@@ -1,0 +1,1 @@
+Hỗ trợ tốt cho cơ sở dữ liệu: PHP tương thích tốt với nhiều cơ sở dữ liệu như MySQL, PostgreSQL, SQLite, và có thể kết hợp dễ dàng với chúng.

@@ -1,0 +1,1 @@
+Routes : Là thiết kế giao diện của các màn hình trong hệ thống. Mỗ một class trong gió tương ứng với một màn hình của hệ thống.

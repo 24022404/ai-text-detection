@@ -1,0 +1,1 @@
+Giới thiệu JavaScript là một ngôn ngữ lập trình thông dịch, đia mục đích và mã nguồn mở được sử dụng phổ biến trên web. Ban điầu, JavaScript được tạo ra để thêm tính năng tương tác vào các trang web, nhưng ngày nay, nó đã phát triển thành một ngôn ngữ lập trình mạnh mẽ, được sử dụng điểm phát triển cả phía người dùng và phía máy chủ.

@@ -1,0 +1,11 @@
+Tối ưu hóa biên dạng cánh máy bay trong dòng chảy cận âm là một vấn đề quan trọng trong thiết kế và phát triển máy bay. Cánh máy bay là một phần quan trọng của máy bay, chịu trách nhiệm tạo ra lực nâng và ổn định trong quá trình bay.
+
+Tuy nhiên, khi cánh máy bay di chuyển trong dòng chảy cận âm, nó sẽ tạo ra một vùng áp suất thấp và áp suất cao, dẫn đến sự xuất hiện của các hiện tượng như sóng áp suất và dòng chảy xoáy. Những hiện tượng này có thể gây ra sự mất ổn định và giảm hiệu suất của máy bay.
+
+Để tối ưu hóa biên dạng cánh máy bay trong dòng chảy cận âm, các nhà khoa học và kỹ sư đã thực hiện nhiều nghiên cứu và thí nghiệm. Họ đã phát triển các phương pháp tính toán và mô phỏng để dự đoán và phân tích các hiện tượng xảy ra trên cánh máy bay.
+
+Một trong những phương pháp được sử dụng rộng rãi là phương pháp tính toán dòng chảy phức tạp. Phương pháp này sử dụng các phương trình toán học để mô tả và giải quyết các vấn đề liên quan đến dòng chảy trên cánh máy bay.
+
+Kết quả nghiên cứu cho thấy rằng, bằng cách tối ưu hóa biên dạng cánh máy bay, có thể giảm thiểu sự xuất hiện của các hiện tượng như sóng áp suất và dòng chảy xoáy, dẫn đến sự cải thiện hiệu suất và ổn định của máy bay.
+
+Tóm lại, tối ưu hóa biên dạng cánh máy bay trong dòng chảy cận âm là một vấn đề quan trọng trong thiết kế và phát triển máy bay. Các phương pháp tính toán và mô phỏng đã được sử dụng để dự đoán và phân tích các hiện tượng xảy ra trên cánh máy bay, và kết quả nghiên cứu cho thấy rằng, bằng cách tối ưu hóa biên dạng cánh máy bay, có thể cải thiện hiệu suất và ổn định của máy bay.

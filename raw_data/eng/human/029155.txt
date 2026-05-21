@@ -1,0 +1,1 @@
+View Permissions : This sub-use case enables users to review the permissions requested or declared by the uploaded file. The permissions provide insightsinto the level of access and control the file seeks over system resources, which can help identify potential privacy or security concerns.

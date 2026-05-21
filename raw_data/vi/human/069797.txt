@@ -1,0 +1,1 @@
+Đề tài hướng đến xây dựng một Ontology về các địa điểm du lịch, từ đó xây dựng hệ thống tra cứu và hỏi đáp về các thông tin liên quan đến du lịch ở Hà Nội.

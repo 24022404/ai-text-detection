@@ -1,0 +1,1 @@
+Hệ thống website kinh doanh thiết bị mạng được xây dựng với mục tiêu cung cấp một nền tảng trực tuyến toàn diện và chuyên nghiệp cho mô hình kinh doanh thiết bị mạng hộ gia đình vừa và nhỏ  trong việc quảng bá sản phẩm và tăng cường doanh số bán hàng. Để đạt được mục tiêu này, đề xuất hệ thống bao gồm các nội dung sau :

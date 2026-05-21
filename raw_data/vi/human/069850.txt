@@ -1,0 +1,1 @@
+Trong Chương 3, sẽ giới thiệu về các công nghệ được sử dụng trong đồ án, lí do tại sao chọn công nghệ đó, có gả pháp thay thế cho các công nghệ được lựa chọn đi ấy không và đưa ra giả thích sự phù hợp của công nghệ đối với điều là ứng dụng.

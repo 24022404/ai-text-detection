@@ -1,0 +1,1 @@
+Thành phần model lưu trữ dữ lệu và logc lên quan của nó. Bao gồm các hàm xử lý các tác vụ như truy vấn, thêm, sửa hoặc xóa dữ lệu. Nó thao tác với dữ lệu trên Server thông qua API hoặc dữ lệu lưu trên thết bị sau đió sử dụng nó điể hển thị dữ lệu.

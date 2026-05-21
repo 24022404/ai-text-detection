@@ -1,0 +1,5 @@
+Màng mỏng InSb được tạo ra trên đế c-Sapphire bằng phương pháp lăng động LASE, sau đó được nghiên cứu về tính chất quang. Kết quả cho thấy màng InSb có độ dày khoảng 100 nm và độ tinh khiết cao. Các phép đo quang phổ cho thấy màng InSb có phổ hấp thụ tương tự như InSb tinh thể, với các vạch hấp thụ mạnh ở vùng hồng ngoại.
+
+Kết quả đo điện trở suất của màng InSb cho thấy nó có điện trở suất cao, gần như bằng với InSb tinh thể. Các phép đo về tính chất quang khác như độ phản xạ và độ hấp thụ cũng được thực hiện và cho thấy màng InSb có tính chất quang tương tự như InSb tinh thể.
+
+Tổng kết, màng mỏng InSb được tạo ra trên đế c-Sapphire bằng phương pháp lăng động LASE có tính chất quang tương tự như InSb tinh thể, với độ dày khoảng 100 nm và độ tinh khiết cao. Kết quả này cho thấy khả năng ứng dụng của màng InSb trong các thiết bị điện tử và quang điện tử.

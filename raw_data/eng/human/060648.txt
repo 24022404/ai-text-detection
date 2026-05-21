@@ -1,0 +1,1 @@
+BERT Large — 24 layers (transformer blocks), 16 attention heads, 340 million parameters, and has an output size of 1024-dimensions.

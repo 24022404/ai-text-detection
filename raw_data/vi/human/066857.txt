@@ -1,0 +1,1 @@
+Đầu ra của chương trình là dữ lệu về sở thích dài hạn của khách hàng sẽ được lưu dưới dạng một chuỗi là danh sách các mã định danh thể loại vào cột long hobbes trong bảng 4.1. Ví dụ " 1 , 3 , 7 " .

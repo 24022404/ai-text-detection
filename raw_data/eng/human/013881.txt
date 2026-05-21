@@ -1,0 +1,1 @@
+Ant currently has over 51k stars on Github. Ant Design for React can be considered as a collection of most React libraries. It meets most of your project’s requirements without you having to install any additional libraries.

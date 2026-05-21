@@ -1,0 +1,1 @@
+Doman: quanAn  Các thuộc tính mô tả thông tin về quán ăn gồm –Thuộc tính tenGanAn : tên nhà hàng, quán ăn.

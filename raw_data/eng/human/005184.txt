@@ -1,0 +1,1 @@
+There are two characters in this scene, which are the player and his opponent. Theplayer needs to move to the floating popup to purchase the food with the price labeled below to use as bait, and then move to the animal to catch it. There is also an upgrade button on the left for the player to spend money on upgrading main character’s stats.

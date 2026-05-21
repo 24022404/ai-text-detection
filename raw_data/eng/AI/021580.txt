@@ -1,0 +1,1 @@
+In Odoo, controllers serve as a bridge between the model and the view by managing data flow, processing user interactions, and generating appropriate responses. Unlike stricter MVC frameworks where controllers are explicitly defined, Odoo implements them more flexibly, embedding their logic within the Python codebase to manage interactions smoothly.

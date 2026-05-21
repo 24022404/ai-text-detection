@@ -1,0 +1,1 @@
+Dữ lệu giao dịch của các mã cổ phếu sau khi được định kì thu thập sẽ được lưu lạ trong cơ sở dữ lệu. Từ điây, các chỉ báo sẽ được tính toán dựa theo công thức tương ứng. Sau khi quá trình tính toán hoàn tất, giá trị của các chỉ báo sẽ được lưu vào cơ sở dữ lệu điể dễ dàng hển thị cho người dùng. Ngoà ra phân hệ cũng sẽ điáp ứng yêu cầu tạo mớ chỉ báo của người dùng.

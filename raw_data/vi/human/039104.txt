@@ -1,0 +1,1 @@
+Sau khi xây dựng và thực nghiệm hà mô đun phát hiện và sửa lỗi chính tả, em sẽ tiến hành phát triển một hệ thống sử dụng ha mô đun để ngắm tích hợp với hệ thống phát hiện sao chép của trường Công Nghệ Thông Tin và Truyền Thông.

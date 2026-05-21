@@ -1,0 +1,1 @@
+Chương 4: Xây dựng hệ thống Trình bày về thiết kế hệ thống gồm: Mô hình tổng quan và mô hình hóa cấu trúc.

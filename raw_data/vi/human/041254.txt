@@ -1,0 +1,1 @@
+Nhà tuyển dụng : đóng vai trò tham gia sử dụng các tính năng, tiện ích được cung cấp từ hệ thống dành cho nhà tuyển dụng. Sau khi đăng nhập, nhà tuyển dụng có thể tạo, sửa, xóa công việc của công ty mình; tìm kiếm ứng viên, đánh dấu các ứng viên tiềm năng, quản lý các đơn ứng tuyển, quản lý tài khoản, gửi góp ý cho người quản trị hệ thống.

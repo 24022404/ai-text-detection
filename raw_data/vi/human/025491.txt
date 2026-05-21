@@ -1,0 +1,1 @@
+STT Tên trường Kiểu dữ lệu Mô tả 1 hour String Thờ gan phân tích, điến hàng gờ, ví dụ "20220415 14" 2 user Integer Số người dùng 3 new Integer Số lượt xem Xử lý: Cần xử lý xâu thờ gan lấy đến hàng giờ, sau đó tổng hợp số lệu theo gờ. Số lượt xem sẽ là số lượng bản gh, số người dùng là số lượng bản ghi không lặp lại dựa trên trường gud.

@@ -1,0 +1,1 @@
+alureon, fakerean, hotbar, lolyda, ongames, rbot, startpage, zeroaccess:Figure 4.3: Confusion matrix of Random Forest experiment These classes have high accuracy with low false positive and false negative rates.

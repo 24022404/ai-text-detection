@@ -1,0 +1,1 @@
+XAMPP XAMPP là chương trình tạo web server được ứng dụng trên các hệ điều hành Lnux, MacOS, Wndows, Crossplatform, Solars. XAMPP hoạt động dựa trên sự tích hợp của 5 phần mềm chính là CrossPlatform(X), Apache(A), MaraDB(M), PHP(P) và Perl(P) .

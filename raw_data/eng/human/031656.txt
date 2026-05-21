@@ -1,0 +1,1 @@
+Loss function Training artificial neural networks is similar to how humans learn. We feed thedata model, it makes a prediction, and we respond whether the prediction is cor rect or not. Based on the feedback, the model can correct previous mistakes. This process is repeated until the model reaches a certain accuracy.

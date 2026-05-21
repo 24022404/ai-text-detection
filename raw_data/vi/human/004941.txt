@@ -1,0 +1,1 @@
+Thiết kế kiến trúc: Công cụ cung cấp các biểu đồ như Class Diagrams, Component Diagrams, và Deployment Diagrams điểm thiết kế kiến trúc phần mềm một cách tổ chức và hiệu quả.

@@ -1,0 +1,1 @@
+Tên Use case Mô tả tóm tắt Nhận báo cáo Quản trị viên có thể xem báo cáo từ danh sách các báo cáo hoặc thông qua thông báo.

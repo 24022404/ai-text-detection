@@ -1,0 +1,9 @@
+Objective: Generative Adversarial Networks (GANs) have become a cornerstone of unsupervised deep learning, yet practitioners face challenges in selecting the most appropriate variant for specific image synthesis and translation tasks. This paper presents a systematic comparative study of leading GAN architectures to clarify their relative strengths and limitations.
+
+Methods: We evaluate five representative models—DCGAN, WGAN-GP, LSGAN, CycleGAN, and StyleGAN2—across standardized benchmarks including CIFAR-10 image generation, unpaired style transfer on the Horse↔Zebra dataset, and high-resolution face synthesis on CelebA-HQ. Performance is measured using Fréchet Inception Distance (FID), Inception Score (IS), training stability metrics, and computational efficiency.
+
+Results: StyleGAN2 consistently achieves the best image fidelity (average FID = 7.4) and perceptual realism, while WGAN-GP demonstrates superior training stability with moderate resource consumption. DCGAN offers the fastest convergence but exhibits limited diversity (IS = 5.1). CycleGAN excels in unpaired translation tasks, yielding high structural consistency without paired data. LSGAN strikes a balance between image quality and training robustness.
+
+Conclusion: Our study provides actionable insights into the trade-offs among GAN variants, guiding researchers and engineers in model selection based on task requirements and computational constraints. Future work will extend this comparative framework to video synthesis and multimodal generation.
+
+Keywords: Generative Adversarial Networks, DCGAN, WGAN-GP, CycleGAN, StyleGAN2, image synthesis, deep learning.

@@ -1,0 +1,1 @@
+Lớp OrganzatonVewSet: thực hiện các nhiệm vụ xử lý và tương tác với các đối tượng Organization.d, Thiết kế cho tết có Ste Hình 4.7: Thiết kế góc Ste Hình 4.7 mô tả thiết kế cho tết của gió Ste.

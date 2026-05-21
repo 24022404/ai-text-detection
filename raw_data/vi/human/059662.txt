@@ -1,0 +1,1 @@
+Chương 3 trình bày về các công nghệ, cơ sở lý thuyết của các công nghệ, ưu nhược điểm của nó, cách áp dụng nó vào đồ án này như thế nào và vì sao lạ lựa chọn nó.

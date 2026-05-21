@@ -1,0 +1,1 @@
+ReactJS không chỉ hoạt động trên phía client mà còn có thể được render trên server và có thể kết nối với nhau. ReactJS so sánh sự thay đổi giữa các giá trị của lần render hiện tại vớ lần render trước và cập nhật những thay đổi nhỏ nhất lên DOM.

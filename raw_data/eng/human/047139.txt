@@ -1,0 +1,1 @@
+Supervised learning models can be used to build and advance a number of business applications, such as, image- and object-recognition, customer sentiment analysis, spam detection, etc. Common classification algorithms are ar classifiers, support vector machines (SVM), decision trees, k-nearest neighbours, and random forest, which are described in more detail below.

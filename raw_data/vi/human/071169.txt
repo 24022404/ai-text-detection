@@ -1,0 +1,1 @@
+Thiết kế luồng tính toán Vớ yêu cầu tính toán như vậy, luồng thực th của một trình tính toán được thể hiện qua sơ đồ sau:TOÁN CHỈ BÁO Hình 4.2: Luồng thực th của một trình tính toán chỉ báo Dựa vào luồng thực th này, các class chính được xây dựng theo bểu đồ lớp dưới điây:

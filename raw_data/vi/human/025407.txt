@@ -1,0 +1,1 @@
+Bến đổ Ánh sáng : Lạ bến đỗ nảy mô phỏng các điều kiện ánh sáng khác nhau, như thay đổi hướng ánh sáng, cường độ, hoặc màu sắc. Đều này rất quan trọng vì các mô hình nhận diện khuôn mặt nên mạnh mẽ trước sự thay đổi về ánh sáng.

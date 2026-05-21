@@ -1,0 +1,1 @@
+As the results, the accuracy for train is 0.9294 and for test is 0.8955. After 2D CNN experiments, I have noted that Obfuscator family is the most difficult to detect again.

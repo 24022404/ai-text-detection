@@ -1,0 +1,1 @@
+Nơ sử dụng Trong đồ án này, tô sử dụng Facenet điển trích xuất đặc trưng của khuôn mặt khách hàng, từ đó tiến hành phân tích, đưa ra kết quả điểm nhận diện khách hàng trong cửa hàng.

@@ -1,0 +1,1 @@
+Each text is represented as a vector (array) of integers, with a size equal to the number of words in the dictionary. The value at each position in the vector corresponds to the number of times that word appears in the text.

@@ -1,0 +1,1 @@
+Nếu thông tin không hợp lệ, hệ thống hiển thị thông báo lỗ và yêu cầu khách hàng nhập lại.

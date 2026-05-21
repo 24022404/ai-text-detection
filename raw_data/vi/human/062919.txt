@@ -1,0 +1,1 @@
+Danh sách các loại Box: Thành phần hiển thị 3 loại Box vớ 3 gá tiền khác nhau điểm người dùng mua và mnt.Hình 4.6: Thiết kế thành phần giao diện màn Mnt Box d, Thiết kế thành phần giao diện màn hình Cho Màn hình Chợ được chia thành 2 thành phần con như Hình 4.7. Bao gồm:

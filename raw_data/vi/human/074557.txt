@@ -1,0 +1,1 @@
+Sự kiện kích hoạt Người dùng nhấn vào chức năng nhận diện loài vật trên màn hình Tên điều kiện Tác nhân điã điăng nhập vào hệ thống Luồng sự kiện chính 1. Tác nhân nhấn vào chức năng nhận diện loài vật.

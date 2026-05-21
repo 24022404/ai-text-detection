@@ -1,0 +1,1 @@
+Thông thường, JavaScript có thể được nhúng trực tiếp vào tệp HTML thông qua cặp thẻ <script></script>. Còn một cách khác đó là tham chiếu thông qua tệp có đuôi s hoặc .JavaScript. Khi trình duyệt truy cập trang web, mã nguồn JavaScript sẽ được tải xuống và được trình duyệt xử lý mà không cần phản hồi từ máy chủ.

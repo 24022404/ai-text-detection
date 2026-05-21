@@ -1,0 +1,1 @@
+Từ khóa cho thuộc tính rdfs:domain và rdfs:range : Các giới hạn bền và phạm v cho phép hạn chế các tài nguyên có thể áp dụng thuộc tính và giá trị của thuộc tính.

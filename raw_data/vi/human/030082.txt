@@ -1,0 +1,1 @@
+Tích hợp tốt với các hệ thống mã nguồn mở: PHP phát triển song song với nhiều dự án mã nguồn mở như Apache, Nginx và Linux, tạo điều kiện thuận lợi để triển khai ứng dụng PHP trên các hệ thống mã nguồn mở phổ biến.

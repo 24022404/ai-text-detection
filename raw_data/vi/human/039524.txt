@@ -1,0 +1,1 @@
+Trình bày nội dung: HTML cung cấp các thẻ để trình bày và định dạng nội dung trên một trang web như chữ in đậm, chữ n nghiêng, bảng, danh sách, v.v.

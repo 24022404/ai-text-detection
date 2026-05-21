@@ -1,0 +1,1 @@
+Dưới đây là minh họa các thể hiện của lớp địa điểm du lịch và các thuộc tính, quan hệ của một thể hiện cụ thể trong lớp địa điểm du lịch.

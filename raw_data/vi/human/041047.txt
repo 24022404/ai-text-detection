@@ -1,0 +1,1 @@
+Cuố cùng, các giá trị điầu ra được truyền qua lớp kết nối điầy điủ và hàm softmax được sử dụng để tính xác suất dự đioán ảnh đó thuộc về lớp nào. Quá trình này được mnh họa trong Hình 2.10.

@@ -1,0 +1,1 @@
+Về mặt Gao diện, em sẽ xây dựng component điể mỗ kh một điố tượng trển kha customfelds có thể sử dụng lạ component mà không cần phải vết lạ từ điầu.6.1 Kết luận Xuất phát từ mong muốn xây dựng một hệ thống quản lý thư vện, em đã thực hiện điề tà "Hệ thống quản lý thư vện" . Quá trình tìm hiểu, khảo sát, phân tích và thết kế điã điược em nêu rõ trong đồ án tốt nghệp này.

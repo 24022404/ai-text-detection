@@ -1,0 +1,1 @@
+GPU acceleration: Keras can be run on GPUs, which allows for faster training times and the ability to work with larger datasets.

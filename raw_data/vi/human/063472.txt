@@ -1,0 +1,1 @@
+Use case quản lý bạn bè: người dùng có thể xem danh sách bạn bè, danh sách lờ mờ kết bạn, gửi lời mờ kết bạn, chấp nhận hoặc xóa bỏ lời mời kết bạn.•Use case quản lý thông tin cá nhân: người dùng có thể xem thông tin cá nhân điã điăng ký, chỉnh sửa thông tin cá nhân, thay đổi avatar.

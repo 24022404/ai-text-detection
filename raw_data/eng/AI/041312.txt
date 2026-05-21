@@ -1,0 +1,1 @@
+Cross-entropy is a metric that quantifies the difference between probability distributions and serves as a primary loss function for machine learning classification tasks. In this project, models are trained using datasets from Kaggle, leveraging cross-entropy to optimize prediction accuracy.

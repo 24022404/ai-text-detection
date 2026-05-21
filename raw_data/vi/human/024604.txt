@@ -1,0 +1,1 @@
+Cùng với sự mở rộng của cơ sở tri thức, hệ thống tra cứu và hỏi đáp cũng có khả năng bổ sung thêm nhiều chức năng mớ điểm người dùng có thể trải nghiệm. Chatbot có thể thêm ý định và cải thiện độ chính xác nhờ sự gia tăng của dữ liệu. Thu thập các cầu đầu vào của người dùng để huấn luyện chatbot, tạo ra nhiều kịch bản mớ.

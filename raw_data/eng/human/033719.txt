@@ -1,0 +1,1 @@
+Malware (or Malicious Software) is any programs or files that intentionallyharmful to a computer, network or server. Malware can infect networks and de vices and is designed to harm those devices, networks and their users in some way depending on type of malware and its goal.

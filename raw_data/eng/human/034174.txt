@@ -1,0 +1,1 @@
+The scope of this thesis will cover the full development cycle of the Androlyzer framework, from the initial design to implementation and evaluation. The main features will include:

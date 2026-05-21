@@ -1,0 +1,9 @@
+The paper addresses the challenge of reducing artifacts in Cone Beam Computed Tomography (CBCT) images acquired using sparse-view sampling. This issue is critical in medical imaging, where high-quality images are essential for accurate diagnosis and treatment planning.
+
+Methods/Approach: We propose an innovative adversarial learning framework that leverages deep convolutional neural networks to enhance image quality by minimizing artifacts associated with sparse-view CBCT. Our approach utilizes an adversarial training method, where a generator network is tasked with reconstructing artifact-free images, while a discriminator network aims to differentiate between real artifact-free images and generated ones. This setup encourages the generator to produce more realistic and artifact-free outputs.
+
+Results/Findings: The proposed method demonstrates superior performance in reducing artifacts compared to traditional techniques. Quantitative evaluations using standard metrics such as Peak Signal-to-Noise Ratio (PSNR) and Structural Similarity Index (SSIM) show significant improvements in image quality. Additionally, qualitative assessments confirm that our approach effectively diminishes common issues such as streak and noise artifacts, resulting from sparse-view acquisition.
+
+Conclusion/Implications: Our adversarial sparse-view CBCT artifact reduction technique presents a robust and efficient solution for improving image quality without requiring additional image acquisition. This advancement could significantly enhance diagnostic accuracy and reduce radiation exposure by enabling high-quality image reconstruction from fewer projections. The framework's adaptability and performance suggest potential applications in various fields requiring enhanced image reconstructions from limited data. 
+
+Key Keywords: adversarial learning, sparse-view CBCT, artifact reduction, deep learning, medical imaging, image reconstruction.

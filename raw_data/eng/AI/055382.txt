@@ -1,0 +1,1 @@
+C# (pronounced "C Sharp") is an object-oriented programming language created by Microsoft in 2000 for developing applications on the .NET framework. Today, it stands among the most popular programming languages, known for its versatility and robust features in software development.

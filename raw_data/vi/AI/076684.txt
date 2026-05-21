@@ -1,0 +1,7 @@
+Phương pháp nối đất trung tính có ảnh hưởng đáng kể đến thiết bị điện và bảo vệ relay của đường dây 473E7. Nghiên cứu này tập trung vào việc đánh giá hiệu quả của các phương pháp nối đất trung tính khác nhau đối với thiết bị điện và bảo vệ relay của đường dây này.
+
+Kết quả cho thấy rằng phương pháp nối đất trung tính bằng dây đồng có hiệu quả cao hơn so với phương pháp nối đất trung tính bằng dây nhôm. Phương pháp nối đất trung tính bằng dây đồng giúp giảm thiểu sự cố điện và tăng cường độ tin cậy của hệ thống điện.
+
+Bên cạnh đó, nghiên cứu cũng chỉ ra rằng việc sử dụng bảo vệ relay có khả năng tự động hóa có thể giúp giảm thiểu sự cố điện và tăng cường độ tin cậy của hệ thống điện. Bảo vệ relay có khả năng tự động hóa có thể phát hiện và xử lý sự cố điện một cách nhanh chóng và hiệu quả.
+
+Tổng kết, nghiên cứu này cho thấy rằng phương pháp nối đất trung tính bằng dây đồng và bảo vệ relay có khả năng tự động hóa là hai yếu tố quan trọng giúp tăng cường độ tin cậy của hệ thống điện và giảm thiểu sự cố điện.

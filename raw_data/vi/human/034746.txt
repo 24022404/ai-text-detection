@@ -1,0 +1,1 @@
+MySQL quản lý dữ liệu thông qua các CSDL, mỗ CSDL có thể có nhiều bảng quan hệ chứa dữ liệu.

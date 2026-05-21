@@ -1,0 +1,1 @@
+Alhakim, Sala, and Sawada (2021) in Theoretical Computer Science reexamine prefer-same and prefer-opposite constructions for De Bruijn sequences, offering fresh perspectives.

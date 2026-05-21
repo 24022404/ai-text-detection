@@ -1,0 +1,1 @@
+Để thực hiện các suy luận thống kê cần thiết, cần phả trực quan hóa dữ lệu của bạn và Matplotlib là một trong những giải pháp như vậy cho người dùng Python. Nó là một thư viện vẽ đi đồ thị rất mạnh mẽ hữu ích cho những người làm việc với Python và NumPy.

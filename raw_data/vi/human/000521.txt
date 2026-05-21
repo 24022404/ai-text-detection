@@ -1,0 +1,1 @@
+Các chức năng chính Module gợi ý sản phẩm trên Magento có các chức năng chính sau: gợi ý sản phẩm dựa trên lịch sử mua hàng của người dùng đã đăng nhập, gợi ý sản phẩm tương tự cho sản phẩm người dùng đang quan tâm, gợi ý sản phẩm thường được mua kèm cho sản phẩm người dùng đang quan tâm, tùy biến vị trí hiển thị gợi ý sản phẩm.

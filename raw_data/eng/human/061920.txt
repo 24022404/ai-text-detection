@@ -1,0 +1,1 @@
+Control Character movement: Players move the character using the A, D keys, using space to jump, and press again to perform double jump Objects: Players collect chests by approaching items or clicking the mouse on the dropped items.

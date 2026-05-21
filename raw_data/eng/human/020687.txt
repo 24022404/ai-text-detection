@@ -1,0 +1,1 @@
+If models use incorrect pseudo labels, performance will drop significantly. Someworks design thresholds to generate pseudo labels according to the confidenceFigure 2.4: An illustration of the proposed iterative self-training architecture for unsuper vised domain adaption .

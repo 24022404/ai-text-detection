@@ -1,0 +1,1 @@
+Tìm hiểu và áp dụng các nguyên lý thiết kế, các mẫu thiết kế phần mềm để xây dựng mã nguồn dễ bảo trì và mở rộng.

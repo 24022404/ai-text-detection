@@ -1,0 +1,1 @@
+Influence by Miners: Miners are entities that actually participate in making a transaction on the blockchain. They can decide which transactions are executed, and the order in which transactions are executed, and can also influence the EVM’s execution environment (e.g. timestamp).

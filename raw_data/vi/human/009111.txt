@@ -1,0 +1,1 @@
+Multithread a, Khá nệm Thread là thuật ngữ chỉ về luồng trong lập trình, luồng được hiểu là một tiến trình nhỏ hay còn được gọi là tiến trình con. Multithread là đa luồng, đây là một tiến trình bao gồm nhiều luồng khác nhau chạy đồng thờ trong cùng một khoảng thời gian. Các luồng cùng một lúc xử lý các công việc khác nhau giúp cho ứng dụng hoạt động mượt hơn, hiệu quả hơn.

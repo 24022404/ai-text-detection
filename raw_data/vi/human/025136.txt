@@ -1,0 +1,1 @@
+Ưu điểm của Component Architecture trong game development Kh sử dụng OOP Architecture truyền thống trong game development, ta sẽ gặp một số vấn đề. Giả sử ta đang mô phỏng thế giới động vật trong game của mình.

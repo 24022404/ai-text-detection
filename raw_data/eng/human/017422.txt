@@ -1,0 +1,1 @@
+In the final step, when the NMT model is learned, given any sentence in the source language, the NMT model generates a translation via a decoding algorithm such as beam search . In the inference step, the input of the NMT model is only the sequence of integers corresponding to the source sentence.

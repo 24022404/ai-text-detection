@@ -1,0 +1,1 @@
+RTCPeerConnection WebRTC cung cấp cho các nhà phát triển ứng dụng web khả năng vết các ứng dụng đa phương tiện thờ gan thực phong phú (như trò chuyện video) trên web mà không yêu cầu phần bổ trợ, tã xuống hoặc cài đặt. Mục đích của nó là giúp xây dựng một nền tảng RTC mạnh hoạt động trên nhiều trình duyệt web, trên nhiều nền tảng [mô tả]. Kiến trúc tổng thể như sau:

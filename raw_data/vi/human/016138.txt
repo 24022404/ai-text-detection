@@ -1,0 +1,1 @@
+Do các mô đun tồn tại độc lập với nhau, nên kh có mô đun xảy ra lỗi thì cũng sẽ không ảnh hưởng tới các mô đun khác. Đều này cũng giúp dễ dàng cập nhật hoặc vá lỗ với những mô đun tùy chọn.

@@ -1,0 +1,1 @@
+When tokens are signed with public/private key pairs, the signature also confirms that only the party with the private key signed it.

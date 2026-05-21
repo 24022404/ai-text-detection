@@ -1,0 +1,1 @@
+Scheduler có thể có cắm được, hiện tại có các bộ lập lịch ví dụ như Capacity Scheduler và FairScheduler.

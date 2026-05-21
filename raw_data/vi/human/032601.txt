@@ -1,0 +1,1 @@
+Trong Chương 5, em sẽ trình bày các đóng góp nổi bật của mình trong suốt quá trình xây dựng ĐATN. Các đóng góp gió sẽ bao gồm quá trình xây dựng hệ thống quản lý người dùng, hệ thống mua bán NFT và chuyển đổi token cũng như việc tối ưu, xây dựng các workers để đồng bộ dữ liệu, xử lý giao dịch.

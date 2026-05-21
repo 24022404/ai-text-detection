@@ -1,0 +1,1 @@
+Our mission is to transform the JSON data that we have into records of these tables. For doing this task, we created a JavaScript project for manipulating the processed input data. For each word, we generate corresponding insert queries into the tables. After inserting, words will become available inside our dictionary.

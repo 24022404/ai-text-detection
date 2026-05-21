@@ -1,0 +1,1 @@
+Xử lý tã nặng : Khi sử dụng quá nhiều mã JavaScript phức tạp, trang web có thể có thờ gan tả lâu hơn, làm giảm trải nghiệm người dùng.

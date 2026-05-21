@@ -1,0 +1,1 @@
+Users can browse a list of activities, each displaying its name, intent, and any associated security configurations or risks to ensure safer app interaction.

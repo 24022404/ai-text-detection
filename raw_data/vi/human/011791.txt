@@ -1,0 +1,1 @@
+Giao diện trang web cần phải đơn giản, giảm thiểu số lượng thao tác mà khách hàng cần thực hiện để hoàn thành một quy trình đặt mua sản phẩm. Bố cục các hình ảnh, biểu tượng và nút bấm cần phân chia rõ rành thành các vùng riêng biệt.

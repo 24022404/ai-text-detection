@@ -1,0 +1,1 @@
+Trong quá trình phát trển và xây dựng phần mềm, bước khở điầu sẽ là xác định điược nhưng vẫn điề, xác định điược mục têu điề tà và định hướng phát trình của dự án. Chương 1 sẽ làm rõ các yêu cầu điặt ra cũng như các tính năng sẽ xây dựng trong ứng dụng.

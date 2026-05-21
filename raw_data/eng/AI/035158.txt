@@ -1,0 +1,7 @@
+This paper introduces Detective, a novel attentive recurrent model designed to tackle the challenging task of sparse object detection. The objective is to develop an efficient and accurate approach for detecting objects in scenarios where targets are scarce and scattered, posing significant difficulties for traditional detection methods. 
+
+To address this problem, we propose a model that leverages the strengths of both attention mechanisms and recurrent neural networks. Our approach enables the model to focus on relevant regions of interest and iteratively refine its predictions, leading to improved detection performance.
+
+Experimental results demonstrate the effectiveness of Detective, showcasing its ability to outperform state-of-the-art methods in sparse object detection tasks. Key findings include significant improvements in precision and recall, particularly in scenarios with limited training data.
+
+The contributions of this research lie in its innovative application of attentive recurrent architectures to sparse object detection, offering a unique solution to a long-standing problem in the field of computer vision. With its potential applications in areas such as surveillance, autonomous vehicles, and medical imaging, Detective represents a substantial advancement in object detection technology. Relevant keywords include sparse object detection, attentive recurrent models, computer vision, and deep learning.

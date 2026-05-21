@@ -1,0 +1,1 @@
+Dynamic Interface Class: lớp kế thừa lớp UserInterface. Lớp này sẽ quản lý giao diện của các ô đồ động, nghĩa là các ô đồ trong hành trang nhân vật mà có thể đặt đồ nào vào cũng được. Trong lớp này sẽ bao gồm vị trí đặt ô đồ đầu tên và khoảng cách giữa các ô đồ điểm sao cho ô đồ được đặt điều và điệp.

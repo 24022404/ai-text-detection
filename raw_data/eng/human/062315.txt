@@ -1,0 +1,1 @@
+Create inventory requisition. The request for warehousing is sent from the sales department of purchased goods that need to be warehoused.

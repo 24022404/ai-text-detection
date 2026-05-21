@@ -1,0 +1,1 @@
+N. Dalal, B. Triggs andC. Schmid, “Human detection using oriented histograms of flow and appearance,” inEuropean conference on computer vision Springer, 2006, pages 428–441.

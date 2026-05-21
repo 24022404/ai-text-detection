@@ -1,0 +1,1 @@
+Đơn giản và linh hoạt: JWT đơn giản và dễ dàng sử dụng trong các ứng dụng web và di động.

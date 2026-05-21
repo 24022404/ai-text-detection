@@ -1,0 +1,9 @@
+Objective: Accurate classification of liquid filling levels in industrial containers is critical for quality control and automation. However, conventional image-based classifiers often suffer from sensitivity to variations in lighting, reflections, and sensor noise. This research investigates the use of adversarial training to enhance the robustness and accuracy of filling level classification models.
+
+Methods: We develop a convolutional neural network (CNN) tailored to identifying discrete fill categories from top‐view images of bottles and tanks. During training, we integrate adversarial examples generated via the Fast Gradient Sign Method (FGSM) and Projected Gradient Descent (PGD) to simulate real‐world perturbations. The model is evaluated on a proprietary dataset containing 10,000 images across five fill levels under diverse environmental conditions. Baseline performance without adversarial augmentation is compared against the proposed adversarially trained network.
+
+Results: Incorporation of adversarial training yields a 6.2% absolute increase in overall classification accuracy, rising from 88.7% to 94.9%. Robustness tests under random noise, blur, and lighting shifts demonstrate a reduction in error variance by 45%. Confusion matrix analysis indicates substantial gains in distinguishing adjacent fill levels, particularly at critical thresholds between 50% and 75%.
+
+Conclusion: Adversarial training significantly improves both the reliability and generalization of filling level classifiers in industrial settings. The proposed approach can be readily integrated into existing automated inspection pipelines, reducing false rejections and enabling more consistent quality assurance.
+
+Keywords: filling level classification, adversarial training, convolutional neural network, robustness, industrial inspection.

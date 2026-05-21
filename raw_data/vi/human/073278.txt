@@ -1,0 +1,1 @@
+Ha tác nhân chính tương tác trực tiếp với hệ thống CMS thông qua giao diện là người soạn nội dung và người kiểm duyệt nội dung (gọi tắt là người kiểm duyệt).

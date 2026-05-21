@@ -1,0 +1,1 @@
+Lưu game (Save): lưu thông tin hiện tại của người trơ bao gồm: vật phẩm người chơ đeo trên người cũng như trong hành trang, cấp độ hiện tại và lượng kinh nghiệm người chơi hiện có, điểm tiềm năng người chơi chưa tăng, chỉ số người chơi điã dùng điểm tềm năng điể tăng, vị trí hiện tại của người chơ trong game và những nhệm vụ mà người chơ điã nhận.

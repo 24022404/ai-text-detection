@@ -1,0 +1,1 @@
+Về tính dễ bảo trì, extJS cung cấp một cách tiếp cận phát triển modular, giúp tách biệt các chức năng, dễ dàng bảo trì và mở rộng ứng dụng. extJS cũng hỗ trợ các tính năng như Testng, Swagger và Logging giúp người phát triển dễ dàng xây dựng, kiểm thử và quản lý ứng dụng.

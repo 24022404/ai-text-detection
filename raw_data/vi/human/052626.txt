@@ -1,0 +1,1 @@
+Bộ phân tích (Scrapy Engine). Bộ phân tích là thành phần chịu trách nhiệm phân tích nội dung của các trang web. Nó sử dụng các trình phân tích cú pháp để phân tích HTML và CSS của các trang web và sử dụng bộ lọc để trích xuất dữ liệu từ các trang web đó.

@@ -1,0 +1,1 @@
+Finally, running the brute-force algorithm just once also offers a better user ex perience for the users. With the data pre-processed and stored, the app can receivethe path from the server in real-time, without the need for users to wait. This makes the app more responsive and user-friendly, and can lead to higher user engagement and satisfaction.

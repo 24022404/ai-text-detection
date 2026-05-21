@@ -1,0 +1,1 @@
+Hệ thống xuất hàng: cho phép người sử dụng xuất hàng kh có nhu cầu, sửa thông tin hàng xuất, xóa hàng khi không xuất ra khỏi danh sách hàng xuất.

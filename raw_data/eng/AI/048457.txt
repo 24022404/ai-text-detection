@@ -1,0 +1,1 @@
+Zhang and Waterman (2003) introduce a method for global multiple alignment of DNA sequences using an Eulerian path approach, detailed in the Journal of Computational Biology.

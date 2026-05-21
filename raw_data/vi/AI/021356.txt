@@ -1,0 +1,5 @@
+Nghiên cứu xây dựng hệ thống backend cho nền tảng NFT Marketplace tập trung vào việc phát triển một giải pháp kỹ thuật hiệu quả cho việc quản lý và giao dịch các tài sản kỹ thuật số không thể thay thế (NFT). Hệ thống backend được thiết kế để đáp ứng nhu cầu đa dạng của người dùng, bao gồm việc tạo, quản lý và giao dịch NFT, cũng như cung cấp các tính năng bảo mật và bảo mật cao.
+
+Hệ thống được xây dựng trên nền tảng công nghệ hiện đại, bao gồm việc sử dụng các công nghệ như Node.js, Express.js và MongoDB để tạo nên một kiến trúc linh hoạt và dễ dàng mở rộng. Ngoài ra, hệ thống cũng được trang bị các tính năng bảo mật như xác thực và kiểm soát truy cập để đảm bảo an toàn cho người dùng.
+
+Nghiên cứu này cũng tập trung vào việc tối ưu hóa hiệu suất của hệ thống, bao gồm việc sử dụng các kỹ thuật như caching và phân tán dữ liệu để giảm thiểu thời gian tải và tăng cường khả năng mở rộng. Kết quả của nghiên cứu này là một hệ thống backend mạnh mẽ và hiệu quả, đáp ứng nhu cầu đa dạng của người dùng và cung cấp một nền tảng vững chắc cho việc phát triển nền tảng NFT Marketplace.

@@ -1,0 +1,1 @@
+Tiếp theo, tạ chương 4 tôi sẽ trình bày sâu hơn về thiết kế, xây dựng ứng dụng và tiến hành đánh giá, kiểm thử ứng dụng.

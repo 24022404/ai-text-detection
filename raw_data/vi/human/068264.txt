@@ -1,0 +1,1 @@
+Mặc dù kết cấu khuôn mặt trong Basel 2009 3DMM được thu bằng thiết bị chuyên dụng nhưng chúng vẫn chứa một số hiệu ứng đổ bóng cố định (ví dụ, sự che khuất tự nhiên). Hàm mất mát thêm một ràng buộc làm phẳng để giảm sự bến đỗ của bản đồ kết cấu.

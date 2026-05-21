@@ -1,0 +1,1 @@
+Đầu tiên, để xây dựng website mạng xã hội video với mong muốn có thể mang đến cho người dùng những trải nghiệm tốt nhất, dễ sử dụng, bắt mắt. . . Đặc biệt có độ tương tác cao và quan trọng không phải chờ đợi mất quá nhiều thờ gan để tạ trang. Vì vậy, tôi quyết định sử dụng Client Side Rendering.

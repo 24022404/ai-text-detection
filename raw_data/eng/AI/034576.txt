@@ -1,0 +1,1 @@
+The 2013 article by V. Horan and G. Hurlbert in SIAM Journal on Discrete Mathematics explores universal cycles for weak orders and their properties.

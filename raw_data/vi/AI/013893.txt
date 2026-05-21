@@ -1,0 +1,12 @@
+Áp dụng mô hình AHP để ra quyết định đầu tư dự án xây dựng ngành Y tế tại TP.HCM sử dụng nguồn vốn ngân sách nhà nước là một phương pháp quyết định quan trọng trong việc lựa chọn dự án đầu tư hiệu quả. Mô hình AHP (Analytic Hierarchy Process) là một công cụ phân tích quyết định đa mục tiêu, giúp đánh giá và so sánh các lựa chọn khác nhau dựa trên các tiêu chí và trọng số khác nhau.
+
+Tại TP.HCM, việc xây dựng ngành Y tế là một dự án quan trọng nhằm đáp ứng nhu cầu chăm sóc sức khỏe của người dân. Để quyết định đầu tư cho dự án này, cần phải xem xét các yếu tố như hiệu quả kinh tế, hiệu quả xã hội, hiệu quả môi trường và hiệu quả khác. Mô hình AHP sẽ giúp phân tích và đánh giá các yếu tố này một cách khách quan và khoa học.
+
+Quy trình áp dụng mô hình AHP bao gồm các bước sau:
+
+- Xác định các mục tiêu và tiêu chí quyết định
+- Xác định các lựa chọn và đánh giá chúng dựa trên các tiêu chí
+- Xác định trọng số cho các tiêu chí và lựa chọn
+- Xác định kết quả cuối cùng dựa trên các trọng số và đánh giá
+
+Mô hình AHP sẽ giúp ra quyết định đầu tư cho dự án xây dựng ngành Y tế tại TP.HCM một cách hiệu quả và khoa học, đảm bảo rằng dự án này sẽ mang lại hiệu quả cao nhất cho người dân và xã hội.

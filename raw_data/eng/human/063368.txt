@@ -1,0 +1,1 @@
+BARTpho, ViT5: These models achieve good performance across all three datasets, with relatively high Rouge scores. It achieves the highest Rouge scores on ViMs for R-L, and competitive scores on VMDS and VLSP datasets.

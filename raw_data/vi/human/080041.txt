@@ -1,0 +1,1 @@
+Xử lý lưu trữ điều kiện phân khúc Việc phân nhóm sẽ dựa trên các đặc điểm cụ thể của khách hàng như ngớ tính, độ tuổi, sở thích. Mỗi phân khúc lạ có nhiều điều kiện khác nhau dựa trên nhu cầu, chiến lược kinh doanh của doanh nghiệp. Vì thế việc xác định các thông tin lưu trữ phục vụ cho việc phân khúc khách hàng cũng rất quan trọng.

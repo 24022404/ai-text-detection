@@ -1,0 +1,1 @@
+Thuộc tính này lệt kê các bảng dữ liệu chứa giá trị điầu vào phục vụ cho việc tính toán các công thức.

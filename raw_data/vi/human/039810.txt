@@ -1,0 +1,1 @@
+*CreateBlog(Blog, urls[]): Boolean — Tạo một bài viết mới với các URL hình ảnh đính kèm và trả về giá trị boolean thể hiện thành công hoặc thất bại.*Update Blog(Blog, urls[]): Boolean — Cập nhật bài viết hiện tại và dữ liệu mờ và các URL hình ảnh đính kèm.

@@ -1,0 +1,1 @@
+1 đồ thị  G = (V, E)  1 ma trận adjacency matrix A nxn  X ∈ R^(nxd)  là ma trận feature ứng với các nút của đồ thị, vớ  nn là tổng số lượng nút và  dd là số chiều của node feature. Node embedding liên quan đến các thông tin của nút đó.

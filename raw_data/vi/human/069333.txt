@@ -1,0 +1,1 @@
+Tính dễ bảo trì và mở rộng Hệ thống được thiết kế theo mô hình kiến trúc rõ ràng, dễ dàng chỉnh sửa và nâng cấp. Trong tương la kh có phát triển thêm các chức năng hoặc cải thiện điều dễ dàng, không ảnh hưởng nhều tớ các chức năng điã điược phát trển.

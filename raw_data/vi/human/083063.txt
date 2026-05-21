@@ -1,0 +1,1 @@
+Thiết kế cho tết có Hình 4.4 mô tả các package tham gia thực hiện chức năng đăng bài viết.Hình 4.4: Biểu đồ ch tết có tham gia chức năng đăng bài viết Trong đó:

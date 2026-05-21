@@ -1,0 +1,1 @@
+Tạo các ứng dụng web đa chức năng: PHP làm cho việc tạo các ứng dụng web đa chức năng trở nên dễ dàng. Bất kỳ thứ gì từ trang web thương mại điện tử, hệ thống quản lý nội dung (CMS), diễn đàn, mạng xã hội và hơn thế nữa, điều có thể được xây dựng bằng PHP. Đều này cho phép lập trình viên phát triển các ứng dụng web đa dạng và linh hoạt.

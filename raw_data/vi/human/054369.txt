@@ -1,0 +1,1 @@
+Ứng dụng độc lập : Giúp các nhà phát triển tạo ra các ứng dụng chạy tên bất kỳ nền tảng nào mà không cần dựa vào máy chủ web bên ngoài bằng cách nhúng máy chủ web như Tomcat hoặc Netty vào ứng dụng của ta trong quá trình khởi tạo.

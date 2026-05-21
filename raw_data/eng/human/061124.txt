@@ -1,0 +1,1 @@
+In addition to the blockchain technology, smart contracts, and oracles described in the background section, I would like to describe other system-building tools and libraries.

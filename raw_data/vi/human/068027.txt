@@ -1,0 +1,1 @@
+PHP cung cấp các hàm mạnh mẽ để xử lý chuỗi, toán học, thờ gắn, tệp tin, cơ sở dữ lệu và nhiều lĩnh vực khác.

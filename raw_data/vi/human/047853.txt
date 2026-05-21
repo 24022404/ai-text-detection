@@ -1,0 +1,1 @@
+Hàm kích hoạt phi tuyến: là một hàm cho phép mô hình tạo ra ánh xạ giữa đầu vào và đầu ra của mạng. Đều này phù hợp cho việc đào tạo các mô hình phức tạp của các tập dữ liệu phi tuyến có kích thước lớn. Phù hợp sử dụng lan truyền ngược để cập nhật các trọng số của mô hình.

@@ -1,0 +1,1 @@
+Giao diện nhắn tin: được chia thành 3 thành phần chính gồm header, sidebar và content như hình 4.6. Header được thiết kế giống với giao diện chung. Sidebar sẽ hiển thị danh sách bạn bè và lựa chọn bạn bè muốn trò chuyện. Content sẽ hiển thị thông tin người đang trò chuyện, nội dung cuộc trò chuyện, nút soạn tin nhắn và gửi tin nhắn.

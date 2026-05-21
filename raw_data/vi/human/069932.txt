@@ -1,0 +1,1 @@
+Firebase Firebase chính là một dịch vụ cơ sở dữ liệu được hoạt động ở trên nền tảng đám mây (Cloud). ĐI kèm với đó là một hệ thống máy chủ mạnh mẽ của Google. Hệ thống có chức năng chính là giúp cho người dùng có thể lập trình ứng dụng thông qua cách đơn giản hóa những thao tác với các cơ sở dữ liệu.

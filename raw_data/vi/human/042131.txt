@@ -1,0 +1,1 @@
+Đều chỉnh độ sáng : Độ sáng của hình ảnh được tăng hoặc giảm. Đều này mô phỏng hiệu ứng của việc thay đổi điều kiện ánh sáng.

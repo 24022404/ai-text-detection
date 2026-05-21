@@ -1,0 +1,1 @@
+Nếu một bức ảnh có watermark, thì nó sẽ ít có giá trị hơn với những kẻ trộm ảnh, vì họ không thể sử dụng ảnh một cách trá phép một cách dễ dàng hoặc bán được ảnh với giá cao hơn.

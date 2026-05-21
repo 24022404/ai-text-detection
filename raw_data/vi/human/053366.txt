@@ -1,0 +1,1 @@
+Router là một bộ định tuyến giúp cho chúng ta định danh ra các url ap được gửi từ client và hành động kèm theo nó.

@@ -1,0 +1,1 @@
+Package diagram for User view The figure below will display package diagram for app client.Figure 4.5: Package diagram for user view This part is quite simple when there is only 1 file used to replace the search page after catching the click event on the search button.

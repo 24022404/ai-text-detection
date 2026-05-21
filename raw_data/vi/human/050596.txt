@@ -1,0 +1,1 @@
+Cơ sở dữ liệu MySQL được thiết kế điển lưu trữ và quản lý các bảng dữ liệu, trong đó mỗi bảng có thể chứa hàng ngàn hoặc hàng triệu bản ghi dữ liệu.

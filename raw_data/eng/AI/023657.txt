@@ -1,0 +1,9 @@
+Objective: The cold-start problem—recommending personalized outfits to new users or for newly added items—remains a critical challenge in fashion recommendation systems due to the lack of interaction history. This paper introduces a novel Visual Preference Modelling (VPM) framework that leverages image-based features to infer user tastes and item semantics from the first few visual interactions.  
+
+Methods: Our approach employs a pre-trained convolutional neural network to extract multi-granularity visual embeddings (color, texture, style) from outfit images. We then learn a user preference prototype by aggregating these embeddings through an attribute-aware attention module, enabling rapid adaptation to unseen users. For new items, VPM computes similarity to the user prototype in this learned visual space. No prior purchase or rating data are required.  
+
+Results: Evaluated on a large-scale fashion dataset, VPM outperforms traditional collaborative filtering and content-based baselines under various cold-start settings. In “user cold-start” scenarios, top-10 recommendation recall improves by 15%, and in “item cold-start” scenarios by 12%. Ablation studies confirm the effectiveness of attribute attention and prototype learning.  
+
+Conclusion: By modeling visual preferences directly from images, VPM provides a lightweight, scalable solution for mitigating cold-start issues in outfit recommendation. This work advances personalization in e-commerce and can be extended to other image-centric recommendation domains.  
+
+Keywords: cold-start problem, outfit recommendation, visual preference modelling, fashion recommender systems, deep learning, attention mechanism.

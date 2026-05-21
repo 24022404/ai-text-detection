@@ -1,0 +1,1 @@
+Khách hàng thành viên là khách hàng vếng thăm sau kh điã điăng nhập vào tà khoản điã điăng ký trên hệ thống, có điầy đủ các chức năng của khách hàng viếng thăm và bổ sung một số chức năng sau:

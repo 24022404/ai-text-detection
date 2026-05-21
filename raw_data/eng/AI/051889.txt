@@ -1,0 +1,1 @@
+When a request employs the GET method, the server provides a response containing the metadata.

@@ -1,0 +1,9 @@
+This paper addresses the challenge of imbalanced datasets in corporate credit rating predictions, a critical issue that affects the reliability and accuracy of financial assessments. The research explores innovative approaches to enhance predictive performance under these conditions. 
+
+Methods: We introduce a novel contrastive pre-training methodology, designed to improve feature representation specifically tailored for imbalanced datasets. By leveraging contrastive learning paradigms, the model pre-trains on augmented data, emphasizing distinguishing factors between different rating categories. This pre-trained model is then fine-tuned on the target credit rating dataset to achieve enhanced classification performance.
+
+Results: The proposed approach demonstrates significant improvements in predictive accuracy and stability over traditional methods, particularly in minority class predictions. Comparative analyses exhibit superior performance metrics, such as increased F1-score and precision, against baseline models and popular existing techniques, underscoring the model's efficiency in handling data imbalance.
+
+Conclusion: This study introduces a significant advancement in corporate credit rating models, showcasing the efficacy of contrastive pre-training in dealing with imbalanced datasets. The insights gained have broad implications for risk assessment and financial modeling, suggesting potential applications in various sectors requiring balanced predictive analytics. Key contributions include the development of a robust pre-training framework that capitalizes on contrastive learning to mitigate imbalances, paving the way for more reliable credit evaluation tools. 
+
+Keywords: contrastive pre-training, imbalanced datasets, corporate credit ratings, financial modeling, predictive analytics, machine learning.

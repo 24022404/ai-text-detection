@@ -1,0 +1,1 @@
+Gó Data: chứa 2 gó entty và query engne. Gó entty định nghĩa các bảng dữ liệu. Gó query engne quản lý việc truy xuất dữ liệu. trong screen.

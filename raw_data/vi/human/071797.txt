@@ -1,0 +1,1 @@
+Trong Chương 6 em sẽ kết luận đồ án, sau đó trình bày các ưu nhược điểm của hệ thống, những gì em đã và chưa làm được trong đồ án tốt nghiệp lần này. Đồng thờ, em sẽ đề xuất các định hướng mà em muốn phát triển hệ thống trong tương la.Vớ những yêu cầu điã điặt ra ở chương 1, chương 2 sẽ khảo sát hiện trạng thực tế, làm rõ các bước phân tích, yêu cầu phi chức năng của ứng dụng.

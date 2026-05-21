@@ -1,0 +1,1 @@
+NET 6.0Microsoft .NET  is a software framework and development ecosystem de signed to facilitate application engineering for on and desktop environments. Itnow supports the programming environment for most phases of software develop ment, therefore it has a wide range of applications and use cases.

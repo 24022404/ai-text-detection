@@ -1,0 +1,1 @@
+Thiết kế giao diện quyết định đến hiệu năng tương tác người dùng và dựa trên một số yếu tố sau:

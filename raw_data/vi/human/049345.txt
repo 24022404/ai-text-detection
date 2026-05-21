@@ -1,0 +1,1 @@
+Tên use case Mô tả tóm tắt Thêm, xóa lớp học + Chỉ Quản trị viên mớ có thể thêm hoặc xóa lớp học Sửa thông tin lớp học + Quản trị viên và cán sự lớp có thể chỉnh sửa thông tin lớp học.

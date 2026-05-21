@@ -1,0 +1,1 @@
+Lazy loading là kỹ thuật tả hiệu quả nhất được sử dụng phổ biến ngày nay, nó không bao giờ mất chi phí băng thông cho những gì không tải xuống, không xem, không nhìn thấy. Nếu lưu lượng truy cập là mối quan tâm lớn nhất của bạn, thì lazy loading chính là một lựa chọn lý tưởng.

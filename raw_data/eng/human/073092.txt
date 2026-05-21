@@ -1,0 +1,1 @@
+The browser then reads the HTML in the files and displays it. Some web applica tions don’t use static HTML but generate it in response to specific actions on theirservers.

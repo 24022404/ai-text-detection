@@ -1,0 +1,1 @@
+Tạo ra một interface dễ dàng xây dựng Captive Page vớ nhiều lựa chọn đăng nhập khác nhau và triển khai nó cho các địa điểm đặt wf công cộng nhanh chóng và chi phí thấp.

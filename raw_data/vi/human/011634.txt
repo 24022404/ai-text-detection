@@ -1,0 +1,1 @@
+Tập trung phát triển chủ yếu về giao diện người dùng: Firebase cho phép lập trình viên tập trung chủ yếu vào phát triển phần giao diện người dùng nhờ kho Backend mẫu phong phú đa dạng.

@@ -1,0 +1,1 @@
+StatsInterface Class: lớp kế thừa lớp UserInterface, lớp này sẽ quản lý giao diện của các ô đồ "tĩnh", nghĩa là các ô đồ được chỉ định để mặc áo, mặc quần hay trang bị kỹ năng,... Các ô đồ mà chỉ có một lượng tem nhất định có thể đặt vào.

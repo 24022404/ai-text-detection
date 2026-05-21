@@ -1,0 +1,1 @@
+Do điặc thù rêng của từng hệ điều hành về việc hỗ trợ các định dạng file 3D khác nhau. Ví dụ, bên hệ điều hành OS ( hoặc PadOS), Apple chỉ hỗ trợ định dạng rêng của họ (.USD, .USDZ), và khi ta mang các file ở định dạng này lên các thiết bị, nền tảng khác (Androd, Wndows,...) thì không tương thích.

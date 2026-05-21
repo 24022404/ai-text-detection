@@ -1,0 +1,9 @@
+Objective: Monocular 3D object detection from a single RGB image typically relies on known camera extrinsic parameters to recover object positions in world coordinates. This requirement limits deployment in scenarios with uncalibrated or moving cameras. We propose an extrinsic parameter free approach that directly predicts 3D bounding boxes in a self-consistent camera-agnostic coordinate system.
+
+Methods: Our method leverages a multi-task deep convolutional network that jointly estimates 2D object proposals, object-centric depth maps, and normalized object coordinates without explicit extrinsics. We introduce a learnable pseudo–camera alignment module that internally calibrates object depth and orientation, using a novel geometric consistency loss to enforce plausible 3D positioning across views. During training, the network is supervised by 3D bounding box labels and auxiliary depth annotations but requires no extrinsic parameter inputs.
+
+Results: We evaluate on the KITTI 3D detection benchmark and a custom uncalibrated driving dataset. Our approach achieves 3D average precision (AP) of 23.5% for cars at IoU = 0.7—outperforming comparable monocular methods that assume fixed extrinsics by up to 5.2%. The model runs at 18 fps on a single GPU, demonstrating real-time capability without external calibration.
+
+Conclusion: By removing the dependency on camera extrinsic parameters, our framework offers a flexible and robust solution for monocular 3D object detection in dynamic and uncalibrated environments. This work broadens the applicability of 3D perception systems in autonomous driving, robotics, and AR applications.
+
+Keywords: monocular 3D object detection; extrinsic parameter free; depth estimation; geometric consistency; deep learning.

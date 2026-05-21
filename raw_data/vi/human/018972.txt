@@ -1,0 +1,1 @@
+Không tiếp cận được mã nguồn Người dùng không thể xem được mã nguồn của Unti (vớ bản miễn phí). Vì vậy, nếu có tìm được một lỗ mà engine này gặp phải, cách duy nhất tìm cách khắc phục là trình lỗ này lên bug report và chờ họ khắc phục.

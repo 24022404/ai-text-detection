@@ -1,0 +1,1 @@
+Until đò hỏ tối ưu Ulti là một game engine cồng kềnh. Với các dự án vừa và nhỏ, điều này không quá quan trọng  vì những dự án này không quá ngốn tài nguyên và yêu cầu về đồ họa không quá khắt khe. Nhưng với những dự án lớn, như một game triple A thì điều này lạ là một nhược điểm lớn của Unity.

@@ -1,0 +1,1 @@
+Sử dụng các tính năng mới nhất của PHP: Một trong những tính năng làm cho PHP Laravel framework trở nên nổi bật hơn tất cả đó là nó sử dụng tất cả các tính năng mới nhất của PHP từ đó khiến việc lập trình trở nên nhanh chóng và dễ dàng hơn.

@@ -1,0 +1,1 @@
+Có hạ lĩnh vực mà PostgreSQL tỏa sáng kh người dùng cần cấu hình và kiểm soát cơ sở dữ liệu của họ. Đầu tiên, nó tuân thủ ở mức độ cao với các tiêu chuẩn SQL.

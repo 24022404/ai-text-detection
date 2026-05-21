@@ -1,0 +1,1 @@
+DetalTopcInformatonScreen: Nơ thiết kế giao dện cho màn hình thông tin chi tiết về điều tàu: tên đề tài, mô tả điều tra, thông tin giảng viên hướng dẫn, thông tin sinh viên thực hiện, thời gian thực hiện.

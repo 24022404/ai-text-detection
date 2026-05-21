@@ -1,0 +1,9 @@
+Objective: Accurate indoor localization remains challenging due to dynamic signal variations and fixed data segmentation strategies. This paper proposes an Online Dynamic Window (ODW) assisted two-stage Long Short-Term Memory (LSTM) framework to improve positioning accuracy and robustness in complex indoor environments.
+
+Methods: First, the ODW module continuously monitors incoming signal sequences (e.g., Wi-Fi RSSI or Bluetooth beacons) and adjusts the window size in real time based on signal variance and temporal stability metrics. The adaptively selected windows feed into a two-stage LSTM network: Stage I performs coarse location classification by learning spatial–temporal patterns, while Stage II refines continuous coordinate estimation through a fine-grained sequence-to-sequence LSTM. Both stages are trained end-to-end, enabling joint optimization of feature extraction and regression.
+
+Results: Experiments conducted in two multi-room office buildings demonstrate that our approach reduces mean localization error to 1.2 m, outperforming static-window LSTM by 35% and conventional fingerprinting baselines by 20%. Moreover, the ODW mechanism reduces outlier spikes in positioning by 40%, yielding more stable real-time tracking.
+
+Conclusion: The integration of online dynamic windowing with a two-stage LSTM framework offers a novel solution for real-time indoor localization, combining adaptive data segmentation with deep temporal modeling. The proposed method is readily applicable to smart building navigation, asset tracking, and augmented reality services.
+
+Keywords: indoor localization; online dynamic window; two-stage LSTM; adaptive segmentation; real-time positioning.

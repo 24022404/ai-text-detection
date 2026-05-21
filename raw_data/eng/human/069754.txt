@@ -1,0 +1,1 @@
+a. Not enough money to spend. The upgrade-with-money button is grayed out, indicating that there is not enough money to upgrade the staff type.

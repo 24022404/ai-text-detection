@@ -1,0 +1,1 @@
+Sau khi thanh toán thành công, hoá đơn bán hàng sẽ được kết thúc và hệ thống sẽ tự động cập nhật số lượng sản phẩm tồn kho, cập nhật doanh thu và hiển thị thông báo thanh toán thành công cho khách hàng. Ngoài ra, nếu khách hàng yêu cầu nợ, hệ thống sẽ ghi nhận nợ của khách hàng và hiển thị thông báo yêu cầu nợ.

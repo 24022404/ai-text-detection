@@ -1,0 +1,1 @@
+Tích hợp đầy đủ: XAMPP bao gồm các thành phần cần thiết như máy chủ web Apache, hệ quản trị cơ sở dữ liệu MySQL và các ngôn ngữ lập dụng web.

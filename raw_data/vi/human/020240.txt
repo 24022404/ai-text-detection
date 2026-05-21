@@ -1,0 +1,1 @@
+Hướng giải quyết Trong đồ án này, em đã xây dựng một phiên bản hệ thống phần mềm quản lý xe trên web với các công nghệ của NodeJS  một môi trường runtime chạy JavaScript vớ đầy đủ các tính năng cơ bản và tiện lợi khi kết hợp cùng cơ sở dữ liệu MongoDB Ch tết các phương pháp sẽ được trình bày ở các chương sau.

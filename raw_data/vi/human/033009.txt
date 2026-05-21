@@ -1,0 +1,1 @@
+∥A∥∥B∥=Pn =1A2 =1B2  Việc tính toán độ tương tự giữa các khách hàng thu được một ma trận biểu diễn mức độ tương tự giữa các cặp khách hàng dựa trên hành vi mua sắm của họ. Qua quá trình tính toán này, ma trận sẽ chứa các giá trị tương tự giữa từng cặp khách hàng, cho biết mức độ gần gũi của hành vi mua sắm giữa họ.

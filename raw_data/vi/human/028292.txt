@@ -1,0 +1,1 @@
+Trong tất cả các chuỗi sự kiện của các user story, đối với các nước có thao tác với cơ sở dữ lệu, nếu lỗ trong quá trình kết nối hoặc thao tác, cần có thông báo lỗ tương ứng điểm người dùng nhận biết là lỗ liên quan đến cơ sở dữ lệu, chứ không lên quan tới người dùng.

@@ -1,0 +1,1 @@
+Một số tính năng nổi bật của RabbitMQ Cho phép các ứng dụng phần mềm kết nối và mở rộng quy mô. Các ứng dụng có thể kết nối với nhau, như các thành phần của một ứng dụng lớn hơn hoặc với các thiết bị và dữ liệu của người dùng. Nhắn tin không đồng bộ, tách ứng dụng bằng cách tách dữ liệu gửi và nhận.

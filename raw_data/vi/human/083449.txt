@@ -1,0 +1,1 @@
+phân lớp Đồ án sử dụng Elasticsearch như bộ phân lớp. Elasticsearch là một công cụ lưu trữ phân tán, có thể mở rộng và đáp ứng nhu cầu tìm kiếm dữ liệu nhanh chóng, đồng thờ cung cấp khả năng phân tích và tìm kiếm toàn văn phức tạp.

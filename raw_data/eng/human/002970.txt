@@ -1,0 +1,1 @@
+payload: define payload of request which sent from client side type: common type of system( action type, notification type,...) entity: define field property and relationship between them in database + com.vifrin.post:

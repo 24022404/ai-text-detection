@@ -1,0 +1,1 @@
+Lý do chọn Unityengine Qua vệc giới thiệu về Unity engine cũng như tìm hiểu về ưu nhược điểm của Until và cân nhắc năng lực bản thân cùng vớ yêu cầu một đồ án tốt nghiệp phải có. Em trọn Unity engine điển xây dựng một game Action RPG do các tiêu chí:

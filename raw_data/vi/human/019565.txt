@@ -1,0 +1,1 @@
+Node.js tương thích với nhiều loại hệ điều hành, bao gồm Windows, macOS và Linux, đồng thời có thể được sử dụng vớ một số frontend JavaScript framework phổ biến.

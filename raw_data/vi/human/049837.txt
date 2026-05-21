@@ -1,0 +1,1 @@
+Thiết kế tích hợp mô hình ngôn ngữ GPT3.5 Sử dụng API Key điã điề cập trong chương 3, em có thể kết tạo ra các yêu cầu HTTP tớ Chat GPT.

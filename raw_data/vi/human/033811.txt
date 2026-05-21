@@ -1,0 +1,1 @@
+Trong thực tế những thông tin nhạy cảm như cặp khóa của người dùng sẽ được lưu vào một thiết bị là HSM (mục 2.2). Do là giá thành của thiết bị rất đắt nên sẽ được thay thế bằng một phần mềm giả lập có tên gọi là Softhsm (mục 2.3).

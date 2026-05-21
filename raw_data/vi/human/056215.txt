@@ -1,0 +1,1 @@
+Thông tin Thống kê Tổng số file mã nguồn 120 Số lượng bảng cơ sở dữ liệu 8 Dung lượng mã nguồn 20MB Số dòng code 6800 Bảng 4.8: Thống kê thông tin hệ thống v4.3.3 Mnh họa các chức năng chính Sau đây em xn minh họa các chức năng chính của hệ thống:

@@ -1,0 +1,1 @@
+Overall designFor the GOAP package, which is a specialized AI library, the overall architec tural design consists of three packages: the GOAP data package, the GOAP logic processing package, and the visual logic package.

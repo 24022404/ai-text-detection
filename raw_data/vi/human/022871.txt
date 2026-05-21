@@ -1,0 +1,1 @@
+Hỗ trợ các hàng đợi và luồng được nhân rộng. các máy trong một cụm, đảm bảo rằng ngay cả trong trường hợp lỗ phần cứng, các thông báo vẫn an toàn mễn là có phần lớn các nút cụm trực tuyến.

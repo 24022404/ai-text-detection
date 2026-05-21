@@ -1,0 +1,1 @@
+P. Khosla, P. Teterwak, C. Wang andothers , “Supervised contrastive learning,” inAdvances in Neural Information Processing Systems H. Larochelle, M.

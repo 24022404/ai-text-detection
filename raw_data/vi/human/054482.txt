@@ -1,0 +1,1 @@
+Qua việc sử dụng Zend Framework, Magento có thể tận dụng các ưu điểm của nó như tính linh hoạt, cấu trúc mô đun, bảo mật cao và tính mở rộng. Zend Framework cung cấp các công cụ và thư viện hỗ trợ cho việc phát triển và bảo trì các tính năng phức tạp của Magento, từ quản lý sản phẩm, quản lý đơn hàng, giao diện người dùng điến tính năng thanh toán và quản lý tài khoản.

@@ -1,0 +1,1 @@
+Gao dện trong game điã mang điủ các tính năng điể đáp ứng nhu cầu một game Action RPG: người chơi có thể xem hành trang, xem thông tin tem, xem chỉ số hiện tại nhân vật, được thông báo tăng điểm tiềm năng mỗi khi lên cấp độ, có thể tạm dừng game và lưu lại thông tin hiện tại của nhân vật họ chơ.

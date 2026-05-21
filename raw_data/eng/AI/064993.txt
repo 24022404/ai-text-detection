@@ -1,0 +1,9 @@
+This paper addresses the challenge of Inverse Reinforcement Learning (IRL), a problem focused on deducing the underlying reward function that governs agent behavior from observed trajectories. Traditional methods often struggle with performance limitations and inefficiencies in accurately unearthing intrinsic motivations. 
+
+Methods: We propose Deep PQR, an innovative framework that leverages anchor actions as pivotal indicators in the IRL process. By integrating anchor actions within a deep learning architecture, Deep PQR effectively aligns observed actions with potential reward structures. This approach utilizes neural networks to model complex action distributions and incorporates a novel algorithmic enhancement to streamline the IRL computations.
+
+Results: Our experiments demonstrate that Deep PQR consistently outperforms existing IRL techniques, showing significant improvements in accuracy of inferred rewards and computational efficiency. Conducted across diverse simulation environments, the framework excels in scaling performance metrics, providing more accurate modeling of decision-making processes when compared to benchmark IRL methods.
+
+Conclusion: The introduction of anchor actions within the Deep PQR framework represents a crucial advancement in IRL methodologies, offering substantial contributions to reward inference accuracy and efficiency. This novel approach opens new avenues for practical applications in areas such as autonomous systems, human-computer interaction, and AI-driven decision support systems.
+
+Keywords: Inverse Reinforcement Learning, Deep Learning, Anchor Actions, Reward Inference, Neural Networks, IRL Efficiency.

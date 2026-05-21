@@ -1,0 +1,1 @@
+Blogs Route : Route này định nghĩa các đường dẫn URL cho các hành động liên quan đến blog. Nó sử dụng Blogs Controller để xử lý các yêu cầu tương ứng.

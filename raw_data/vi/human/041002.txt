@@ -1,0 +1,1 @@
+send Message: phương thức này gồm 3 tham số là file, conversation Id và token, nhằm gửi file media của người dùng vào cuộc hội thoại có mã cuộc hội thoại là conversationId.

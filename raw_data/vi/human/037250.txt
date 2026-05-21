@@ -1,0 +1,1 @@
+Mỗ component của Lewre sẽ trả qua 1 life cycle. Lifecycle hooks cho phép chạy các đoạn mã ở bất kỳ phần nào trong lifecycle hoặc trước khi các bến cụ thể được cập nhật. Dưới đây là các lifecycle hook của Lewre :

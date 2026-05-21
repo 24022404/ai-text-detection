@@ -1,0 +1,1 @@
+Chapter 7 presents the conclusion of the thesis, looks back at the results, knowledge, experience, and orientation for future development solutions, and draws ex perience after completing the system building.2.1 State of the art For this part, I will look at an existing product with similar goals to this project, Bizfly - a product with a telesales staff management function.

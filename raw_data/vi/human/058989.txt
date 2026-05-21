@@ -1,0 +1,1 @@
+Button : là view được sử dụng khá nhiều trong android, hầu như sử dụng ở mọi nơi cùng với EditText, TextView. Button có chức năng là làm nhiệm vụ nào đó khi mà người dùng clock trong phương thức onClick.

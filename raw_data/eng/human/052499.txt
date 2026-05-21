@@ -1,0 +1,1 @@
+Evaluation Metrics For aspect based sentiment analysis, the evaluation metrics are comparatively straightforward compared to Topic Modeling in the previous section. Accuracy and F1 are then used for assesing effectiveness of a model.

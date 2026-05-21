@@ -1,0 +1,1 @@
+Jinja2 là một template engine phổ biến cho ngôn ngữ lập trình Python. Hệ Hình 5.1: Ảnh gao den 1 thống web template kết hợp một giao diện mẫu vớ một nguồn dữ liệu cụ thể để hiển thị một trang web động.

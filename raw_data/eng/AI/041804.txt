@@ -1,0 +1,1 @@
+The input/output process collects the application’s checksum, rule set, targeted file extensions, scan paths, and any optional ignore or alternative paths specified by the apath parameter, ensuring thorough and flexible path analysis.

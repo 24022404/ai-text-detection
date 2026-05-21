@@ -1,0 +1,1 @@
+Fully connected layers: VGGNet includes three fully connected layers. The first two layers each have 4096 channels, and the third layer has 1000 channels, one for every class.

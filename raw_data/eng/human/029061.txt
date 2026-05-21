@@ -1,0 +1,1 @@
+Player first needs to set up the connection for the game session and can then later plays against an opponent through the internet.

@@ -1,0 +1,1 @@
+–Analysis based on symbolic execution: Oyente  detects security vulnerabilitiesin the source code or bytecode of smart contracts using symbolic execution.

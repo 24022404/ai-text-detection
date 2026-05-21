@@ -1,0 +1,1 @@
+CommitmentRequest - The executor uses this JRPC method to request thecommitments made by other executors in the system. To proceed with the encryption key generation process and accomplish the desired level of security and con sensus, other executors’ commitments are required.

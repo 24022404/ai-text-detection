@@ -1,0 +1,1 @@
+The application allows users to view a detailed list of Android APIs in use, displaying associated classes, methods, and necessary permissions for each.

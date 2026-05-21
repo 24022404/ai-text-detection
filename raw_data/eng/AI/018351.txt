@@ -1,0 +1,1 @@
+The thesis details the full development process of the Androlyzer framework, describing its design, implementation, evaluation, and summarizing the primary features it encompasses.

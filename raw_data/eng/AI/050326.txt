@@ -1,0 +1,1 @@
+E. Key’s 1976 paper in IEEE Transactions on Information Theory examines the structure and complexity of nonar binary sequence generators, focusing on their design and performance.

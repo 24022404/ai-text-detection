@@ -1,0 +1,1 @@
+External stylesheets support code modularity and simplify maintenance by enabling the reuse of style rules across multiple web pages. Selectors and pseudo-classes make CSS more powerful by precisely targeting specific element states or attributes, and its simple, English-like syntax with rule sets makes it easy to learn and use.

@@ -1,0 +1,1 @@
+Chọn Đăng nhập.  Hệ thống hiển thị thông báo “Đăng nhập thành công” và đi tới trang chủ.  Hệ thống hiển thị thông báo “Đăng nhập thành công” và đi tới trang chủ.  Đạt TC02  1. Bỏ trống tên đăng nhập và mật khẩu.

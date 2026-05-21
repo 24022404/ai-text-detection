@@ -1,0 +1,1 @@
+Slider. Một spyder là một thành phần chịu trách nhiệm thu thập dữ liệu từ các trang web. Mỗ spyder được xác định bởi một crawler. Khi sử dụng spider cho phép xác định các trang web cần thiết để thu thập dữ liệu, các liên kết cần theo dõi và dữ liệu muốn trích xuất.

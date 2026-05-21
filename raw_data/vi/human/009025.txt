@@ -1,0 +1,1 @@
+Decoder: Kiến trúc cũng bao gồm các layers liên tiếp nhau. Mỗi một layer của Decoder cũng có các sublayers gần tương tự như layer của Encoder nhưng bổ sung thêm sublayer đầu tên là Masked MultiHead Attention có tác dụng loại bỏ các từ trong tương la khỏ quá trình attention.

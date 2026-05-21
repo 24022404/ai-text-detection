@@ -1,0 +1,1 @@
+Tạ trang cuối cùng, chọn ghi âm audio bằng cách record trực tiếp thông qua trình duyệt, sau đó ấn nút "save" để lưu bản ghi âm.Sau khi ấn nút "save" thì hiển thị thông báo ghi âm thành công.

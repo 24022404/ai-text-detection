@@ -1,0 +1,1 @@
+Mục điích Công cụ Địa chỉ URL IDE lập trình Vsual studo 1.69.2  Framework Laravel 6.13  Gao dện Bootstraps 4.4.1  Serve xampp  Bảng 4.14: Danh sách thư viện và công cụ sử dụng Trong đió này em sử dụng web server xampp chạy trên localhost điể trển kha và chạy hệ thống website của em. Sau điây em sẽ trình bày ch tết về server xampp.

@@ -1,0 +1,1 @@
+Theo dõi lượng điểm thưởng nhận được từ môi trường và trạng thái môi trường sau khi hành động được thực hiện.

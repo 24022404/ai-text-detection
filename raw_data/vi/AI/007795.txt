@@ -1,0 +1,7 @@
+Ứng dụng viễn thám và GIS đã được sử dụng để đánh giá biến động đường bờ khu vực Cù Lao Phú Đà, huyện Chợ Lách, tỉnh Bến Tre. Kết quả nghiên cứu cho thấy, đường bờ khu vực này đã trải qua nhiều thay đổi đáng kể trong thời gian qua.
+
+Theo dữ liệu viễn thám, đường bờ khu vực Cù Lao Phú Đà đã mở rộng và biến dạng mạnh mẽ, đặc biệt là trong giai đoạn 2015-2020. Sự thay đổi này có thể được giải thích bởi các yếu tố như thủy triều, dòng chảy, và hoạt động của con người.
+
+Kết quả phân tích GIS cũng cho thấy, khu vực Cù Lao Phú Đà đã trải qua nhiều biến động về mặt địa hình, bao gồm sự thay đổi của độ dốc, độ cao, và diện tích. Những thay đổi này có thể ảnh hưởng đến hệ sinh thái và môi trường xung quanh.
+
+Tổng kết, ứng dụng viễn thám và GIS đã cung cấp thông tin quan trọng về biến động đường bờ khu vực Cù Lao Phú Đà, giúp các nhà quản lý và nghiên cứu viên có cái nhìn tổng quan về tình hình và có thể đưa ra các quyết định phù hợp để bảo vệ và phát triển khu vực này.

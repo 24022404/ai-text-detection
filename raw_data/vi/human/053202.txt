@@ -1,0 +1,1 @@
+Thuộc tính Kiểu dữ lệu Mô tả d BIGINTEGER Mã d của contacts name VARCHAR(255) Tên người gửi lên hệ email VARCHAR(255) Email người gửi liên hệ phone VARCHAR(255) Số điện thoại người gửi lên hệ column LONGTEXT Nội dung lên hệ Bản 4.11: Ch tết bảng contacts Bảng 4.12 mô tả chợ tết bảng reviews , bảng review cand dates có nội dung tương tự:

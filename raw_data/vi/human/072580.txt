@@ -1,0 +1,1 @@
+Trong chương 6 em trình bày về kết luận và hướng phát triển của đồ án.2.1 Tổng quan chức năng 2.1.1 Biểu đồ use case tổng quát Hình 2.1: Biểu đồ usecase tổng quan Hệ thống gồm 2 tác nhân:

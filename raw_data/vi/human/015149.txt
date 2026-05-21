@@ -1,0 +1,1 @@
+a. Code bên Slave Hình 5.7: Code Slave b. Code bên Master Hình 5.8: Code Master. Code App Android Hình 5.9: Code App Android.2.3 Kết quả Hệ thống điã hoạt điộng với chế điộ Manual. Bên app Android đỉa có cấu hình chế độ Manual và điều khiển được hệ thống.

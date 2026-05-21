@@ -1,0 +1,1 @@
+Nơ sử dụng OpenCV được sử dụng để xử lý hình ảnh nhận được từ dòng camera. Ngoài ra thư viện này còn giúp triển khai mô hình tracking CART nhằm mục đích theo dõi các sản phẩm.

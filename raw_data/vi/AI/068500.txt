@@ -1,0 +1,5 @@
+Ứng dụng mô hình MIKE 21 và công nghệ GIS đã trở thành công cụ quan trọng trong việc xây dựng bản đồ và đánh giá sự lan truyền ô nhiễm môi trường. Mô hình MIKE 21 là một công cụ tính toán phức tạp giúp mô phỏng và dự đoán sự lan truyền của các chất ô nhiễm trong môi trường nước.
+
+Bằng cách kết hợp mô hình MIKE 21 với công nghệ GIS, các nhà khoa học có thể tạo ra bản đồ chi tiết về sự lan truyền của ô nhiễm môi trường, giúp xác định các khu vực bị ảnh hưởng và đề xuất các giải pháp để giảm thiểu tác động tiêu cực.
+
+Ứng dụng này đã được sử dụng rộng rãi trong việc đánh giá và quản lý môi trường nước, giúp bảo vệ nguồn nước và duy trì sự cân bằng của hệ sinh thái. Với sự phát triển của công nghệ GIS, việc xây dựng bản đồ và đánh giá sự lan truyền ô nhiễm môi trường đã trở nên dễ dàng và chính xác hơn, giúp các nhà quản lý môi trường đưa ra quyết định sáng suốt để bảo vệ môi trường.

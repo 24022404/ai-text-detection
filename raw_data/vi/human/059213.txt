@@ -1,0 +1,1 @@
+Header Phần tử gốc của tài liệu OWL là rdf:RDF , chứa các khai báo về các thuật ngữ sẽ sử dụng.

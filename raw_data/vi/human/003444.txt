@@ -1,0 +1,1 @@
+Kịch bản thử nghiệm Kịch bản dưới đây là một chuỗi kết hợp các tình huống thực tế mà có thể gặp trong cửa hàng. Tôi sẽ mô phỏng lại các tình huống sau:

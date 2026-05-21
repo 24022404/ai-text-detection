@@ -1,0 +1,1 @@
+Livereload: Kh sửa đổi mã nguồn, ứng dụng sẽ được cập nhật ngay lập tức trong khi đang chạy, không cần phải khởi động lại ứng dụng.

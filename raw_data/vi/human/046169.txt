@@ -1,0 +1,1 @@
+Lý do lựa chọn HttpURLConnection cung cấp giao thức kết nối đơn giản và đặc biệt có khả năng tùy chỉnh cao, dễ dàng cấu hình các yêu cầu theo mục đích sử dụng.

@@ -1,0 +1,1 @@
+Đánh cắp dữ liệu trả về từ truy cập tới máy chủ Website Đánh cắp dữ liệu trả về từ yêu cầu truy cập tới máy chủ website là một kỹ thuật tấn công mạng phổ biến được gọi là ManintheMiddle (MITM). Khi một người dùng truy cập vào một trang web, thông thường trình duyệt sẽ gửi yêu cầu đến máy chủ web để lấy dữ liệu và trả về cho người dùng.

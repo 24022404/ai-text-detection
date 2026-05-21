@@ -1,0 +1,1 @@
+Mô hình Client Server cung cấp tính linh hoạt và mở rộng, cho phép dễ dàng mở rộng hệ thống bằng cách thêm nhiều Clients and Servers. Bên cạnh đó, tính bảo mật cao và khả năng tích hợp dễ dàng.

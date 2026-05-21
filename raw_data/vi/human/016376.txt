@@ -1,0 +1,1 @@
+Phân loại hình ảnh: Dự đoán nhãn của một đối tượng trong một hình ảnh –Input: Một hình ảnh vớ một đối tượng, chẳng hạn như một bức ảnh.–Output: Nhãn lớp (ví dụ: một hoặc nhiều số nguyên được ánh xạ tớ nhãn lớp).

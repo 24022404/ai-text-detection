@@ -1,0 +1,1 @@
+Độ tin cậy và phục hồ sau thảm hoạ : điảm bảo điộ tin cậy và phục hồ sauthảm hoạ, bao gồm gh nhật ký gh trước (Wrteahead Loggng – WAL), repl caton, khô phục điểmtheothờgan (Pontntmerecovery – PITR) và không gan bảng.

@@ -1,0 +1,1 @@
+Tuy nhiên hiện nay JavaScript hỗ trợ nhiều thư viện có thể dễ dàng đăng tả và chuyển đổi dữ liệu sang dạng dữ liệu blob điểm lưu trữ.

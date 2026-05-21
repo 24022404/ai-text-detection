@@ -1,0 +1,1 @@
+Thao tác trên nhiều loại định dạng ảnh: Jpg hỗ trợ xử lý hầu hết các định dạng ảnh phổ biến như JPEG, PNG, GIF, BMP và TIFF.

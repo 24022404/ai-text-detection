@@ -1,0 +1,1 @@
+Depth =L G(1) vớI chiều dài đoạn đọc gả trình tự, G là chiều dài bộ gen tham chiếu tớ.

@@ -1,0 +1,1 @@
+Get detailed transaction for editingClick the button edit from the transaction’s pageIf the response data is correct and the form gets data from the response, the form with data of the transaction is full display to the user.

@@ -1,0 +1,1 @@
+Docker Docker  là một nền tảng cho phép container hóa ứng dụng, hỗ trợ cho việc phát triển, triển khai và hoạt động của một hệ thống. Nó cho phép tạo các mô trường độc lập và tách biệt để khởi chạy và phát triển ứng dụng và môi trường này được gọi là container. Ko cần triển khai lên bất kỳ server nào chỉ cần chạy container của Docker thì ứng dụng sẽ được khởi chạy ngay lập tức.

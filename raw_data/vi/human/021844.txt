@@ -1,0 +1,1 @@
+v.Docker Image: một dạng tập hợp các tệp của ứng dụng, được tạo ra bở Docker engine. Nội dung của các Docker image sẽ không bị thay đổi hkd chuyển. Docker image được dùng để chạy các Docker container.

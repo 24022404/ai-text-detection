@@ -1,0 +1,1 @@
+The disadvantage of limited storage on the blockchain leads to EUENO’s solu tion to change the way of storing and broadcasting data to different blockchains.

@@ -1,0 +1,1 @@
+Dce và IoU có công thức và cách tính toán gần như tương tự nhau, tuy nhiên sự khác biệt của hai độ đo này thể hiện khi tính trung bình trên tổng thể bộ dữ liệu.

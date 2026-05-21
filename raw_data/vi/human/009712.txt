@@ -1,0 +1,1 @@
+Được xây dựng trên các nguyên tắc lập trình hướng đối tượng, Zend Framework cung cấp một cấu trúc linh hoạt và mạnh mẽ để phát triển các ứng dụng web phức tạp. Mục tiêu chính của Zend Framework là tạo ra một mô trường phát triển web linh hoạt, bảo mật và dễ bảo trì.

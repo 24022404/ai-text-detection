@@ -1,0 +1,1 @@
+Đặt vấn đề Với các sản phẩm có nhu cầu tiêu thụ ổn định các nhà sản xuất thường sản xuất theo phương thức MTS. Sản phẩm được sản xuất trong một giai đoạn sản xuất sẽ được nhập kho để phục vụ các đơn hàng trong ga đoạn sản xuất thép theo. Phương pháp này giúp các nhà sản xuất có thể đáp ứng các đơn hàng ngay lập tức, cung ứng liên tục và tạo thiện cảm với khách hàng.

@@ -1,0 +1,1 @@
+Góc Controller sẽ sử dụng kết quả sau khi xử lý ở gò service để làm dữ liệu truyền qua view hiển thị.

@@ -1,0 +1,1 @@
+– Số văn bản có chứa từ t: Số lượng văn bản trong tập dữ liệu Mà từ t xuất hiện ít nhất một lần.

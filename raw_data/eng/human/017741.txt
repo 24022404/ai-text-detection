@@ -1,0 +1,1 @@
+Actor CustomerTrigger User choose preferred service types according to 6 types displayed on dashboard screenPre-condition The customer has logged into their account on the appli cation.

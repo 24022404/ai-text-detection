@@ -1,0 +1,1 @@
+Không phải luôn hiệu quả cho mọi tác vụ : Tất cả các kỹ thuật tăng cường dữ liệu không điều hiệu quả đối với mọi tác vụ. Ví dụ, việc lật hình ảnh có thể hữu ích cho việc nhận dạng khuôn mặt nhưng không hữu ích cho việc nhận dạng chữ viết.

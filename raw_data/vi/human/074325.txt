@@ -1,0 +1,1 @@
+Module RTC thông thường tích hợp các tính năng như đọc và cài đặt thời gian, bộ đếm thờ gần, bộ đồng hồ và alarm. Các module này thường sử dụng giao tiếp I2C hoặc SPI điểm kết nối với vi điều khiển hoặc board Arduino.

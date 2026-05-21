@@ -1,0 +1,1 @@
+Bước 1: Cài đặt Docker Sau khi đăng nhập vào máy ảo Ubuntu qua SSH, thực hiện các lệnh sau trên cửa sổ lệnh.

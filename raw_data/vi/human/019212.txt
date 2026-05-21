@@ -1,0 +1,1 @@
+Routing đơn giản: Extjs cung cấp một hệ thống routing tự động dựa trên cấu trúc thư mục. Bạn không cần cấu hình tường minh các tuyến đường (routes), mà Extjs sẽ tự động xác định các tuyến đường dựa trên cấu trúc thư mục của dự án.

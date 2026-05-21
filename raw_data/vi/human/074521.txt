@@ -1,0 +1,1 @@
+Nguyên lý xây dựng của React dựa trên components (componentbased approach), có thể tá sử dụng và phù hợp với ứng dụng 1 trang (Sngle Page Ap plcaton – SPA). React gúp lập trình viên xây dựng giao diện người dùng dựa trên JSX (môt cú pháp mở rộng của JavaScrpt), tạo ra các DOM ảo (vrtual DOM) điể tố ưu vệc render 1 trang web.

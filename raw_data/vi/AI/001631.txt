@@ -1,0 +1,13 @@
+Nghiên cứu đề xuất quy trình dự toán chi phí sử dụng BIM phù hợp điều kiện Việt Nam
+
+Một nghiên cứu mới đây đã đề xuất quy trình dự toán chi phí sử dụng công nghệ Building Information Modeling (BIM) phù hợp với điều kiện Việt Nam. BIM là công nghệ xây dựng thông minh giúp các nhà thầu, kiến trúc sư và chủ đầu tư hợp tác hiệu quả hơn trong quá trình thiết kế, xây dựng và vận hành công trình.
+
+Quy trình dự toán chi phí sử dụng BIM đề xuất trong nghiên cứu bao gồm các bước chính như sau:
+
+- Xác định yêu cầu và mục tiêu của dự án
+- Lựa chọn công nghệ BIM phù hợp
+- Xây dựng quy trình và tiêu chuẩn sử dụng BIM
+- Dự toán chi phí sử dụng BIM
+- Giám sát và đánh giá hiệu quả sử dụng BIM
+
+Nghiên cứu này hy vọng sẽ giúp các nhà thầu và chủ đầu tư Việt Nam hiểu rõ hơn về lợi ích và chi phí sử dụng công nghệ BIM, từ đó áp dụng nó một cách hiệu quả hơn trong các dự án xây dựng.

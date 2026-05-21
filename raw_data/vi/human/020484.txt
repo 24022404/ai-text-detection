@@ -1,0 +1,1 @@
+Vớ mục tiêu phát triển một hệ thống gồm nhiều các hệ thống con tương ứng từng tác nhân sử dụng, ĐATN sẽ cố gắng xây dựng các tính năng cần có. Tuy nhiên, do thờ gan của đồ án có hạn nên ĐATN sẽ xây dựng ứng dụng dành cho người mua, người bán trên nền tảng mobile trước, sau này có thờ gan sẽ phát triển hệ thống CMS trên nền tảng website.

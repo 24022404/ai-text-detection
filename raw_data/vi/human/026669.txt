@@ -1,0 +1,1 @@
+Xử lý ảnh nhanh: Jmp được viết bằng JavaScript nhanh, cho phép xử lý ảnh nhanh chóng và hiệu quả.

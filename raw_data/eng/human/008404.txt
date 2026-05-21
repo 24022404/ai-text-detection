@@ -1,0 +1,1 @@
+APIs let your product or service communicate with other products and services without having to know how they’re implemented.For making app development simpler, time and money may be saved. APIs provide you freedom, make design, administration, and usage simpler, and open up options for creativity when you’re creating new tools and products—or managing ones that already exist.

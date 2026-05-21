@@ -1,0 +1,1 @@
+Đồ án sử dụng phương pháp Cosine Smarty, điểm tính độ tương tự Cosin giữa các cặp khách hàng, cần thực hiện các bước sau:

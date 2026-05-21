@@ -1,0 +1,9 @@
+Objective: American Sign Language (ASL) fingerspelling plays a vital role in conveying proper nouns and technical terms, yet reliable recognition in unconstrained “in-the-wild” settings remains challenging due to variable lighting, complex backgrounds, and signer diversity. This work aims to bridge that gap by introducing a novel end-to-end deep learning framework and the first large-scale in-the-wild ASL fingerspelling dataset.  
+
+Methods: We collect and annotate 8,000 video clips from online platforms, covering diverse environments and 26 alphabet letters. Our two-stage model first employs a lightweight hand detector to isolate regions of interest, then applies a spatio-temporal encoder that combines 3D convolutional layers with a self-attention transformer to capture both local finger articulations and global motion patterns. A sequence-to-sequence decoder generates letter predictions, with a beam-search module enforcing linguistic coherence.  
+
+Results: On our benchmark, the proposed system achieves 87.3% letter-level accuracy and 65.1% word-level accuracy, outperforming state-of-the-art baselines by 9.5 and 12.4 percentage points respectively. Ablation studies confirm the effectiveness of the temporal attention mechanism and the hand-region preprocessing stage, each contributing over 4% gain in letter accuracy.  
+
+Conclusion: This research presents a robust solution for ASL fingerspelling recognition in realistic scenarios, with potential applications in sign-language translation, human–computer interaction, and accessibility services. The dataset and code will be made publicly available to foster further advances.  
+
+Keywords: American Sign Language, fingerspelling recognition, in-the-wild, deep learning, spatio-temporal modeling, attention mechanism.

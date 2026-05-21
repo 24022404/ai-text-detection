@@ -1,0 +1,1 @@
+Độ tin cậy: Hệ thống phả hoạt động ổn định và đáng tin cậy để người dùng không gặp phải sự cố và mất dữ lệu quan trọng. Các biện pháp sao lưu dữ lệu định kỳ và phòng ngừa sự cố hệ thống cần được áp dụng.

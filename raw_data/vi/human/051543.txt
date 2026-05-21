@@ -1,0 +1,1 @@
+Image: Là một ảnh đióng gó của mô trường, chứa tất cả các thành phần (tệp, thư vện, phụ thuộc, cấu hình,...) điể có thể khở chạy ứng dụng.

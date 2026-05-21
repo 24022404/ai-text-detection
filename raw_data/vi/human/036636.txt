@@ -1,0 +1,1 @@
+Tăng tính tái sử dụng: Redux giúp tăng tính tái sử dụng của mã nguồn, cho phép các thành phần có thể sử dụng lạ trong các ứng dụng khác nhau mà không cần sửa đổi nhiều.

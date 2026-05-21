@@ -1,0 +1,1 @@
+Despite the fact that the temporal derivative is a faster alternative to optical flow, it produces a low-accuracy and scale-dependent result when used alone. As a result, a cascaded approach of violence detection was suggested, based on motion boundary SIFT (MoBSIFT) and a movement filtering method .

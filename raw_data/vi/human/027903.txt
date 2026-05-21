@@ -1,0 +1,1 @@
+Chương 4: Phát triển và triển khai ứng dụng: ở chương 4 em mô tả kiến trúc ứng dụng trình bày về các bước thiết kế, triển kha.

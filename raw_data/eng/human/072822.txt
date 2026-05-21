@@ -1,0 +1,1 @@
+A refresh token is used to produce a new access token. If the access token con tains an expiration date, the user must authenticate again to acquire an access token once it expires. This phase can be avoided with a refresh token and a request to the API to obtain a new access token that allows the user to continue accessing the application resources.

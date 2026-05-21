@@ -1,0 +1,1 @@
+Complexity in maintenance: When objects are passed directly between layers, fixing errors or maintenance can have unintended consequences on other layers, making maintenance more difficult.

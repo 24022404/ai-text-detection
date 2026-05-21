@@ -1,0 +1,1 @@
+To understand TensorFlow, it is essential to first grasp what a software framework is, as this foundational concept will clarify how TensorFlow operates as a framework.

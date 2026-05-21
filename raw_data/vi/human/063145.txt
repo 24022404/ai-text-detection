@@ -1,0 +1,1 @@
+Lớp lưu trữ là lớp thực hiện các câu truy vấn đến cơ sở dữ liệu để quản lý cũng như lưu trữ dữ liệu. Trong đồ án này, lớp lưu trữ chính là các lớp repository.4.1.2 Thiết kế tổng quan Hình 4.2: Ví dụ biểu đồ phụ thuộc có Mục đích của từng package:

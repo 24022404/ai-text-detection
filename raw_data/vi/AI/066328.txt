@@ -1,0 +1,5 @@
+Nhận dạng bộ phận cơ bản của bể hơi trong lò hơi dựa trên mô hình Hammerstein biến thiên theo thời gian
+
+Một nhóm nghiên cứu đã phát triển một phương pháp nhận dạng bộ phận cơ bản của bể hơi trong lò hơi dựa trên mô hình Hammerstein biến thiên theo thời gian. Mô hình này có thể mô tả chính xác các đặc điểm của bể hơi và giúp xác định vị trí của nó.
+
+Phương pháp này sử dụng kỹ thuật nhận dạng dựa trên mô hình thời gian và có thể áp dụng cho các hệ thống phức tạp. Kết quả cho thấy phương pháp này có thể nhận dạng chính xác bộ phận cơ bản của bể hơi và có thể được sử dụng trong các ứng dụng thực tế.

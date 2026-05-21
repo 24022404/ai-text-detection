@@ -1,0 +1,1 @@
+Hệ thống ở điây gồm có một website điể các nhà bán hàng quản lý các sản phẩm, điơn hàng của họ và một ứng dụng d động điể người dùng thực hiện việc xem và điặt mua các sản phẩm.

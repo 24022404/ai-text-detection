@@ -1,0 +1,1 @@
+Tính đa nền tảng: Mô hình client server có thể hoạt động trên nhiều hệ điều hành và nền tảng khác nhau.

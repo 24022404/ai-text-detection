@@ -1,0 +1,1 @@
+Xử lý dữ lệu bị khuyết (missing data):  khi gặp missing data, ta thường có các cách giải quyết sau:

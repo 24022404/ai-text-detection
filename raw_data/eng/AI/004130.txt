@@ -1,0 +1,9 @@
+Objective: Implicit generative models such as GANs commonly assume a simple, fixed prior (e.g., standard Gaussian) in latent space, which can limit model expressivity and sample quality. This paper investigates the benefits of learning a flexible base distribution jointly with the generator to better capture complex data manifolds.
+
+Methods: We propose a two-stage training framework that integrates a learnable prior—parameterized via normalizing flows—with an implicit generator network. In the first stage, we fit the base distribution to latent codes obtained by inverting real data through an encoder. In the second stage, we optimize the generator using a hybrid objective that combines maximum likelihood in latent space with an adversarial divergence in data space. This approach enables tractable density estimation while preserving the strengths of adversarial training.
+
+Results: On benchmark image datasets (MNIST, CIFAR-10, CelebA), our method achieves up to 30% improvement in Fréchet Inception Distance (FID) and yields higher held-out log-likelihood estimates compared to GANs with fixed Gaussian priors. Qualitative analysis shows enhanced sample diversity and more coherent latent traversals, demonstrating that the learned prior adapts to data complexity.
+
+Conclusion: Learning the base distribution in implicit generative models significantly boosts both quantitative performance and latent-space interpretability. Our framework bridges likelihood-based and adversarial paradigms, paving the way for more robust and flexible generative systems. Potential applications include high-fidelity image synthesis, anomaly detection, and controllable representation learning.
+
+Keywords: implicit generative models, base distribution learning, normalizing flows, adversarial training, density estimation

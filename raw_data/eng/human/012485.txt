@@ -1,0 +1,1 @@
+Indoor Positioning Indoor positioning is a critical component of AR indoor navigation. There are two main approaches to indoor positioning: automatic and manual.

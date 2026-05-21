@@ -1,0 +1,1 @@
+Flashcards : Flashcards system are built for users to memorize their words of choice. The flashcards are tied heavily to the dictionary and the lessons that the platform provides.

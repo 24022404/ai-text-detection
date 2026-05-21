@@ -1,0 +1,1 @@
+Deep Learning: This method uses neural networks to learn representations of users and items that can be used to make recommendations. Deep learning can be effective for longtail items because it can learn complex relationships between users and items even if the item has few ratings.

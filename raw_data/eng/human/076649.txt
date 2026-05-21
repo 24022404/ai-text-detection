@@ -1,0 +1,1 @@
+How I dynamically emulated the Anroid app? a, Set up the Android Emulator or Genymotion First, you need to have an emulator running the application you want to test or analyze. You can use Android Studio’s built-in emulator or Genymotion as an alternative.

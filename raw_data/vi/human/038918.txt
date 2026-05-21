@@ -1,0 +1,1 @@
+Quản trị viên cũng có thể quản lý chi tiết từng sản phẩm hiện có trong trang web với các thao tác thêm, sửa, xóa sản phẩm. Thông tin chi tiết sản phẩm trên trang quản trị sẽ bao gồm: tên, hình ảnh, loại sản phẩm tương ứng, mô tả, giá bán, số lượng còn lại, trạng thái sản phẩm. Sau khi đã thao tác xong quản trị viên có thể bấm lưu thông tin.

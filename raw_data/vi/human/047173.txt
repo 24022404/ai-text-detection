@@ -1,0 +1,1 @@
+Từ các nội dung trước đó, chương 5 sẽ là về tổng kết về đóng góp chính của đồ án, các mục tiêu đã hoàn thành và hướng phát trển của hệ thống trong tương la.Chương này sẽ trình bày về khảo sát các yêu cầu của hệ thống, phân tích chi tiết các chức năng cần thiết cho hệ thống trao đổi phiếu khuyến mãi dựa trên công nghệ blockchain.

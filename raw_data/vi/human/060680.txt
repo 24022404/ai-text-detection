@@ -1,0 +1,1 @@
+Tạ trang web dành cho người dùng : mỗ người dùng khi đăng ký một tài khoản trên hệ thống sẽ có thể đảm nhiệm 1 va trò (người dùng hoặc chủ nhà) hoặc cả 2 vai trò (người dùng và chủ nhà).

@@ -1,0 +1,1 @@
+Số lượng cần sản xuất thêm = Số lượng dự báo tiêu thụ trong tháng tới  ( Số lượng tồn kho  Số lượng tồn kho điểm kinh doanh trong tháng hiện tại)  Số lượng điện sản xuất Hình 5.7 mô tả gợi ý số lượng cần sản xuất thêm của một sản phẩm trong tháng 7.

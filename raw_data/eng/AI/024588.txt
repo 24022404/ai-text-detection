@@ -1,0 +1,1 @@
+PostgreSQL is a powerful, full-featured relational database management system well known for its reliability, robustness, and capability to handle and store structured data efficiently for various applications.

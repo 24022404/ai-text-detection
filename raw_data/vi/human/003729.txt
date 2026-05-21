@@ -1,0 +1,1 @@
+Không chỉ hỗ trợ kiểm thử lỗ hổng bảo mật, OWASP ZAP API còn cung cấp các báo cáo và thông tin chi tiết về các lỗ hổng phát hiện được. Điều này giúp em có cá nhìn rõ ràng và tổng quan về trạng thái bảo mật của ứng dụng web, từ đó đưa ra các biện pháp cải thiện và bảo vệ hệ thống một cách hiệu quả.

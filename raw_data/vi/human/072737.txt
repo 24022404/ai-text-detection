@@ -1,0 +1,1 @@
+Templates: Flash hỗ trợ việc sử dụng các mẫu (templates) điểm tạo giao diện người dùng. Các templates cho phép tách biệt mã HTML từ mã Python, giúp quản lý mã nguồn dễ dàng hơn.

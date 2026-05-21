@@ -1,0 +1,1 @@
+WidthControlsHeight: This adjusts the height of the rectangle to match the aspect ratio while keeping the width of the screen unchanged.

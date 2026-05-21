@@ -1,0 +1,9 @@
+Objective: Early and accurate detection of autism spectrum disorder (ASD) in children remains a critical challenge in clinical practice. A well‐documented behavioral marker of ASD is atypical gaze preference, yet existing screening approaches rely heavily on manual observation or specialized hardware. This study introduces a lightweight convolutional neural network (CNN) architecture designed to detect gaze preference patterns from standard video recordings, offering a noninvasive and scalable diagnostic aid.
+
+Methods: We collected a dataset of 120 children (60 with clinically confirmed ASD, 60 neurotypical controls) engaged in a series of social and non-social visual tasks. Eye‐tracking heatmaps were generated from 2D face‐aligned video frames using an open‐source gaze estimation toolkit. Our CNN model—comprising three convolutional blocks, batch normalization, and global average pooling—was trained end‐to‐end to classify participants based on spatiotemporal gaze distributions. Performance was evaluated via five‐fold cross-validation and compared against a support vector machine (SVM) baseline using handcrafted gaze features.
+
+Results: The proposed CNN achieved an average classification accuracy of 91.7%, sensitivity of 93.3%, and specificity of 90.0%, outperforming the SVM baseline (accuracy 82.5%). Grad-CAM visualizations confirmed that the network focused on regions corresponding to socially salient stimuli. Model inference runs at 30 frames per second on commodity hardware.
+
+Conclusion: Our findings demonstrate that a CNN‐based analysis of gaze preference can serve as an effective, low-cost screening tool for ASD. This approach holds promise for integration into pediatric assessments and telehealth platforms, potentially facilitating earlier intervention and improved developmental outcomes.
+
+Keywords: convolutional neural network, gaze preference detection, autism spectrum disorder, eye tracking, deep learning, diagnostic tool.

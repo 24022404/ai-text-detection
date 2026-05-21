@@ -1,0 +1,1 @@
+Routers package: the place where requests are directed to controllersAuth package: contains the functions for checking and authenticating user re quests before processing the logic Controller package: the place where requests from users are received, logic is processed, and responses are sent back to display in the application for users.

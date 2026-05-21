@@ -1,0 +1,1 @@
+Các chức năng quản lý và vết gồm: quản lý và vết. Người dùng được phép thực hiện hoạt động thêm, sửa, xóa các bà viết.

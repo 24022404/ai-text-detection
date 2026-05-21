@@ -1,0 +1,1 @@
+Quản lý quyền truy cập: Người dùng có thể thiết lập quyền truy cập cho các phòng code mà mình tạo ra.

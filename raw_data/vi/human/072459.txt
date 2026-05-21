@@ -1,0 +1,1 @@
+Service : trên kha các phương thức và chức năng để thực hiện các tác vụ như xử lý nghiệp vụ, tính toán phức tạp, gọi các app bên ngoài và thực hiện các tác vụ khác liên quan đến logic của ứng dụng.

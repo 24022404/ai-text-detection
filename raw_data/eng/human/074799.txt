@@ -1,0 +1,1 @@
+This is the heart of the applicationApplication layer: mediates between the Presentation and Domain Layers. Or chestrates business objects to perform specific application tasks. Implements use cases as the application logic.

@@ -1,0 +1,5 @@
+Nghiên cứu chuyển gen RNAi qua trung gian Agrobacterium tumefaciens vào Dendrobium Sonia để tạo giống cây có khả năng kháng sâu bệnh đang được thực hiện nhằm tìm kiếm giải pháp mới cho vấn đề bảo vệ thực vật. Agrobacterium tumefaciens là một loại vi khuẩn có khả năng chuyển gen vào cây trồng, trong khi Dendrobium Sonia là một loại hoa lan phổ biến.
+
+Quá trình nghiên cứu này bao gồm việc tạo ra plasmid mang gen RNAi có khả năng kháng sâu bệnh, sau đó sử dụng Agrobacterium tumefaciens để chuyển gen này vào Dendrobium Sonia. Kết quả nghiên cứu sẽ giúp tạo ra giống cây có khả năng kháng sâu bệnh, giảm thiểu sự phụ thuộc vào thuốc trừ sâu và bảo vệ môi trường.
+
+Nghiên cứu này cũng có thể mở ra khả năng ứng dụng rộng rãi trong lĩnh vực nông nghiệp, giúp tăng cường sản lượng và chất lượng cây trồng, đồng thời giảm thiểu tác động tiêu cực đến môi trường.

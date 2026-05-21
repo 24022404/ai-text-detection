@@ -1,0 +1,1 @@
+Redux Redux là một thư viện JavaScript mã nguồn mở giúp quản lý các state cục bộ cho các ứng dụng JavaScript. Redux ra đời lấy cảm hứng từ tư tưởng của ngôn ngữ Xml và kiến trúc Flux của Facebook nên các ứng dụng xây dựng bở ReactJS co Redux như một lựa chọn hàng đầu để quản lý các state cục bộ.

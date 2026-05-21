@@ -1,0 +1,9 @@
+Objective: This paper investigates the theoretical foundations underpinning the ability of neural networks to universally approximate functions that remain invariant under group actions. In many applications—ranging from set processing and graph learning to 3D shape analysis—models must respect symmetries (e.g., permutations, rotations) in order to generalize effectively.  
+
+Methods: We consider feedforward architectures augmented with group-invariant layers—combining linear mappings, non-linear activations, and pooling operators designed to enforce invariance under a compact group G. By leveraging algebraic tools from invariant theory and a tailored extension of the Stone–Weierstrass theorem, we derive sufficient conditions on network depth, width, and pooling schemes that guarantee universal approximation of any continuous G-invariant target function on a compact input domain.  
+
+Results: Our analysis proves that a broad class of invariant network architectures is expressive enough to approximate arbitrary continuous invariant mappings to any desired accuracy. We further demonstrate, through synthetic benchmarks on point-cloud classification (rotation invariance) and graph regression (permutation invariance), that architectures satisfying our theoretical criteria achieve competitive performance with significantly fewer parameters than non-specialized baselines.  
+
+Conclusion: These findings establish a rigorous universality guarantee for invariant networks and offer practical guidelines for architecting deep models that respect domain symmetries. By unifying existing design patterns under a common theoretical framework, our work advances both the theory and practice of symmetry-aware machine learning.  
+
+Keywords: invariant networks, universal approximation, group invariance, equivariant architectures, symmetry-aware learning.

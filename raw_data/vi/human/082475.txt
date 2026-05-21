@@ -1,0 +1,1 @@
+Vớ phần tính năng tính toán các chỉ báo chứng khoán, các Mner (trình tính toán) được xây dựng và lập lịch bở Apache Arflow. Các trình tính toán này lấy dữ liệu từ Drud, tính toán theo công thức và trình tự được định sẵn, sau đó gh lạ dữ liệu ra các Kafka topc. Dữ liệu sau đó tếp tục được lưu trữ lâu dà trên Apache Drud.

@@ -1,0 +1,1 @@
+For ResNet152, I unfroze the parameters of layer four for training and added two additional fully connected layers. ResNet152, pre-trained on 1000 classes, has a final fully connected layer with 1000 output dimensions. I reduced this to 500 dimensions with an additional fully connected layer, and further to 20 dimensions, matching the number of classes in our dataset.

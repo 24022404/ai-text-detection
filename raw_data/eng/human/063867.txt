@@ -1,0 +1,1 @@
+Read-Only RFID tags: An RFID tag is capable of storing data and being read by RFID readers, but cannot write new data to the tag. Read-only RFID tags are commonly used in barcode reading, freight tracking and access control applications.

@@ -1,0 +1,1 @@
+Chương 4: Các kết quả đạt được. Chương này trình bày về thiết kế của hệ thống bao gồm thiết kế kiến trúc, thiết kế cơ sở dữ lệu,... Các kết quả thu được sau khi hoàn thành.

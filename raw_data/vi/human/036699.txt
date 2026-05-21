@@ -1,0 +1,1 @@
+Qua thí nghiệm về GAN em thấy rằng có vẻ dữ liệu GAN thuần có khá nhiều nhiễu, gây ảnh hưởng xấu đến mô hình. Tuy nhiên khi kiểm tra bộ dữ liệu sinh ra bở GAN, em thấy rằng những ảnh GAN sinh ra khó phân biệt được với chữ vết con người. Nên để tìm ra sự khác biệt giữa ảnh thật và ảnh GAN, em đã sử dụng ba phương pháp minh hoạ để so sánh sự khác biệt giữa ảnh GẮN với ảnh thật.

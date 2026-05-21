@@ -1,0 +1,1 @@
+. Do kỹ năng thiết kế giao diện chưa thực sự tốt, giao diện có những phần chưa được tối ưu cho các thiết bị khác như điện thoại, pad.

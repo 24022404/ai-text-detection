@@ -1,0 +1,1 @@
+This step is important because it lays the foundation for the later calculations, by providing the necessary information about each floor and its characteristics.

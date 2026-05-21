@@ -1,0 +1,1 @@
+Xóa thông tin tình nguyện viên (Không thể xóa trong trường hợp tình nguyện viên là quản trị viên) Gán tình nguyện viên vào lớp Hệ thống đưa ra danh sách lớp học, tình nguyện viên được gán vào một lớp duy nhất trong một thời điểm.

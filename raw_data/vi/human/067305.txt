@@ -1,0 +1,1 @@
+Độ sáng (Brightness): Thể hiện tương đối sự xuất hiện của ánh sáng chiếu vào bức ảnh. Một ảnh có độ sáng cao thì trung bình các giá trị pixel trong ảnh đó sẽ càng cao.

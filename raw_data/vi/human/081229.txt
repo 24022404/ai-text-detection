@@ -1,0 +1,1 @@
+Lý do sử dụng Ngoà những mô hình điã trình bày, còn có rất nhều những mô hình có thể sử dụng cho mục đích phân loại có thể kể đến như DenseNet, GoogleNet và ResNet.

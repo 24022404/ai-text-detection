@@ -1,0 +1,1 @@
+Cuối cùng, để xây dựng một bộ dữ liệu như yêu cầu điã điạt ra, gả pháp là sẽ tạo từ những bộ dữ liệu sẵn có và dữ liệu tự thu thập. Từ đó tiền xử lý để tạo ra một bộ dữ liệu chỉ gồm hình ảnh cử chỉ tay.

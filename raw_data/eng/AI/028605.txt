@@ -1,0 +1,1 @@
+The project seeks to streamline customer requests by introducing a helpdesk management system, replacing traditional email communication. By developing a dedicated website, customers can conveniently submit inquiries and receive timely responses online.

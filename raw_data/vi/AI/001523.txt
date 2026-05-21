@@ -1,0 +1,5 @@
+Thực hành tính toán liên kết kết cấu thép thành mỏng tạo hình nguội cho khung phẳng một tầng một nhị là một quá trình phức tạp đòi hỏi sự chính xác và kỹ năng cao. Quá trình này liên quan đến việc thiết kế và tính toán liên kết kết cấu thép thành mỏng để tạo hình nguội cho khung phẳng một tầng một nhị.
+
+Quá trình này bao gồm các bước như sau: thiết kế liên kết kết cấu thép thành mỏng, tính toán tải trọng và mô men quán tính, tạo hình nguội và kiểm tra an toàn. Mục tiêu của quá trình này là tạo ra một liên kết kết cấu thép thành mỏng an toàn và bền vững cho khung phẳng một tầng một nhị.
+
+Quá trình này đòi hỏi sự hiểu biết sâu sắc về kết cấu thép, tính toán và tạo hình nguội. Các kỹ sư và nhà thiết kế phải có kinh nghiệm và kỹ năng cao để thực hiện quá trình này một cách chính xác và an toàn.

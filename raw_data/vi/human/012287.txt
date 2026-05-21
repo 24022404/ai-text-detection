@@ -1,0 +1,1 @@
+Phát triển máy chủ nhanh chóng: Expressjs cung cấp nhiều tính năng dưới dạng các hàm để dễ dàng sử dụng ở bất kỳ đâu trong chương trình. Điều này đã loại bỏ nhu cầu vết mã từ đó tiết kiệm được thờ gan.

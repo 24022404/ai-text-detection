@@ -1,0 +1,1 @@
+The project focuses on providing a practical tool designed to enhance Android application security, contributing to the broader mission of creating a more secure and trustworthy mobile ecosystem for users.

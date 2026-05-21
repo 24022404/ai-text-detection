@@ -1,0 +1,1 @@
+Chapter 4 presents the content of application analysis and application design including architectural design, package design, interface design, and applicationbuilding.Chapter 5 introduces the application development processes including the libraries and tools used in the project, application testing, and application deploy ment.

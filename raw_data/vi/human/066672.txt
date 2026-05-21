@@ -1,0 +1,1 @@
+Phát triển nhanh: Nhờ vào cấu trúc linh hoạt và tiện ích, Flask cho phép phát triển ứng dụng nhanh chóng, đặc biệt là cho các dự án nhỏ và trung bình.

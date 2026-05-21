@@ -1,0 +1,1 @@
+Người mua hàng có thể xem danh sách các quán ăn và tìm kiếm món ăn. Sau khi chọn được món ăn, khách hàng sẽ thêm vào giỏ hàng và tiến hành bước thanh toán. Đơn hàng được thanh toán thành công sẽ có trạng thái chờ xác nhận và người mua có thể xem lịch sử điơn hàng điã điặt.

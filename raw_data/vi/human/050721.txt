@@ -1,0 +1,1 @@
+Masked Language Model (MLM) Mô hình ngôn ngữ có mặt nạ (Masked Language Model LM) là một mẫu ngẫu nhiên của các mã thông báo (token) trong chuỗi đầu vào được chọn và thay thế bằng mã thông báo đặc biệt [MASK]. Sau đó chúng ta chỉ dự đoán các mã thông báo được gấu đi đó.

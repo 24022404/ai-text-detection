@@ -1,0 +1,1 @@
+# Define the command that would be executed # when the container starts CMD ["python", "absa_inference.py"]4.4.2 Continuous Integration and Continuous DeliveryContinuous Integration (CI) is the process of building and unit testing an appli cation before releasing a new version of a software application to detect possible deploying errors as soon as possible.

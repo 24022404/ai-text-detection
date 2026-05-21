@@ -1,0 +1,1 @@
+–Handle CharacterS: phương thức xử lý khi có nhân vật hoặc quá chết, nếu nhân vật chết thì kết thúc lượt chơi, còn nếu quá chết và hết quá trên bản đồ thì qua màn.

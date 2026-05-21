@@ -1,0 +1,1 @@
+Quên mật khẩu: Hệ thống hỗ trợ khôi phục mật khẩu bằng cách gửi mật khẩu mới điến địa chỉ email đã đăng ký. Sau đó, người dùng có thể đăng nhập lạ và sử dụng các chức năng.

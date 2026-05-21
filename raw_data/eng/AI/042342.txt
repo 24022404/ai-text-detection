@@ -1,0 +1,9 @@
+Objective: Facial expression manipulation and analysis traditionally require separate models for generation, editing, and recognition, leading to increased complexity and resource demands. This paper introduces All-In-One, a unified deep network that simultaneously performs expression transfer, editing, and recognition within a single architecture.
+
+Methods: All-In-One employs a shared encoder to extract a disentangled representation of facial identity and expression. A pair of decoder branches then generate edited or transferred faces under arbitrary target expressions, guided by a learned expression embedding. A classification head attached to the encoder enables real-time recognition of the input expression. The model is trained end-to-end using a joint multi-task loss that combines reconstruction, adversarial, perceptual, and classification objectives.
+
+Results: Experiments on benchmark datasets (CK+, AffectNet, RaFD) demonstrate that All-In-One achieves transfer and editing quality on par with state-of-the-art task-specific GANs, while matching or exceeding recognition accuracy of dedicated classifiers. Compared to separate models, our approach reduces inference time by 40% and parameter count by 35%, without sacrificing performance.
+
+Conclusion: All-In-One offers a compact, efficient solution for comprehensive facial expression processing. Its ability to unify generation and analysis tasks simplifies deployment in interactive applications such as virtual avatars, video conferencing, and affective computing interfaces. 
+
+Keywords: facial expression transfer, expression editing, emotion recognition, multi-task learning, unified network, generative adversarial network.

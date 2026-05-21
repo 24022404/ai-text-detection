@@ -1,0 +1,1 @@
+In chapter 4, I will conduct an experiment on representation space in the continual learning setting through spectral decomposition. In fact, I found the relationship between the transferability of learned features and the eigenvalues of learned features.

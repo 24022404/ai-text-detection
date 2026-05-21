@@ -1,0 +1,1 @@
+Tìm kiếm hàm giá trị Trong một số mô trường, số lượng trạng thái là rất lớn. Đều đó dẫn đến việc lưu trữ giá trị cho từng trạng thái trở thành một việc bất khả thi. Để gả quyết vấn đề này, ta có thể ứng dụng các kết quả đã đạt được trong học giám sát (supervised learning) và huấn luyện một mô hình có khả năng ước lượng được V.2X Trong đó:

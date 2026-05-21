@@ -1,0 +1,1 @@
+PostgreSQL thrives due to its extensive and engaged community, which plays a crucial role in driving its continued development. This vibrant network provides valuable support, regularly shares expertise, and ensures that updates, improved security, and rich documentation are always available.

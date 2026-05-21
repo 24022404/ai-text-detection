@@ -1,0 +1,1 @@
+Chương 2 trình bày về tổng quan ngữ cảnh của bài toán, một số kết quả nghiên cứu về bài toán, cùng với những kiến thức nền tảng bao gồm mô hình BERT, mô hình RoBERTa, mô hình PhoBERT và mô hình SVM. Đây là tiền đề để hiểu được các giải pháp được trình bày trong các chương tiếp theo.

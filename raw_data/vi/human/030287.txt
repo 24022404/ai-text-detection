@@ -1,0 +1,1 @@
+Component Based: ReactJS cho phép xây dựng các thành phần UI độc lập và tái sử dụng được nhiều lần trong ứng dụng.

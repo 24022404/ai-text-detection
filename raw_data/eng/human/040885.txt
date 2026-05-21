@@ -1,0 +1,1 @@
+A user interface consists of information about products, product search, pur chasing, managing personal accounts, viewing individual orders, and product reviews.

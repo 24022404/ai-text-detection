@@ -1,0 +1,1 @@
+Additionally, there is another small package called "View" that connects to the Router. The View package is responsible for rendering transaction-related pages. It handles generating dynamic content based on data fetched from the database and provides the necessary information to the frontend for displaying the transaction-related pages.

@@ -1,0 +1,1 @@
+Góp: chứa các API gọi tớ server để lấy dữ liệu hoặc thực hiện các thao tác trên server.

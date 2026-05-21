@@ -1,0 +1,1 @@
+ứng dụng được thiết kế theo nguyên tắc phản hồi. Các thông báo , thành phần giao diện dễ hiểu và giống nhau trong toàn ứng dụng.

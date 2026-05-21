@@ -1,0 +1,1 @@
+Thus, for each length kword vlying in ck,s, its location in ck,sis to location of v inxminus j, unless they are of the form 1j0k−jfor all 1⩽j⩽swhich appear at the end of ck,s. The formal description of our decoding algorithm is shown in algorithm 2.

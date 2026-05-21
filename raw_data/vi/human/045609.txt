@@ -1,0 +1,1 @@
+Meda Server có thể cung cấp khả năng xử lý meda mạnh mẽ, không có sẵn trên các thiết bị khách.

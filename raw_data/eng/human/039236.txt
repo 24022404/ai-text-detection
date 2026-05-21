@@ -1,0 +1,1 @@
+After a while of researching, I chose the google cloud platform as a server to set up the backend server:Figure 6.11: Virtual machine on google cloud platform Figure 6.12: Run server backend success The image above shows that the server has successfully run with port 8080 in a virtual machine with external IP: 34.125.12.154.

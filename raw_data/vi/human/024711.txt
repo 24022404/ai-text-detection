@@ -1,0 +1,1 @@
+Khác với các hệ quản trị cơ sở dữ lệu quan hệ thì dữ lệu trong đây không có sự ràng buộc và không có yêu cầu tuân theo khuôn khổ nhất định nên các thao tác được thực hiện rất nhanh.

@@ -1,0 +1,1 @@
+The above disadvantages can all be solved by the Neighborhood-based method, specifically in this section, I will present the Item-item collaborative filtering method.

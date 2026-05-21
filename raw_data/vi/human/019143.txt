@@ -1,0 +1,1 @@
+Mô hình RCN CNN là một thuật toán phát hiện vật thể mà đầu tên phân chia ảnh thành các vùng để tìm các hộp giới hạn có khả năng lên quan cao rồ chạy một thuật toán phát hiện điểm tìm những thứ có khả năng cao là vật thể trong những hộp giới hạn đó.

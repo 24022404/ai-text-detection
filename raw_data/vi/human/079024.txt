@@ -1,0 +1,1 @@
+Chạy fle điã lưu (Load): sử dụng fle điã lưu của người chơ điểm nạp tiến độ game mà người chơ đang có. Nút load sẽ đóng vai trò như nút restart nếu người chơ chưa có save file.

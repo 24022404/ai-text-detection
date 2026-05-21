@@ -1,0 +1,1 @@
+The Deployment is complete when all of the AVAILABLE deployments are READY. If the Deployment has a mistake, run kubectl apply -f deployment.yaml again to update the Deployment with any changes.

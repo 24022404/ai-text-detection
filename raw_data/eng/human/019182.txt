@@ -1,0 +1,1 @@
+jQuery also provides comprehensive documentation and an active communityof developers, which can help beginners learn the library quickly and easily. Moreover, there are many resources and tutorials available on that can help develop ers take advantage of the full range of jQuery features and capabilities.

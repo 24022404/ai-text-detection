@@ -1,0 +1,1 @@
+[*] A monolithic application can only be written in one single codebase, so it hasto be written in one single programming language, which means it can not use state of-the-art technologies if those techs are written in other programming languages.

@@ -1,0 +1,5 @@
+Một nhóm nghiên cứu đã tạo ra cảm biến mới bằng cách kết hợp nano vàng và ADN chức năng. Cảm biến này có khả năng phát hiện nhanh chóng ion thủy ngân trong nước. 
+
+Cảm biến được tạo ra bằng cách sử dụng nano vàng như nền tảng và gắn ADN chức năng lên trên. ADN chức năng này có khả năng liên kết với ion thủy ngân, tạo ra phản ứng hóa học đặc biệt. Khi ion thủy ngân hiện diện, ADN chức năng sẽ thay đổi cấu trúc, dẫn đến sự thay đổi trong tính chất điện của nano vàng.
+
+Sự thay đổi này sẽ được đo lường bằng các phương pháp điện hóa, cho phép phát hiện nhanh chóng và chính xác nồng độ ion thủy ngân trong nước. Cảm biến này có thể được ứng dụng trong việc giám sát và bảo vệ môi trường, đặc biệt là trong việc phát hiện và cảnh báo về sự hiện diện của ion thủy ngân trong nguồn nước.

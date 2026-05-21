@@ -1,0 +1,1 @@
+Ứng dụng di động được xây dựng bằng Flutter  một framework mã nguồn mở của Google. Flutter giúp xây dựng ứng dụng giao diện trên nhiều nền tảng một cách dễ dàng, cùng nhiều thư viện và plugin hỗ trợ. Ngôn ngữ sử dụng là Dart.

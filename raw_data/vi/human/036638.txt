@@ -1,0 +1,1 @@
+Do đó, đối với học tăng cường, việc mô hình hoá bài toán bằng toán học cũng là một hướng tiếp cận khả dĩ. Cụ thể ở đây, ta sử dụng Quá trình quyết định Markov (Markov Decision Process ) điểm mô hình hoá bài toán.

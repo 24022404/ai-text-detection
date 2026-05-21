@@ -1,0 +1,1 @@
+Một trong những công thức tính toán cần phải xử lý khi được client yêu cầu là tính toán chỉ số P/B của một mã cổ phiếu. P/B được dùng để so sánh giá trị thực và giá trị ghi sổ của một cổ phiếu, từ đó biết được giá cổ phiếu đang cao/thấp bao nhiêu lần so với giá trị ghi sổ. Công thức tính là:

@@ -1,0 +1,1 @@
+Elxr là một trong những ngôn ngữ định hướng năng suất và ngắn gọn nhất hiện có, nhưng nó thế hiệu suất và tính đồng thờ. Erlang VM gả quyết cả hai vấn điền.

@@ -1,0 +1,1 @@
+bootstrap : thư mục chứa file cà điặt các bến cơ bản của laravel (path.php), nơ cà điặt mô trường làm việc (start.php) đồng thờ cũng là nơi các file khác được nclude vào laravel.

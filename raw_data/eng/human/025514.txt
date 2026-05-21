@@ -1,0 +1,1 @@
+Programmatic Method: Use the setHttpProxy method in the Android API to programmatically unset the proxy. This might be donewithin an application or script designed to reset network configurations during dynamic analysis.– Command Line: On rooted devices or emulators, the unset com mand in the terminal can be used to remove the proxy environment variables:

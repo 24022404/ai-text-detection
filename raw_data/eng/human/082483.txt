@@ -1,0 +1,1 @@
+The testing process of server is divided into two steps. The first step was to conduct a test using the student’s computer as a server, with the help of Ngrok.

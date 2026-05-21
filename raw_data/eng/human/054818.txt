@@ -1,0 +1,1 @@
+A specific example for Machine Learning is that machines can "learn" to clas sify email messages as spam or not, and then sort them into the corresponding folder.

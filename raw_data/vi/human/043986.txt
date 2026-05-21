@@ -1,0 +1,1 @@
+Lý do lựa chọn Việc thiết lập và triển khai hệ thống ứng dụng lên một hoặc nhiều server rất vất vả từ việc phải cài đặt các công cụ, mô trường cần cho hệ thống, điến việc chạy được ứng dụng. Chưa kể việc không đồng nhất giữa các môi trường trên nhiều server khác nhau. Chính vì lý do đó Docker được ra đời để gả quyết vấn đề này.

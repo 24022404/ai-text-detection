@@ -1,0 +1,1 @@
+MVC Architecture: Laravel sử dụng mô hình MVC(ModelVewController) điể tách bệt logc dữ lệu, gao vện và logc ứng dụng, gúp dễ dàng bảo trì và mở rộng mã nguồn.

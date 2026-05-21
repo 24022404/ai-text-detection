@@ -1,0 +1,1 @@
+Phát triển thêm các chức năng ghi màn hình, chia sẻ màn hình để hỗ trợ tốt hơn cho việc trao đổi thông tin. Thêm một số chức năng giúp call video sinh động hơn như filter, xóa nền video.

@@ -1,0 +1,1 @@
+The system operates on a client-server model and is hosted on a Microsoft Azure server. However, as the product remains in its testing phase, specific data about user numbers, frequency of hits, and server load capacity are not yet available.

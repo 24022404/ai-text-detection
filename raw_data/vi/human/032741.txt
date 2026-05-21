@@ -1,0 +1,1 @@
+DataFrame có thể được xây dựng từ nhiều nguồn như: tệp dữ lệu có cấu trúc, bảng trong Hve, cơ sở dữ lệu bên ngoài hoặc RDD hiện có.

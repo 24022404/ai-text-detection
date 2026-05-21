@@ -1,0 +1,1 @@
+Currently, although the system is working well, there are still some points that can be improved.First,To assist clients in finding the right goods as quickly as possible, the application needs to provide a number of additional search fields, such as price, address, color, ship, etc. Additional technology is required for the application, such as fuzzy search, synonym search, etc.

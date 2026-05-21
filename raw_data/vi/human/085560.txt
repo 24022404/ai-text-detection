@@ -1,0 +1,1 @@
+Sau khi thực hiện trích xuất, kết quả thu được là 50 file tương ứng với 50 gen mục tiêu như hình 3.13.

@@ -1,0 +1,1 @@
+Middlewares là có chứa các hàm xử lý trung gian, được thực thi tuần tự trong quá trình xử lý yêu cầu HTTP, như các hàm xác thực (auth), xử lý ảnh, v.v.

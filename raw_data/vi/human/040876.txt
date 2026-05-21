@@ -1,0 +1,1 @@
+Nhược điểm: Không đánh giá được ngữ cảnh của toàn bộ câu, do đó, trong nhiều trường hợp, nó không thể đưa ra một xác suất chính xác.

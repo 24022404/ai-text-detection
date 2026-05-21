@@ -1,0 +1,1 @@
+HTML files, identified by the .htm or .html extensions, are kept within directories, and a single website might include hundreds or even thousands of such files for its structure.

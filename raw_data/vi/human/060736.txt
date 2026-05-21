@@ -1,0 +1,1 @@
+Request Controller lên kết tớ model requests, ReportsController lên kết tớ model reports vớ nhiệm vụ quản lý việc yêu cầu tiền hỗ trợ và báo cáo thu ch Transaction Controller đảm nhận vai trò xử lý các tác vụ lên quan tới tiền từ thiện được nhận từ phía nhà hảo tâm.

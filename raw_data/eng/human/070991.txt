@@ -1,0 +1,1 @@
+C.H. Huang, H.Y. Wu, and Y. Ln, “Hard Mseg: A simple encoder decoder polyp segmentation neural network that achieves over 0.9 mean dce and 86 fps,” preprint arXiv:2101.07172 , 2021.

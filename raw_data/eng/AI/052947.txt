@@ -1,0 +1,9 @@
+Objective: Time series data often exhibit temporal distortions and misalignments that hinder conventional gradient‐based learning methods. This paper introduces a unified framework for Generalized Gradient Learning under Elastic Transformations, aiming to improve model training on warped or misaligned sequences.
+
+Methods: We formalize elastic discrepancies between time series via a differentiable displacement measure that generalizes standard losses (e.g., dynamic time warping). By deriving closed‐form expressions for the generalized gradient of this elastic loss, we design an efficient optimization algorithm that integrates seamlessly with stochastic gradient descent. Our approach supports both supervised classification and regression tasks and accommodates a variety of elastic metrics, including soft‐DTW and derivative‐based warping.
+
+Results: Experiments on multiple benchmark datasets demonstrate that models trained with our elastic gradient achieve up to 12% higher classification accuracy and 15% lower regression error compared to state‐of‐the‐art baselines. We show consistent improvements in convergence speed and robustness to noise, missing data, and variable sampling rates. Ablation studies confirm the benefit of each component in our framework.
+
+Conclusion: The proposed methodology extends gradient‐based learning to time series with complex temporal distortions, offering a practical tool for enhancing performance in domains such as speech analysis, gesture recognition, and biomedical signal processing. Our contributions pave the way for more resilient and interpretable time series models.
+
+Keywords: time series, elastic transformation, generalized gradient, dynamic time warping, optimization.

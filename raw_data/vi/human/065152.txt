@@ -1,0 +1,1 @@
+Tích hợp thanh toán: Magento tích hợp với các nhà cung cấp thanh toán hàng điầu như PayPal và Stripe, giúp người dùng có thể chọn được phương thức thanh toán phù hợp nhất cho mình.

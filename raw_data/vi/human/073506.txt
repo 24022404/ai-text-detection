@@ -1,0 +1,1 @@
+Dữ liệu của game  bao gồm chỉ số của quá, chỉ số nhân vật, chỉ số của vũ khí, kĩ năng, v.v. sẽ được lưu trong game dưới dạng ScriptableObject. Những Chỉ số này được cân bằng trên file định dạng csv và được chuyển sang Scriptableobject thông qua thư viện CSVReader.

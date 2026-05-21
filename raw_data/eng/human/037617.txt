@@ -1,0 +1,1 @@
+In gateway package contain webbff package which is work as a gateway for system. It dependents all micro services in services package.

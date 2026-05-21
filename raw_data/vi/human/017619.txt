@@ -1,0 +1,1 @@
+Một kiến trúc Flux điển hình là sự kết hợp giữa thư viện Dspatcher (được vết bởFacebook ) cùng với module NodeJS EventEmitter điểm tạo nên một hệ thống sự kiện (Event System) quản lý các trạng thái của ứng dụng.

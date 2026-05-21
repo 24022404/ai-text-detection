@@ -1,0 +1,1 @@
+P. W. Shor’s 1999 paper showed that quantum algorithms can efficiently factor large integers and solve discrete logarithms, putting classical cryptography at risk.

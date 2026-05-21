@@ -1,0 +1,1 @@
+Controller: Takes responsibility for receiving instruction requests from users 2Model-View-Controller, defined by the World Wide Web Consortium - W3Cand calling the correct methods to handle them.

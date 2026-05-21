@@ -1,0 +1,1 @@
+Lý do lựa chọn Nodejs được xây dựng trên V8 JavaScript Engine – trình thông dịch thực thi mã JavaScript giúp chúng ta có thể xây dựng được các ứng dụng web như các trang video clip, các forum và đặc biệt là trang mạng xã hộ phạm vi hẹp một cách nhanh chóng và dễ dàng mở rộng.

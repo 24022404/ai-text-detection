@@ -1,0 +1,1 @@
+Kiểm thử ứng dụng máy tính Để đánh giá độ hoàn thiện của ứng dụng, tô đã sử dụng phương pháp kiểm thử hộp đen để tiến hành kiểm thử áp dụng với 3 chức năng chính của ứng dụng () đăng nhập () xem dòng hình ảnh đã qua xử lý () xử lý ảnh. Sau đó tiến hành kiểm thử điốt và các yêu cầu phi chức năng. Dưới đây là kết quả kiểm thử.

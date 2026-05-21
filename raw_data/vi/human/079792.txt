@@ -1,0 +1,1 @@
+Cuối cùng YOLO v5 có dung lượng nhỏ. Cụ thể, một tệp trọng số cho YOLO v5 là 27 megabyte. Tệp trọng số cho YOLO v4 (với kiến trúc Darknet) là 244 megabyte.

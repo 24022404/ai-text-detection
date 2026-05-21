@@ -1,0 +1,1 @@
+Để quản lý dữ lệu, SQL Server bao gồm Dịch vụ tích hợp máy chủ SQL (SSIS), Dịch vụ chất lượng dữ lệu SQL Server và Dịch vụ dữ lệu chính của SQL Server. Để phát trển cơ sở dữ lệu, SQL Server cung cấp công cụ SQL Server Data; và điể quản lý, trển kha và gám sát cơ sở dữ lệu SQL Server có SQL Server Management Studo (SSMS).

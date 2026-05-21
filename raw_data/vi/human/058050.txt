@@ -1,0 +1,1 @@
+Quản lý nhóm là tác nhân implement từ Nhân viên, vì vậy tác nhân này có đủ các use case của tác nhân Nhân viên.

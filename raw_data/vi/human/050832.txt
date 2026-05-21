@@ -1,0 +1,1 @@
+Việc sử dụng công cụ kiểm thử tự động TestComplete có thể thực hiện công việc test một cách liên tục và lặp lại do đó rút ngắn được thờ gan thực hiện kiểm thử và tăng độ tin cậy. Ngoài ra, nó còn giúp tái hiện lại các test và đặc biệt là các lỗ của hệ thống.

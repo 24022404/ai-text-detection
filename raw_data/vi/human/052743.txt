@@ -1,0 +1,1 @@
+Các thành phần của bộ dữ liệu được kết nối với nhau bằng dấu cách (space) và dấu (+). Tuy nhiên trong một và trường hợp, hệ thống của khách hàng đã ngăn chặn lỗ hổng SQL Injection thông qua các bộ lọc, vì vậy để có thể vượt qua những bộ lọc gió ta cần triển khai thêm mã hóa URL, Asc cho bộ dữ liệu kiểm thử.

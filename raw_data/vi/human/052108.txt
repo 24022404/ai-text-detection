@@ -1,0 +1,1 @@
+Gả pháp Để giải quyết vấn đề nêu trên, hệ thống cần đưa ra một mục tiêu chính là chuyên môn hóa hệ thống. Tất cả tài nguyên của máy chủ cần được tập trung sử dụng cho việc xử lý các yêu cầu gửi tới máy chủ hay dành cho việc khởi chạy hệ thống.

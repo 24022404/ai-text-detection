@@ -1,0 +1,1 @@
+Manifest analysis is the process of inspecting the AndroidManifest.xml file of an application to evaluate requested permissions, declared activities, services, and other components. This helps ensure that each permission corresponds properly to the app’s features and functions, avoiding unnecessary or exploitable permissions.

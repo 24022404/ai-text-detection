@@ -1,0 +1,1 @@
+Các mô hình được huấn luyện trên dữ liệu bằng các thuật toán cụ thể để có thể đưa ra dự đoán hoặc quyết định. Quá trình này bao gồm nhiều bước trong quy trình học máy, như minh họa trong Hình 2.2, bao gồm việc thu thập dữ liệu, tiền xử lý, huấn luyện, đánh giá và triển khai mô hình để giải quyết vấn đề thực tế.

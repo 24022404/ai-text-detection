@@ -1,0 +1,1 @@
+–AF1: Trường hợp token truy cập của người dùng đã hết hạn hoặc người dùng chưa đăng nhập, người dùng chỉ có thể đọc và không thể thao tác khác (bình luận, thích, tạo bà dịch,...) –AF2: Trường hợp bà viết không tồn tại trong hệ thống, thông báo lỗ Tiền điều kiện : Không có Hậu điều kiện :

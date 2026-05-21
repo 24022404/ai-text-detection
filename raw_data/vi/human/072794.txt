@@ -1,0 +1,1 @@
+Đơn giản hóa trong kiểm thử và quản lý, kh có thể dễ dàng tính toán, kiểm soát, xử lý lỗ một cách nhanh chóng Việc lựa chọn xây dựng gói giải pháp bảo mật hệ thống và nguồn tài nguyên Website dưới định dạng một thư viện cũng nhằm tận dụng những điểm mạnh mà kiến trúc microservice điểm lạ.

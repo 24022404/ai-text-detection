@@ -1,0 +1,1 @@
+Yêu cầu bảo mật : () Cần phải đăng nhập để sử dụng hệ thống; () Người dùng chỉ được sử dụng các tính năng nếu được cấp quyền; () Người dùng không phải quản lý thì chỉ có thể cách xem đơn hàng do mình tạo ra.

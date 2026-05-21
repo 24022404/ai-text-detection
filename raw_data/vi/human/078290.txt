@@ -1,0 +1,1 @@
+Lấy Loga 2 vế policy gradient trở thành X =1 TX t=1 r(s,t,a,t)! Ta dùng polcy gradent điã tính toán điược này để tối ưu hoá policy.

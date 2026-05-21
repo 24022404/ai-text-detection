@@ -1,0 +1,1 @@
+JavaScript & TypeScriptJavaScript  is a scripting language for creating interactive web pages. It fol lows client-side programming standards, meaning it operates in the user’s web browser without requiring any resources from the web server.

@@ -1,0 +1,1 @@
+Select Analyzed File : This sub-use case allows users to choose a specific filefrom the recent scans list for additional actions such as rescanning, download ing, or viewing detailed results.

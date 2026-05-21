@@ -1,0 +1,1 @@
+Quay trở lại vấn đề là làm sao để đảm bảo việc tài liệu không bị lộ ra bên ngoài, việc tích hợp với dịch vụ của VNPT sẽ chỉ yêu cầu đoạn hash của tài liệu điểm ký, sau đó tổng hợp chữ ký từ và gắn vào file PDF của người dùng  đây là phần sẽ được xử lý bỏ ứng dụng không phải của VNPT. Vậy nên yêu cầu trên điã điược điảm bảo.

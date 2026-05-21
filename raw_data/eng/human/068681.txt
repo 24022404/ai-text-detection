@@ -1,0 +1,1 @@
+By leveraging GitHub Actions with a PAT for commits, I can ensure that the au tomation process remains secure and that only trusted sources are allowed to make changes to the repository, contributing to a safer and more controlled development environment.

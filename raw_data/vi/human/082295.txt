@@ -1,0 +1,1 @@
+Sau khi cập nhật, Store bắt sự kiện xuống View điểm tiến hành cập nhật hiển thị cho người dùng.

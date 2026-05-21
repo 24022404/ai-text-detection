@@ -1,0 +1,1 @@
+Separation of concerns: MVVM separates the business logic and data from the user interface, making the code easier to understand, maintain, and modify.

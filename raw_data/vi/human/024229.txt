@@ -1,0 +1,1 @@
+Kiến trúc Web ngữ nghĩa Semantic Web là một tập hợp/ một ngăn xếp các chuẩn. Các lớp trong kiến trúc của Semantic Web phối hợp với nhau để đảm bảo độ an toàn và tối ưu giá trị của thông tin.

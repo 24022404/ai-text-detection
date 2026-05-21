@@ -1,0 +1,1 @@
+These components can display data from the Model and also send requests to theController to handle user events. Angular provides powerful HTML syntax to cre ate flexible and reliable interfaces. The View layer focuses on presenting data to the user, providing an intuitive and interactive user experience.

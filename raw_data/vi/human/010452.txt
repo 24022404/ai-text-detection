@@ -1,0 +1,1 @@
+Bằng cách chèn một đoạn mã độc thông qua các đoạn script để thực thi chúng ở phía máy của nạn nhân, các hacker sẽ ăn cắp dữ liệu nhận dạng người dùng như:

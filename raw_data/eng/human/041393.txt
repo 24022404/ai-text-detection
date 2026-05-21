@@ -1,0 +1,1 @@
+Deployment environment The system for both users and administrators and the server for the backend site is developed on the web platform by using Jquery with its libraries, tested on a local host environment.

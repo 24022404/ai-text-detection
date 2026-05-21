@@ -1,0 +1,1 @@
+Các chỉ báo phụ thuộc lẫn nhau Các chỉ báo điều được thực hiện sau khi có hệ thống cập nhật dữ liệu giao dịch mớ từ thị trường chứng khoán. Tuy nhên không phải tất cả các chỉ báo điều được chạy đồng thờ, bở có những chỉ báo phụ thuộc vào kết quả của những chỉ báo khác. Ví dụ như điể tính MACD phả có số liệu của EMA12 vàTOÁN CHỈ BÁO EMA26.

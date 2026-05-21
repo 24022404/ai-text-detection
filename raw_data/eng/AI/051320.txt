@@ -1,0 +1,9 @@
+Objective: Deploying deep 3D segmentation models in clinical settings is often constrained by the lack of GPU resources and the high computational demands of full-precision convolutions. This work introduces TernaryNet, a novel architecture that accelerates inference on CPU-only platforms for medical volumetric segmentation without compromising accuracy.  
+
+Methods: TernaryNet replaces conventional 3D convolutional layers with a combination of sparse and binary operations based on weight ternarization (values in {–1, 0, +1}). During training, weights are projected onto a ternary space via learnable thresholds, encouraging sparsity and enabling efficient bitwise arithmetic at inference. We further optimize memory layout and leverage CPU vector instructions to maximize throughput for 3D volumes.  
+
+Results: On two public medical imaging benchmarks, TernaryNet achieves up to 3× faster inference on a standard multi-core CPU compared to a baseline full-precision model, while reducing memory footprint by 60%. Segmentation accuracy, measured by Dice similarity coefficient, remains within 1.5% of the baseline on brain tumor and liver lesion tasks. Power consumption during inference drops by over 40%, enabling prolonged use on low-power edge devices.  
+
+Conclusion: By combining ternary weight quantization with sparse and binary 3D convolutions, TernaryNet offers a practical solution for real-time, GPU-free medical image segmentation. This approach democratizes advanced volumetric analysis in resource-limited environments and paves the way for on-premise, privacy-preserving clinical applications.  
+
+Keywords: TernaryNet, 3D segmentation, sparse convolution, binary convolution, weight ternarization, CPU inference, medical imaging.

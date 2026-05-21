@@ -1,0 +1,1 @@
+Tuy nhiên, hiện nay có rất ít những trang chuyên tuyển dụng điều dưỡng viên, đia số điều là những trang web của các công ty mở ra để giới thiệu công việc cũng như tuyển người cho công ty mình. Yêu bệu là trang  Trước thực trạng trong, em quyết định tạo một hệ thống tuyển dụng điều dưỡng tạo một cầu nối cho các điều dưỡng viên và các cơ sở điều dưỡng.

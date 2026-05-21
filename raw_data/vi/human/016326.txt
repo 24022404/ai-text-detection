@@ -1,0 +1,1 @@
+Poston Embeddng: Một véctơ có thể học được được thêm vào véctơ nhúng của mỗ mảng để mã hóa thông tin vị trí của nó.

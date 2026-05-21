@@ -1,0 +1,1 @@
+Artisan: Đây là một công cụ được cung cấp bởi Laravel web development. Lập trình viên tương tác với framework bằng cách sử dụng dòng lệnh tạo và quản lý Laravel web development project environment. Artisan là một công cụ tích hợp được cung cấp bởi Laravel giúp lập trình viên giải quyết các công việc mang tính lặp đi lặp lại nhàm chán.

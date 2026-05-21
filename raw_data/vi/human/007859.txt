@@ -1,0 +1,1 @@
+Gả pháp:Thư viện cung cấp một gả pháp xác thực đăng nhập sau khi đăng nhập, người dùng được cung cấp cặp access token và refresh token mã hoá theo chuẩn JWT (JSON Web Token). Mỗ token sẽ có các phần:

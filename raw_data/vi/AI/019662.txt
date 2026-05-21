@@ -1,0 +1,11 @@
+Xây dựng quy trình định lượng thuốc tiêm nhóm Beta - Lactam là một phần quan trọng trong việc đảm bảo chất lượng và an toàn của thuốc. Trong đó, Ertapenem, Ampicillin và Sulbactam là ba loại thuốc tiêm thuộc nhóm Beta - Lactam, được sử dụng rộng rãi trong điều trị các bệnh nhiễm khuẩn.
+
+Quy trình định lượng thuốc tiêm nhóm Beta - Lactam bao gồm các bước sau:
+
+- Thu thập mẫu thuốc tiêm từ nguồn cung cấp.
+- Xử lý và chuẩn bị mẫu thuốc tiêm.
+- Sử dụng phương pháp định lượng phù hợp (ví dụ: HPLC, GC) để đo nồng độ thuốc trong mẫu.
+- Xử lý và phân tích dữ liệu.
+- Đánh giá kết quả và đưa ra quyết định về chất lượng của thuốc.
+
+Quy trình này giúp đảm bảo rằng thuốc tiêm nhóm Beta - Lactam được cung cấp với nồng độ và chất lượng phù hợp, giảm thiểu rủi ro cho người sử dụng.

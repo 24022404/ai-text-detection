@@ -1,0 +1,1 @@
+Another solution, which is implemented in for my system, is to use short life span access tokens and refresh tokens. To overcome the risk of losing access token, they will have short life-spans. Therefore, if an attacker can get access to an user’s access token, it will be invalidated automatically in a very short amount of time.

@@ -1,0 +1,1 @@
+Thành phần Vew sẽ được thể hiện ở phần FrontEnd, tương tác trực tếp với người dùng Thành phần Model là cầu nối gữa cơ sở dữ liệu, hệ thống IPFS với những thành phần khác trong hệ thống 4.1.2 Thiết kế tổng quan Hình 4.2: Bểu đồ phụ thuộc gó Mô tả ch tết:

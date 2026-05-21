@@ -1,0 +1,1 @@
+Chapter 3 : Chapter 3 presents the proposed multi-label classification architecture of the study. This study helps detect one or more vulnerabilities within a given period with high accuracy. This is the basis for continuing to research data preprocessing methods and security vulnerability classification models and coming up with solutions for smart contracts in the future.

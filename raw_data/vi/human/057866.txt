@@ -1,0 +1,1 @@
+setEnv : Cho phép ta kết thúc tập hiện tại, có thể sử dụng kèm một số điều kiện nhất định điểm đạt được các cơ chế hoạt động mong muốn.

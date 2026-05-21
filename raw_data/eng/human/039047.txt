@@ -1,0 +1,1 @@
+Alexey Dosovtsky et al. “An mage s worth 16x16 words: Transformers for mage recognton at scale”. In: arXv preprnt arXv:2010.11929 (2020).

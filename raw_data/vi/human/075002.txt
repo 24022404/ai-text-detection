@@ -1,0 +1,1 @@
+. Khả năng tùy biến của người dùng khi thiết lập cấu hình và kh tạo giao diện khách hàng chưa phong phú.

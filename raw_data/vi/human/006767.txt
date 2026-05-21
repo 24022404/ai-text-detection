@@ -1,0 +1,1 @@
+Tổng kết lại, hàm mất mát cho mô hình RNet được tạo bởi 2 hàm mất mát dựa trên hình ảnh, một hàm mất mát dựa trên đặc trưng và 2 hàm mất mát dựa trên regularization.

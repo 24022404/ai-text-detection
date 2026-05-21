@@ -1,0 +1,1 @@
+Ifk > i +j > s then the sub-string (xi+2,..., x k−j−1)can be any word of length C2=X i,j⩾0; t=1(k−t+ 1)At. (4.13) From Equations (4.11), (4.12), (4.13), we get the result in Lemma 7.

@@ -1,0 +1,1 @@
+Tích hợp hai mô đun phát hiện và sửa lỗi chính tả vào hệ thống kiểm tra đạo văn của trường Công Nghệ Thông Tin và Truyền Thông Y. Lu, Y. Sh, GJa and. Yang, “A new method for semantic consistency verification of avaton radiotelephony communication based on LSTM RNN,” n2016 IEEE International Conference on Digital Signal Processing (DSP) IEEE, 2016. DOI:10.1109/cdsp.2016.7868592 .

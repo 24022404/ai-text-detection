@@ -1,0 +1,1 @@
+Đố với người dùng với vai trò là người học hệ thống cung cấp các chức năng như xem tổng quan các khóa học của người dùng khác, xem đánh giá từng khóa học, học ch tết các khóa học và làm bài kiểm tra khóa học.

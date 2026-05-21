@@ -1,0 +1,1 @@
+Prisma Prisma là một Object Relational Mapping (ORM) được dùng để xây dựng các máy chủ như GraphQL Server, RESTful APIs, microservice, ... Prisma đơn giản là 1 layer nằm giữa Web Server và Database. Prisma giúp chúng ta gao tép vớ db một cách dễ dàng hơn.

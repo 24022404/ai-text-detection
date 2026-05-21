@@ -1,0 +1,1 @@
+Normalization: là phương pháp scale dữ lệu từ mềm giá trị bất kỳ sang mền giá trị nằm trong  khoảng 0 đến 1. Phương pháp này yêu cầu chúng ta cần xác định đ ư ợc giá trị lớn nhất (max) và giá trị nhỏ nhất (min) của dữ lệu. Giá trị được normalize theo công thức sau:

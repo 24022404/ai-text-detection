@@ -1,0 +1,9 @@
+Objective: Accurate imputation of missing traffic sensor readings is critical for effective urban traffic management, yet existing methods often ignore the joint spatial and temporal dependencies in multiway traffic data. This paper introduces a novel Spatiotemporal Tensor Completion (STTC) framework designed to recover missing entries in urban traffic datasets by fully exploiting their inherent three-dimensional structure (time × location × feature).
+
+Methods: We model traffic flows as a third-order tensor and employ a low-rank tensor decomposition coupled with spatial graph regularization to capture topological relationships among road segments. Temporal continuity is enforced via smoothness constraints on the factor matrices. An efficient alternating optimization algorithm is developed to solve the resulting objective, balancing reconstruction fidelity, spatial consistency, and temporal coherence.
+
+Results: Experiments on two real-world urban traffic datasets demonstrate that STTC achieves up to 18% lower root-mean-square error (RMSE) compared to state-of-the-art matrix and tensor completion baselines. Ablation studies confirm the complementary benefits of spatial graph regularization and temporal smoothness.
+
+Conclusion: By jointly modeling spatial topology and temporal dynamics in a unified tensor framework, STTC significantly improves traffic data imputation accuracy. This enhancement supports more reliable traffic forecasting, congestion analysis, and real-time urban mobility services.  
+
+Keywords: spatiotemporal tensor completion, urban traffic imputation, tensor decomposition, missing data recovery, graph regularization.

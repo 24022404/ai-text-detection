@@ -1,0 +1,1 @@
+With a lot of interaction in the application frontend, application states could get convoluted if not handle correctly. To address the issue, I use Redux as the state management library in the frontend.

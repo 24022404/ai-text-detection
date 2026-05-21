@@ -1,0 +1,1 @@
+Mục tiêu chính của Mobile V2 là cải thiện hiệu suất và giảm đáng kể số lượng tham số so với các mạng nơron truyền thống, nhưng vẫn duy trì khả năng phân loại ảnh chất lượng cao. Điều này đặc biệt quan trọng trong các ứng dụng yêu cầu tốc độ xử lý nhanh và yêu cầu nguồn tài nguyên thấp, như trong việc triển khai trên các thiết bị di động có tài nguyên hạn chế.

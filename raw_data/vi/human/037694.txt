@@ -1,0 +1,1 @@
+Luồng sự kiện chính 1. Nhân viên bán hàng truy cập vào giao diện thanh toán nợ trên hệ thống.

@@ -1,0 +1,1 @@
+In the Data layer, the Data Package plays a vital role in efficiently managing in teractions with the MongoDB database and facilitating seamless connections withthe Modal package. It ensures secure and optimized storage, retrieval, and manip ulation of attendance-related data.

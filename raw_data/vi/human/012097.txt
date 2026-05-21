@@ -1,0 +1,1 @@
+Tích hợp bao gồm hỗ trợ phần cứng Ledger.Dựa vào khảo sát yêu cầu phần mềm, phần này trình bày các nội dung liên quan đến thiết kế, kết quả triển khai và kiểm thử của hệ thống.

@@ -1,0 +1,1 @@
+function deleteMessages This function helps with the request from user that want to delete a specific message in a conversation.

@@ -1,0 +1,1 @@
+Mô hình điều xuất trong đồ án này tiếp cận theo hướng phân loại nút mạng trong đồ thị (node classification). Mô hình mạng nơron đồ thị giải quyết bài toán trích xuất thông tin trong tài liệu gồm 3 môđun chính như sau:

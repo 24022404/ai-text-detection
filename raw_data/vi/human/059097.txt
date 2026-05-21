@@ -1,0 +1,1 @@
+SUMO (Smulaton of Urban Moblty) SUMO là một trình mô phỏng giao thông ch tết có mã nguồn mở, điược phát trển bở Vện Hệ thống Gao thông tạ Trung tâm Hàng không Vũ trụ Đức bằng cách sử dụng C ++ têu chuẩn. Nó điược cấp phép theo GPL (Gấy phép Công cộng).

@@ -1,0 +1,1 @@
+Quản lý mã nguồn phức tạp: Trong các ứng dụng lớn và phức tạp, PHP có thể dễ dàng trở nên khó kiểm soát do cú pháp linh hoạt và không nghiêm ngặt.

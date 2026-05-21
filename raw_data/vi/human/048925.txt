@@ -1,0 +1,1 @@
+Sau khi xác định được các biểu đồ mong muốn ở báo cáo phân tích, việc cần làm tiếp theo là thiết kế các bảng trong cơ sở dữ lệu phân tích. Cơ sở dữ lệu phân tích lưu trữ dữ lệu điầu ra của bước phân tích dữ lệu và đóng và trò làm nguồn dữ lệu để hiển thị lên các biểu đồ ở báo cáo.

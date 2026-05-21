@@ -1,0 +1,1 @@
+OWL Lte : Tập con của OWL DL, với nhiều giới hạn hơn nữa, đơn giản đối với người dùng nhưng khả năng diễn đạt hạn chế.

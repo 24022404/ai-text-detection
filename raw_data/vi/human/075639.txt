@@ -1,0 +1,1 @@
+Phân khúc khách hàng là nhóm các đối tượng khách hàng được phân chia theo từng đặc điểm cụ thể. Từng phân khúc khách hàng khác nhau sẽ có những đặc điểm, hành vi mua hàng khác nhau.

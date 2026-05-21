@@ -1,0 +1,1 @@
+Giao diện ứng dụng vẫn còn đơn giản nên trong ga đoạn tới, em sẽ cải thiện giao diện ứng dụng di động, làm cho trải nghiệm người dùng trên thiết bị di động tốt hơn, thân thiện hơn và thuận tiện hơn.

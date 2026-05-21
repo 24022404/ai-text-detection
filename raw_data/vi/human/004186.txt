@@ -1,0 +1,1 @@
+Ngoài ra, một trong những lợi ích của việc sử dụng PHP là tính bảo mật cao. PHP có khả năng hỗ trợ các công nghệ bảo mật, bao gồm SSL, SSH và nhiều hơn nữa, giúp cho ứng dụng của bạn được bảo vệ trước các mối đe dọa an ninh.

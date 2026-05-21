@@ -1,0 +1,1 @@
+While researching, we found out that all 3 platforms do not integrate dictionar ies to their platform. Although there are many dictionary out there already in the market, integrate one inside our learning application will create a more cohesiveexperience. Therefore, letting people have access to everything in only one plat form is our main priority.

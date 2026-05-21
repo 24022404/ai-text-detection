@@ -1,0 +1,1 @@
+P – Perl : Đây là ngôn ngữ kịch bản được dùng trong quản trị hệ thống, quản trị mạng và phát trển web. Perl cho phép người dùng lập trình các ứng dụng web d động.

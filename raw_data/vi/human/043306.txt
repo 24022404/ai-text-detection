@@ -1,0 +1,1 @@
+Thư mục Database bao gồm mgraton điể quy định bảng trong cơ sở dữ lệu, factory điể quy định cách sinh ra những dữ lệu gả điể kểm thử, và seed để tạo ra dữ lệu gả đó.

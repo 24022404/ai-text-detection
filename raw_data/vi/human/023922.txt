@@ -1,0 +1,1 @@
+Thư viện CryptoJS cung cấp các thuật toán bảo mật phổ biến như AES (Advanced Encryption Standard), DES (Data Encryption Standard), Triple DES, RC4, SHA1, SHA256, SHA512, HMAC (Hash Based Message Authentication Code), và nhiều thuật toán khác.

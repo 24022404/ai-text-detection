@@ -1,0 +1,1 @@
+Use case cập nhật sản phẩm cho phép người dùng cập nhật thông tin của một sản phẩm đang có trên hệ thống. Kh người dùng truy cập vào use case này, hệ thống sẽ yêu cầu người dùng chọn sản phẩm cần cập nhật và nhập các thông tin mới tương ứng. Sau khi cập nhật, hệ thống sẽ hiển thị lại danh sách các sản phẩm.

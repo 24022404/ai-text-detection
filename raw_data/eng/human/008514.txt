@@ -1,0 +1,1 @@
+The CNN 1-d model consists of two 1-dimensional convolutional layers, followed by three fully connected layers. The first convolutional layer processes an im age with one channel and outputs data with 28 channels using kernel size of three.

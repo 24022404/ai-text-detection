@@ -1,0 +1,1 @@
+The main purpose of this thesis is to develop an end-to-end system for automatically detecting violent behaviors from videos captured by surveillance cameras. Based on our survey from 1.2, we selected the deep learning approach because of its high accuracy and flexibility.

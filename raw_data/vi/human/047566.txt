@@ -1,0 +1,1 @@
+Dữ liệu thu thập từ thị trường chứng khoán là dữ liệu theo chuỗ thờ gan (tme seres). Để lưu trữ và truy vấn hiệu quả dữ liệu này, Apache Drud và Apache Kafka điã điược sử dụng trong sản phẩm này.

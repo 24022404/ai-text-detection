@@ -1,0 +1,1 @@
+The game is built in the form of a platformer with pixel art style, designed with pre-designed levels that allow players to explore mysterious lands and collect treasures to upgrade their power. The game will utilize the three libraries mentioned above to develop the game.

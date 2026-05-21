@@ -1,0 +1,1 @@
+Tính tái sử dụng ReactJS được xây dựng nhờ cha nhỏ ứng dụng thành các thành phần (component). Các component này có thể được tái sử dụng ở nhiều nơi trên ứng dụng web mà không cần mất thờ gần xây dựng một thành phần mớ có đặc điểm tương tự. Như đói giảm thiểu được số lượng mã phả vết.

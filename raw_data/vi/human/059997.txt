@@ -1,0 +1,1 @@
+Chương 3: Trình bày cụ thể về các công nghệ được sử dụng trong Đồ án này, cùng với đó là các ưu điểm và lý do sử dụng các công nghệ đió.

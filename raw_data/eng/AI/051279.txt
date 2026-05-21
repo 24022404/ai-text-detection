@@ -1,0 +1,1 @@
+VGG16, a leading model from the ILSVRC-2014 competition, demonstrates remarkable performance by achieving 92.7% test accuracy on ImageNet, which contains more than 14 million images over 1,000 object classes.

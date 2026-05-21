@@ -1,0 +1,1 @@
+Kiểm tra và xử lý các đầu vào người dùng trước khi chấp nhận chúng. Các đầu vào này có thể là các biểu mẫu nhập liệu, thông tin được gửi qua phương tiện truyền thông, hoặc các tham số truy vấn URL. Các nhà phát triển nên loại bỏ hoặc thay thế các ký tự đặc biệt và các chuỗi mã độc có thể bị chèn vào.

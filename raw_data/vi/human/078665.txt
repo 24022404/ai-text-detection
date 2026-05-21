@@ -1,0 +1,1 @@
+trị mà làm cho điộ lệch trị tuyệt điố trung bình (Mean Absolute Devaton  MAD) là nhỏ nhất. MAD điược tính bằng trung bình cộng của điộ lệch gữa dự đioán và thực tế, sau khi đã lấy trị tuyệt điố. Tuy nhên, với những mô hình dữ lệu thay điổ phải thay điổ điể thích ứng điược vớ sự thay điổ điột ngột gá trị dữ lệu. Theo Trgg và Leach, hệ số tùy chọn điược tính theo công thức sau:

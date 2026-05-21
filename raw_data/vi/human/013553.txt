@@ -1,0 +1,1 @@
+Nhanh chóng: Việc đưa ra một số tiêu chuẩn cho phép MySQL để làm việc rất hiệu quả và tiết kệm chi phí, do đó nó làm tăng tốc độ thực thi.

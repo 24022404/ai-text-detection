@@ -1,0 +1,1 @@
+Tuy nhên hệ thống hiện tạ vẫn chưa hoàn thiện ở một số phần như sau: chức năng quan sát thực tế tăng cường cho các thiết bị Androd, tích hợp API thanh toán ngân hàng, gửi emal để xác nhận điơn hàng, thay điổ mật khẩu và thông báo trong ứng dụng.

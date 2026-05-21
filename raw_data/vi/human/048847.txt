@@ -1,0 +1,1 @@
+Đồ án này cũng đã đi theo kiến trúc Flux thiết kế cho React. Các View, Stored tổng thể, các Dspatcher và Acton gọi điện các API được thiết kế và quan hệ rõ ràng.

@@ -1,0 +1,1 @@
+Specification for use case "Manage zoo sites" Use case code UC001 Use case name Manage zoo sites Actor Player Description Player do actions to manage zoo sites Precondition Player chooses offline mode Post condition No Activation No Main flow of event (success)1. Player goes to the food containers or food production sites to get the food items for zoo animals.

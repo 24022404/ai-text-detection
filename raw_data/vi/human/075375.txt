@@ -1,0 +1,1 @@
+Tên trường Kiểu dữ lệu Ý nghĩa d Trong d của người dùng name Trong tên người dùng email String địa chỉ email người dùng password Strong mật khẩu người dùng mage Trong ảnh đại diện của người dùng role Trung và trò người dùng( người mua hoặc người bán) Bảng 4.1: Mô tả chợ tết collection users Ch tết collection addresses được trình bày trong bảng sau:

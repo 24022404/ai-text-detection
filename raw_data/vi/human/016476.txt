@@ -1,0 +1,1 @@
+Scene view Đây là phần chính mà ta sử dụng trong quá trình phát triển ứng dụng. Sceneview cung cấp cho ta một cái nhìn tổng quát về ngữ cảnh của môi trường, trong đó Hình 2.1: Scene View trong Unti Hình 2.2: Game Vui trong Unti ta có thể thấy các vật thể và vị trí của chúng. Scene view được thể hiện trên hình 2.1.

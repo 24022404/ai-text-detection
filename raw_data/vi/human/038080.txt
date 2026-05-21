@@ -1,0 +1,1 @@
+Product : Thực thể "Product" mô tả một loạ sách tà lệu. Mỗ "Product" do quản trị viên tạo ra. Mỗ loạ sách có tên là duy nhất trong hệ thống, mô tả loạ sách, số lượng hiện tạ.

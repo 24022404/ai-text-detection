@@ -1,0 +1,1 @@
+Định hướng gả pháp Từ các mục tiêu đã nêu trong phần 1.3.1, em đề xuất định hướng gả pháp theo hướng sau: () Thực nghiệm mô hình PhoBERT, mô hình SVM cho bài toán phân tích sắc thái. Tiếp theo, () Xây dựng hệ thống thu thập và đánh giá sản phẩm.

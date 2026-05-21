@@ -1,0 +1,1 @@
+Interface designThe interface of the application is designed for use on desktop and laptop de vices. However, the interface needs to be compatible on many different screen sizes such as Ipad, smartphone for the most convenience for users.

@@ -1,0 +1,1 @@
+Stacked LSTM-GRU Model A configuration option, referred to as LG, determines the stacking order of the LSTM and GRU layers. When LG is set to false, the LSTM is stacked on top of the GRU. Conversely, when LG is set to true, the GRU is stacked on top of the LSTM.

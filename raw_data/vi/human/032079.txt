@@ -1,0 +1,1 @@
+Giả sử bạn muốn chia sẻ dữ lệu từ component A tớ component C thì chỉ cần đẩy state vào Store và Store sẽ cấp phát dữ lệu cho component C. Đây là mô hình mà Redux sử dụng, qua đó việc kiểm soát dữ lệu sẽ dễ dàng và tối ưu hơn.

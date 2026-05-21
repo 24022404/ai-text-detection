@@ -1,0 +1,1 @@
+View: The View is responsible for presenting the data to the user and handling user interaction. It can be thought of as the application’s presentation layer.

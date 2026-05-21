@@ -1,0 +1,1 @@
+Apache 2.4.47 (IPv6 enabled) + OpenSSL 1.1.1k MySQL 10.4.19 PHP 7.4.19 phpMyAdmn 5.1.0 Perl 5.32.1 4.3.3 Cà điặt mô trường Laravel có thể hoạt động trên nhều hệ điều hành và server.

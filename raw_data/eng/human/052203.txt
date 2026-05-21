@@ -1,0 +1,1 @@
+User Figure 3.3: Usecase Diagram b, Admin Use cases management is performed by Admin, including small use cases: add, modify, delete products or users.

@@ -1,0 +1,5 @@
+Nghiên cứu xây dựng chương trình mô phỏng quá trình xâm nhập mặn hai chiều (2D) là một dự án quan trọng trong lĩnh vực khoa học và công nghệ. Chương trình này nhằm mục đích mô phỏng và dự đoán quá trình xâm nhập mặn của nước biển vào các khu vực ven biển, giúp các nhà khoa học và quản lý tài nguyên nước hiểu rõ hơn về quá trình này và có thể đưa ra các quyết định sáng suốt.
+
+Chương trình mô phỏng này sẽ sử dụng các phương pháp và công nghệ hiện đại để mô hình hóa quá trình xâm nhập mặn, bao gồm các yếu tố như dòng chảy, nhiệt độ, độ mặn và các yếu tố khác. Kết quả của chương trình này sẽ giúp các nhà khoa học và quản lý tài nguyên nước dự đoán và phòng ngừa các tác động tiêu cực của quá trình xâm nhập mặn, như suy giảm nguồn nước ngọt, ảnh hưởng đến hệ sinh thái và các hoạt động kinh tế.
+
+Bằng cách xây dựng chương trình mô phỏng này, các nhà khoa học và quản lý tài nguyên nước có thể có được thông tin chính xác và đáng tin cậy về quá trình xâm nhập mặn, giúp họ đưa ra các quyết định sáng suốt và hiệu quả trong việc bảo vệ và quản lý tài nguyên nước.

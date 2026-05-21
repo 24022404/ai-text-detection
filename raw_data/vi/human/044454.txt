@@ -1,0 +1,1 @@
+Sau khi hoàn thành lưu file, Upload Service sẽ trả về các đường link tương ứng vớ các fle điã điược lưu trên AzureBlob Storage cho Upload Controller. Lúc này, Upload Controller ra lệnh cho CS Repository lưu thông tin CV vào cơ sở dữ liệu.

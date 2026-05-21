@@ -1,0 +1,1 @@
+CSS (vết tắt của Cascadng Style Sheets) là phương tiện để tìm và “tô điểm” cho các phần tử được tạo ra từ HTML. Như vậy, để tạo ra gao dện hoàn chỉnh của một trang web tĩnh, lập trình viên phải sử dụng cả HTML và CSS.

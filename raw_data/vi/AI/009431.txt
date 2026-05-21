@@ -1,0 +1,5 @@
+Ứng dụng phương pháp 4DVAR để đồng hóa dữ liệu AOD từ vệ tinh MODIS phục vụ dự báo nồng độ PM khu vực. Phương pháp 4DVAR (4-Dimensional Variational Data Assimilation) là một kỹ thuật được sử dụng để cải thiện độ chính xác của mô hình dự báo thời tiết và môi trường. Trong ứng dụng này, phương pháp 4DVAR được sử dụng để đồng hóa dữ liệu AOD (Tỷ lệ tán xạ ánh sáng) từ vệ tinh MODIS (Moderate Resolution Imaging Spectroradiometer) nhằm phục vụ dự báo nồng độ PM (Phát thải ô nhiễm) khu vực.
+
+Dữ liệu AOD từ vệ tinh MODIS được thu thập và xử lý để tạo ra một mô hình dự báo nồng độ PM khu vực. Phương pháp 4DVAR được áp dụng để cải thiện độ chính xác của mô hình dự báo bằng cách kết hợp dữ liệu AOD với các thông tin khác như thời tiết, địa hình và các yếu tố môi trường khác.
+
+Kết quả của ứng dụng này là một mô hình dự báo nồng độ PM khu vực có độ chính xác cao hơn, giúp các cơ quan chức năng và người dân có thể dự báo và phòng ngừa ô nhiễm môi trường hiệu quả hơn.

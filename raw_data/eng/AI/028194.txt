@@ -1,0 +1,1 @@
+OpenCV supports several programming languages through its APIs, making it easier to integrate with a wide range of software and systems.

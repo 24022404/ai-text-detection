@@ -1,0 +1,1 @@
+Đồng thờ được sử dụng để quản lý và cài đặt các thư viện và dependencies cần thiết cho một dự án Python.

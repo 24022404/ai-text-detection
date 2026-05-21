@@ -1,0 +1,1 @@
+Đố vớ những ứng dụng đia nền tảng, client điều được sử dụng cùng một hệ thống cơ sở dữ liệu, nó sẽ tự động cập nhật khi các Dev phát trển ứng dụng. Được bết, tất cả các dữ liệu được truyền tả trong quá trình cập nhật điều được bảo an toàn thông qua hệ thống SSL đã có chứng nhận 2048 lít.

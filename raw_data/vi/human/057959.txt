@@ -1,0 +1,1 @@
+–Lớp được gán nhãn: <rdfs:label>khách sạn</rdfs:label> Hình 3.6: Sơ đồ các lớp trong Ontology c, Thuộc tính trong Ontology Object properties:

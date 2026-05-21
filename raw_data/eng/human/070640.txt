@@ -1,0 +1,1 @@
+React-routes: Provides navigation to application components Layout: Build the overall layout of the application Redux: An application’s data storage and control component Components: Interface components on the application’s Browser.The server consists of the following main components:

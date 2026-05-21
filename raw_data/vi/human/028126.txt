@@ -1,0 +1,1 @@
+Cạnh của đồ thị được xây dựng dựa trên 2 yếu tố:1. Thông tin về mối quan hệ giữa các hộp văn bản của bộ dữ liệu (nếu có) 2. Tìm kiếm 4 hộp văn bản xung quanh (trên, dưới, trái, phải) của hộp văn bản đang xét Môđun mạng nơron đồ thị:

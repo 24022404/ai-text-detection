@@ -1,0 +1,1 @@
+Thêm bài viết vào danh sách bài viết của bộ sưu tập đã chọn thành công và hiển thị thông báo.5 Tạo mới và vết 1. Ấn nút “Create article”.

@@ -1,0 +1,1 @@
+Tính thực th cao: Xử lý yêu cầu với tần suất lớn 3.3.3 Nhược điểm của MySQL Giới hạn: Một số chức năng bị giới hạn.

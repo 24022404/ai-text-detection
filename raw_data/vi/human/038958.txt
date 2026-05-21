@@ -1,0 +1,1 @@
+Shipper có chức năng tiếp nhận đơn hàng và xác nhận nhận đơn. Để giao đơn hàng, hệ thống hỗ trợ bản đồ điểm giúp shipper giao hàng điếng người mua một cách dễ dàng.

@@ -1,0 +1,1 @@
+Phần học này có thể được tích hợp vào chính chatbot. Đều này thúc đẩy bot học hỏi từ những sai lầm và tự sửa chữa trong các cuộc trò chuyện trong tương la.

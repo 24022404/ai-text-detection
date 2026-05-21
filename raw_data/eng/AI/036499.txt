@@ -1,0 +1,9 @@
+Objective: Reinforcement learning (RL) agents often struggle to generalize to rare or adversarial scenarios, limiting their robustness and reliability in real-world applications. This paper introduces CoachNet, a novel adversarial sampling framework designed to systematically expose RL policies to challenging experiences during training.
+
+Methods: CoachNet comprises two coupled neural modules—a policy network and an adversarial sampler. The sampler learns to identify and generate high-impact state–action pairs that maximize the policy’s loss, while the policy network concurrently updates its parameters to minimize expected returns over both standard and adversarial samples. We implement CoachNet atop proximal policy optimization (PPO) and deep Q-learning (DQN), augmenting the replay buffer with adversarially selected transitions.
+
+Results: We evaluate CoachNet on a suite of benchmark tasks, including continuous-control environments (MuJoCo) and discrete-action domains (Atari 2600). Compared to baseline PPO and DQN agents, CoachNet achieves up to 35% faster convergence and improves out-of-distribution generalization by 20% under novel disturbance profiles. Ablation studies confirm that adversarial sampling, rather than increased data volume, drives gains in policy robustness and sample efficiency.
+
+Conclusion: By dynamically focusing training on the most informative and challenging experiences, CoachNet advances the state of the art in robust deep RL. Its adversarial sampling strategy yields policies that are both more resilient to perturbations and more data-efficient, with potential applications in autonomous robotics, strategic game playing, and safety-critical control systems.
+
+Keywords: reinforcement learning, adversarial sampling, robust policy learning, CoachNet, deep reinforcement learning.

@@ -1,0 +1,1 @@
+Hệ thống sử dụng Au Wallet làm công cụ để lên kết với ví người dùng. Ví Su Wallet  là ví mã nguồn mở được tích hợp nhiều tính năng giúp bạn truy cập, tìm hiểu và giao dịch trên Su:

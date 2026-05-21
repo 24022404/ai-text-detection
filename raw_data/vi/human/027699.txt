@@ -1,0 +1,1 @@
+Vì đây là bài toán hỗ trợ lựa chọn, đưa ra quyết định dựa trên đia tiêu chí trong lựa chọn nhà cung cấp dịch vụ đám mây nên tô sử dụng phương pháp AHP (AnalytcHerarchy Process). Đây một là một trong những phương pháp ra quyết định đa mục tiêu được đề xuất bởi Thomas L. Saaty – một nhà toán học người gốc Irắc .

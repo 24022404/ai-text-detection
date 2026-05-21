@@ -1,0 +1,1 @@
+Components make use of services, which provide functionality that is not directlyconnected to views. Service providers can be injected as dependencies into com ponents, making your code modular, reusable, and efficient.

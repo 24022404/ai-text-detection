@@ -1,0 +1,1 @@
+– ReLU (Rectified Linear Unit) : ReLU is a simple non-ar function with an output equal to 0 if the input is negative and equal to the input value if the input is positive. ReLU is widely used in modern Neural Networks because of its simplicity and fast calculation speed.

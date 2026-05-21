@@ -1,0 +1,1 @@
+Continuous Bag of Words (CBOW): the order of context words does not affect the prediction. The CBOW model tries to predict the current word based on the words around it in a sentence or block of text.

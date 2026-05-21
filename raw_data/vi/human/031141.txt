@@ -1,0 +1,1 @@
+NM_004006.2:c.4375C>T NC_000023.11:g.32389644G>AỞ 2 ví dụ trên, NM_004006.3, NC_000023.11 là phần trình tự tham chiếu (reference sequence), phần phía sau dấu hai chấm (’:’) mô tả về bến thể được đưa ra, c.4375C>T và g.32389644G>A.

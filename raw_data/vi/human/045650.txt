@@ -1,0 +1,1 @@
+STT Tên trường Kiểu dữ lệu Mô tả 1 date trong Ngày phân tích, ví dụ "20220415" 2 browser Integer Mã trình duyệt 3 user Integer Số người dùng 4 view Integer Số lượt xem Xử lý: Cần xử lý xâu thờ gan lấy đến ngày, sau đó tổng hợp số lệu theo ngày và nhóm theo trình duyệt. Số lượt xem sẽ là số lượng bản gh, số người dùng là số lượng bản ghi không lặp lại dựa trên trường gud.

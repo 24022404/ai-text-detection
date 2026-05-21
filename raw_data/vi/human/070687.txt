@@ -1,0 +1,1 @@
+Quản trị viên có thể tìm kiếm đi đơn hàng dựa theo mã đơn hàng, tên người nhận hoặc số điện thoại của người nhận. Bên cạnh đó, quản trị viên có thể xem ch tết thông tin đơn hàng, xóa đơn hàng hay thực hiện xác nhận trạng thái của đơn hàng: Chờ xác nhận, đang vận chuyển hoặc giao hàng thành công.

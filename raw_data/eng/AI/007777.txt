@@ -1,0 +1,1 @@
+A sequence of length t begins and ends with 1, and the set L includes left-unbalanced vertices where each vertex v has the form 0^j 1x1^t 0^s with s+t+j=k−1. Here, v is any such vertex in L not being the end-vertex of path P.

@@ -1,0 +1,1 @@
+Phát triển hệ thống với vai trò quản lý của khu vực quản lý, tích hợp các tính năng quản lý về doanh thu. Có thể trở thành một phần của hệ thống quản lý khu đô thị, tòa nhà.

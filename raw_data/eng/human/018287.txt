@@ -1,0 +1,1 @@
+Create post and updatefeeds1. Upload image, en ter content and select destination1. If the input is correct, notify success and update list post of user. The system will update the feeds of the users, who follow current user.

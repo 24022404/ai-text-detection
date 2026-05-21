@@ -1,0 +1,1 @@
+Using MongoDB as the database. MongoDB is a non-relational (NoSQL) database management system that has many advantages. It offers flexible data structures and integrates well with programming languages such as Java, Python, and Node.js. It also provides flexible query support, allowing complex queries and flexible data searches.

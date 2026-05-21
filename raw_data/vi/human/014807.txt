@@ -1,0 +1,1 @@
+P/B =Price/ (Book value per share ) trong đó Price là giá trị thị trường hiện tại của cổ phiếu, còn Book value per share là giá trị ghi sổ của một cổ phiếu, được tính bằng công thức:

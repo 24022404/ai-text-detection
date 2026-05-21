@@ -1,0 +1,1 @@
+Tương thích đa nền tảng: Python có thể chạy trên nhiều hệ điều hành khác nhau, bao gồm Windows, macOS, Linux và các hệ điều hành khác.

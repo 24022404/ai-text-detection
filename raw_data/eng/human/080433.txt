@@ -1,0 +1,1 @@
+D. Jha, P. H. Smedsrud, M. A. Regler, et al. , “Resunet++: An advanced architecture for medical image segmentation,” n 2019 IEEE International Symposium on Multimedia (IMS) , IEEE, 2019, pp. 225–2255.

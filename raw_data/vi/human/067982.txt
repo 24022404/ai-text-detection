@@ -1,0 +1,1 @@
+Thiết kế giao diện Hình 4.6: Thiết kế giao diện đơn ký chưa có tài liệu Hình 4.7: Thiết kế giao diện đơn ký đã có tài liệu tải lên Hình 4.8: Thiết kế giao diện các tà lệu điã ký4.2.2 Thiết kế lớp Hình 4.9: Thiết kế nhóm lớp cho dịch vụ ký Các phương thức chính của nhóm lớp dịch vụ ký:

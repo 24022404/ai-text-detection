@@ -1,0 +1,1 @@
+Chức năng Trong các user story có sự tham gia của người dùng như các chức năng đăng nhập hay đăng ký, thì cần có sự thông báo cho người dùng trong các trường hợp kh người dùng nhập sa.

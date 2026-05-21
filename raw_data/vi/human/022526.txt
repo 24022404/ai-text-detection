@@ -1,0 +1,1 @@
+Hoàn thiện logc cân bằng cho game : cân bằng là một phần quan trọng, quyết điịnh game có thành công hay không. Việc em sẽ làm là đưa bản chơi thử nghiệm cho người dùng, thu thập dữ liệu, phân tích và chỉnh sửa cân bằng phù hợp.

@@ -1,0 +1,1 @@
+Encoder for a (k, s)-RdB sequenceIn 1978, Fredricksen and Maiorana  proposed the FKM algorithm to effi ciently construct the lexicographically minimal de Bruijn sequence, which is later called the granddaddy sequence by Knuth . The algorithm was based on their finding of the connection between the de Bruijn sequence and Lyndon words.

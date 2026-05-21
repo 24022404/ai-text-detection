@@ -1,0 +1,1 @@
+The website will provide users with an intuitive and easy-to-use interface, as well as convenient and secure purchasing features. There will be a user management system to allow administrator access to each user’s account. The website will also provide forms for users to place orders and integrate many features such as on payment, courier service, and product information updates.

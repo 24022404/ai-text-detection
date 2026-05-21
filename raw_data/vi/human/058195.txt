@@ -1,0 +1,1 @@
+Chọn sản phẩm và số lượng cần mua.  Hệ thống không tiến hàng giao dịch mua.  Hệ thống không tiến hàng giao dịch nhận hàng.

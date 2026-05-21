@@ -1,0 +1,1 @@
+The user chooses two previously analyzed files to compare, allowing them to easily identify and highlight any differences between the analysis outcomes.

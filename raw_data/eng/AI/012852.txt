@@ -1,0 +1,9 @@
+Gaze estimation is a critical component in human-computer interaction, offering applications in areas such as virtual reality, assistive technologies, and behavioral analysis. This paper introduces GazeGAN, an innovative approach addressing the problem of gaze estimation through unpaired adversarial image generation. 
+
+Methods: The proposed GazeGAN leverages a Generative Adversarial Network (GAN) framework, specifically designed to generate realistic eye images that facilitate gaze estimation even in the absence of paired training data. The architecture includes two neural networks: a generator that synthesizes eye images conditioned on orientation and a discriminator that evaluates the realism of generated images while ensuring they conform to plausible gaze directions. 
+
+Results: Our experiments demonstrate that GazeGAN significantly improves the accuracy of gaze estimation compared to conventional supervised methods, particularly in scenarios with limited or unbalanced datasets. Quantitative analysis reveals that GazeGAN achieves superior generalization on eye datasets not seen during training, with substantial reductions in estimation error. Moreover, qualitative assessments indicate that the generated images closely resemble real eye images with precise gaze orientation.
+
+Conclusion: GazeGAN presents a novel, unpaired learning approach to gaze estimation, eliminating the dependency on labeled image pairs and enhancing robustness in diverse applications. This work contributes to the fields of computer vision and human-computer interaction by offering a scalable solution for gaze tracking systems. Potential applications of this research include intuitive user interfaces and improved accessibility features, expanding the horizons of gaze-based technology. 
+
+Keywords: Gaze Estimation, Generative Adversarial Network, Unpaired Learning, Image Synthesis, Human-Computer Interaction.

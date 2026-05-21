@@ -1,0 +1,1 @@
+Chọn Đặt hàng.  Hệ thống hiển thị cảnh báo yêu cầu nhập các thông tin đặt hàng.  Hệ thống hiển thị cảnh báo yêu cầu nhập các thông tin đặt hàng.  Đạt TC04  1. Không đăng nhập tài khoản thành viên.

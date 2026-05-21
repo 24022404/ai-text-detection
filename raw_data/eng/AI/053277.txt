@@ -1,0 +1,1 @@
+A Helpdesk website for ANSV will be developed utilizing the Model View Control architecture, incorporating a customer management system, and programmed using Odoo alongside HTML for efficient service and organization.

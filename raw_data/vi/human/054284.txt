@@ -1,0 +1,1 @@
+Phát biểu (Statements): Phát biểu là các mô tả về dữ kệu. Mỗ phát biểu là một bộ ba chủ thể  thuộc tính  giá trị.

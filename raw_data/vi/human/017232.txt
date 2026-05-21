@@ -1,0 +1,1 @@
+Đặc biệt, bài toán phát hiện lỗi sai và sửa lỗi sa đang được quan tâm ở rất nhiều lĩnh vực khác nhau, đặc biệt là các lĩnh vực liên quan tới việc phá vết văn bản chuyên môn.

@@ -1,0 +1,1 @@
+Ít chọn lựa: Khách hàng chỉ có thể xem và mua sắm những sản phẩm trong cửa hàng, giới hạn chọn lựa cho khách hàng.

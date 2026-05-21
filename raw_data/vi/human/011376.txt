@@ -1,0 +1,1 @@
+VEINS (Vehcle n Network Smulaton) Vens là một framework mô phỏng IVC (InterVehcular Communcaton) mã nguồn mở bao gồm một trình mô phỏng mạng và một mô hình mô phỏng ch tết giao thông điường bộ, điược sử dụng điể tích hợp OMNET ++ và SUMO. Các tính năng quan trọng nhất là:

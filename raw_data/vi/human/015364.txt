@@ -1,0 +1,1 @@
+Python là một ngôn ngữ lập trình thông dịch, được tạo ra vào năm 1991 bở Guido van Rossum. Python được thiết kế điểm đơn giản hóa quá trình lập trình, với cú pháp dễ đọc và dễ hiểu. Nó là một ngôn ngữ lập trình đa năng, có thể được sử dụng điểm phát triển các ứng dụng web, công cụ phân tích dữ liệu, trò chơi, ứng dụng di động, và nhiều thứ khác.

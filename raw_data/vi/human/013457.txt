@@ -1,0 +1,1 @@
+Tầm quan trọng: thể hiện Môtô cần phải được lên kết với một tập các thuật ngữ quan trọng, cung cấp thông tin hữu ích cho việc học nhúng thuật ngữ Độ tập trung: thể hiện Môtô cần được tập trung vào một hoặc một số ít chủ đề con trong nút phân loại hiện tại, do đó việc gộp nó sẽ giúp thuật toán phân tách các chủ đề tốt hơn.

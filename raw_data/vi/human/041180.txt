@@ -1,0 +1,1 @@
+Nhân viên có các chức năng quản lý sản phẩm, quản lý kho hàng, bán hàng, quản lý khách hàng và đăng nhập vào hệ thống. Nhân viên sẽ được cấp quyền truycập vào các chức năng này kh đăng nhập vào hệ thống.

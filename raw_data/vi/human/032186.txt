@@ -1,0 +1,1 @@
+Chương 2 trình bày về khảo sát và phân tích hiện trạng thực tế các phần mềm và ứng dụng "Quản lý bán hàng chuỗi cửa hàng cà phê" hiện có trên thị trường. Bằng cách này, chương 2 sẽ cung cấp một cái nhìn tổng quan về hiện trạng của hệ thống và đặt nền tảng cho các phần tiếp theo của đồ án.

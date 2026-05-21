@@ -1,0 +1,1 @@
+Many Machine Learning problems rely on unlabelled data found online, as obtaining labeled data can be both costly and time-consuming, particularly when it demands expert annotators. In contrast, unlabelled data is widely available and inexpensive, making it a more practical resource for various applications.

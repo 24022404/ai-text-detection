@@ -1,0 +1,1 @@
+− REST For Web Developers Hiện nguyên lý REST và cấu trúc dữ liệu RESTful đ ư ợc bết điển rất rộng rãi trong g ớ lập trình, nhưng vẫn có nhiều ngư ờ hay nhầm lẫn.

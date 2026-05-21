@@ -1,0 +1,1 @@
+Proof for lemma 5. Define 1x1tto be a sequence of length tsuch that start and end letters are both 1. Let L=C j=0 u:u= 0j1x1t0s, s+t+j=k−1 be the set of all left-unbalanced vertices Letv= 0j1x1t0sbe an arbitrary vertex in Lsuch that visn’t the end-vertex of pathP.

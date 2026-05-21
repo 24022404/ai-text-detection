@@ -1,0 +1,1 @@
+All of these components are specially designed to ensure high reusability and low coupling - they can be added to other character-like entities (e.g. staffs and visitors) without any modification. A brief explanation of each component is given in table 4.4.

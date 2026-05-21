@@ -1,0 +1,1 @@
+ndcator_name : trường thông tin kha báo tên chỉ báo, dướ dạng xâu không gồm kí tự dấu cách. Tên của Kafka topc và Drud datasource tương ứng cũng sẽ điược điặt có dạng <ndcator_name>_data .

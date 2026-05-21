@@ -1,0 +1,1 @@
+Truyền tải từ máy chủ trung gian điện người nhận: Sau khi máy chủ trung gan điã xử lý dữ liệu, nó sẽ chuyển tiếp dữ liệu biến các người dùng khác thông qua kết nối WebRTC  trực tiếp giữa máy chủ trung gian và người nhận. Dữ liệu sẽ được truyền tải qua kênh truyền thông hình ảnh và âm thanh trong WebRTC  để người nhận có thể nhìn thấy hình ảnh và nghe được âm thanh.

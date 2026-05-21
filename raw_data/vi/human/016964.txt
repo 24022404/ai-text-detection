@@ -1,0 +1,1 @@
+Chọn loại sản phẩm muốn lọc trong bộ lọc theo danh mục.  Hiển thị danh sách sản phẩm hợp lệ với từ khóa tìm kiếm và bộ lọc danh mục.  Hiển thị danh sách sản phẩm hợp lệ với từ khóa tìm kiếm và bộ lọc danh mục.  Đạt TC04  1. Nhập từ khóa sản phẩm phù Hiển thị danh sách sản phẩm hợp lệ với từ khóa tìm kiếm, bộ Hiển thị danh sách sản phẩm hợp lệ tìm kiếm.

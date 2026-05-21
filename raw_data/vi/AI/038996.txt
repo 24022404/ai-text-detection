@@ -1,0 +1,9 @@
+Xây dựng cơ sở tri thức ngữ nghĩa và chatbot về du lịch Hà Nội là một hệ thống thông tin được thiết kế để cung cấp thông tin và hỗ trợ cho khách du lịch khi đến thăm thành phố Hà Nội. Hệ thống này dựa trên cơ sở tri thức ngữ nghĩa được xây dựng dựa trên các khái niệm và định nghĩa liên quan đến du lịch, văn hóa và lịch sử của Hà Nội.
+
+Hệ thống này bao gồm hai phần chính: cơ sở tri thức ngữ nghĩa và chatbot. Cơ sở tri thức ngữ nghĩa là một kho dữ liệu được xây dựng dựa trên các thông tin về du lịch, văn hóa và lịch sử của Hà Nội, bao gồm các thông tin về địa điểm du lịch, hoạt động du lịch, ẩm thực, và các thông tin khác liên quan đến du lịch.
+
+Chatbot là một phần mềm được thiết kế để tương tác với người dùng và cung cấp thông tin và hỗ trợ cho họ. Chatbot có thể trả lời các câu hỏi của người dùng về du lịch Hà Nội, cung cấp thông tin về các địa điểm du lịch, hoạt động du lịch, ẩm thực, và các thông tin khác liên quan đến du lịch.
+
+Hệ thống này được thiết kế để hỗ trợ cho khách du lịch khi đến thăm thành phố Hà Nội, giúp họ có thể tìm hiểu và khám phá các địa điểm du lịch, hoạt động du lịch, ẩm thực, và các thông tin khác liên quan đến du lịch. Hệ thống này cũng có thể được sử dụng để hỗ trợ cho các doanh nghiệp du lịch và các tổ chức liên quan đến du lịch.
+
+Tóm lại, hệ thống Xây dựng cơ sở tri thức ngữ nghĩa và chatbot về du lịch Hà Nội là một hệ thống thông tin được thiết kế để cung cấp thông tin và hỗ trợ cho khách du lịch khi đến thăm thành phố Hà Nội, giúp họ có thể tìm hiểu và khám phá các địa điểm du lịch, hoạt động du lịch, ẩm thực, và các thông tin khác liên quan đến du lịch.

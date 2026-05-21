@@ -1,0 +1,1 @@
+J. Devlin, M.-W. Chang, K. Lee andK. Toutanova, “Bert: Pre-training of deep bidirectional transformers for language understanding,” inProceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies volume 1, Association for Computational Linguistics, 2019, pages 4171–4186.

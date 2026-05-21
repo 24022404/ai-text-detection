@@ -1,0 +1,1 @@
+Phương pháp kểm thử hộp đien bao gồm: Phân vùng tương điương, phân tích giá trị bên, tất cả các cặp kểm thử, bảng chuyển điổ trạng thá, kểm thử bảng quyết định, kểm thử chéo, kểm thử dựa trên mô hình, sử dụng Test Case, thăm dò kểm thử và kểm thử dựa trên điặc điểm kỹ thuật.

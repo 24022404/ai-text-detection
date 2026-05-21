@@ -1,0 +1,1 @@
+Tổng quan, mẫu kiến trúc MVC cho hệ thống website bán quần áo giúp tách biệt và tổ chức rõ ràng các thành phần dữ lệu, logic nghiệp vụ và giao diện. Điều này đảm bảo tính linh hoạt, dễ bảo trì và tăng khả năng tái sử dụng của hệ thống.

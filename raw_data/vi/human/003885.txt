@@ -1,0 +1,1 @@
+Thiết kế cơ sở dữ lệu Dự án này sử dụng cơ sở dữ lệu của FreeStore dạng NoSQL.Cơ sở dữ lệu được chia thành 5 tập (collection). Trong các tập dữ lệu sẽ có các trường là một mảng hoặc một tập khác.

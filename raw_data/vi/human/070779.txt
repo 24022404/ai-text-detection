@@ -1,0 +1,1 @@
+Các use case do Đại diện trung tâm và Quản trị viên sử dụng thì người dùng cần đăng nhập với vai trò tương ứng.

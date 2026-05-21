@@ -1,0 +1,1 @@
+Đố vớ mô hình huấn luyện sử dụng SVM thì ta có kết quả đánh giá trên Accuracy và F1 Score như sau:

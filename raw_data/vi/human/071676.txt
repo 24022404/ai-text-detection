@@ -1,0 +1,1 @@
+Kh dữ lệu cần tải về quá lớn và ứng dụng sẽ phải chờ đến khi trả hết dữ lệu, lúc đó người dùng cảm thấy không thoải mái.

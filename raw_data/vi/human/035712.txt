@@ -1,0 +1,1 @@
+Phạm vi của điều tra giới hạn trong những chức năng: kết bạn, tạo nhóm và quản lý nhóm, gửi tin nhắn, gửi hình ảnh, gửi file và thực hiện gọi video.

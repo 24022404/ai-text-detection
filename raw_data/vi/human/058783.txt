@@ -1,0 +1,1 @@
+NodeJs NodeJs  là một framework phát triển ứng dụng web đa nền tảng dựa trên JavaScript. Nó cho phép các lập trình viên tạo mã JavaScript ở phía máy chủ có thể được xây dựng và chạy bở NodeJs runtime. Framework này được phát triển bở Joyent Inc. và sau này được phát hành miễn phí dưới dạng phần mềm mã nguồn mở.

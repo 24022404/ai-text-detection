@@ -1,0 +1,1 @@
+Chapter 1 first briefly introduces the QKD protocol, along with the reasonablemotivation to study the synchronization mechanisms in satellite quantum chan nels. Among such mechanisms, the timing and synchronization system proposed by Zhang, Oi, Lowndes, et al. in  is analyzed to recognize its disadvantages.

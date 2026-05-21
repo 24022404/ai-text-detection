@@ -1,0 +1,1 @@
+A screenshot of the device or emulator is captured and stored in the analysis system, enabling users to review and examine the image for documentation purposes or to support further investigation.

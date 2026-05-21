@@ -1,0 +1,1 @@
+The component is misaligned, causing the component pins to press on other pins, leading to a tin bridge.•During tin printing, tin is more than the standard, resulting in a tin bridge There are many other reasons as well Solution:

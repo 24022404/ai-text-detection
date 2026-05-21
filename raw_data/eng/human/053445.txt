@@ -1,0 +1,1 @@
+Customer Details Integrating customer information directly within the helpdesk interface is common. This can include contact details, customer history, phone,company,. . .

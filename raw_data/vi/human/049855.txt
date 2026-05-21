@@ -1,0 +1,1 @@
+Các bà dịch được sắp xếp theo số lượng yêu thích đối với bà vết đó. Một bà viết có nhiều lượt yêu thích sẽ được hiển thị lên đầu tên.

@@ -1,0 +1,1 @@
+Các logc trên được chuyển hoá thành một API, từ đó bất kỳ vật thể nào có quyền truy cập API này điều có khả năng thay đổi trạng thái đèn. Điều này giúp cho agent của ta có khả năng thực thi hành động, tạo ra các tác động trên mô trường, từ đó có thể tạo thành một mô trường huấn luyện hoàn chỉnh.

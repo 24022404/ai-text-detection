@@ -1,0 +1,1 @@
+R. A. Morano et al. (1998) introduce a structured light approach using pseudorandom codes to enhance pattern analysis and machine intelligence, as detailed in IEEE Transactions on Pattern Analysis and Machine Intelligence.

@@ -1,0 +1,1 @@
+Admin selects the "Add Product" option from the dashboard menu. The system provides a form on which the product’s information, including name, description, price, and image, can be entered.

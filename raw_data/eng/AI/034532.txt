@@ -1,0 +1,1 @@
+Kaggle organizes a variety of data science competitions covering areas such as machine learning, data analysis, natural language processing, and computer vision. Sponsored by companies and organizations, these contests reward winners with cash prizes, career opportunities, and industry recognition.

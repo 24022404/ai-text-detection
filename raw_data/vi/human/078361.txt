@@ -1,0 +1,1 @@
+Tầng này xử lý nghiệp vụ chính trong Server, thường gọi tớ các phương thức được cấp từ Repository và trả về dữ liệu cho tầng API.

@@ -1,0 +1,1 @@
+Gao vện khi người chơ dừng game Hình 4.14: Hình ảnh gao den pause game Gao den này hiện ra kh người chơi bấm phím Escape (esc) hoặc bấm nút Pause trên thanh công cụ cạnh bình máu. Lúc này mọi hoạt động trong game sẽ dừng lạI Ở đây họ có thể chọn tiếp tục chờ, lưu game, chạy save file, bắt đầu lại, thoát ra menu chính và thoát game bằng cách bấm vào các nút tương ứng.

@@ -1,0 +1,1 @@
+Hiển thị giao diện tạo bà dịch tạo tab mới trong danh sách các tab bài dịch của bài vết.

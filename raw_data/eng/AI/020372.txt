@@ -1,0 +1,1 @@
+The function checks if the Android version is compatible with the environment, and if it finds the version outdated or unsupported, it initiates Alyzing via env.alyzy_init().

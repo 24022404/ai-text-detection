@@ -1,0 +1,1 @@
+Trong chương 3 , em đã tìm hiểu và trình bày kiến thức cơ bản và lí do tại sao em lại chọn sử dụng những công nghệ này để phát triển hệ thống.4.1 Thiết kế kiến trúc 4.1.1 Lựa chọn kiến trúc phần mềm Trong hệ thống, em đã sử dụng kiến trúc MVC, viết tắt của cụm từ Model  View  Controller điểm xây dựng cho 2 website phía client và xây dựng kiến trúc của server.

@@ -1,0 +1,1 @@
+Sau quá trình tiền xử lý ảnh gốc ban đầu, tô tiến hành thử nghiệm huấn luyện trên những mô hình nhẹ. Trong quá trình huấn luyện, tô cũng kết hợp với đó là thay đổi tham số như tốc độ học, hàm mất mát, thêm một và những lớp ở cuối mô hình như lớp gộp, lớp chuẩn hóa và tỉ lệ bỏ qua nút.

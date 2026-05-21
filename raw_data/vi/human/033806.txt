@@ -1,0 +1,1 @@
+Thiết kế cho tết góa, Thiết kế cho tết có User Hình 4.4: Thiết kế góc User Hình 4.4 mô tả chi tiết thiết kế góc User. Trong gió User Model gồm có 2 lớp:

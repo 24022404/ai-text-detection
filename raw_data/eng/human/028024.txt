@@ -1,0 +1,1 @@
+Annually ImageNet with the top 5 classification error reduced by more than 10% compared to previous traditional models, created a strong wave of using deep CNN with GPU support to solve more and more problems. in Computer Vision.

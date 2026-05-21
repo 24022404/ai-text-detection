@@ -1,0 +1,1 @@
+Các chức năng của trang web bán nội thất trực tuyến gồm có: chức năng của khách hàng, và chức năng của quản trị vên.

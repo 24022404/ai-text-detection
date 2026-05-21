@@ -1,0 +1,1 @@
+OWL DL (Description Logic) : Là một tập con của OWL Full, giới hạn ứng dụng các thành phần từ OWL và RDF, hỗ trợ suy diễn hiệu quả nhưng mất tính tương thích với RDF.

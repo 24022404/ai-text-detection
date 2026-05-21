@@ -1,0 +1,1 @@
+Although there are now a lot of applications or themes to change the interface or operating mechanism of the search page, a part of customers can’t afford the price or don’t know how to use it due to too many layers. and attributes. so this project will solve the problems mentioned above.

@@ -1,0 +1,1 @@
+Ze Lu et al. “Swn transformer: Herarchcal vson transformer usng shfted wndows”. In: Proceedngs of the IEEE/CVF nternatonal conference on computer vson . 2021, pp. 10012–10022.

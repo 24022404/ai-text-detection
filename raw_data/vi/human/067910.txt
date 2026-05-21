@@ -1,0 +1,1 @@
+Ngoài ra ReactJS còn kết hợp được với rất nhiều các thư viện hiện đại khác giúp việc xây dựng giao diện trở nên linh hoạt, đơn giản.

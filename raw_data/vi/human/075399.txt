@@ -1,0 +1,1 @@
+Ckeditor  hỗ trợ nhiều ngôn ngữ lập trình khác nhau như JavaScript, HTML, CSS, Python, Ruby và nhiều ngôn ngữ khác. Nó cung cấp các tính năng như tô màu từng từ, gợi ý mã, kiểm tra cú pháp, tự động thụt lề, và nhiều tính năng khác điểm giúp làm việc với mã nguồn dễ dàng hơn.

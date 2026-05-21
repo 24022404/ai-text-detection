@@ -1,0 +1,1 @@
+Tóm lạ, MySQL là một hệ quản trị cơ sở dữ liệu mã nguồn mở phổ biến nhất hiện nay, được sử dụng rộng rãi trong các ứng dụng web vì tính đơn giản, dễ sử dụng, tốc độ xử lý nhanh và khả năng mở rộng. MySQL là một lựa chọn lý tưởng cho các nhà phát triển ứng dụng web và quản trị viên cơ sở dữ liệu.

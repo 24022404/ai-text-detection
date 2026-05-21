@@ -1,0 +1,1 @@
+WikiHow  consists of more than 230k article and summary pairs extracted and constrcuted from the on WikiHow.com websites written by different human authors. The articles span a wide range of topics and represent high diversity styles.

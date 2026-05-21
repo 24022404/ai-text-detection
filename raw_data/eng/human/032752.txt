@@ -1,0 +1,1 @@
+Consequently, these translations might lead to undesirable outcomes and potential misunderstandings for users. The development of a multi-domain machine translation system addresses this limitation, offering more contextually appropriate and accurate translations across various domains, and ultimately enhancing the user experience.

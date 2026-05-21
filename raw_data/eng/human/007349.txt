@@ -1,0 +1,1 @@
+Momentum Investment Analysis: The application provides an analysis of mo mentum investment strategy, focusing solely on the momentum factor. Users canview the profit charts of this strategy to gain a deeper understanding of its func tioning.

@@ -1,0 +1,1 @@
+Sau khi xác định được 4 điểm trên tài liệu nghiêng, hình bên phả của 3.1 là kết quả của phép biến đổi góc nhìn. Sau khi sử dụng phép biến đổi góc nhìn, thứ được ảnh chỉ chứa vùng văn bản, bỏ qua bối cảnh phức tạp bên ngoài.

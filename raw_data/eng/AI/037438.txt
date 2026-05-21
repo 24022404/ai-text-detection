@@ -1,0 +1,1 @@
+The config includes common web settings like list page size and default page number, Redis parameters, and basic database operation options.

@@ -1,0 +1,1 @@
+Là người dùng tô muốn có chức năng bình luận vào bài viết để có thể thực hiện bình luận vào bài viết 1. Acceptance Criteria 1:

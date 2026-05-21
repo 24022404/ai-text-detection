@@ -1,0 +1,1 @@
+Tuy nhiên, trong quá trình thực hiện cũng không tránh khỏi những thiếu sót, hạn chế. Cụ thể là các chức năng của trang web mới dừng ở mức đơn giản, cơ bản với khách hàng và quản trị viên, giao diện chưa có nhiều sáng tạo, đặc biệt là vớ trang web bán nội thất yêu cầu tính thẩm mỹ khá cao. Cuối cùng là hệ thống bảo mật thông tin khách hàng cũng chưa được tối ưu.

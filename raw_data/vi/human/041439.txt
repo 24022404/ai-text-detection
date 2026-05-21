@@ -1,0 +1,1 @@
+Phát triển web động: PHP phù hợp cho việc phát triển các trang web động, cho phép tương tác với người dùng qua biểu mẫu, quản lý phiên làm việc, và tạo nội dung động.

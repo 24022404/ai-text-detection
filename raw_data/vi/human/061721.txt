@@ -1,0 +1,1 @@
+*UserController: xử lý các yêu cầu về đăng nhập, đăng ký *Friend Controller: xử lý các yêu cầu lấy ra danh sách bạn bè, lấy ra danh sách không phải bạn bè.

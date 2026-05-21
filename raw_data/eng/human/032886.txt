@@ -1,0 +1,1 @@
+Zhuang Lu et al. “A convnet for the 2020s”. In: Proceedngs of the IEEE/CVF conference on computer vson and pattern recognton . 2022, pp. 11976– 11986.

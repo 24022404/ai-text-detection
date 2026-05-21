@@ -1,0 +1,1 @@
+Ngoài ra, còn có nhiều doanh nghiệp khác sử dụng Magento như: Samsung, Nestle, Lenovo, v.v. Tuy nhiên, điểm chung của các doanh nghiệp trên là đang tập trung phát triển Magento trên nền tảng web và chưa có các ứng dụng di động điểm tích hợp nền tảng này.

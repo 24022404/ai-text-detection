@@ -1,0 +1,1 @@
+Quản lý thông tin cá nhân User có thể xem, chỉnh sửa thông tin cá nhân của mình trên ứng dụng. Sau khi chỉnh sửa xong thì chỉ cần gửi lên hệ thống điểm lưu lạ.

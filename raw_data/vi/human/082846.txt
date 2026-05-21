@@ -1,0 +1,1 @@
+Vớ tất cả những ưu điểm trên, em đã chọn Kotlin làm ngôn ngữ lập trình chính điểm xây dựng ứng dụng Android cho frontend và Spring Boot cho backend của điều tà này.

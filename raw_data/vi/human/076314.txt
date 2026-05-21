@@ -1,0 +1,1 @@
+Ứng dụng nhìn chung đã cung cấp điược cơ bản các chức năng của một hệ thống quản lý tà sản như: Hệ thống người dùng, theo dõ sản phẩm, điơn hàng thuê sản phẩm ..., Cùng như điố với em điây là một sản phẩm vớ gao vện điẹp, hiện điạ và khá thân thiện. Đây là những chức năng têu chuẩn mà hầu như các sản phẩm trên thị trường điều điáp ứng điược.

@@ -1,0 +1,1 @@
+Phương ngữ N am Trung Bộ là phương ngữ có sự chuyển biến nguyên âm rõ rệt nhất. Trên cơ sở khảo sát sự chuyển biến này, bài báo đưa ra một số nhận xét về hệ quả của nó mà quan trọng nhất là việc một số nguyên âm đã mất hẳn trong hệ thống nguyên âm tiếng Việt.

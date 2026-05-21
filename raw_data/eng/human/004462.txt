@@ -1,0 +1,1 @@
+Y. Fang, C. Chen, Y. Yuan, and K.y. Tong, “Selective feature aggregato network wth area boundary constraints for polyp segmentation,” n International Conference on Medical Image Computing and Computer Based Intervention , Springer, 2019, pp. 302–310.

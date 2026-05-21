@@ -1,0 +1,1 @@
+exp(−uT ltvc) từ ngữ cảnh thay vì toàn bộ từ vựng trong từ điển. Do đió mô hình này sẽ hoạt động tốt hơn ngay cả khi số lượng từ vựng là rất lớn.

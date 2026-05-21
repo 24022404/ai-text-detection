@@ -1,0 +1,1 @@
+However, even if it is set as secret, an attacker can still parse the blockchain data because the variables are stored in plain text.

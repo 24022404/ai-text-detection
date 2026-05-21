@@ -1,0 +1,1 @@
+Cuối cùng là ViewModel. Nó có trách nhiệm phơ bày các phương thức, lệnh, và các thuộc tính khác giúp duy trì trạng thái của ve, vận dụng modem như là kết quả của các hành động ở view, và trigger các sự kiện ở chính bản thân ve. View có tham chiếu đến ViewModel nhưng ViewModel không có thông tin gì về View.

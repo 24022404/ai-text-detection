@@ -1,0 +1,1 @@
+Báo cáo đồ án tốt nghiệp này được tổ chức thành sáu chương: Chương 2 trình bày cho tết về các ứng dụng có chức năng tương tự, dựa trên nhu cầu của người dùng. Từ đó, các chức năng cần có của ứng dụng quản lý được liệt kê và đề xuất.

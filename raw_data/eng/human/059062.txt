@@ -1,0 +1,1 @@
+Search desti nations, users or hotels1. Click search input in nav bar1. An dropdown component appear, show recent search results 2. Enter keywordChange language1. Click user drop down on right navbar.1. Switch website language 2. Select "Change language" button.

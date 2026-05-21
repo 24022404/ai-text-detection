@@ -1,0 +1,1 @@
+Trong thực tế, bất kỳ phần mềm nào cũng cần có các tính năng quản lý người dùng, nhóm người dùng, và cần phân quyền sử dụng các chức năng trong hệ thống một cách linh động.

@@ -1,0 +1,1 @@
+Mặc dù kiến trúc chỉ gồm các bến đỗ attention nhưng Transformer lạ có kết quả rất tốt trong các tác vụ NLP như sentiment analysis và dịch máy.

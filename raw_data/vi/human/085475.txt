@@ -1,0 +1,1 @@
+Host: có thể đăng tả, quản lý thông tin homestay, quản lý các đơn đặt phòng trong homestay của mình.

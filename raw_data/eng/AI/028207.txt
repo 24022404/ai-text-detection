@@ -1,0 +1,1 @@
+Fredricksen and Maiorana (1978) developed the FKM algorithm to produce the lexicographically minimal de Bruijn sequence, often called the granddaddy sequence. Their method makes use of the relationship between de Bruijn sequences and Lyndon words, enhancing the efficiency of sequence generation.

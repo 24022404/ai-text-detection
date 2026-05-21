@@ -1,0 +1,1 @@
+Gó Controller: định nghĩa các xử lý nhận request và trả response – làm nhiệm vụ xử lý nhận request, điều hướng tớ xử lý ở gò Repository, nhận kết quả và xử lý trả response•Gó Repository: định nghĩa các xử lý chính liên quan tới dữ lệu – làm nhiệm vụ thao tác với các góc khác và CSDL, trả về kết quả cho các góc tầng trên.

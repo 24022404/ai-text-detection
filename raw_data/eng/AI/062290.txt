@@ -1,0 +1,9 @@
+The paper addresses the challenge of accurately recognizing human actions using skeleton-based data, a critical task in areas such as human-computer interaction, video surveillance, and sports analytics. Traditional methods often face limitations in handling complex motions efficiently due to dense and computationally expensive models.
+
+Methods/Approach: We propose a novel approach utilizing sparsified graph regression to enhance skeleton-based action recognition. By representing skeleton data as graphs, this method applies sparsification techniques to reduce the computational load without sacrificing accuracy. The approach leverages graph convolutional networks to model the spatial-temporal dynamics of human actions efficiently.
+
+Results/Findings: Extensive experiments on benchmark datasets demonstrate that our model achieves superior recognition accuracy compared to existing approaches, with significantly reduced computational complexity and resource consumption. Our sparsified model maintains high performance by retaining critical structural information while discarding redundant data points.
+
+Conclusion/Implications: The proposed sparsified graph regression method offers a valuable advancement in action recognition technology by facilitating real-time processing with limited computational resources. This research contributes to the field by demonstrating innovative use of sparsification in graph-based models, paving the way for robust, scalable applications in diverse real-world scenarios.
+
+Keywords: Skeleton-based action recognition, sparsified graph regression, graph convolutional networks, human-computer interaction, computational efficiency.

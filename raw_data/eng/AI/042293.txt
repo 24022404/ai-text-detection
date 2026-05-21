@@ -1,0 +1,9 @@
+Objective: This paper addresses the computational bottleneck of model-agnostic explanation methods, which often trade off explanation fidelity for real-time applicability. We aim to deliver accurate feature-based explanations with significantly reduced runtime.
+
+Methods: We introduce E3, an Empirical Explainer Engine that combines adaptive sampling with on-the-fly feature interaction pruning. E3 builds local surrogate models by iteratively selecting representative data points from a model’s training distribution, guided by a novel uncertainty-driven selection criterion. To limit overhead, our framework caches intermediate statistics and dynamically adjusts sampling budgets based on a target fidelity threshold.
+
+Results: We evaluate E3 on six benchmark datasets spanning classification and regression tasks, including image, tabular, and text data. Compared to standard explainers (e.g., LIME, SHAP), E3 achieves up to 5× speed-ups in explanation generation while maintaining >95% agreement on feature importance rankings. In stress tests with high-dimensional inputs, E3 reduces computation time by 60% on average, with negligible impact on explanation stability. A user study further confirms that E3’s explanations retain interpretability and user trust.
+
+Conclusion: E3 demonstrates that empirical explainers can be made both fast and faithful without sacrificing interpretability. By leveraging adaptive sampling and caching, our approach facilitates interactive diagnosis of complex models in resource-constrained settings. This work paves the way for deploying real-time explainability services across healthcare, finance, and autonomous systems.
+
+Keywords: model explainability; empirical explainer; adaptive sampling; feature importance; efficient explanations.

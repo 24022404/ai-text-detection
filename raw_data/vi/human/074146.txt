@@ -1,0 +1,1 @@
+Ngoài các yêu cầu nghiệp vụ, hệ thống còn cần phải đáp ứng được các yêu cầu phi chức năng sau Tính dễ dùng:

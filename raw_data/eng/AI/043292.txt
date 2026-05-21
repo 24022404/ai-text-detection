@@ -1,0 +1,1 @@
+Each k-length word v in ck,s is positioned at its location in x minus j, except for words of the form 1^j0^{k−j} (with 1⩽j⩽s), which appear at the end of ck,s; algorithm 2 formally describes decoding.

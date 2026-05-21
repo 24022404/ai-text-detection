@@ -1,0 +1,1 @@
+Bước 2: Hệ thống sẽ chờ cho tớ kh block mới nhất của mạng chuỗi khố lớn hơn block tại thời điểm giao dịch được thực hiện một số lượng Block Confirmation, sau đó dữ liệu sẽ được xử lý lạ và điánh nhãn là dữ lệu điã điược xác thực hoàn toàn.

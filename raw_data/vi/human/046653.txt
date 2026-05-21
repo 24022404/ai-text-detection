@@ -1,0 +1,1 @@
+Đố với các yêu cầu dành cho khách: Khách là người dùng chưa đăng nhập vào hệ thống, khách có thể thực hiện các chức năng đăng ký tài khoản vào hệ thống hoặc đăng nhập vào hệ thống, có thể xem và tìm kiếm các bài viết.

@@ -1,0 +1,1 @@
+(vsted on 08/05/2022). D. Merkel, “Docker: Lightweight linux containers for consistent development and deployment,” Linux journal , vol. 2014, no. 239, p2, 2014. [Online]. Available:  (wasted on 08/05/2022).

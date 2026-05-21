@@ -1,0 +1,1 @@
+The purpose is to provide the admin with a comprehensive overview of all users and their roles, facilitating efficient user management. Additionally, the paragraph introduces and analyzes the technologies and platforms utilized in the project and task management application to address specific challenges and requirements effectively.

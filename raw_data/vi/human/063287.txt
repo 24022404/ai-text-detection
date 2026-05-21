@@ -1,0 +1,1 @@
+Zend Framework Zend Framework là một framework PHP mã nguồn mở, điược phát trển bở Zend Technologes. Nó cung cấp một cấu trúc môđiun, cho phép lập trình viên tạo ra các ứng dụng web và dịch vụ web chuyên nghệp và lnh hoạt. Zend Framework cũng cung cấp một loạt các thành phần, các lớp phần mềm có thể tá sử dụng điược sử dụng điể gảm thờ gan và ch phí phát trển.

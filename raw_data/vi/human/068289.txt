@@ -1,0 +1,1 @@
+Thư mục Publc có chứa tập tin ndex.php, là cổng vào cho tất cả những request tớ ứng dụng. Thư mục cũng chứa các asset như ảnh, JavaScrpt và CSS.

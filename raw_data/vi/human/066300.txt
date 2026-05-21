@@ -1,0 +1,1 @@
+NodeJs có khả năng xử lý sự kiện bất đồng bộ, cho phép xử lý nhiều yêu cầu đồng thờ, giúp cho việc phát triển ứng dụng trở nên hiệu quả hơn. Cộng đồng sử dụng và hỗ trợ NodeJs là rất đông đảo, bên cạnh đó, ngôn ngữ lập trình chính được sử dụng là JavaScript  một ngôn ngữ dễ học và tiếp cận.

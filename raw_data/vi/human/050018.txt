@@ -1,0 +1,1 @@
+Gả pháp Trong ĐATN này, phần Flatlist chứa danh sách các quán ăn được gì từ Firebase về. Giải pháp để tăng trải nghiệm người dùng trong trường hợp này là sử dụng Lazy load.

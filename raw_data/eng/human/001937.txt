@@ -1,0 +1,1 @@
+Backpropagation : Backpropagation is a crucial algorithm for training Neural Networks. It calculates the derivative of the loss function with respect to the weights in the network and updates them to enhance the network’s performance.

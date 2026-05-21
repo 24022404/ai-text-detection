@@ -1,0 +1,1 @@
+Numeric Order Name Required Example 1 Email Yes ngocnhathht@gmai.com 2 Password Yes Abc@1232.2.3 Register Usecase Figure 2.9: Register Usecase Use Case Description:

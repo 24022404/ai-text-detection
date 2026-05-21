@@ -1,0 +1,1 @@
+Use Case "Đăng bài viết " Bảng 2.1 đặc tả ca sử dụng "Đăng bài viết". Mô tả luồng sự kiện chính, tác nhân, ngoại lệ v.v của chức năng này.

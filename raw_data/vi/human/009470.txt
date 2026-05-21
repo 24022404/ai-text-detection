@@ -1,0 +1,1 @@
+STT Tên trường Kiểu dữ liệu Nullable Ràng buộc Mô tả 1 EntityID Int Không PH Id của customer 2 email varchar Không email của customer 3 password varchar Không Mật khẩu của customer 4 firstname varchar Không Tên consumer 5 lastname varchar Không Họ hoặc tên đệm 6 GroupID nt Không Nhóm của customer Bảng 4.6: Đặc tả bảng Customer Bảng Product:

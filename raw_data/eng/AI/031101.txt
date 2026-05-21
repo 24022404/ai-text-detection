@@ -1,0 +1,1 @@
+The main interface is configured with the image reader module, as depicted in figure 4.5. Users can load input images by utilizing the "Choose Image" cluster’s open file feature or by opting for the load folder option to select either single or multiple images.

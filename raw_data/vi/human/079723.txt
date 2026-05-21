@@ -1,0 +1,1 @@
+BF4 Quản trị viên tìm kiếm bản ghi cụ thể theo từ khóa BF5 Cập nhật lại danh sách bản ghi thỏa mãn điều kện tìm kếm điã điược nhập BF6 Quản trị vên sử dụng chức năng filter hiển thị danh sách bản ghi theo điều kiện F7 Cập nhật lại danh sách bản ghi thỏa mãn điều kiện được lựa chọn Luồng sự kiện ngoại lệ :

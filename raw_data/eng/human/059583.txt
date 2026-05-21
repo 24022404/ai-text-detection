@@ -1,0 +1,1 @@
+MongoDB is an open-source, non-relational database management system (NoSQL) developed with a document-oriented architecture. It is designed to storeand retrieve data in JSON-like documents, providing a flexible and scalable ap proach for handling unstructured data (Figure 3.5).

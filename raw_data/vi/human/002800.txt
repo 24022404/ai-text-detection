@@ -1,0 +1,1 @@
+Nó một cách đơn giản, Redux là một công cụ quản lý trạng thái. Mặc dù nó chủ yếu được sử dụng điểm React, nhưng nó có thể được sử dụng vớ bất kỳ khung hoặc thư viện JavaScript nào khác. Nó có dung lượng nhẹ ở 2KB, vì vậy bạn không phải lo lắng về việc nó làm cho kích thước nội dung ứng dụng của bạn lớn hơn.

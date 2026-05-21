@@ -1,0 +1,1 @@
+Keras was designed with a strong emphasis on user-friendliness and intuitiveness, allowing researchers and developers to rapidly prototype and test neural network architectures. By streamlining the processes of model definition and training, Keras lets users concentrate on developing effective models instead of being slowed down by complex technical details.

@@ -1,0 +1,1 @@
+Về giao diện web, cần được bố cục rõ ràng, mạch lạc, hển thị điầy điủ các bểu đồ dữ liệu chứng khoán và các chức năng quản lý người dùng.

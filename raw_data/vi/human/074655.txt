@@ -1,0 +1,1 @@
+Tiếp theo, là môđun mạng nơron đồ thị, em sử dụng mô hình mạng Graph SAGE vớ nguyên lý tổng hợp thông tin của nút hiện tại và thông tin của các nút lân cận.

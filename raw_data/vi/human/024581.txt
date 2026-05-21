@@ -1,0 +1,1 @@
+Tốc độ hội tụ nhanh hơn hẳn. ReLU có tốc độ hội tụ nhanh gấp 6 lần Tanh  Krizhevsky et al.

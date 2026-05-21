@@ -1,0 +1,1 @@
+CSS describes how it should render elements on the screen, paper, speech, or othermedia. Use CSS because HTML and JavaScript are not enough to have a user friendly website. With CSS, I can style the website as I want.

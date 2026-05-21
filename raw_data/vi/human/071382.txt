@@ -1,0 +1,1 @@
+Store View: đây là model để xử lý các thao tác giữa các phương thức với CSDL liên quan đến cấu hình của hệ thống. Customer: đây là model để xử lý các thao tác giữa các phương thức với CSDL liên quan đến người dùng.

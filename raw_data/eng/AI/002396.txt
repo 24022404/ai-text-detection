@@ -1,0 +1,1 @@
+Contextual menus present users with actions tailored to their current situation, streamlining tasks and reducing the need for excessive navigation within interfaces.

@@ -1,0 +1,1 @@
+Werkzeug là bộ công cụ WSGI, thực hiện yêu cầu, phản hồ và các tiện ích, cho phép xây dựng một web framework. Flask sử dụng Werkzeug làm một trong những cơ sở của framework.

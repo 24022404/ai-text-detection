@@ -1,0 +1,1 @@
+Frontend a, Bootstrap Bootstrap có lẽ là một thuật ngữ không còn xa lạ với bất kỳ a đã từng thiết kế website. Bootstrap là một Framework bao gồm HTML, CSS và JavaScript. Nó Chứa các template bao gồm các thành phần như: typography, buttons, colors, background, image,... Tất cả sẽ dùng để thiết kế và tạo ra các website mạng chuẩn responsive một cách nhanh chóng và dễ dàng hơn.

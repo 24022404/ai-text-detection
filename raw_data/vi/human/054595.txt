@@ -1,0 +1,1 @@
+Trong chương 2 , em đã tìm hiểu đưa rút ra một số yêu cầu cần thiết cho trang web, các chức năng của trang web cũng được biểu diễn qua biểu đồ use case với từng tác nhân lên quan, và trình bày các yêu cầu phi chức năng.Dưới đây là những công nghệ em đã sử dụng để xây dựng và phát triển đồ án tốt nghiệp.

@@ -1,0 +1,1 @@
+Bước 3: Tiến hành chuyển đổi dữ liệu đã thu thập được ở bước 1 sang dạng dữ liệu ngữ nghĩa theo Ontology đã xây dựng ở bước 2.

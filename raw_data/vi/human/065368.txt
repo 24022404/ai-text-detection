@@ -1,0 +1,1 @@
+Có thêm tính năng thanh toán qua QR code giúp khách hàng thanh toán đơn hàng 1 cách nhanh chóng.Laravel docs . [On]. Available:  x/installation (visited on 07/22/2022).

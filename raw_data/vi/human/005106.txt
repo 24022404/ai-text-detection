@@ -1,0 +1,1 @@
+Hooks là một bổ sung mới trong phiên bản React 16.8. Hooks là những hàm cho phép chúng ta kết nối react state và lifecycle vào các components sử dụng hàm.

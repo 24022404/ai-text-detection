@@ -1,0 +1,1 @@
+Biểu đồ use case tổng quát Sau khi khảo sát các trang web tương tự, đồ án nhận thấy trang web cần xây dựng bao gồm ba tác nhân là Khách, Thành viên và Quản trị viên với các chức năng trong Hình 2.4.

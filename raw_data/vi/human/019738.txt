@@ -1,0 +1,1 @@
+Vớ việc đã thực hiện xong đề tài, em đã tạo ra một hệ thống quản lý đảng viên có thể góp phần giải quyết vấn đề quản lý thủ công điểm lạ, giúp thuận tiện hơn trong việc quản lý đảng viên, ngoài ra giúp cập nhật thông tin trong nội bộ đảng đến đảng viên và đảng viên có thể nhắn tin liên lạc với bí thư trực tiếp điểm có thể gửi các thắc mắc, hỏi đáp nhanh chóng, tiện lợi hơn.

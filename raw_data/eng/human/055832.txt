@@ -1,0 +1,1 @@
+Layer designIn this section, I will describe the detailed design of all the controllers in the ap plication. Controllers handle every requests from user, and also work with objects from database models.

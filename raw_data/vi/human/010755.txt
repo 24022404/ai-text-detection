@@ -1,0 +1,1 @@
+Controller: Có nhiệm vụ xử lý tương tác của toàn bộ hệ thống. Controller là trung tâm điều khiển của hệ thống, nơi mà tất cả các xử lý cần được thực hiện.

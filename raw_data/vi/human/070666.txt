@@ -1,0 +1,1 @@
+Snowplow thu thập dữ lệu đặc trưng bởi sự kiện. Các sự kiện lạ có thể gắn với một số thực thể (ngữ cảnh, bố cảnh). Trong đồ án này, dữ lệu hành vi của người dùng được thu thập sẽ bao gồm các sự kiện: xem, bình luận, tìm kiếm, thêm vào giỏ hàng, đặt mua sách. Các ngữ cảnh gắn với các sự kiện là thông tin về khách hàng, hay thông tin về những cuốn sách mà người dùng đang tương tác.

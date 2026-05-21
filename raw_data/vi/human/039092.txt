@@ -1,0 +1,1 @@
+Trong kh triển khai thực hiện tối ưu hàm mất mát bằng phương pháp gradient descent ngẫu nhiên và xấp xỉ các kỳ vọng trong các phương trình trước đó bằng cách sử dụng việc lấy mẫu.

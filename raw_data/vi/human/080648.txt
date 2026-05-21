@@ -1,0 +1,1 @@
+Đa chức năng: VS Code hỗ trợ nhiều tính năng như gợi ý mã, chế độ điều hướng, đánh dấu cú pháp, gỡ lỗi, v.v.

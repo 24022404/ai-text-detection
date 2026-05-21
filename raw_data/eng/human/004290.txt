@@ -1,0 +1,1 @@
+Neural Network has the ability to adapt to any changes from the input. Therefore, it can produce all the results in the best possible way without you having to redesign the output criteria.

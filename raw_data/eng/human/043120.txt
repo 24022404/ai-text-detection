@@ -1,0 +1,1 @@
+Logout : This sub-use case allows users to securely log out from the system.Logging out ensures that the user’s session is terminated, and access to the system is revoked until the user logs in again. Users can log out by selecting the Logout option, which securely ends their session and redirects them to the login page.

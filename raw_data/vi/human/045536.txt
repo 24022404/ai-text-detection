@@ -1,0 +1,1 @@
+MySql được sử dụng trong đồ án là hệ quản trị cơ sở dữ liệu cho hệ thống ứng dụng.

@@ -1,0 +1,1 @@
+Therefore, many web framework and libraries, like React, Vue and Angular, has been developed to solve these issues, speed up the developing process, and also optimize performance of your applications.

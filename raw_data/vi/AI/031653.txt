@@ -1,0 +1,5 @@
+Khảo sát thành phần hóa học và điều kiện tách chiết Polyphenol, Flavonoid từ lá cây thạch vĩ (Pyrrosia lingua) đã được thực hiện nhằm xác định thành phần hóa học và điều kiện tách chiết tối ưu của các hợp chất này. Kết quả nghiên cứu cho thấy lá cây thạch vĩ chứa nhiều hợp chất polyphenol và flavonoid, bao gồm quercetin, kaempferol và isorhapontigenin.
+
+Quá trình tách chiết được thực hiện bằng phương pháp Soxhlet và kết quả cho thấy điều kiện tách chiết tối ưu là sử dụng dung môi ethanol 70% và thời gian tách chiết 4 giờ. Các hợp chất được xác định bằng phương pháp sắc ký lỏng khí (GC-MS) và sắc ký lỏng hiệu năng cao (HPLC).
+
+Kết quả nghiên cứu này có thể giúp hiểu rõ hơn về thành phần hóa học của lá cây thạch vĩ và điều kiện tách chiết tối ưu của các hợp chất này, từ đó có thể phát triển các sản phẩm có chứa các hợp chất này để ứng dụng trong y học và công nghiệp.

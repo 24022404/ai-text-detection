@@ -1,0 +1,1 @@
+Employees call customers. When working, the employee logged in to his account to start the work. After logging in, the staff will see the customer file. Re ceive customers to take care of by viewing customer information including phone numbers, and information on previous care to propose customer care strategies.

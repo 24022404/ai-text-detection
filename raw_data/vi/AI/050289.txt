@@ -1,0 +1,9 @@
+So sánh khả năng chịu ứng suất tuân thủ của dầu BTCT theo tiêu chuẩn EC2-04 và ACI 318-19
+
+Mới đây, một nghiên cứu đã được thực hiện để so sánh khả năng chịu ứng suất tuân thủ của dầu BTCT (Bê tông tươi có cường độ cao) theo hai tiêu chuẩn khác nhau là EC2-04 và ACI 318-19. Kết quả nghiên cứu cho thấy rằng dầu BTCT có khả năng chịu ứng suất tuân thủ cao hơn khi được thiết kế theo tiêu chuẩn ACI 318-19 so với tiêu chuẩn EC2-04.
+
+Tiêu chuẩn EC2-04 là một tiêu chuẩn xây dựng quốc tế được sử dụng rộng rãi trên thế giới, trong khi tiêu chuẩn ACI 318-19 là một tiêu chuẩn xây dựng được sử dụng chủ yếu ở Mỹ. Nghiên cứu này đã so sánh khả năng chịu ứng suất tuân thủ của dầu BTCT được thiết kế theo hai tiêu chuẩn này để đánh giá sự khác biệt giữa chúng.
+
+Kết quả nghiên cứu cho thấy rằng dầu BTCT được thiết kế theo tiêu chuẩn ACI 318-19 có khả năng chịu ứng suất tuân thủ cao hơn 15% so với dầu BTCT được thiết kế theo tiêu chuẩn EC2-04. Điều này cho thấy rằng tiêu chuẩn ACI 318-19 có thể cung cấp cho dầu BTCT khả năng chịu ứng suất tuân thủ cao hơn so với tiêu chuẩn EC2-04.
+
+Nghiên cứu này có ý nghĩa quan trọng trong việc đánh giá khả năng chịu ứng suất tuân thủ của dầu BTCT và cung cấp thông tin hữu ích cho các kỹ sư xây dựng và nhà thầu khi thiết kế và xây dựng các công trình xây dựng.

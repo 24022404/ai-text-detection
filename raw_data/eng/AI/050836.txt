@@ -1,0 +1,9 @@
+This research explores the potential of Graph Neural Networks (GNNs) to enhance El Niño forecasting accuracy by representing global climate data as a dynamic graph structure. The motivation stems from the need to improve predictive models due to El Niño's significant impact on global weather patterns and the economy.
+
+Methods/Approach: We propose a novel approach utilizing GNNs to model the complex spatial-temporal interactions in climate data. By treating climate variables and geographical locations as a network of nodes and edges, our model captures intricate dependencies that traditional methods overlook. The GNN is trained using historical climate data, optimizing for improved prediction accuracy over existing statistical models.
+
+Results/Findings: Experiments demonstrate that our GNN-based approach significantly outperforms conventional methods, achieving higher predictive accuracy for El Niño events. Our model effectively captures the nonlinear relationships across geospatial data, resulting in more reliable forecasts. A comparison with traditional time series and machine learning models underscores the GNN's superior performance, especially in terms of early prediction capabilities.
+
+Conclusion/Implications: The findings illustrate how treating the world as a graph provides a powerful framework for climate prediction, with this approach offering substantial improvements in forecasting El Niño events. This work contributes a novel tool for climate scientists and policy makers, potentially aiding in better preparation and response strategies for weather-related challenges. Future applications may extend this methodology to other environmental systems, harnessing the power of graph-based learning for broader climate forecasting tasks.
+
+Keywords: Graph Neural Networks, El Niño, climate prediction, spatial-temporal modeling, forecasting, GNN.

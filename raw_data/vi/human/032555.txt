@@ -1,0 +1,1 @@
+Ngườ dùng thực hiện tương tác với nền tảng thông qua giao diện web phát trển bằng framework ReactJS. Gao dện gửi và nhận thông tin với máy chủ web được trển kha vớ framework FastAPI của Python. Để có được dữ liệu giao dịch thị trường và chỉ báo chứng khoán hển thị cho người dùng, máy chủ web gửi các truy vấn lấy dữ liệu điến Apache Drud và MySQL.

@@ -1,0 +1,1 @@
+Matchmaking and Room Management: Photon offers built-in matchmaking and room management features, allowing players to be connected with each other based on specified criteria, such as skill level or game mode preferences.

@@ -1,0 +1,1 @@
+HTML không phải là một ngôn ngữ lập trình do không có khả năng tính toán, xử lý dữ liệu mà chỉ định các hiển thị nội dung trang web. Do đó nếu chỉ sử dụng HTML, ta chỉ có thể tạo nên các trang web "tĩnh". Muốn trang web "động", tức là có thể tương tác với dữ liệu người dùng cần kết hợp HTML với các ngôn ngữ lập trình khác như Javascript, PHP,..

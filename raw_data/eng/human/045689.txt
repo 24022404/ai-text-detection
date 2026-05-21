@@ -1,0 +1,1 @@
+All conversations with the end user can also be documented within the ticketing system, helping technicians be context-aware when tickets are assigned or escalated to them.

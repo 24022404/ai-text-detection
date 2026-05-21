@@ -1,0 +1,1 @@
+Thiết kế cơ sở dữ liệu Dữ liệu phục vụ cho chức năng tính toán chỉ báo bao gồm: dữ liệu giao dịch và dữ liệu các chỉ báo điã điược tính toán. Chúng được lưu trên Apache Drud trong các datasource dạng bảng rêng bệt. Như điã điề cập và giới thiệu ở mục 3.1.1, mỗ trường dữ liệu (cột) trong Drud datasource dạng bảng thuộc một trong ba loạ:

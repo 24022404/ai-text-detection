@@ -1,0 +1,1 @@
+Để kiểm thử các chức năng chính của hệ thống website kinh doanh thiết bị mạng, em tiến hành kiểm thử bằng phương pháp kiểm thử hộp đen.

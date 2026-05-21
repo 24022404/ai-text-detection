@@ -1,0 +1,1 @@
+Sử dụng mật khẩu mạnh: Sử dụng mật khẩu phức tạp, có độ dài đủ già, chứa cả chữ cả, số và ký tự đặc biệt sẽ làm cho việc tấn công Brute Force trở nên khó khăn hơn.

@@ -1,0 +1,1 @@
+Khố điều khiển trung tâm : Xử lý các tín hiệu đầu vào , truyền dữ liệu điều khiển cho khối slave và đưa dữ liệu lên Firebase.

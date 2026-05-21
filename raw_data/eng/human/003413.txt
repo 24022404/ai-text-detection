@@ -1,0 +1,1 @@
+OnTriggerEnter andOnTriggerExit are also Unity message methods invoked whena collision with another object start and stop. Figure 4.11 illustrates how Play erController uses these 2 messages to detect if player enter an interactable region.

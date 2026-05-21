@@ -1,0 +1,1 @@
+Họ quản lý Blog, phụ trách tất cả các tin tức, xét duyệt các blog cập nhật cho hệ thống.

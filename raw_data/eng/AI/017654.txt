@@ -1,0 +1,9 @@
+Objective: Sketch-based image retrieval (SBIR) aims to match freehand sketches with corresponding photographs, but existing solutions rely heavily on labeled sketch–photo pairs. This paper explores an unsupervised approach that eliminates the need for manual annotations while maintaining competitive retrieval accuracy.
+
+Methods: We introduce a dual-stream embedding network that learns modality-agnostic representations through cross-modal contrastive learning and self-supervised clustering. First, sketch and image encoders are pretrained independently using instance discrimination and rotation prediction tasks. Next, a cross-modal consistency module aligns the two embedding spaces by enforcing cycle-consistent reconstruction and maximizing inter-modality agreement. Finally, feature clustering with an adaptive centroid update encourages semantically similar sketches and images to form unified groups.
+
+Results: Experiments on the Sketchy and TU-Berlin SBIR benchmarks demonstrate that our unsupervised framework achieves mean average precision (mAP) scores within 5% of fully supervised methods, outperforming existing unsupervised baselines by up to 20%. Ablation studies confirm the effectiveness of each component, showing that contrastive alignment and clustering jointly contribute to robust retrieval performance.
+
+Conclusion: This work presents the first end-to-end unsupervised SBIR pipeline, substantially reducing annotation requirements. The proposed method opens new directions for scalable, annotation-free cross-modal retrieval and can be extended to other sketch-based vision tasks.  
+
+Keywords: sketch-based image retrieval, unsupervised learning, contrastive learning, cross-modal alignment, deep embedding.

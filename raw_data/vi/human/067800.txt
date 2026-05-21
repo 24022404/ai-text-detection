@@ -1,0 +1,1 @@
+Biểu đồ use case phân rã Quản lý kho Hình 2.4: Biểu đồ use case phân rã Quản lý kho Use Case quản lý kho gồm các chức năng chính như sau () CRUD kho: cho phép tạo mới, chỉnh sửa, xóa, xem danh sách kho hàng; () Tìm kiếm kho: cho phép tìm kiếm kho hàng; () Thống kê tồn kho: cho phép xem số lượng sản phẩm còn trong kho; (v) Nhập hàng: cho phép thêm sản phẩm vào trong kho.

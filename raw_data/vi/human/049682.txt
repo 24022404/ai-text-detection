@@ -1,0 +1,1 @@
+Sơ đồ hình 3.2 thể hiện đầy đủ các thành phần của hệ thống. Bao gồm : nguồn dữ lệu điầu vào, kho lưu trữ, các module xử lý/phân tích dữ lệu, cơ sở dữ lệu, báo cáo phân tích. Các mũi tên thể hiện luồng đi hoàn chỉnh của dữ lệu từ điầu (dữ lệu thô ban điầu) cho đến cuối (dữ lệu trực quan ở báo cáo phân tích).

@@ -1,0 +1,1 @@
+Nơ sử dụng Tô sử dụng torch điểm huấn luyện và triển khai mô hình Yolo V5 áp dụng trong bài toán nhận diện sản phẩm. Thư viện Pytorch dùng để triển khai mô hình MTCNN nhằm mục đích xây dựng bài toán phát hiện khuôn mặt.

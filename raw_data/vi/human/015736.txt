@@ -1,0 +1,1 @@
+Trong hệ thống này, phần front end được trên khay bằng framework ReactJS, giúp xây dựng giao diện người dùng linh hoạt và tương tác. ReactJS cho phép tạo ra các component có thể tái sử dụng, đồng thời quản lý trạng thái của ứng dụng một cách hiệu quả nhờ vào thư viện Redux Toolkit.

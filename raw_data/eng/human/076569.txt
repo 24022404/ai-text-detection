@@ -1,0 +1,1 @@
+Scalability: stored methods, procedural languages (PL/PGSQL, Python, Perl, and many more), PostGIS, other threading or database connectivity with standard SQL interfaces, and many other extended features.

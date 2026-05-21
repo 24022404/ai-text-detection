@@ -1,0 +1,1 @@
+Visual Paradigm là một phần mềm chuyên dùng trong lĩnh vực phân tích và thiết kế phần mềm. Nó cung cấp một loạt các công cụ và tính năng giúp các nhà phát triển và nhà quản lý dự án phần mềm tạo ra các mô hình và tài liệu ch tết, từ việc phân tích yêu cầu điến thiết kế kiến trúc và triển khai.  Chức năng chính của công phân tích thiết kế Visual Paradigm  bao gồm:

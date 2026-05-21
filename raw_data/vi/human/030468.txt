@@ -1,0 +1,1 @@
+Hệ thống sẽ hiển thị thông báo thành công và cuộc hội thoại mới được thêm vào danh sách cuộc hội thoại.

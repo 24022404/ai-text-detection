@@ -1,0 +1,1 @@
+Difficulty in preparing data: Deep learning requires a large amount of data to effectively train the model. Collecting, preprocessing, and preparing data for use in deep learning is a time-consuming and laborious task.

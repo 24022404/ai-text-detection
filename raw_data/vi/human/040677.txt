@@ -1,0 +1,1 @@
+Dựa trên những trải nghiệm khi học lập trình trực tuyến của bản thân chúng tôi trên các nền tảng Microsoft Teams , Zoom , Google Meet , Report , Visual Studio Code , một trình soạn thảo code on cần có những chức năng cơ bản sau:

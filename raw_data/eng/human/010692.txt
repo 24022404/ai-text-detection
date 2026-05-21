@@ -1,0 +1,1 @@
+Rust is one of the languages that can compile to WebAssembly, allowing develop ers to leverage Rust’s performance and safety features in web-based applications.

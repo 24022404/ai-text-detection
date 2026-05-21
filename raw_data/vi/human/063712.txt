@@ -1,0 +1,1 @@
+Đố trọng với tăng cường ảnh off là tăng cường ảnh on. Thay vì tạo sẵn những ảnh tăng cường, những ảnh sẽ được tăng cường trước khi được đưa vào trong một batch huấn luyện.

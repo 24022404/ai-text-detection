@@ -1,0 +1,1 @@
+Webpack Webpack là một module bundler cho phép vết bất kỳ định dạng module nào (cũng có thể kết hợp), sau đó bên dịch cho trình duyệt. Webpack phân tách mã dựa trên cách nó được sử dụng trong ứng dụng và vớ phân tích trách nhiệm theo module này, việc quản lý, gỡ lỗi, xác minh và kiểm tra mã trở nên dễ dàng.

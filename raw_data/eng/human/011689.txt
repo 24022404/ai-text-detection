@@ -1,0 +1,1 @@
+This seamless integration with GitHub allows for easy deployment and sharing of projects. Streamlit’s robust support for data-focused projects makes it a perfect fit for my project, which is primarily centered around data visualization and analysis.

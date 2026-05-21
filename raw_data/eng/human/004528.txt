@@ -1,0 +1,1 @@
+Service: This entity represents the various services offered by providers. It has a one-to-many relationship with the Provider entity, indicating that each provider can offer multiple services, but each service is related to only oneprovider.

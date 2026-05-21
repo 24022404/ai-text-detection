@@ -1,0 +1,1 @@
+Easy compatibility and integration. With the vast majority of OS systems, PHP is compatible. It may easily be used with UNIX, Solaris, and Linux, among other platforms. Existing software doesn’t need to be developed from scratch because it can easily be integrated with other technologies, like Java. This reduces waste and costs.

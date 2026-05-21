@@ -1,0 +1,1 @@
+Use case video call trong cuộc hội thoại: người dùng có thể bật/tắt micro, camera của bản thân, đổi camera, record video, gửi emoji và nhắn tin.

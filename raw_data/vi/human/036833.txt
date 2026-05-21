@@ -1,0 +1,1 @@
+Spring là một framework giúp cho các nhà phát triển có thể xây dựng hệ thống và chạy trên máy ảo JVM một cách thuận tiện, đơn giản, nhanh chóng nhất. Spring là một mã nguồn mở có số lượng người dùng rất cao .

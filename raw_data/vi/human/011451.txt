@@ -1,0 +1,1 @@
+Sau khi cài đặt module gợi ý sản phẩm lên website, module sẽ tạo ra block gợi ý sản phẩm dựa trên độ tương tự giữa các người dùng. Khi một người dùng đăng nhập, hệ thống sẽ lấy Id của người dùng đó, từ đó tìm ra danh sách sản phẩm gợi ý và thêm vào block trên.

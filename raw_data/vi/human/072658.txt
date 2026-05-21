@@ -1,0 +1,1 @@
+Ít Schema hơn: MongoDB là một cơ sở dữ liệu dựa trên Document, trong đó một Collection gữ các Document khác nhau. Số trường, nội dung và kích cỡ của Document này có thể khác với Document khác.•Cấu trúc của một đối tượng là rõ ràng.

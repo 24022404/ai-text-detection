@@ -1,0 +1,1 @@
+T. Mikolov, I. Sutskever, K. Chen, G. S. Corrado and. Dean, “Distributed representations of words and phrases and their compositionality,” Advances in neural information processing systems ,journal 26, 2013.

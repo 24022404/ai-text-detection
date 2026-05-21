@@ -1,0 +1,1 @@
+Redux Redux là một kho chứa trạng thái mà có thể dự đoán được cho các ứng dụng JavaScript. Nó giúp bạn viết các ứng dụng hoạt động nhất quán, chạy trong các môi trường khác nhau (client, server và native) và dễ kiểm tra.

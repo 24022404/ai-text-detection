@@ -1,0 +1,1 @@
+Để thực hiện các cấu hình này, ta cần thêm vào vật thể quản lý hệ thống đèn giao thông một tệp mã nguồn C #làm Traffic Light Agent . Mã nguồn này sẽ kế thừa lớp Agent được cung cấp bởi gió MAgents, gúp ta thực hiện việc quản lý môi trường và giao tiếp với agent từ mã nguồn trong python.

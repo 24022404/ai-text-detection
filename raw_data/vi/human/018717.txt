@@ -1,0 +1,1 @@
+Để gả quyết vấn đề này, em có bổ sung 3 điều kiện tìm kiếm tích hợp cho hệ thống đó là: tìm kiếm theo tên, sắp xếp theo giá và sắp xếp theo sao (điểm người dùng đánh giá cho homestay). Người dùng có thể chọn tích hợp một số các điều kiện trên điểm tìm kiếm phòng mà mình mong muốn.

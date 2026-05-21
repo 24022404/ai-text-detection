@@ -1,0 +1,1 @@
+Hệ thống sẽ hển thị danh sách các công thức nấu ăn thỏa mãn từ khóa trên thanh tìm kếm mà thô.

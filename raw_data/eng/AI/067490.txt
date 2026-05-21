@@ -1,0 +1,11 @@
+This graduation thesis explores the development of a Vietnamese multi-document summarization system, addressing the growing need for efficient information extraction and condensation in the Vietnamese language. 
+
+Background and motivation: The increasing volume of digital content in Vietnamese has created a demand for automated summarization tools to facilitate information retrieval and comprehension. However, the complexity of the Vietnamese language and limited existing research in this area pose significant challenges.
+
+Objectives: The primary goal of this thesis is to design and develop a system capable of summarizing multiple Vietnamese documents into concise and informative summaries. The specific problems addressed include handling linguistic nuances, identifying key information, and generating coherent summaries.
+
+Methodology: This research employs a combination of natural language processing (NLP) techniques, machine learning algorithms, and deep learning models to develop the summarization system. The approach involves text preprocessing, topic modeling, and summary generation using a dataset of Vietnamese documents.
+
+Results and expected contributions: The developed system demonstrates promising results in generating accurate and informative summaries of Vietnamese documents. This research contributes to the field of NLP by providing a tailored solution for Vietnamese multi-document summarization, which can be applied in various real-world applications such as news aggregation, document analysis, and information retrieval.
+
+Conclusion: This thesis presents a significant step towards addressing the need for automated Vietnamese multi-document summarization. The findings and developed system have the potential to facilitate information access and comprehension in the Vietnamese language. Future developments may involve integrating this system with other NLP tasks and exploring its applications in various domains.

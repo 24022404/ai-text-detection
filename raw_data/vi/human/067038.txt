@@ -1,0 +1,1 @@
+Đã thanh toán: Là danh sách những khoản tền mà người dùng đã thực hiện thao tác thanh toán và quản trị viên đã xác nhận.

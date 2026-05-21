@@ -1,0 +1,1 @@
+For instance, with LG set to true, opcode inputs are first processed by the LSTM layers, and the output (hidden cells) from the LSTM serves as input to the GRU layers. The GRU output is then passed to fully connected layers for classification. I applied a dropout layer with a 0.3 probability for models with more than one layer.

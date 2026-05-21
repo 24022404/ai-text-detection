@@ -1,0 +1,1 @@
+Parameters such as reinstall and install are obtained from requests, with request.POST being used for API calls and request.GET applied to web-based requests.

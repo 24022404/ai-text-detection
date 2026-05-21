@@ -1,0 +1,1 @@
+Tuy nhên, bộ mã hóa MAE chỉ hoạt động trên một tập hợp con nhỏ (ví dụ: 25%) của tập hợp mảng điầy điủ. Các mảng bị che khuất được loạ bỏ; không có mã thông báo che khuất nào được sử dụng. Đều này cho phép mô hình điào tạo các bộ mã hóa rất lớn chỉ với một phần nhỏ điện toán và bộ nhớ.

@@ -1,0 +1,1 @@
+Each model represents a database table and contains the business logic for a specific data entity. Several class model examples are provided for reference.

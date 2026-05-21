@@ -1,0 +1,1 @@
+Delete post1. Hover on createdpost, select delete1. If click "Yes", notify success and up date list posts of user. If click "No", nothing happen 2. An popup confirm appear, click "Yes" or No"2. If error, notify error.

@@ -1,0 +1,9 @@
+Objective: Predicting full probability distributions in regression tasks is challenging when training data are noisy, incomplete, or subject to measurement error. This paper introduces a unified framework for improving distributional regression under such imperfect conditions by applying optimal data transformations.
+
+Methods: We formulate transformation selection as an integrated component of the probabilistic modeling pipeline. Candidate transforms (e.g., Box–Cox, Yeo–Johnson, log, and rank-based scaling) are parameterized and optimized jointly with model parameters via maximum likelihood or proper scoring rules. Our approach supports any base probabilistic regressor—such as Gaussian processes, quantile regression forests, or neural density estimators—and guides the search over transformation families using gradient-based and derivative-free optimization.
+
+Results: Experiments on synthetic benchmarks with controlled noise and real-world datasets (housing prices, demand forecasting, and sensor measurements) demonstrate that our method consistently improves log‐likelihood, continuous ranked probability score (CRPS), and calibration error relative to standard distributional regression without transformation or with fixed, heuristic transforms. In particular, we observe up to 25% reduction in CRPS and tighter prediction intervals on noisy datasets.
+
+Conclusion: By automatically identifying and applying the most suitable data transformations, the proposed framework enhances robustness and predictive accuracy of probabilistic regression models trained on imperfect data. This work contributes a practical strategy for practitioners to obtain well‐calibrated, high‐fidelity uncertainty estimates in diverse IT and data‐science applications.
+
+Keywords: probabilistic regression, data transformation, imperfect data, distributional forecasting, Box–Cox, Yeo–Johnson.

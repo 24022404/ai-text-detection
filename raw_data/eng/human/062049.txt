@@ -1,0 +1,1 @@
+Description of computing infrastructure used : In this work, I use a single Tesla A100 GPU with 100GB memory operated by Ubuntu Server 18.04.3 LTS for all experiments. PyTorch 1.8.1 and Huggingface-Transformer 4.23.1 (Apache License 2.0) are used to implement the models.

@@ -1,0 +1,1 @@
+LinearLayout : Layout này cho phép ta vẽ giao diện theo 2 hướng, từ trái qua phải hoặc từ trên xuống dưới. Để xét chiêu cho các control trong layout ta sử dụng thuộc tính orientation.

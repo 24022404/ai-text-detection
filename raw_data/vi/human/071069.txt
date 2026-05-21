@@ -1,0 +1,1 @@
+Ưu điểm khi sử dụng React là tốc độ phát triển, nhiều thư viện sẵn có, yêu cầu nắm vững kiến thức cơ bản về CSS,Javascript ,HTML .

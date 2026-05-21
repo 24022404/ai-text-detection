@@ -1,0 +1,1 @@
+Bài toán phân tích sắc thá bình luận (SA) là một bài toán được quan tâm nhiều trong xử lý ngôn ngữ tự nhiên. Bên cạnh đó bài toán cũng có một tầm ảnh hưởng tới đời sống thực tế vì bài toán có thể ứng dụng trong rất nhiều lĩnh vực trong thực tiễn. Bài toán có đầu vào là câu bình luận, đầu ra sẽ là cảm xúc của câu bình luận, có thể là cảm xúc tích cực, tiêu cực hay là trung bình.

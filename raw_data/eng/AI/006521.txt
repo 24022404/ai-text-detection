@@ -1,0 +1,1 @@
+Postgres offers great extensibility, allowing users to create custom data types, functions, and stored procedures tailored to unique requirements. It also supports concurrency control, enabling multiple users to access and modify data simultaneously without conflict.

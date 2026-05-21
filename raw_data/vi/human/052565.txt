@@ -1,0 +1,1 @@
+Định hướng cho điều tà là xây dựng một ứng dụng thương mại điện tử bắt mắt, dễ dùng, hoạt động được trên cả hai nền tảng di động hiện hành là OS và Android.

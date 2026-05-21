@@ -1,0 +1,1 @@
+NetTaco là một thuật toán phân cấp đệ quy từ trên xuống. Mục tiêu chính của thuật toán là phân bổ các thuật ngữ vào các chủ đề tạ mộ nút Taxonomy. Mô đun phân bổ dựa vào việc nhúng thuật ngữ được học chung từ ngữ cảnh văn bản và ngữ cảnh Môtô. Thuật toán sử dụng nhúng cục bộ và lựa chọn thể hiện Một điểm làm rõ hơn các ngữ cảnh văn bản và Môtip tương ứng.

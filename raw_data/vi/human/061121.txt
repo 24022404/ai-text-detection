@@ -1,0 +1,1 @@
+Khá nệm về NodeJS Node.js là một môi trường chạy bằng ngôn ngữ Javascript được trên khay trên máy chủ thay vì ở trên trình duyệt.

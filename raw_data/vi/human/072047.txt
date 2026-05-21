@@ -1,0 +1,1 @@
+Vớ React Native, lập trình viên có thể sử dụng JavaScript (hoặc có thể kết hợp vớ code native như Swf , Java ) để tạo ra những ứng dụng chạy được trên cả Android và IOS mà không cần phải thiết kế riêng lẻ nữa.

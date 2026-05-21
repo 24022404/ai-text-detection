@@ -1,0 +1,1 @@
+View : Chứa các templates đại diện cho giao diện người dùng và hiển thị dữ liệu cho người dùng. Nó là phần giao diện mà người dùng thấy và tương tác. Kết quả mà người dùng truy vấn sẽ được hiển thị thông qua View.

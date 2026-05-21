@@ -1,0 +1,1 @@
+J. Tuliani’s 2001 paper in Discrete Mathematics details constructions of De Bruijn sequences and provides efficient decoding algorithms.

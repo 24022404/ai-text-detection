@@ -1,0 +1,1 @@
+A neural machine translation (NMT) model usually has trouble translating sentences that differ in genre or theme from the sentences used for training the model. This is a common limitation of data-driven machine learning methods, whose performance is guaranteed by assuming that the training and testing distributions are identical.

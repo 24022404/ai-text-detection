@@ -1,0 +1,1 @@
+Tên trường Kiểu dữ liệu Kích thước Ràng buộc Khuôn Dạng Ghi chú user nt Khóa chính Số nguyên sAdmn boolean Văn bản sAve boolean Văn bản name char 50 ký tự Văn bản username char 50 ký tự Văn bản passwordchar 50 ký tự Văn bản phonenumber char 10 ký tự Văn bản address char 255 ký tự Văn bản Bảng Tickets:

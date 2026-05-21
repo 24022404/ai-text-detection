@@ -1,0 +1,1 @@
+Để gả quyết các vấn đề nêu ra ở trên, chúng ta cần một trang web vớ đầy đủ các chức năng quản lý thông tin nhân viên cũng như đầy đủ các tính năng thao tác với bảng công như xem bảng công, thêm các đơn bổ sung, nghỉ phép để cập nhật bảng công và nhân viên sẽ phải cập nhật thông tin khi cần thiết.

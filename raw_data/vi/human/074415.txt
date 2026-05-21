@@ -1,0 +1,1 @@
+Enemy Manager Class: lớp này quản lý các hành v của quá như: sử dụng loại hành vi nào, tầm đánh bao xa.

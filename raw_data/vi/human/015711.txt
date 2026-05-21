@@ -1,0 +1,1 @@
+Mục đích của tấn công XSS là lấy được thông tin nhạy cảm của người dùng, chẳng hạn như tên đăng nhập, mật khẩu, số thẻ tín dụng, hoặc thậm chí có thể thực hiện các hành động độc hại khác như điều khiển trình duyệt của người dùng để tải xuống và thực thi mã độc khác. Tấn công XSS thường được chia thành hai loại:

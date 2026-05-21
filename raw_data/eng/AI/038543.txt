@@ -1,0 +1,1 @@
+M. A. P. A. Yoon and I. C. Sussman’s 2008 paper in the Proceedings of the International Symposium on Software Testing and Analysis explores scalable approaches for software compatibility testing.

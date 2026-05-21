@@ -1,0 +1,1 @@
+Java  được xây dựng trên cú pháp C++ nhưng loại bỏ những tính năng phức tạp như con trỏ và quản lý bộ nhớ tường minh. Mục tiêu của Java là cung cấp một môi trường lập trình an toàn, đáng tin cậy và dễ sử dụng cho việc phát triển ứng dụng.

@@ -1,0 +1,1 @@
+Luồng sự kiện chính : Đặc tả luồng sự kiện của usecase Tạo và vết mớ được mô tả trong Bảng 2.9.

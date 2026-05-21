@@ -1,0 +1,1 @@
+Hidden layers: all the VGG network’s hidden layers use LeakyReLU instead of Lo cal Response Normalization like AlexNet. The latter increases training time and memory consumption with little improvement to overall accuracy.

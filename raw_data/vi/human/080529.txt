@@ -1,0 +1,1 @@
+Thiết bị: Laptop Hệ điều hành: Windows 10, MacOS Trình duyệt: Cốc cốc, Google Chrome Nền tảng: NodeJS Thực thi chạy chương trình từ terminal Các bước cài đặt để chạy thử trang web trên môi trường local:

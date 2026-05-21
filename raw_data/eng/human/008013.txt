@@ -1,0 +1,1 @@
+To make PRIMERA applicable for Vietnamese, certain modifications were implemented in areas such as word segmentation, tokenization, and named entity recognition.

@@ -1,0 +1,1 @@
+Zend Framework đóng vai trò quan trọng trong việc phát triển Magento vì Magento được xây dựng trên cơ sở của Zend Framework. Magento sử dụng Zend Framework như một phần cốt lõi để xây dựng cấu trúc và các tính năng chính.

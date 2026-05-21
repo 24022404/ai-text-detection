@@ -1,0 +1,1 @@
+V. Olsson, W. Tranheden, J. Pinto, and L. Svensson, “Classmix: Segmentation based data augmentation for semi-supervised learning,” in Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision , 2021, pp. 1369–1378.

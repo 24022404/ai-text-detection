@@ -1,0 +1,1 @@
+Trong tương lai, để hoàn thiện sản phẩm của mình, em cần đảm bảo điển App và hệ thống hoạt động ổn định Cần phải xây dựng trang Admin để có thể thực hiện chức năng duyệt bài.•Nghiên cứu , tích hợp chức năng thanh toán, nạp điểm cho tài khoản.

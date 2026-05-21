@@ -1,0 +1,1 @@
+<hgvsg_nput> ? refGenome=<ref_genome> Trong đó: hgvsg_nput là trình tự tham chiếu bộ gen tương ứng với điốt bến (HGSG) còn ref genome là phiên bản của bộ gen tham chiếu, chấp nhận là GRCH37 hoặc GRCh38.

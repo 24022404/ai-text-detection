@@ -1,0 +1,1 @@
+function getPosts This function returns a list of posts from the users that the current user is following, to be displayed in the current user’s home page. The results is sorted by created timestamp and support pagination.

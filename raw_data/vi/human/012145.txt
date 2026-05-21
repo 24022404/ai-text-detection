@@ -1,0 +1,1 @@
+OutSystems là một nền tảng ứng dụng hiện địa gúp đơn giản hóa mọi ra đoạn của quy trình phát triển và phân phối ứng dụng. Các nhà phát triển và nhóm có thể cung cấp các ứng dụng mà doanh nghiệp yêu cầu với tốc độ mà thị trường yêu cầu.

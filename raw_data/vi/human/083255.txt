@@ -1,0 +1,1 @@
+Các đặc trưng của đối tượng được biểu diễn thành các đặc trưng của nút và nhúng vào đồ thị đã cho thấy được hiệu quả trong nhiều tác vụ dự đoán. Tuy vậy những phương pháp transductive learning như GCN kém hiệu quả kh xuất hiện những nút mở, chưa xuất hiện trong tập huấn luyện.

@@ -1,0 +1,1 @@
+The fundamental goal of contrastive learning is to build an embedding space where similar samples stay close together while dissimilar ones are further away.

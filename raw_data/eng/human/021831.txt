@@ -1,0 +1,1 @@
+Existing AR Indoor Navigation AppsAR Indoor Navigation apps are designed to provide a more immersive and inter active navigation experience by using AR technology to overlay virtual navigation elements onto the real world. There are two common approaches to implementing AR Indoor Navigation apps:

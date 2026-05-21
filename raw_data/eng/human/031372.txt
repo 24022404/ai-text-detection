@@ -1,0 +1,1 @@
+Each video sequence is represented as a histogram over a collection of visual words in this method, which results in a fixed-dimensional encoding that can be analysed with a conventional classifier. The cluster centres produced via k-means clusteringacross a large collection of sample low-level descriptors are usually described as the lexicon of visual words in a learning phase .

@@ -1,0 +1,1 @@
+Đố vớ quản trị viên, ngoài chức năng như một người dùng, quản trị có thể thống kê tình hình hoạt động của hệ thống.

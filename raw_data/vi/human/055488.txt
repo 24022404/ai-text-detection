@@ -1,0 +1,1 @@
+–Lớp phuongXa là lớp lưu trữ dữ liệu về các phường, xã ở Hà Nội.–Lớp được gán nhãn: <rdfs:label>phường xã</rdfs:label> Lớp quanHuyen :

@@ -1,0 +1,1 @@
+Header: chứa các thông tin về thuộc tính của JWT ở dạng JSON (thuật toán ký, định dạng, . . . ).

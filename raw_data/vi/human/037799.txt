@@ -1,0 +1,1 @@
+Với các ưu điểm là tốc độ lưu trữ và đọc ghi dữ liệu rất nhanh do dữ liệu được lưu ở bộ nhớ trong và có cơ chế xử lý dữ liệu với bộ nhớ ngoài để tránh mất mát dữ liệu như ở trên, em quyết định sử dụng Reds làm nơ để lưu trữ các thông tin phiên đăng nhập của người dùng để tối ưu hóa hiệu năng.

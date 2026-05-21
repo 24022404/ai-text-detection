@@ -1,0 +1,1 @@
+Mặc dù mô hình điều xuất đạt được một số cải thiện đáng kể so với các mô hình trước đây, tuy nhiên vẫn tồn tại một số trường hợp cho hiệu năng không được tốt.

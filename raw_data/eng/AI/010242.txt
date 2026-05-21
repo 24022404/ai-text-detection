@@ -1,0 +1,1 @@
+It checks the source type to identify if the file originates from Android Studio source files or has been processed by ‘apktool’.

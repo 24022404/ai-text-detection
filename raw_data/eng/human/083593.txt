@@ -1,0 +1,1 @@
+Data point: is a data point, each data point represents an observation. Each data point has many different characteristics or attributes, which are divided into two types: numeric data and non-numerical data (e.g. string) (non-numerical/categorical).

@@ -1,0 +1,1 @@
+Gói Data: chứa các lớp có nhiệm vụ kết nối với cơ sở dữ liệu, truy vấn cũng như chỉnh sửa các thông tin trong cơ sở dữ liệu.

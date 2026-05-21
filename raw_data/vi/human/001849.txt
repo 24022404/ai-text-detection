@@ -1,0 +1,1 @@
+Thống nhất/chuẩn hóa thiết kế giao diện Em áp dụng các nguyên tắc thiết kế giao diện theo Material Design, một hệ thống thiết kế do Google phát triển, để tạo ra giao diện đẹp, trực quan và thân thiện với người dùng. Các nguyên tắc này bao gồm:

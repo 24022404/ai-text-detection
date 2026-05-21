@@ -1,0 +1,1 @@
+Đối với bài toán này của em thì độ chính xác sẽ là tỉ lệ số từ do mô hình gợi ý đúng trên tổng số từ thật sự sai chính tả. Có nghĩa là 1 câu mà có 100 từ, trong đó có 10 từ xa, mô hình gợi ý đúng được vị trí của 7 từ sa thì độ chính xác là 7/10 = 70%.

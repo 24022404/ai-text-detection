@@ -1,0 +1,1 @@
+Sau khi trả qua quá trình khảo sát, phân tích yêu cầu, thiết kế và phát triển, tác giả đã xây dựng thành công trang web kinh doanh thú cưng các chức năng điã điược điề ra ở chương 2. Ngoà những chức năng cơ bản, hệ thống còn có các điểm nổ bật sau:

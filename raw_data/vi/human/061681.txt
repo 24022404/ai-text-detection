@@ -1,0 +1,1 @@
+Chương 3. Công nghệ sử dụng : Chương này sẽ mô tả ch tết các công nghệ được sử dụng điểm phát triển và triển khai hệ thống.

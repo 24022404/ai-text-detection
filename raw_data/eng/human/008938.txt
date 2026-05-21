@@ -1,0 +1,1 @@
+GTAV is a composite picture collection that shares 19 semantic categories with Cityscapes. Grand Theft Auto V’s physically rendered computer game has 24,966 urban scene photos that are retrieved and used as training domain source data.

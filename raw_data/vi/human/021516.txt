@@ -1,0 +1,1 @@
+Cụ thể, người quản lý là những người có vai trò quản trị dự án, có thể thực hiện các use case () quản lý danh sách dự án, () quản lý danh sách công việc, () quản lý các ga đoạn trong dự án, (v) quản lý các cột mốc trong dự án, (v) xem báo cáo tiến độ các ga đoạn trong dự án, và (v) thống kê đánh giá các ga đoạn.

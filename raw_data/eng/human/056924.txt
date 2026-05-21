@@ -1,0 +1,1 @@
+Training process with batch size = 16, learning rate = 1e -3, optimizer function is Adam, using loss function is categorical cross entropy loss, epochs = 120 with data set.

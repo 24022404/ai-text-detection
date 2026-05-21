@@ -1,0 +1,1 @@
+The processing progress and resolution time of support requests are tracked for each IT staff member and associated with particular products and projects for management.

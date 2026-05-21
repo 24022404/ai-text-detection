@@ -1,0 +1,1 @@
+Model Model xử lý những tác vụ lên quan đến tương tác cơ sở dữ lệu từ những yêu cầu của controller. Model xử lý và trả về kết quả dưới dạng một mảng dữ lệu, khi đió thông qua vew ta sẽ điẩy nộ dung của mảng dữ lệu ấy ra bên ngoài.

@@ -1,0 +1,1 @@
+Apollo Client giúp bạn cấu trúc code theo cách tiết kiệm, có thể dự đoán và khai báo phù hợp với thực tiễn phát triển hiện đại. Thư viện core @apollo/client cung cấp tích hợp sẵn vớ React và cộng đồng Apollo lớn hơn duy trì tích hợp cho các lớp chế độ xem phổ biến khác.

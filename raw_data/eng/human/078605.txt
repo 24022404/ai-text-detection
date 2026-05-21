@@ -1,0 +1,1 @@
+Upon obtaining the impurity values from individual nodes, a normalize function is employed to determine the weights assigned to the participating nodes during the process of global model aggregation. Taking inspiration from the Softmaxfunction, this variant function is defined as follows:

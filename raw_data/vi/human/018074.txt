@@ -1,0 +1,1 @@
+Nó thực thế cách ly dữ liệu kinh doanh (Models) khỏi giao diện người dùng (Views), vớ thành phần thứ ba (Controllers) quản lý logc, người dùng nhập và điều phối cả mô hình và chế độ xem theo cách truyền thống. Mục tiêu của MVC là gúp cấu trúc các mối quan tâm riêng biệt của một ứng dụng thành ba phần:

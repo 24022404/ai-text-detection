@@ -1,0 +1,1 @@
+Hiện tạ, đồ án này mới chỉ khai thác một phần thông tin có được từ dữ lệu nhật ký truy cập báo điện tử của người dùng. Việc phân tích dữ lệu cũng đang được thực hiện cố định hàng ngày, có nghĩa là những dữ lệu như số người dùng sẽ không chính xác hoàn toàn kh tổng hợp theo các khoảng thờ gan.

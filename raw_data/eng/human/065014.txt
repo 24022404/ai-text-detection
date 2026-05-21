@@ -1,0 +1,1 @@
+P. Domingos, “A few useful things to know about machine learning,” Communications of the ACM ,journal 55,number 10,pages 78–87, 2012.

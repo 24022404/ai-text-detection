@@ -1,0 +1,1 @@
+Two essential reference books include “Java Web Development: With Hibernate, JSPs and Servlets” by Tim Downey (Springer London, 2007) and “PostgreSQL” by L. H. Regina Obe (O’Reilly Media, 2017).

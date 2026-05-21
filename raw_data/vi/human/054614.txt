@@ -1,0 +1,1 @@
+STT Tên Kiểu dữ liệu trả về Giá trị mặc định Mô tả 1 webService WebService null Đại diện cho lớp service dùng để xử lý các logc liên quan đến công việc 2 job CategoryService JobCategoryServce null Đại diện cho lớp service dùng để xử lý logic liên quan đến loại công việc Operator:

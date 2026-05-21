@@ -1,0 +1,7 @@
+Multi-Objective Reinforcement Learning (MORL) is essential in real-world decision-making scenarios where agents must optimize multiple conflicting objectives, such as balancing cost, efficiency, and user satisfaction. In settings where picky customers impose strict preferences over objectives, standard MORL approaches struggle to provide optimal policies while maintaining efficient exploration. To address this challenge, we present a theoretical framework analyzing the regret bounds and exploration complexity of MORL under strict preference constraints.
+
+Our approach introduces a Preference-Constrained MORL (PC-MORL) model, which formalizes customer-specific preferences as structured constraints in the reward function. We derive tight regret bounds that characterize the trade-off between exploration and optimality in environments with non-stationary and adversarial preferences. Additionally, we propose an adaptive exploration strategy that efficiently balances policy improvement and constraint satisfaction, minimizing unnecessary exploration in regions that violate user preferences.
+
+Our theoretical results are validated through experiments on benchmark MORL tasks, demonstrating that PC-MORL achieves lower regret and faster convergence compared to existing MORL methods. These findings provide key insights into balancing multiple objectives in customer-centric reinforcement learning applications.
+
+Keywords: Multi-Objective Reinforcement Learning, Regret Analysis, Exploration Complexity, Preference Constraints, Customer-Centric AI, Decision-Making.

@@ -1,0 +1,1 @@
+pre-processing, score computation, and summarization generation. They incorporated a set of manually selected features at both word and sentence levels, tailored for Vietnamese news text. These features encompassed word frequency, word location, sentence position, time, and PageRank-based sentence features.

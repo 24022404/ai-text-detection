@@ -1,0 +1,1 @@
+Backend: The core logic and processing component of the application. It han dles incoming requests from the frontend, processes them, and interacts with the database to store and retrieve data.

@@ -1,0 +1,1 @@
+However, notably, our variations of modified Vietnamese PRIMERA model outperform the base Vietnamese models across all three metrics (R-1, R-2, R-L) on most datasets. The performance of PRIMERA pretrained on translated Newshead is consistently strong, with notable R-1, R-2 and R-L scores on VMDS and VLSP.

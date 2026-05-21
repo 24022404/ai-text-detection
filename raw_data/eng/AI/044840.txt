@@ -1,0 +1,1 @@
+JavaScript has evolved to support both frontend and server-side development, thanks to platforms such as Node.js. This advancement enables developers to use a single language across the entire technology stack, streamlining workflow for full stack and real-time applications.

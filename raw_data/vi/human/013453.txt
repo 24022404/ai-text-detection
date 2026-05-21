@@ -1,0 +1,1 @@
+onClick() : Thuộc View.OnClickListener. Nó được gọi khi người dùng hoặc chạm vào tem (khi ở chế độ cảm ứng), hoặc lựa chọn vào tem vỡ các phím điều hướng và nhấn nút "enter" phù hợp.

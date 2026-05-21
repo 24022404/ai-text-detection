@@ -1,0 +1,1 @@
+Lolyda : will send information from an infected system to attacker and monitor the system by sharing user credentials and network activity.

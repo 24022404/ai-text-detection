@@ -1,0 +1,1 @@
+A. G. Josselin Feist Gustavo Grieco, “Slither: A static analysis framework for smart contracts,” 2019 IEEE/ACM 2nd International Workshop on Emerging Trends in Software Engineering for Blockchain (WETSEB) ,pages 8–15, 2019.

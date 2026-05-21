@@ -1,0 +1,1 @@
+Inductive learning là quá trình học từ các tập huấn luyện suy ra các quy luật chung rồ áp dụng các quy luật chung đió vào tập kiểm thử. Với cách học như này, mô hình không cần huấn luyện lạ kh có dữ liệu mới, chưa từng xuất hiện trong tập huấn luyện nên phù hợp với việc cả các bài toán tổng quát hóa cao.

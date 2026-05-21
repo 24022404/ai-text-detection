@@ -1,0 +1,1 @@
+BAR  là mô hình được giới thiệu ở Facebook AI, một mô hình điã huấn luyện trước mớ, kết hợp ưu điểm của BERT và GPT. Sức mạnh của BERT nằm ở việc nắm bắt ngữ cảnh ha chiều, trong khi đó GPT có khả năng tự hồi quy. Với sự ra đời của BART, các nhiệm vụ anh và đọc hiểu văn bản có thể được thực hiện vớ cùng một mô hình.

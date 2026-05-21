@@ -1,0 +1,1 @@
+Trong bài báo này, trước hết, chúng tôi chứng minh chi tiết các kết quả liên quan đến vị nhóm các dẫn xuất của một môđun chéo. Sau đó, chứng minh các kết quả về nhóm Whitehead các dẫn xuất chính qui và các đặc trưng của dẫn xuất chính qui. Từ đó, xây dựng môđun chéo tác động của một môđun chéo cho trước.

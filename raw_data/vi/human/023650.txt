@@ -1,0 +1,1 @@
+Dịch chuyển : Hình ảnh được dịch chuyển theo chiều ngang hoặc dọc. Đều này mô phỏng hiệu ứng của việc người đó d chuyển sang ha bên hoặc lên xuống.

@@ -1,0 +1,9 @@
+Objective: Pedestrian detection in thermal imagery is critical for nighttime surveillance, autonomous driving, and search-and-rescue operations. However, the scarcity of labeled thermal datasets and the domain gap between visible and thermal sensors limit the accuracy and robustness of existing detectors. 
+
+Methods: We introduce a novel framework that leverages synthesized thermal images to enhance detector training. First, a generative adversarial network (GAN) is trained to translate visible-spectrum images into realistic thermal-like counterparts, preserving pedestrian shape and context cues. Next, these synthesized thermal images—augmented with simulated noise and varying temperature distributions—are combined with limited real thermal data to train a deep convolutional detection network. Our approach employs a multi-scale feature pyramid and hard example mining to improve small and occluded pedestrian recall.
+
+Results: On two public benchmarks (KAIST and FLIR), our method achieves a 7.3% average precision (AP) increase over baselines trained solely on real thermal data. False positives are reduced by 15% under challenging conditions such as low contrast and partial occlusion. Ablation studies confirm that (1) synthesized data significantly enriches training diversity, (2) noise modeling closes the synthetic-to-real domain gap, and (3) multi-scale feature fusion boosts detection of distant pedestrians.
+
+Conclusion: By integrating high-fidelity synthetic thermal images into the training pipeline, our framework substantially improves detection robustness and generalization without requiring extensive manual annotation. This strategy offers a cost-effective path to deploying reliable pedestrian detectors in thermal-based vision systems. 
+
+Keywords: thermal imagery, pedestrian detection, synthetic data augmentation, generative adversarial network, deep learning, domain adaptation

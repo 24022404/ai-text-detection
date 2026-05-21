@@ -1,0 +1,1 @@
+GLUE score (General Language Understanding Evaluation score) là tiêu chuẩn được sử dụng điểm đào tạo, đánh giá và phân tích các hệ thống hiểu ngôn ngữ tự nhiên dựa trên trí tuệ nhân tạo.

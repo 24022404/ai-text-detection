@@ -1,0 +1,1 @@
+Although the system is operational and has basic user functions, it has somelimitations that need to be improved due to time and resource constraints. For ex ample, the system currently lacks a payment function. However, I plan to continue refining the system to address these shortcomings in the future.

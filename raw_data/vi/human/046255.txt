@@ -1,0 +1,1 @@
+Vớ những ưu điểm vượt trộ, sự kết hợp của ngôn ngữ lập trình Swft vớ tính ổn định của PostgreSQL trên nền tảng MacOS, em lựa chọn PostgreSQL điể xây dựng backend.

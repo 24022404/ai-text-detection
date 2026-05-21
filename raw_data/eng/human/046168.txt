@@ -1,0 +1,1 @@
+M.Cohn and A. Lempel, “On fast m-sequence transforms (corresp.),” IEEE Transactions on Information Theory , vol. 23, no. 1, pp. 135–137, 1977.

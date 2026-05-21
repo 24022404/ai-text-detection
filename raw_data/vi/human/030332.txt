@@ -1,0 +1,1 @@
+SI2.4: Ứng dụng web có thể thực hiện đồng thờ tố thểu 500 thiết bị 2.4.3 Bảo mật Xác thực dựa trên phên.

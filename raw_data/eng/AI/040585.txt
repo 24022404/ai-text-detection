@@ -1,0 +1,9 @@
+Image retrieval systems play a crucial role in organizing and accessing vast collections of visual data. Despite their utility, these systems are vulnerable to adversarial attacks. This study investigates a novel universal perturbation attack framework capable of significantly degrading the performance of image retrieval systems.
+
+Methods: We propose a universal perturbation attack that generates a single, dataset-agnostic perturbation capable of disrupting the retrieval accuracy across various images. This approach leverages advanced adversarial techniques and optimizes perturbations using a combination of gradient-based methods and fine-tuning. The perturbation is then evaluated on different image retrieval models and datasets to assess its universality and effectiveness.
+
+Results: Our experiments demonstrate that the proposed universal perturbation can effectively decrease retrieval performance, with accuracy drops of up to 50% across diverse models and datasets. The perturbation maintains its efficacy regardless of the underlying architecture of the retrieval model, showcasing its robustness and adaptability.
+
+Conclusion: The findings underscore the feasibility of universal perturbation attacks as a pervasive threat to image retrieval systems. By highlighting vulnerabilities, this research paves the way for developing more resilient retrieval models and defense mechanisms. Potential applications extend to cybersecurity, where understanding adversarial vulnerability can drive the creation of more secure image processing systems.
+
+Keywords: universal perturbation, image retrieval, adversarial attack, gradient-based methods, retrieval accuracy.

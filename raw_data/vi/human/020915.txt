@@ -1,0 +1,1 @@
+Đều này gây nên một rủi ro không mong muốn đối với người sở hữu dịch vụ mạng (tương ứng với Provider trong hệ thống Boundless), đó là: ngay cả khi không muốn cấp quyền cho một tài khoản SAML User truy cập điện 1 thiết bị cụ thể thì cũng không có cách để ràng buộc.

@@ -1,0 +1,1 @@
+G. Wood, “Ethereum: A secure decentralized generalized transaction ledger,” Ethereum Project Yellow Paper, vol. 151, pp. 132, 2014.Phần này sẽ điặc tả các use case phụ trong hệ thống.

@@ -1,0 +1,1 @@
+Đề xuất một phương pháp tối ưu hóa hệ thống đèn giao thông, sử dụng các thông tin của môi trường và đưa ra các tín hiệu đèn giao thông phù hợp với trình trạng giao thông thực tế trong thờ gan thực.

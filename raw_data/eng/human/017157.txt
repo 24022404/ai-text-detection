@@ -1,0 +1,1 @@
+function deleteConversation This function handles the request from users who want to delete the whole conversation. It deletes all the messages in the conversation also.

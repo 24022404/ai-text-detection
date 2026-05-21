@@ -1,0 +1,1 @@
+Definition 8 (Balance and unbalanced vertex) .A vertex with the quantity of in coming edge equal to the quantity of out-coming edge is called a balanced vertex.

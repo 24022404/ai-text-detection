@@ -1,0 +1,1 @@
+Kurento Kurento media server (KMS) là một multimedia server package được sử dụng điểm phát triển các ứng dụng truyền video dựa trên nền tảng webRTC. Một webRTC media server là một multimedia middleware nơ mà dữ lệu đi qua khi truyền từ nguồn đến đích .

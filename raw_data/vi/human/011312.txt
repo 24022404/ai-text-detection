@@ -1,0 +1,1 @@
+Tổng kết Game điã điáp ứng điược các yêu cầu cơ bản của một game Action RPG với các chức năng:

@@ -1,0 +1,1 @@
+In conclusion, my web application’s primary objective is to provide a user friendly platform for visualizing the momentum factor in cryptocurrency data, fostering a better understanding of market trends and contributing to informed decision-making for investors.

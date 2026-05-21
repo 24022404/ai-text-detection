@@ -1,0 +1,7 @@
+Nghiên cứu mới đây đã tập trung vào ảnh hưởng của tốc độ biến dạng đến các tính chất chịu kéo của hợp kim Cu Ni đa tinh thể. Kết quả nghiên cứu cho thấy rằng tốc độ biến dạng có ảnh hưởng đáng kể đến độ bền kéo và độ giãn dài của hợp kim này.
+
+Khi tốc độ biến dạng tăng, độ bền kéo của hợp kim Cu Ni đa tinh thể cũng tăng lên, nhưng độ giãn dài lại giảm xuống. Điều này cho thấy rằng hợp kim này có khả năng chịu kéo tốt hơn khi được biến dạng nhanh chóng, nhưng khả năng giãn dài lại giảm xuống khi tốc độ biến dạng tăng.
+
+Nghiên cứu này cũng chỉ ra rằng tốc độ biến dạng có ảnh hưởng đến cấu trúc tinh thể của hợp kim Cu Ni đa tinh thể. Khi tốc độ biến dạng tăng, cấu trúc tinh thể của hợp kim này cũng thay đổi, dẫn đến sự thay đổi của các tính chất chịu kéo.
+
+Kết quả nghiên cứu này có ý nghĩa quan trọng trong việc hiểu rõ hơn về ảnh hưởng của tốc độ biến dạng đến các tính chất chịu kéo của hợp kim Cu Ni đa tinh thể, và có thể được ứng dụng trong việc thiết kế và sản xuất các vật liệu có tính chất chịu kéo tốt hơn.

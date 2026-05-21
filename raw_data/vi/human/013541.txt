@@ -1,0 +1,1 @@
+Đặt phòng: Đặt phòng theo lịch đã chọn, ngoà ra có thể bổ sung gh chú cho từng ca điặt.•Tra cứu điặt phòng: Tra cứu các ca điặt phòng và ch phí tương ứng bao gồm:

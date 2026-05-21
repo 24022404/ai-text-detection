@@ -1,0 +1,1 @@
+DOM Manipulation: JavaScript can modify the Document Object Model (DOM) of a web page, allowing developers to dynamically change content, styles, and interact with user input.

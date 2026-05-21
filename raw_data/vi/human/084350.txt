@@ -1,0 +1,1 @@
+Tiếp theo, ở chương 3 đồ án sẽ trình bày về các công nghệ sử dụng cho điểm phát triển và triển khai hệ thống.Từ việc khảo sát và phân tích yêu cầu , xếp theo em sẽ giới thiệu về một số lý thuyết và công nghệ sử dụng. Đó là công nghệ lập trình Web, em xin trình bày dưới đây.

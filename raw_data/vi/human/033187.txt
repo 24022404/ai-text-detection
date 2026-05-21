@@ -1,0 +1,1 @@
+Hệ thống kiểm tra tính hợp lệ của thông tin thanh toán và trừ số tiền thanh toán vào nợ của khách hàng.

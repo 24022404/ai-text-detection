@@ -1,0 +1,1 @@
+Updating: Đây là ga đoạn thứ 3 sau kh component điã render thành công lần đầu tiên. Trong giai đoạn này, dữ liệu của state và props sẽ được cập nhập điểm đáp ứng với các events theo yêu cầu của người dùng. Điều này dẫn đến việc render ở component. Tương ứng với nó ta có 4 phương thức chính:

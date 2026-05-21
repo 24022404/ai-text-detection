@@ -1,0 +1,1 @@
+Yêu cầu chung Phần mềm cần tuân thủ phân quyền đã có của hệ thống DEClan. Dữ liệu phải được hiển thị chính xác dựa theo phân quyền hiện tại của người sử dụng. Đồng thời, ứng dụng cần tương thích trên nhiều trình duyệt khác nhau như Safar, Google, . . .

@@ -1,0 +1,1 @@
+Compatibility: The app should be compatible with a wide range of devices and operating systems, and it should be able to integrate with other apps and software.

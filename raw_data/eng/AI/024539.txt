@@ -1,0 +1,1 @@
+The function f(x) = max(0.01∗x, x) behaves such that for positive inputs, it returns x, while for negative inputs, it yields 0.01∗x, guaranteeing that negative values still result in nonzero outputs. This design ensures a nonzero gradient on the negative side of the function, effectively preventing the occurrence of dead neurons during the training of neural networks.

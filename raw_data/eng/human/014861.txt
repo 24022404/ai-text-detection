@@ -1,0 +1,1 @@
+M. Zhong, P. Liu, D. Wang, X. Qiu andX. Huang, “Searching for effective neural extractive summarization: What works and what’s next,” inProceedings of the 57th Annual Meeting of the Association for Computational Linguistics Florence, Italy: Association for Computational Linguistics, july2019, pages 1049–1058.

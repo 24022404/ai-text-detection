@@ -1,0 +1,1 @@
+Từ việc phân tích hiện trạng ở phần 2.1, hệ thống được xây dựng sẽ bao gồm các chức năng chính là: quản lý khoản thu chi, quản lý và, quản lý ngân sách, xem thống kê, quản lý thông tin cá nhân và quản lý thông tin bạn bè.

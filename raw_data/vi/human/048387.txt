@@ -1,0 +1,1 @@
+Thứ nhất, kiểm thử lỗ hổng giúp phát hiện các điểm yếu, lỗ hổng bảo mật và khuyết điểm trong ứng dụng. Nhờ đó, những lỗ hổng này có thể được xác định và khắc phục trước khi ứng dụng được triển khai, giảm thiểu nguy cơ bị tấn công và lộ thông tin quan trọng.

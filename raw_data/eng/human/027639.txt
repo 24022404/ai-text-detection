@@ -1,0 +1,1 @@
+This section will analyze the performance of the four kind of JRPC request that are essential for the login and registration use cases of the system. The requests are crucial for facilitating communication between the SDK and executors, and their performance significantly affects the overall efficiency and user experience of the system.

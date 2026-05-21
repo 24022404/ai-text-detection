@@ -1,0 +1,1 @@
+Take Screenshot I can click on the Screenshot button, after clicked, there will be a log displayed that the image is taken or not:

@@ -1,0 +1,1 @@
+Hệ thống thanh toán : Magento hỗ trợ nhều phương thức thanh toán khác nhau, bao gồm các phương thức thanh toán trực tuyến và off.

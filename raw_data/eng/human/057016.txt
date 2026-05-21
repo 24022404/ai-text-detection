@@ -1,0 +1,1 @@
+The analysis continues to check whether the Firebase Remote Configfeature is enabled for the app. This involves verifying Firebase config uration information via the API.

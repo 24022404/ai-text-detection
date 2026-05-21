@@ -1,0 +1,1 @@
+Customer request monitoring is supported according to the policy, scope andtime, and it is also specified through the establishment of Service Level Agree ments (SLA).

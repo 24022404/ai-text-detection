@@ -1,0 +1,1 @@
+R. Hadsell, S. Chopra andY. LeCun, “Dimensionality reduction by learning an invariant mapping,” in2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR’06) volume 2, 2006, pages 1735–1742.

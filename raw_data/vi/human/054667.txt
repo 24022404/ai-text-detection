@@ -1,0 +1,1 @@
+Sau quá trình trang và áp dụng hàm đánh giá MSE trên 2 tập valdaton và test set , em thu được bảng sau  :

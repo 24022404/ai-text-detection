@@ -1,0 +1,1 @@
+Bản thân Spring Boot chứa đựng nhiều các library bên trong, cấu trúc code cũng trở nên chuẩn mực hơn, bạn không cần phải quá bận tâm đến việc code làm sao cho thật tốt. Do đó, bạn có nhiều thờ gần hơn điểm tập trung vào sự logic của sản phẩm.

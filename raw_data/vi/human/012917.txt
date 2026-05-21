@@ -1,0 +1,1 @@
+Để phát triển hệ thống quản lý quán tạp hoá đơn gản, đồ án tập trung vào việc phát triển ứng dụng web. Để bắt đầu quá trình thiết kế và xây dựng, đồ án sẽ khảo sát các ứng dụng hiện có điểm đánh giá ưu và nhược điểm của chúng và từ đó đưa ra các yêu cầu chức năng chính cho ứng dụng.

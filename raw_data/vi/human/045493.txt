@@ -1,0 +1,1 @@
+Mỗ dạng truy vấn điều dùng khố lệnh bên trong từ khóa WHERE điểm hạn chế truy vấn mặc dù trường hợp truy vấn DESCRIBE từ khóa WHERE là tùy chọn.

@@ -1,0 +1,1 @@
+Lớp Logic Lớp Logc cung cấp các biểu diễn tri thức, luật suy diễn, đưa ra kết luận dựa trên các điều kiện đầu vào.

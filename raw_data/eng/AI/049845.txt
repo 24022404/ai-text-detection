@@ -1,0 +1,1 @@
+In supervised learning, which is the most popular group of machine learning algorithms, data is paired with labels to form (data, label) pairs.

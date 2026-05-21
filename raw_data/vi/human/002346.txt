@@ -1,0 +1,1 @@
+Thuộc tính Kiểu dữ lệu Mô tả d BIGINTEGER Mã d của activites user_id BIGINTEGER Khóa ngoại lên kết với bảng users để truy vấn người tạo hoạt động activity name VARCHAR(255) Tên hoạt động ứng viên đã tham gia description TEXT Mô tả chợ tết hoạt động đã tham gia Bảng 4.5: Cho tết bảng activites Bảng 4.6 mô tả ch tết bảng references:

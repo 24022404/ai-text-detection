@@ -1,0 +1,1 @@
+Giao diện quản lý tài khoản quản trị  Hình 4. 25: Giao diện quản lý tài khoản quản trị Trong giao diện quản lý tài khoản quản trị, quản trị viên có thể thêm mới tài khoản quản trị, xem hoặc xóa các tài khoản quản trị đang có trong hệ thống.và mật khẩu của tài khoản đang có.

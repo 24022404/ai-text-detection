@@ -1,0 +1,1 @@
+Docker employs a client-server architecture, allowing the Docker client—accessible via command-line interface or graphical user interface—to communicate with the Docker daemon. The daemon is responsible for building, running, and efficiently managing containers.

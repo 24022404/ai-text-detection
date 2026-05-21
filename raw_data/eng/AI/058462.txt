@@ -1,0 +1,1 @@
+The Delete Analyzed File sub-use case allows users to permanently erase an analyzed file and all its associated data from the recent scans list by choosing the target file and confirming its deletion, ensuring no data is retained.

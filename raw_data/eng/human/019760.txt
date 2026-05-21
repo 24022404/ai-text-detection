@@ -1,0 +1,1 @@
+Relative lack of data for some classes: Some classes have significantly fewerinstances than others. This can impact model performance. For example, "on games" and "delfinject" have limited samples, potentially leading to lessFigure 4.7: Confusion matrix of RNN experiment accurate predictions.

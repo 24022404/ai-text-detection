@@ -1,0 +1,9 @@
+Objective: Convolutional Neural Networks (CNNs) often suffer from channel redundancy, leading to inflated model size and computational cost without proportional gains in accuracy. This paper introduces SlimConv, a novel weight-flipping mechanism designed to identify and eliminate redundant channels in CNNs while preserving representational power.
+
+Methods: SlimConv operates by systematically “flipping” the sign of selected convolutional weights during training to probe channel importance. We derive a lightweight metric based on the magnitude shift induced by sign flips, enabling efficient ranking of channels by their contribution to the network’s feature maps. Redundant channels, as determined by low sensitivity to weight flips, are pruned in a single-shot process. The remaining weights are fine-tuned to recover any lost accuracy. Our approach integrates seamlessly with standard backpropagation and incurs minimal overhead.
+
+Results: Extensive experiments on CIFAR-10, CIFAR-100, and ImageNet demonstrate that SlimConv reduces up to 40% of channels and 35% of FLOPs on ResNet-50 and MobileNetV2 architectures, with less than 1.2% drop in top-1 accuracy. Compared to state-of-the-art pruning and compression techniques, SlimConv achieves comparable compression ratios with faster convergence and simpler implementation.
+
+Conclusion: SlimConv offers an effective and generalizable framework for channel-level compression in CNNs. By leveraging weight-flipping for redundancy detection, it delivers significant resource savings with minimal accuracy compromise. This method is well suited for deployment on resource-constrained devices and can be combined with quantization or low-rank factorization for further optimization.
+
+Keywords: convolutional neural networks, model compression, channel redundancy, weight flipping, network pruning.

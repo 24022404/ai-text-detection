@@ -1,0 +1,1 @@
+This component manages the different levels in the game. It loads and unloads levels, keeps track of the player’s progress, and handles level transitions.

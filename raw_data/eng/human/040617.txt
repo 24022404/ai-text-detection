@@ -1,0 +1,1 @@
+For practical deployment of my app, I utilized a single server to host the Node.js backend application, serving as the Business layer, and deployed it on the Render service. Ad ditionally, I employed another server to set up the MongoDB database using MongoDBAtlas.

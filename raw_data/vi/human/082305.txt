@@ -1,0 +1,1 @@
+Để loại bớt đi các bounding boxes trên các bức ảnh và các kernels, sử dụng 2 phương pháp chính là lập mức Threshold confdent – xóa đi các box có mức confdent thấp và sử dụng NMS (NonMax Suppression) để xóa các box có tỉ lệ trùng nhau (Intersection Over Union) vượt qua 1 mức threshold tự thiết lập nào đó. Chỉ giữ lại 1 box có mức confdent cao nhất.

@@ -1,0 +1,1 @@
+− Hình dưới đây thể hiện luồng khí ở tạo database dựa trên đi ố số Hình 1.6: Luồng khởi tạo database Có thể truyền các đi ốt số vào phương thức khởi tạo của lớp context như sau:

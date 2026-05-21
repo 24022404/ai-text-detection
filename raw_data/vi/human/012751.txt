@@ -1,0 +1,1 @@
+Trong phần vùng chọn sẽ bao gồm các bộ chọn, là các mẫu để lựa chọn phần từ HTML để định dạng. Tiếp theo sẽ là danh sách các thuộc tính và giá trị của chúng.

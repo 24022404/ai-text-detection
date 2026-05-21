@@ -1,0 +1,1 @@
+Y. Deng, J. Yang, S. Xu, D. Chen, Y. Ja and. Tong, “Accurate 3d face reconstruction with weakly supervised learning: From single mage to mage set,” Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops 2019, pages 0–0.

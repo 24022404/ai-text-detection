@@ -1,0 +1,9 @@
+The complexity and computational demand of traditional models for network device workload prediction pose significant challenges in practical deployment. This research addresses the need for a lightweight, efficient model that balances performance with simplicity for real-time network management.
+
+Methods/Approach: We propose a novel lightweight model that leverages an optimized statistical learning framework to predict network device workloads with minimal resource utilization. The model is constructed using a streamlined architecture, combining essential machine learning primitives that provide robust predictive capabilities without the overhead of complex algorithms.
+
+Results/Findings: Our experimental results demonstrate that the proposed model achieves competitive predictive accuracy compared to existing advanced models while significantly reducing computational and memory requirements. Through comprehensive evaluations in real-world network scenarios, the model shows a prediction accuracy of up to 92%, demonstrating substantial improvements in efficiency—achieving a 40% reduction in processing time compared to traditional approaches.
+
+Conclusion/Implications: The research offers a valuable contribution to the domain of network management by introducing a lightweight and effective solution to workload prediction. This model's simplicity and efficiency make it particularly suitable for deployment in resource-constrained environments, fostering enhanced network performance and reliability. The findings underscore the potential for streamlined models in optimizing network operations, suggesting broader applicability across various IT infrastructure systems.
+
+Keywords: lightweight model, network device, workload prediction, statistical learning, real-time network management, efficiency, resource utilization.

@@ -1,0 +1,1 @@
+Đố vớ Smart Contract, các contact của hệ thống được viết bằng Move Language . Move là một ngôn ngữ lập trình mới được phát triển bở Facebook dành cho việc xây dựng các ứng dụng trên nền tảng blockchain Libra. Move được thiết kế điểm tối ưu hóa tính an toàn và tính toàn vẹn trong việc xử lý tài sản và hợp đồng thông minh trên blockchain.

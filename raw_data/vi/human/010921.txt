@@ -1,0 +1,1 @@
+Gả pháp Để giải quyết vấn đề trên, chúng ta cần xử lý hóa vấn đề nhỏ gồm lấy dữ liệu hình ảnh, âm thanh từ camera, macro của người dùng và chia sẻ dữ liệu này với những người tham gia trong cuộc gặp theo thờ gan thực.

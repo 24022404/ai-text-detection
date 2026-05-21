@@ -1,0 +1,1 @@
+Bước 1: Tải gói cài đặt phiên bản ZALO phù hợp với máy tính ở trên trang chủ của OWASP ZAP  2: Tiến hành cài đặt OWASP ZAP theo như hướng dẫn của gói cài đặt Sau khi cài đặt thành công, ta có thể thấy giao diện của ZAP hiện lên như hình 5.7 Hình 5.7: Màn hình của RAP Bước tiếp theo, ta cần lấy API KEY của ZAP điểm công cụ có thể sử dụng ZAP thông qua API.

@@ -1,0 +1,1 @@
+So sánh giữa việc sử dụng một phép tăng cường hoặc nhiều phép tăng cường Trong thí nghiệm này, những phép tăng cường được sử dụng vẫn là những phép em đề xuất. Ngoài ra chiến thuật sử dụng ở đây là sử dụng tăng cường ổn vì trong thực nghiệm, kết quả của việc sử dụng tăng cường on trong bài toán nhận diện chữ viết tay mà em làm cho kết quả tốt hơn một cách đáng kể.

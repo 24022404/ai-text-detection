@@ -1,0 +1,1 @@
+Sự kết hợp giữa Magento và MySQL giúp cửa hàng trực tuyến có thể quản lý, tùy chỉnh và mở rộng dễ dàng, đồng thờ cung cấp hiệu suất và độ tin cậy cao trong việc xử lý số lượng lớn dữ liệu và giao dịch trong mô trường thương mại điện tử.

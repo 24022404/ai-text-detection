@@ -1,0 +1,9 @@
+Biometric systems, particularly iris recognition, are increasingly vulnerable to presentation attacks (PAs) that can jeopardize security. This paper proposes D-NetPAD, a novel explainable and interpretable detector designed to accurately identify and mitigate such attacks, enhancing the robustness of iris-based authentication systems.
+
+Methods/Approach: The proposed D-NetPAD leverages a deep learning architecture that incorporates convolutional neural networks (CNNs) specifically fine-tuned for the iris presentation attack detection task. This model is enhanced with explainability layers, which highlight salient features used in decision-making, and interpretable modules that provide insights into the model's rationale for classifying inputs as genuine or spoofed.
+
+Results/Findings: D-NetPAD demonstrates superior performance in detecting various presentation attacks, achieving a significant improvement in accuracy over existing methods. The model's ability to explain decisions is tested through visualization techniques, ensuring transparency and trust in its operations. Comparative analysis with state-of-the-art techniques validates its efficiency and effectiveness across extensive datasets, indicating a lower incidence of false positives and improved detection rates.
+
+Conclusion/Implications: The introduction of D-NetPAD contributes to the field by addressing the critical need for secure and reliable iris authentication systems that are explainable and interpretable. The integration of interpretability into deep learning models for presentation attack detection not only enhances trust but also facilitates better deployment in real-world scenarios. This research sets the stage for future improvements in biometric security systems, particularly in environments where integrity and transparency are paramount.
+
+Keywords: Iris recognition, presentation attack detection, deep learning, CNN, explainability, interpretability, biometric security.

@@ -1,0 +1,1 @@
+STT Tên trường Yêu cầu 1 gmail của tài khoản muốn tạo SAML User Bắt buộc 2 firstname của SAML User Bắt buộc 3 lastname của SAML User Bắt buộc 4 Access Control Rule Không bắt buộc Bảng C.3: Dữ liệu đầu vào cho trường hợp kiểm thử "Tạo SAML User"Các ca kiểm thử cho chức năng "Tạo SAML User":

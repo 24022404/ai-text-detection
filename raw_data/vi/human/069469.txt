@@ -1,0 +1,1 @@
+Sau khi xây dựng xong hệ thống mớ, kết quả dự kiến đạt được của từng đối tượng như sau:Hình 2.1: Bảng so sánh 3 website nghe nhạc trực tuyến Đối với người dùng không đăng nhập sẽ chỉ có thể nghe và xem thông tin về bài hát có trên nền tảng.

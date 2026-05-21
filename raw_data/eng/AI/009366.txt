@@ -1,0 +1,9 @@
+Objective: Online decision trees are widely used for real-time classification on data streams but often exhibit limited accuracy and slow adaptation to changing distributions. This paper introduces Online Local Boosting (OLB), a novel framework that enhances the predictive power of any streaming decision‐tree learner by applying lightweight, leaf-level boosting in an online fashion.  
+
+Methods: OLB attaches a small ensemble of weak learners to each leaf node of an evolving decision tree. As each instance arrives, the tree routes it to a leaf where the local booster updates weights and combines weak hypotheses through a fast, importance‐weighted voting scheme. OLB requires no batch retraining, adapts continuously to concept drift, and imposes only a modest computational and memory overhead.  
+
+Results: Empirical evaluation on six standard streaming datasets—including synthetic drift scenarios and real-world benchmarks—demonstrates that OLB consistently outperforms baseline Hoeffding trees, online bagging, and prior online boosting methods. Across all tasks, OLB yields up to a 15% relative reduction in classification error and adapts more quickly to abrupt and gradual changes.  
+
+Conclusion: Online Local Boosting offers a practical, model-agnostic enhancement for streaming decision trees, striking a balance between accuracy, scalability, and responsiveness. Its modular design makes it suitable for deployment in applications such as network intrusion detection, real-time recommendation, and sensor data monitoring.  
+
+Keywords: online boosting, decision trees, data streams, concept drift, real-time classification.

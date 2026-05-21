@@ -1,0 +1,1 @@
+Lập trình Flutter sử dụng ngôn ngữ Dart. Một điểm cộng của ngôn ngữ này là nó hỗ trợ rất tốt việc lập trình bất đồng bộ, giúp các công việc thường tiêu tốn thờ gần như truyền thông qua Internet hay vào ra file trở nên trong suốt hơn trong các ứng dụng giao diện.

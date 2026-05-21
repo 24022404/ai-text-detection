@@ -1,0 +1,1 @@
+OpenCV, developed by Intel and maintained by its community, is an open-source computer vision and machine learning library. Written in C++, OpenCV is cross-platform and supports APIs for several programming languages, including Python and Java, enabling versatile development.

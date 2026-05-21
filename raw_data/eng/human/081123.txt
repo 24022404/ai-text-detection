@@ -1,0 +1,1 @@
+For the GUI Manager package, it includes a system of ScreenBase and Popup Base, which are designed independently but under the common management of the GUI Manager. These components handle the management of screens and pop-ups within the game.

@@ -1,0 +1,1 @@
+Apache Drud Apache Drud là cơ sở dữ liệu chuỗ thờ gan (tmeseres) với những ưu điểm là thờ gan truy vấn nhanh chóng, khả năng mở rộng và chịu lỗ. Drud thường được sử dụng vào những yêu cầu về dữ liệu thờ gan thực (realtme), truy vấn dữ liệu tốc điộ nhanh và điảm bảo hệ thống luôn có thể điáp ứng được nhu cầu tính toán.

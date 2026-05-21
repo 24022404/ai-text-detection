@@ -1,0 +1,1 @@
+Chương 4 sẽ trình bày cho tết thiết kế, xây dựng hệ thống bao gồm thiết kế kiến trúc, thiết kế chi tiết, kiểm thử và triển khai. Tại trường em nêu ra các thiết kế từ tổng quan điến ch tết của đồ án thông qua các biểu đồ gió và biểu đồ lớp, cuối cùng là kết quả xây dựng ứng dụng.

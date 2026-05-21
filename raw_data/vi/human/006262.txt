@@ -1,0 +1,1 @@
+Người dùng: Đại diện cho người sử dụng hệ thống. Người dùng có thể thao tác chia sẻ phòng thông quan Shared Room Form.

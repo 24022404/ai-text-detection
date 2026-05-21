@@ -1,0 +1,1 @@
+Xampp server MySQL (3.2+) 4.3.4 Cấu hình cơ sở dữ lệu Để cấu hình thông tin kết nối cơ sở dữ lệu thì mở file .env để thiết lập các giá trị cần thiết . Ta chỉ cần quan tâm nhất tớ 3 bến như sau:

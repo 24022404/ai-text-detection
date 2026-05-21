@@ -1,0 +1,1 @@
+anchor score (ct) = pop(c, t)·discriminative (c, t)·d(c, t)1/3 (3.7) Từ đó, tạ mộ nút phân loại c, thuật toán sẽ xếp hạng các thuật ngữ dựa trên điểm neo của thuật ngữ và chọn các thuật ngữ có điểm số cao nhất làm thuật ngữ neo.

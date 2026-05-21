@@ -1,0 +1,9 @@
+This paper addresses the challenge of accurately modeling systems that evolve continuously over time by proposing an innovative approach utilizing Continuous-Time Bayesian Networks (CTBNs) enhanced with clock variables. Traditional CTBNs are limited in capturing temporal dynamics effectively, which this research aims to overcome.
+
+Methods/Approach: We introduce the concept of incorporating clock variables into CTBNs, allowing for the representation and analysis of temporal events with precision while accounting for dependencies and dynamic behaviors. Our method leverages stochastic processes and probabilistic graphical models to create a more expressive and flexible modeling framework capable of handling a wide range of real-world applications.
+
+Results/Findings: Through comprehensive experimentation on synthetic and real-world datasets, our approach demonstrates superior performance in capturing temporal patterns and dependencies compared to standard CTBNs and other existing methods. The inclusion of clocks significantly enhances model accuracy without compromising computational efficiency.
+
+Conclusion/Implications: The proposed CTBNs with clocks provide a novel and powerful tool for temporal data modeling and analysis. This framework can be applied to various domains such as healthcare, finance, and network analysis, where understanding continuous-time dynamics is crucial. Our research contributes to the field by offering a more robust method for modeling continuous-time processes and sets the stage for further advancements in temporal probabilistic reasoning.
+
+Keywords: Continuous-Time Bayesian Networks, CTBNs, temporal modeling, probabilistic graphical models, stochastic processes, clock variables, dynamic systems.

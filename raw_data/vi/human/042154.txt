@@ -1,0 +1,1 @@
+Là biểu đồ dạng bảng có ba cột (vị trí  tỉ lệ người dùng  số lượt xem), biểu diễn sự phân bố theo vị trí địa lý của người dùng.

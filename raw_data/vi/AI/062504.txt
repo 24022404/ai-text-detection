@@ -1,0 +1,10 @@
+Mô hình ứng dụng App đăng tin rao vặt kết nối người mua và người bán được thiết kế nhằm cung cấp một nền tảng trực tuyến cho phép người dùng đăng tải thông tin về sản phẩm hoặc dịch vụ của mình, đồng thời kết nối với người mua tiềm năng. Ứng dụng này nhằm mục đích tạo điều kiện thuận lợi cho quá trình mua bán trực tuyến, giảm thiểu các khía cạnh phức tạp và tăng cường sự tương tác giữa người mua và người bán.
+
+Ứng dụng này được xây dựng dựa trên các tính năng chính bao gồm:
+
+- Tính năng đăng tin rao vặt: cho phép người dùng đăng tải thông tin về sản phẩm hoặc dịch vụ của mình, bao gồm hình ảnh, mô tả, giá cả và các thông tin liên quan khác.
+- Tính năng tìm kiếm: cho phép người dùng tìm kiếm thông tin về sản phẩm hoặc dịch vụ theo các tiêu chí khác nhau, chẳng hạn như loại sản phẩm, giá cả, địa điểm và các tiêu chí khác.
+- Tính năng kết nối: cho phép người mua và người bán tương tác với nhau thông qua các công cụ như tin nhắn, cuộc gọi và các tính năng khác.
+- Tính năng bảo mật: đảm bảo rằng thông tin cá nhân và tài khoản của người dùng được bảo mật và an toàn.
+
+Mục tiêu của ứng dụng này là tạo ra một nền tảng trực tuyến an toàn, tiện lợi và hiệu quả cho quá trình mua bán trực tuyến, đồng thời tăng cường sự tương tác và kết nối giữa người mua và người bán.

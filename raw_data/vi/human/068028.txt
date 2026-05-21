@@ -1,0 +1,1 @@
+Bộ dữ liệu đơn thuốc tiếng Việt Là bộ dữ liệu được thu thập tại bệnh viện ở Việt Nam, bao gồm 10 mẫu đơn thuốc khác nhau trong đó có 3 lọ chứa bảng biểu và 7 loại không chứa bảng biểu.

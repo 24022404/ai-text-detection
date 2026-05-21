@@ -1,0 +1,1 @@
+Tích hợp với công cụ giám sát: PM2 tích hợp tốt với các công cụ giám sát như Keymetric hoặc PM2 Enterprise điểm cung cấp thông tin chi tiết về hiệu suất và trạng thái của ứng dụng.

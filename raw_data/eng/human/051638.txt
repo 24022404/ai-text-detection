@@ -1,0 +1,1 @@
+To address the problems associated with RNNs, two alternative architectures were introduced: Long-Short Term Memory  (LSTM) and Gated Recurrent Units  (GRU). These architectures created a "highway" for the gradient signal, allowing it to flow more effectively throughout the network. However, the inability to parallelize the computations remained a challenge.

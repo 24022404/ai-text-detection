@@ -1,0 +1,1 @@
+Database and framework independence•Unrelated to the presentation layer. We may alter the UI at any moment with out affecting the rest of the system or business logic.

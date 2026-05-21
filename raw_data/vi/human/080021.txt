@@ -1,0 +1,1 @@
+Tính toán CR (Chỉ số nhất quán). Nếu CR < 10% thì kết quả phù hợp, độ tin cậy cao:

@@ -1,0 +1,1 @@
+Đền các thông tin chỉnh sửa sản phẩm.  Hệ thống hiển thị thông báo “Sửa sản phẩm thành công”, cập nhật vào cơ sở dữ liệu và trở về trang quản lý sản phẩm.  Hệ thống hiển thị thông báo “Sửa sản phẩm thành công”, cập nhật vào cơ sở dữ liệu và trở về trang quản lý sản TC06  1. Đăng nhập tài khoản quản trị vên.

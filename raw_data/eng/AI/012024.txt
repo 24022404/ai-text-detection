@@ -1,0 +1,1 @@
+The goal is to acquire a list of recent scans efficiently, focusing solely on their occurrence, without needing detailed data about the analyzed files or outcomes.

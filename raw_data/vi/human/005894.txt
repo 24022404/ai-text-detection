@@ -1,0 +1,1 @@
+Khách hàng tạo tài khoản và đăng nhập vào hệ thống ; 2. Khách hàng tạo project trên hệ thống ; 3. Khác hàng nhúng link hoặc cài đặt package vào website của mình; Kết quả mong đợi Dữ lệu được hiển thị đầy đủ trên hệ thống.

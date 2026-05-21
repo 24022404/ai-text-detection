@@ -1,0 +1,1 @@
+Kết nối đến dịch vụ web: Javascript cho phép kết nối đến các dịch vụ web và cơ sở dữ liệu để lấy dữ liệu và hiển thị trên trang web.

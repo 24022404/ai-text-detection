@@ -1,0 +1,1 @@
+Mô hình này gọi là mạng kết nối đầy đủ (fully connected layer) hay mạng toàn vẹn (affine layer). Còn trong mô hình CNNs thì ngược lại. Các layer lên kết được với nhau thông  qua cơ chế convolution.

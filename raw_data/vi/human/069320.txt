@@ -1,0 +1,1 @@
+Kết luận Thành công Bảng 4.15: Test case: Chấp thuận offer NFT Thông qua kiểm thử, ta kết luận hệ thống đã thực hiện được các tính năng cơ bản theo điúng thết kế. Hệ thống điã hoạt điộng ổn điịnh, các chức năng cơ bản hoạt động tốt vớ thờ gan phản hồi hợp lý.

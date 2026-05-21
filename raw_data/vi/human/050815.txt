@@ -1,0 +1,1 @@
+Hệ thống Hiển thị form cha sẻ 3. Người dùng Chọn nút "Thêm người" để chia sẻ phòng cho người khác 4. Hệ thống Hiển thị form "Thêm người" vào phòng.

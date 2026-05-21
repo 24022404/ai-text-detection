@@ -1,0 +1,9 @@
+Objective: Semantic image synthesis aims to generate photorealistic images from semantic label maps for applications in virtual reality, game design, and scene editing. Existing normalization-based generators often struggle to balance visual fidelity, class consistency, and computational efficiency.
+
+Methods: We propose Class-Adaptive Normalization (CAN), a novel feature modulation layer that dynamically adjusts activations according to per-class statistics. CAN integrates seamlessly into a standard generator backbone by computing scale and bias parameters from class-specific embeddings derived from the input segmentation map. Unlike prior approaches that use global or channel-wise conditioning, CAN enforces fine-grained control over each semantic region while introducing minimal overhead. We implement our method within a GAN framework and train on Cityscapes and COCO-Stuff datasets under identical settings used by state-of-the-art baselines.
+
+Results: Experiments demonstrate that CAN reduces the Fréchet Inception Distance (FID) by 22% (from 15.8 to 12.3) and increases mean Intersection-over-Union (mIoU) by 3.3% compared to the leading SPADE-based model. Moreover, our architecture requires 28% fewer parameters and achieves 1.4× faster inference, enabling real-time synthesis at 30 FPS on a single GPU. Qualitative evaluation shows improved boundary sharpness and more accurate color consistency across diverse object classes.
+
+Conclusion: CAN offers a lightweight, effective normalization strategy that enhances both the efficiency and quality of semantic image synthesis. Its generality makes it suitable for a wide range of generative tasks, including interactive content creation and augmented-reality scene generation.
+
+Keywords: semantic image synthesis, class-adaptive normalization, generative adversarial networks, image generation, conditional normalization.

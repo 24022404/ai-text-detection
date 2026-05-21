@@ -1,0 +1,1 @@
+Redux Hình 3.9: Nguyên lý vận hành của Redux Redux là một thư viện quản lý trạng thái (state management) cho ứng dụng React. Nó cho phép các thành phần của ứng dụng truy cập trạng thái chung của ứng dụng một cách dễ dàng, giúp quản lý trạng thái ứng dụng trở nên đơn giản hơn và giảm thiểu sự phụ thuộc giữa các thành phần của ứng dụng.

@@ -1,0 +1,1 @@
+Tầng dữ liệu (Data ter): là nơi lưu trữ, quản lý, truy xuất dữ liệu của hệ thống, với hệ thống này là hệ quản trị cơ sở dữ liệu MySQL.

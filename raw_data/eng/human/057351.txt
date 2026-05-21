@@ -1,0 +1,1 @@
+In this output gate, the hidden state from the previous cell as well as the current input are fed to sigmoid operation to determine what must be maintained dependingon short-term input. This is combined with the short-term input-influenced memory provided by the cell state that has just been altered by the forget and input gates.

@@ -1,0 +1,1 @@
+This data pair is also known as (data, label), i.e. (data, label). Supervised learning is the most popular group of Machine Learning algorithms.

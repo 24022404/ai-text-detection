@@ -1,0 +1,1 @@
+Đố vớ yêu cầu phi chức năng về giao diện người dùng, tô đã thực hiện khảo sát gào diện đối với 20 người. Kết quả khảo sát, gào diện của ứng dụng được đánh giá đơn giản dễ sử dụng, những nút bấm tên dễ hiểu, không bị nhầm kh thao tác.

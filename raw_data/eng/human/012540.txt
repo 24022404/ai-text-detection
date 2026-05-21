@@ -1,0 +1,1 @@
+–Multi-Head Attention: Transformers use multiple self-attention heads in parallel to capture different aspects of the input sequence. Each attention head learns different relationships between words, allowing the model to capture various patterns and dependencies.

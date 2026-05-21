@@ -1,0 +1,1 @@
+Truy vấn DESCRIBE : Sử dụng để trích xuất một đồ thị RDF mô tả các tài nguyên khớp với bên được cho.

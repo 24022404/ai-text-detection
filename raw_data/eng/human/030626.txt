@@ -1,0 +1,1 @@
+Multi-XScience  is a large-scale dataset for multi-document summarization of scientific articles. It has 30,369, 5,066 and 5,093 samples for the train, validation and test split respectively. The average document length is 778.08 words and the average summary length is 116.44 words.

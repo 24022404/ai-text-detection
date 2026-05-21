@@ -1,0 +1,1 @@
+Cho phép tùy chỉnh và mở rộng: JWT có thể được tùy chỉnh điểm đáp ứng các yêu cầu cụ thể của ứng dụng. Nó cũng cho phép mở rộng điểm hỗ trợ các tính năng và yêu cầu mở của ứng dụng trong tương la.

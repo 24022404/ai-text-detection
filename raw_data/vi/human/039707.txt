@@ -1,0 +1,1 @@
+Thông qua việc triển khai đồ án, giúp em học được kỹ năng phân tích, giải quyết vấn đề, kỹ năng làm việc nhóm. Đồng thờ em học thêm được những công nghệ xử lý dữ lệu lớn, trên khả, tích hợp các thành phần trong hệ thống phân tán trong môi trường Docker.

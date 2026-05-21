@@ -1,0 +1,1 @@
+Chức năng quản lý tập trung nhiều tài khoản trên cùng một giao diện Chức năng tìm kiếm, lọc công việc Ngoài ra chức năng đánh dấu quan trọng là một ưu điểm so với các website khác Tuy nhiên, sản phẩm của đồ án còn một số hạn chế như:

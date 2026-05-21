@@ -1,0 +1,1 @@
+Elxr là một ngôn ngữ chức năng (functional), được nhập động (dynamically typed), được xây dựng trên máy ảo của Erlang và bên dịch thành mã bytecode của Erlang.

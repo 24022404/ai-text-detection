@@ -1,0 +1,1 @@
+CRL  maintains learned knowledge by introducing the contrastive replay mechanism and knowledge distillation. KIP-framework  proposed a prompt-based frameworkthat uses the knowledge-injected relation tokens and the relational knowledge infused prototypes to enhance the replay-based model.

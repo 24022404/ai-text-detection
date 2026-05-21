@@ -1,0 +1,9 @@
+This paper addresses the problem of generating barycenters of natural images within the field of image processing, with a particular focus on image morphing. The study explores the application of constrained Wasserstein barycenters to enhance the quality and flexibility of image morphing techniques.
+
+Methods/Approach: We propose a novel approach utilizing constrained Wasserstein barycenters, a mathematical concept from optimal transport theory, to smoothly interpolate between images. Our method enforces constraints that preserve essential image features during the morphing process. The algorithm involves the computation of optimal transport plans between input images, allowing for the effective synthesis of intermediate images that maintain identity consistency and visual coherence.
+
+Results/Findings: Our experiments demonstrate that the constrained Wasserstein barycenters outperform traditional morphing techniques by producing more natural and perceptually pleasing transitions between images. We provide quantitative evaluations and visual comparisons that highlight the superior performance of our method, especially in maintaining structural elements and textures during morphing tasks.
+
+Conclusion/Implications: The proposed approach not only advances the capabilities of image morphing by leveraging the strengths of constrained optimal transport but also offers a new avenue for artistic and practical applications in graphics and animation. This study contributes to the field by providing a robust framework for image interpolation that can be further extended to applications such as video morphing and virtual reality environments.
+
+Keywords: Wasserstein barycenters, image morphing, optimal transport, image interpolation, constrained optimization, visual coherence.

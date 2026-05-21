@@ -1,0 +1,1 @@
+Recognizing violent activity without decoding video streams Most conventional activity identification techniques’ motion target detection and tracking procedures are often complex, and their applicability is limited. To solve this problem, a fast method of violent activity recognition is introduced which is based on motion vectors .

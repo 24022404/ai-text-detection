@@ -1,0 +1,1 @@
+Ch tết các thành phần của mô hình đề xuất Nghiên cứu ngày càng tăng về học sâu đã dẫn đến việc sử dụng các phương pháp dựa trên mạng học sâu được áp dụng cho đồ thị. Với mạng học sâu, về mô hình hóa các cấu trúc phi tuyến tính trở nên dễ dàng hơn, vì vậy deep autoencoders được sử dụng điểm giảm số chiều.

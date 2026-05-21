@@ -1,0 +1,1 @@
+Như được thể hiện trong Hình 3.1, kiến trúc mô hình điều xuất bao gồm kết hợp của 3 thành phần: môđun mã hóa, module giả mã và môđun tinh chỉnh đặc trưng:

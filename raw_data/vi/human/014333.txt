@@ -1,0 +1,1 @@
+Đặc tả use case dừng trò chơi Hình 2.9: Biểu đồ use case Dừng trò chơi Mô tả : người chơ có thể pause trò chơi bằng phím ESC hoặc bấm nút Pause trên giao diện trong game. Lúc này game sẽ dừng lại và người chơi có thể chọn một số các lựa chọn khác nhau:

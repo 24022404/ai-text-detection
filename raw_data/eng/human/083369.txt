@@ -1,0 +1,1 @@
+An LSTM network has three extra gates compared to a regular RNN: an input gate, an output gate, and a forget gate. In 3.2, I present the LSTM network visualization.

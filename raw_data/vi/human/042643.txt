@@ -1,0 +1,1 @@
+Scale ứng dụng: PM2 cho phép bạn mở rộng ứng dụng Nodejs bằng cách chạy nhiều phiên bản của ứng dụng trên cùng một máy chủ. Điều này giúp tăng hiệu suất và khả năng chịu tải của ứng dụng.

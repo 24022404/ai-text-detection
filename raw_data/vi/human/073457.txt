@@ -1,0 +1,1 @@
+Cấu trúc hệ thống (System structure): REST API được xây dựng theo kiểu client server, với khả năng mở rộng và sử dụng lại các thành phần của hệ thống.

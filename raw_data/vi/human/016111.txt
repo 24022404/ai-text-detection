@@ -1,0 +1,1 @@
+Mô trường đã bao gồm các trạm nhận/gử hàng điể AGV vận chuyển. Trong kh AGV đang vận chuyển những hàng hóa này, một số tác nhân có thể cản điường AGV. Bở vì hầu hết các tác nhân d chuyển theo quỹ điạo điều điặn có thể dự đioán điược, nên hệ thống điều khển có thể dự báo vị trí và thờ gan tắc nghẽn.

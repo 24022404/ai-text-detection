@@ -1,0 +1,1 @@
+But even so, it was insufficient. Even while memory itself was enhanced by attention, computation was not. This problem affects plain vanilla RNNs and LSTMs alike. Due to the requirement that each token be handled consecutively, the procedure was still sequential. And that is where Transformer came in.

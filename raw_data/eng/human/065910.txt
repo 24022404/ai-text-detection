@@ -1,0 +1,1 @@
+FEFO algorithm (First Expired, First Out): According to this algorithm, goodsare arranged in the order of the nearest expiration date, ensuring that products that are about to expire are used first. This helps minimize the risk of expired products staying in the warehouse for too long.

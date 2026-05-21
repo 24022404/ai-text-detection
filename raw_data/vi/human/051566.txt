@@ -1,0 +1,1 @@
+Cụ thể khi tạo khóa học, tạ mỗi bài giảng trong chương, giảng viên có thể tải lên video và file riêng biệt phục vụ cho mục đích giảng dạy. Kh hiển thị nội dung này ở màn hình học ch tết, người dùng chọn một bà học nhất định, nội dung video và file tạo bài giảng đó sẽ được hiển thị trên màn hình như hình 4.21.

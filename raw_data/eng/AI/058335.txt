@@ -1,0 +1,9 @@
+This study addresses the critical issue of child trafficking by developing a machine learning pipeline designed to assist in the identification of schools depicted in images related to trafficking cases. The primary aim is to provide law enforcement and investigative agencies with a robust tool to trace and potentially rescue victims.
+
+Methods/Approach: The research utilizes a combination of computer vision and machine learning techniques to analyze and categorize images obtained from trafficking investigations. An advanced convolutional neural network (CNN) model is trained to recognize distinctive school features, such as architecture, logo, and other identifiable markers. The pipeline is further enhanced with geo-location metadata analysis to improve the accuracy and reliability of the identification process.
+
+Results/Findings: The proposed pipeline demonstrates significant improvements in recognition accuracy and processing efficiency compared to traditional image analysis methods. Experimental results indicate a high success rate in correctly identifying schools from both controlled datasets and real-world trafficking images. The model outperforms state-of-the-art image classification methods in this specialized context, highlighting its suitability for practical application.
+
+Conclusion/Implications: This research contributes a novel approach to combatting child trafficking through technological innovation. By automating and refining the school identification process, the pipeline offers essential support for law enforcement in their efforts to track and rescue victims. Future work can explore the integration of additional data sources and the development of real-time applications, further enhancing its effectiveness and applicability.
+
+Keywords: machine learning, child trafficking, school identification, convolutional neural network, image analysis, law enforcement.

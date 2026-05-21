@@ -1,0 +1,1 @@
+Người quản lý được quyền thực hiện toàn bộ use case bao gồm () tạo cột mốc, () xem thông tin cột mốc, () chỉnh sửa thông tin cột mốc, (v) xoá cột mốc, và (v) xem danh sách cột mốc.

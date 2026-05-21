@@ -1,0 +1,1 @@
+Hệ thống cũng kiểm tra số lượng mỗi loại vé được soát và cha ra số lượng vé ngày và vé tháng tính theo mỗi ngày.

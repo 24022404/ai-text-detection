@@ -1,0 +1,1 @@
+N. L. Tran, D. M. Le andD. Q. Nguyen, “Bartpho: Pre-trained sequence-to sequence models for vietnamese,” inProceedings of the 23rd Annual Conference of the International Speech Communication Association 2022.

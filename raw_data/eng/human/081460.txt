@@ -1,0 +1,1 @@
+LF and HF frequencies: This type of tag uses an induction duo between the tag’s two twisted-pair coils (antennas) and the reader to provide power and send information. These coils are actually LC tuned circuits, when set to the correct frequency (eg 13.56MHz) they maximize the power transfer.

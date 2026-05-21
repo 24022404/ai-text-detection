@@ -1,0 +1,1 @@
+dxf(x) (2.1) It should be noted that the learning rate () has a strong influence on performance of the algorithm. If the learning rate is too small, it takes longer for Gradient Descent to converge, hence could be computationally expensive. Further, the algorithm may reach maximum iteration before reaching the optimum point.

@@ -1,0 +1,1 @@
+CRUD is the basic operation that most applications will be implemented. In vifrinapplication, there are many operators with posts, comments, destinations, and ho tels,...This requires a tool that helps handle some of the s of code that software developers have to type. This tool can support data processing from API and put it into view to display to the front-end.

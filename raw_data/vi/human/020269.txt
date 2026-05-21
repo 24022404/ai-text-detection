@@ -1,0 +1,1 @@
+Quản trị viên nhập sai thông tin cần thêm, hệ thống được tìm kiếm, hệ thống sẽ đưa ra thông báo không có kết quả tìm kiếm 3. Quản trị viên nhập sai thông tin cần sửa, hệ thống sẽ bắt nhập lại 4. Hệ thống gửi thông báo có chắc chắn muốn xóa hay không Đều kiện tiên quyết  Đã đăng nhập tài khoản quản trị viên và đang ở giao diện quản lý danh mục sản phẩm.

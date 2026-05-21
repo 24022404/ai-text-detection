@@ -1,0 +1,1 @@
+Machine learning algorithms learn to distinguish between acceptable and faulty features by training on labeled images, enabling them to recognize specific characteristics within joint images. Once trained, these models can efficiently analyze new images and accurately classify the joints.

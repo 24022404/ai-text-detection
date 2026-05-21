@@ -1,0 +1,1 @@
+YARN Ý tưởng cơ bản của YARN là phân chia các chức năng của quản lý tài nguyên và lập lịch/giám sát công việc thành các daemon rêng bệt. Có một ResourceManager toàn cầu (RM) và Application Master cho mỗi ứng dụng (ÂM). Một ứng dụng là một công việc đơn lẻ hoặc một chuỗi các công việc.

@@ -1,0 +1,1 @@
+Em lựa chọn mô hình này là muốn hướng tới việc tiếp cận lượng người dùng lớn, họ có thể sử dụng dịch vụ cùng lúc mà không gây ra sự đình trệ nào về trải nghiệm, đó là nhờ những điểm mạnh của mô hình client  server, một máy chủ có thể tiếp nhận nhiều yêu cầu từ các máy khách cùng 1 lúc và xử lý nhanh gọn chính xác, sau đó gửi dữ liệu cần thiết cho các máy khách.

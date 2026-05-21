@@ -1,0 +1,1 @@
+Nhiệm vụ của ứng dụng sẽ là cung cấp các kết nối điểm người mua và người bán tìm thấy nhu cầu của họ.Ứng dụng sẽ không có trách nhiệm về các giao dịch liên quan đến vấn đề mua bán các sản phẩm.

@@ -1,0 +1,1 @@
+For any u and v in L that are not end vertices of the last edge of P, the paths Pu and Pv remain edge-disjoint throughout.

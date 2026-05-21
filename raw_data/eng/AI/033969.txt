@@ -1,0 +1,7 @@
+Iris recognition across different spectral domains and resolutions presents significant challenges due to variations in illumination, sensor characteristics, and spatial details. Traditional methods struggle to bridge the domain gap, leading to degraded performance in cross-spectral and cross-resolution scenarios. To address this issue, we propose a novel Deep GAN-Based Cross-Spectral Cross-Resolution Iris Recognition (GAN-CSCR) framework that enhances feature consistency and improves matching accuracy across different modalities.
+
+Our approach leverages a Generative Adversarial Network (GAN) to synthesize high-resolution iris images in a unified spectral domain, preserving discriminative texture patterns while mitigating spectral discrepancies. A dual-stream feature extractor is integrated to learn domain-invariant representations, ensuring robustness against resolution and wavelength variations. Additionally, we introduce an adaptive feature alignment module that refines embeddings to improve recognition performance.
+
+Extensive experiments on benchmark cross-spectral and cross-resolution iris datasets demonstrate that GAN-CSCR significantly outperforms state-of-the-art methods in both verification and identification tasks. Our findings highlight the effectiveness of GAN-based domain adaptation for enhancing iris recognition in real-world heterogeneous scenarios.
+
+Keywords: Iris Recognition, Cross-Spectral Matching, Cross-Resolution Enhancement, Generative Adversarial Networks, Domain Adaptation, Biometric Security.

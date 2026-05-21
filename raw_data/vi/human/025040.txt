@@ -1,0 +1,1 @@
+Góc CSS chứa các tệp tin để cấu hình html. Định nghĩa các quy tắc, kiểu dáng, màu sắc, cỡ chữ, khoảng cách và các thuộc tính liên quan đến hiển thị của các phần tử HTML. Tách biệt giữa nội dung và kiểu dáng, giúp dễ dàng chỉnh sửa gao vện và tái sử dụng cho nhiều trang web.

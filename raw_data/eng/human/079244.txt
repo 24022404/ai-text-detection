@@ -1,0 +1,1 @@
+The platform should work consistently across different web browsers and de vices.2.4.2 Content management The content management system should maintain a version history of content,allowing users to revert to previous versions and track changes over time. A work flow should be in place, ensuring that the helpdesk team can craft ticketing and business processes in a timely manner.

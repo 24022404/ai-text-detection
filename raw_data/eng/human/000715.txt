@@ -1,0 +1,1 @@
+Upon completing the appointment registration, the app notifies both the customer and the service provider about the successful booking. Finally, the app re turns to the booking screen, where the user can view the appointment details and make any necessary changes if needed.

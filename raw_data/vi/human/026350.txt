@@ -1,0 +1,1 @@
+I2C Pins NodeMCU có hỗ trợ chức năng I2C nhưng do chức năng bên trong của các chân này, bạn phải tìm chân nào là I2C.

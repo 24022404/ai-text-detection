@@ -1,0 +1,1 @@
+Magento cũng được xây dựng trên nền tảng mã nguồn mở, cho phép người dùng có thể tùy chỉnh và phát triển các tính năng và module của trang web thương mại điện tử theo nhu cầu của mình. Bên cạnh đó, Magento cũng có một cộng đồng phát triển lớn, cung cấp nhiều gả pháp và module mở rộng cho người dùng.

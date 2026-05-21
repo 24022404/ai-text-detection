@@ -1,0 +1,1 @@
+BackEnd : Gồm các thành phần chịu trách nhiệm xử lý các tác vụ và logic phía sau người dùng. Trong góc Backend gồm các gó con Controller, Service và Repository Controller : Nhận các yêu cầu từ Client gửi đến, phân quyền, xác thực danh tính và gửi xuống Service để xử lý.

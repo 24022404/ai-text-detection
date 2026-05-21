@@ -1,0 +1,1 @@
+Using Angular to build the user interface. Angular utilizes the MVC (Model View-Controller) pattern, which helps to clearly separate the application logic anduser interface. It is written in TypeScript, a clear and understandable program ming language that provides static typing, clear definition, and compile-time error checking.

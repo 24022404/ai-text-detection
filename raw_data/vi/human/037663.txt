@@ -1,0 +1,1 @@
+Tăng cường tính năng : Để nâng cao hiệu quả kiểm thử và quản lý lỗ hổng, có thể bổ sung các tính năng mới như hỗ trợ kiểm thử cho các lỗ hổng bảo mật phức tạp hơn, tích hợp các công cụ kiểm thử bảo mật bổ sung, cải thiện khả năng quản lý lỗ hổng và theo dõi tiến độ khắc phục.

@@ -1,0 +1,1 @@
+Bài báo "Time synchronization over a free-space optical communication channel" của I. Khader và cộng sự trình bày kỹ thuật đồng bộ thời gian chính xác qua kênh quang học không dây, nêu bật hiệu năng và ưu điểm của phương pháp so với các cách hiện tại.

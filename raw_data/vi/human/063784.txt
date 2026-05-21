@@ -1,0 +1,1 @@
+Yêu cầu chung Phần mềm cần hiển thị đầy đủ thông tin cần thiết với người sử dụng trong khi vẫn cần đảm bảo tốc độ tải trang cao. Cần có phân quyền cho người sử dụng điều đảm bảo chỉ được truy cập các tài nguyên cho phép. Mã nguồn cần xây dựng điểm có tính tái sử dụng và khả năng mở rộng cao.

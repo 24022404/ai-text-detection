@@ -1,0 +1,1 @@
+Đầu tên tính ma trận tương đồng giữa các sản phẩm trong cửa hàng bằng TF IDF. Công thức TF IDF được minh họa trong Hình 5.1.

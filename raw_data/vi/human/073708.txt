@@ -1,0 +1,1 @@
+Các hệ thống quản lý thư vện hiện nay thường điược xây dựng vớ cách trển kha phức tạp, không phù hợp với mô trường của các thư vện nhỏ và vừa. Tuy nhên, chúng điều có khả năng quản lý tà lệu tốt và thường tích hợp các tính năng tên tến như phân tích dữ lệu điể cung cấp thông tin hữu ích cho người quản trị.

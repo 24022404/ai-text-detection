@@ -1,0 +1,1 @@
+Software architecture selection Figure 4.1: System architectureOur system architecture is illustrated in figure 4.1. Our web application com municates with server through REST API. For tasks required real-time communi-cations, client will connect to services through network socket.

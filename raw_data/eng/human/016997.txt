@@ -1,0 +1,1 @@
+A. Lou and M. Loew, “Cfpnet: Channels feature pyramid for real time semantic segmentation,” n 2021 IEEE International Conference on Image Processing (ICIP) , IEEE, 2021, pp. 1894–1898. S. Chen, X. Tan, B. Wang, and X. Hu, “Reverse attention for salient object detection,” in Proceedings of the European conference on computer vision (ECCV) , 2018, pp. 234–250.

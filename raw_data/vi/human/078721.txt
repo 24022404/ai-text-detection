@@ -1,0 +1,1 @@
+Mô hình Faster RCNN Faster RCNN được giới thiệu vào năm 2015. Fast R CNN gả quyết được một số hạn chế của RCNN điểm cải thiện tốc độ. Bằng việc xử lý tất cả các vùng được đề xuất cùng nhau trong CNN bằng cách sử dụng lớp RỒI Pool. Tương tự như RCNN thì Faster RCNN vẫn dùng selective search để lấy ra các region proposal.

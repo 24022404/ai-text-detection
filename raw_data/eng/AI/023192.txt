@@ -1,0 +1,1 @@
+A dataset, also known as a data corpus or data stock, refers to the raw, unprocessed data gathered during the data collection phase and is composed of numerous individual data points.

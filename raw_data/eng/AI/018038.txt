@@ -1,0 +1,9 @@
+Objective: Stereo matching models trained on synthetic data often suffer performance degradation when deployed in real-world scenarios due to domain shift. This paper proposes a geometry-aware unsupervised domain adaptation framework that reduces the gap between source (synthetic) and target (real) domains for disparity estimation.
+
+Methods: Our approach integrates epipolar geometry constraints and self-supervised photometric consistency into the adaptation process. A dual-branch network jointly optimizes a stereo matching backbone and a domain discriminator via adversarial learning. The geometry-awareness module enforces feature alignment along corresponding epipolar lines, while a disparity smoothness term preserves local continuity. No target-domain ground truth disparities are required; instead, we leverage view reconstruction losses and cycle consistency to guide adaptation.
+
+Results: Extensive experiments adapting from the SceneFlow synthetic dataset to the KITTI real-world benchmark show that our method reduces end-point error by 18% compared to a directly deployed model and outperforms recent unsupervised adaptation techniques by up to 12%. Qualitative results demonstrate sharper object boundaries and more accurate depth discontinuities in challenging outdoor scenes.
+
+Conclusion: By embedding geometric priors into an adversarial adaptation framework, our method effectively mitigates domain shifts in stereo matching. This geometry-aware unsupervised approach offers a practical solution for deploying stereo vision systems in diverse real-world environments.
+
+Keywords: geometry-aware, unsupervised domain adaptation, stereo matching, disparity estimation, domain shift.

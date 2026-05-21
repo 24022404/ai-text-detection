@@ -1,0 +1,1 @@
+Adload : is executable files, users download this files then execute them, for the result the files will disable proxy settingsAgent : downloads trojan or other software from remote server to harm user’s de vice BHO : can perform a vast number of actions, guided by attackers.

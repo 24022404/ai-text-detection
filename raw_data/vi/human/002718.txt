@@ -1,0 +1,1 @@
+Ha dự án về frontend được xây dựng trên framework ReactJS và ReactJS vậy nên việc triển khai được diễn ra một cách đơn giản và dễ thực hiện, do Vercel là công ty mẹ của ReactJS và NextJS nên Vercel điã hỗ trợ tố đia trong việc triển khai dự án mỗ ko có pull request lên github của dự án.

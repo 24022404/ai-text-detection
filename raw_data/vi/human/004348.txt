@@ -1,0 +1,1 @@
+Một trong những ưu điểm của Reds là tốc độ truy xuất nhanh và hiệu quả của nó. Reds lưu trữ dữ liệu trong bộ nhớ chính, vì vậy thời gian truy xuất dữ liệu rất nhanh. Reds cũng hỗ trợ các tính năng phân tán và sao chép dữ liệu tự động, cung cấp khả năng mở rộng tuyệt vời cho các ứng dụng đang phát triển.

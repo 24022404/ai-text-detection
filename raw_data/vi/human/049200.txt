@@ -1,0 +1,1 @@
+Status là trường dữ liệu lưu trữ trạng thái hiện thời của khóa học. Có 4 loại trạng thái cho khóa học trong hệ thống CMS: nháp, đã nộp, xuất bản, không xuất bản.

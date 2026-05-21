@@ -1,0 +1,1 @@
+Error handling: Khoa có hệ thống xử lý lỗ mạnh mẽ. Bạn có thể sử dụng cú pháp try/catch để xử lý lỗ và trả về các mã lỗi phản hồi phù hợp.

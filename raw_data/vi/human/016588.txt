@@ -1,0 +1,1 @@
+Lựa chọn kiến trúc phần mềm cho hệ thống phân loại, gợi ý và tìm kiếm dữ liệu Với việc xây dựng một website điển giúp đơn giản việc phân loại các dữ liệu hiện có, cùng với đó là phát triển các API phía server để đáp ứng những yêu cầu tớ từ phía người dùng, em lựa chọn kiến trúc client server điểm phát triển cho hệ thống này.

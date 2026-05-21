@@ -1,0 +1,1 @@
+Quản trị viên hệ thống có nhiệm vụ quản lý các cửa hàng, người dùng, hỗ trợ, triển khai cài đặt và quản lý admin. Tác nhân này sẽ đăng nhập vào hệ thống điểm quản lý các chức năng này.

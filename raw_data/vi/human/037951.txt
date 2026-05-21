@@ -1,0 +1,1 @@
+Bước ha, tô đã sử dụng một mô hình điển trích xuất những điểm trên bàn tay, từ đó loại bỏ được những phần không cần thiết để thu về bộ dữ liệu chỉ gồm hình ảnh của bàn tay. Sau đó đưa hình ảnh bàn tay vừa lấy được vào mô hình học sâu nhẹ, ít tham số để thu về kết quả mong muốn.

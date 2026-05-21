@@ -1,0 +1,1 @@
+Bước 2: Hệ thống kiểm tra liên tục xem cơ sở dữ liệu có yêu cầu giao dịch nào không. Nếu có, thực hiện gọi API giảm số dư của người dùng khởi tạo yêu cầu và cập nhật trạng thái của yêu cầu.

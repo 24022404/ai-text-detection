@@ -1,0 +1,1 @@
+Hệ thống kỹ năng (Spell) Spell Class: lớp để lưu các thông tin cơ bản về một kỹ năng như loại spell, độ chênh lệch sát thương của spell, năng lượng tiêu hao mỗi khi sử dụng, tốc độ đạn của spell, thờ gan tồn tại của spell và diện rộng của spell.

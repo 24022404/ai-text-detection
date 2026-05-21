@@ -1,0 +1,1 @@
+Đố vớ mục tiêu thứ hai , tô dùng mạng MTCNN  để phát hiện khuôn mặt của khách hàng và đưa qua mô hình Facenet  điểm phân biệt, ch tết sẽ được gả thích ở chương 4.

@@ -1,0 +1,1 @@
+Spring Framework tuân theo nguyên tắc "inversion of control" (IoC) và "dependency injection" (DI), gúp các thành phần của ứng dụng hoạt động linh hoạt. Nó được cấu trúc thành các module, mỗ module đảm nhận một vai trò khác nhau trong quá trình phát triển ứng dụng.

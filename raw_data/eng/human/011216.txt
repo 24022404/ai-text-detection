@@ -1,0 +1,1 @@
+Matrix Factorization For Content-based, Each product is characterized by a vector xthat depicts its features; as this procedure is separate from that of anticipating proposed items, the creation of vector xis crucial. Importantly, creating a model for each unique client will prevent the exploitation of trends in other customers’ behavior.

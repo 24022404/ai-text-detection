@@ -1,0 +1,1 @@
+The user’s access to the platform is made easier by the web browser, which also acts as the user’s interface for interacting with other system parts.

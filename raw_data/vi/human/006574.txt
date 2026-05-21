@@ -1,0 +1,1 @@
+Có các trường hợp có thể chỉ cần nâng cấp lên server mới mạnh hơn là có thể đáp ứng được nhu cầu tuy nhên, kh nhu cầu cao hơn mức mà một server có thể tả được thì sẽ xảy ra vấn đề. Có rất nhều trường hợp điã phả xây dựng lại hệ thông mở điểm đáp ứng được lượng truy cập của người dùng do ngay từ ban điầu khi thiết kế hệ thống điã không chú trọng đến phần này.

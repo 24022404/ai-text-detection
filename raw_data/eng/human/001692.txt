@@ -1,0 +1,1 @@
+Moreover, I also learned the way to handle real-time events using Socket.io library. For the video call and on call which requires the instantanious data stream, I learn about WebRTC and implement it in the app using PeerJS library.

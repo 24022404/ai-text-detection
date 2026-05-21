@@ -1,0 +1,1 @@
+C. Raffel, N. Shazeer, A. Roberts andothers , “Exploring the limits of transfer learning with a unified text-to-text transformer,” Journal of Machine Learning Research ,jourvol 21,number 140, pages 1–67, 2020. url:http : / / jmlr.org/papers/v21/20-074.html .

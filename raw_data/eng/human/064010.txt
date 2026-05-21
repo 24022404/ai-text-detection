@@ -1,0 +1,1 @@
+–Validation-based: ContractLarva  is a runtime verification tool for smart contracts, where violations of defined properties can lead to different processing strategies, e.g. system. These properties can include control events or unusual data flows.

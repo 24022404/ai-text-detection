@@ -1,0 +1,1 @@
+Amazon Elastic Beanstalk  là một dịch vụ dễ sử dụng điểm trên khóa và mở rộng các ứng dụng và dịch vụ web được phát triển bằng Java, .NET, PHP, Node.js, Python, Ruby, Go và Docker trên các máy chủ quen thuộc như Apache, Nginx, Passenger và IIS.

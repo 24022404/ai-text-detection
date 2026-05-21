@@ -1,0 +1,1 @@
+Các thành phần xây dựng cơ sở tri thức Hình 3.1: Quá trình xây dựng cơ sở tri thức Thu thập dữ liệu: Tìm kiếm các thông tin, bài viết trên các trang web như Wkpeda, Google Travel hay các trang web du lịch Hà Nội sau đó lưu trữ dữ liệu dưới dạng bảng trong excel sử dụng thư viện Python Selenium.

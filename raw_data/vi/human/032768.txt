@@ -1,0 +1,1 @@
+Yêu cầu về giao diện người dùng Hệ thống phải có giao diện dễ sử dụng, các nội dung nhất quán, rõ nghĩa, mô tả một chức năng duy nhất. Phân chia bố cục phần mềm phả rõ ràng, mạch lạc, các tính năng dễ sử dụng. Các thao tác lỗ hay thành công điều phải có thông báo đầy đủ, rõ ràng cho người dùng.

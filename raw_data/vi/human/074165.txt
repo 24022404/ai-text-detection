@@ -1,0 +1,1 @@
+Ưu điểm Dễ học và sử dụng: PHP được thiết kế với người mới bắt điầu trong lĩnh vực lập trình. Cú pháp của nó giống với các ngôn ngữ lập trình khác như C và Java, dễ dàng học và áp dụng.

@@ -1,0 +1,1 @@
+Với đồ án này, tôi mong muốn có thể tạo ra một nền tảng có thể kết nối giữa những người chơi golf và các sân golf, hơn thế nữa không chỉ là bộ môn golf, có thể mở rộng ra hệ thống các sân bóng cỏ nhân tạo, sân cầu lông, v.v.

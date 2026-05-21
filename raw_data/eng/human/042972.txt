@@ -1,0 +1,1 @@
+scenario characterized by 3 balanced nodes and 7 imbalanced nodes further highlights the efficiency gains of FedImp. It achieves convergence in 41 rounds, demonstrates a remarkable reduction in the number of rounds, with an efficiency gain of around 8.9% over FedAdp and an even more substantial improvement of about 26.8% overFedAvg.

@@ -1,0 +1,1 @@
+Với việc quy mô kinh doanh ngày càng lớn, việc quản lý chuỗi cửa hàng cà phê trở nên phức tạp và khó khăn hơn. Do đó em nhận thấy sự cần thiết cho việc xây dựng một ứng dụng để giúp cửa hàng quản lý kho hàng, quản lý doanh thu, quản lý nhân viên, và quản lý khách hàng một cách tiện lợi và chính xác.

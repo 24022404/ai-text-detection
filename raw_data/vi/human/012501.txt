@@ -1,0 +1,1 @@
+Model (Mô hình): Mô hình đại diện cho dữ lệu và quy tắc nghiệp vụ của hệ thống. Trong trường hợp website bán quần áo, các mô hình sẽ đại diện cho các đối tượng như sản phẩm, đơn hàng, người dùng, danh mục và thuộc tính sản phẩm. Mô hình đảm nhận việc truy cập cơ sở dữ lệu, xử lý dữ lệu và áp dụng quy tắc nghiệp vụ.

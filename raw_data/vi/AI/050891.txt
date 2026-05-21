@@ -1,0 +1,7 @@
+Động lực nghiên cứu về dao động của dầm cầu trục trong các ứng dụng công nghiệp ngày càng tăng, đặc biệt là khi các tham số mô hình là đại lượng ngẫu nhiên. Trong nghiên cứu này, chúng tôi đã tập trung vào việc phân tích và mô hình hóa dao động của dầm cầu trục khi các tham số mô hình là đại lượng ngẫu nhiên.
+
+Kết quả nghiên cứu cho thấy rằng, khi các tham số mô hình là đại lượng ngẫu nhiên, dao động của dầm cầu trục sẽ tăng lên đáng kể so với trường hợp các tham số mô hình cố định. Điều này có thể được giải thích bởi sự không chắc chắn của các tham số mô hình, dẫn đến sự không chắc chắn của dao động.
+
+Để giảm thiểu sự không chắc chắn của dao động, chúng tôi đã đề xuất một số phương pháp cải thiện, bao gồm việc sử dụng các phương pháp mô hình hóa ngẫu nhiên và các phương pháp giảm thiểu dao động. Kết quả nghiên cứu cho thấy rằng, các phương pháp cải thiện này có thể giảm thiểu sự không chắc chắn của dao động lên đến 30%.
+
+Tổng kết, nghiên cứu này đã cung cấp một số kết quả quan trọng về dao động của dầm cầu trục khi các tham số mô hình là đại lượng ngẫu nhiên. Kết quả nghiên cứu này có thể được ứng dụng trong các ứng dụng công nghiệp, đặc biệt là trong lĩnh vực xây dựng và cơ khí.

@@ -1,0 +1,9 @@
+Objective: Deep reinforcement learning (DRL) agents often overfit to fixed environments, limiting their ability to generalize to novel tasks. This paper investigates how procedural level generation (PLG) can be used to enhance generalization in DRL by exposing agents to diverse, automatically generated training scenarios.
+
+Methods: We introduce a PLG framework that algorithmically creates varied levels with controllable complexity, layout, and obstacle distributions. During training, DRL agents receive a continuous stream of procedurally generated levels, guided by a dynamic difficulty curriculum that adapts generation parameters based on agent performance. We integrate this framework with a standard actor-critic algorithm and evaluate across grid‐world navigation and platforming benchmarks.
+
+Results: Empirical evaluation shows that agents trained with our PLG framework achieve up to 45% higher success rates on unseen levels compared to agents trained on static or randomly shuffled level sets. We observe faster convergence, improved robustness to environmental changes, and reduced overfitting as measured by performance variance across held‐out test scenarios. Ablation studies confirm the importance of curriculum-driven complexity adjustment and level diversity in driving generalization gains.
+
+Conclusion: By leveraging procedural level generation, our approach systematically broadens the training distribution, leading to DRL agents with stronger and more reliable generalization. These findings suggest that PLG is a practical pathway for developing robust autonomous decision-makers in dynamic or unstructured domains.
+
+Keywords: deep reinforcement learning, generalization, procedural level generation, curriculum learning, domain randomization.

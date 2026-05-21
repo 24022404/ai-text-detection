@@ -1,0 +1,9 @@
+The paper addresses the challenge of automatically generating building floor plan images from textual descriptions written in English. This task is crucial for applications in architecture, real estate, and interior design, where rapid and accurate visualization of spatial layouts from descriptive input is needed.
+
+Methods/Approach: We propose a novel framework that leverages natural language processing and generative adversarial networks (GANs) to transform textual floor plan descriptions into visual representations. Our approach involves parsing the textual input to extract key spatial and architectural elements, which are then rendered into coherent building floor plan images using an advanced GAN model tailored for architectural design.
+
+Results/Findings: The proposed method demonstrates a high degree of accuracy and consistency in generating floor plan images that align with the provided textual descriptions. Evaluation against a benchmark dataset showed superior performance over existing methods, with significant improvements in fidelity and visual quality. The results highlight the framework’s potential for handling complex spatial descriptions with diverse architectural styles.
+
+Conclusion/Implications: This research presents a significant advancement in the field of automated architectural design by providing a tool that seamlessly bridges the gap between textual descriptions and visual floor plan generation. The developed system holds potential applications in various domains, enhancing the efficiency of design processes and enabling non-experts to visualize architectural plans effortlessly. Future work will focus on expanding the model's capabilities to support multilingual input and more intricate design features.
+
+Keywords: Text-to-image generation, Floor plan rendering, Natural Language Processing, Generative Adversarial Networks, Architectural design automation, Spatial layout visualization.

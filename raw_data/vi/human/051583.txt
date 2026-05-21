@@ -1,0 +1,1 @@
+Sau khi được xử lý, thông tin được gửi đến phân hệ quản lý và lập lịch trình tính toán chỉ báo ở dạng JSON gồm các trường như sau.

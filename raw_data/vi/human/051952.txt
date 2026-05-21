@@ -1,0 +1,1 @@
+generateAsymmetrcKeyPar: Sinh khóa và chứng thư getKey And CertInfo: Lấy thông tin khóa và chứng thư importCert: Nhập chứng thư và khóa từ bên ngoài revoke Cert: Thu hồi chứng thư renewCert: Cập nhật chứng thư Hình 4.11: Thiết kế lớp cho dịch vụ hsm token Các phương thức của lớp dịch vụ hsm token:

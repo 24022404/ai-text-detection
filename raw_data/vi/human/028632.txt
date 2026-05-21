@@ -1,0 +1,1 @@
+Trong quyển đồ án này, tô sẽ trình bày về quá trình thiết kế và xây dựng phân hệ quản lý và lập lịch các trình tính toán chỉ báo, là một phần quan trọng của nền tảng dữ lệu TTCK nêu trên. Phân hệ này đióng va trò định kì tính toán các chỉ báo mỗ kh dữ lệu giao dịch được cập nhật, ngoài ra hỗ trợ người dùng tạo mớ các chỉ báo theo ý muốn.

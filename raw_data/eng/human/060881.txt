@@ -1,0 +1,1 @@
+Then, through the processes of gradient descent and back propagation, the deep learning algorithm adjusts and fits itself for accuracy, allowing it to make predictions with increased precision.

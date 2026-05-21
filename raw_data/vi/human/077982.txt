@@ -1,0 +1,1 @@
+Đố vớ mô hình Transformer cho mô đun phát hiện lỗi chính tả trên bộ dữ liệu huấn luyện có kết quả theo cách đánh giá recall là 97.30%.

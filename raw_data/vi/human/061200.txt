@@ -1,0 +1,1 @@
+Tiếp theo, exchange được tin nhắn và bây giờ chịu trách nhiệm định tuyến tin nhắn. Exchange phân loại các thuộc tính tin nhắn khác nhau, ví dụ như khóa định tuyến, tùy thuộc vào loại trao đổi.

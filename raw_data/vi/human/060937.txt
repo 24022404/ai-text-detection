@@ -1,0 +1,1 @@
+Tầng gao dền chứa các thành phần giao diện điểm xây dựng nền ứng dụng di động. Đồng thờ cúng bao gồm thành phần giao tiếp với tầng logic qua các lời gọi API.

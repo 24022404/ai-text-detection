@@ -1,0 +1,1 @@
+Khả năng tương tác với người dùng tốt.3.1 React Native  React Native là một Framework được các chuyên ga của Facebook phát triển, nó xuất phát từ nhu cầu cần phát triển những ứng dụng, cũng như chức năng có thể chạy được trên cả 2 nền tảng hệ điều hành Android và OS một cách mượt mà nhất có thể.

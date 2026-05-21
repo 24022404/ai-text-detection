@@ -1,0 +1,1 @@
+The library ensures proper formatting and compatibility of JSON-RPC messages between the client and executor by taking care of both serialization and deserialization processes. This management streamlines development efforts and preserves a uniform and reliable communication protocol.

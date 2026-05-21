@@ -1,0 +1,1 @@
+JSX: là một bộ cú pháp mở rộng của JavaScript, cho phép lập trình viên viết HTML trong ReactJS một cách dễ dàng. Các đoạn code JavaScript tạo ra các phần tử HTML thông qua jsx có thể tái sử dụng được gọi là Component (Thành phần).

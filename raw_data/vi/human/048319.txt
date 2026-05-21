@@ -1,0 +1,1 @@
+STT Tên trường Kiểu dữ lệu Khóa Mô tả 1 time datetime PRI Thờ gan 2 device varchar(2) PRI Loại thiết bị 3 user nt Số người dùng 4 vent Số lượt xem Bảng 3.2: Bảng overview Bảng browser analysis lưu trữ dữ lệu phân tích lưu lượng truy cập theo trình duyệt, là nguồn dữ lệu cho biểu đồ 2 (bảng 3.1).

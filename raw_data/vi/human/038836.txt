@@ -1,0 +1,1 @@
+Nhược điểm Hiệu suất không cao như một số ngôn ngữ khác: So với một số ngôn ngữ lập trình khác như Python hoặc Go, PHP có thể có hiệu suất không cao hơn đáng kể trong một số tình huống đặc biệt. Tuy nhiên, điều này có thể được cải thiện bằng cách tối ưu hóa mã và sử dụng các công nghệ phụ trợ.

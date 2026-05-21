@@ -1,0 +1,1 @@
+Nơ sử dụng Để gửi các yêu cầu và nhận thông tin từ máy chủ chính bằng thiết bị Android, tô dùng HttpURLConnection điểm tương tác với máy chủ thông qua các API có sẵn.

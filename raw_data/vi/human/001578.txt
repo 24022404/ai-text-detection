@@ -1,0 +1,1 @@
+Chương 2 trình bày về khảo sát hiện trạng điều tà, tổng quan các chức năng trong hệ thống đồng thờ đặc tả một số use case chính.

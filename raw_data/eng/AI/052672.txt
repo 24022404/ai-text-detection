@@ -1,0 +1,1 @@
+The challenge of determining the position of a particular k-tuple in a given sequence remains largely unexplored, with decoding algorithms primarily available only for certain classical de Bruijn sequences.

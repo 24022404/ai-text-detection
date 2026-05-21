@@ -1,0 +1,1 @@
+This thesis has established an integrated inventory process with an automatedinventory technique utilizing RFID and connected with the human inventory pro cess of the company after studying the overview process of products inventory. The business flow in the DxClan system is defined in detail as follows and is depicted in Figure 5.3:

@@ -1,0 +1,1 @@
+Trước khi có CSS, các trang web được định dạng và thiết kế bằng cách sử dụng các thuộc tính của HTML, làm cho việc tạo ra giao diện đẹp mắt và đồng nhất trên các trang web trở nên khó khăn. CSS giúp giải quyết vấn đề này bằng cách cung cấp một cách để tách phần nội dung và phần định dạng trên trang web, giúp cải thiện tính tương thích, linh hoạt và quản lý của trang web.

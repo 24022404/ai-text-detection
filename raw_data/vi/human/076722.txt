@@ -1,0 +1,1 @@
+Go Service trong quá trình xử lý logic có sử dụng biến kết quả các câu truy vấn đến database, khi đó các lớp ở gò service sẽ gọi điện các lớp trong gói repository .•Kết quả các câu truy vấn trong gió repository sẽ trả về các đối tượng tương ứng khai báo trong gió model .

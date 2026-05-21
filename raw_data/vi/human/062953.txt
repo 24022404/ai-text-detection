@@ -1,0 +1,1 @@
+Dựa vào những định hướng nêu trên, phân hệ quản lý và lập lịch các trình tính toán chỉ báo điã điược xây dựng vớ các chức năng tính toán chỉ báo, lập lịch tính toán chỉ báo và điặc bệt nhất là thêm mớ các trình tính toán ngay khi hệ thống đang hoạt động. Phân hệ này đã góp phần xây dựng nền tảng dữ lệu TTCK vớ các chức năng như điã điề ra.

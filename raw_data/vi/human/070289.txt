@@ -1,0 +1,1 @@
+Chọn Xóa danh mục chưa có sản phẩm.  Hệ thống hiển thị thông báo xóa danh mục thành công và cập nhật vào cơ sở dữ liệu. Hệ thống hiển thị thông báo xóa danh mục thành công và cập nhật vào cơ sở dữ liệu.  Đạt TC06  1. Đăng nhập tài khoản quản trị vên.

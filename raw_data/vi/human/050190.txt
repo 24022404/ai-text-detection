@@ -1,0 +1,1 @@
+Nếu tình nguyện viên có chức vụ hiện tại là quản trị viên hoặc cán sự lớp thì nút thay đổi trạng thái sẽ bị disable.

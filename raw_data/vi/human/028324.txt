@@ -1,0 +1,1 @@
+Luồng sự kiện Thực hiện Sự kiện 1 Người dùng Ấn nút "share information" trên màn hình thông tấn project 2 Hệ thống Hiển thị khung chat giữa người dùng và chuyên ga 3 Người dùng Nhập messages muốn hỏi chuyên gia và ấn "Submit" 4 Hệ thống Thực hiện lưu và hiển thị thị tin nhắn đã gửi trên màn hình. Đồng thời gửi tin nhắn bên phía chuyen ga.

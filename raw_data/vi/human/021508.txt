@@ -1,0 +1,1 @@
+Lựa chọn kiến trúc phần mềm Hình 4.1: Mô hình áp dụng trong ứng dụng Hình 4.1 mô tả kiến trúc xây dựng game NFS. Theo mô hình này, ứng dụng được chia thành 2 khối, đảm nhận các nhiệm vụ khác nhau. Frontend có vai trò:

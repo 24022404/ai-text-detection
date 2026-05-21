@@ -1,0 +1,1 @@
+The main area displays a header titled "Recent Scans" alongside a rocket icon, while the header section is present but contains no content at the moment.

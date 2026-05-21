@@ -1,0 +1,1 @@
+Warehouse workers: Perform tasks related to inventory check 3. Perform goods inventory tasks. There are two methods of inventory, manual inventory and automated inventory.

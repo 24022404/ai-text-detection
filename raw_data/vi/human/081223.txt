@@ -1,0 +1,1 @@
+Quản lý đảng viên: bí thư có thể xem, thêm, sửa thông tin giảng viên Quản lý danh mục: bí thư quản lý các danh mục liên quan đến thông tin đảng viên.

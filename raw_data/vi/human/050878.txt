@@ -1,0 +1,1 @@
+Không phù hợp với các hệ thống cập nhật dữ liệu một cách thường xuyên vì việc đánh lại ndex sẽ rất tốn kém.

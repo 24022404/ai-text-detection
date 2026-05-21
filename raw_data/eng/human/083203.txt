@@ -1,0 +1,1 @@
+Register: A regular user may sign up for a new account using different methods, including social networks or using Google email.

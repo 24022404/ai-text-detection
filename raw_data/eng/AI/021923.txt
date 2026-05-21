@@ -1,0 +1,1 @@
+The process begins with Pv as an empty set. Given that vertex v has two in-edges and one out-edge, there must be at least one in-edge not included in P. This particular edge, labeled as 0, is then added to the front of Pv, and its initial state is represented by a2a10j1x10s−2, which leads to the updated representation of Pv.

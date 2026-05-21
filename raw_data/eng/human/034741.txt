@@ -1,0 +1,1 @@
+Step 3 : Run the "npm install" command on both the client and server directories of the project to install the necessary libraries for running the application.

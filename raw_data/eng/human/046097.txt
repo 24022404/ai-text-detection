@@ -1,0 +1,1 @@
+Decoder for a (k, s)-RdB sequence In , the Hybrid de Bruijn sequence of order kafter being received needs to be decoded for correcting errors. More particularly, it’s necessary to indicate the exact location of an arbitrary sequence of length kin the Hybrid de Bruijn sequence. To do that, they proposed to use a look-up table, which is an exponential complex method.

@@ -1,0 +1,1 @@
+Based on the ERD entity diagram, I have utilized a NoSQL database manage ment system (specifically MongoDB) for data management purposes, shown as 5.15.

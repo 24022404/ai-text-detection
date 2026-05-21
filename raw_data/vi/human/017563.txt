@@ -1,0 +1,1 @@
+Thể loại roguelike có thể kết hợp với nhiều thể loại khác như thể loại hành động, thể bà, nông trại, v.v. nên roguelike là cơ chế được phát triển đa dạng ở các game khác nhau và không nhất thiết phải bao gồm tất cả các yếu tố trên thì mới được xếp vào thể loại roguelike.

@@ -1,0 +1,1 @@
+Công thức 5.3. MAPLE 4. R2 core:giá trị thực tế. MAPLE phản ánh giá trị dự báo sa khác bao nhiêu phần trăm so với giá trị trung bình. R2 Score thể hiện mức độ phù hợp giữa các giá trị dự đoán và các giá trị thực tế.

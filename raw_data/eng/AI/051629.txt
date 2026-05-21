@@ -1,0 +1,9 @@
+Objective: This paper introduces Deep Distributed Random Samplings (DDRS), a scalable ensemble framework designed as an alternative to traditional Random Forests for supervised learning tasks. DDRS addresses the growing need for efficient, high-accuracy models on large and distributed data sources.
+
+Methods: DDRS partitions the training dataset across multiple compute nodes and performs multi-level random sampling to generate diverse sub-ensembles. At each node, base learners (e.g., decision trees or shallow neural networks) are trained on overlapping random subsets. A central coordinator aggregates predictions via weighted voting, where weights are learned dynamically based on local validation performance. This architecture leverages parallelism and reduces communication overhead through compact summary exchanges.
+
+Results: We evaluate DDRS on benchmark datasets for classification and regression, including UCI-ML and image recognition tasks. Compared with Random Forests and single-node ensembles, DDRS achieves up to 4.2% higher accuracy, a 30–50% reduction in training time, and improved robustness to node failures. Ablation studies confirm that multi-level sampling and adaptive weighting are key contributors to performance gains.
+
+Conclusion: DDRS offers a novel, distributed approach to ensemble learning that combines the interpretability of tree-based methods with the scalability of modern distributed systems. Its modular design enables seamless integration into cloud and edge environments, making it a practical choice for large-scale supervised learning.  
+
+Keywords: Deep distributed random sampling, supervised learning, ensemble methods, random forests alternative, scalable machine learning.

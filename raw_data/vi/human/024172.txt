@@ -1,0 +1,1 @@
+class Pages: nhận yêu cầu từ url và giao diện khách hàng để khách hàng thao tác với các chức năng của khách hàng trên hệ thóng.

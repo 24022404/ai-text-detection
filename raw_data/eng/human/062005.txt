@@ -1,0 +1,1 @@
+Controller: has the function of receiving, processing and responding to data when there is an incoming request, possibly from the client or from a third party.

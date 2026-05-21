@@ -1,0 +1,1 @@
+Vớ các thuật toán học máy như hồ quy, phân loại, và gom cụm, Xskt Learn cung cấp một cơ sở vững chắc để xây dựng các giải pháp thông minh và cá nhân hóa trong mô trường thương mại điện tử, giúp Magento tận dụng dữ liệu khách hàng một cách hiệu quả để cung cấp chả nghiệm mua sắm tốt hơn.

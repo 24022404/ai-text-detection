@@ -1,0 +1,9 @@
+Objective: Mobile devices have transformed everyday photography by combining camera hardware with advanced computational techniques. This paper presents a comprehensive tour of mobile computational photography, surveying key methods that overcome the physical limits of small optics and constrained processing resources.
+
+Methods: We organize the field into core categories—high dynamic range (HDR) imaging, low-light enhancement, multi-frame fusion, super-resolution, panorama stitching, portrait effects, and computational zoom. For each, we describe representative pipelines, including algorithmic stages (e.g., alignment, denoising, fusion), and discuss hardware–software co-design strategies such as ISP (image signal processor) optimizations and on-device neural accelerators. We also examine recent deep learning architectures adapted for real-time mobile inference.
+
+Results: Our analysis shows that modern on-device pipelines achieve up to 30% gains in peak signal-to-noise ratio (PSNR) or structural similarity index (SSIM) over classical methods, while maintaining interactive frame rates. We compare trade-offs in quality, latency, and energy consumption across different smartphone platforms.
+
+Conclusion: By synthesizing advances in sensor design, algorithm development, and hardware support, this tour highlights the unique contributions and open challenges in mobile computational photography. We discuss future directions—such as privacy-preserving image processing, adaptive power management, and neural rendering—and outline opportunities for pushing the boundaries of mobile imaging.
+
+Keywords: mobile computational photography, HDR, low-light enhancement, super-resolution, multi-frame fusion, deep learning, real-time imaging.

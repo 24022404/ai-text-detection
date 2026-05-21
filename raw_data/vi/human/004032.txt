@@ -1,0 +1,1 @@
+Phân quyền chức năng theo nghiệp vụ quản lý nhân sự bán hàng và đơn hàng Tìm kiếm sản phẩm Quản lý nhân sự Quản lý danh mục sản phẩm Quản lý sản phẩm Quản lý nhập/xuất Chấm công người dùng + Hình thức:

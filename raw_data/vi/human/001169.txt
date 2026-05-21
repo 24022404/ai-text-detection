@@ -1,0 +1,1 @@
+Vấn đề lớn nhất có thể kể đến của framework này là thiếu sự liên kết giữa các phiên bản, nếu cố cập nhật code, có thể khiến cho ứng dụng bị gián đoạn hoặc phá vỡ.

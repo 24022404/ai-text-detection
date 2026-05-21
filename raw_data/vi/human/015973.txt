@@ -1,0 +1,1 @@
+Mô hình sẽ cần thực hiện số lượng tính toán rất lớn kh số lượng từ trong từ điển lớn.

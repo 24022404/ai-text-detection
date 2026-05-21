@@ -1,0 +1,1 @@
+Tích hợp API mở rộng : Xây dựng các API mở rộng cho công cụ để cho phép tích hợp với các hệ thống quản lý dự án, công cụ theo dõi lỗ hổng và các dịch vụ bảo mật phổ biến khác. Tối ưu hóa hiệu suất: Tăng cường hiệu suất và tối ưu hóa công cụ để xử lý các dự án lớn và phức tạp, giảm thiểu thờ gan quét và xử lý dữ liệu.

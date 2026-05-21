@@ -1,0 +1,1 @@
+Gả pháp Để giải quyết vấn đề trên, em quyết định tạo ra màn hình thống kê dữ liệu, màn hình này chỉ dành cho quản trị viên hệ thống theo dõi. Màn hình sẽ bao gồm các thông số chính của webste: số lượng người dùng, số lượng khóa học, số chương và số bà.

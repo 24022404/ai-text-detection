@@ -1,0 +1,1 @@
+Ngườ dùng điã điăng ký (Người dùng): tác nhân điã tạo và sử dụng tài khoản hệ thống, có thể tạo yêu cầu bài viết, tạo bài dịch hay quản lý thông tin tài khoản và lưu trữ bài viết/bài dịch theo bộ sưu tập.

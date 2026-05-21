@@ -1,0 +1,1 @@
+G. Hurlbert's article investigates universal cycles for k-element subsets of an n-set, offering constructions and existence results.

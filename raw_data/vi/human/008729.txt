@@ -1,0 +1,1 @@
+–Thay điổ ngẫu nhên (Nose): Đây là các yếu tố ngẫu nhên không thể dự đioán điược, gây ra sự bến động ngẫu nhên cho dữ lệu.

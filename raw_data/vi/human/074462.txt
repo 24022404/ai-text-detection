@@ -1,0 +1,1 @@
+getConversaton: phương thức này bao gồm 3 tham số là userId, converse ton Id và token, nhằm lấy rach tết cuộc hội thoại.

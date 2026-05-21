@@ -1,0 +1,1 @@
+Đặc tả các ca sử dụng Bảng 2. 5: Đặc tả Usecase Đăng nhập STT  Trên UC  User Đăng nhập 1 Tác nhân  Quản lý, Nhân viên, Khách hàng 2 Mô tả Đăng nhập vào hệ thống điểm sử dụng 3 Luồng sự kiện chính  1. Quản lý, Nhân viên, Khách hàng  truy cập vào hệ thống.

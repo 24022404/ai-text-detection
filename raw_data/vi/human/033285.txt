@@ -1,0 +1,1 @@
+Gen, đơn vị cơ bản của di truyền, là một đoạn ADN chứa tất cả các thông tin cần thiết để tổng hợp để tạo ra các phân tử được gọi là protein. Tuy nhiên, không phải gen nào cũng sẽ mang mang thông tin điểm mã hóa, tổng hợp protein. Các nghiên cứu, thống kê chỉ ra rằng ước tính con người có từ 20.000 đến 25.000 gen.

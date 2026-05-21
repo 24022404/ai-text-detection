@@ -1,0 +1,1 @@
+N. Middleton and R. Schneeman, Heroku: up and running: effortless application deployment and scaling . O'Reilly Media, Inc., 2013.

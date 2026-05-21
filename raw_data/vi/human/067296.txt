@@ -1,0 +1,1 @@
+Khả năng mở rộng : Khả năng mở rộng của mô hình Client server là vô cùng tốt. Người dùng có thể gia tăng số lượng tài nguyên của mình bất kỳ khi nào mà họ muốn. Điều này giúp việc tăng kích thước của Server trở nên dễ dàng hơn mà không bị gián đoạn.

@@ -1,0 +1,1 @@
+Để tạo lời nhắc sau mỗi 5 phút thì chuỗi Cron cần truyền vào sẽ là: ’/5 * * * *’.

@@ -1,0 +1,1 @@
+Pytorch là framework được phát triển bở Facebook. Pytorch được phát triển với giấy phép mã nguồn mở do đó nó tạo được cho mình một cộng đồng rất lớn.

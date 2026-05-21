@@ -1,0 +1,1 @@
+họ và tên, điịa chỉ, ngày tháng năm sinh, mật khẩu2.2.4 Bểu đồ use case phân rã Khách hàng quản lý gỏ hàng Hình 2.4: Bểu đồ use case Khách hàng quản lý gỏ hàng Use case này áp dụng với tác nhân là khách hàng. Kh khách hàng có nhu cầu muốn mua một sản phẩm, họ sẽ thêm các sản phẩm vào gỏ hàng để chờ điặt hàng.

@@ -1,0 +1,1 @@
+Chương 5, Kiểm thử và triển khai. Ở đây, em sẽ thực hiện kiểm thử cho các chức năng của hệ thống và triển khai hệ thống thành sản phẩm thực tế.

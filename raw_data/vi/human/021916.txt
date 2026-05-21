@@ -1,0 +1,1 @@
+Lựa chọn cơ sở dữ lệu NoSql. Vệc lựa chọn cơ sở dữ lệu NoSQL sẽ rất thuận lợ trong vệc trển kha customfelds vì các trường trong cơ sở dữ lệu NoSQL lưu dướ dạng JSON và điem lạ tính hiệu quả trong vệc thêm sửa xóa các trường customfelds.

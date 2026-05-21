@@ -1,0 +1,1 @@
+Điểm mạnh của ReactJS xuất phát từ việc cha một bố cục lớn thành các thành phần riêng lẻ (component). Chính vì vậy, thay vì làm việc trên toàn bộ ứng dụng web, ReactJS cho phép một developer có thể chuyển đổi giao diện người dùng phức tạp thành các thành phần đơn giản hơn.

@@ -1,0 +1,1 @@
+F. Ullah, A. Ullah, K. Muhammad, I. Haq and S. Baik, “Violence detection using spatiotemporal features with 3d convolutional neural network,” English,Sensors (Switzerland) ,jourvol 19,number 11,june 2019, ISSN : 1424-8220.

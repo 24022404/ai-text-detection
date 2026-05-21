@@ -1,0 +1,1 @@
+Phần còn lạ của báo cáo đồ án tốt nghiệp này điược tổ chức như sau.Chương 2 trình bày về phân tích thết kế các use case, luồng nghiệp vụ chính có trong hệ thống.

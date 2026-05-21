@@ -1,0 +1,1 @@
+Sau khi phân tích và chỉ ra những vấn đề nêu trên, ĐẤT tiến hành xây dựng thuật toán đề xuất mới thay thế cho thuật toán cũ.

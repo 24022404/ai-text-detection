@@ -1,0 +1,1 @@
+Trên đây là mô tả tổng quan về hệ thống, còn sau đây sẽ là phần mô tả những chức năng chính của hệ thống trên ứng dụng.

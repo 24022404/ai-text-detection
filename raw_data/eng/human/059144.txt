@@ -1,0 +1,1 @@
+Easy deployment and integration: JWT is a widely used standard, making it easy to deploy and integrate with different technologies.

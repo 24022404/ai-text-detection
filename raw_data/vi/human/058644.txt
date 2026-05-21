@@ -1,0 +1,1 @@
+Tuy nhện, MySQL cũng có nhược điểm. Một số phiên bản cũ hơn của MySQL có thể thiếu các tính năng tên tiến và hỗ trợ JSP không đầy đủ. Trong môi trường có nhiều hoạt động đọc và ghi đồng thời, MySQL có thể gặp khó khăn vớ khóa và khả năng mở rộng. Một số người dùng cũng có thể gặp vấn đề với độ tin cậy và ổn định của MySQL.

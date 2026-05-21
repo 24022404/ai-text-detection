@@ -1,0 +1,1 @@
+Nếu điịa chỉ emal điã điược điăng ký với hệ thống, hệ thống trả về lỗ cho người dùng vớ thông báo Địa chỉ emal điã điược điăng ký vớ hệ thống. Vui lòng sử dụng địa chỉ email khác hoặc đặt lại mật khẩu".

@@ -1,0 +1,1 @@
+Giá trị Pneg(m)là phân phối lấy mẫu âm. Dựa theo cách này thuật toán có thể sử dụng thuật ngữ nhúng có nguồn gốc từ các cấu trúc mạng được cung cấp cho các mẫu Mô Tô do người dùng cung cấp.

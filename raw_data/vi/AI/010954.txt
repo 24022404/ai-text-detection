@@ -1,0 +1,5 @@
+Ứng dụng mô hình Cropwat để dự báo nhu cầu sử dụng nước của một số cây trồng chủ lực tại huyện Ea H'Leo đã được triển khai nhằm hỗ trợ nông dân trong việc quản lý và sử dụng nước hiệu quả. Mô hình Cropwat là một công cụ tiên tiến giúp dự báo nhu cầu nước của cây trồng dựa trên các yếu tố khí hậu, đất đai và đặc tính của cây trồng.
+
+Kết quả dự báo của mô hình cho thấy nhu cầu nước của một số cây trồng chủ lực tại huyện Ea H'Leo sẽ tăng trong mùa mưa và giảm trong mùa khô. Điều này cho phép nông dân có thể lập kế hoạch sử dụng nước hiệu quả, giảm thiểu lãng phí và đảm bảo cung cấp đủ nước cho cây trồng.
+
+Ứng dụng mô hình Cropwat tại huyện Ea H'Leo cũng giúp nông dân có thể dự báo và phòng tránh các tình huống khẩn cấp liên quan đến nước, chẳng hạn như thiếu nước hoặc quá nhiều nước. Điều này sẽ giúp nông dân có thể chủ động trong việc quản lý và sử dụng nước, từ đó tăng cường sản xuất và thu nhập.

@@ -1,0 +1,9 @@
+Objective: Reinforcement learning (RL) methods often converge to a single local optimum, limiting their robustness and solution diversity in complex environments. This paper introduces POMO (Policy Optimization with Multiple Optima), a novel framework designed to identify and exploit multiple high-quality policies concurrently, thereby enhancing exploration and mitigating premature convergence.
+
+Methods: POMO maintains a diverse population of policy candidates and alternates between multi-modal policy evaluation and targeted gradient updates. Each candidate is steered toward a distinct reward peak via a clustering-informed initialization and an adaptive penalty term that discourages collapse into an already-discovered optimum. We integrate POMO into a standard policy-gradient backbone, enabling end-to-end training without manual hyperparameter tuning for each mode.
+
+Results: We evaluate POMO on a suite of continuous-control benchmarks (MuJoCo) and discrete decision tasks (grid-world navigation and combinatorial optimization). Compared to single-optimum baselines (PPO, A2C) and population-based RL methods (ES, MP-PO), POMO achieves 15–25% higher average returns, reduces performance variance by 30%, and discovers up to five distinct high-reward policies in multi-modal settings. Ablation studies confirm the effectiveness of our clustering initialization and adaptive penalty in promoting multi-modality.
+
+Conclusion: By systematically locating and refining multiple optima, POMO delivers more robust and versatile policies without altering core RL architectures. Its ability to balance exploration and exploitation makes it particularly well suited for tasks with rugged reward landscapes or where policy diversity is critical. POMO opens new avenues for scalable, multi-modal policy learning in real-world applications.
+
+Keywords: reinforcement learning, policy optimization, multi-modality, local optima, exploration, POMO.

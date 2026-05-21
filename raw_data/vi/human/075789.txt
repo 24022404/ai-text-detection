@@ -1,0 +1,1 @@
+Gó db là tệp tin chưa cơ sở dữ liệu của hệ thống. Kh tạo và sử dụng cơ sở dữ liệu SQLite, một tệp .db sẽ được tạo ra điểm lưu trữ dữ liệu và các bảng trong cơ sở dữ liệu. Mẫu bảng sẽ tương ứng với một hoặc nhiều bảng dữ liệu trong tệp .db. Gói tệp tin .db có thể được dùng để sao lưu, d chuyển và chia sẻ dữ liệu giữa các ứng dụng khác nhau.

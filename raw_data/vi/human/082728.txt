@@ -1,0 +1,1 @@
+Kiểm thử chấp nhận chức năng đăng nhập Để sử dụng các chức năng trong hệ thống cửa mình, người dùng phải nhập chính xác tài khoản và mật khẩu của mình để đăng nhập. Để đảm bảo tính đúng đắn của chức năng đăng nhập, các test case được thiết lập như sau:

@@ -1,0 +1,1 @@
+Thiết kế từng khố cụ thể Khối cảm biến: Mạch sử dụng cảm biến DHT11. Khố mạch nguồn: Sử dụng mạch nguồn Adapter 5V2A.

@@ -1,0 +1,11 @@
+Here is a potential abstract for the graduation thesis:
+
+The rapid growth of social media and online travel planning has created a need for platforms that combine social networking with travel planning, enabling users to share experiences and discover new destinations. This thesis aims to address the lack of integrated travel social networks, where users can connect, share, and plan trips together. 
+
+The main objective of this research is to design and develop a website for a travel social network, allowing users to create profiles, share travel experiences, and connect with like-minded individuals. The specific problems this research aims to solve include facilitating social interactions among travelers, providing personalized travel recommendations, and enhancing the overall travel planning experience.
+
+To achieve this, a user-centered design approach was employed, utilizing technologies such as HTML, CSS, JavaScript, and a relational database management system. The system architecture is based on a web-based platform, incorporating features such as user profiling, travel blogging, and destination recommendation algorithms.
+
+The developed website demonstrates a functional and user-friendly travel social network, enabling users to share travel experiences, connect with others, and discover new destinations. The expected contributions of this research include providing a platform for social travel planning, enhancing user engagement, and offering personalized travel recommendations. 
+
+In conclusion, this thesis presents a travel social network website that addresses the need for integrated online travel planning and social networking. Future developments may include integrating machine learning algorithms for improved recommendation systems and expanding the platform to mobile devices. This research contributes to the field of human-computer interaction and social media, with potential applications in the tourism and travel industries.

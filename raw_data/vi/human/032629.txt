@@ -1,0 +1,1 @@
+keep all: keep all để xác định việc chúng ta có phát hiện và trả về tất cả các mặt có thể trong bức hình hay không.

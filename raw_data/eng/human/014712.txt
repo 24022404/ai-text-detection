@@ -1,0 +1,1 @@
+Next, the provider can choose to perform actions such as accepting or declin ing appointments. However, before any status changes are made, the app verifies whether the provider has the necessary permissions to perform these actions. Once the verification is successful, the app updates the status of the selected appointment according to the provider’s choice.

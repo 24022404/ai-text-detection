@@ -1,0 +1,1 @@
+Thoát ra Menu (Menu): thoát ra ngoài menu chính của game.Như đã giới thiệu qua ở các chương trước đó, em sẽ sử dụng Unity engine điển xây dựng nên một game thuộc thể loại Action RPG. Trong mục này em sẽ giới thiệu cụ thể hơn về engine bày, ưu nhược điểm của nó và lý do tại sao em lại dùng nó trong đồ án của mình.

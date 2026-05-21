@@ -1,0 +1,1 @@
+Cuối cùng, tô tiến hành nâng cấp mở rộng hệ thống hoạt động trên multitran giúp mở rộng phạm vi hoạt động của hệ thống, tăng số lượng người dùng, tiếp cận rộng hơn với những cộng đồng khác. M. Thakkar and M. Thakkar, “Next. js,” Building React Apps with Server Side Rendering: Use React, Redux, and Next to Buld Full Server Side Rendering Applications , pp. 93–137, 2020.

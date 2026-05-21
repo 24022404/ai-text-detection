@@ -1,0 +1,1 @@
+Without an activation function, a neural network operates much like a basic linear regression model, severely restricting its capacity to learn and represent complex patterns. This limitation prevents the network from effectively modeling complicated data types such as images, videos, natural language text, and audio signals.

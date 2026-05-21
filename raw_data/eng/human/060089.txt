@@ -1,0 +1,1 @@
+Flashcard contains one Dictionary Word. A Flashcard can be created by only one User, and must belong to a Flashcard Collection. An user can learn many dif-ferent flashcards, and a Flashcard might be learned by multiple Users. Therefore, the learning status of user with flashcards is stored separately in the system.

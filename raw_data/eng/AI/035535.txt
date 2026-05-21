@@ -1,0 +1,1 @@
+Activities with overly broad or unrestricted intent filters may be exposed to arbitrary external input, making them vulnerable to potential security threats.

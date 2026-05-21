@@ -1,0 +1,1 @@
+Chuẩn bị phần cứng () Thiết bị bên Jetson Nano () máy tính cá nhân CPU intel core i7 7700U b, Môi trường kiểm thử Tô lần lượt kiểm thử mô hình trong điều kiện ánh sáng bình thường, ánh sáng yếu và ánh sáng mạnh.

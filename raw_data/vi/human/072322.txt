@@ -1,0 +1,1 @@
+Bước 3: ha vector vừa tạo ra được cộng với nhau tương ứng từng phần tử, sau đó đưa qua hàm kích hoạt Sgmod nhằm đưa giá trị về đoạn [0, 1]. Cuối cùng ta thu được một vector có kích thước [1x1xC] vớ ý nghĩa lưu giữ trọng số độ quan trọng mỗ kênh của đặc trưng.

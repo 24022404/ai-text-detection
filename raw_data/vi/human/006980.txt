@@ -1,0 +1,1 @@
+Dễ dàng bảo trì: Vớ Redux, việc bảo trì trạng thái của ứng dụng trở nên dễ dàng hơn. Điều này giúp giảm thiểu thờ gan và chi phí cho việc bảo trì ứng dụng.

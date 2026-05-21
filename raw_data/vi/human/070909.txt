@@ -1,0 +1,1 @@
+Doman: quanCafe  Các thuộc tính mô tả thông tin về quán cafe gồm –Thuộc tính tekCafe : tên quán cafe.

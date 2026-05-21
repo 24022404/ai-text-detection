@@ -1,0 +1,1 @@
+Quản lý khách hàng của cửa hàng: Lưu trữ thông tin những khách đã mua hàng như tên, ngày sinh, số điện thoại. Mỗ khách hàng gồm một hoặc nhiều đơn hàng.

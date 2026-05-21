@@ -1,0 +1,1 @@
+The GUI Manager library allows developers to manage UI components coherently, establish an organized sequence, create a managing object for easy monitor ing of component activities, and facilitate scaling for large projects.

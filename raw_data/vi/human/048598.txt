@@ -1,0 +1,1 @@
+Mô hình được sử dụng rất phổ bến nên kh điã có hểu biết về mô hình MVC thì tìm hiểu dự án mới sẽ rất dễ dàng nếu dự án đó cũng xây dựng dựa trên mô hình MVC.

@@ -1,0 +1,1 @@
+Gao dẫn lên hệ Người dùng có thể phản hồi thông tin cho quản trị website thông qua lựa chọn tạ mục lên hệ. Người dùng sẽ điền thông tin về họ tên, số điện thoại, email và nội dung muốn phản hồi sau đó chọn nút gửi. Hệ thống sẽ gửi nội dung cho quản trị website.

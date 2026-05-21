@@ -1,0 +1,1 @@
+componentWillReceiveProps, shouldComponentUpdate, componentWillUpdate, componentDidUpdate Unmoutng: Đây là bước cuối cùng cũng như kết thúc một của vòng đời trong một component. Kh tất các tác vụ hoàn thành và ta cần tiến hành unmount DOM (component bị xóa khỏi cây DOM). Ga đoạn này chỉ có 1 phương thức là componentWillUnmount.Ưu điểm :

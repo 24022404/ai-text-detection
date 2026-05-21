@@ -1,0 +1,9 @@
+Objective: We introduce a novel framework for learning Linear Non-Gaussian Graphical Models (LiNGMs) that admit multidirected edges, enabling explicit modeling of latent confounders and feedback loops in continuous‐valued networks. Traditional LiNGAM approaches assume purely directed acyclic structures, limiting their applicability in complex real‐world systems where unobserved common causes and cyclic interactions occur.
+
+Methods: We formalize a Multidirected LiNGM (MD-LiNGM) by extending the structural equation model to include bidirected and higher‐order directed connections. Under mild non-Gaussianity and independence assumptions, we derive identifiability conditions for the full graph. Our learning algorithm combines independent component analysis (ICA) with a penalized likelihood search over mixed‐edge structures. A two‐stage procedure first recovers a candidate directed skeleton, then refines bidirected edge placement via sparsity‐promoting regularization, ensuring computational tractability for high‐dimensional data.
+
+Results: On synthetic benchmarks with up to 100 nodes and varying confounder densities, MD-LiNGM achieves a 25% improvement in edge‐orientation F1 score compared to state‐of‐the‐art LiNGAM and mixed‐graph algorithms. In a gene‐regulatory network case study, our method uncovers known regulatory motifs and plausible latent interactions, outperforming existing methods in both precision and recall.
+
+Conclusion: MD-LiNGM offers a scalable, theory‐grounded solution for causal discovery in settings with hidden variables and feedback. This work broadens the applicability of non-Gaussian causal models and provides a foundation for reliable structure learning in complex networks.
+
+Keywords: Linear non-Gaussian graphical models, multidirected edges, causal discovery, independent component analysis, structure learning.

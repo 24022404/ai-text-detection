@@ -1,0 +1,1 @@
+Yêu cầu ứng dụng sử dụng mã hóa để bảo vệ dữ liệu trong lúc lưu trữ và truyền qua mạng. Đảm bảo rằng mật khẩu và thông tin nhạy cảm khác được mã hóa một cách an toàn.

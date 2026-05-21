@@ -1,0 +1,1 @@
+Đố vớ Admin, họ sẽ được phép đăng tải bài hát lên hệ thống, quản trị hệ thống, quản lý các tài khoản người dùng và người sáng tạo, cung cấp giao diện cho người sử dụng dễ dàng thao tác, giao diện upload cho người sáng tạo nội dung và cuối cùng là quản lý nội dung đăng tải.

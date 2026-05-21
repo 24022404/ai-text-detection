@@ -1,0 +1,1 @@
+V. Gheorghiu and M. Mosca’s paper offers a comprehensive benchmark of quantum cryptanalysis across symmetric, public-key, and hash-based algorithms, analyzing their security.

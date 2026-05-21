@@ -1,0 +1,9 @@
+Objective: Ensuring the security and reliability of automotive cyber-physical systems (CPS) against emerging attacks is critical as vehicles become increasingly connected. This paper introduces a novel deep Radial Basis Function (Deep-RBF) network architecture tailored for real-time anomaly detection in automotive CPS.
+
+Methods: Our approach integrates multiple RBF layers within a deep neural framework to learn compact, class-specific representations of in-vehicle network behavior. We augment standard training with a dynamic thresholding mechanism that adapts to driving contexts, reducing sensitivity to benign fluctuations. The model is trained and evaluated on extensive Controller Area Network (CAN) bus datasets encompassing normal operation and diverse attack scenarios, including injection, replay, and masquerading attacks.
+
+Results: Experiments demonstrate that the Deep-RBF network achieves an average detection rate of 97.8% while maintaining a false-positive rate below 2.5%, outperforming conventional autoencoder and one-class SVM baselines by over 15% in detection accuracy and reducing false alarms by nearly 30%. The adaptive thresholding further lowers response latency, enabling sub-100-ms detection suitable for real-time deployment.
+
+Conclusion: By combining the locality-sensitive properties of RBF kernels with deep feature extraction, our method offers an effective and interpretable solution for securing automotive CPS. The proposed system can be seamlessly integrated into onboard intrusion detection units, paving the way for safer, more resilient connected vehicles.
+
+Keywords: Anomaly detection, Deep-RBF network, Automotive cyber-physical systems, Intrusion detection, CAN bus security, Real-time monitoring

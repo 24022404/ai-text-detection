@@ -1,0 +1,7 @@
+Image super-resolution (SR) aims to reconstruct high-resolution (HR) images from low-resolution (LR) counterparts, playing a crucial role in applications such as medical imaging, surveillance, and computational photography. Traditional deep learning-based SR methods often rely on single-image inputs, limiting their ability to capture diverse structural and texture details. To address this limitation, we propose an Attention-based Multi-Reference Learning (AMRL) framework, which leverages multiple reference images to enhance SR performance.
+
+Our approach employs an attention-driven feature fusion mechanism that dynamically selects and integrates relevant information from multiple high-quality reference images. Specifically, we design a cross-reference attention module to align spatial and contextual features across different sources, ensuring effective transfer of fine-grained details. Furthermore, a multi-scale refinement strategy is introduced to progressively enhance high-frequency components while preserving image consistency.
+
+Extensive experiments on standard super-resolution benchmarks demonstrate that AMRL significantly outperforms state-of-the-art methods in both quantitative metrics (PSNR, SSIM) and perceptual quality. The results highlight the effectiveness of multi-reference learning in improving texture reconstruction and fine detail preservation.
+
+Keywords: Image Super-Resolution, Multi-Reference Learning, Attention Mechanism, Feature Fusion, Deep Learning, High-Fidelity Image Reconstruction.

@@ -1,0 +1,14 @@
+Background & Motivation: 
+The increasing demand for English language proficiency has led to a growing need for innovative and engaging language learning tools. Traditional teaching methods often result in learner boredom and limited retention, highlighting the importance of exploring alternative approaches. This thesis addresses the potential of game-based learning in enhancing English language skills.
+
+Objectives: 
+The primary objective of this thesis is to design and develop a top-down action game using Unity, aimed at improving English language proficiency among learners. The game targets specific language skills, such as vocabulary, grammar, and reading comprehension, with the goal of increasing learner engagement and motivation.
+
+Methodology: 
+This project employs a mixed-methods approach, combining game development with language learning pedagogy. Unity game engine is utilized to create an immersive and interactive game environment, incorporating various language learning exercises and activities. The game's design and development are informed by theories of game-based learning and language acquisition.
+
+Results & Expected Contributions: 
+The developed game demonstrates a novel approach to language learning, offering an engaging and interactive experience for learners. The expected contributions of this research include the creation of a functional game prototype, an evaluation of its effectiveness in improving English language skills, and insights into the potential of game-based learning in language education.
+
+Conclusion: 
+This thesis presents a unique application of game development in language learning, highlighting the potential of top-down action games in enhancing English language proficiency. The findings of this research contribute to the growing field of game-based learning, suggesting future directions for the development of innovative language learning tools. Future studies can explore the effectiveness of this approach in various educational settings and its potential for adaptation to other languages and subjects.

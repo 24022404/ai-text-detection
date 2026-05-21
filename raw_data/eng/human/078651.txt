@@ -1,0 +1,1 @@
+Manifest Analysis The analysis of the AndroidManifest.xml file focuses on examining the permissions requested by the application, as well as its activities, services, and other components. The objective is to ensure that the requested permissions align with the application’s functionality and that no permissions are overprivileged or abused.

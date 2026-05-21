@@ -1,0 +1,1 @@
+A proxy can unintentionally alter network traffic by adding unnecessary data or changing request headers, leading to potential communication issues.

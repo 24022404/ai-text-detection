@@ -1,0 +1,1 @@
+Phát triển dựa trên mô hình, trực quan là cốt lõi của nền tảng OutSystems, nhưng còn nhiều điều hơn thế nữa. OutSystems cung cấp mọi thứ mà một tổ chức cần để xây dựng các ứng dụng nhanh chóng, phù hợp và cho tương lai. Mục tiêu là giảm chi phí và rủi ro bằng cách cho phép trên khan liên tục trên tất cả các nền tảng mà không bị gián đoạn vòng đời bằng cách cung cấp:

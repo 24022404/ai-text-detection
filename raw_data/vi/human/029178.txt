@@ -1,0 +1,1 @@
+Được tạo nên từ tư duy đơn giản hóa luồng và linh hoạt trong sự tương tác giữa các thành phần nên đây là một framework gọn nhẹ và mềm dẻo. Phần lõi của VueJS sở hữu tính năng tối thiểu bở khả năng tập trung vào việc hiển thị giao diện cho người dùng và các tương tác của nó.

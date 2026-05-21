@@ -1,0 +1,1 @@
+Bên cạnh đó, ĐATN kế thừa các phương pháp phân tích và đánh giá quá trình thực hiện dự án điã điược cà điặt trong module QLDA. Từ đó, áp dụng cho việc phân tích, đánh giá quá trình thực hiện của từng giai đoạn trong dự án.

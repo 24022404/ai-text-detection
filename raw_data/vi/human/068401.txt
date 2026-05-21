@@ -1,0 +1,1 @@
+Mã truy cập (access Token): Là một đoạn mã dùng để xác thực quyền truy cập, cho phép ứng dụng bên thứ 3 có thể truy cập vào những dữ liệu của người dùng trong một phạm vi nhất định mà nó cho phép. Token này có thờ gan sử dụng nhất định(thường là 1 gờ).

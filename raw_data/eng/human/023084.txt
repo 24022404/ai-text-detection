@@ -1,0 +1,1 @@
+Fortunately, Odoo encompasses a well-structured ORM API, which allows the developers to interact with the database via some methods and operations. Odoo uses some tools and packages like psycopg2 to build a proper ORM API.

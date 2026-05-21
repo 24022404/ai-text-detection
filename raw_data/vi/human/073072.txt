@@ -1,0 +1,1 @@
+Đa nền tảng: XAMPP hỗ trợ nhiều hệ điều hành như Windows, Linux và macOS, giúp người dùng có thể phát triển ứng dụng trên nhiều nền tảng khác nhau.

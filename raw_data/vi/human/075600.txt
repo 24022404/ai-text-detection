@@ -1,0 +1,1 @@
+Giống như các mô hình Transformer, BART gồm hai thành phần là Encoder và Decoder. Encoder được lấy từ BEAT, nó có thể mã hóa xâu đầu vào theo cả hai chiều và lấy được nhiều thông tin ngữ cảnh hơn. Một số lượng ngẫu nhiên các token được che bằng mặt nạ và mô hình phả tự khôi phục chúng.

@@ -1,0 +1,1 @@
+Sau đó dựa vào các tài lệu phân tích chức năng về yêu cầu người dùng để xây dựng kế hoạch kiểm thử.

@@ -1,0 +1,1 @@
+Người dùng hoặc bạn bè nhận được video sau khi chia sẻ có thể xem thông tin video bằng cách click vào video. Sau khi click vào video, màn hình cho tết video sẽ được hiển thị lên người dùng như hình 4.27.Hình 4.27: Màn hình nhắn tn.

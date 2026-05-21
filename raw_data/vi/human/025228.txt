@@ -1,0 +1,1 @@
+OpenCV (Open Source Computer Vision Library) là một thư viện mã nguồn mở rộng rã được ứng dụng trong lĩnh vực thị giác máy tính, xử lý ảnh và máy học.

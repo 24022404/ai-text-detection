@@ -1,0 +1,1 @@
+Đặc tả Usecase Quản lý Thống kê Bảng 2. 7: Đặc tả Use Case Quản lý Thống kê STT  Trên UC  Quản lý thống kê 1 Tác nhân  Quản Lý.

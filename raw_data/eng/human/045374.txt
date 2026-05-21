@@ -1,0 +1,1 @@
+Malware Detection: The static analyzer checks the app for malwarerelated indicators, such as suspicious permissions, domains, and other be havior that might point to malicious intent.

@@ -1,0 +1,1 @@
+Streamlit utilizes a web-based interface, allowing it to dynamically adjust the size and layout of components within the application to fit the current screen size.

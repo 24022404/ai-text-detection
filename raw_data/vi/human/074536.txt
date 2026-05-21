@@ -1,0 +1,1 @@
+Modal: Lớp này chịu trách nhiệm quản lý dữ lệu: game xếp vớ cơ sở dữ lệu, chịu trách nhiệm lưu trữ hoặc truy vấn dữ lệu.

@@ -1,0 +1,1 @@
+Figure 3.9 displays both the original image and its corresponding label from the dataset, drawing attention to common errors. These errors are indicated using specific color codes clearly visible above.

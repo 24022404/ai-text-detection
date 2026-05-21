@@ -1,0 +1,1 @@
+Xoá dấu câu và các ký tự không phải chữ cá nhưng giữ nguyên index của từ.•Đánh lại dấu cho từ nếu chưa phù hợp. Ví dụ xõa > xõa.

@@ -1,0 +1,1 @@
+Đầu tiên, đi với dữ liệu đầu vào thì em nó dữ liệu thành một chuỗi sau đó tiền xử lý dữ liệu và chuyển thành một mảng các token.

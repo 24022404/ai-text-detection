@@ -1,0 +1,1 @@
+The customer receives a notification confirming the appointment acceptance or regarding the decd appoint ment Basic Flow 1. User opens app 2. User navigates to the booking screen by choosing the second icon in the navbar 3. User selects button pending to view a list of pending request booking 4. User has the option to click the "Accept" or "Dec" button based on their choice.

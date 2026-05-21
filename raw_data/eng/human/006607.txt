@@ -1,0 +1,1 @@
+Function Scenario Expected Result Login 1. Input username and password1. If the input is correct, the home page is shown to the user.

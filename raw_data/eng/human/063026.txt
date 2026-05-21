@@ -1,0 +1,1 @@
+The RESTful API used in the Backend is for the app to fetch path data from the database. The API has a single endpoint /getPath developed using NodeJS.

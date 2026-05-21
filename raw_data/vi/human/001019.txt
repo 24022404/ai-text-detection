@@ -1,0 +1,1 @@
+Tấn công DDoS là một hình thức tấn công mạng, trong đó kẻ tấn công sử dụng nhiều thiết bị để tạo ra một lưu lượng truy cập lớn đến một máy chủ hay một hệ thống mạng, vượt quá khả năng xử lý của hệ thống đó. Kết quả là, hệ thống đó sẽ không thể phục vụ các yêu cầu truy cập hợp lệ từ người dùng, gây ra sự cố trong việc truy cập và giảm hiệu suất của hệ thống.

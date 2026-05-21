@@ -1,0 +1,1 @@
+Khi một khách hàng muốn nhận được các gợi ý sản phẩm, hệ thống sẽ tìm kiếm những khách hàng có hành vi mua sắm tương tự nhất với khách hàng đó. Sau đó, nó sẽ sử dụng thông tin từ những khách hàng tương tự này để đề xuất các sản phẩm mà những khách hàng đó đã mua và được đánh giá cao điểm gợi ý cho khách hàng.

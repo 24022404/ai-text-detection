@@ -1,0 +1,9 @@
+Objective: We present EgoFace, a novel framework for real-time egocentric face performance capture and videorealistic reenactment. This work addresses the challenges of limited field-of-view, self-occlusions, and varying illumination inherent to inward-facing camera setups used in head-mounted devices.
+
+Methods: EgoFace employs a two-stage deep learning pipeline. First, a convolutional network estimates a complete 3D face mesh and expression parameters from partial, egocentric video frames, leveraging a parametric morphable model and a texture completion module to fill occluded regions. Second, a neural rendering stage combines learned appearance priors with dynamic lighting adaptation to generate photorealistic reenactment on a target avatar. The entire system is trained end-to-end on a curated dataset of synchronized multi-view facial recordings under diverse expressions and environments.
+
+Results: Quantitative evaluation shows that EgoFace reduces geometric reconstruction error by 25% and achieves a 0.18 gain in perceptual image similarity (LPIPS) compared to state-of-the-art headset-based methods. Qualitative user studies report high identity preservation and expression fidelity. The framework runs at over 30 fps on a single GPU, supporting live applications.
+
+Conclusion: EgoFace delivers the first egocentric solution for high-fidelity face capture and videorealistic reenactment, enabling immersive telepresence, social VR interactions, and next-generation gaming experiences.
+
+Keywords: egocentric capture, face performance, videorealistic reenactment, neural rendering, 3D reconstruction.

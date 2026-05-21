@@ -1,0 +1,1 @@
+Hạn chế React chỉ tập trung vào UI, vì vậy nó không thể xử lý việc lưu trữ dữ liệu hoặc các tác vụ bên ngoài.

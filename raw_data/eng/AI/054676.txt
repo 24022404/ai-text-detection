@@ -1,0 +1,9 @@
+Objective: Natural gradient methods offer principled optimization by accounting for the underlying information geometry of model parameters, but their high computational cost has limited broad adoption in large-scale machine learning. This paper introduces a novel framework for accelerating natural gradient descent through the incorporation of higher-order invariance properties.
+
+Methods: We derive an efficient approximation of the Fisher information matrix that exploits invariance under higher-order parameter transformations. By extending classical first-order invariance to include curvature-aware reparameterizations, our approach constructs a blockwise estimator that preserves essential geometric structure while dramatically reducing per-iteration complexity. We further integrate this estimator into a scalable optimization routine compatible with modern deep neural networks.
+
+Results: Empirical evaluations on image classification (CIFAR-10, ImageNet) and language modeling benchmarks demonstrate that our Higher-Order Invariant Natural Gradient (HOG-NG) method converges in up to 40% fewer epochs compared to standard natural gradient and 20% fewer epochs than state-of-the-art Kronecker-factored approximations (K-FAC). Wall-clock training time is reduced by up to 30%, and final model accuracy matches or exceeds baselines across architectures ranging from convolutional networks to transformers.
+
+Conclusion: By leveraging higher-order invariance, HOG-NG achieves a favorable trade-off between computational efficiency and optimization quality. This work provides a practical pathway for integrating advanced information-geometric techniques into large-scale deep learning, with potential applications in continual learning, reinforcement learning, and federated optimization.
+
+Keywords: natural gradient, higher-order invariance, Fisher information, optimization, deep learning, information geometry.

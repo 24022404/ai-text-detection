@@ -1,0 +1,1 @@
+Công cụ lưu trữ –Công cụ lưu trữ chịu trách nhệm lưu trữ và truy xuất dữ liệu từ các hệ thống lưu trữ như điĩa và SAN.

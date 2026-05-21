@@ -1,0 +1,1 @@
+Zeroshot relation extraction from semi structured web pages,” in Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics , On: Association for Computational Linguistics, July. 2020, pp. 8105– 8117. DOI:10.18653/v1/2020.aclman.721 . [On]. Available:

@@ -1,0 +1,1 @@
+Use a library or tool such as apksigtool to extract certificate data, including the public key, signature algorithm, and hash algorithm.

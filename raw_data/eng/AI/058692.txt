@@ -1,0 +1,1 @@
+Z. Barzilai, D. Coppersmith, and A. L. Rosenberg explore exhaustive generation of bit patterns in their paper, highlighting effective methods and their practical use in self-testing of VLSI circuits.

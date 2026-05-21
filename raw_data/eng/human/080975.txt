@@ -1,0 +1,1 @@
+The bias problem can be solved by variables called biases, which depend on each user and item and can be optimized along with XandW. Then the ratings of user n to item m can not only be approximated. equals xmwnbut also depends on the biases of item m and user n. In addition, this value can also depend on the average of all ratings:

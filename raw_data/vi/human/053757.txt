@@ -1,0 +1,1 @@
+Quản lý chi nhánh: Tổng giám đốc quản lý chi nhánh, có quyền điều chuyển nhân viên từ một chi nhánh sang một chi nhánh khác trong tổ chức tùy theo nhu cầu công việc và sự phù hợp.

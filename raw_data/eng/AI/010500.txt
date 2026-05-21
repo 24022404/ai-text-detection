@@ -1,0 +1,9 @@
+Objective: Accurate three-dimensional (3D) reconstruction from a single depth view remains a challenging task due to occlusions and incomplete shape information. This paper presents a novel deep learning framework for dense 3D object reconstruction using only one depth image as input.  
+
+Methods: We introduce a volumetric completion network that integrates a 3D convolutional encoder–decoder with shape priors learned from a large-scale object dataset. The encoder maps the partial depth map into a compact latent space, while the decoder generates a high-resolution volumetric grid representing the complete object surface. To capture fine geometric details, we incorporate a multi-resolution refinement module and a view-consistency loss that encourages alignment with the original depth observation.  
+
+Results: Experiments on the ShapeNet benchmark and real-world depth captures demonstrate that our method outperforms state-of-the-art single-view reconstruction approaches by an average of 12% in Intersection-over-Union (IoU) and reduces Chamfer distance by 18%. The model achieves real-time inference (30 fps on a modern GPU) and exhibits robustness to sensor noise and varied object categories.  
+
+Conclusion: By leveraging learned shape priors and a multi-resolution refinement strategy, our approach provides accurate and efficient dense 3D reconstructions from minimal input data. This work enables practical applications in robotic manipulation, augmented reality, and scene understanding where only a single depth measurement is available.  
+
+Keywords: 3D reconstruction; depth completion; volumetric deep learning; shape priors; single-view modeling; real-time inference.

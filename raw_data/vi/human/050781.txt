@@ -1,0 +1,1 @@
+Kiến trúc hệ thống đóng và trò vô cùng quan trọng khi triển khai một hệ thống lớn nên việc chọn một kiến trúc phù hợp sẽ được nêu rõ trong Chương 4 của đồ án.

@@ -1,0 +1,1 @@
+During the printing process, the tin is deflected, leading to a surplus of solder pins when passing through the furnace.

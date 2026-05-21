@@ -1,0 +1,1 @@
+Sử dụng mô hình của môi trường để tìm ra hành động trả về điểm thưởng lớn nhất (ví dụ như việc tính trước các nước đi trong cờ vua kh ta đã biết rõ luật) (model based learning).

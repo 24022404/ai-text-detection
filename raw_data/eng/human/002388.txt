@@ -1,0 +1,1 @@
+Ensure that the app is signed using secure certificates and not a de bug certificate, which is often used in development but should not be present in production apps.

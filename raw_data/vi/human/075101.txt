@@ -1,0 +1,1 @@
+Trên thực tế, nếu không sử dụng Expressjs, bạn sẽ phải thực hiện rất nhiều bước lập trình phức tạp điển xây dựng nên một API hiệu quả. Express js điã gúp cho vệ lập trình trong Nodejs trở nên dễ dàng hơn và có nhiều tính năng mới bổ sung.

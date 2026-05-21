@@ -1,0 +1,1 @@
+Quy trình nghiệp vụ nhắn tin Hình 2.9: Quy trình nghiệp vụ nhắn tin Hình 2.9 là quy trình nghiệp vụ nhắn tin. Đầu tên khách phải đăng ký ( đăng nhập) tài khoản vào hệ thống. Hệ thống kiểm tra tài khoản của khách, nếu thành công người dùng sẽ được thực hiện chức năng nhắn tin với người khác trên website.

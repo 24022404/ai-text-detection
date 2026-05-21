@@ -1,0 +1,1 @@
+The modules package contains two modules infrastructure and master data. Inaddition, infrastructure contains modules like elastic search modules, clock mod ules, helper modules, and mass transit. Master data contains projects for geometries and setting of system.

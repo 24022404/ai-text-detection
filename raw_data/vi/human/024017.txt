@@ -1,0 +1,1 @@
+Miễn phí và mã nguồn mở:  MySQL là một phần mềm miễn phí và mã nguồn mở, điều này có nghĩa là bạn có thể sử dụng, sửa đổi và phân phối khả năng xử lý hàng nghìn truy vấn mỗ gây và hỗ trợ cho các ứng dụng có tả lớn.

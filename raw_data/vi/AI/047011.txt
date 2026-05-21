@@ -1,0 +1,7 @@
+Kết cấu khung phẳng là một trong những loại kết cấu được sử dụng rộng rãi trong xây dựng, đặc biệt là trong các công trình cao tầng. Tuy nhiên, độ nhạy của các tham số đầu vào ngẫu nhiên đến tải trọng tới hạn của kết cấu khung phẳng vẫn còn là một vấn đề cần được nghiên cứu và phân tích.
+
+Các tham số đầu vào ngẫu nhiên bao gồm các yếu tố như độ lớn của tải trọng, hướng của tải trọng, và các yếu tố khác liên quan đến môi trường và điều kiện xây dựng. Tải trọng tới hạn của kết cấu khung phẳng là tải trọng tối đa mà kết cấu có thể chịu đựng mà không bị hư hỏng.
+
+Phân tích độ nhạy của các tham số đầu vào ngẫu nhiên đến tải trọng tới hạn của kết cấu khung phẳng là một quá trình phức tạp và đòi hỏi sự sử dụng của các công cụ và phương pháp tính toán hiện đại. Quá trình này bao gồm việc xây dựng mô hình toán học của kết cấu, việc phân tích các tham số đầu vào ngẫu nhiên, và việc tính toán tải trọng tới hạn của kết cấu.
+
+Kết quả của phân tích độ nhạy này có thể giúp các kỹ sư và kiến trúc sư hiểu rõ hơn về độ nhạy của các tham số đầu vào ngẫu nhiên đến tải trọng tới hạn của kết cấu khung phẳng, từ đó có thể đưa ra các quyết định sáng suốt trong việc thiết kế và xây dựng các công trình cao tầng.

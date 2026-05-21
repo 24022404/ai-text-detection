@@ -1,0 +1,1 @@
+–Nếu thất bạ, hiển thị thông báo lý do 2.3.6 Đặc tả usecase “Quản trị viên duyệt danh sách bảng” Mô tả ngắn gọn :

@@ -1,0 +1,1 @@
+PHP cho phép tích hợp với các ứng dụng khác, bao gồm các ứng dụng email, SMS, FTP, SSH, và nhiều hơn nữa.

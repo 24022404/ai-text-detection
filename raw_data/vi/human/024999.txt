@@ -1,0 +1,1 @@
+ĐATN điã khảo sát các phần mềm quản lý sản xuất trên thị trường. Để xây dựng kế hoạch sản xuất linh hoạt ĐATN xây dựng quy trình tạo kế hoạch sản xuất kết hợp giữa hai phương pháp MTS và MTO.

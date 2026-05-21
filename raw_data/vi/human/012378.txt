@@ -1,0 +1,1 @@
+Lý do lựa chọn framework Laravel Do Laravel là một nền tảng ứng dụng web PHP mã nguồn mở nên nó hoàn toàn miễn phí để sử dụng và cài đặt; ngoài ra Laravel có khả năng phát triển các ứng dụng web lớn, phức tạp với khả năng bảo trì code nhanh chóng.

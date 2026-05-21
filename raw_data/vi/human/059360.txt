@@ -1,0 +1,1 @@
+Tuy nhiên, công cụ vẫn còn một số hạn chế, như chưa hỗ trợ tố đia các lỗ hổng phức tạp và không thể hoạt động trong môi trường web ứng dụng có sử dụng mã hóa chặt chẽ. Em sẽ tiếp tục nâng cao và phát triển công cụ trong tương lai để giải quyết những hạn chế này.

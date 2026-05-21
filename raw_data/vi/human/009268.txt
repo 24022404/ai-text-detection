@@ -1,0 +1,1 @@
+Tổng quan, MySQL là một hệ quản trị cơ sở dữ lệu mạnh mẽ và phổ biến, với sự dễ sử dụng, hiệu suất tốt và khả năng mở rộng. Tuy nhiên, nó cũng có một số hạn chế cần được xem xét trước khi áp dụng vào dự án cụ thể.

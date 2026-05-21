@@ -1,0 +1,1 @@
+Kiến trúc Microservice là kiến trúc cho một ứng dụng thành một bộ các microserve, mỗ microservice là một server có thể được triển khai và chạy độc lập.

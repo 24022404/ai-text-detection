@@ -1,0 +1,1 @@
+See price predictionss: The price prediction model will directly display its re sults on the "LSTM model" page of the website. Users can click on this page, choose the cryptocurrency they want to predict, and then view the predicted prices.

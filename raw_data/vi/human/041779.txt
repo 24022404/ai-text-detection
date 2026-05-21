@@ -1,0 +1,1 @@
+MVC địa phần phù hợp với công ty chuyên về webste hoặc các dự án lớn thì mô hình này phù hợp hơn so với với các dự án nhỏ, lẻ vì khá là cồng kềnh và mất thờ gắn.Hình 5.1: Nhược điểm mô hình MVC không hỗ trợ Prevew như ASP.NET Không thể Prevew các trang như ASP.NET.

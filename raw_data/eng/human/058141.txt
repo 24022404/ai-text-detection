@@ -1,0 +1,1 @@
+S. Wu andY. He, “Enriching pre-trained language model with entity information for relation classification,” inProceedings of the 28th ACM InternationalConference on Information and Knowledge Management jourser CIKM ’19, Beijing, China: Association for Computing Machinery, 2019, 2361–2364, ISBN: 9781450369763. DOI:10.1145/3357384.3358119 .url:https:

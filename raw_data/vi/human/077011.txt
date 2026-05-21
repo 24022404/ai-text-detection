@@ -1,0 +1,1 @@
+CSS (Cascading Style Sheets)  là một ngôn ngữ được sử dụng để điều chỉnh và tạo kiểu cho các phần tử và trang web. CSS là một phần quan trọng của phát triển web, cho phép bạn tạo ra giao diện đẹp, mạnh mẽ và tùy chỉnh cho trang web.

@@ -1,0 +1,1 @@
+The admin fills out the form with the necessary product information. The system verifies the input before adding the new product.

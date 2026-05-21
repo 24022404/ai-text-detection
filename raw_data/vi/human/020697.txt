@@ -1,0 +1,1 @@
+Bên cạnh việc lựa chọn ngôn ngữ, việc lựa chọn mô trường phát triển tích hợp (IDE) cũng là rất quan trọng trong quá trình xây dựng phần mềm. Trong điều tà lần này Android Studio sẽ là công cụ IDE được sử dụng để xây dựng và phát triển ứng dụng. Sau đây tôi sẽ trình bày Android Studio là gì, tạ sao lạ chọn Android Studio làm mô trường phát triển cho đề tài này.

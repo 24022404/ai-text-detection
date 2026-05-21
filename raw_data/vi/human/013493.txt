@@ -1,0 +1,1 @@
+Chương 4: Từ yêu cầu về chức năng của ứng dụng, chương này sẽ trình bày về cách thiết kế tổng quan điến ch tết của Hệ thống.

@@ -1,0 +1,1 @@
+Users are able to generate and download a report summarizing all tracked API calls and network interactions for review.

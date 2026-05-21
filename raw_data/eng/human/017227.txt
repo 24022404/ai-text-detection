@@ -1,0 +1,1 @@
+Chapter 5 is the evaluation of my website such as the API calling speed and video loading time. These will then be compare with other solution such as dTube or BitChute.

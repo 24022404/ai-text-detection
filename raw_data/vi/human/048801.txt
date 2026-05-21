@@ -1,0 +1,1 @@
+Vớ React Native thì các lập trình viên có thể build ra được những ứng dụng đa nền tảng (multiplatform) chứ không chỉ đơn thuần là ứng dụng dành riêng cho OS hay Android, không phải là một Mobile Web app, không phải là HTML5  app và cũng không phải là một Hybrid app.

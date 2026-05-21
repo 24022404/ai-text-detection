@@ -1,0 +1,1 @@
+Nếu email đã tồn tại trên hệ thống, hệ thống hiển thị thông báo lỗi yêu cầu khách hàng nhập lạ .

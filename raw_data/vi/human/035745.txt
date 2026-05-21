@@ -1,0 +1,1 @@
+Phân phối và tích hợp dễ dàng: JWT có thể được truyền tải qua mạng và dễ dàng tích hợp vào các ứng dụng web và API.

@@ -1,0 +1,1 @@
+MySQL MySQL là một hệ thống quản trị cơ sở dữ lệu mã nguồn mở (gọi tắt là RDBMS) hoạt động theo mô hình client server. Với Dbms là viết tắt của Relational Database Management System. Mỗ cơ sở dữ lệu có thể có nhiều bảng quan hệ chứa dữ lệu.

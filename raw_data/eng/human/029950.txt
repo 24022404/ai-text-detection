@@ -1,0 +1,1 @@
+There are two main types of language models: statistical language models and deep language models that utilize neural network. While statistical models have been traditionally used, the development of neural networks has led to the rise of deep language models. These deep models have shown promising results and gradually replaced many traditional statistical models.

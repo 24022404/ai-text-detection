@@ -1,0 +1,1 @@
+Có thể thấy các trường điạ học điang và trong tương la sẽ sử dụng bảng điểm, bằng cấp kĩ thuật số như một phần tất yếu. Tuy nhên các trường vẫn đang có các hệ thống rêng lẻ, chưa đồng bộ với nhau và các điơn vị tuyển dụng và xác mnh tài liệu. Từ những lý do này em xây dựng DEducaton vớ những chứng năng chính được trình bày tếp theo điây.

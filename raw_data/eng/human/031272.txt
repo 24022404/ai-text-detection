@@ -1,0 +1,1 @@
+Chapter 5 exhibits solutions to a few problems encountered in game develop ment such as object synchronization and reactive UI architecture.

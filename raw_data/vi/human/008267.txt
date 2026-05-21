@@ -1,0 +1,1 @@
+Là người dùng đã đăng nhập vào hệ thống tôi muốn có chức năng tạo bài viết để có thể thực hiện tạo bài viết 1. Acceptance Criteria 1:

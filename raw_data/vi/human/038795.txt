@@ -1,0 +1,1 @@
+Bảo mật: PostgreSQL  cung cấp các tính năng bảo mật mạnh mẽ như kiểm soát truy cập dựa trên vai trò (role based access control), mã hóa dữ liệu và kết nối an toàn.

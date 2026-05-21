@@ -1,0 +1,1 @@
+Để có thể gợi ý số lượng sản phẩm sản xuất để tồn kho trước tiên phải dự báo được nhu cầu tiêu thụ sản phẩm của khách hàng trong ga đoạn tớ. Từ dự báo tính được kết hợp với các thông tin số lượng hàng tồn kho, số lượng sản phẩm đang sản xuất,... ĐẤT sẽ tính toán số lượng sản phẩm cần sản xuất thêm trong ga điện hiện tại.

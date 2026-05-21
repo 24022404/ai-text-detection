@@ -1,0 +1,1 @@
+The system features numerous destinations, each offering a variety of hotels, where users can rate and review their experiences by giving scores or leaving comments that support multiple photos. Both posts and comments are interactive, allowing users to like them, while an administrator oversees users, destinations, and hotels.

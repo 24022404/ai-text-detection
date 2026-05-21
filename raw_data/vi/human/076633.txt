@@ -1,0 +1,1 @@
+Vấn đề Trong quá trình người mua đặt hàng, việc điầu tiên là tìm kiếm món ăn mà mình mong muốn là rất quan trọng. Danh sách các món ăn cần phải sắp xếp một cách khoa học và dễ dàng cho người dùng để họ tìm kiếm một cách nhanh chóng nhất.

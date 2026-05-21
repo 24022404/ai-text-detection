@@ -1,0 +1,1 @@
+() Tền điều kiện: để thực hiện được use case này yêu cầu khách hàng phải thực hiện đăng nhập vào hệ thống.Trong giỏ hàng của khách hàng phải có tối thiểu 1 sản phẩm.

@@ -1,0 +1,1 @@
+While Streamlit is designed for simplicity and ease of use, it still allows for customization and fine-tuning of web applications using custom CSS and HTML.

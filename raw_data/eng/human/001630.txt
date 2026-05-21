@@ -1,0 +1,1 @@
+After take screenshot, i can view the image in the section of the dynamic analysisreport:Figure 4.11: Enter CaptionThe solution provided by this Android malware analysis application offers sig nificant benefits to both regular users and security professionals, addressing their unique needs in the realm of mobile security.

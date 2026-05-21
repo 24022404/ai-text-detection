@@ -1,0 +1,1 @@
+Commons package as it name, it contain everything can be reused by services .It includes 2 package are Application and Domains. Applications contains statistic class in common and Domains contain class in common.

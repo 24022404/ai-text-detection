@@ -1,0 +1,1 @@
+Signaling Server nhận được peerId của Peer 2 và sẽ tìm kiếm đường dẫn và gửi yêu cầu kết nối từ Peer 1 tớ Peer 2. Kh Peer 2 chấp nhận yêu cầu kết nối thông qua Signaling Server, server sẽ chuyển thông tin kết nối của Peer 2 điến Peer 1. Qua quá trình này, Peer 1 và Peer 2 sẽ biết thông tin kết nối của nhau thông qua Signaling Server.

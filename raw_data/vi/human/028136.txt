@@ -1,0 +1,1 @@
+Tính điộ lỗ: e(l) k= ˆy(l) k−yk k= ˆy(l) k 3. Tính giá trị cần thay điổ: ∆w(l) kj=a(l−1) k 4. Cập nhật trọng số: w(l) kj=w(l) kj 5. Cập nhật bas: b(l) k=b(l) k Đố vớ lớp ẩn, bỏ 4.1 và thay điổ 4.2 thành:

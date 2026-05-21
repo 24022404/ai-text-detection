@@ -1,0 +1,1 @@
+Đầu tên là lập trình một trang web hoàn chỉnh có cơ sở dữ lệu bằng framework Laravel. Mục điích thứ ha là điể phát trển một nền tảng có thể áp dụng và trển kha trong tình hình thực tế một cách tự động, nhanh chóng và lnh hoạt.

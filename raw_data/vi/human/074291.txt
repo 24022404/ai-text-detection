@@ -1,0 +1,1 @@
+Ngườ dùng ấn vào bểu tượng gỏ hàng 1.2. Website hiện gao dện gỏ hàng 1.3. Ngườ dùng có thể xem ch tết các món ăn điã thêm vào gỏ hàng trước đó 2. Sửa số lượng món ăn trong gỏ hàng:

@@ -1,0 +1,1 @@
+Cuố cùng, em học điược các kỹ thuật mớ trong vệc xây dựng cơ sở dữ lệu gúp cả thiện vệc truy vấn, cách cấu trúc code điể dễ bảo trì và phát trển (thờ gan ban điầu thực sự khó khăn khi không làm tốt điều này từ điầu).

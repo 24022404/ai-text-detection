@@ -1,0 +1,1 @@
+users: Lưu trữ thông tin cơ bản của user, lưu trữ thông tin mật như password (điã điược mã hóa bằng thuật toán RSA256).

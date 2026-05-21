@@ -1,0 +1,1 @@
+Modeling Để tạo nên model nhân vật và quần áo của nhân vật có thể mặc, em sử dụng phần mềm Adobe Fuse  phần mềm mễn phí cho người dùng có tài khoản Adobe. Tạ đây người dùng có thể chọn model và quần áo tương ứng cho nhân vật của họ, sau đó có thể xuất ra file .fbx vốn là file cho các 3D model.

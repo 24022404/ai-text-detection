@@ -1,0 +1,1 @@
+The GOAP logic processing package is the core AI processing package of the library. It includes the logic processing between nodes, graph rendering, as well as planning and finding the shortest path for the agent. This package handles the main AI logic and decision-making processes within the GOAP library.

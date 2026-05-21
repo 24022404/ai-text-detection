@@ -1,0 +1,1 @@
+Mã nguồn mở: Nhờ đặc tính mã nguồn mở nên MySQL là miễn phí với hầu hết công việc sử dụng trong các ứng dụng, đi cùng với đó là cộng đồng phát triển rất mạnh mẽ.

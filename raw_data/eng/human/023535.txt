@@ -1,0 +1,1 @@
+.1) As mentioned above, proof of theorem 1 is divided into 2 parts. While the first one claims ℓ(Gk,s)⩽U(k, s), the second one shows that there exists a sequence can achieve the length of U(k, s)+k−1. This section provides the proof of the first part (lemma 5). Proof for the second part is available in section 4.3.

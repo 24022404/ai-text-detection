@@ -1,0 +1,1 @@
+Migration là có chứa các thay đổi cần thiết cho cơ sở dữ liệu, được cung cấp bởi thư viện Sequelize.

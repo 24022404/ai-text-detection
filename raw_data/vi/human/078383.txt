@@ -1,0 +1,1 @@
+Với những ưu điểm vượt trội sự kết hợp của MySQL với ngôn ngữ lập trình Kotlin là gả pháp lựa chọn hàng điầu trong việc xây dựng backend.

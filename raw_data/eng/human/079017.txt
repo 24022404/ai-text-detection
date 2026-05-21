@@ -1,0 +1,1 @@
+EMNIST Figure 5.6 depicts the dynamic evolution of test accuracy over communication rounds for FedAdp, FedAvg, and FedImp within the framework of diverse heterogeneousFigure 5.6: Test accuracy over communication rounds of FedAdp, FedAvg and FedImp with different levels of heterogeneous data distribution over participating nodes for EMNIST using ANN model.

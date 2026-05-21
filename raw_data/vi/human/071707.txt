@@ -1,0 +1,1 @@
+Trong chương này, em trình bày về một số tham số đánh giá được sử dụng và kết quả đạt được đối với việc thử nghiệm nhiều tham số khác nhau của mô trường và phương pháp học tăng cường.

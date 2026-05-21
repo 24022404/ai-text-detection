@@ -1,0 +1,1 @@
+Dart cũng là nền tảng của Flutter. Dart cung cấp ngôn ngữ và thờ gan chạy cung cấp năng lượng cho các ứng dụng Flutter, nhưng Dart cũng hỗ trợ nhiều tác vụ cốt lõi của nhà phát triển như phân tích và kiểm tra mã.

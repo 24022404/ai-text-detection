@@ -1,0 +1,1 @@
+Biểu đồ use case phân rã chức năng quản lý giỏ hàng Hình 2.5: Biểu đồ use case phân rã chức năng quản lý giỏ hàng Mô tả use case phân rã của chức năng quản lý giỏ hàng:

@@ -1,0 +1,1 @@
+Tạo báo cáo theo thờ gan thực : Một kh điã kết nố vớ các nguồn dữ lệu, báo cáo của sẽ cập nhật mỗi khi có bất kỳ thay đổi nào trong nguồn dữ lệu, hoặc cập nhật tự động theo thời gian thực.

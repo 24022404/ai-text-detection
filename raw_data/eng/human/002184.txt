@@ -1,0 +1,1 @@
+Python Torch for CPU library: Since the cloud server that is being used for the project does not have GPU, I have to choose specific version for Torch library Python libraries: Defined in requirements.txt file as usual Those dependencies would be translated into a Dockerfile as below:

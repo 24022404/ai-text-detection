@@ -1,0 +1,1 @@
+The actor clicks the buy button, the system adds the product to the cartExceptions1. System displays a message: canceled if the Actor selects “No” 2. System displays a message: Minimum quantity of product is more than allowed 3. System displays a message: Product is out of stock 2.2.10 Categories Usecase Figure 2.16: Categories Usecase Use Case Description:

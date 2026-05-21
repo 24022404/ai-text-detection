@@ -1,0 +1,1 @@
+In section 4.2, we assess the contribution of each participating node by gauging the informational content within their respective datasets. Subsequently, we normalize these contributions to establish unique weights for the global model aggregation.

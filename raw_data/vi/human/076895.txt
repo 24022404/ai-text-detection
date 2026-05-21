@@ -1,0 +1,1 @@
+Để hiểu rõ hơn về thuật toán này, ta trở lại vớ ví dụ ở mục 5.3.4.Đầu tên, ta thêm hà đỉnh ảo là "start" và"finish" để biểu thị cho điểm bắt đầu và kết thúc của dự án, sau đó tìm kiếm mọi đường đi giữa ha đỉnh này, thu được hai đường đi là start – ABE fnsh (tổng thể gan là 13 ngày, cần giảm 2 ngày) và startCD nsh (tổng thể gan là 12 ngày, cần giảm 1 ngày).

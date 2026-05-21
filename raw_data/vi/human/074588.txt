@@ -1,0 +1,1 @@
+REST là viết tắt của Representational State Transfer. Giả thích đơn giản, REST là một loạt hướng dẫn và dạng cấu trúc dùng cho việc chuyển đổi dữ liệu. Thông thường, REST hay đi dược dùng cho ứng dụng web, nhưng cũng có thể làm việc được với dữ liệu phần mềm.

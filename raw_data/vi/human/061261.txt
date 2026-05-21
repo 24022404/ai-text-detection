@@ -1,0 +1,1 @@
+Người dùng cũng có thể lưu lại dòng hình ảnh đang phát. Ch tết xem tạo hình 2.2 Hình 2.2: Biểu đồ use case phân rã xem dòng hình ảnh đã qua xử lý 2.2.3 Biểu đồ use case phân rã xử lý hình ảnh Đố vớ chức năng xử lý hình ảnh, người dùng có thể sử dụng sau khi đăng nhập.

@@ -1,0 +1,1 @@
+IoU được tính toán cho mỗi phân lớp riêng biệt, nếu nhãn dự đoán có nhiều lớp, ta sẽ tính giá trị trung bình của IoU theo công thức ( 4.1):

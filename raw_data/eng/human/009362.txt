@@ -1,0 +1,1 @@
+unlabelled collected from the internet. In fact, a lot of Machine Learning problemsfall into this group because the collection of labeled data takes a lot of time and is expensive. Many types of data even require expert labeling (such as medical images). In contrast, unlabelled data can be obtained at low cost from the internet.

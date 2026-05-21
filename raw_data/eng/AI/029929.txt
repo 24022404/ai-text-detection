@@ -1,0 +1,9 @@
+Objective: Reinforcement learning in parameterized action spaces—where each discrete action is coupled with continuous parameters—poses significant challenges in scalability and sample efficiency. This paper investigates hierarchical approaches that decompose decision making into discrete action selection and continuous parameter optimization, aiming to improve learning performance in complex control tasks.
+
+Methods: We propose a two-tier hierarchical policy architecture. At the high level, a discrete-action policy selects one of the available action schemas. At the low level, a parameter-policy network generates continuous parameters conditioned on the chosen action. Both tiers are trained jointly using an actor-critic framework with proximal policy optimization. To balance exploration and exploitation across levels, we introduce a hierarchical entropy regularization term and a parameter-dependent value baseline.
+
+Results: Empirical evaluations on benchmark domains—including robotic arm manipulation, game environments with skill-parameterized moves, and simulated navigation tasks—demonstrate that our hierarchical approach achieves up to 35% faster convergence and 20% higher cumulative reward compared to flat parameterized-action baselines. Ablation studies confirm the effectiveness of joint training and entropy regularization in stabilizing learning and reducing variance.
+
+Conclusion: The proposed hierarchical framework offers a scalable solution for parameterized action reinforcement learning, delivering enhanced sample efficiency and robustness. Its modular design facilitates extension to multi-agent settings and real-world robotics applications, marking a step toward more versatile and efficient control policies.
+
+Keywords: hierarchical reinforcement learning, parameterized action space, two-tier policy, actor-critic, sample efficiency.

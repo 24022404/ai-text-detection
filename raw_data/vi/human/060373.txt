@@ -1,0 +1,1 @@
+XAMPP là một phần mềm miễn phí và mã nguồn mở gúp ta có thể cấu hình một mô trường phát triển web trên máy tính của mình. XAMPP bao gồm các thành phần chính như Apache, MySQL, PHP và Perl, cung cấp cho người dùng một cách nhanh chóng để thiết lập mô trường phát triển và kiểm tra ứng dụng web trên máy tính của mình.

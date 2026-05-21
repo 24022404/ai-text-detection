@@ -1,0 +1,1 @@
+Nó sử dụng mẫu Front Controller, mẫu này giúp quản lý các requests (yêu cầu) chỉ thông qua một Controller. Nhờ đó bạn có thể thiết kế một hạ tầng quản lý đi định tuyến. Để có nhiều thông tin hơn, bạn nên xem phần Front Controller trên website MSDN.

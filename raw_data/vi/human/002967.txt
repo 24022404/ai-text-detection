@@ -1,0 +1,1 @@
+Mô hình client server giúp chúng ta có thể làm việc trên bất kỳ một máy tính nào có hỗ trợ truyền thông. Chứng chỉ mang đặc điểm của phần mềm mà không hề liên quan đến phần cứng, có thể hỗ trợ người dùng sử dụng các dịch vụ một cách đa dạng và tiện dụng nhờ khả năng truy cập từ xa.

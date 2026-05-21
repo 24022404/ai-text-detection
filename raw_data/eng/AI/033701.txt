@@ -1,0 +1,1 @@
+N. Alshuqayran, N. Ali, and R. Evans’s paper, “A systematic mapping study in microservice architecture,” aims to categorize and analyze current research, identifying key topics, trends, challenges, and gaps in the field.

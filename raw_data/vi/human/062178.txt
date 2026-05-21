@@ -1,0 +1,1 @@
+Thiết kế chợ tết lớp Do số lượng lớp trong ứng dụng khá lớn, phần sau đây sẽ trình bày thiết kế chi tiết của một số lớp quan trọng:

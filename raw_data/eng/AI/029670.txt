@@ -1,0 +1,1 @@
+The LogCat Streaming function captures real-time behavior, giving you the option to pause or resume the process using Stop Streaming and Continue Streaming buttons. Each log entry displays specific, detailed contents for review.

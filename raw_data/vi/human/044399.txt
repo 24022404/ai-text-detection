@@ -1,0 +1,1 @@
+Kh người dùng ấn vào nút đăng nhập, website sẽ điều hướng và mở cửa sổ mớ chứa gao vện đăng nhập thường thấy của Google, đi kèm với đó là các chức năng như quên mật khẩu, quên điịa chỉ emal và tạo tài khoản mớ(bao gồm xác mnh 2 bước).

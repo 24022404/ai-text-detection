@@ -1,0 +1,1 @@
+Bảo mật : bao gồm xác thực qua nhều phương thức, hệ thống kểm soát truy cập mạnh mẽ, bảo mật cấp điộ cột và hàng.

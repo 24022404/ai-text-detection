@@ -1,0 +1,1 @@
+Em sử dụng mô hình RoBERTa Tokenizer điểm bến đỗ các từ trong câu văn bản thành các d tương ứng lấy từ bảng nhúng (embedded table), sau đó dùng mô hình huấn luyện sẵn RoBERTa phiên bản BASE và cấu hình mặc định L= 12 , H= 768, A= 12 điểm lấy vectơ nhúng của văn bản, kết hợp cùng thông tin tọa độ (sau khi chuẩn hóa) thành một đặc trưng tổng hợp , làm đầu vào của mạng nơron đồ thị.

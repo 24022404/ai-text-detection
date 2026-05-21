@@ -1,0 +1,1 @@
+Bagdanov, “Rotate your networks: Better weight consolidation and less catastrophic forgetting,” 2018 24th International Conference on Pattern Recognition (ICPR) , pages 2262–2268, 2018.

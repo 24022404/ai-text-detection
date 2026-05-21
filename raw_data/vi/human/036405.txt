@@ -1,0 +1,1 @@
+Compatblty Testng Bảng 4.8 mô tả kết quả kiểm thử ứng dụng trên một số thiết bị khác nhau 4.4.2 Black Box Testing Bảng 4.9 là kết quả kiểm thử hộp đen cho nhóm chức năng lập kế hoạch dự án, và bảng 4.10 là kết quả kiểm thử hộp đen cho nhóm chức năng quản lý các cột mốc.

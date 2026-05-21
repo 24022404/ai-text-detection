@@ -1,0 +1,1 @@
+Trạng thái người dùng thay đổi, người dùng vừa được Admin cập nhật trạng thái nhận được thông báo từ hệ thống Bảng 4.23: Kịch bản kiểm thử hệ thống Bảng 4.24 là kết quả kiểm thử hệ thống:

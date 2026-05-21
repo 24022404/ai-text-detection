@@ -1,0 +1,1 @@
+Despite its many advantages, Tomcat has some limitations that users should be aware of. For instance, it may not be suitable for high-traffic websites that requireadvanced load balancing and failover capabilities. Additionally, users need to en sure that their web applications are compatible with the version of Tomcat they are using.

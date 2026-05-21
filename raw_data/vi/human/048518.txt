@@ -1,0 +1,1 @@
+Ga đoạn học máy truyền thống (19912001) : Trong giai đoạn này, các kỹ thuật học máy truyền thống như Eigenfaces, Fisherfaces, và Support Vector Machines (SVMs) điã điược sử dụng điể phân loạ khuôn mặt. Một bước đột phá quan trọng là việc ra đời của cơ sở dữ liệu khuôn mặt FERET, giúp chuẩn hóa và tăng cường nghiên cứu trong lĩnh vực này.

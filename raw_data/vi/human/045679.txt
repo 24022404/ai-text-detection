@@ -1,0 +1,1 @@
+Với các độ lớn khác nhau của mô hình, kết quả thử nghiệm cho thấy hiệu năng tăng lên khi ta tăng kích thước của mô hình. Trong đó, mức kích thước vớ 5 lớp ẩn gồm 128 đơn vị ẩn là một mốc giới hạn mà từ đó kh tăng kích thước mô hình hiệu năng không có nhiều thay đổi.

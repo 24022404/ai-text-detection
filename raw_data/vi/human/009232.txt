@@ -1,0 +1,1 @@
+Tầng tích chập (Convolution layer) : Đây là được co như là tầng quan trọng nhất, tầng quan trọng nhất của mạng tích chập. Nhiệm vụ của tầng này là học được những bộ lọc khác nhau sao cho có thể nhận biểu diễn được những đặc trưng của vật thể trong ảnh dưới dạng vectơ mà sau máy tính có thể hiểu được.

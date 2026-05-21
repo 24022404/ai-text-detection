@@ -1,0 +1,1 @@
+Use case update store name The supplier has a store name and website URL updated on the website. This information will appear in the view of the distributor, retailer, and customer.

@@ -1,0 +1,1 @@
+Ở máy chủ Linux, ta có thể sử dụng /etc/passwd, /etc/hosts. Tệp /etc/passwd chứa thông tin cơ bản về tài khoản người dùng, còn tệp /etc/hosts chứa thông tin về các máy chủ và địa chỉ IP của chúng.

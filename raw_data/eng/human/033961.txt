@@ -1,0 +1,1 @@
+Unfortunately, due to the scarity of multi-document datasets for Vietnamese, there is currently no Vietnamese multi-document unlabeled dataset. Addressing this limitation requires the collection or construction of a large Vietnamese multi-document dataset.

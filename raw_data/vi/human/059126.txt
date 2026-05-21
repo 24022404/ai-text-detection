@@ -1,0 +1,1 @@
+Bên trên là những mô tả tổng quan về hệ thống bao gồm các tác nhân và các use case chính. Phần sau em sẽ trình bày cho tết các use case mức cao bằng các biểu đồ use case phân rã.

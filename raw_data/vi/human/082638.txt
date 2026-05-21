@@ -1,0 +1,1 @@
+–Use Case này mô tả cách thức quản trị viên duyệt danh sách các bản ghi có trong hệ thống –Mục đích giúp cho quản trị viên có thể quản lý, theo dõi và tương tác với dữ liệu trong hệ thống –“Bản ghi” ở đây được hiểu là các mục dữ liệu mà quản trị viên có thể quản lý bao gồm: dữ liệu tài khoản người dùng, dữ liệu và vết, dữ liệu và dịch, dữ liệu danh mục bài viết, . . .

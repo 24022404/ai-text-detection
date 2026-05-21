@@ -1,0 +1,1 @@
+Tạ bước huấn luyện, dữ liệu là các câu văn mang tính phản hồi và đánh giá. Đầu tên các câu văn này sẽ được đưa vào tiền xử lý dữ liệu, tách từ tiếng việt. Sau bước tiền xử lý dữ liệu và tách từ, các câu văn sẽ được đưa vào mô hình phân tích cảm xúc để huấn luyện mô hình. Trong ĐATN này, em hướng tới sử dụng ha mô hình cả học máy là SVM và học sâu là dùng PhoBERT.

@@ -1,0 +1,1 @@
+Chức năng thống nhất dữ lệu người dùng Hình 4.18: Màn hình thể hiện dữ lệu điã điược thống nhất của người dùng Hình 4.18 Sau khi khách hàng tên hàng thống nhất dữ lệu người dùng, dữ lệu của từng người dùng sẽ được hiển thị.

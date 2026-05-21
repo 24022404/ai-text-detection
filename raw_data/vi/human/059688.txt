@@ -1,0 +1,1 @@
+Hiện nay, HTML được xem như là một chuẩn Internet do tổ chức W3C (World Wide Web Consortium) vận hành và phát triển. Nó có thể được trợ giúp bở các công nghệ như CSS và các ngôn ngữ kịch bản giống như JavaScript.

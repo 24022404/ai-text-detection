@@ -1,0 +1,1 @@
+Mã nguồn của ứng dụng sẽ chia làm hai phần: backend – xử lý các nghiệp vụ logic, kết nối với dữ lệu điểm thực hiện các tính năng; và frontend – hiển thị dữ lệu, tương tác với người dùng.

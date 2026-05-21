@@ -1,0 +1,1 @@
+Nguyên lý hoạt động Hình 3.6: Sơ đồ kết nối cảm biến DHT11 với v xử lý Để có thể giao tiếp với DHT11 theo chuẩn 1 chân vi xử lý thực hiện theo 2 bước:

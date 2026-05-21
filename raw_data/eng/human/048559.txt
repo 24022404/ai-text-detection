@@ -1,0 +1,1 @@
+Event-Driven Architecture: JavaScript is widely used for event-driven programming, where actions like button clicks trigger events that execute corre sponding functions.

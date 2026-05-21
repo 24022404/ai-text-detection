@@ -1,0 +1,1 @@
+Yêu cầu về khả năng bảo trì và mở rộng Hệ thống cần được thiết kế và phát triển linh hoạt đảm bảo cho việc vận hành, bảo trì dễ dàng.

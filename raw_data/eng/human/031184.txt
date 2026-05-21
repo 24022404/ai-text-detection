@@ -1,0 +1,1 @@
+N. Aletras and M. Stevenson, “Evaluating topic coherence using distribu tional semantics,” in Proceedings of the 10th international conference on computational semantics (IWCS 2013)–Long Papers , 2013, pp. 13–22.

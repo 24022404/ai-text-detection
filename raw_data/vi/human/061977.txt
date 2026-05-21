@@ -1,0 +1,1 @@
+Nhu cầu lập lịch các trình tính toán chỉ báo Như vậy, chức năng tính toán các chỉ báo điã điược trình bày thông qua vệc mô tả các bước và luồng thực hiện cũng như kèm theo các ví dụ. Nhưng không chỉ điảm bảo tính toán, phân hệ còn cần tổ chức lập lịch các trình tính toán bở những lý do sau điây:

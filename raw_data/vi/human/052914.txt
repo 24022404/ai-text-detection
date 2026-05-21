@@ -1,0 +1,1 @@
+Độc lập với giao diện người dùng: giao diện người dùng có thể thay đổi dễ dàng, mà không ảnh hưởng đến phần còn lại của hệ thống. Chẳng hạn, một giao diện web có thể được thay đổi thành giao diện dòng lệnh, mà không làm thay đổi business rule.

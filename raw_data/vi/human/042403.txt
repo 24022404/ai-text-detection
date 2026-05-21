@@ -1,0 +1,1 @@
+Vớ việc cho phép các lập trình viên sử dụng Javascript để vết cả client side và server side code, cùng với đó là khả năng vết các ứng dụng web với hiệu suất và kiểm soát toán hơn, NodeJs mở ra một con đường mới giúp các lập trình viên dễ dàng hơn trong việc xây dựng các ứng dụng web động, đặc biệt là các ứng dụng web đơn trang (single page application).

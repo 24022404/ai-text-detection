@@ -1,0 +1,1 @@
+The journey of this project has underscored the importance of combining knowledge and skills from various discips, spanning from data collection and integra tion, statistical analysis to predictive modeling. It has also encountered challenges, particularly in optimizing algorithm execution time and ensuring the stability of the application.

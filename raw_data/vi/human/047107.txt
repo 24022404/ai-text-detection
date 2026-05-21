@@ -1,0 +1,1 @@
+Các tính năng trong hệ thống quản lý gửi xe cũng mang khuôn dạng của các RESTful API  và javascript gần như là ngôn ngữ xử lý JSON dễ dàng nhất. Đều này cũng dẫn đến việc đồng nhất ngôn ngữ lập trình javascript trong cùng một dự án.

@@ -1,0 +1,1 @@
+The RFID system’s antenna-based design has more requirements than the RFID reader-based design. The antenna is typically stand-alone and attached for long range applications, however it is integrated into the reader for close range (LF, HF frequencies) applications like access control. includes copper cable reader for protected impedance.

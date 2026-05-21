@@ -1,0 +1,1 @@
+Input/OutputInput: The analysis starts with the input of a signed file (e.g., an APK, exe cutable, or document) and its associated certificate. The certificate typically contains the public key used to verify the authenticity of the signer.

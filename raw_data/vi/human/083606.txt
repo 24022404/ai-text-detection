@@ -1,0 +1,1 @@
+STT Tên trường Kiểu dữ lệu Khóa Mô tả 1 time date RPG Thờ gan 2 browser tint PRI Mã trình duyệt 3 device varchar(2) PRI Loại thiết bị 4 user nt Số người dùng 5 vent Số lượt xem Bảng 3.3: Bảng browser_analyss Bảng os_analyss lưu trữ dữ lệu phân tích lưu lượng truy cập theo hệ điều hành, là nguồn dữ lệu cho biểu đồ 3 (bảng 3.1).

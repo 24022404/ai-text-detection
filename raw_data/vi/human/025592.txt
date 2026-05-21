@@ -1,0 +1,1 @@
+grep "gen" "mutaton_db.tsv" > "output_gen.tsv" Trong đió, gen là tên gen cần trích xuất; mutaton_db.tsv là file cơ sở dữ liệu điột bến; output_gen.tsv là file TSV tương ứng với gen cần trích xuất.

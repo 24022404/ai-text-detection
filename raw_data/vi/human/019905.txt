@@ -1,0 +1,1 @@
+attachment: dữ liệu video/file tải lên file Key: ID của file extension: phần mở rộng trong tên file Method: Không Start: Không, Thiết kế lớp QuestService Hình 4.12: Thiết kế lớp Quest Service Attribute: Không Operation:

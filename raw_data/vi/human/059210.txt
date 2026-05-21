@@ -1,0 +1,1 @@
+Tích hợp với các thư viện phổ biến: extJS được tích hợp với các thư viện phổ bến như TypeORM, Mongoose, Socket.o và GraphQL, giúp phát triển ứng dụng nhanh chóng hơn.

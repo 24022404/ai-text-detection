@@ -1,0 +1,1 @@
+Spark tuân theo kến trúc MasterSlave nên một ứng dụng Spark điều có một chương trình trình điều khiển (driver program) và nhiều trình thực thi (executors) .

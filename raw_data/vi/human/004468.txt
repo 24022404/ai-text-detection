@@ -1,0 +1,1 @@
+Là biểu đồ hình tròn thể hiện sự phân bố lượng người dùng/lượt xem theo loại thiết bị sử người dùng sử dụng. Có hai loại thiết bị được định nghĩa là điện thoại (MB) và máy tính (PC). Xét theo lượng người dùng hay số lượt xem thì thiết bị điện thoại vẫn chiếm tỷ lệ lớn hơn(>50%).

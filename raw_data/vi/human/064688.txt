@@ -1,0 +1,1 @@
+Trong Chương 3, điã trình bày về các công nghệ được sử dụng trong quá trình phát triển ứng dụng. Những công nghệ này sẽ giúp định hình cơ sở kỹ thuật và các tính năng cụ thể của ứng dụng. Chương này cũng đề cập đến các giải pháp kỹ thuật cho từng chức năng của ứng dụng và các lợi ích của việc sử dụng các công nghệ này.

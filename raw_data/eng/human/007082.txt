@@ -1,0 +1,1 @@
+Y . Zhang and M. S. Waterman, “An eulerian path approach to global multiple alignment for dna sequences,” Journal of Computational Biology , vol. 10, no. 6, pp. 803–819, 2003.

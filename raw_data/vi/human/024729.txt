@@ -1,0 +1,1 @@
+Lon nước, chai nước, Hộp sữa, hộp hình trụ và gói snack. Bộ dữ liệu được đẩy lên Roboflow để gán nhãn.

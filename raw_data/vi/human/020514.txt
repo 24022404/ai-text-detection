@@ -1,0 +1,1 @@
+STT Tên trường Kiểu dữ lệu Khóa Mô tả 1 time date RPG Thờ gan 2 gender tinyint PRI Mã giới tính 3 device varchar(2) PRI Loại thiết bị 4 user nt Số người dùng 5 vent Số lượt xem Bảng 3.7: Bảng gender_analyss Bảng tme_frame_analyss lưu trữ dữ lệu phân tích lưu lượng truy cập theo khung giờ trong ngày, là nguồn dữ lệu cho biểu đồ 8 (bảng 3.1).

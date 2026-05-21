@@ -1,0 +1,1 @@
+The analysis examines the application's communication domains, checking whether they appear on blacklists or have connections to malicious activities, aiming to enhance security and safety.

@@ -1,0 +1,1 @@
+Since both the API package and Infrastructure package refer to ApplicationCore, they can access both the Interfaces and the Entities.

@@ -1,0 +1,5 @@
+Mô hình mô phỏng dòng chảy trên lưu vực sông Trà Khúc đang được nghiên cứu và xây dựng để đánh giá tác động của các yếu tố môi trường lên dòng chảy sông. Mô hình này sẽ giúp dự đoán và phân tích dòng chảy sông trong các điều kiện khác nhau, bao gồm cả các tình huống khẩn cấp như lũ lụt.
+
+Mục tiêu của nghiên cứu này là xây dựng một mô hình mô phỏng dòng chảy trên lưu vực sông Trà Khúc có khả năng tham gia vào việc vận hành hệ thống dự báo và cảnh báo lũ lụt. Mô hình sẽ được xây dựng dựa trên các dữ liệu về địa hình, khí hậu, và các yếu tố môi trường khác.
+
+Nghiên cứu này sẽ giúp cung cấp thông tin chính xác và kịp thời về dòng chảy sông, giúp các cơ quan chức năng và người dân có thể chuẩn bị và ứng phó với các tình huống khẩn cấp liên quan đến lũ lụt.

@@ -1,0 +1,1 @@
+Hiệu năng của NodeJS phù hợp với các hệ thống phả xử lý nhiều request cùng một lúc. Với mô hình non blocking NodeJs giúp tiết kệm khoảng thờ gan đáng kể thay vì request phải xếp hàng chờ đợi các request trước thực hiện xong.

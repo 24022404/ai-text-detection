@@ -1,0 +1,1 @@
+Một điểm khác biệt chính giữa PostgreSQL và các hệ thống cơ sở dữ liệu quan hệ tiêu chuẩn là PostgreSQL lưu trữ nhiều thông tin hơn trong danh mục của nó:

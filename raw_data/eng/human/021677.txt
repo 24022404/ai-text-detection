@@ -1,0 +1,1 @@
+k. xu, X. Jiang and T. Sun, “Anomaly detection based on stacked sparse coding with intraframe classification strategy,” IEEE Transactions on Multimedia , jourvol PP,pages 1–1, march 2018. DOI:10.1109/TMM.2018.2818942 .

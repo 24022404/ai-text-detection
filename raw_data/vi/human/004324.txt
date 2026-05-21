@@ -1,0 +1,1 @@
+(1) Quản trị viên thao tác bấm vào quản lý danh mục, nhà cung cấp, thẻ sản phẩm, đơn vị tính để cấu hình cho sản phẩm.

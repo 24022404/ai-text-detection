@@ -1,0 +1,1 @@
+Tìm điểm trung tâm gần nhất vớ mỗ dữ liệu và gán điểm vào cụm của điểm trung tâm đo 3. Kiểm tra không có sự khác biệt khi gán nhãn cho các dữ liệu so với trước khi gán nhãn thì dừng thuật toán.

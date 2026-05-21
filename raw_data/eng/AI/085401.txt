@@ -1,0 +1,9 @@
+This paper aims to explore the generalization capabilities of Deep Reinforcement Learning (DRL) agents by leveraging Procedural Level Generation (PLG) as a tool to diversify training environments. Although DRL has achieved remarkable performance in specific tasks, its ability to generalize across multiple scenarios remains limited.
+
+Methods/Approach: We introduce a novel framework that integrates PLG with DRL, allowing for dynamic creation of diverse and challenging training environments. Our approach systematically generates a wide range of levels, each designed to test various aspects of agent learning and adaptability. We utilize popular DRL algorithms, such as Proximal Policy Optimization (PPO) and Deep Q-Networks (DQN), to train agents across these procedurally generated environments.
+
+Results/Findings: Our findings demonstrate that DRL agents trained with PLG environments exhibit significantly improved generalization to unseen levels compared to those trained in static environments. Quantitative analysis reveals enhanced performance in terms of adaptability and robustness across a variety of testing conditions. We provide comparative evaluations showing the superiority of our approach over traditional training methods in terms of generalization metrics.
+
+Conclusion/Implications: The integration of PLG into DRL training processes opens up new possibilities for developing more versatile AI systems capable of operating in unpredictable and varied real-world conditions. This research contributes to the field by demonstrating a scalable and effective method to enhance the generalization abilities of DRL agents. Potential applications include video games, autonomous navigation, and robotics, where adaptability to novel situations is crucial.
+
+Keywords: Deep Reinforcement Learning, Generalization, Procedural Level Generation, Proximal Policy Optimization, Deep Q-Networks, Adaptability, AI Systems.

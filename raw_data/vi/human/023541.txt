@@ -1,0 +1,1 @@
+Hàm kích hoạt nhị phân: là một hàm kích hoạt dựa trên ngưỡng. Nếu một giá trị đầu vào cao hơn hoặc thấp hơn một ngưỡng cho trước, mạng nơron sẽ được kích hoạt và gửi tính hiệu chính xác điến lớp tiếp theo. Đầu ra của hàm kích hoạt nhị phân chỉ có hai giá trị. Vị vậy trong một số bài toán đa chiều thì hàm này không thể giải quyết được.

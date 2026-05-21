@@ -1,0 +1,1 @@
+Đồ án xây dựng hệ thống hỗ trợ cho các bác sĩ chẩn đoán, phát hiện biến thể trên 50 gen liên quan tới bệnh ung thư, đồng thờ chú thích đi một bến và điều xuất thuốc điều trị nếu có một cách dễ dàng và chính xác.

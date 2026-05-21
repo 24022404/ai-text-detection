@@ -1,0 +1,1 @@
+Các dịch vụ của frebase hoàn toàn mễn phí, tuy nhên bạn cần phải trả thêm tền nếu muốn nâng cấp lên. Đều này bạn nên cân nhắc nếu muốn xây dựng một ứng dụng lớn sử dụng phần backend là frebase, vì cá gá kh muốn nâng cấp còn khá điắt điỏ so với việc xây dựng backend truyền thống.

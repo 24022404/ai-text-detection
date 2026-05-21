@@ -1,0 +1,1 @@
+Hỗ trợ SEO: So với một số framework khác, React có một tốt hơn trong việc hỗ trợ cho việc tối ưu hóa cho các công cụ tìm kiếm.

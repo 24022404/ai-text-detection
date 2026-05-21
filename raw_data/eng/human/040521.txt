@@ -1,0 +1,1 @@
+Closures: JavaScript supports closures, which allow functions to remember and access variables from their outer scope, even after the outer function has completed.

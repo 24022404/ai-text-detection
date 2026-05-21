@@ -1,0 +1,1 @@
+10 Đặc tả use case  Xem bà vết Tên ca sử dụng: Xem bà vết ID:10 Tác nhân chính: Khách hàng, thành viên Mục điích: Khách hàng hoặc thành viên muốn xem bà vết Mô tả: Ca sử dung mô tả khách hàng hoặc thành viên xem bà vết Kịch hoạt: Khách hàng hoặc thành viên chọn xem các bà vết Luồng sự kện chính:

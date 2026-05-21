@@ -1,0 +1,1 @@
+< h t t p : / / www. semantic web . org / a d m i n i s t r a t o r / o n t o l o g i e s / 2 0 2 2 / 4 / u n t i t l e d −ontology −28#> SELECT DISTINCT ?name ? location ? time ?  n f o WHERE ?x ex : tenLeHo ?name ; ex : daCh ? location ; ex : thonG  a n ? time ; ex : moTa ?  n f o .

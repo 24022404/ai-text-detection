@@ -1,0 +1,1 @@
+–Move Changed Event: Sự kiện được kích hoạt kh hướng di chuyển của nhân vật thay đổi –Drecton Changed Event: Sự kiện được kích hoạt kh hướng tấn công của nhân vật thay đổi –HealthStat: chứa thống tôn lượng máu của nhân vật.

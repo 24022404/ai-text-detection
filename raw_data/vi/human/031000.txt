@@ -1,0 +1,1 @@
+Nó sử dụng cách tiếp cận "bao gồm tất cả tính năng" đối với việc scraping, có nghĩa là nó xử lý nhiều chức năng chung mà tất cả các trình scrapper cần điểm các nhà phát triển có thể sử dụng ngay lập tức. Kiến trúc của Scrapy được miêu tả như hình 2.10 gồm có các thành phần sau:

@@ -1,0 +1,1 @@
+SpellSinger Class: component gắn vào gameobject có chứa animation của nhân vật điển quản lý xe lúc nào thì spell được bắn ra, vị trí bắn ở đâu.

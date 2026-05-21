@@ -1,0 +1,1 @@
+J. Ainslie, S. Ontanon, C. Alberti andothers , “ETC: Encoding long and structured inputs in transformers,” inProceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) On:

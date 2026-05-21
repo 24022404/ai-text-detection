@@ -1,0 +1,1 @@
+Phương pháp thử nghệm trong đồ án dựa trên phương pháp điã điược điề xuất trong bà báo "Self Pretranng wth Masked Autoencoders for Medcal Image Classfcaton and Segmentaton" của Zhou và cộng sự (2022) . Phương pháp này bao gồm ha bước:

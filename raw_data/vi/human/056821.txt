@@ -1,0 +1,1 @@
+Cooke được chia thành 2 loại: first party cookies: do trang web người dùng truy cập tạo ra, trang web được hiển thị trên thanh địa chỉ. Cooke bên thứ nhất được thu thập bổ Session Cookie và Persistent Cookie. Vớ first party cookie, các trang web có thể duy trì trạng thái đăng nhập, ghi nhớ tùy chọn và cung cấp nội dung phù hợp với vị trí và thói quen của người dùng.

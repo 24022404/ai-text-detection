@@ -1,0 +1,1 @@
+In step 4 of the main scenario, if the account’s profile is invalid, the administrator will delete that account from the system.

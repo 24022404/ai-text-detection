@@ -1,0 +1,1 @@
+Có thể lấy data từ các trường ảo nhanh chóng (đã nêu ở vấn đề bài toán). Thao tác lấy dữ liệu đồng thời nhiều thành phần trong đơn hàng mà ko ảnh hưởng tới hiệu năng của việc tìm kiếm.

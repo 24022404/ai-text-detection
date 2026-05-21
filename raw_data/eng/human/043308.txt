@@ -1,0 +1,1 @@
+Training details . The method is implemented with the PyTorch library on NVIDIA GeForce RTX 4090. We utilize the stochastic gradient descent as our optimizer to train the segmentation network, where the momentum is 0.9and the weight decay is10−4. We use polynomial learning rate scheduling with a power of 0.9, with the iterations.

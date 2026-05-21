@@ -1,0 +1,1 @@
+UserSee list of comments in a post Comment a post Edit commentDelete comment Like/Unlike comment Reply to comment Figure 2.3: Use case detail: Manage comments in a post diagram2.1.4 Use case detail: Message other users The figure 2.4 shows the detailed use case of Message other users diagram.

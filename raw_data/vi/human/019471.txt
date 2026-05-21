@@ -1,0 +1,1 @@
+Mô hình khuôn mặt 3D: Vớ 3DMM hình dạng của khuôn mặt (Shape) Và bề mặt (Texture) của khuôn mặt Được biểu diễn ở:Trong đó ¯Và¯Là giá trị trung bình của hình dạng và bề mặt của khuôn mặt.

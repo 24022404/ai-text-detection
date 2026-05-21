@@ -1,0 +1,1 @@
+From the analysis of the above applications and platforms, I can draw the agents and functions according to the agent required in my system:

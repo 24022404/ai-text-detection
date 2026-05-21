@@ -1,0 +1,1 @@
+3a. Thông tin đăng ký lỗ 3b. Hệ thống thông báo lỗ và yêu cầu nhập lạ thông tin Bảng 2.2: Bảng Đặc tả use case  Đăng ký tài khỏan 2.3.2 Đặc tả use case  Đăng nhập Tên ca sử dụng: Đăng nhập ID:2 Tác nhân chính: Thành viên Mục điích: Kh thành viên muốn đăng nhập Mô tả: Ca sử dung này mô tả việc đăng nhập Kịch hoạt: Thành viên lựa chọn đăng nhập Luồng sự kện chính:

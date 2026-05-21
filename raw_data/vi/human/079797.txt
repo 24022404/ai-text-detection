@@ -1,0 +1,1 @@
+Như vậy, trong chương 2 này em đã trình bày về kết quả khảo sát hiện trạng và rút ra những thông tin và yêu cầu chức năng, phi chức năng cho hệ thống của mình.

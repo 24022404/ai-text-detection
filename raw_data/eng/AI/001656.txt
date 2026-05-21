@@ -1,0 +1,9 @@
+Objective: Graph Neural Networks (GNNs) have demonstrated strong performance for node classification in static, closed-world settings. However, many real-world applications—such as social networks, citation graphs, and knowledge bases—evolve over time, introducing new node types and relationships that traditional GNNs cannot accommodate without full retraining. This paper addresses the open-world node classification problem by developing a lifelong learning framework for GNNs that incrementally incorporates novel classes while retaining knowledge of previously learned ones.
+
+Methods: We propose LLGNN, a continual learning architecture that integrates (1) a memory-augmented replay module to selectively store representative node embeddings from past tasks, (2) a dynamic graph expansion mechanism that updates the message-passing layers to incorporate newly added nodes and edges, and (3) a knowledge distillation loss to mitigate catastrophic forgetting. The system operates in two phases for each arriving batch of novel-class data: an update phase that efficiently fine-tunes the GNN and a consolidation phase that replays stored embeddings to reinforce prior knowledge.
+
+Results: Experiments on evolving citation and social network benchmarks show that LLGNN outperforms static retraining and state-of-the-art continual learning baselines by 8–12% in average F1 score over sequential tasks. Ablation studies confirm the complementary benefits of memory replay and distillation in reducing forgetting and improving adaption.
+
+Conclusion: LLGNN is the first scalable solution for open-world node classification under continual graph evolution. Its modular design enables integration with existing GNN architectures, offering a practical pathway for deploying long-lived, adaptive graph analytics in dynamic environments.
+
+Keywords: lifelong learning, graph neural networks, open-world classification, continual learning, node classification

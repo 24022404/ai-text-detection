@@ -1,0 +1,1 @@
+This approach uses Wi-Fi or Bluetooth signalsto determine the user’s location automatically. This approach can be consid ered a pseudo GPS, as it allows real-time tracking and provides a higher level of convenience, but its accuracy is not as high as manual indoor positioning.

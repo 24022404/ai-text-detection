@@ -1,0 +1,1 @@
+Trong phần này em sẽ tiến hành cài đặt game sử dụng công cụ có sẵn của Unity engine. sau đây là các bước ch tết:

@@ -1,0 +1,1 @@
+Tích hợp dễ dàng vào HTML và CSS: JavaScript tích hợp dễ dàng vào mã HTML và CSS của trang web, giúp thêm tính năng và tương tác một cách đơn giản.

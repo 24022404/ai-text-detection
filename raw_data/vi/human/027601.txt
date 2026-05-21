@@ -1,0 +1,1 @@
+Gả pháp em đưa ra đó chính là framework extJS. Đây là một framework cho phía frontend nhưng lạ có thể sử dụng mặc định SSG viết tắt của Static Site Generator là một dạng prerendering khá giống với SSR nhưng có cả tên giúp cho hiệu năng website tốt hơn, và tốc độ nhanh hơn. Đây là một công nghệ do extJS đưa ra.

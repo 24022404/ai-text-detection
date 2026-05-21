@@ -1,0 +1,1 @@
+R. S. Christof Ferreira Torres Julian Sch ¨utte, “Osiris: Hunting for integer bugs in ethereum smart contracts.,” Proceedings of the 34th Annual Computer Security Applications Conference ,pages 664–676, 2018.

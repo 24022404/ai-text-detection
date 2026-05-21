@@ -1,0 +1,1 @@
+Besides, when you don’t make the variable names final or enum, the code can become confusing and difficult to maintain. When the value of a variable can change, especially in different methods or in iterations, this can lead to undetectable bugs or unexpected behaviors.

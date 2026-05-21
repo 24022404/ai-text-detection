@@ -1,0 +1,1 @@
+ST approaches use a teacher network M′=G′◦E′to create pseudo-labels for the target domain data in order to more effectively transfer knowledge from the source to the target domain.

@@ -1,0 +1,1 @@
+Claim 2. Every balance vertex in Phas their quantity of in-edges and out-edges inPequal, even if one of them is the start or end vertex.

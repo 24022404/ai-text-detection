@@ -1,0 +1,1 @@
+C. Berner, G. Brockman, B. Chan, et al. , “Dota 2 wtf large scale deep reinforcement learning,” arXiv preprint arXiv:1912.06680 , 2019.

@@ -1,0 +1,1 @@
+Tính năng quản lý người dùng: Ứng dụng cho phép người quản trị đơn vị thêm, sửa, mở tài khoản, khóa tài khoản, cập nhật nhân viên một cách dễ dàng sinh hoạt.

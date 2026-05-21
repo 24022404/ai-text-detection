@@ -1,0 +1,1 @@
+Socket.IO primarily uses the WebSocket protocol with polling as a fallback option, while providing the same interface. Although it can be used simply as a wrapper for WebSockets, it provides many more features, including broadcasting to multiple sockets, storing data associated with each client, and asynchronous I/O.

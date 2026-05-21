@@ -1,0 +1,1 @@
+Biểu đồ use case tổng quát Hệ thống giao đồ ăn gồm nhiều thành phần chức năng khác nhau. Hình 2.1 mô tả tổng quan toàn bộ chức năng của hệ thống.Hình 2.1: Biểu đồ use case tổng quan Hệ thống gồm có 4 tác nhân là người mua, người bán, shopper, quản trị viên.

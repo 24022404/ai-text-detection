@@ -1,0 +1,1 @@
+Shifting the responsibility for creating encKey and assignKey to the smart contract eliminates the necessity for advanced nodes to handle consensus, reducing complexity otherwise managed by tools such as Web3Auth.

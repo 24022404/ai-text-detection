@@ -1,0 +1,1 @@
+util: common utils( operations with redis,..) dto: This only contain data, not business logic. In this system, when we get result from DB, data will tranfer to store in DTO.

@@ -1,0 +1,1 @@
+The Pool Manager library enables users to pre-cache pools, observe the quantity and information of each pool within the managing object, and conveniently handle pool usage.

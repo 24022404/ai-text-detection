@@ -1,0 +1,1 @@
+T. Mikolov, I. Sutskever, K. Chen, G. S. Corrado andJ. Dean, “Distributed representations of words and phrases and their compositionality,” ArXiv , jourvol abs/1310.4546, 2013.

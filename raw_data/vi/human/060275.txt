@@ -1,0 +1,1 @@
+Ứng dụng của em được triển khai trên nền tảng ubuntu cùng với nginx làm webserver, cho tết như sau:

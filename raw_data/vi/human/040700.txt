@@ -1,0 +1,1 @@
+Nghiên cứu này sử dụng phương pháp ph ần tử hữu hạn (PTHH) 3D để phân tích ứng suất và biến dạng củ a móng cọc bê tông cố t thép (BTCT) cho công trình dân d ụng. Kết quả mô phỏng cho thấy móng cọc bê tông c ốt thép có đài móng kích thước 2,0m x 2,0m trên 4 cọc có tiết diện 0,3m x 0,3m, chi ều dài 12m, ch ịu tải trọng tập trung và đúng tâm 1000kN có độ lún là 20,24mm.

@@ -1,0 +1,9 @@
+Objective: Generating realistic human face images that accurately reflect specified attributes—such as age, expression, and hairstyle—remains a critical challenge in computer vision. This paper presents an Attributes Aware Face Generation framework based on Generative Adversarial Networks (AAFG-GAN) to improve conditional face synthesis by explicitly modeling attribute-conditional distributions.
+
+Methods/Approach: AAFG-GAN integrates a novel attribute embedding module that encodes discrete and continuous facial attributes into a unified latent representation. The generator employs adaptive instance normalization layers to inject attribute embeddings at multiple scales, enabling fine-grained control over attribute expression. A dual-path discriminator assesses both global image realism and local attribute consistency, using an auxiliary attribute classifier to enforce correct attribute manifestation.
+
+Results/Findings: Experiments on the CelebA and CelebA-HQ datasets demonstrate that AAFG-GAN achieves state-of-the-art performance, with a Fréchet Inception Distance (FID) reduction of 15% compared to leading conditional GAN baselines. Attribute classification accuracy on generated images improves by 12%, confirming stronger adherence to target attributes. Qualitative results show sharper facial details and fewer attribute entanglement artifacts.
+
+Conclusion/Implications: By combining multi-scale attribute injection and dual-path adversarial training, AAFG-GAN delivers high-quality, attribute-accurate face synthesis. This framework can benefit applications in virtual avatar creation, digital entertainment, and data augmentation for facial analysis systems.  
+
+Keywords: Face generation, Conditional GAN, Attribute embedding, Image synthesis, Deep learning.

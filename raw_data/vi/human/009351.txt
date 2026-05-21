@@ -1,0 +1,1 @@
+Simple Storage Service S3: là dịch vụ lưu trữ và trích xuất dữ lệu. S3 lưu dữ lệu dưới dạng các đối tượng, đặt trong các bucket. Từ các bucket này, người dùng có thể có các phương thức hay được cung cấp các API để thêm, sửa, xóa dữ lệu bên trong. S3 ưu việt về tất cả các đặc điểm: tốc độ, tính sẵn sàng, tính khả mở.

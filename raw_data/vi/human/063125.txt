@@ -1,0 +1,1 @@
+Thiết kế giao diện Trong phần này em sẽ mô tả giao diện của 2 trang web dành cho bên quản trị vện, đại diện trung tâm và bên nhà hảo tâm. Các hình vẽ thiết kế sẽ được vẽ dưới dạng Low Fidelity Wireframes, là một bản phác thảo thô diễn tả bố cục tổng quát của website.

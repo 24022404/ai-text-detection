@@ -1,0 +1,1 @@
+Trong khuôn khổ đồ án, em có sử dụng cơ sở dữ liệu COSMIC như đã trình bày ở chương 2. Với tập dữ liệu hoàn chỉnh về đột biến và dữ liệu thuốc điều trị đích cho các bệnh gây đột biến liên quan, mỗ đột biến được biểu diễn gắn liền với một định danh HGVS. Vì vậy, để dễ dàng thuận tiện trong tra cứu, cần thực hiện biểu diễn đột biến theo định dạng chuẩn HGVS.

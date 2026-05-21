@@ -1,0 +1,1 @@
+Đều này càng làm tăng thêm khó khăn cho việc nhận dạng khuôn mặt trong các mẫu sau này, khi mà các yếu tố này có thể đã thay đổi đáng kể so với mẫu huấn luyện.

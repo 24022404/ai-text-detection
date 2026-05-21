@@ -1,0 +1,9 @@
+This study investigates the performance variability of geometric features when subjected to downsampling within EEG (electroencephalogram) classification tasks. The aim is to understand how reduction in data resolution impacts the efficacy of geometric feature-based EEG analysis.
+
+Methods/Approach: We employed a series of downsampling techniques on EEG datasets and extracted geometric features, including curvature, torsion, and fractal dimensions, which are crucial for signal characterization. These features were then utilized in classification tasks through ensemble learning models, comparing their performance against traditional frequency and time-domain features.
+
+Results/Findings: Our experiments reveal that geometric features maintain classification accuracy at moderate downsampling rates, outperforming some traditional features in maintaining signal integrity. However, significant performance degradation was observed beyond critical downsampling thresholds. Comparative analysis demonstrates the robustness of geometric features in specific ranges of resolution reduction.
+
+Conclusion/Implications: The findings indicate the potential of geometric features as reliable indicators in scenarios where data downsampling is necessary, offering a viable option for real-time or resource-constrained EEG applications. This research contributes to the understanding of feature resilience in signal processing, paving the way for improved EEG classification systems in mobile and portable diagnostic technology. Key insights include the adaptability of geometric features, promising enhanced performance in future EEG-centered machine learning projects.
+
+Key Keywords: EEG classification, geometric features, downsampling, ensemble learning, signal processing, data resolution, classification accuracy.

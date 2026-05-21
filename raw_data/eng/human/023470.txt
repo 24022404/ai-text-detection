@@ -1,0 +1,1 @@
+After that, to predict if the second sentences is indeed the subsequent sentence, they perform the following steps:•The entire input sequence is fed into the Transformer model.

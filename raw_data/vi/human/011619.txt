@@ -1,0 +1,1 @@
+(a)Reactjs là một thư viện Javascript đang nổi lên trong những năm gần đây với xu hướng Single Page Application . Trong khi những framework khác cố gắng hướng đến một mô hình MVC hoàn thiện thì React nổi bật với sự đơn giản và dễ dàng phố hợp với những thư viện Javascript khác.

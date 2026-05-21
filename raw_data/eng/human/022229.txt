@@ -1,0 +1,1 @@
+It can be used with any JavaScript frameworks and libraries, such as Angular and VueJS, to make the application more fantastic and responsive. Material UI is one of the leading React User Interface frameworks, with over 35,000 stars onGitHub.

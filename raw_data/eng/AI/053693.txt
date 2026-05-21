@@ -1,0 +1,1 @@
+Applying new technology to a monolithic application can be extremely challenging, as it often involves the difficult task of rewriting the entire application codebase.

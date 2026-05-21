@@ -1,0 +1,1 @@
+Nó cho phép giao tiếp thờ gan thực và liên tục giữa các thành phần khác nhau của ứng dụng web mà không cần cập nhật trang hoặc tả lạ.

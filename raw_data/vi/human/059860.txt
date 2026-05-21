@@ -1,0 +1,1 @@
+Chủ cửa hàng bao gồm các chức năng của nhân viên và thêm chức năng quản lý nhân viên, quản lý số dư và đăng ký cửa hàng. Chủ cửa hàng sẽ đăng nhập vào hệ thống điểm quản lý các chức năng này.

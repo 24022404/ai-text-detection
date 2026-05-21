@@ -1,0 +1,1 @@
+The analysis focuses on permissions frequently exploited by malware, identifying ’android.permission.READ_SMS’ and ’android.permission.SEND_SMS’ as the most commonly abused. It examines a set of 24 malware-associated permissions and 42 additional permissions, such as ’android.permission.BLUETOOTH’ and ’android.permission.ACCESS_BACKGROUND_LOCATION’, as essential input data.

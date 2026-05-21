@@ -1,0 +1,1 @@
+Chương 4 của đồ án sẽ trình bày về các thiết kế chi tiết của hệ thống như phân tích chức năng, thiết kế cơ sở dữ lệu, kiểm thử và triển khai hệ thống.

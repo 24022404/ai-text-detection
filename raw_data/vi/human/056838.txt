@@ -1,0 +1,1 @@
+Bootstrap được tạo ra từ các mã nguồn mở cho phép desgner lnh hoạt hơn. Ưu điểm lớn nhất của Bootstrap là khả năng tương thích với mọ trình duyệt và nền tảng, giúp nâng cao trả nghệm người dùng. Bở vì những lý do trên em đã sử dụng Bootstrap 4 cho dự án của mình.

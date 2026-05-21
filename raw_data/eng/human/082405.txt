@@ -1,0 +1,1 @@
+Bypass Security Mechanisms: Many Android apps implement security mech anisms such as root detection, anti-debugging, or encryption. Frida can helpbypass these protections by manipulating the app’s runtime environment, en abling more thorough inspection and testing.

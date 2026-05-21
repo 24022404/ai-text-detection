@@ -1,0 +1,1 @@
+OnDataReceived : Trả về cho ta hành động của agent và cho phép ta thực hiện thay đổi mô trường tương ứng với hành động đó.Bên cạnh đó, ta cũng được quyền thay đổi một số thông tin liên quan đến hành vi của agent thông qua một số thuộc tính công khai của agent trong Inspector View 2.5. Trong đó có một số thông tin quan trọng như:

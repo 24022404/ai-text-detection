@@ -1,0 +1,1 @@
+The Warehouse Management ap plication builds a clear businessprocess, fully meeting the functions of managing goods infor mation, storage information andthe situation of import - export  inventory of goodsThe application has notfocused much on controlling the actual situ ation of goods in the warehouse.

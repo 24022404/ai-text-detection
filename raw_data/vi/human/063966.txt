@@ -1,0 +1,1 @@
+Lý do lựa chọn Thư viện LibVLC hỗ trợ gả mã hiệu quả trên mọi nền tảng, phần cứng khác nhau. Đặc biệt LibVLC có khả năng truyền và phát trực tiếp tớ các trình kết xuất ở xa.

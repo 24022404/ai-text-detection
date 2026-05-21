@@ -1,0 +1,1 @@
+Sau khi tiền xử lý dữ liệu, thu được số lượng sản phẩm là 3884 sản phẩm, số lượng khách hàng là 4371 và số lượng đơn hàng là 22184.

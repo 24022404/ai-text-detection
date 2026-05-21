@@ -1,0 +1,1 @@
+Dễ mở rộng: React cung cấp một số thư viện và công cụ giúp tăng tính mở rộng và tùy biến cho các ứng dụng.

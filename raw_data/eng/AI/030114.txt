@@ -1,0 +1,9 @@
+Objective: CHARME (Conditional Heteroskedastic Autoregressive Mixture of Experts) models have proven effective for capturing regime-switching dynamics and volatility clustering in time-series data, yet their parameter estimation remains challenging under non-Gaussian noise and nonlinear dependencies. This paper introduces a neural-network-based framework to learn CHARME models directly from data, bypassing traditional reliance on maximum likelihood estimation and ad hoc regime-detection heuristics.
+
+Methods: We design a hybrid architecture combining a recurrent neural network (RNN) backbone with specialized gating units that mimic the mixture-of-experts structure of CHARME processes. The RNN encoder extracts temporal features, while the gating network soft-assigns observations to latent ARMA submodels. Heteroskedastic innovations are modeled via an auxiliary feedforward module predicting time-varying variances. Training proceeds end-to-end with a composite loss that balances one-step-ahead prediction accuracy and volatility estimation.
+
+Results: Experiments on synthetic benchmarks and real financial and meteorological data demonstrate that our approach outperforms classical expectation-maximization algorithms for CHARME fitting, yielding up to 15% lower root-mean-square error in forecast tasks and more accurate regime-switch detection. The neural CHARME learner exhibits faster convergence and greater robustness to outliers and model misspecification.
+
+Conclusion: By embedding CHARME structure within a deep learning framework, we achieve a flexible, data-driven estimator that captures complex switching behaviors and heteroskedasticity without manual tuning. This work opens avenues for advanced time-series analysis in economics, engineering, and environmental monitoring.
+
+Keywords: CHARME models, neural networks, time-series forecasting, regime switching, heteroskedasticity, recurrent neural network.

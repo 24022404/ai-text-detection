@@ -1,0 +1,1 @@
+Chữ ký số không thể phủ nhận :Trong giao dịch, một gói tin kèm chữ ký số rất dễ dàng tìm ra được nguồn gốc của chữ ký đó. Bởi vì private key là bí mật và chỉ người sở hữu của nó mớ có thể biết, họ không thể chối cãi rằng chữ ký này không phải do họ phát hành.

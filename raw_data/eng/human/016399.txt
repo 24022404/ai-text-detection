@@ -1,0 +1,1 @@
+User: when registering an account, the default permission is a user with func tions such as login, logout, manage posts, rate, comment, update profile, and search.

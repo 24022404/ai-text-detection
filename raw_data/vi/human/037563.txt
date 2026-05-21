@@ -1,0 +1,1 @@
+Thông tin của email sẽ được lưu trữ trong cơ sở dữ liệu và được lấy ra kh sử dụng.

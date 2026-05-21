@@ -1,0 +1,1 @@
+Huấn luyện mô hình Huấn luyện mô hình trong học máy là quá trình giúp máy tính học từ dữ liệu và tố ưu hóa các thông số để thực hiện tác vụ cụ thể một cách chính xác và hiệu quả.

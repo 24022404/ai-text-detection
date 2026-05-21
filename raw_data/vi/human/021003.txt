@@ -1,0 +1,1 @@
+Em tiến hành thí nghiệm theo quy trình như sau: () Thực hiện chuẩn bị dữ liệu, () Chuẩn bị môi trường, () Tiền xử lý dữ liệu, (và) Huấn luyện mô hình Transformer cho mô đun phát hiện lỗ sa, (v) Huấn luyện mô hình N Gram cho mô đun gợi ý sửa lỗ.

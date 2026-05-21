@@ -1,0 +1,1 @@
+MTCNN thresholds: [0.4, 0.6, 0.6] mn_face_sze: 60 keep all: True YOLO v5 threshold: 0.65 Phát hiện chuyển động area mn1500 area_max: 2000 Khác wdth_scale: 800 vector_dstance_mn: 5 vector_dstance_max: 5.5 delay_frame_object_detect: 600 frame_tem_empty: 1800 Ngoài ra, các mô hình điều được chạy trên CPU.

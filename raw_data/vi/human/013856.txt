@@ -1,0 +1,1 @@
+Plugin (Interceptor) Pattern: Đây là một mô hình mạnh mẽ cho phép bạn mở rộng hoặc sửa điổ hành v của một phương thức điã có sẵn mà không cần thay đổi mã nguồn gốc.

@@ -1,0 +1,1 @@
+Lỗ hổng SQL Injection là một trong những lỗ hổng bảo mật phổ biến trong các ứng dụng web. Nó xảy ra kh ứng dụng web không kiểm tra và xử lý đúng đắn dữ liệu nhập vào từ người dùng, cho phép kẻ tấn công chèn câu lệnh SQL không mong muốn vào truy vấn SQL của ứng dụng. Kh thành công, lỗ hổng SQL Injection có thể gây ra các hậu quả nghiêm trọng.

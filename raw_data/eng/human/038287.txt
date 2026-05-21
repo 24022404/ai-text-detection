@@ -1,0 +1,1 @@
+In it, the pooling layer will give you invariant for displacement, scaling and rota tion. The local associativity will show you the low to high levels of representation,information with abstraction through convolution from the filters. The CNN model has layers that are linked together based on the convolution mechanism.

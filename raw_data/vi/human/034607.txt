@@ -1,0 +1,1 @@
+Ưu điểm của firebase storage Hiệu năng cao: Firebase storage được xây dựng trên cơ sở hạ tầng mạnh mẽ của Google Cloud Platform, mang lại hiệu suất cao và thời gian đáp ứng nhanh chóng ko truy cập vào dữ lệu. Đều này đảm bảo trải nghiệm người dùng tốt hơn, giảm thiểu thờ gần chờ đợi.

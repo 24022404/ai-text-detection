@@ -1,0 +1,1 @@
+Cơ sở dữ liệu là nơi lưu trữ và quản lý, truy vấn dữ liệu của trang web (hình ảnh, thông tin khách hàng, thông tin sản phẩm,..), cơ sở dữ liệu em sử dụng là một cloud của Mongodb: Mongo Atlas.

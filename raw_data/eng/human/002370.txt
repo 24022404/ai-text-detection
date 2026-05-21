@@ -1,0 +1,1 @@
+User interface design The default screen resolution of Streamlit is not explicitly limited to a specific value. It is designed to automatically adapt to the user’s screen resolution and thedevices they use to access the web application. This enables Streamlit to be respon sive and compatible with various screen sizes, including desktops, laptops, tablets, and mobile phones.

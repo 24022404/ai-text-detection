@@ -1,0 +1,1 @@
+If a vertex v in path P is neither the start nor the end, each time P enters v via an in-edge, it must exit through an out-edge, confirming claim 1.

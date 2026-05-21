@@ -1,0 +1,1 @@
+Controller xử lý các logc thêm, sửa, xóa dữ liệu, các hàm xử lý tính toán thông qua việc gọi model để lấy các trường từ database.

@@ -1,0 +1,9 @@
+Objective: Understanding social relationships from visual data is crucial for applications ranging from social media analysis to human–robot interaction. This paper introduces a novel Dual-Glance Model designed to decipher pairwise social relationships in images by integrating both local and global context cues.
+
+Methods/Approach: Our model employs two sequential “glances.” The first glance focuses on a coarse, holistic view of the entire scene to capture global context—such as setting and co-occurring objects—using a convolutional backbone. The second glance applies an attention-driven mechanism to cropped regions around target individuals, extracting fine-grained cues like body language and facial expressions. Feature maps from both glances are fused through a learned weighting network, enabling the model to balance scene-level and interpersonal details dynamically.
+
+Results/Findings: Evaluated on a publicly available social-relationship dataset, the Dual-Glance Model achieves a 7% improvement in classification accuracy over state-of-the-art single-glance and context-aggregation baselines. Ablation studies demonstrate that each glance contributes uniquely, with the attention module boosting recognition of nuanced relationships (e.g., “colleagues” vs. “friends”).
+
+Conclusion/Implications: By explicitly separating and then fusing global scene understanding with targeted interpersonal analysis, the Dual-Glance Model advances the automatic inference of social relationships. This approach can enhance downstream tasks in social media indexing, surveillance systems, and collaborative robotics.
+
+Keywords: social relationship recognition, dual-glance model, deep learning, computer vision, attention mechanism

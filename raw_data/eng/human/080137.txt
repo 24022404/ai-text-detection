@@ -1,0 +1,1 @@
+In the interface, there will be 2 main users, merchant and user. Here the merchant will be the one to decide what the user will see in the search page.

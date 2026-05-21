@@ -1,0 +1,1 @@
+Kết luận Thành công Bảng 4.11: Test case: Mnt NFS không thể giao dịch Test case Mnt NFS có thể giao dịch Tác nhân thực hiện Người dùng Bền điều kiện Đã có vé và số dư trong ví đủ trả phí Trình tự 1. Tác nhân vào trang Ch tết Collection và ấn tab "Mnt NFS".

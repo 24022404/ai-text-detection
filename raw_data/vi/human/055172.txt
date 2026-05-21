@@ -1,0 +1,1 @@
+Dẫn đến việc thông số cấu hình các thiết bị có thể bị thay đổi bở cá nhân không mong muốn.

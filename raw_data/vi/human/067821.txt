@@ -1,0 +1,1 @@
+Xây dựng chức năng quản lý cho các gara, showroom từ đó có thể xây dựng hệ thống thành một hệ sinh thái cho phép người dùng dễ dàng xem được lịch sử xe mà mình muốn mua.

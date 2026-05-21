@@ -1,0 +1,1 @@
+Bí thư chọn danh mục cần xóa và nhấn xóa 2. Hệ thống xác nhận việc xóa của bí thư 3. Bí thư nhấn đồng ý 4. Hệ thống xóa thông báo trong CSDL Luồng sự kiện con:

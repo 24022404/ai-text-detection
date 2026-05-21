@@ -1,0 +1,1 @@
+Nếu không muốn gửi file này nữa có thể ấn biểu tượng x bên cạnh tên file sau khi chọn xong file ẩn biểu tượng gửi điểm gửi file Hình 4.28: file được chọn điểm gì Nếu file vừa gửi là hình ảnh sẽ hiển thị ảnh lên cuộc trò chuyện, nếu không thì sẽ gửi link đến file được gửi.

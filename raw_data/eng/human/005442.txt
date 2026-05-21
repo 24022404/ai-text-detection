@@ -1,0 +1,1 @@
+Tomcat supports the Java Servlet, JavaServer Pages (JSP), and WebSocket tech nologies, making it an ideal choice for developers who want to build dynamic web applications. It can be configured to work with various databases and frameworks,such as Spring and Struts, and supports multiple programming languages, includ ing Java, PHP, and Python.

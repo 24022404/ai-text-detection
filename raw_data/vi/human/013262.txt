@@ -1,0 +1,1 @@
+Khi đó, độ phức tạp tính toán sẽ là: O N2 Hình 3.5: Cơ chế tự chú ý trong: (a) Transformer truyền thống, (b) MT.

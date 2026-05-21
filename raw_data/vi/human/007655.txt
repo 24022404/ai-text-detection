@@ -1,0 +1,1 @@
+Và hình 5.2 cho bết giao diện trang web bao gồm 1 hình ảnh kết quả do API trả về. Trong hình ảnh kết quả do API trả về chứa những hộp văn bản của đơn thuốc tiếng Việt.

@@ -1,0 +1,1 @@
+Học chuyển giao(Transfer Learning) : Đây là một kỹ thuật nơ một mô hình điã điược huấn luyện trước đió điược tinh chỉnh trên một tác vụ mới, liên quan. Ví dụ, một mô hình mạng nơron điã điược huấn luyện trên một tác vụ phân loại ảnh quy mô lớn, như ImageNet, có thể được tinh chỉnh cho nhận dạng khuôn mặt.

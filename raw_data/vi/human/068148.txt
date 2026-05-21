@@ -1,0 +1,1 @@
+Thiết kế nút bấm: nút bấm sử dụng các con tượng hình. Các con điược cung cấp bở Apple. Tất cả các con điều tuân theo chuẩn Materal Desgn cả về màu sắc lẫn kích thước.

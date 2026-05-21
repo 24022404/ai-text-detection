@@ -1,0 +1,1 @@
+Về ứng dụng ➢Xây dựng chức năng nếu có lỗ trong quá trình kết nối hoặc thảo tác, cần có thông báo lỗ tưởng ứng với người dùng.

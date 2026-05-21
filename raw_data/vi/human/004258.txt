@@ -1,0 +1,1 @@
+Dữ liệu và kết quả điầu ra (bộ tham số) được lưu trực tếp trên Kaggle kernel điố vớ Kaggle và Drve điố vớ Google Colab. Để điảm bảo tính nhất quán và tận dụng được IDE nhằm tăng chất lượng của mã lập trình, Github được sử dụng như một nền tảng trung gan lưu trữ mã lập trình gữa 3 mô trường: máy tính cá nhân, Google Colab và Kaggle.

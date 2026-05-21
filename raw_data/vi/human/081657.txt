@@ -1,0 +1,1 @@
+Trang hiển thị mặc định yêu cầu người dùng điền tên, email, số điện thoại và lớp học đăng ký.

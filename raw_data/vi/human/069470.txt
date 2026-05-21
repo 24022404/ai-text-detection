@@ -1,0 +1,1 @@
+Những lớp hành và phụ thuộc dữ liệu vào các lớp kế thừa từ interface Entity Data đại diện là EntityModel. Gó cha của InterSystem là gió Gameplay chứa lớp InterManager sẽ là lớp quản lý toàn bộ dữ liệu nhân vật và quá trong game.

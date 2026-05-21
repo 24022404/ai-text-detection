@@ -1,0 +1,1 @@
+Lựa chọn các chức năng Nhập hàng hóa mới vào nhân sự bán hàng và đơn hàng vào trong khi , Xem thông tin hàng trong nhân sự bán hàng và đơn hàng vào trong khi , Cập nhật thông tin hàng hóa trong nhân sự bán hàng và đơn hàng vào trong khi, xóa hàng khỏi CSDL và Click lưu lại.

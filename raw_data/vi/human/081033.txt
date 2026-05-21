@@ -1,0 +1,1 @@
+Attachment webFragment: Màn hình hiển thị nội dung file đính kèm.4.1.4 Thiết kế cho tết gó Adsun Hình 4.6: Thiết kế cho tết gó Adsun Hình 4.6 mô tả chợ tết gò Admin. Bao gồm các lớp: () Adm ManScreen,() AssgnScreen, () Management Screen, (v) DashBoard Screen, (v) HomeAd mn View Model, (v) Home Fragment. Trong đó nhiệm vụ của từng lớp như sau:

@@ -1,0 +1,1 @@
+In this section, I out two training scenarios. In the first scenario, the training will solely involve the domains of IT, medical, and law, and the evaluation willbe conducted on both the test set of Mtet  and the test set of PhoMT .

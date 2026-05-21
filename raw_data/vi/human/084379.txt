@@ -1,0 +1,1 @@
+Hỗ trợ ngôn ngữ địa quốc gia: Auto Phrase hỗ trợ nhiều ngôn ngữ khác nhau, cho phép phát hiện cụm từ có ý nghĩa từ vựng trong các văn bản viết bằng nhiều ngôn ngữ.

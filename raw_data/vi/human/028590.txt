@@ -1,0 +1,1 @@
+Hệ thống phân loại, gợi ý và tìm kiếm dữ liệu ra, Thiết kế giao diện Giao diện được thiết kế điểm tinh gọn nhưng cũng đầy đủ thông tin. Tối ưu cho trải nghiệm của nhân viên.

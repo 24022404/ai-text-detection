@@ -1,0 +1,1 @@
+Commodity information: SKU, name, shipment RFID code of the package to be moved Current storage location Required storage location Reason for rotation Step 2 : The storekeeper creates a goods rotation note and assigns personnel to perform.

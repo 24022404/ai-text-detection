@@ -1,0 +1,1 @@
+Retrofit được xây dựng dựa trên các thư viện và công cụ mạnh mẽ và làm cho quá trình nhận, gửi, tại các yêu cầu, phản hồi HTTP trở nên đơn giản hơn. Ngoài ra nếu muốn sử dụng các bộ chuyển đồ từ JSON thành các đối tượng Java thì cần thêm các thư viện chuyển đổi vào trong dự án.

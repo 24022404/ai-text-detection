@@ -1,0 +1,1 @@
+Streamlit supports colors in HEX or RGB format, allowing developers to use almost any color available on the web color palette.

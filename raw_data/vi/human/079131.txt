@@ -1,0 +1,1 @@
+Ngoài ra, Bootstrap cung cấp một số thành phần giao diện người dùng sẵn có như các nút, biểu mẫu, bảng, menu điều hướng, thanh tiêu đề và nhiều hơn nữa.

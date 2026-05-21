@@ -1,0 +1,1 @@
+Where nis the number of vertices in the graph, d[i][j] is the current estimate of the length of the shortest path between vertices iandj, and d[i][k] + d[k][j] is the length of the path from itokplus the length from ktoj. The algorithm terminates when all the estimates have stabilized and the final dmatrix contains the shortest path lengths between all pairs of vertices.

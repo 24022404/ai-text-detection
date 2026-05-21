@@ -1,0 +1,1 @@
+Lý do lựa chọn Tốc độ xử lý của phương pháp này nhanh, đảm bảo được vấn đề về real time.

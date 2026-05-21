@@ -1,0 +1,1 @@
+Input/Output Input: The method accepts the application’s AndroidManifest.xml file,which contains the definitions for all components, including activities, ser vices, and content providers.

@@ -1,0 +1,1 @@
+Model: tầng làm việc với dữ lệu cung cấp cho ứng dụng, tạ đây chứa các business logic, được chia làm 2 loại: Local, Remote. Local là nguồn dữ lệu được lấy từ chính thiết bị như cơ sở dữ lệu, bộ nhớ trong, bộ nhớ ngoài, tệp, dữ lệu hệ thống. Remote là các dữ lệu được lấy từ xa như Server, Firebase RealTime database.

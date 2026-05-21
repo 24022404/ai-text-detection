@@ -1,0 +1,1 @@
+Tích hợp ORM framework, gúp câu truy vấn cơ sở dữ lệu ngắn gọn, dễ điọc và dễ hiểu hơn.

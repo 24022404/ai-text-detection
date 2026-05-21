@@ -1,0 +1,1 @@
+Model Bndng có thể tự động ánh xạ dữ liệu từ HTTP request tớ những tham số của method action.

@@ -1,0 +1,1 @@
+Ít thay đổi hơn khi có sự thay đổi về người dùng: Khi có một số người dùng mớ hoặc hành vi mới xuất hiện, Item Based Collaborative Filtering thường không bị ảnh hưởng nhiều, trong khi User Based Collaborative Filtering có thể cần phải cập nhật lạ ma trận tương tự người dùng.

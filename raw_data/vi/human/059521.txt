@@ -1,0 +1,1 @@
+Admin : Thực hiện nhiệm vụ quản lý đối với hệ thống, bao gồm các nhiệm vụ như quản lý người dùng; tạo, sửa, xóa địa điểm làm việc; tạo, sửa, xóa nội dung quảng cáo ở trang chủ; tạo, sửa, xóa các bà cha sẻ thông tin hữu ích; cập nhật thông tin liên lạc của hệ thống; xem các phản hồi từ người dùng hệ thống.

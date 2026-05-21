@@ -1,0 +1,1 @@
+The number of longest simple path in Gk, and also the number of de Bruijn sequences, have been proved in  to beq!qk−1 qk.

@@ -1,0 +1,1 @@
+Như vậy, chương 2 đã thực hiện phân tích, đặc tả các chức năng, nêu quy trình hệ thống.Trong chương 2, tô đã thực hiện phân tích khảo sát, từ đó xây dựng biểu đồ use case tổng quan, mô tả các chức năng chính có trong hệ thống. Tiếp theo chương 3, tôi sẽ trình bày cho tết các cơ sở lý thuyết áp dụng, công nghệ sử dụng kh phát triển hệ thống và những lý do lựa chọn công nghệ đió.

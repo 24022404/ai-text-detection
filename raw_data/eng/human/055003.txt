@@ -1,0 +1,1 @@
+One of the defining features of GPT-3 is its immense size, which endows it with an unprecedented capacity for processing and comprehending lengthy input texts. Its vast token limit enables it to grasp extensive context, making it particularly adept at tasks that involve processing substantial textual content, such as multi-document summarization or long-form text generation.

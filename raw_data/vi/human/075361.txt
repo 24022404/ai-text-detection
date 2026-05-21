@@ -1,0 +1,1 @@
+delete Report() : Đại diện trung tâm có quyền xóa báo cáo kh báo cáo chưa được xác nhận hoặc từ chối.

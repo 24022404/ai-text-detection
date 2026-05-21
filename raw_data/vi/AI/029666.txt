@@ -1,0 +1,5 @@
+Tỉ lệ độ cứng dọc trục của cốt sợi thủy tinh polymer (FRP) có ảnh hưởng đáng kể đến ứng xử uốn của dầm bê tông đặt cốt lai FRP thép. Các nghiên cứu gần đây cho thấy rằng, khi tăng tỉ lệ độ cứng dọc trục của cốt FRP, khả năng chịu uốn của dầm bê tông đặt cốt lai FRP thép cũng tăng lên. Điều này là do cốt FRP có khả năng chịu lực dọc trục tốt hơn, giúp tăng cường khả năng chịu uốn của dầm.
+
+Tuy nhiên, tỉ lệ độ cứng dọc trục của cốt FRP cũng có thể ảnh hưởng đến khả năng chịu lực dọc trục của dầm. Nếu tỉ lệ độ cứng dọc trục của cốt FRP quá cao, có thể dẫn đến sự không đồng đều trong khả năng chịu lực dọc trục của dầm, từ đó ảnh hưởng đến khả năng chịu uốn của dầm.
+
+Tóm lại, tỉ lệ độ cứng dọc trục của cốt FRP là một yếu tố quan trọng ảnh hưởng đến ứng xử uốn của dầm bê tông đặt cốt lai FRP thép. Việc lựa chọn tỉ lệ độ cứng dọc trục phù hợp của cốt FRP có thể giúp tăng cường khả năng chịu uốn của dầm, đồng thời đảm bảo khả năng chịu lực dọc trục của dầm.

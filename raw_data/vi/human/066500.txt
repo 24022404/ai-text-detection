@@ -1,0 +1,1 @@
+Ontology được xây dựng dựa trên RDFS, và cung cấp một bộ từ vựng lớn hơn, cũng như có cú pháp đa dạng hơn RDFS .

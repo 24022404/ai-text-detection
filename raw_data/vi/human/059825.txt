@@ -1,0 +1,1 @@
+Do đố, bài toán hướng đến việc xây dựng một hệ thống từ những thành phần được hỗ trợ sẵn có, giá thành rẻ, giúp tối ưu việc sử dụng các thiết bị gia dụng trong gia đình. Đồng thờ, việc triển khai, thay đổi, nâng cấp hệ thống có thể tự thực hiện dễ dàng, hướng tớ áp dụng được vào hệ thống Smart House và các loại dự án IoT khác.

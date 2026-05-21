@@ -1,0 +1,9 @@
+Objective: Training ever-larger language models demands strategies that balance GPU memory, computation, and communication overhead. This paper introduces a novel combination of layered gradient accumulation and modular pipeline parallelism to accelerate and scale the training of large language models on commodity clusters.
+
+Methods: We propose Layered Gradient Accumulation (LGA), which divides model parameters into fine-grained layers and accumulates gradients locally before global synchronization, thereby reducing peak activation storage and inter‐GPU communication. Complementing LGA, our Modular Pipeline Parallelism (MPP) framework partitions the network into reusable modules that can be flexibly scheduled across pipeline stages, minimizing idle GPU time and simplifying the integration of heterogeneous hardware. Together, LGA and MPP form a unified training engine that supports asynchronous updates and dynamic load balancing.
+
+Results: In experiments on GPT‐style architectures ranging from 1.3B to 13B parameters across 16 NVIDIA A100 GPUs, our approach achieves up to 2.5× end-to-end throughput improvement over state-of-the-art data-, tensor-, and pipeline-parallel baselines (e.g., DeepSpeed ZeRO and Megatron‐LM pipeline). Memory footprint is reduced by 30%, enabling a 50% larger effective batch size without additional hardware. Ablation studies confirm the complementary benefits of layered accumulation and modular scheduling.
+
+Conclusion: The integration of LGA and MPP offers a scalable, efficient training paradigm for next-generation language models. By lowering hardware barriers and enhancing resource utilization, this work paves the way for broader research and deployment of ultra‐large neural networks. 
+
+Keywords: gradient accumulation, pipeline parallelism, model parallelism, distributed training, large language models.

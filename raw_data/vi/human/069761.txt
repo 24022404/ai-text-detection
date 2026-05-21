@@ -1,0 +1,1 @@
+delete Request() : Đại diện trung tâm có quyền xóa yêu cầu khi yêu cầu chưa được xác nhận hoặc từ chối.

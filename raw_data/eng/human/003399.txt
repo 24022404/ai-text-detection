@@ -1,0 +1,1 @@
+FP – False Negative: The amount of data predicted is labeled X but is not actually X (in this case the model predicts wrong).

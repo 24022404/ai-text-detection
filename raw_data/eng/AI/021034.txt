@@ -1,0 +1,1 @@
+Bruckstein et al. (2012) introduce robust binary patterns that support self-location, enabling devices to accurately determine their position by scanning a small section of the pattern, with strong resistance to errors.

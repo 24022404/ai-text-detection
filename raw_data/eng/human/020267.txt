@@ -1,0 +1,1 @@
+I use average accuracy on all seen tasks to measure model performance on the CRE task because it shows model performance on previous tasks and thus highlights how well models handle catastrophic forgetting .

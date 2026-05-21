@@ -1,0 +1,1 @@
+Matplotlib có giao diện  được đặt tên là Pylab, được thiết kế giống với MATLAB ngôn ngữ lập trình độc quyền được phát triển bởi MathWorks. Matplotlib cùng vớ NumPy có thể được coi là mã nguồn mở tương đương với MATLAB.

@@ -1,0 +1,1 @@
+LLAPI is for those who need to build network infrastructure or advanced multi player games. While being deprecated and currently in maintenance mode, UNet has created a strong foundation on which Unity’s next first-party netcode solution is built.

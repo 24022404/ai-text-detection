@@ -1,0 +1,1 @@
+Về mặt dữ liệu, bên cạnh việc thu thập, lưu trữ và trực quan hóa, nền tảng cần điảm bảo tính chính xác và cập nhật của dữ liệu. Ngoà ra còn có các yêu cầu về bảo mật và khả năng khô phục dữ liệu trong trường hợp sự cố cũng cần được điáp ứng.

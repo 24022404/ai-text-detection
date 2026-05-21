@@ -1,0 +1,1 @@
+Tìm kiếm mạng trong dataset o Xác định giá trị missing trong dataset or Removing data to Data imputation ( có thể thay bằng các giá trị 1,99,.. mean, medium,..) tùy trường hợp  Co giãn dữ lệu ( S calling  data):  thông thường có 2 cách là Normalzaton và Standardzaton:

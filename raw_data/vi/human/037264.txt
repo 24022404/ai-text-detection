@@ -1,0 +1,1 @@
+Router (Bộ định tuyến) đióng va trò định tuyến các yêu cầu tới các Broker, Coordnator, Overlord bằng cách cung cấp một cổng API thống nhất trước các Broker, Coordnator, Overlord.

@@ -1,0 +1,1 @@
+Particularly, at the fusion step, the feature vector O= [o1o2...on]T, extracted by 3D DenseNet Lean  on the visualized optical flow, is then normalized to L= [l1l2...ln]Tusing (3.4). After that, element-wise multiplication is applied to L andRas in (3.5) to augment features extracted from moving areas.

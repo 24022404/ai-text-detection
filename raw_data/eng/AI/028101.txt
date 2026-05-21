@@ -1,0 +1,1 @@
+After collecting a sufficient number of images, they undergo enhancement through processing steps such as noise filtering and rotation. These improved images are then labeled with PixelAnnotationTool. The labeled dataset is subsequently used for training machine learning models in Python on Kangle.

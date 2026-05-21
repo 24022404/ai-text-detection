@@ -1,0 +1,1 @@
+Các nội dung có trong chương này bao gồm: () Ngữ cảnh của bài toán, () Mô hình huấn luyện trước BART, () Mô hình BartPho, (v) Mô hình Transformer, (v) Thuật toán Ngram. Ngoài ra phần cơ sở lý thuyết dành cho việc phát triển hệ thống sẽ được nêu rõ trong Chương 5.

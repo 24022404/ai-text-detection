@@ -1,0 +1,1 @@
+transform Class Data(): trả về dữ liệu của một lớp học với các thông tin khác như danh sách học sinh, danh sách tình nguyện viên,. . .

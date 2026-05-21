@@ -1,0 +1,1 @@
+Vớ Framework Laravel (hình 3.4 là biểu tượng Framework Laravel), đây là một Framework rất nổi tiếng và đang được sử dụng rất nhiều. Một đặc điểm quan trọng của framework Laravel là nó giúp bạn tạo các trang web an toàn. Nó ngăn chặn việc chèn SQL cho người dùng áp dụng. Trình tạo truy vấn thông thạo hoặc Eloquent.

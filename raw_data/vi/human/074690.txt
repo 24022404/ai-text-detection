@@ -1,0 +1,1 @@
+Lựa chọn kiến trúc phần mềm Mô hình kiến trúc tô sử dụng trong dự án này là mô hình MVC. Mô hình MVC viết tắt của 3 từ Model View Controller. Là một mẫu kiến trúc phần mềm hay mô hình thiết kế để tạo lập giao diện người dùng trên máy tính.

@@ -1,0 +1,11 @@
+Here is a generated abstract for the graduation thesis:
+
+The increasing demand for efficient logistics and supply chain management has led to a growing need for accurate and automated inventory tracking systems. Manual inventory management in logistics warehouses is often time-consuming, prone to errors, and can result in stockouts or overstocking, ultimately affecting customer satisfaction and business profitability. This thesis aims to investigate the application of Radio Frequency Identification (RFID) technology in automating inventory rotation in logistics warehouses.
+
+The main objective of this research is to design and develop an RFID-based automated inventory system that optimizes inventory rotation, reduces manual errors, and improves overall warehouse efficiency. The system aims to solve specific problems such as inaccurate inventory tracking, inefficient stock rotation, and prolonged inventory counting processes.
+
+The methodology employed in this research involves the use of RFID tags and readers, integrated with a warehouse management system (WMS) and a system architecture designed to facilitate real-time inventory tracking and automation. The research approach combines both theoretical and practical aspects, including literature reviews, system design, and experimental testing.
+
+The results of this study demonstrate the effectiveness of the RFID-based automated inventory system in improving inventory rotation accuracy, reducing inventory counting time, and increasing overall warehouse productivity. The expected contributions of this research include the development of a cost-effective and efficient inventory management system, which can be applied in various logistics warehouses, leading to improved customer satisfaction and business competitiveness.
+
+In conclusion, this thesis presents a significant contribution to the field of logistics and supply chain management, highlighting the potential of RFID technology in automating inventory rotation and improving warehouse efficiency. Future developments may involve integrating the system with other emerging technologies, such as artificial intelligence and Internet of Things (IoT), to further enhance its capabilities and applications.

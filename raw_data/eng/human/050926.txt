@@ -1,0 +1,1 @@
+How Docker works Docker is a containerization platform that allows developers to create, deploy,and run applications in isolated and lightweight containers. Here’s a detailed ex planation of how Docker works:

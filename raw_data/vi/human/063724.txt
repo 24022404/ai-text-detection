@@ -1,0 +1,1 @@
+OAuth2 hoạt động bằng cách cung cấp một phương pháp cho ứng dụng yêu cầu và nhận token ủy quyền từ một dịch vụ xác thực. Sau đó, nó sử dụng token này để truy cập vào tài nguyên được ủy quyền. Giao thức này tập trung vào việc truy cập vào tài nguyên người dùng từ các ứng dụng bên thứ ba mà không cần chia sẻ thông tin đăng nhập.

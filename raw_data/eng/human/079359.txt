@@ -1,0 +1,1 @@
+Enhanced Dynamic Analysis : Future work can incorporate more robust be havioral analysis by integrating runtime monitoring tools, such as capturing real-time network traffic or tracking system-level interactions.

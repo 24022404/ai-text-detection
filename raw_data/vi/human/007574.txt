@@ -1,0 +1,1 @@
+() khởi động dự án, () lập kế hoạch dự án, () triển khai dự án, (v) theo dõi và đánh giá dự án, và (v) đóng dự án. Tuỳ vào yêu cầu cụ thể và những mục tiêu dự án hướng đến mà các ga đoạn này có thể thay đổi theo.

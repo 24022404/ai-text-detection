@@ -1,0 +1,1 @@
+Multi-Document Summarization Dataset: When tackling the Vietnamese multi document summarization task, I encountered a significant challenge due to the scarcity of labeled datasets. To the best of our knowledge, there are currently only three Vietnamese multi-document summarization datasets available. I provide the details of these datasets in Table 4.2.

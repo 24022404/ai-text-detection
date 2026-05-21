@@ -1,0 +1,1 @@
+Dễ bảo trì: Sự tách biệt giữa các thành phần cho phép chỉnh sửa và nâng cấp một thành phần mà không ảnh hưởng đến các thành phần khác.

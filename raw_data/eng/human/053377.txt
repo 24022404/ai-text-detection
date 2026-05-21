@@ -1,0 +1,1 @@
+The goal of contrastive learning process is visualized in figure 3.6. In recent years, the frame work of contrastive learning has attracted a surge of interest in representationlearning field. Many works were proposed to improve this paradism –.

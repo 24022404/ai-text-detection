@@ -1,0 +1,1 @@
+Gao vện tìm kiếm sản phẩm Người dùng có thể tìm kiếm sản phẩm bằng cách nhập từ khóa tên sản phẩm hoặc mã sản phẩm trên thanh tìm kiếm. Hệ thống sẽ truy vấn cơ sở dữ liệu nếu tồn tại thông tin sản phẩm lên quan sẽ đưa người dùng điện hiển thị kết quả.

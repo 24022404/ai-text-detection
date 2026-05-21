@@ -1,0 +1,1 @@
+Tích hợp chức năng thanh toán on bằng hình thức chuyển khoản ngân hàng.1.4 Bố cục đồ án Phần còn lại của báo cáo đồ án tốt nghiệp này được tổ chức như sau:

@@ -1,0 +1,1 @@
+Tính phổ biến: Một thuật ngữ neo nên xuất hiện đủ nhiều trong các nút Taxonomy hiện tại đang xét. Các thuật ngữ xuất hiện với một tần suất thấp không thể đại diện cho ngữ nghĩa của nút đang xét và không thể được xem xét làm thuật ngữ neo.

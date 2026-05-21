@@ -1,0 +1,1 @@
+Tầng ứng dụng: gồm các gói –ĐK  Tài khoản –ĐC  Sản phẩm –ĐC  Sự kện –ĐK  Danh mục sản phẩm –ĐK  Đơn hàng –ĐK  Lọc sản phẩm –ĐK  Gỏ hàng –ĐK  Cập nhật đơn hàng –ĐC  Đánh giá sản phẩm Tầng nghiệp vụ: gồm các gói –Tài khoản: xem danh sách, tìm kiếm, tạo, chỉnh sửa, xoá tài khoản.

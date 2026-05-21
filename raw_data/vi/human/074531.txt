@@ -1,0 +1,1 @@
+Ở đây tôi xin đưa ra các yêu cầu đầu vào (được mô tả trong mục “kịch bản kiểm thử) sẽ được đưa vào “hộp điện”, và chỉ chú ý tớ kết quả trả về có đạt yêu cầu hay chưa (được mô tả trong mục “kết quả mong đợi”).

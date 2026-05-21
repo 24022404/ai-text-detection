@@ -1,0 +1,1 @@
+Và dự án có thể được thực hiện đồng bộ trên nhiều hệ điều hành, bất kỳ một người nào cũng có thể cài đặt được mà không có lỗ tô sử dụng công nghệ Docker trong dự án này của mình.

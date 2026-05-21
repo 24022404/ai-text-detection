@@ -1,0 +1,1 @@
+Quá trình kiểm thử các chức năng chính trên được thực hiện trên 2 trình duyệt được sử dụng nhiều hiện nay là Chrome và Edge. Kết quả kiểm thử hệ thống trên 2 trình duyệt trên được mô tả trong Bảng 4.13:

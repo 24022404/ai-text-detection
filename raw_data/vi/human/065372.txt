@@ -1,0 +1,1 @@
+Go entity: Gó entity tương ứng với các bảng trong cơ sở dữ lệu.Gói business: Có chứa các log của server, nơ xử lý các yêu cầu và trả về kết quả cho ứng dụng.

@@ -1,0 +1,1 @@
+Nếu khoảng cách đủ nhỏ và phân loại của vật cản phía trước là đèn giao thông thì ta chuyển trạng thái thành REDLIGHT STOP.

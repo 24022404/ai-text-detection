@@ -1,0 +1,1 @@
+The VGG network employs LeakyReLU in all its hidden layers rather than Local Response Normalization, as used in AlexNet, since the latter method raises training duration and memory use without boosting accuracy much.

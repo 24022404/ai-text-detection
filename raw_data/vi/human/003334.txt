@@ -1,0 +1,1 @@
+Hệ thống không chỉ bao gồm các chức năng mua bán tài sản số đơn thuần mà còn có các chức năng quản lý người dùng điểm các hệ thống khác có thể sử dụng chung cũng như có chức năng dành cho admin quản lý toàn bộ hệ thống cũng như các nhà phát hành game muốn lên kết với hệ thống. Do đó ứng với mỗi phân hệ chức năng em sẽ tiến hành xây dựng một hệ thống rêng.

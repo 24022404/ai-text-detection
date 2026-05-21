@@ -1,0 +1,5 @@
+Nghiên cứu mới về hệ thống nhận diện tế bào T trong bệnh lây truyền qua đường máu ở lợn
+
+Các nhà khoa học đã xác định được một số vùng đặc biệt trên protein NSP1 và GP3 của virus lây truyền qua đường máu ở lợn, có khả năng kích thích hệ thống miễn dịch của cơ thể. Những vùng này có thể đóng vai trò quan trọng trong việc tạo ra phản ứng miễn dịch của cơ thể đối với virus.
+
+Nghiên cứu này có thể giúp phát triển các phương pháp điều trị mới cho bệnh lây truyền qua đường máu ở lợn, đồng thời cũng có thể cung cấp thông tin quan trọng về cơ chế hoạt động của virus này.

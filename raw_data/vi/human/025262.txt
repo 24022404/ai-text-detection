@@ -1,0 +1,1 @@
+Sử dụng các giải pháp bảo mật: Sử dụng các giải pháp bảo mật như CAPTCHA, Two Factor Authentication (2FA) điểm giảm thiểu khả năng tấn công Brute Force.

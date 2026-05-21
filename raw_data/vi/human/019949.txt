@@ -1,0 +1,1 @@
+Hướng tiếp cận thay thế và giả thích sự lựa chọn Hướng tiếp cận thay thế có thể được chọn là SQL Server hoặc PostgreSQL.

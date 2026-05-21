@@ -1,0 +1,1 @@
+Từ kết quả so sánh của mô hình, em sẽ tiến hành xây dựng và phát triển một hệ thống website thu thập và đánh giá các sản phẩm điện tử từ một số trang thương mại điện tử đang được mọi người chú ý gần đây như tk, sendo, shopee, ... Nhằm mục đích tạo ra một hệ thống giúp người dùng có góc nhìn tổng quát nhất về sản phẩm điểm đưa ra quyết định nhanh chóng.

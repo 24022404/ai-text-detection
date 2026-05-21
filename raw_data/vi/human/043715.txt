@@ -1,0 +1,1 @@
+Lớp WorkspaceVewPermssons và NodeVewPermssons: chịu trách nhiệm đảm bảo và kiểm tra quyền truy cập của một tài khoản đối với Workspace và Node.Lớp Workspace ReSet và NodeSet: làm nhiệm vụ xử lý các yêu cầu nghiệp vụ liên quan đến Workspace và Node.

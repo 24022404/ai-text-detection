@@ -1,0 +1,1 @@
+Các hệ thống xử lý trung tâm cần được hỗ trợ các máy tính xử lý có nhiều CPU hoặc GPU giúp cho việc phát hiện các biển báo, đèn tín hiệu nhanh và chính xác đảm bảo thờ gan thực.

@@ -1,0 +1,1 @@
+Mặc dù JWT là một phương tiện xác thực tiện lợi và phổ biến, tuy nhiên cũng có một số nhược điểm cần lưu ý:

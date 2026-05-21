@@ -1,0 +1,1 @@
+Reverse proxy có thể che giấu sự tồn tại và các đặc điểm của server thực sự được dùng Trong trường hợp các trang dùng giao thức bảo mật HTTPS, một máy chủ mạng có thể không tự mã hoá SSL hay TSL, mà giao nhiệm vụ cho reverse proxy.

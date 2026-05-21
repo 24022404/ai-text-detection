@@ -1,0 +1,9 @@
+Objective: Material recognition from images is critical for applications in robotics, augmented reality, and visual inspection. While prior work largely treats illumination and geometry independently, real-world material appearance arises from their complex interaction. This paper investigates how object shape and lighting jointly influence material classification accuracy.
+
+Methods: We introduce a two-branch convolutional neural network that processes geometric cues and illumination patterns in parallel. The geometry branch extracts surface normals and curvature features from shape reconstructions, while the illumination branch learns lighting-invariant reflectance signatures using a photometric rendering augmentation. We train and validate our model on a new dataset of synthetic and real-world objects spanning diverse materials, shapes, and lighting conditions.
+
+Results: Our joint-branch architecture outperforms baseline models that use only color–texture or shape information by up to 15% in top-1 accuracy. Ablation studies demonstrate that combining curvature-driven geometric representations with learned illumination embeddings yields more robust material predictions under varying viewpoints and light sources. Cross-dataset evaluations further show strong generalization to unseen object classes and lighting setups.
+
+Conclusion: By explicitly modeling the interaction between geometry and illumination, our approach delivers significant improvements in material recognition performance. These findings highlight the importance of integrating shape and lighting information for reliable visual perception and pave the way for advanced material-aware systems in real-world scenarios.
+
+Keywords: material recognition, geometry, illumination, convolutional neural network, photometric augmentation, surface normals.

@@ -1,0 +1,1 @@
+Kết quả triển khai Triển khai sản phẩm vớ năm module Frontend và một project Backend theo các bước đã trình bày thành công.Hiện tại, hệ thống có thể truy cập được thông qua Internet theo đường dẫn:

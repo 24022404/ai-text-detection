@@ -1,0 +1,1 @@
+TypeScript có thêm một và tính năng so với JavaScript, chẳng hạn như kiểu dữ liệu, lớp, interface, namespace... Nó cũng có các tính năng như kiểm tra kiểu và báo cáo lỗ tại thời điểm bên dịch, có thể giúp phát hiện lỗ sớm hơn trong quá trình phát triển và làm cho source code dễ bảo trì hơn.

@@ -1,0 +1,1 @@
+Biểu đồ lưu lượng truy cập theo hệ điều hành Biểu đồ cột Có ha loạt cột tương ứng với hai loại đơn vị là số người dùng và số lượt xem. Mỗi cột thể hiện số người dùng hoặc lượt xem trên một hệ điều hành. Biểu đồ cho biết các hệ điều hành mà người dùng sử dụng điểm đọc báo điện tử và phân bố lượng người dùng/lượt xem trên các hệ điều hành đó.

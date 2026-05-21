@@ -1,0 +1,1 @@
+Ví dụ, điểm cấu hình một bến PORT để sử dụng trong ứng dụng của chúng ta, chúng ta có thể thêm giá trị PORT=3000 vào tập tin .env và sử dụng thư viện dotenv điểm đọc giá trị này trong ứng dụng của mình.

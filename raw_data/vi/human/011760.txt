@@ -1,0 +1,1 @@
+App JS App JS  là một thư viện JavaScript mã nguồn mở cho phép thiết lập kết nối ngang hàng (peer to peer) trong ứng dụng web. Nó cung cấp một cách dễ dàng để truyền tải dữ liệu và truyền dữ liệu trực tiếp giữa các máy tính trong mạng ngang hàng, mà không cần thông qua máy chủ trung gan.

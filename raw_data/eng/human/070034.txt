@@ -1,0 +1,1 @@
+Z. Zheng and Y. Yang, “Rectifying pseudo label learning via uncertainty es timation for domain adaptive semantic segmentation,” International Journal of Computer Vision , vol. 129, no. 4, pp. 1106–1120, 2021.

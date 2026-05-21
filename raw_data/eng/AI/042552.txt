@@ -1,0 +1,1 @@
+Classification involves assigning input data to specific groups from a limited set of categories, exemplified by tasks like detecting if an email is spam or identifying whether a customer is likely to repay a debt. The prior examples help to clarify how classification problems work in practice.

@@ -1,0 +1,1 @@
+Ý nghĩa của các thực thể được mô tả trong bảng 4.3 , thiết kế cho tết cho Pro Hình 4.10: Thiết kế ch tết lớp AddProjectTaskForm Hình 4.11: Biểu đồ lớp Phase Create Form Hình 4.12: Sơ đồ thực thể liên kết của ứng dụng QLDA ject Phase được mô tả trong bảng 4.4 và thiết kế cho tết cho Project Milestone được miêu tả trong bản 4.5 .

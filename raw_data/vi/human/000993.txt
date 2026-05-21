@@ -1,0 +1,1 @@
+Một người dùng(User) có thể có hoặc không một gỏ hàng(Cart) , trong khi một gỏ hàng(Cart) buộc phải thuộc về một người dùng(Cart).

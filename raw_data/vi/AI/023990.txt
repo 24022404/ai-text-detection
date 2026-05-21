@@ -1,0 +1,1 @@
+Tập q là tập hợp các dãy q-ary độ dài n trên bảng chữ cái Σ, và một số tập hợp đáp ứng điều kiện đóng cần thiết cho sự tồn tại chu trình phổ quát theo Sawada.

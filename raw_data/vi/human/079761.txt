@@ -1,0 +1,1 @@
+Token: Khởi tạo slot delete Token: Xóa slot reInt Token: Cập nhật slot Hình 4.12: Biểu đồ tuần tự cho dịch vụ ký Hình 4.13: Biểu đồ tuần tự cho dịch vụ xác thực tài liệuHình 4.14: Biểu đồ tuần tự cho dịch vụ cấp chứng thư 4.2.3 Thiết kế cơ sở dữ liệu Danh sách các collection trong Mongodb:

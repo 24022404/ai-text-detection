@@ -1,0 +1,3 @@
+Ứng dụng phương pháp Otsu tính toán phạm vi thiệt hại lũ lụt cho lưu vực sông Lam thông qua nền tảng. Phương pháp Otsu là một kỹ thuật phân loại hình ảnh được sử dụng để xác định ngưỡng phân chia giữa các lớp hình ảnh. Trong ứng dụng này, phương pháp Otsu được sử dụng để phân tích hình ảnh vệ tinh và xác định phạm vi thiệt hại lũ lụt cho lưu vực sông Lam.
+
+Kết quả nghiên cứu cho thấy phương pháp Otsu có thể được sử dụng để xác định phạm vi thiệt hại lũ lụt với độ chính xác cao. Ứng dụng này có thể giúp các cơ quan chức năng và các tổ chức liên quan trong việc dự đoán và phòng ngừa thiệt hại lũ lụt, từ đó giảm thiểu tác động tiêu cực của lũ lụt đối với cộng đồng và môi trường.

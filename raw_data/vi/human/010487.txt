@@ -1,0 +1,1 @@
+send Mail Account(): Gửi email kích hoạt tài khoản cho người dùng mớ hoặc gửi mail reset password điến những người quên mật khẩu kèm theo token định danh.c, Module Quản lý Do số lượng các lớp và chức năng là nhiều nên em sẽ chỉ đưa ra thiết kế lớp của một và lớp quan trọng.

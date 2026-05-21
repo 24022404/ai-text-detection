@@ -1,0 +1,1 @@
+Recurrent Neural Network Above MLPs and CNNs are types of feedforward neural networks where dataflows directly through the network without retaining any memory of previous in puts. In these networks, each input vector is processed independently of others.

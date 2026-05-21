@@ -1,0 +1,1 @@
+Ngoài các lớp chính trên đống và trò làm các đặc điểm mà đối tượng người chơ phả có, gameobject của nhân vật người chơ còn có một số các component built của Unti điểm xử lý một số tính năng liên quan đến vật lý: collider and rigidbody. Ha component này chủ yếu là điểm phát hiện va chạm với các đòn tấn công của kẻ địch.

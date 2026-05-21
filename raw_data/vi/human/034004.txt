@@ -1,0 +1,1 @@
+TX and RX LED báo có luồng dữ liệu truyền (Transmit – TX) và nhận (Receiver – RX) của Arduino qua cổng nối tiếp (Serial) với các thiết bị khác.

@@ -1,0 +1,1 @@
+Hệ thống quản lý sân golf là hệ thống thương mại điện tử và giúp quản lý hệ thống sân golf, giúp những người chơi golf có thể dễ dàng tìm kiếm các địa điểm chơi golf, đồng thời có thể đặt sân một cách đơn giản qua một vài thao tác trên ứng dụng điện thoại thông minh thay vì phải gọi điện hay đến trực tiếp sân golf.

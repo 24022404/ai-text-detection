@@ -1,0 +1,1 @@
+STT Công cụ Địa chỉ URL Mục đích 1 Outsystems Service Studio oads/IDE lập trình 4.3.2 Kết quả đạt để Sau quá trình xây dựng và triển khai ứng dụng, sản phẩm dược có được là module dat nkt.oml: xây dựng giao diện, xử lý các nghiệp vụ hỗ trợ việc hiển thị và tương tác với người dùng, tạo cơ sở dữ liệu, xử lý nghiệp vụ, tương tác với cơ sở dữ liệu.

@@ -1,0 +1,1 @@
+Truy vấn SPARQL: Sử dụng thư viện RDFLib, một thư viện Python hỗ trợ làm việc với RDF để truy vấn SPARQL.

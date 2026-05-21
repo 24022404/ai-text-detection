@@ -1,0 +1,1 @@
+Đặc tả use case thêm khoản thu ch Kịch bản hoạt động cho chức năng Thêm khoản thu chi được mô tả ch tết trong bảng dưới đây.

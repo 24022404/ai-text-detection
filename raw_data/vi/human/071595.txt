@@ -1,0 +1,1 @@
+Đều này dễn ra khi một kết nố WebRTC điược thết lập vớ thết bị khác.Hình 4.11: Bểu đồ tuần tự tính năng gọ điện vdeo4.2.4 Thiết kế cơ sở dữ lệu Hình 4.12: Sơ đồ thết kế cơ sở dữ lệuBảng dữ lệu User Mục điích: Lưu thông tin của người dùng.

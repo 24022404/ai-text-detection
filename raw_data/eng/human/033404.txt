@@ -1,0 +1,1 @@
+Prometheus server also needs to be configured properly so that the collecting steps would not become a significant overhead for the system.

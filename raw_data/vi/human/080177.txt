@@ -1,0 +1,1 @@
+Các bài trắc nghiệm sau, khi người dùng làm lạ các câu hỏi này sẽ không hiển thị lạ nữa. Tất cả các câu hỏi trong một chủ đề mà người dùng điều đã làm đúng, hệ thống chọn ngẫu nhiên các câu hỏi.

@@ -1,0 +1,1 @@
+Đề tài sẽ tập trung vào những chức năng cơ bản phục vụ việc mua hàng on của người dùng, đi kèm với đó là các chức năng quản lý hệ thống dành rêng cho cấp điộ quản lý và nhân viên.

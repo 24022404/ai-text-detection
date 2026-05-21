@@ -1,0 +1,1 @@
+Sao lưu: Firebase sao lưu thường xuyên, giúp đảm bảo tính sẵn có và bảo mật thông tin cho dữ lệu Tuy nhiên, Firebase vẫn có nhược điểm như sau:

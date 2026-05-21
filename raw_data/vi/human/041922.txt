@@ -1,0 +1,1 @@
+Easy debugging: Vớ Redux, các thay đổi trạng thái của ứng dụng được gh lạ trong "log", giúp cho việc gỡ lỗi trở nên dễ dàng hơn.

@@ -1,0 +1,1 @@
+Backend: là phần xử lý của hệ thống được viết bằng ngôn ngữ NodeJs, sử dụng framework là ExpressJs. ExpressJs là một framework được xây dựng trên nền tảng NodeJs, cung cấp các thành phần định tuyến và phần mềm trung gian (middleware) điểm hỗ trợ giúp phát triển ứng dụng web một cách dễ dàng hơn.

@@ -1,0 +1,1 @@
+(v) Hậu điều kiện: sau khi thực hiện use case hệ thống sẽ thông báo tài khoản đã được tạo thành công hay chưa.

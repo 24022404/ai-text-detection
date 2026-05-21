@@ -1,0 +1,1 @@
+Các nhóm phát triển thiết kế, phát triển, QA, phân tích và quản lý ứng dụng của họ, bất kể quy mô. Tất cả các nhu cầu phát triển frontend và backend điều được đáp ứng. Nó cũng xử lý triển khai và bảo trì dài hạn. Không ai phải ghép các công cụ riêng biệt lại với nhau, điều này có thể làm tăng chi phí và giảm năng suất.

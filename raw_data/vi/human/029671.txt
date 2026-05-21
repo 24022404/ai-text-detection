@@ -1,0 +1,1 @@
+Tầng ứng dụng (Application Logic Layer): Tầng này chứa logic xử lý ứng dụng và quy định các luồng điều khiển trong hệ thống. Nó xử lý yêu cầu từ tầng giao diện người dùng, thực hiện các xử lý logic, kiểm tra tính hợp lệ và tương tác với tầng dữ liệu. Tầng này thường bao gồm các thành phần như máy chủ ứng dụng, API, service và business logic.

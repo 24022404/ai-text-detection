@@ -1,0 +1,1 @@
+Đọc dữ liệu : Sau khi giao tiếp được với DHT11, DHT11 sẽ gửi lên tập 40 bt 0 hoặc 1 về vi điều khiển, tương ứng cha thành 5 byte kết quả của Nhiệt độ và độ ẩm.

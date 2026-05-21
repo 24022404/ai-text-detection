@@ -1,0 +1,1 @@
+Kiến trúc ứng dụng Flutter giúp tách biệt rõ ràng giữa giao diện người dùng và logic ứng dụng. Flutter sử dụng Widget, một khối xây dựng giao diện tái sử dụng và có khả năng tương tác. Widget có thể được tổ chức thành cây Widget, tạo nên cấu trúc giao diện linh hoạt và dễ dàng mở rộng.

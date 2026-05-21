@@ -1,0 +1,1 @@
+Sau đây là một và thiết kế màn hình có trong game.Hình 4.3: Thiết kế màn hình lựa chọn vũ khí Hình 4.4: Thiết kế màn hình kho đồ của người chơ 4.3.2 Thiết kế lớp Biểu đồ trình tự cho 2 tính năng trong game được thể hiện ở hình 4.5 và hình 4.6. Trong biểu đồ trình tự, có sự tham gia của các thực thể thuộc các lớp được mô tả chợ tết dưới đây.

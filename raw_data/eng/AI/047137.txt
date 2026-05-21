@@ -1,0 +1,1 @@
+The project’s methodology incorporates careful planning and the use of the MVC software architecture pattern, emphasizing the analysis and design of system architecture. UML diagrams are utilized to effectively visualize system architecture, interactions, and data flow.

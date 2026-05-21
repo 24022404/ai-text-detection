@@ -1,0 +1,1 @@
+Graph tận dụng được quan hệ tương quan giữa vị trí các tuần với nhau trong trang trại ( vì trong trang trại, có thể có 2 turbine đứng gần thẳng nhau theo hướng gió, sẽ chán nhau, 2 turbine cạnh nhau có thể có Patv giống nhau)  Còn với các model còn lại, vì chỉ trang trên mõ 1 turbine 1model, nên các turbine độc lập với nhau Từ đó em rút ra nhận xét:

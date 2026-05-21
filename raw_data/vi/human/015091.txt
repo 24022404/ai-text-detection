@@ -1,0 +1,1 @@
+Trong đồ án, em sử dụng kiểu cấu trúc dữ liệu QuadTree và tính toán hình khối cơ bản như hình tròn, hình vuông để xử lý logic va chạm vật lý trong game, qua đó tăng đáng kể hiệu năng.

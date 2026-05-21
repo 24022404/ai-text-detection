@@ -1,0 +1,1 @@
+Chương 4 trình bày về cách kết hợp những công nghệ điã điược trình bày ở Chương 3 điều tạo nên kiến trúc cho toàn bộ hệ thống. Phần Backend và Frontend được phát triển độc lập, giao tiếp với nhau thông qua API. Từ kiến trúc đó em sẽ trình bày thêm về việc phát triển từng chức năng của ứng dụng, cùng với đó là quá trình kiểm thử điểm đi đến kết quả hoàn thiện.

@@ -1,0 +1,1 @@
+Các Loggng: trong laravel cung cấp một lớp điơn gản trên điầu trang của thư viện Monolog. Mặc định các tập tin hàng ngày được tạo ra và lưu trữ lạ trong Storage/logs.

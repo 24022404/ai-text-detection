@@ -1,0 +1,1 @@
+Hệ thống điều khiển – Ngoài những lệnh điều khiển nhân vật, người chơ luôn có thể sử dụng nút ESC trên bàn phím điều tạm dừng trò chơi và lựa chọn tiếp tục, chỉnh sửa cài đặt, chơi lạ hoặc thoát khỏi trò chơi.

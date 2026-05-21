@@ -1,0 +1,1 @@
+Sau đây, em sẽ trình bày kịch bản kiểm thử của một số chức năng quan trọng của hệ thống.

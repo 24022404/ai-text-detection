@@ -1,0 +1,1 @@
+PostgreSQL supports transactions that adhere to the ACID properties, ensuring data integrity. Transactions can be committed or rolled back, allowing developers to maintain data consistency during complex operations.

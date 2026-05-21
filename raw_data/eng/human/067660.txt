@@ -1,0 +1,1 @@
+# Actor Action 1 Supplier Submit delete product 2 System System check product in any order 3 System Notify delete successfully Table 2.7: Main flow of use case delete product Alternative Flows :

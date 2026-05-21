@@ -1,0 +1,1 @@
+Start : Hàm được gọi kh object được khởi tạo, cho ta khả năng thay đổi các thông tin trước khi hàm Update fixedUpdate được gọi.

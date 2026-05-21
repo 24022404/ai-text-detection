@@ -1,0 +1,1 @@
+Model: Thiết lập logo cho dữ liệu của ứng dụng, chứa các phương thức xử lý dữ liệu, truy xuất dữ liệu.

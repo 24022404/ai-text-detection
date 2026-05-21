@@ -1,0 +1,1 @@
+Thuộc tính props: Một thành component có thể nhận được props. Đây là những thuộc tính được cha của nó truyền vào điểm chỉ định các giá trị cho component con.

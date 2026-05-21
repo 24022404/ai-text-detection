@@ -1,0 +1,1 @@
+Đơn giản, dễ dàng trong sử dụng: Người dùng có thể tạo tài khoản Firebase bằng tài khoản Google và cũng như sử dụng nền tảng này trong phát triển ứng dụng một cách dễ dàng.

@@ -1,0 +1,1 @@
+Người mua hàng có thể thay đổi thông tin cá nhân gồm số điện thoại, địa chỉ điểm mua hàng 2.2.11 Quy trình nghiệp vụ Sau đây quy trình nghiệp vụ quan trọng trong hệ thống.

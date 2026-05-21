@@ -1,0 +1,1 @@
+Database ở đây là restore là một lớp bên ngoài, nó sẽ sử dụng phương thức updateData (tên phương thức này chỉ là đặc tính, không phải tên thật) để lưu dữ lệu vào CSDL.b, Use case sử dụng phiếu khuyến mạ Đây là use case mô tả quá trình người dùng sử dụng phiếu khuyến mãi.

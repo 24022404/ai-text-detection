@@ -1,0 +1,1 @@
+Management and tracking: Throughout the software development life cycle, requirements should be monitored and tracked to make sure they are met and that any changes are appropriately recorded and communicated.

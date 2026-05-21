@@ -1,0 +1,1 @@
+Ngườ dùng điã điăng nhập có thể xem điược thông tin công kha của những người dùng khác, chỉnh sửa thông tin cá nhân của bản thân, tạo phòng chat và nhắn tnhoặc gọ điện vdeo với người dùng khác. Ngoà ra người dùng đã đăng nhập có thể tạo nhóm chat và có thể quản lý thành viên trong nhóm.

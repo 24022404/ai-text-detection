@@ -1,0 +1,1 @@
+˜pfeats c =P˜ns j=1F′(i,j) s[y(i,j) s=c] P˜ns j=1[y(i,j) s=c] ˜pfeatt c =P˜nt j=1F′(i,j) t[˜y(i,j) t=c] P˜nt j=1[˜y(i,j) t=c]where feature F′(i,j)from the teacher model of pixel x(i,j),˜nsand ˜ntis number of images on a batch. To be simply, ˜pfeat crepresents the category cestimated online prototypes ˜pfeatc cand˜pfeatt c.

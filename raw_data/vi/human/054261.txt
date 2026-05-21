@@ -1,0 +1,1 @@
+Tá sử dụng mã : Model trong kiến trúc MVC chịu trách nhiệm cho logc kinh doanh và xử lý dữ liệu, điều này cho phép tái sử dụng mã trong các phần của ứng dụng khác. Điều này giúp giảm thờ gần và công sức lập trình.

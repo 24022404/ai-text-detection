@@ -1,0 +1,1 @@
+RabbitMQ đi kèm với giao diện người dùng quản lý dễ sử dụng cho phép chúng ta theo dõi và kiểm soát mọi khía cạnh của nhà mô gỡ tin nhắn.

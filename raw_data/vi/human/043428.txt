@@ -1,0 +1,1 @@
+Nếu câu được cấu tạo từ 1 từ đơn thì kiểm tra từ điển có thuộc trong từ điển hay không. Nếu từ đó không ở trong từ điển thì so sánh độ tương đồng giữa từ cần kiểm tra với từ điển và đưa ra những từ gần với từ cần kiểm tra nhất. Nếu từ đó có xuất hiện trong từ điển thì trả luôn về output.

@@ -1,0 +1,1 @@
+FlashcardsFigure 4.23: Flashcard collection list screenThe flashcard collection list screen contains both finished and unfinished col lections. At this screen, users are allowed to create a new collection for themselves.

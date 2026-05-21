@@ -1,0 +1,1 @@
+Chữ ký số Chữ ký số là một dạng của chữ ký điện tử. Nó là một dạng dữ liệu dùng để chứng thực cho các dữ liệu khác. Việc ký tên và xác thực chữ ký số sử dụng hệ mã hóa công khai ở đây sẽ dùng thuật toán RSA  tương tự như quá trình mã hóa mà gả mã ở trên.

@@ -1,0 +1,1 @@
+Works in coding theory, including this thesis, are interested in designing codes with a high rate, along with efficient encoder, and decoder, that can be used in specific situations.

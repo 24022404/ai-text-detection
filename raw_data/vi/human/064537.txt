@@ -1,0 +1,1 @@
+Lưu trữ bằng việc chuyển đổi hình ảnh sang kiểu dữ liệu blob. Đây là cách thức khá phức tạp vì cần qua nhiều bước chuyển đổi và lưu trữ vào CSDL.

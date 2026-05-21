@@ -1,0 +1,1 @@
+Vững vàng kiến thức về thiết kế và xây dựng các trang web thương mại điện tử, đặc biệt là sử dụng framework PHP Laravel và cơ sở dữ lệu MySQL.

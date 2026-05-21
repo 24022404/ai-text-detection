@@ -1,0 +1,1 @@
+Truyền tải thông qua máy chủ trung gian (servermedated) Truyền tả điện máy chủ trung gian: Thay vì truyền trực tiếp giữa các người dùng, dữ liệu từ một người dùng sẽ được truyền tả điện máy chủ trung gian. Đều này có thể thực hiện thông qua một kết nối WebSocket  hoặc giao thức truyền tải khác.

@@ -1,0 +1,1 @@
+Ký ẩn: khi một người dùng ký một tài liệu nhưng không chọn chèn khung chữ ký và chèn chữ ký cá nhân của mình vào, kh đó người dùng đăng ký ẩn tài liệu. Khi mở tài liệu được ký lên chúng ta không nhìn thấy được khung chữ ký mà chỉ nhìn được thông tin chữ ký.

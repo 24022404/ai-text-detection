@@ -1,0 +1,1 @@
+Các DataNodes cũng thực hiện việc tạo, xóa và sao chép khố theo hướng dẫn từ NameNode. Hình 2.2 mnh họa kiến trúc HDFS.

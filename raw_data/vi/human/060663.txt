@@ -1,0 +1,1 @@
+Gớ thiệu về MySQL MySQL là hệ quản trị cơ sở dữ lệu mã nguồn mở phố bến nhất thế giới và được các nhà phát trển rất ưa chuộng trong quá trình phát trển ứng dụng.

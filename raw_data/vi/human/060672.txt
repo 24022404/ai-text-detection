@@ -1,0 +1,1 @@
+Chuẩn bị dữ liệu Dữ liệu điểm kiểm thử bao gồm 5 video được phát liên tục để thay thế cho 5 dòng camera. Các video đó bao gồm: Video quay cửa vào cửa hàng, video quay cửa ra cửa hàng, video quay quầy thu ngân, video quay gan hàng từ phía trước và video quay gan hàng từ phía sau.

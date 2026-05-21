@@ -1,0 +1,1 @@
+Controller gử các lệnh điến model điể làm thay điổ trạng thá của nó. Controller cũng gử các lệnh điến vew lên quan của nó điể thay điổ cách hển thị của vew.

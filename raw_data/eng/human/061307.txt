@@ -1,0 +1,1 @@
+Domain Malware CheckThis analysis checks the domains the application communicates with to deter mine if they are blacklisted or associated with malicious activities. Key aspects include:

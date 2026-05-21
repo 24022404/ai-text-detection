@@ -1,0 +1,1 @@
+NếuYlên tục, bà toán được gọi là Hồ quy (Regressson). Nếu Ylà rờ rạc, bà toán được gọi là Phân loạ (Classfcaton).

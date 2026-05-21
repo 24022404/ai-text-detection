@@ -1,0 +1,1 @@
+Tuy tư tưởng về Micro Frontends đã ra đời một và năm và cũng có nhiều bên tìm cách giải quyết vấn đề này, nhưng rõ ràng nó vẫn chưa được phổ biến như Microservices. Tuy nhiên, với những lợi ích mà kiến trúc này mang lại, trong tương lai Micro Frontends sẽ được ứng dụng rộng rãi, tạo ra một bước tiến mớ tiếp theo trong lĩnh vực công nghệ phần mềm.

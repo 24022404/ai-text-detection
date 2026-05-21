@@ -1,0 +1,1 @@
+Biểu đồ use case phân rã a, Biểu đồ use case phân rã “Quản lý thông tin cá nhân” Use case “Quản lý thông tin cá nhân” được mô tả thông qua Hình 2.2 với sự tham gia của 2 tác nhân chính là Quản trị viên và Người dùng. Use case này bao gồm 2 use case con.

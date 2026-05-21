@@ -1,0 +1,1 @@
+Model: The model component stores data and its related logic. It includes class functions that perform tasks such as querying, adding, modifying, or deleting data. For example, a Controller object will retrieve customer information from the database. It manipulates the data and sends it back to the database or uses it to display data.

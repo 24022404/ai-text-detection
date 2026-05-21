@@ -1,0 +1,1 @@
+SolutionA possible way is to create a blacklist of tokens on the server. The main advan tage of JWTs is that they speed up session verification. We will lose that benefit if we keep a blacklist/deny list and have to query it with every API call.

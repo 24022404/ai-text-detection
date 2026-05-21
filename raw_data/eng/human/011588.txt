@@ -1,0 +1,1 @@
+The establishment of domain-specific machine translation systems plays a crucial role in specialized fields, such as translating legal documents or enriching data for different domains. In this thesis, I have successfully accomplished the development of a multi-domain machine translation system comprising two main components:

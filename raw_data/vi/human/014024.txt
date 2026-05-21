@@ -1,0 +1,1 @@
+Xử lý và chuyển tiếp dữ liệu: Máy chủ trung gan sẽ nhận dữ liệu từ người gửi và có thể xử lý, gh lạ hoặc thay đổi dữ liệu trước khi chuyển tiếp nó biến các người dùng khác. Quá trình này cho phép máy chủ trung gian can thiệp vào dữ liệu truyền tải và cung cấp sự linh hoạt trong việc xử lý dữ liệu trước khi nó đến được người nhận.

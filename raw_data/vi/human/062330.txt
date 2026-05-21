@@ -1,0 +1,1 @@
+Tính toàn vẹn của dữ liệu : Dữ liệu gửi từ người sở hữu private key rất khó có thể bị giả mạo. Bởi vì nếu thay đổi dữ liệu thì giá trị hash cũng phải thay đổi theo.

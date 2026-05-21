@@ -1,0 +1,1 @@
+Jaccard Similarity: Phương pháp này tính toán độ đo tương tự bằng cách sử dụng tỉ lệ giữa số lượng sản phẩm được đánh giá bởi cả hai khách hàng và tổng số sản phẩm điã điược điánh gá bở ít nhất một trong hai khách hàng. Giá trị nằm trong khoảng 0 đến 1, với 1 địa diện cho tương đồng hoàn toàn và 0 đại diện cho không tương đồng.

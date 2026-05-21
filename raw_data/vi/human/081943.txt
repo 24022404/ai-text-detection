@@ -1,0 +1,1 @@
+Sau khi nhận thành công các vùng chứa, ẨM thực thi mã chương trình của người dùng thông qua (các) Node Manager (NM).

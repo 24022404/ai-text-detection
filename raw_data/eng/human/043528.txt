@@ -1,0 +1,1 @@
+Problem solvingImproving clarity in architecture: DTO provides an intermediate layer for trans ferring data between layers. Using DTO helps clearly separate the different parts of the application, improving the architecture of the application and reducing issues related to the data structure.

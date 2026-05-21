@@ -1,0 +1,1 @@
+Eueno is built based on web-torrent protocol and practically optimized for users to become a hosting node (client browser, computer node) and increase bandwidth when downloading data. Hosting data is done on the client side of each dApp. This ensures the security and ownership of data.

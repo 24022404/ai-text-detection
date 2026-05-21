@@ -1,0 +1,1 @@
+A. Dostoevsky, L. Beyer, A. Kolesnikov, et al. , “An mage s worth 16x16 words: Transformers for image recognition at scale,” preprint arXiv:2010.11929 , 2020.

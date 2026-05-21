@@ -1,0 +1,9 @@
+Objective: This paper addresses the challenge of automatically detecting and geotagging urban objects—such as street signs, fire hydrants, and public benches—using large-scale street view imagery. Precise localization and mapping of these objects are essential for smart-city planning, autonomous navigation, and infrastructure monitoring.
+
+Methods: We propose a two-stage pipeline that first applies a lightweight deep convolutional neural network (CNN) to identify target objects in 360° street panoramas. Detected instances are then refined through a multi-view geometry module that fuses overlapping image frames and associated GPS/IMU metadata. By integrating structure-from-motion (SfM) cues with camera pose information, the system computes accurate latitude–longitude coordinates for each object. A custom post-processing step filters outliers and consolidates duplicates to produce a concise geospatial database.
+
+Results: Experiments on a newly collected dataset covering three metropolitan areas demonstrate that our approach achieves an average detection precision of 87.3% and geotagging error below 1.2 meters, outperforming baseline single-view detectors by over 15% in coordinate accuracy. Runtime analysis shows the entire pipeline processes 10,000 images in under two hours on a single GPU server.
+
+Conclusion: The proposed framework delivers an efficient, scalable solution for automatic object discovery and geotagging from street view data. Its high accuracy and low computational cost make it suitable for real-time urban asset monitoring and dynamic map updating.
+
+Keywords: Object detection, geotagging, street view imagery, deep learning, multi-view geometry, smart cities.

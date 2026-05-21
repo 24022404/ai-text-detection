@@ -1,0 +1,1 @@
+Detailed package design Within the GUIManager package, the GUIManager class serves as the central management entity for the game’s GUI system. The structure of the GUIManager class consists of two classes: ScreenManager and PopupManager.

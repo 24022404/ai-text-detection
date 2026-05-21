@@ -1,0 +1,9 @@
+This paper addresses the challenge of human activity recognition (HAR) in RGB video by focusing on skeletal data to improve accuracy and efficiency. Traditional HAR methods often rely on holistic image features, which can be computationally demanding and less effective in dynamic environments.
+
+Methods: We propose a novel approach that leverages skeletal information to enhance activity recognition. Our model utilizes a combination of deep learning architectures, specifically a convolutional neural network (CNN) for feature extraction and a recurrent neural network (RNN) to capture temporal dependencies. Skeleton-focused preprocessing is employed to standardize input data across varying subjects and contexts.
+
+Results: The proposed method demonstrates significant improvement in recognition performance over existing state-of-the-art techniques, particularly in datasets with complex and overlapping human movements. Extensive evaluations on several benchmark datasets show an increase in accuracy and reduced computational time, making it more feasible for real-time applications.
+
+Conclusion: The integration of skeleton-based data processing presents substantial advancements in recognizing human activities from RGB videos. Our findings indicate that focusing on skeletal information not only enhances the reliability of HAR systems but also offers practical applications in surveillance, healthcare, and human-computer interaction. Future work will explore the extension of this approach to multi-person scenarios and the incorporation of additional contextual features.
+
+Keywords: Human Activity Recognition, RGB Video, Skeleton Data, Deep Learning, CNN, RNN, Real-time Applications.

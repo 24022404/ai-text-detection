@@ -1,0 +1,9 @@
+Objective/Purpose: Clustering unlabeled data often suffers from sensitivity to initialization and choice of algorithm. This paper introduces a semi-supervised clustering ensemble framework that integrates limited pairwise constraints with diverse base partitions and a voting-based consensus to improve cluster accuracy and robustness.
+
+Methods/Approach: We generate multiple base clusterings using different algorithms (e.g., K-means, spectral clustering) and feature subsets. A small set of must-link and cannot-link constraints guides the ensemble via a weighted voting mechanism: each base model casts votes for data-point assignments, and constraint satisfaction increases vote weights for compliant partitions. The consensus step resolves conflicts by maximizing agreement with both the ensemble and the semi-supervised feedback. Computational complexity is controlled through efficient incremental updates and sparse affinity representations.
+
+Results/Findings: Experiments on benchmark datasets—including UCI, image, and text corpora—demonstrate that our method consistently outperforms individual clustering algorithms and unsupervised ensembles. We observe up to 12% improvement in adjusted Rand index and 15% reduction in normalized mutual information error using fewer than 5% labeled pairwise constraints. The approach remains stable under noisy constraints and scales linearly with dataset size.
+
+Conclusion/Implications: The proposed semi-supervised voting ensemble offers a practical way to leverage minimal supervision for more accurate, robust clustering across domains. Its modular design allows easy integration of new base learners and constraint types, making it suitable for large-scale data mining and exploratory analysis.
+
+Keywords: semi-supervised clustering, ensemble learning, consensus voting, pairwise constraints, data mining.

@@ -1,0 +1,1 @@
+Login: A registered user may sign in using his existing account View Hot Keywords: Hot keywords are basically what users would encounterafter visiting trendz.vn homepage. Every users, no matter whether they have reg istered or not should be able to retrieve basic information about ongoing trends.

@@ -1,0 +1,1 @@
+Advantages: NodeJS is easy to use and is widely installed by developers. Multiple support libraries Disadvantage: Because it is a library of Javascript (asynchronous language), Node JS is not as strict as other languages.

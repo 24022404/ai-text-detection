@@ -1,0 +1,7 @@
+Công nghệ hình ảnh đang phát triển mạnh mẽ, giúp cải thiện chất lượng hình ảnh trong các hệ thống quang học có độ sâu trường sâu. Một nghiên cứu mới đã đề xuất phương pháp kết hợp hai hình ảnh để nâng cao chất lượng hình ảnh trong các hệ thống này.
+
+Phương pháp này liên quan đến việc sử dụng hai camera để chụp hai hình ảnh khác nhau, sau đó kết hợp chúng lại để tạo ra hình ảnh có độ sâu trường sâu hơn. Điều này giúp cải thiện chất lượng hình ảnh, giảm thiểu hiện tượng mờ và tăng cường chi tiết.
+
+Nghiên cứu này có thể ứng dụng trong nhiều lĩnh vực, bao gồm y tế, công nghiệp và giải trí. Nó giúp tạo ra hình ảnh chất lượng cao, giúp các chuyên gia có thể phân tích và đánh giá hình ảnh một cách chính xác hơn.
+
+Phương pháp này cũng có thể được sử dụng trong các hệ thống quang học có độ sâu trường sâu khác, như camera có độ sâu trường sâu, hệ thống hiển thị hình ảnh 3D. Nó giúp cải thiện chất lượng hình ảnh, tạo ra hình ảnh chân thực và sống động hơn.

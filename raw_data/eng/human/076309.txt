@@ -1,0 +1,1 @@
+IOU =TP TP+FP+FN where TP,FPandFNare the number of true positive, false positive and false negative predictions of the model respectively. After calculating IoU for 19 classes, we compute the mean IoU of all these classes (mIoU).

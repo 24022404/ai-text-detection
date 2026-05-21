@@ -1,0 +1,1 @@
+STT Tên trường Kiểu dữ liệu Nullable Ràng buộc Mô tả 1 ID Int Không PK Id của gợi ý 2 CustomerID Int Không FK Id của customer 3 recommend list varchar Không Danh sách gợi ý Bảng 4.8: Đặc tả bảng Recommendation customer Bảng Recommendation product:

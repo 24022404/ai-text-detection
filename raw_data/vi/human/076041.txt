@@ -1,0 +1,1 @@
+//Analyst.java return df.select(splt(col("tme")," ).getItem(0).as("date"), substrng(col("tme"), 12, 2).cast("nt").as("hour"), col("gud")) .groupBy("date", "hour") .agg(count("gud").as("vew"), countDstnct("gud").as("user")) .collectAsLst(); Phân tích lưu lượng truy cập theo vị trí điịa lý Bà toán: Tính số lượng người dùng, lượt xem báo điện tử theo vị trí điịa lý.

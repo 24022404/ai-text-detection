@@ -1,0 +1,1 @@
+Based on that concept, in , a de Bruijn based timing and synchronization system is introduced using a beacon with an on-off model. In this model, a de Bruijn sequence is transmitted from the satellite to the ground for synchronization.

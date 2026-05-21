@@ -1,0 +1,1 @@
+This short paper discusses an efficient implementation of  for Tensorflow. The speedup over the default implementation is achieved due to simplification of the graph for the forward and backward passes.

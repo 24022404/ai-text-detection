@@ -1,0 +1,1 @@
+() phần Header, () phần Content, và () phần Footer. Trong đó, phần Content sẽ thay đổi tùy thuộc vào từng trang cụ thể của trang web. Bảng 4.1 là bảng các thông số mà trang web hướng tớ.

@@ -1,0 +1,1 @@
+Repository: Tầng nào đảm nhiệm trách nhiệm giao tiếp với Cơ sở dữ liệu thông qua các phương thức được cung cấp và cung cấp các phương thức cho tầng Service. Thường là tầng sử dụng các thư viện ORM.

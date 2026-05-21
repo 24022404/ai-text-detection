@@ -1,0 +1,1 @@
+Reduced session management issues: JWT does not require storing session in formation on the server, reducing session management issues for the application.

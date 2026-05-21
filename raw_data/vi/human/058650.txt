@@ -1,0 +1,1 @@
+Ngoài ra, hợp đồng thông minh là các chương trình phi tập trung và tự thực hiện(selfe cùng), chúng giúp tăng tính minh bạch và giảm chi phí hoạt động. Nếu được triển khai đúng cách, chúng cũng có thể tăng hiệu quả vận hành và giảm chi phí hành chính.

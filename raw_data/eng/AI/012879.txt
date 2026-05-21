@@ -1,0 +1,1 @@
+The HTML file incorporates Django template tags for the dynamic presentation of user details and scan data. Each portion of the template is thoroughly explained for clarity and usability.

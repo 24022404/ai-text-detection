@@ -1,0 +1,5 @@
+Mô hình khung thép được sử dụng rộng rãi trong xây dựng và kiến trúc để tạo nên các công trình vững chắc. Tuy nhiên, khi gắn thiết bị hệ cản khối lượng lên mô hình này, các yếu tố động lực học sẽ được ảnh hưởng đáng kể. Thí nghiệm được thực hiện để phân tích và đánh giá hiệu suất của mô hình khung thép khi gắn thiết bị hệ cản khối lượng.
+
+Kết quả thí nghiệm cho thấy rằng, khi gắn thiết bị hệ cản khối lượng lên mô hình khung thép, mô hình sẽ có khả năng chống chịu tốt hơn trước các tác động ngoại lực như gió, mưa, và các tải trọng khác. Đồng thời, mô hình cũng sẽ có khả năng hấp thụ và phân tán năng lượng tốt hơn, giúp giảm thiểu tác động của các tác động ngoại lực lên công trình.
+
+Phân tích động lực học mô hình khung thép có xét đến việc gắn thiết bị hệ cản khối lượng cho thấy rằng, mô hình này có khả năng đáp ứng tốt các yêu cầu về an toàn và ổn định trong xây dựng và kiến trúc. Tuy nhiên, cần phải tiếp tục nghiên cứu và thử nghiệm để có thể tối ưu hóa hiệu suất của mô hình này.

@@ -1,0 +1,1 @@
+Sau khi chọn video, hệ thống sẽ tự động điền thông tin video như hình 4.13 bên dưới. Người dùng có thể tùy chỉnh video như chú thích, ảnh bìa, cho phép bình luận, video sẽ công khai hay chỉ hiển thị đối với bạn bè hoặc là cá nhân.

@@ -1,0 +1,1 @@
+Chương 4: Trình bày về cách thức phát triển và triển khai phần mềm. Phần mềm được phát triển theo quy trình tuần tự: () Thiết kế kiến trúc, () Thiết kế cho tết, () Xây dựng ứng dụng, (v) Kiểm thử, (v) Triển khai.

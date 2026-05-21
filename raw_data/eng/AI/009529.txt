@@ -1,0 +1,1 @@
+The input includes the application's checksum, file path, and manifest data, which contains information about the app's permissions, components, and configurations. This data ensures accurate identification and detailed analysis of the application's properties.

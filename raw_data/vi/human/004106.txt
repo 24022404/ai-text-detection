@@ -1,0 +1,1 @@
+ĐATN cha ga đoạn sản xuất theo từng tháng, sản phẩm sản xuất tồn kho trong tháng hiện tại sẽ được phục vụ cho nhu cầu đặt hàng trong tháng kế tiếp.

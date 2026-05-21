@@ -1,0 +1,1 @@
+Các thành phần có thể tái sử dụng: Các thành phần là khố xây dựng của bất kỳ ứng dụng React nào và một ứng dụng đơn lẻ thường bao gồm nhiều thành phần.

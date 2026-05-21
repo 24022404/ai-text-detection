@@ -1,0 +1,1 @@
+Việc chọn bộ tối ưu phù hợp là một yếu tố quan trọng trong quá trình huấn luyện mạng Neural Network và có thể ảnh hưởng đến hiệu suất của mô hình.

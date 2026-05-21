@@ -1,0 +1,1 @@
+Ajax: Xử lý yêu cầu dựa trên kỹ thuật Ajax User: xử lý yêu cầu lên quan User Notify: xử lý yêu cầu lên quan Notify Message: xử lý yêu cầu lên quan Massage Major: xử lý yêu cầu lên quan Major ClassiC: xử lý yêu cầu lên quan Class4.2 Thiết kế cho tết 4.2.1 Sơ đồ thực thể liên kết Hình 4.4 là thiết kế cho tết cho sơ đồ thực thể liên kết.

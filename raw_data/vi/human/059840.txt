@@ -1,0 +1,1 @@
+Kh phương thức transform() hoàn tất, dữ liệu được trả về là các dataframe chứa dữ liệu chỉ báo sau khi được tính toán.

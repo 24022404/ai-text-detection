@@ -1,0 +1,1 @@
+Entity package: contains classes that map data tables in the database. With this mapping, data manipulation will be done through objects instead of SQL statements.

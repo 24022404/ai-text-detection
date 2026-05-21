@@ -1,0 +1,1 @@
+Odoo stands out as the best open-source ERP platform thanks to its robust management capabilities and intuitive user interface. With a large developer community constantly enhancing its framework, the presence of a well-structured ORM for SQL operations ensures efficient data handling and seamless integration of new features.

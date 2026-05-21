@@ -1,0 +1,1 @@
+Ngoài ra, NLP cũng có thể được mở rộng điểm bao gồm cơ chế phản hồ và học có nguyên tắc giúp chatbot giao tiếp hiệu quả theo nhiều ngữ cảnh khác nhau.

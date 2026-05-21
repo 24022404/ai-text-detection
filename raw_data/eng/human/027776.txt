@@ -1,0 +1,1 @@
+In the case of CIFAR-10, the target accuracy is established at 76.5% for the 2-layer CNN model and 80.5% for the 4-layer CNN model.

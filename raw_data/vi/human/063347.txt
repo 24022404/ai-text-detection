@@ -1,0 +1,1 @@
+Bằng cách tích hợp các giải pháp đã nêu cùng vớ công nghệ sẽ được nêu trong quyển đồ án này, tôi sẽ thiết kế và tạo ra ứng dụng phát hiện, theo dõi sản phẩm, phát hiện hành vi lấy đồ, cảnh báo hành vi trộm cắp và thông báo hết hàng cho cửa hàng tiện lợi.

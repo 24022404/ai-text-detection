@@ -1,0 +1,1 @@
+Authentication and Authorization Service a, Requirements The Authentication and Authorization service plays a critical role in the Trendzsystem, providing essential APIs for user-related use cases and facilitating interac tions with other microservices. These APIs encompass functionalities such as user login, sign-up, token refreshing, and user identity verification.

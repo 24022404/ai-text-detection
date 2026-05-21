@@ -1,0 +1,1 @@
+Thư viện ORM Eloquent: Laravel đi kèm vớ Eloquent  một thư viện ORM mạnh mẽ cho phép truy vấn cơ sở dữ lệu bằng cách sử dụng các đối tượng PHP thay vì viết các truy vấn SQL trực tiếp. Eloquent giúp giảm đáng kể công việc tương tác với cơ sở dữ lệu và tăng tính bảo mật của ứng dụng.

@@ -1,0 +1,1 @@
+Nội dung của phương pháp SVM thực chất là một thuật toán tối ưu, mục tiêu của thuật toán này là tìm được một không gian F và siêu phẳng quyết định fe trong không gian F sao cho sa số phân loại là thấp nhất.

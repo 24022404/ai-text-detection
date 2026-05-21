@@ -1,0 +1,1 @@
+p r i n t ( row . name ) p r i n t ( row . l o c a t i o n ) p r i n t ( row .  n f o ) Kết quả của câu truy vấn:

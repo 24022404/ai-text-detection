@@ -1,0 +1,1 @@
+Download Smali/Decompiled Code : This sub-use case allows the user todownload the Smali code or decompiled source code of the uploaded file. Af ter analysis, the system decompiles the file to provide the user with the Smali code or Java source code for inspection. This is useful for security researchers or developers who want to review the underlying code of the application.

@@ -1,0 +1,1 @@
+Chọn button thay đổi trạng thái CV3. Chuyển trạng thái CV thành "Đỗ"1Kg chọn option “Đỗ” thì hiển thị popup xác nhận. Nếu người dùng ấn “Cancel” thì trạng thái của CV không bị thay đổi. Nếu người dùng ấn “Submit” thì trạng thái CV thay đổi thành “Đỗ”.

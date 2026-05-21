@@ -1,0 +1,1 @@
+Yêu cầu về bảo mật Mật khẩu của người dùng phải được mã hóa và lưu trữ an toàn trong cơ sở dữ liệu. Không a, kể cả nhà phát triển hay quản trị hệ thống, được phép truy cập để xem thông tin này.

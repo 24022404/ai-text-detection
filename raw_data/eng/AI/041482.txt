@@ -1,0 +1,1 @@
+Pooling layers are typically applied after convolutional layers to efficiently reduce the dimensionality and the number of parameters within feature maps. This reduction becomes especially crucial as deeper layers often contain a rapidly growing number of filters, impacting computational cost.

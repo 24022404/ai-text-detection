@@ -1,0 +1,1 @@
+L. Baldini Soares, N. FitzGerald, J. Ling andT. Kwiatkowski, “Matching the blanks: Distributional similarity for relation learning,” inProceedings of the 57th Annual Meeting of the Association for Computational Linguistics Florence, Italy: Association for Computational Linguistics, july2019, pages 2895–2905.

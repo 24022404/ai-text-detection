@@ -1,0 +1,1 @@
+Trong mục này em sẽ trình bày đặc tả của một số use case quan trọng của hệ thống .

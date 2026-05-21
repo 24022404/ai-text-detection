@@ -1,0 +1,1 @@
+Định hướng đồ án là xây dựng một hệ thống giúp mọi người thuận tiện học tập và chia sẻ kiến thức ở nhiều lĩnh vực. Hệ thống được phát triển trên nền tảng web giúp người dùng dễ dàng truy cập bằng máy tính mọi lúc, mọi nơi. Website được xây dựng gồm hai phần Frontend và Backend, dữ liệu được lưu trữ bằng hệ quản trị cơ sở dữ liệu MySQL.

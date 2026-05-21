@@ -1,0 +1,1 @@
+For the purpose of generating a huge-dataset for pre-training PRIMERA, the authors leverage information expressed as named entities, since they are key part in a sentences about events/objects.

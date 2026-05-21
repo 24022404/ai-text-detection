@@ -1,0 +1,1 @@
+y[book_id] = 0 if and only if the sum of x[user_id][book_id] and user_id of T_book_id is exactly equal to the size T_book_id.

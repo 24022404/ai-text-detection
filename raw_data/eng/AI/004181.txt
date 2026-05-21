@@ -1,0 +1,1 @@
+Signature executors interact via signatures, and when the number of valid signatures exceeds the required threshold, key delegation to a particular user is possible through the use of a multi-signature method.

@@ -1,0 +1,1 @@
+Static analysis reviews an application’s structure, code, and resources without execution, enabling the efficient detection of embedded malicious code, suspicious permissions, and insecure configurations. However, it struggles to identify runtime behaviors or evade advanced obfuscation techniques.

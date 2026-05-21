@@ -1,0 +1,1 @@
+() mã đơn hàng, () số món điã điặt, () tổng số tiền thanh toán, (v) ngày tạo đơn hàng, (về) trạng thái đơn hàng. Giúp người dùng dễ dàng nắm được toàn bộ đơn hàng trong cửa hàng.

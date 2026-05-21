@@ -1,0 +1,1 @@
+Similar content structures: In constrast to the previous obstacle, news articles usually share similar content structure. A news article, no matter where it was written or who wrote it, after the standardizing process would contain similar data fields including title, content, author, published time..

@@ -1,0 +1,1 @@
+Quản lý trung tâm Quản lý yêu cầu Quản lý báo cáo Quản lý và vết Quản lý tiền từ thiện Quản lý cài đặt chung Tuy nhiên, bên cạnh những chức năng nổ bật, em cũng nhận thấy trang web vẫn còn nhiều hạn chế như () Tốc độ xử lý dữ liệu còn chậm, () Lượng dữ liệu còn hạn chế.6.2 Hướng phát triển Hệ thống website của em sẽ còn được phát triển trong tương lai với mục tiêu :

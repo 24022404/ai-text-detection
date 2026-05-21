@@ -1,0 +1,1 @@
+Điều chỉnh thờ gan của JWT: Nếu thờ gần hết hạn của JWT quá lớn hoặc quá nhỏ, nó có thể gây ra vấn đề về bảo mật hoặc hiệu suất của ứng dụng.

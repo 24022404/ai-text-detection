@@ -1,0 +1,1 @@
+The first sub-task is Graph Construction, which involves using the blueprint of the building to create a graph of the interior. Mapbox was used to create the graph, which acts as a digital representation of the building and its different rooms. The graph provides a foundation for the path-finding algorithm to work on.

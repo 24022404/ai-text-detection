@@ -1,0 +1,1 @@
+To manually remove a proxy, access the device’s Wi-Fi settings, choose the network, and set the "Proxy" option to "None" or delete any existing proxy entries.

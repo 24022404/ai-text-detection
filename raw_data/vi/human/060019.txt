@@ -1,0 +1,1 @@
+Frebase có các tính năng bảo mật hàng điầu. Tất cả dữ liệu được truyền qua một kết nối an toàn SSL, việc truy vấn cơ sở dữ liệu truy vấn và việc xác nhận thông tin được điều khển theo một số các quy tắc securty rules language. Các logc bảo mật dữ liệu của bạn được tập trung ở một nơi để dễ dàng cho việc sửa điổ, cập nhật và kểm thử.

@@ -1,0 +1,11 @@
+This graduation thesis explores the development of a violence detection system in surveillance cameras, addressing the growing concern of public safety and security. 
+
+Background & Motivation: The increasing incidence of violent crimes in public spaces has created a need for intelligent surveillance systems that can detect and alert authorities to potential threats in real-time. 
+
+Objectives: The primary objective of this research is to design and develop a deep learning-based model that can accurately detect violent behavior in surveillance footage, aiming to reduce response times and enhance public safety.
+
+Methodology: This thesis employs a computer vision approach, utilizing convolutional neural networks (CNNs) and object detection algorithms to identify violent actions in video streams. A large dataset of annotated surveillance videos is used to train and validate the model.
+
+Results & Expected Contributions: The proposed system demonstrates promising results in detecting violent behavior with high accuracy, outperforming existing state-of-the-art methods. This research contributes to the field of computer vision and surveillance systems, offering a potential solution for real-time violence detection and alert systems.
+
+Conclusion: This thesis presents a novel approach to violence detection in surveillance cameras, highlighting the potential of deep learning techniques in enhancing public safety. Future developments may involve integrating the system with existing surveillance infrastructure and exploring applications in other areas, such as crime prevention and forensic analysis. The findings of this research pave the way for further studies in AI-powered surveillance systems, aiming to create safer and more secure public environments.

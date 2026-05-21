@@ -1,0 +1,1 @@
+Lật: Hình ảnh được lật theo chiều ngang. Đều này mô phỏng hiệu ứng của việc người đó quay đầu sang phía khác.

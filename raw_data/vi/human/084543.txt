@@ -1,0 +1,1 @@
+Hàm số Kernel Linear Hàm số Kernel Linear là một trường hợp đơn giản của Kernel và bằng tích vô hướng của hai vector:

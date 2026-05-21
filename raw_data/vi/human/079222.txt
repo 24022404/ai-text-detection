@@ -1,0 +1,1 @@
+Ở đây, cụ thể trong hàm mất mát của PPO sẽ bao gồm 2 phần, mất mát cho hàm mục tiêu của OPPO và mất mát cho hàm giá trị.

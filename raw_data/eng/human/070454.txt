@@ -1,0 +1,1 @@
+Shortest response time 0.055s Longest response time. 0.47s Average response time 0.067sNumber of successful requests 724Chapter 5 will discuss the achievements of the system, its strengths, and weak nesses . Additionally, it will provide insights into the system’s potential growth and improvements for the future.

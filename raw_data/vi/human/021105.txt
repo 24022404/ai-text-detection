@@ -1,0 +1,1 @@
+Kh xây dựng đồ án môn học em có 2 lựa chọn về hệ quản trị cơ sở dữ liệu: () có quan hệ hoặc () không có quan hệ. Tiêu biểu đó là: () MySQL và () MongoDB MongoDB là một NoSQL database ( hệ quản trị cơ sở dữ liệu không quan hệ).

@@ -1,0 +1,1 @@
+T.Y. Lnp. Goyal, R. Girshick, K. He, and P. Dollár, “Focal loss for dense object detection,” in Proceedings of the IEEE international conference on computer vson , 2017, pp. 2980–2988.

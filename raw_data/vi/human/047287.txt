@@ -1,0 +1,1 @@
+Hệ thống lưu thông tin đơn hàng vào cơ sở dữ liệu và cập nhật số lượng hàng hóa trong kho.

@@ -1,0 +1,1 @@
+CBoW is faster while skip-gram is slower but performs better for infrequent words. In general, Word2Vec uses a machine learning model that increases the generalizability of the model while reducing computational and memory costs.

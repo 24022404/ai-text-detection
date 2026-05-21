@@ -1,0 +1,1 @@
+Identified Limitations and Proposed Focus Based on the current state of Android malware analysis tools, several limitations have been identified that highlight the need for a more efficient, flexible solution.

@@ -1,0 +1,1 @@
+Một số thống nhất khi thiết kế giao diện: () hiển thị thông báo lỗ màu đỏ dưới mỗ ô nhập thông tin (input) kh người dùng không nhập những trường cần thiết, hoặc dữ liệu nhập bị lỗ, () sau khi thêm/ sửa/ xóa/ đăng nhập/ đăng xuất điều có thông báo hiển thị ở góc trên bên phải ở màn hình, () các nút đăng ký có hồng, các nút xác nhận có màu xanh, nút hủy bỏ/từ chối có màu xám.

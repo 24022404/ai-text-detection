@@ -1,0 +1,1 @@
+Do VirtualDUB ngoài đóng vai trò là Model, còn đóng vai trò là Vẽ nên mọi sự thay đổi trên Model đã kéo theo sự thay đổi trên Web và ngược lạ.

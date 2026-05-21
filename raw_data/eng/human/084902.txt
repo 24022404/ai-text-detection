@@ -1,0 +1,1 @@
+M SadMehrabad, S DehnavAran, F Evazabadan andV Mahmoodan, “An ant colony algorthm (aca) for solvng the new ntegrated model of job shop schedulng and conflctfree routng of agvs,” Computers and Industral Engneerng ,jourvol 86,pages 2–13, 2015.

@@ -1,0 +1,1 @@
+An toàn: JWT được mã hóa bằng cách sử dụng thuật toán mã hóa và chữ ký,đảm bảo tính toàn vẹn và an toàn.

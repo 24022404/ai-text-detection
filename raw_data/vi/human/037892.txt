@@ -1,0 +1,1 @@
+CryptoJs CryptoJS là một thư viện mã hóa JavaScript được sử dụng để thực hiện các chức năng bảo mật trên trình duyệt. Thư viện này bao gồm các hàm băm (hash), mã hóa (encryption), gả mã (decryption) và các hàm chữ ký số (digital signatures) để đảm bảo tính toàn vẹn và bảo mật của dữ liệu trong ứng dụng web.

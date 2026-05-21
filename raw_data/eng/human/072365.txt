@@ -1,0 +1,1 @@
+Using ExpressJS to build the backend API. ExpressJS is a web framework for Node.js with strengths such as fast processing speed, flexibility, and ease of use. ExpressJS provides powerful middleware for handling requests and responses, allowing the development of both simple and complex web applications.

@@ -1,0 +1,1 @@
+PostgreSQL is an open-source relational database management system (RDBMS) that is widely used for enterprise applications. It is known for its scalability, reliability, and ability to handle complex queries and large datasets.

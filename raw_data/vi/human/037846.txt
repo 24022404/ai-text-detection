@@ -1,0 +1,1 @@
+() Tền điều kiện: trước khi bắt đầu thực hiện use case yêu cầu phải điăng ký hoặc điã có sẵn tài khoản trên hệ thống.

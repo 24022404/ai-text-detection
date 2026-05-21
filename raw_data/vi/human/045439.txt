@@ -1,0 +1,1 @@
+Hệ thống kểm tra thông tin vừa nhập và lưu trữ công thức được sửa trong cơ sở dữ liệu sau đó chuyển hướng đến trang hồ sơ và hển thị danh sách công thức .Kịch bản khác 6.1 Tạo công thức món ăn 1. Chuyên ga nhấp phần quản lý công thức trên thanh Menu.

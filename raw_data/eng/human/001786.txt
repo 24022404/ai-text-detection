@@ -1,0 +1,1 @@
+This algorithm is a well-known graph theory algorithm that finds the shortest path between all pairs of nodes in a weighted graph. In this case, the nodes are the vertexes of each floor, and the edges are the pathways between the vertexes, with the weights being the previously calculated weights.

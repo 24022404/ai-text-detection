@@ -1,0 +1,1 @@
+Tính toán bao lồi của các điểm 2. Đối với mỗi cạnh của bao lô:•Tính toán hướng cạnh vớ hàm arctan Xoay phần bao lồi bằng cách sử dụng hướng này để dễ dàng tính toán diện tích hình chữ nhật giới hạn vớ tối thiểu/tố địa của x/y của phần bao lồ điã xoay.

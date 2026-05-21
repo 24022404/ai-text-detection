@@ -1,0 +1,1 @@
+Màn hình “create coupon” sẽ bao gồm hai yếu tố chính là phần kết nối với tài khoản metamask, form tạo phiếu khuyến mạ. Ngoài ra sẽ có các phần phụ như navigation bar, trên trang.

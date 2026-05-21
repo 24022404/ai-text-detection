@@ -1,0 +1,1 @@
+■Tạo mới cuộc hội thoại Hình 4.5: Gao dẫn tạo mới cuộc hội thoại Hình 4.5 là thiết kế giao diện màn hình thêm cuộc hội thoại. Người dùng nhập tên cuộc hội thoại muốn tạo và nhấn gửi điểm tạo mới một cuộc hội thoại.

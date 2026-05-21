@@ -1,0 +1,1 @@
+Hệ sinh thái mạnh mẽ: PostgreSQL có một cộng đồng lớn và sự phát triển liên tục. Nó có nhiều tiện ích, plugin và extension mở rộng để mở rộng tính năng và sức mạnh của cơ sở dữ liệu.

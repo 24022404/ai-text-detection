@@ -1,0 +1,1 @@
+Click the “Log in”button2. If the input is incorrect, an error mes sage will appear, request the user to try again.

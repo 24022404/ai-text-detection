@@ -1,0 +1,1 @@
+Tầng lưu trữ dữ liệu: gồm các gói –Tài khoản: lưu trữ thông tin về quản trị viên và thông tin người mua hàng.

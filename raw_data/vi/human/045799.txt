@@ -1,0 +1,1 @@
+Vệc sử dụng giá trị offset này giúp consumers có thể dừng hay kh khở động lạ có thể điọc tếp các message mà không bị mất vị trí điã điọc điược trước đó.

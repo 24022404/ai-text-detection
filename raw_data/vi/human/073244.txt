@@ -1,0 +1,1 @@
+Đầu phân loạ: Đầu ra của bộ mã hóa Transformer được đưa vào điầu phân loạ, lớp này ánh xạ các điặc trưng thành xác suất của các nhãn.

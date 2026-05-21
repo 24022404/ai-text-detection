@@ -1,0 +1,1 @@
+State là một đối tượng lưu trữ các giá trị thuộc tính cho những thuộc tính được gán cho một thành phần có thể thay đổi theo thời gian. State có thể được thay đổi do hành động của người dùng hoặc các thay đổi trong mạng. React kết xuất thành phần đó cho trình duyệt bất cứ khi nào trạng thái của một đối tượng thay đổi.

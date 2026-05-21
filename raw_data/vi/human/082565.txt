@@ -1,0 +1,1 @@
+cm1cm2. . . c mj. . . c mn  Trong ma trận trên, mỗi giá trị ở hàng thứ và cột thứ thể hiện số lượng sản phẩm mà khách hàng thứ j đã mua sản phẩm . Các giá trị là số lượng cụ thể, hoặc 0 nếu sản phẩm đó không được mua bởi khách hàng.

@@ -1,0 +1,1 @@
+Firebase Cloud Messaging a, Khá nệm Firebase  là một dịch vụ cơ sở dữ liệu hoạt động trên nền tảng đám mây, kèm theo đó là các dịch vụ và hệ thống máy chủ cực kỳ mạnh mẽ của Google. Firebase Cloud Messaging (FCM)  là một dịch vụ tích hợp của Firebase. Thông qua FCM, các nhà phát triển có thể gửi thông báo một cách nhanh chóng tớ các thiết bị cài đặt ứng dụng của họ.

@@ -1,0 +1,9 @@
+This study addresses the challenge of non-invasively estimating continuous blood pressure using photoplethysmography (PPG) signals. Traditional methods often require intrusive procedures or dedicated hardware, limiting their applicability in remote and real-time health monitoring applications.
+
+Methods/Approach: We propose a novel federated learning framework to derive continuous blood pressure metrics from PPG signals. Unlike centralized learning approaches, federated learning allows data to remain on local devices, safeguarding patient privacy and enabling a collaborative model training across multiple sources without sharing sensitive data. The model utilizes advanced neural networks tailored for time-series analysis of PPG data, ensuring adaptability and robustness across diverse populations.
+
+Results/Findings: Our approach demonstrates superior performance, achieving a high correlation with invasive blood pressure measurements while maintaining patient privacy through federated learning. The system was validated against multiple datasets collected from diverse demographic groups, showing consistency in blood pressure estimation accuracy and resilience when compared to traditional centralized models.
+
+Conclusion/Implications: This study presents a significant advancement in non-invasive blood pressure estimation by integrating federated learning, ensuring both accuracy and privacy. The proposed system has potential applications in personalized health monitoring and telemedicine, offering a scalable solution for continuous cardiovascular assessment without the need for direct data centralization. By ensuring cross-device model generalization, this work sets a precedent in leveraging federated learning for large-scale health data analytics.
+
+Keywords: continuous blood pressure, PPG, federated learning, non-invasive measurement, privacy-preserving, health monitoring, neural networks.

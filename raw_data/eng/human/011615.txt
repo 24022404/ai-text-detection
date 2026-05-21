@@ -1,0 +1,1 @@
+Having the explicit formula of N(k, s)determined makes it easier to calculate the maximal asymptotic rate of the (k, s)-RdB sequence. The following equation is a direct consequence of theorem 1:

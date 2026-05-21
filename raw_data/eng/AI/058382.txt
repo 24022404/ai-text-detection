@@ -1,0 +1,1 @@
+The process involves the user, the Android application, and a web server, with a key requirement that the Android app must be configured for TLS/SSL communication. The server’s TLS/SSL setup must also be accessible for necessary testing.

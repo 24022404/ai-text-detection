@@ -1,0 +1,1 @@
+Kiểm tra và đánh giá: Kiểm tra Ontology để đảm bảo rằng nó đáp ứng đúng mục tiêu và thông tin được biểu diễn chính xác. Có thể cần điều chỉnh và cải thiện Ontology theo phản hồi và đánh giá từ người sử dụng.

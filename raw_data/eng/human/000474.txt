@@ -1,0 +1,1 @@
+The system displays a login screen with two fields: email and password. The agent enters email and password in these two fields.

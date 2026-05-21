@@ -1,0 +1,5 @@
+Công nghệ mới được phát triển cho phép đo lường và theo dõi nhiệt độ tại các vị trí khác nhau một cách chính xác và tự động. Thiết bị này được thiết kế để cảnh báo và giám sát nhiệt độ một cách hiệu quả, giúp đảm bảo an toàn và hiệu suất trong các ứng dụng công nghiệp và dân dụng.
+
+Thiết bị có khả năng tự động đo lường nhiệt độ tại các vị trí khác nhau và cảnh báo khi nhiệt độ vượt quá giới hạn an toàn. Đồng thời, nó cũng có khả năng giám sát nhiệt độ và gửi thông tin đến hệ thống quản lý để theo dõi và phân tích.
+
+Công nghệ này có thể được ứng dụng trong nhiều lĩnh vực, bao gồm công nghiệp, y tế, và xây dựng. Nó giúp đảm bảo an toàn và hiệu suất trong các ứng dụng khác nhau, đồng thời cũng giúp giảm thiểu rủi ro và tăng cường hiệu suất công việc.

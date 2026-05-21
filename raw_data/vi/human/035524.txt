@@ -1,0 +1,1 @@
+Để đa dạng trong thiết kế quái vật sẽ có nhiều cơ chế kỹ năng và cơ chế di chuyển trong trò chơi sẽ được làm tổng quát và mỗ quái vật sẽ là sự kết hợp của 1 hoặc nhiều cơ chế đó. Sau đây là danh sách những cơ chế di chuyển được thiết kế trong Hình 3.5: Thiết kế nhân vật người chơ Moopy phạm vi đồ án Cơ chế chạy đến nhân vật (di chuyển đến người chơ, né vật cản).

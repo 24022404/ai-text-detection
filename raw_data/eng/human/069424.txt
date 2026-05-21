@@ -1,0 +1,1 @@
+A. Bapna and O. Firat, “Simple, scalable adaptation for neural machine translation.,” inEMNLP/IJCNLP (1) K. Inui, J. Jiang, V. Ng andX. Wan, editors , Association for Computational Linguistics, 2019, pages 1538–1548, ISBN: 978-1-950737-90-1. url:

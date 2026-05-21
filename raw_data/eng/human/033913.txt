@@ -1,0 +1,1 @@
+This problem, discovering the position within a particular sequence of any spec ified k-tuple, has been much less well studied. There are just some classical de Bruijn sequences with sub-ar decoding algorithm –.

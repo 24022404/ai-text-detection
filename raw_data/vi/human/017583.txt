@@ -1,0 +1,1 @@
+Mô tả biến thể có định dạng “prefix.boston(s)change” . Ví dụ về biến thể c.4375C>T", tiền tố "c." cho biết loại trình tự tham chiếu được sử dụng là cho trình tự tham chiếu DNA mã hóa, “4375” là vị trí của nucleotide bị ảnh hưởng và “C>T” là thay đổi của đột biến, cụ thể ở điây C điã bị bến đổ thành T. Các loại tiền tố được sử dụng trong HGVS:

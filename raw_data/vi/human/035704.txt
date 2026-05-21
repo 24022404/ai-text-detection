@@ -1,0 +1,1 @@
+User: Thực thể "User" mô tả một người dùng trong hệ thống có thể. Mỗ User" có thể có nhều "Role" và nhều "Permsson".

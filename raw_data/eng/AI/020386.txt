@@ -1,0 +1,9 @@
+Objective: Smartphone-based photo scanning often suffers from real-world degradations—motion blur, uneven lighting, lens distortion, and sensor noise—that undermine output quality and downstream tasks such as OCR or archiving. This paper introduces Deep Photo Scan, a semi-supervised learning framework designed to restore and enhance scanned images under diverse, uncontrolled conditions.
+
+Methods: We propose a dual-branch deep convolutional network that leverages both labeled synthetic scans and large collections of unlabeled real smartphone captures. A consistency-based self-supervision loss encourages the model to produce stable outputs under random perturbations, while an adversarial domain adaptation module aligns feature distributions between synthetic and real data. During training, we employ progressive fine-tuning to balance reconstruction fidelity and artifact suppression without requiring pixel-perfect labels on real images.
+
+Results: On a newly compiled benchmark of 3,500 real-world smartphone scans, Deep Photo Scan achieves an average PSNR gain of 2.3 dB and SSIM improvement of 0.12 over state-of-the-art supervised baselines. OCR accuracy on restored text regions increases by 15%, and user studies report a 25% higher perceptual quality rating compared to leading commercial scanning apps. Ablation experiments confirm the effectiveness of semi-supervised consistency regularization and domain adaptation components.
+
+Conclusion: Deep Photo Scan demonstrates that semi-supervised learning can bridge the gap between synthetic training data and real-world degradations in smartphone scanning. Its scalable training paradigm and robust performance make it suitable for next-generation mobile scanning applications and large-scale digital archiving.
+
+Keywords: smartphone scanning, semi-supervised learning, image restoration, domain adaptation, deep convolutional networks, OCR enhancement.

@@ -1,0 +1,1 @@
+SSR là một dạng render nó riêng của khá nệm prerendering. Cách thức hoạt động sẽ là server đã render sẵn phần HTML, kh người dùng gọi yêu cầu tới server, server sẽ gửi đoạn HTML lên trên web và nhiệm vụ còn lại là gắn các phần code của JavaScript để hoàn thiện 1 website chính thức cho người dùng.

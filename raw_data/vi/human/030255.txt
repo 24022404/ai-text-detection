@@ -1,0 +1,1 @@
+() Tền điều kiện: để thực hiện được use case này yêu cầu quản trị viên phải đăng nhập vào tà khoản quản trị điã có sẵn từ trước.

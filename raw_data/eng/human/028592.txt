@@ -1,0 +1,1 @@
+Unity 5.6 added new lighting and particle effects, updated the engine’s overall per formance, and added native support for Nintendo Switch, Facebook Gameroom, Google Daydream, and the Vulkan graphics API. It introduced a 4K video player capable of running 360-degree videos for virtual reality.

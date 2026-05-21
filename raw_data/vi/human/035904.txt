@@ -1,0 +1,1 @@
+Do Apache Drud là cơ sở dữ liệu tmeseres, nên trong mỗ bảng bắt buộc có một cột tmestamp. Cột tmestamp này được Drud sử dụng để phân mảnh và sắp xếp dữ liệu trong bảng.

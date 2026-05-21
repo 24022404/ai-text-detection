@@ -1,0 +1,1 @@
+The analysis starts with a signed file—such as an APK, executable, or document—and its certificate, which typically includes the public key required to verify the identity and authenticity of the signer, ensuring the file’s legitimacy.

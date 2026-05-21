@@ -1,0 +1,1 @@
+Thứ ba hệ thống sẽ thống nhất các dữ lệu về người dùng thu thập được với dữ lệu về người dùng của hệ thống khách hàng. Từ đó đưa ra 1 cái nhìn tổng quan cho người quản trị website về các người dùng của mình.Ở bước này các dữ lệu về hành vi của người dùng ở các website khác cũng sẽ được thống nhất.

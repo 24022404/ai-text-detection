@@ -1,0 +1,1 @@
+Bước 1: Sử dụng gói socket.o để nhắn tin thờ gan thực Bước 2: Đảng viên nhập tin nhắn và gửi cho bí thư Bước 3: Bí thư phản hồi đảng viên 5.4.3 Kết quả đạt được Hình 5.8 là kết quả đạt được cho Giao diện nhắn tin giữa đảng viên và bí thư.

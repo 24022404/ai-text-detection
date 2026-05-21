@@ -1,0 +1,9 @@
+This paper introduces a novel application of Convolutional Neural Networks (CNN) for detecting gaze preference in children as a diagnostic tool for Autism Spectrum Disorder (ASD). Traditional methods for diagnosing ASD are often time-consuming and rely heavily on subjective observations. This research aims to provide an objective, automated solution to aid clinicians in early detection.
+
+Methods/Approach: Our approach employs a specially designed CNN model trained on a dataset of eye-tracking data collected from both neurotypical children and those diagnosed with ASD. The model processes the input data to identify patterns and anomalies in gaze preference that are indicative of ASD. Preprocessing techniques were employed to enhance data quality, and the model was optimized via hyperparameter tuning to improve performance.
+
+Results/Findings: The proposed CNN model achieved significant accuracy in distinguishing between ASD and non-ASD gaze patterns, with sensitivity and specificity rates exceeding those reported in previous studies. Comparative analysis indicates our CNN-based method outperforms existing automated diagnostic tools, demonstrating its potential efficacy in clinical settings.
+
+Conclusion/Implications: Our research highlights the efficacy of convolutional neural networks as a diagnostic tool for ASD, providing a non-invasive, objective, and efficient approach that can be easily implemented in clinical environments. The findings indicate potential for further applications in diverse diagnostic domains and underscore the need for continued development of AI-driven methodologies in healthcare. This work contributes to the broader understanding of utilizing machine learning in early diagnosis and intervention strategies for autism.
+
+Keywords: Convolutional Neural Network, gaze preference detection, Autism Spectrum Disorder, diagnostics, eye-tracking, machine learning.

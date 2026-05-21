@@ -1,0 +1,1 @@
+Khách hàng truy cập email và xác nhận đăng ký bằng cách nhấn vào liên kết trong email xác nhận.

@@ -1,0 +1,1 @@
+Repository : Gồm các class cung cấp những phương thức thực hiện các câu truy vấn đến cơ sở dữ liệu.

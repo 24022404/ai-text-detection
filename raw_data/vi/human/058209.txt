@@ -1,0 +1,1 @@
+MTO là phương thức sản xuất cho phép người tiêu dùng mua những sản phẩm được tùy chỉnh theo thông số kỹ thuật mà họ mong muốn. Trong quy trình sản xuất này, việc sản xuất một mặt hàng chỉ bắt đầu được tiến hành sau khi nhận được đơn đặt hàng của khách hàng.

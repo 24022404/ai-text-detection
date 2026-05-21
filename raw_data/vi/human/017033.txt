@@ -1,0 +1,1 @@
+Thiết kế cho tết có Hình 4.3: Biểu đồ thiết kế cho tết có Trên đây là biểu đồ góc tết mô tả tương tác giữa các góc view,controller , service ,model ,dto,repository với nhau.Sau đây là thiết kế cho tết gó của các use case chính:

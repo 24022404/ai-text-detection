@@ -1,0 +1,1 @@
+NumPy được trang bị các hàm số điã điược tố ưu, cho phép làm việc hiệu quả với ma trận và mảng, đặc biệt là dữ lệu ma trận và mảng lớn với tốc độ xử lý nhanh hơn nhiều lần kh chỉ sử dụng Python đơn thuần.đang tìm hiểu về các con số. Vì phần lớn Khoa học Dữ lệu và  Máy học xoay quanh Thống kê, nên việc thực hành trở nên quan trọng hơn nhiều.

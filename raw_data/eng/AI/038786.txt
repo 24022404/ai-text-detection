@@ -1,0 +1,1 @@
+N. Dmitry and S.-S. Manfred’s article explores microservices architecture, highlighting its modular design, scalability, and independent service deployment.

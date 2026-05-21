@@ -1,0 +1,1 @@
+Hàm mục tiêu của các phương pháp học tăng cường dựa vào policy gradient  sẽ là =X Trong đó PH t=0R(st, ut)là tổng các điểm thưởng của từng cặp trạng thái và hành động có thể xảy ra.

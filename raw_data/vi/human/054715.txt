@@ -1,0 +1,1 @@
+TE=h te(1), te(2), ..., têN) (3.2) Bên cạnh đó, có những đặc trưng như độ dài của văn bản, số lượng ký tự là chữ số trong văn bản, tọa độ của hộp văn bản là những đặc trưng được em xem xét cho mô hình mạng nơron đồ thị. Cụ thể, trong những bộ dữ liệu hiện tại, có những trường thông tin chứa chữ số nên đặc trưng mớ cũng sẽ được mô hình đề xuất học trong quá trình huấn luyện.

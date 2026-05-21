@@ -1,0 +1,1 @@
+Hệ thống lưu trữ dữ liệu điẩm bảo tính phân tán và tính chịu lỗ. Ngoà ra nền tảng cần điáp ứng khả năng mở rộng tài nguyên trong trường hợp số lượng người dùng tăng lên vượt quá khả năng sẵn có.

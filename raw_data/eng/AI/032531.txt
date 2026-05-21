@@ -1,0 +1,1 @@
+A Ticket Service Level Agreement (SLA) specifies the expected response or resolution time for support tickets depending on their priority, such as low, medium, or high. Satisfying the SLA requires handling the ticket within the timeframe agreed, such as resolving it in 4 hours.

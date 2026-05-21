@@ -1,0 +1,1 @@
+Trong đồ án này, chúng tôi đã sử dụng hệ quản trị cơ sở dữ liệu MongoDb, điểm xây dựng tầng dữ liệu trong ứng dụng của mình.Hình 4.1: Kiến trúc ba tầng Hình 4.1 là sơ đồ kiến trúc tổng quan ba tầng. Trong đô ta thấy tầng ứng dụng có 3 lớp: Lớp trình diễn, lớp nghiệp vụ và lớp lưu trữ.

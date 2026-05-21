@@ -1,0 +1,1 @@
+Class Product có các thuộc tính protected name (string), description (string), support (string), vendor d (nt), category_id (nt), mg url (string), certificate (string).

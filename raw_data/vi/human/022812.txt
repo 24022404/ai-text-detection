@@ -1,0 +1,1 @@
+Trong đó, Có “Model” chứa các class như User, Category, Recruitment ... tham chiếu tới các bảng tương ứng trong cơ sở dữ lệu (CSDL).

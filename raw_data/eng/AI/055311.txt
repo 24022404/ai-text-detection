@@ -1,0 +1,1 @@
+For S(uk,s) = 1 + X, fixing 1 ⩽ t ⩽ k yields k–t+1 pairs (i, j) with t = k–i–j; when i + j ⩽ s, substring 1x1t contains s+1 zeros, so C1 is a sum over i, j ⩾ 0 where M = max(s+3, k–s).

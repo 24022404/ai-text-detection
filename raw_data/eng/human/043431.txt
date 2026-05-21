@@ -1,0 +1,1 @@
+It is actually an enhanced version of ’Borg’ for managing the long-running pro cesses and batch jobs. Nowadays, many cloud services offer a Kubernetes-based infrastructure on which it can be deployed as the platform-providing service. This technique or concept works with many container tools, like docker, and follows the client-server architecture.

@@ -1,0 +1,1 @@
+extJs là một framework dùng để xây dựng hiệu quả một ứng dụng backend (server side application) có thể mở rộng (scalable) sau này. Nó sử dụng ngôn ngữ TypeScript và kết hợp các thành phần của lập trình hướng đối tượng (Object Oriented Programming), lập trình hàm (Functional Programming) và lập trình phản ứng hàm (Functional Reactive Programming) .

@@ -1,0 +1,1 @@
+publc : chứa các file ndex.php, .htaccess, assets (thường dùng để chứa các file js, css, mage của gao dện). Fle khi khở chạy ứng dụng, file.htaccess sẽ chuyển hướng mọ yêu cầu (request) tới file ndex.php, n dex.php sẻ gọi đến các thành phần tương ứng của Laravel (model, vew, controller, . . . ) điể thực th và trả về kết quả (response).

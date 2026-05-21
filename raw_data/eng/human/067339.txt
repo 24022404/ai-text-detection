@@ -1,0 +1,1 @@
+Definition Aspect-based sentiment analysis (ABSA) is a machine learning task that is used for identifying and assigning sentiment to a subject within a sentence or paragraph.

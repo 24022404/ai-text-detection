@@ -1,0 +1,1 @@
+Sau khi thực hiện khảo sát, em đã xác định được chức năng cần thiết của hệ thống. Từ đó xây dựng các biểu đồ use case, các quy trình nghiệp vụ quan trọng.

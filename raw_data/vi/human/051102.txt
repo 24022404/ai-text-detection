@@ -1,0 +1,1 @@
+Vew chính là nớ chứa những gao diện như một nút bấm, vùng nhập dữ lệu từ bàn phím, menu, hình ảnh, nó điảm nhệm nhệm vụ hển thị dữ lệu và gúp người dùng tương tác với hệ thống.

@@ -1,0 +1,1 @@
+Nhờ các tính năng trên, MongoDB thường có tốc độ xử lý nhanh hơn so RDBMS trong môi trường lớn và phức tạp. Đều này do cấu trúc NoSQL của Mongodb, cho phép nó lưu trữ và truy xuất dữ liệu hiệu quả hơn. Nhìn vào biểu đồ dưới đây có thể thấy rõ MongoDB tỏ ra vượt trội hơn hẳn so với SQL về hiệu suất (khoảng 3 lần).

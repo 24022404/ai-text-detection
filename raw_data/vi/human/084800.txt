@@ -1,0 +1,1 @@
+Gó Controller : Xử lý yêu cầu, logic của hệ thống, route các API tớ hệ thống và trả về dữ liệu cho View.

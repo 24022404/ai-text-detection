@@ -1,0 +1,1 @@
+Là use case tạo tin nhắn, use case xóa tin nhắn, use case xem tin nhắn. Vớ use case tạo tin nhắn cho phép người dùng có thể nhắn tin qua lại với một người dùng khác trên website khi 2 người đã là bạn bè của nhau. Use case xóa tin nhắn, chức năng này cho phép người dùng có thể xóa tn nhắn kh điã tạo tn nhắn.

@@ -1,0 +1,9 @@
+Nghiên cứu mới đây đã tập trung vào việc phân hủy norfloxacin, một loại kháng sinh phổ biến, bằng cách sử dụng quá trình ôxy hóa tiên tiến kết hợp với tia UV và TiO2. Norfloxacin là một loại kháng sinh được sử dụng rộng rãi để điều trị các bệnh nhiễm trùng, nhưng nó cũng có thể gây ra tác dụng phụ và ảnh hưởng đến môi trường.
+
+Quá trình ôxy hóa tiên tiến sử dụng UV TiO2 H2O đã được chứng minh là có thể phân hủy norfloxacin hiệu quả. Trong quá trình này, tia UV được sử dụng để kích hoạt TiO2, tạo ra các gốc tự do mạnh có khả năng phân hủy norfloxacin. H2O được sử dụng như một chất xúc tác để tăng cường hiệu suất phân hủy.
+
+Kết quả nghiên cứu cho thấy rằng quá trình ôxy hóa tiên tiến này có thể phân hủy norfloxacin với hiệu suất lên đến 90%. Điều này cho thấy rằng quá trình này có thể là một giải pháp hiệu quả để loại bỏ norfloxacin khỏi môi trường và giảm thiểu tác động tiêu cực của nó.
+
+Nghiên cứu này cũng đã đánh giá tác động của quá trình ôxy hóa tiên tiến lên môi trường và cho thấy rằng nó không gây ra tác động tiêu cực đáng kể. Điều này cho thấy rằng quá trình này có thể được sử dụng an toàn trong việc phân hủy norfloxacin và các chất ô nhiễm khác.
+
+Tổng kết, nghiên cứu này đã chứng minh rằng quá trình ôxy hóa tiên tiến sử dụng UV TiO2 H2O có thể phân hủy norfloxacin hiệu quả và an toàn. Điều này có thể giúp giảm thiểu tác động tiêu cực của norfloxacin lên môi trường và con người.

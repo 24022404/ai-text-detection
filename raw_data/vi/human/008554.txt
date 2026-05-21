@@ -1,0 +1,1 @@
+Sử dụng phương pháp Proximal Policy Gradient, em tiến hành huấn luyện agent điểm tối ưu hoá policy của nó để gả được bài toán điền ra.

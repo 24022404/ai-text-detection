@@ -1,0 +1,1 @@
+Luồng sự kiện thay thế Không Luồng xử lý ngoại lệ 3a. Người dùng nhập Email không hợp lệ, hệ thống thông báo lỗ.

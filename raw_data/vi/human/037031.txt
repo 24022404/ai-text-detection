@@ -1,0 +1,1 @@
+Hơn nữa, vệc phát trển đồ án em thực hiện ở một framework mớ là laravel, một ngôn ngữ không hẳn là mớ nhưng là lần điầu tên em áp dụng điược hầu hết những thứ cơ bản cảu lập trình web HTML, CSS, Javascrpt.

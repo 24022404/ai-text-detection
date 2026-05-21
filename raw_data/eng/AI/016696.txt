@@ -1,0 +1,11 @@
+Here is a potential abstract for the graduation thesis:
+
+The increasing adoption of Web3 technologies has highlighted the need for secure and decentralized authentication mechanisms. Traditional social login systems are centralized, making them vulnerable to single-point failures and data breaches. This thesis addresses the problem by proposing a novel social login solution for Web3, leveraging Shamir's secret sharing and verified Distributed Key Generation (DKG). 
+
+The primary objective of this research is to design and develop a decentralized social login system that ensures secure and private user authentication, while maintaining the benefits of social login functionality. The system aims to solve the problems of centralized trust and single-point failures, providing a more robust and resilient authentication mechanism for Web3 applications.
+
+The proposed solution utilizes Shamir's secret sharing to securely distribute user credentials among multiple nodes, and verified DKG to establish a collective public key for authentication. The system architecture is built using blockchain and distributed ledger technologies, ensuring a decentralized and transparent authentication process.
+
+The results of this research demonstrate a functional social login system for Web3, providing secure and private user authentication. The expected contributions of this research include enhancing the security and privacy of Web3 applications, promoting the adoption of decentralized authentication mechanisms, and providing a foundation for future research in decentralized identity management.
+
+In conclusion, this thesis presents a novel social login solution for Web3, addressing the need for secure and decentralized authentication mechanisms. The proposed system has the potential to enhance the security and privacy of Web3 applications, and future research directions include exploring the integration of this solution with existing Web3 platforms and applications.

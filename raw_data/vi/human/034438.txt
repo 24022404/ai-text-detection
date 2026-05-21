@@ -1,0 +1,1 @@
+Nút "mở" duy nhất bây giờ là nút địa điểm. Việc tận dụng mẫu Môtô trong thuật toán nhằm trích xuất các giá trị hữu ích từ mạng thông tin không đồng nhất. Việc áp dụng tiêu đường dẫn  và các mẫu Môtô  như vậy điã điược áp dụng rộng NETWORK rã điển trích xuất các cấu trúc thông tin có giá trị từ mạng Internet.

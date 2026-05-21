@@ -1,0 +1,1 @@
+Người dùng thường là quản trị viên. Sau khi đăng nhập vào hệ thống sẽ có thông tin quản lý về người dùng, người dùng có quyền quản lý các cửa hàng, đơn hàng, kho, sản phẩm, khách hàng. Người dùng có quyền quản lý nhân viên và phân quyền cho các nhân vên.

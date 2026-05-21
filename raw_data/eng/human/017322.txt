@@ -1,0 +1,1 @@
+For each user_id, call S_user_id the set of book_ids rated by the user then for each user_id: sum of x[user_id][book_id] with book_id belonging to S_user_id must be >= max(1, 0.3 * S_user_id size).

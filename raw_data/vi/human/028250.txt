@@ -1,0 +1,1 @@
+Hiện tại đia số giải pháp cho bài toán mớ chỉ giải quyết tốt cho bà toán phân tích sắc thái ở cấp độ đơn giản, tức là phân tích sắc thái vớ ha phân lớp cảm xúc tích cực (positive) và tiêu cực (negative) với độ chính xác hơn 85%.

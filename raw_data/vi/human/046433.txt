@@ -1,0 +1,1 @@
+Trong đó, Ant Design là một thư viện UI bên thứ ba phổ biến và được sử dụng rộng rãi trong cộng đồng React. Thư viện này cung cấp các thành phần UI đẹp mắt và dễ sử dụng, giúp cho việc xây dựng giao diện người dùng trở nên dễ dàng hơn và đồng bộ hơn. Việc sử dụng thư viện UI bên thứ ba như Ant Design cũng giúp tiết kệm thờ gan và tăng tốc độ phát triển của trang web React.

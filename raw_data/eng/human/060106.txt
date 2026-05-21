@@ -1,0 +1,1 @@
+Develop and build a Helpdesk website with a customer management system implemented for the ANSV. The software architect pattern in this project is Model View Control and applied with the programming language of Odoo and HTML.

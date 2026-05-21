@@ -1,0 +1,1 @@
+Bên cạnh đó, để cải tiến hiệu năng cho các trang web, React đã sử dụng Virtual DOM giúp lưu lại cấu trúc gao đen và đồng bộ với cấu trúc DOM. Mỗi khi có sự thay đổi, React chỉ render lạ các phần tử cần thay đổi mà không render lại toàn bộ trang web. Điều này khiến cảm thờ gan tính toán và tăng hiệu năng trang web một cách đáng kể.

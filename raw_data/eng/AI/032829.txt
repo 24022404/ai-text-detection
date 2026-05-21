@@ -1,0 +1,1 @@
+Lemma 6 asserts that the lexicographically minimal de Bruijn sequence of order k is created by concatenating all Lyndon words whose lengths divide k, in lex order.

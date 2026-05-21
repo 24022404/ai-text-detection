@@ -1,0 +1,1 @@
+Methodology Extracting Certificate Data: Log the error and display a message withthe –First, extract the APK using a tool like apktool orunzip .

@@ -1,0 +1,9 @@
+Objective: Off-policy reinforcement learning (RL) methods offer strong theoretical guarantees but often suffer from instability and poor sample efficiency when deployed in complex environments. This paper introduces a novel framework for automatically learning update routines that improves stability and accelerates learning in off-policy settings.  
+
+Methods: We formulate the problem of designing update rules as a meta-learning task, where a parametric “routine network” is trained to generate gradient updates for the policy and value functions. Rather than relying on handcrafted temporal-difference or policy-gradient schemes, our approach uses experiences collected by a behavior policy to train both the agent and its own update routines end-to-end. The routine network observes key statistics—such as TD errors, state–action distributions, and reward signals—and outputs tailored update steps that adapt dynamically to the current learning stage.  
+
+Results: Experiments on continuous control benchmarks and grid-world navigation tasks demonstrate that agents equipped with learned routines achieve up to 40% faster convergence and 25% higher final performance compared to standard off-policy algorithms (e.g., DDPG, SAC). The learned routines consistently reduce variance in value estimates and maintain stable policy updates across diverse environments.  
+
+Conclusion: By shifting the design of off-policy update rules from manual engineering to data-driven learning, our framework delivers both practical benefits in efficiency and a new direction for automated algorithm discovery in RL. Potential applications include robotics, autonomous navigation, and any domain requiring robust sample-efficient learning.  
+
+Keywords: off-policy reinforcement learning, meta-learning, update rules, sample efficiency, reinforcement learning routines, automated algorithm design.

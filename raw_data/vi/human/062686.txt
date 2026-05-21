@@ -1,0 +1,1 @@
+Như đã trình bày ở Chương 1, nguồn dữ lệu được sử dụng trong đồ án là nhật ký gh lạ kh người dùng truy cập trang web của một số trang báo điện tử ở Việt Nam. Đây là nguồn dữ lệu thuộc về công ty VCCorp  nợ em đang làm việc và em đã được phép sử dụng dữ lệu này cho mục đích làm đồ án tốt nghiệp.

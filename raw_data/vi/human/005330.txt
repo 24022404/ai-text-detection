@@ -1,0 +1,1 @@
+Đã hoàn thành điầy điủ các chức năng cần thiết: quản lý điơn hàng, quản lý sản phẩm, quản lý người dùng, điã có thể đi vào hoạt điộng ổn định Các thông số của hệ thống (dung lượng mã nguồn, dung lượng gó, số dòng code trong mã nguồn) được lệt kê trong bảng dưới điây:

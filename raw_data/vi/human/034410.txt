@@ -1,0 +1,1 @@
+Smart contract là một lớp bên ngoài, nó có chức năng thực hiện giao dịch Database ở đây là restore là một lớp bên ngoài, nó sẽ sử dụng phương thức updateData (tên phương thức này chỉ là đặc tính, không phải tên thật) để cập nhập dữ lệu trong CSDL.

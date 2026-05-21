@@ -1,0 +1,1 @@
+Website cho khách hàng•Là một website được kết nối với cơ sở dữ lệu, có các công cụ quản trị cho cửa hàng quản lý, tùy chỉnh các nội dung trong website.

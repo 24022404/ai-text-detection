@@ -1,0 +1,1 @@
+In a hypothetical scenario where nodes with less information possess samples belonging to classes not present in nodes with more information, it would not be reasonable to significantly diminish the influence of the less informative nodes.

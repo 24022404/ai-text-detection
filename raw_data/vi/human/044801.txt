@@ -1,0 +1,1 @@
+Cập nhật thông tin cá nhân: khách hàng sau khi đăng nhập có thể cập nhật lại thông tin của mình trong tài khoản.

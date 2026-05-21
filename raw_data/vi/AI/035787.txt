@@ -1,0 +1,3 @@
+MỘT PHƯƠNG PHÁP ĐIỀU CHỈNH REGULATOR PID ĐẢM BẢO ĐƯỢC INDEX RUNG LỰC NHỎ ĐƯỢC XÁC ĐỊNH TRƯỚC KHI
+
+Một phương pháp điều chỉnh Regulator PID mới được phát triển nhằm đảm bảo rằng index rung lực nhỏ được xác định trước khi xảy ra. Phương pháp này sử dụng một thuật toán phức tạp để điều chỉnh các tham số của Regulator PID, đảm bảo rằng hệ thống sẽ đạt được trạng thái ổn định và rung lực nhỏ trong một khoảng thời gian xác định. Phương pháp này được ứng dụng trong các hệ thống điều khiển tự động, giúp tăng cường độ ổn định và giảm thiểu rung lực trong các ứng dụng công nghiệp.

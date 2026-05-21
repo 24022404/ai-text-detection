@@ -1,0 +1,1 @@
+Thiết kế cơ sở dữ liệu Phần trên em đã hoàn thành việc trình bày thiết kế một số góc và lớp quan trọng của hệ thống. Phần thiết kế cơ sở dữ liệu này, em sẽ trình bày sơ đồ thực thể ER cùng cơ sở dữ liệu được thiết kế dựa trên sơ đồ ER.

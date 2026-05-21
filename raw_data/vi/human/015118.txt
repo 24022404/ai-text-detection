@@ -1,0 +1,1 @@
+Yêu cầu giao diện người dùng Giao diện người dùng phải luôn đạt được yếu tố dễ dùng, đơn giản hoá các thao tác đồng thờ thờ gan phản hồi các yêu cầu của người dùng không được quá lâu.

@@ -1,0 +1,1 @@
+R. S. Sutton, D. McAllester, S. Singh, and Y. Mansour, “Policy gradient methods for reinforcement learning with function approximation,” Advances in neural information processing systems , vol. 12, 1999.

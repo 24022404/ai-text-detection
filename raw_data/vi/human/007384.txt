@@ -1,0 +1,1 @@
+Có cung cấp tính năng Responsve: Mặt tích cực khác của Bootsrtap là nó được xây dựng sẵn responsve CSS trên các thiết bị phones, tablets và desktops.

@@ -1,0 +1,1 @@
+Hướng tiếp cận thay thế có thể được chọn là Express Framework. Spring Boot được lựa chọn bởi vì sự đơn gan trong việc cài đặt và triển khai, không mất quá nhiều thờ gan cho việc cấu hình thay vào đấy, dành thờ gan cho các tính năng.

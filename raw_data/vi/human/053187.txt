@@ -1,0 +1,1 @@
+Về mặt ưu điểm, CryptoJS là một thư viện mã hóa JavaScript mạnh mẽ và được sử dụng rộng rãi trong ứng dụng web vì nhiều lý do:

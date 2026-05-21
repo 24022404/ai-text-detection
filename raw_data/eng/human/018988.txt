@@ -1,0 +1,1 @@
+However, we ran into problems with query efficiency. Reading every file on Eueno would be necessary to retrieve a video’s details, which would take a lot of time and resources, especially if the platform’s video library grew.

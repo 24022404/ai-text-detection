@@ -1,0 +1,1 @@
+15a. Hệ thống thông báo thêm mớ khóa học không thành công Hậu điều kiện Không có Ngoại lệ Không có Bảng 2.3: Đặc tả use case Thêm khóa học 2.3.2 Đặc tả use case Lọc khóa học Mã use case UC02 Tên use case Lọc khóa học Tên tác nhân Người dùng hoặc quản trị viên Mô tả Người dùng/quản trị viên lọc danh sách khóa học theo tên và danh mục khóa học.

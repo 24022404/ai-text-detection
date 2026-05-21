@@ -1,0 +1,1 @@
+Việc tìm kiếm và sửa lỗ được xảy ra nhanh hơn. Vì vậy, giảm nguy cơ tìm thấy lỗ vào cuối quá trình kiểm thử.

@@ -1,0 +1,1 @@
+Mỗ nút trong mạng được kết nối với một nút khác trong lớp tếp theo, và mỗ kết 6 này có một trọng số cụ thể. Các trọng số này được gán cho mỗ điơn vị dựa trên mức điộ quan trọng tương điố của nó so với các điầu vào khác.

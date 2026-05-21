@@ -1,0 +1,1 @@
+Thiết kế giao diện aGao điện dành cho Người dùng Hệ thống cung cấp cho người dùng giao diện web, một số màn hình chính của giao diện web được thiết kế như sau.

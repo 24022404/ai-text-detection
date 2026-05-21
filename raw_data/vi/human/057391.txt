@@ -1,0 +1,1 @@
+Thực hiện chuẩn bị dữ liệu Em thực hiện xây dựng một đoạn code bằng Selenium điểm thu thập những câu bình luận trên trang thế giới di động, sau khi thu thập được 3000 câu sẽ đánh 1 nhãn trong 3 nhãn POS(Positive), NAD (Negative) và NEU(Neutral) cho các câu bình luận.

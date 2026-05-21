@@ -1,0 +1,1 @@
+Dữ liệu lên kết động: Với Semantic Web, chúng ta có thể kết hợp các thông tn điã điược mô tả và gàu ngữ nghĩa với bất kỳ nguồn dữ liệu nào. Không chỉ cung cấp các URL cho tài liệu như đỉa làm trong quá khứ mà còn cho con người, các khái niệm, các mối liên hệ .

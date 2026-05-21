@@ -1,0 +1,9 @@
+This study addresses the challenge of enhancing the performance of image matching techniques by introducing the Least Squares Normalized Cross Correlation (LSNCC) method. The primary aim is to improve the accuracy and robustness of image comparison in various computer vision applications.
+
+Methods: The proposed method combines the concepts of least squares fitting with normalized cross correlation to form a novel image matching algorithm. By integrating these two approaches, the LSNCC method provides improved precision in aligning images by minimizing the errors commonly associated with traditional normalized cross correlation. The study details the algorithmic implementation of LSNCC, highlighting its adaptive weighting mechanism and computational efficiency.
+
+Results: Experimental evaluations demonstrate that the LSNCC method significantly outperforms conventional normalized cross correlation techniques. The results indicate superior accuracy in image matching, with the LSNCC algorithm consistently achieving higher correlation values and improved alignment accuracy in both synthetic and real-world datasets. Comparative analysis shows a marked improvement in matching performance, especially under varying light conditions and noise levels.
+
+Conclusion: The Least Squares Normalized Cross Correlation method offers a robust and efficient solution for image matching problems, addressing limitations found in existing methods. This research contributes to the field by providing an innovative algorithm that enhances image registration and comparison tasks across diverse applications. Potential applications include medical imaging, 3D reconstruction, and autonomous driving systems, where precise image alignment is crucial. 
+
+Keywords: Image Matching, Least Squares, Normalized Cross Correlation, Computer Vision, Algorithm Efficiency.

@@ -1,0 +1,9 @@
+Objective: Machine learning models for tabular data are widely used in critical domains but often lack reliable explanations that reflect true feature–target relationships. This paper introduces a framework for “ground truth explainability” that allows practitioners to measure how faithfully post hoc explanation methods recover known, data-generation mechanisms.
+
+Methods: We first define a ground truth explanation as the set of feature attributions derived directly from the underlying data-generation process or an agreed causal model. We then propose GTXBench, a benchmark suite of synthetic and semi-synthetic tabular datasets with controllable feature interactions and noise levels. To quantify explainability fidelity, we introduce the GT-Score, which compares candidate attributions against ground truth attributions in terms of rank correlation and attribution error. Finally, we evaluate popular explainers (SHAP, LIME, permutation importance) across GTXBench and real-world case studies in healthcare and finance.
+
+Results: Experiments show that off-the-shelf explainers achieve at most 60% fidelity on complex interaction datasets, often misranking key features. By contrast, explanations calibrated with our ground truth framework reach over 85% GT-Score, significantly reducing attribution error. Sensitivity analyses demonstrate robustness to noise and model architecture.
+
+Conclusion: Our ground truth explainability framework and GTXBench enable rigorous evaluation and calibration of explanation methods on tabular data. This work provides a practical path toward more trustworthy, application-ready interpretability in high-stakes ML deployments.
+
+Keywords: explainability, tabular data, ground truth, XAI, interpretability, benchmarking

@@ -1,0 +1,1 @@
+Các nút sẽ được xây dựng theo tiêu chuẩn: () kích thước từ 32px điến 48px, () màu xanh dương cho các nút chức năng cơ bản và màu đỏ cho các nút nhạy cảm như xóa dữ liệu, () hình chữ nhật bo tròn ở các góc, (v) hiệu ứng thay đổi màu sắc khi người dùng rê chuột vào, (v) các từ khóa trên nút ngắn gọn.Icon và các hình ảnh tương tự như avatar sẽ có hình tròn vớ hình ở chính giữa.

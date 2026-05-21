@@ -1,0 +1,1 @@
+A nested unet architecture for medical image segmentation,” n Deep learning in medical image analysis and multimodal learning for clinical decision support , Springer, 2018, pp. 3–11.

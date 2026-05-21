@@ -1,0 +1,1 @@
+Yêu cầu dễ bảo trì Hệ thống đang được phát triển và thiết kế sao cho dễ dàng sửa đổi và nâng cấp khi có yêu cầu mới từ chuỗi cửa hàng. Các tính năng mới hay phiên bản mới sẽ được thêm vào và nâng cấp mà không ảnh hưởng đến sự ổn định của hệ thống.

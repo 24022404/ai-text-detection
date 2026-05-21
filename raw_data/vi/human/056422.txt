@@ -1,0 +1,1 @@
+Bài toán Khi hàng nghìn khách hàng đồng loạt thực hiện thao tác từ ứng dụng thì lượng request tới server rất lớn gây ra tình trạng chậm, quá tả thậm chí mất request.

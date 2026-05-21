@@ -1,0 +1,1 @@
+Nơ sử dụng Trong đồ án này, tô áp dụng Multithread để xử lý cùng lúc nhiều dòng camera khác nhau. Các luồng cùng lúc xử lý thông tin nhận được từ camera và gửi kết quả về luồng xử lý chính điểm đưa ra kết quả của bài toán.

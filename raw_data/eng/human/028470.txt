@@ -1,0 +1,1 @@
+Increased performance: By transmitting only the necessary data, DTO can help optimize performance by reducing network traffic and minimizing the processingtime of the application.

@@ -1,0 +1,1 @@
+VPS hoạt động trên một máy chủ vật lý lớn hơn, nợ được chia thành nhiều máy chủ ảo độc lập. Mỗ VPS có tài nguyên rừng như bộ xử lý, bộ nhớ, và không gian lưu trữ, giúp tạo ra một môi trường độc lập và cách ly giữa các máy chủ ảo.

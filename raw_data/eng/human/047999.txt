@@ -1,0 +1,1 @@
+In satellite QKD, the quantum information is synchronized by transmitting along with the classical one. Figure 2.6 shows a high-level view of this schematic.

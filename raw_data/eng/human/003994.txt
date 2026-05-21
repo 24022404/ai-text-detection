@@ -1,0 +1,1 @@
+P. Kairouz, H. B. McMahan, B. Avent andothers , “Advances and open problems in federated learning,” Foundations and Trends ®in Machine Learning ,jourvol 14, number 1–2,pages 1–210, 2021.

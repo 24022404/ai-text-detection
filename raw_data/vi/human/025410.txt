@@ -1,0 +1,1 @@
+STT Thuật ngữ Gả thích Ví dụ Gh chú 1 Hộ vênKhách đã có tà khoản Magento có nhu cầu tham ga cộng đồngNhững khách hàng chưa có tà khoản khi đăng ký hộ viên sẽ điược chuyển đến trang đăng kí tà khoản của Magento 2 Bà điăngBà đăng của hộ vên, nơ mà hộ vên khác có thể xem và bình luận.

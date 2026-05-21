@@ -1,0 +1,1 @@
+Nếu cần phản hồi, slave sẽ trả lại dữ liệu từng bt một cho master dọc theo đường MISO. Master đọc các bt kh nó nhận được.

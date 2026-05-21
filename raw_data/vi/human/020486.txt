@@ -1,0 +1,1 @@
+Bước 1 – Gh lạ giao dịch: Một giao dịch chuỗ khố cho thấy sự lưu động của các tài sản vật lý hoặc kỹ thuật số từ bên này đến bên khác trong mạng lướ chuỗ khố. Gao dịch được gh lạ dưới dạng một khối dữ liệu và có thể bao gồm các thông tin ch tết như sau:

@@ -1,0 +1,1 @@
+Gá trị của chỉ báo trong chu kì này được tính toán dựa theo các giá trị trong các chu kì trước.

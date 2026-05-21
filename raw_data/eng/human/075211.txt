@@ -1,0 +1,1 @@
+M. El Askri, S Knt anH Chan, “Using web scraping n a knowledge environment to build ontologies using python and scrapy,” European Journal of Molecular & Clinical Medicine ,journal 7,number 03,page 2020, 2020.

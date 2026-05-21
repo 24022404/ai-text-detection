@@ -1,0 +1,1 @@
+Thực thể này có thuộc tính là Mã công thức (Formula ID), Tên công thức (descrbe), Tóm tắt công thức (summary), . . .

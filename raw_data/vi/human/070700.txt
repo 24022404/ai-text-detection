@@ -1,0 +1,1 @@
+Vớ phương án trên, tô đã sử dụng ngôn ngữ lập trình Python 3.8  điể điọc, gh và xử lý dữ lệu chỉ báo. Các cơ sở dữ lệu được sử dụng hỗ trợ cho phân hệ bao gồm Apache Drud  và Apache Kafka . Những công nghệ này sẽ được điề cập cụ thể hơn ở Chương 3.

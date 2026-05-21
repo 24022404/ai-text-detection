@@ -1,0 +1,9 @@
+This paper addresses the challenge of cross-person gaze estimation, a critical task in human-computer interaction that aims to accurately determine where individuals are looking, even across different users. Current models often struggle with variations due to individual differences such as eye shape, head pose, and personal features.
+
+Methods: We introduce an individual-difference-aware model designed to enhance cross-person gaze estimation by integrating advanced deep learning techniques. Our model leverages a hybrid approach that combines convolutional neural networks (CNNs) for feature extraction with a personalized adaptation mechanism that adjusts based on user-specific characteristics. This approach allows the model to be robust under diverse viewing conditions and user-specific variations.
+
+Results: The proposed model was evaluated on a comprehensive dataset comprising a wide range of participants with varied demographic and physiological traits. Compared to existing state-of-the-art methods, our model demonstrates superior performance in terms of accuracy and robustness, reducing error rates significantly across all tested scenarios. 
+
+Conclusion: This research presents a significant advance in gaze estimation technology by considering individual differences, thereby enhancing the applicability and performance of such systems in real-world settings. The implementation of this model can benefit applications such as assistive technology, virtual reality systems, and human-behavioral studies. Future work will focus on further optimizing the model for real-time applications and exploring its integration with other biometric sensing technologies.
+
+Keywords: gaze estimation, cross-person, individual differences, deep learning, CNN, human-computer interaction.

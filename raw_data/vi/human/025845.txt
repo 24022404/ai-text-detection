@@ -1,0 +1,1 @@
+Mô trường phát triển được thiết lập đầu tiên. Cài đặt các công cụ cần thiết như trình duyệt web, Code Editor và các công cụ hỗ trợ phát triển như Nodejs, npm, github, yarn. Server web được thiết lập sẵn khi build và run project web bằng yarn.

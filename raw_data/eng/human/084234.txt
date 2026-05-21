@@ -1,0 +1,1 @@
+X. Luz. Yan, C. Wu, Y. Yang, X. L, and G. Zhang, “FastProNGS: Fastpreprocessng of next generation sequencing reads,” en, BMC Unformat cs, vol. 20, no. 1, p. 345, Jun. 2019.

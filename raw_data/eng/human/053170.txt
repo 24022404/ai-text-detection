@@ -1,0 +1,1 @@
+APKs can either be installed on a emulator or a physical device. A different package format is required to deploy the game to end users. Google Play mandates that application be bundled in AAB format (Android App Bundles), while Apple app store permits the use of IPAs (iOS App Store Package) - application archive files which stores an iOS app.

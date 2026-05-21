@@ -1,0 +1,1 @@
+Những tính năng của PHP Mã nguồn mở: PHP là một ngôn ngữ mã nguồn mở, điều này có nghĩa là mã nguồn của nó có thể được xem xét, chỉnh sửa và phân phối miễn phí. Điều này giúp cho việc phát triển và mở rộng ứng dụng dễ dàng hơn.

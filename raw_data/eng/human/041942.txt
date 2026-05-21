@@ -1,0 +1,1 @@
+Theorem 2 below shows that the rate of (k,1)-RdB sequence is better than therate of HdB sequence. Therefore, it’s able to use (k,1)-RdB sequence for the sys tem in  instead to increase the rate, speed of encoding, and decoding of the transmitted signals.

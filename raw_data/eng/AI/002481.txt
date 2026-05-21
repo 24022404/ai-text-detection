@@ -1,0 +1,9 @@
+The challenge of zero-shot skeleton action recognition involves recognizing actions based on skeleton data without prior training examples. This study introduces a novel method leveraging syntactically guided generative embeddings to enhance zero-shot learning capabilities in this domain.
+
+Methods: We propose a framework that integrates syntactic guidance into the generation of embeddings for skeletal action data. By utilizing a hybrid model that combines semantic representations with syntactic structures, the proposed method synthesizes high-quality embeddings capable of representing unseen actions. The generative process is informed by syntactic patterns to ensure compatibility with zero-shot learning paradigms, effectively bridging the gap between seen and unseen action classes.
+
+Results: Our approach is benchmarked against several state-of-the-art zero-shot skeleton action recognition methods across multiple datasets. The results demonstrate significant improvements in recognition accuracy, with our model achieving superior performance in terms of precision and recall metrics. Comparative analysis reveals that the syntactic guidance enhances the robustness and generalization of the generated embeddings.
+
+Conclusion: This research contributes a novel embedding strategy that significantly improves the zero-shot recognition of skeleton-based actions. The syntactically guided generative embeddings present a promising direction for developing more responsive and adaptive recognition systems. This methodology has potential applications in surveillance, human-computer interaction, and automated video analysis, where understanding human activity is critical.
+
+Keywords: zero-shot learning, skeleton action recognition, syntactic guidance, generative embeddings, semantic representations, human activity recognition.

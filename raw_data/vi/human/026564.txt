@@ -1,0 +1,1 @@
+ESj= max EF,∀ < j (5.1) Thờ điểm kết thúc sớm(EF) được tính theo công thức 5.2 EFj=ESj+tj (5.2) Hình 5.13 mô tả kết quả tính ES và EF các công việc.Sau khi tính ES, EF, ta tiếp tục tính LS và LF theo hướng lù (từ đỉnh Fish tớ đỉnh Start). Đầu tiên, LÀ của công việc cuối cùng bằng vớ EFE của công việc đó.

@@ -1,0 +1,1 @@
+Nếu người dùng bấm chọn "Buy Now" thì ứng dụng ví sẽ hiện lên điểm người dùng xác thực giao dịch.

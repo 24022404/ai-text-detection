@@ -1,0 +1,1 @@
+E. Key, “An analysis of the structure and complexity of nonar binary sequence generators,” IEEE Transactions on Information Theory , vol. 22, no. 6, pp. 732–736, 1976.

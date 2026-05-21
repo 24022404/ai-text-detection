@@ -1,0 +1,1 @@
+In Case 2, with M = s + 3 and C = s – 1 for k = 2s + 2 and s < k – 1, the LHS matches the first case, while the RHS requires separate explanation.

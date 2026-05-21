@@ -1,0 +1,1 @@
+Để giải quyết vấn đề tối ưu lượng hàng hóa sản xuất để tồn kho. ĐATN sử dụng mô hình Holt Winter để dự báo nhu cầu tiêu thụ hàng hoá của từng sản phẩm trong tương lai. Dựa vào dự báo nhu cầu tiêu thụ hàng hoá, số lượng hàng hóa đang sản xuất, và số lượng hàng hoá tồn kho, phần mềm phát triển trong ĐATN sẽ tính toán và đưa ra gợi ý số lượng sản phẩm cần sản xuất cho người sử dụng.

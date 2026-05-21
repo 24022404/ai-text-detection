@@ -1,0 +1,1 @@
+Convolutional neural networks are structured with essential layers, including the convolutional layer, pooling layer, nonlinear layer, and fully connected layer.

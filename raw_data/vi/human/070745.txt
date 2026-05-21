@@ -1,0 +1,1 @@
+Chức năng tổng quát Hệ thống giám sát các thông số môi trường trong vườn trồng lan, từ đó điều khiển các cơ cấu chấp hành để duy trì được mộ trường thuận lợi nhất cho cây trồng sinh trưởng và phát triển, giảm thiểu tố địa các tác động của môi trường bên ngoài đến cây trồng.

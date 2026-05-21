@@ -1,0 +1,1 @@
+Yêu cầu về giao diện và trải nghiệm người dùng Gao dệt thân thiện, dễ sử dụng, các thành phần cần được bố trí hợp lý. Bên cạnh đó trang web của hệ thống phả hỗ trợ responsive, đảm bảo trả nghiệm cho người dùng ở máy tính lẫn thiết bị di động.

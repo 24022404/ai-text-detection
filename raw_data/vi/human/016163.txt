@@ -1,0 +1,1 @@
+Đặc tả use case Manage orders Tên Use case: Manage orders Tác nhân: Quản trị vện Tiền điều kiện: Cần phải đăng nhập vào hệ thống Luồng sự kiện: Use case này bắt đầu khi quản trị viên chọn phần quản lý thông tin đơn hàng.

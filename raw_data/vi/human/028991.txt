@@ -1,0 +1,1 @@
+Cách implement Lazy load cho Flatlist đó là lấy dữ lệu Flatlist theo pagesize kh scroll. Tức là mỗi khi người dùng muốn xem thêm dữ lệu thì sẽ phả scroll màn hình và dữ lệu cũng chỉ lấy 1 số lượng được xác định.

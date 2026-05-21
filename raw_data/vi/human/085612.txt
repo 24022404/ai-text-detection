@@ -1,0 +1,1 @@
+Ta nhập vào ô tìm kiếm thingspeak và chọn ThngSpeak by MathWorks , nhấp vào Install . Chờ phần mềm tự động download và cài đặt.

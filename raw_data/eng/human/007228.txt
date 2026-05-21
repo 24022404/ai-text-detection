@@ -1,0 +1,1 @@
+It uses the IP2Location library to get geolocation data and checks if the domain is located in countries or regions under sanction (e.g., OFAC list).

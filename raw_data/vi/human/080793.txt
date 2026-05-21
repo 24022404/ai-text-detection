@@ -1,0 +1,1 @@
+Công cụ quan hệ–Công cụ quan hệ chứa các thành phần xác định cách tốt nhất để thực hiện truy vấn. Công cụ quan hệ còn được gọi là bộ xử lý truy vấn.

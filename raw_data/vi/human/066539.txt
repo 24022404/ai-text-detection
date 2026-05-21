@@ -1,0 +1,1 @@
+Xác định thuộc tính (Attributes): Xác định các thuộc tính của các thực thể, tức là các đặc điểm mô tả ch tết hơn của mỗi thực thể.

@@ -1,0 +1,1 @@
+Người dùng : là người dùng nói chung khi chưa đăng nhập vào hệ thống. Đối với người dùng dạng này, người dùng có thể đăng nhập vào hệ thống, đăng ký tài khoản, xem danh sách công việc, liên hệ với admin hay xem các bà đi lăng cha sẻ kinh nghiệm.

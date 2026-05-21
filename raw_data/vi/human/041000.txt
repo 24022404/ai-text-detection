@@ -1,0 +1,1 @@
+Dữ liệu tương tác của người dùng được lưu trữ riêng ở từng module. Các module có thể tương tác với nhau thông qua module Boundless Common.6.1 Kết luận Sau quá trình thực hiện điều tà "Xây dựng hệ thống quản lý mạng không dây công cộng" dưới sự hướng dẫn của PGS. TS. Trần Đình Khang, ĐATN điã điạt điược một số kết quả:

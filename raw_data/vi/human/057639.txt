@@ -1,0 +1,1 @@
+Chồng chất (Superimposing) : Việc đặt khuôn mặt lên các cơ thể khác nhau có thể giúp mô hình tách rời các đặc trưng khuôn mặt khỏ phần còn lạ của cơ thể.

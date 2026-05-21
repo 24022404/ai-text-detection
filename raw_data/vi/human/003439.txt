@@ -1,0 +1,1 @@
+Gó "Controller" của module Employer (Nhà tuyển dụng) chứa các gói Quản lý đơn ứng tuyển, Quản lý công việc, Quản lý tài khoản và Tìm kiếm ứng viên.

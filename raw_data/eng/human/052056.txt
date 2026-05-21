@@ -1,0 +1,1 @@
+F. Zenke, B. Poole andS. Ganguli, “Continual learning through synaptic intelligence,” inProceedings of the 34th International Conference on Machine Learning D. Precup andY. W. Teh, editors ,jourser Proceedings of Machine Learning Research, volume 70, PMLR, 2017, pages 3987–3995. url:https:

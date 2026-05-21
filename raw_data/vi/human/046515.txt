@@ -1,0 +1,1 @@
+.Boundless Frontend: mã nguồn giao diện người dùng của hệ thống, chia thành năm thành phần cấp thấp hơn, mỗi thành phần là mã nguồn của 1 module trong thiết kế Micro Frontends.

@@ -1,0 +1,9 @@
+The increasing demand for automated signature verification systems necessitates accurate signature segmentation from bank checks. However, the lack of comprehensive and publicly available datasets limits the progress in this domain. This paper introduces a novel segmentation dataset dedicated to signatures on bank checks, aiming to enhance the development and evaluation of segmentation algorithms.
+
+Methods/Approach: We have meticulously curated a dataset that includes a diverse collection of bank checks from various financial institutions, featuring different signature placements, styles, and ink types. For accurate and reliable segmentation, manual annotations were provided by experts for each signature. To demonstrate the utility of the dataset, we implemented state-of-the-art segmentation models to benchmark and validate its effectiveness.
+
+Results/Findings: The dataset was evaluated using multiple deep learning models, including convolutional neural networks and transformer-based architectures. Our results show a significant improvement in segmentation accuracy, with our dataset outperforming existing datasets in key metrics, thereby validating its quality and utility in real-world applications.
+
+Conclusion/Implications: This novel dataset serves as a foundation for future research in automated signature verification, promoting advancements in fraud detection and financial security systems. By making the dataset publicly accessible, we aim to foster innovation and collaboration in the field of document image processing and machine learning. This research contributes a robust tool for academia and the financial industry, paving the way for more secure and efficient banking operations.
+
+Keywords: signature segmentation, bank checks, dataset, image processing, automated signature verification, fraud detection.

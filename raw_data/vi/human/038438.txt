@@ -1,0 +1,1 @@
+Ngoài ra, Laravel còn có những ưu điểm nổi bật khác như: Sử dụng các tính năng (feature) mới nhất của PHP; Cộng đồng hỗ trợ đông đảo; Tích hợp công cụ Artisan – Công cụ quản lý dòng lệnh; Sử dụng composer để quản lý PHP package; Sử dụng npm để quản lý các góc Javascript, gao vện.

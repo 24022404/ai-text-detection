@@ -1,0 +1,1 @@
+Trong đồ án này, em sử dụng mô hình MVC (Model View Controller) vớ cách triển khai hiện đại hơn, phân chia tách biệt 2 phần View với Controller Model.

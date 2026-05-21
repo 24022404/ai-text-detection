@@ -1,0 +1,1 @@
+Character selects levelto play.- Step 1: Click the "Lev els" button on the screen Main to open popup Step 2: Click to level that has been unlocked.A popup loading appears and sever transfers data to client and new scene is loaded to start the correct level.The scene corresponding to the level will be loaded accurately.

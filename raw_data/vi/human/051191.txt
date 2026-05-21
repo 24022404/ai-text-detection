@@ -1,0 +1,1 @@
+Chúng ta có thể nghĩ ngay đến việc lưu trữ vào cơ sở dữ liệu. Tuy nhiên việc lưu trữ này sẽ đem lại rủi ro rất nhiều kg mà kẻ xấu có được thông tin của cơ sở dữ liệu sẽ lấy cắp được. Vấn đề trên sẽ cần có một gã pháp để lưu trữ an toàn hơn.

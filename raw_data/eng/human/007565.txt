@@ -1,0 +1,1 @@
+Minimum Sum :S∈Σn qis a set of length nstrings with sum over all of its symbol at least s, where sis a given constant.

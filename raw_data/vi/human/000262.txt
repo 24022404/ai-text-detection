@@ -1,0 +1,1 @@
+–DsposableBehavors: chứa danh sách lớp hành vi cần được xử lý vứt bỏ kh nhân vật biến mất khỏi bản đồ –Entity Data: chứa dữ liệu của nhân vật.

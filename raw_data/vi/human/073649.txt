@@ -1,0 +1,1 @@
+ProductCategory : Thực thể "ProductCategory" mô tả một nhà danh mục của loạ sách tà lệu trong hệ thống. Mỗ "ProductCategory" do quản trị viên tạo ra, có thể có nhều "Product" thuộc cùng một "ProductCategory" trong hệ thống.•Role: Thực thể "Role" mô tả role người dùng trong hệ thống có thể. Mỗ Role" có thể có nhều "Permsson" và nhều "User" sử dụng "Role" đió.

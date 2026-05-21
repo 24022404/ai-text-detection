@@ -1,0 +1,1 @@
+Web crawling, while a viable option, posed difficulties in terms of reliability, scalability, and legality. Additionally, the extraction of comprehensive historical data through web crawling often proved intricate and time-consuming, thus not aligning with the need for real-time updates.

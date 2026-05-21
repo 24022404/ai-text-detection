@@ -1,0 +1,1 @@
+Thành phần Model dùng để thực hiện các truy vấn cơ sở dữ lệu (phần Model trong hình vẽ) .

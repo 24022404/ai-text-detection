@@ -1,0 +1,1 @@
+Thực tế trong đồ án em đã nghĩ đến vệc sử dụng mysql từ điầu nên vệc lựa chọn sử dụng NOSQL không phải ưu tên của em.

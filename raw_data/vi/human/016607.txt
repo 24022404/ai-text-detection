@@ -1,0 +1,1 @@
+Kh trạng thái của một đối tượng thay đổi trong ứng dụng React, VDOM sẽ được cập nhật. Sau đó, nó so sánh trạng thái trước đó của nó và sau đó chỉ cập nhật các đối tượng gió trong DOM thực thay vì cập nhật tất cả các đối tượng.

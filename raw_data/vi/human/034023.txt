@@ -1,0 +1,1 @@
+Artist:  Mọi thứ mà bạn có thể nhìn thấy trên figure là một artist như Text objects,  Lne2D  objects,  collection  objects. Hầu hết các Artists được gắn với Axis.

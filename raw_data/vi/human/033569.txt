@@ -1,0 +1,1 @@
+Ứng dụng Flutter được xây dựng và tích hợp các tính năng thông minh. Với khả năng tích hợp mô hình nhận diện ảnh và Chatbot, ứng dụng mang tớ khả năng học tập tốt hơn và có tính tương tác cao hơn cho người dùng.

@@ -1,0 +1,1 @@
+Hỗ trợ cho nhiều cơ sở dữ lệu: PHP hỗ trợ cho nhiều cơ sở dữ lệu phổ biến như MySQL, PostgreSQL, MongoDB, v.v.

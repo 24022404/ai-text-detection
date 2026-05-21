@@ -1,0 +1,1 @@
+Release Giai đoạn tiếp theo là ga đoạn phát hành hay ga đoạn chuyển phase. Ga đoạn này là giai đoạn kiểm thử toàn bộ hệ thống và kiểm thử chấp nhận hệ thống. Để hoàn thành giai đoạn thử nghiệm cuối cùng này không có bất kỳ trở trở ngại nào, thì các tester phả kiểm tra sản phẩm nghiêm ngặt khi nó đang trong ga đoạn thứ hai lặp lại xây dựng.

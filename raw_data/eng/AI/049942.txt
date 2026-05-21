@@ -1,0 +1,9 @@
+Image-to-Image Translation remains a pivotal challenge in computer vision, facilitating applications such as style transfer, domain adaptation, and image enhancement. This paper introduces an innovative approach termed Group-wise Deep Whitening-and-Coloring Transformation (GDWCT) aimed at improving the efficacy and quality of translation between distinct image domains.
+
+Methods: Our approach leverages a novel deep learning architecture that incorporates Group-wise Deep Whitening-and-Coloring Transformation to effectively normalize and adapt feature maps between the source and target image domains. The proposed method segments features into groups and applies whitening and coloring transformations individually to each group, promoting more diversified and robust transformations. This technique smooths out domain discrepancies and heightens the transfer quality.
+
+Results: Experimental results demonstrate that the GDWCT model surpasses existing methods in terms of image fidelity and structural preservation across several benchmark datasets. Our model exhibits superior performance compared to baseline methods, showcasing enhanced visual quality and reduced artifacts in translated images. Quantitative assessments highlight the system's robustness and efficiency, with competitive runtime performance and resource utilization.
+
+Conclusion: The GDWCT introduces a significant advancement in the field of image-to-image translation by enhancing adaptability and reducing domain gaps. The model's capability to dynamically adjust transformations within grouped feature spaces marks a notable contribution to the field, providing a flexible and effective solution for a multitude of applications in computer vision, such as artistic rendition and dataset augmentation.
+
+Keywords: Image-to-Image Translation, Deep Learning, Whitening-and-Coloring Transformation, Computer Vision, Domain Adaptation, Style Transfer.

@@ -1,0 +1,1 @@
+− Java crpt là một ngôn ngữ lập trình dựa trên nguyên mẫu vớ cú pháp phát triển từ C. JavaScript có khái niệm từ khóa, do đó gần như JavaScript không được mở rộng. Cũng giống như C, JavaScript không có bộ xử lý xuất/nhập riêng. Trong kh C sử dụng thư viện xuất/nhập chuẩn, JavaScript dựa vào phần mềm ngôn ngữ được gắn vào đi ể thực hiện xuất/nhập.

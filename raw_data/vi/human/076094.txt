@@ -1,0 +1,1 @@
+Ngoài ra, trong bài toán phát triển ứng dụng Android, tô lựa chọn xây dựng ứng dụng Android trên nền tảng Java . Đây là ngôn ngữ lâu đời, dễ tiếp cận và tích hợp nhiều thư viện tốt.

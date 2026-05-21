@@ -1,0 +1,1 @@
+Góp chứa các phương thức giao tiếp áp trực tiếp với server. View có thể lấy dữ lệu trực tiếp với các đối tượng trong ap, hoặc có thể thông qua acton điểm cập nhật trạng thái.

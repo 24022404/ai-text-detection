@@ -1,0 +1,1 @@
+Sensitive Data Exposure happens when access to user information or system resources is permitted due to trusting an external URL.

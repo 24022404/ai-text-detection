@@ -1,0 +1,1 @@
+Sprng Framework cung cấp tính năng têm phụ thuộc cho phép các điố tượng xác định các phụ thuộc của rêng chúng mà bộ chứa Sprng sau đó sẽ đưa vào chúng. Đều này cho phép các nhà phát trển tạo ra các ứng dụng môđiun bao gồm các thành phần được lên kết lỏng lẻo, lý tưởng cho các dịch vụ sêu nhỏ và ứng dụng mạng phân tán.

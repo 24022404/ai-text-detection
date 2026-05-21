@@ -1,0 +1,1 @@
+Giới thiệu NodeMCU ESP8266 ESP8266  là một chữ của Espressif Systems có tích hợp công nghệ WF vớ đặc tính giá rẻ, tương thích với nhiều nền tảng. Nó thường được sử dụng trong các board mạch smarthome giá rẻ như Sonoff Basic và các công tắc WPF.

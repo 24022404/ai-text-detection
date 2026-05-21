@@ -1,0 +1,1 @@
+Ví dụ chuyển một từ thành các ký tự từ bàn phím cấu tạo nên từ đó: kể > kieemr, tra > tra, lỗi > loox, chính > chính, tả > tar.

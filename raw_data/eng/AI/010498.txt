@@ -1,0 +1,9 @@
+Objective: Scene graph generation (SGG) seeks to produce structured representations of objects and their relationships in images, but existing graph-based approaches often rely on uniform message passing that overlooks the specific interaction between each source–target pair. This can lead to suboptimal relation predictions, especially for less frequent or context-sensitive interactions.
+
+Methods: We introduce Target-Tailored Source-Transformation (TTST), a novel module that dynamically adapts source node features to each target node before message aggregation. TTST employs a lightweight cross-attention mechanism to generate pair-specific transformation weights, effectively filtering irrelevant context and enhancing the discriminative power of relation representations. Integrated into a standard graph neural network backbone, our approach jointly refines object and predicate embeddings through alternating TTST layers and relation-aware pooling.
+
+Results: On the Visual Genome benchmark, our model achieves mean Recall@50 of 25.6% and Recall@100 of 27.3%, outperforming state-of-the-art methods by up to 2.7% and demonstrating significant improvements on tail-class predicates (+4.1% mR@100). Qualitative analyses show more balanced and semantically coherent scene graphs, with notable gains in zero-shot relation detection.
+
+Conclusion: By tailoring source transformations to each target, TTST addresses key limitations of generic message passing and yields more accurate, balanced scene graphs. This advancement holds promise for downstream applications in image captioning, visual question answering, and autonomous navigation.
+
+Keywords: Scene Graph Generation; Target-Tailored Source-Transformation; Graph Neural Networks; Visual Relationship Detection; Cross-Attention.

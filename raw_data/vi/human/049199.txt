@@ -1,0 +1,1 @@
+Batch gradent descent (BGD) : mỗ vòng lặp, dùng tất cả dữ liệu để tính gradent Stochastc gradent descent (SGD) : mỗ vòng lặp, dùng 1 mẫu dữ liệu để tính gradent Mnbatch gradent descent (MGD) : mỗ vòng lặp, dùng một lượng nhỏ k mẫu dữ liệu để tính gradent. Số kcòn được gọi là batch sze Trong thuật ngữ hiện điạ, SGD mà MGD được co là như nhau: mỗ vòng lặp dùng k mẫu, k có thể là 1.

@@ -1,0 +1,1 @@
+Ưu điểm MongoDB với các cơ sở dữ liệu SQL Tuỳ vào từng yêu cầu và trường hợp cụ thể, MongoDB có lợi thế hơn các cơ sở dữ liệu SQL ở các điểm sau:

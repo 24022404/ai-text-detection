@@ -1,0 +1,9 @@
+Objective: Robust feature matching is critical for tasks such as visual SLAM, 3D reconstruction, and object recognition. This study systematically evaluates the performance of popular keypoint detectors and binary descriptors under controlled photometric and geometric transformations.
+
+Methods: We compare six detectors (ORB, BRISK, AKAZE, KAZE, FAST, SIFT) paired with four binary descriptors (BRIEF, FREAK, LATCH, ORB) on synthetic and real-world image sequences. Transformations include variations in illumination, contrast, Gaussian noise, rotation (0–90°), scale (0.5×–2×), and affine viewpoint changes (up to 40°). Performance metrics comprise detection repeatability, descriptor matching accuracy, true positive rate, and computational time measured on standard hardware.
+
+Results: Under mild photometric changes, ORB and BRISK achieve over 92% matching accuracy, while FREAK-based descriptors show superior resilience to contrast shifts. KAZE with LATCH maintains high repeatability under scale changes but incurs a 30% longer processing time. For large viewpoint variations (>30°), AKAZE combined with BRIEF outperforms others in match precision (78%), whereas SIFT offers the best overall trade-off between robustness and speed.
+
+Conclusion: Our comprehensive analysis reveals clear trade-offs among detectors and descriptors. These insights guide practitioners in selecting feature-matching pipelines tailored to specific environmental conditions and performance requirements, enhancing the reliability of downstream computer vision applications.
+
+Keywords: keypoint detectors, binary descriptors, feature matching, photometric transformations, geometric transformations, performance evaluation, computer vision.

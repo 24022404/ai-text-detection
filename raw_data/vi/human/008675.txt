@@ -1,0 +1,1 @@
+Bằng hàm tạo lỗ: Sử dụng dữ liệu poBert cho đi qua hàm tạo lỗ để tạo thành các câu sai lỗi chính tả. Các lỗ được tạo ra từ hàm tạo lỗ theo các cách sau:

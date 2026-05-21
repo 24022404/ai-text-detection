@@ -1,0 +1,1 @@
+Collaborative Filtering và thuật toán Apriori có thể tận dụng những tương đồng này để đề xuất các sản phẩm có khả năng được khách hàng quan tâm dựa trên hành vi mua sắm của họ.

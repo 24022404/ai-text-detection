@@ -1,0 +1,1 @@
+Chức năng quản lý sản phẩm sẽ cung cấp cho người dùng thông tin chi tiết về sản phẩm bao gồm tên sản phẩm, gá, hình ảnh và mô tả cho tết. Người dùng có thể dễ dàng thêm, sửa và xóa thông tin sản phẩm một cách nhanh chóng và thuận tiện.

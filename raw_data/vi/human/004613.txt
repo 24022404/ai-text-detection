@@ -1,0 +1,1 @@
+Nhận diện khách hàng trong cửa hàng và hành động lấy sản phẩm khỏi kệ hàng, thông báo khi khách hàng rờ khỏ cửa hàng khi chưa thanh toán.

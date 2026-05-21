@@ -1,0 +1,1 @@
+TensorFlow a, Giới thiệu TensorFlow  là thư viện mã nguồn mở dành cho học máy lớn bậc nhất thế giới. Thư viện hỗ trợ mạnh mẽ cho việc tính toán trong học máy và học sâu, giúp các bài toán được tiếp cận một cách đơn giản, nhanh chóng hơn. Hơn nữa, TensorFlow cũng cho phép tính toán song song trên nhiều máy tính khác nhau, thậm chí là trên nhiều CPU.

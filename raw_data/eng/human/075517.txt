@@ -1,0 +1,1 @@
+Read/Write with Integrated Transmitter RFID tags: An RFID tag capable of reading and writing data to the card’s memory, and integrating a transmitter to transmit data wirelessly. for other devices. This type of tag is used in location tracking, positioning and cargo control applications.

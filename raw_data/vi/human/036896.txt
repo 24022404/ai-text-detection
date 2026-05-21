@@ -1,0 +1,1 @@
+Phạm vi của đề tài giới hạn trong việc sử dụng những mô hình ít tham số có thể chạy được trên thiết bị bên Jetson Nano điển dự đoán cử chỉ tay. Ứng dụng chạy trong điều kiện ánh sáng bình thường, với khoảng cách tố đia 4mkể từ camera. Đồ án tập trung xây dựng ứng dụng mẫu chưa phải sản phẩm thực tế.

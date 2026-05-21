@@ -1,0 +1,1 @@
+Hệ thống kểm tra thông tin. (thông tin không phù hợp quay lạ bước 3 kịch bản 5.0) Ngoạ lệ: 5.E.1. Không thể giao tếp với máy chủ API, hệ thống hển thị thông báo lỗ Mức điộ ưu tên: Cao Tần suất sử dụng: Cao Bảng 2.5: Usecase tạo công thức món ăn.

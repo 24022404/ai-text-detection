@@ -1,0 +1,1 @@
+Upon account registration, users are granted default permissions, which include logging in and out, managing posts, rating, commenting, updating profiles, and searching.

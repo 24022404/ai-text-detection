@@ -1,0 +1,9 @@
+This research addresses the challenge of deploying object detection models on embedded GPU platforms within autonomous systems, where computational efficiency and model size are critical constraints. The study aims to develop a compressed version of the YOLOv4 model tailored for efficient operation in resource-limited environments without compromising detection accuracy.
+
+Methods: We propose a novel approach involving model pruning and quantization techniques specifically designed to streamline the YOLOv4 architecture. By leveraging these methods, we effectively reduce the model's size and computational demands. The compressed YOLOv4 model has been integrated and tested on embedded GPU platforms commonly used in autonomous systems, showcasing its feasibility and performance.
+
+Results: The experimental evaluation demonstrates that the compressed model achieves a significant reduction in weight size and computational overhead while maintaining comparable detection accuracy to the original YOLOv4. Performance benchmarks indicate improved inference speed on embedded GPUs, highlighting the model's efficiency for real-time applications.
+
+Conclusion: This research contributes a strategically compressed object detection model that is well-suited for deployment in autonomous systems with constrained resources. The findings underscore the potential to enhance the capability of embedded platforms, facilitating more responsive and reliable object detection applications. This work paves the way for future advancements in deploying sophisticated AI models on low-power, embedded systems.
+
+Keywords: YOLOv4, object detection, model compression, embedded GPU, autonomous systems, model pruning, quantization.

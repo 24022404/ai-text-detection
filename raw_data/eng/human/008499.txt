@@ -1,0 +1,1 @@
+The GOAP data package serves as a repository for configurations and base classes of the GOAP system. It stores essential data structures and classes required for the functioning of the GOAP library.

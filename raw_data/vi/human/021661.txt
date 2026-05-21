@@ -1,0 +1,1 @@
+Tuy nhiên, nhược điểm của Express.js là cấu hình khá phức tạp và yêu cầu người dùng có kiến thức sâu về Nodejs và JavaScript. Ngoài ra, việc phát triển các ứng dụng lớn và phức tạp cần nhiều kinh nghiệm và năng lực của lập trình viên.

@@ -1,0 +1,1 @@
+Nhân viên có hầu như các quyền như người dùng, nhưng sẽ phụ thuộc vào quyền mà người dùng cài đặt theo mỗ cửa hàng cho từng nhân viên. Có thể nhân viên có quyền quản lý đơn hàng ở cửa hàng nhưng lạ không có quyền quản lý kho hàng.

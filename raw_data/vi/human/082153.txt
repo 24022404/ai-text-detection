@@ -1,0 +1,1 @@
+Đều kiện: Đối với người dùng và quản trị viên hệ thống, tất cả các usecase được thực hiện điều bắt buộc phải đăng nhập.

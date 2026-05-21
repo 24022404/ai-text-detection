@@ -1,0 +1,1 @@
+Nếu CV được duyệt, chuyển qua trạng thái đỗ thị hệ thống tự động thêm tình nguyện viên mới với các thông tn điã điược điăng ký.Thêm, sửa lịch phỏng vấn + Nếu CV được chuyển về trạng thái “Chờ phỏng vấn” thì quản trị viên hoặc cán sự lớp sẽ có thể thêm/ sửa lịch phỏng vấn on về các thông tin về thờ gan, lnk phỏng vấn, người phụ trách.

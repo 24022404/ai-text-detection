@@ -1,0 +1,1 @@
+A. Lempel and M. Cohn, “Design of universal test sequences for vlsi,” IEEE transactions on information theory , vol. 31, no. 1, pp. 10–17, 1985.

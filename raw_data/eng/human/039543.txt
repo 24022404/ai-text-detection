@@ -1,0 +1,1 @@
+Lemma 6 () .The lexicographically minimal de Bruijn sequence of order k (k-MdB) is the concatenation of all Lyndon words whose length is a divisor of kin the lexicographical order.

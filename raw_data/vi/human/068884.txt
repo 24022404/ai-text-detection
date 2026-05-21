@@ -1,0 +1,1 @@
+(v) Tính linh hoạt: Kiến trúc Microservices cho phép các nhà phát triển dễ dàng cập nhật và nâng cấp các thành phần của hệ thống mà không ảnh hưởng đến các thành phần khác.

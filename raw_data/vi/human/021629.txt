@@ -1,0 +1,1 @@
+Kịch bản khác: 1.1 Đăng nhập (Admnstrator,Moderator) Bắt điầu từ bước 2 trong kịch bản bình thường Ngoạ lệ: 1.E.1. Không thể giao tếp với máy chủ API, hệ thống hển thị thông báo lỗ Mức điộ ưu tên: Cao Tần suất sử dụng: Cao Bảng 2.1: Usecase đăng nhập.

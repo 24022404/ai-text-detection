@@ -1,0 +1,9 @@
+This paper addresses the critical problem of safe exploration in Reinforcement Learning (RL), where traditional methods often pose risks due to exploration in unknown environments. We propose a novel approach by introducing Early Terminated Markov Decision Processes (ETMDPs) to ensure safer exploration while preserving the learning efficiency.
+
+Methods/Approach: We develop a framework that models the exploration process as an ETMDP, wherein potential unsafe states are preemptively identified, and the exploration is terminated before reaching those states. This approach is augmented with a safety layer that dynamically adjusts exploration policies in real-time. Our method leverages state-of-the-art techniques in dynamic programming and RL to enhance adaptability and safety.
+
+Results/Findings: Experimental results demonstrate that our approach effectively reduces the incidence of unsafe states during exploration by a significant margin compared to conventional methods. Moreover, the proposed method maintains comparable performance in terms of convergence rate and quality of the learned policy, outperforming traditional RL algorithms that do not account for safety during exploration. 
+
+Conclusion/Implications: The research presents a substantial advancement in the safe exploration domain by introducing the ETMDP framework, offering a robust strategy for mitigating risks during the exploration phase of RL. This has potential applications in autonomous system training, robotics, and any RL-driven fields where safety is paramount. Future work could further optimize the balance between safety and exploration efficiency and explore applications in more complex environments.
+
+Keywords: Safe Exploration, Early Terminated MDP, Reinforcement Learning, Dynamic Programming, Autonomous Systems, Safety Layer.

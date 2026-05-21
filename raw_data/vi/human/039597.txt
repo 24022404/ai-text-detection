@@ -1,0 +1,1 @@
+Quá trình tích lũy thông tin Ta tạo một bộ nhớ điểm agent có thể lưu trữ được các thông tin trên. Trong đó, tạ mỗi bước thờ gần mà agent trả qua, ta lưu lại các giá trị:

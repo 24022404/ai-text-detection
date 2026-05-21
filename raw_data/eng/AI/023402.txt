@@ -1,0 +1,1 @@
+A false positive (FP) happens when the model incorrectly predicts a sample as label X, while in reality, it does not belong to X.

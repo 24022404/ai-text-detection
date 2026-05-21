@@ -1,0 +1,1 @@
+Ở mỗ tầng, số lượng các nút mạng (Neural) có thể khác nhau tùy thuộc vào bài toán và cách giải quyết. Nhưng thường khi làm việc người ta điểm các tầng ẩn có số lượng Nơron bằng nhau. Ngoài ra, các Neural ở các tầng thường được lên kết đôi một với nhau tạo thành  mạng  kết nối đầy đủ (fully connected  network).

@@ -1,0 +1,1 @@
+Nhấn tạo mới. Hệ thống hiển thị thông báo thêm danh mục thành công , cập nhật cơ sở dữ liệu  và trở về trang quản lý danh mục sản phẩm.  Hệ thống hiển thị thông báo thêm danh mục thành công, cập nhật cơ sở dữ liệu và trở về trang quản lý danh mục sản phẩm.  Đạt TC02 1. Đăng nhập tài khoản quản trị vên.

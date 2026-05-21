@@ -1,0 +1,1 @@
+NodeJS là một môi trường runtime chạy JavaScript đa nền tảng và có mã nguồn mở, được sử dụng để chạy các ứng dụng web bên ngoài trình duyệt của client. Các ưu điểm có thể kể đến là:

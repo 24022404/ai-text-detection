@@ -1,0 +1,1 @@
+Chúng ta sẽ đi sâu hơn vào khá nệm cốt lõi của Stark  resilient distributed dataset (ADD) , công cụ xử lý dữ lệu có cấu trúc  Spark SQL và cơ chế hoạt động của Spark ở chế độ cụm. Đó là những kiến thức cần thiết để xây dựng đồ án.

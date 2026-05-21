@@ -1,0 +1,1 @@
+React là một thư viện UI phát triển tạo Facebook để hỗ trợ việc xây dựng những thành phần (components) UI có tính tương tác cao, có trạng thá và có thể sử dụng lại được.

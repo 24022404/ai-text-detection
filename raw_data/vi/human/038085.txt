@@ -1,0 +1,1 @@
+Mô hình sẽ được chia làm hai mô đun là mô đun phát hiện lỗ và mô đun gợi ý sửa lỗ. Đầu vào của mô đun phát hiện lỗ là văn bản đã được xử lý và tách câu.

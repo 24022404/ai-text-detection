@@ -1,0 +1,1 @@
+T. Etzion, N. Kalouptsidis, N. Kolokotronis, K. Limniotis, and K. G. Pater son, “Properties of the error ar complexity spectrum,” IEEE Transactions on Information Theory , vol. 55, no. 10, pp. 4681–4686, 2009.

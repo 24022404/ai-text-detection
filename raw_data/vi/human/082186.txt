@@ -1,0 +1,1 @@
+Yêu cầu về bảo mật Các tiêu chuẩn về bảo mật thông tin được sử dụng () các thông tin quan trọng như mật khẩu không được lưu lạ ở trình duyệt để tránh bị xâm nhập, () sử dụng phương thức JWT điểm mã hoá các gói tn và thực hiện đăng nhập theo phiên và () lưu lại lịch sử hoạt động của người dùng trên hệ thống.

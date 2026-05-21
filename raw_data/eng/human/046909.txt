@@ -1,0 +1,1 @@
+The above figure shows the two basic components of a Transformer: an encoderFigure 3.3: Attention mechanism (Image Source ) segment, which encodes an input into an intermediate representation, and a decoder segment, which decodes the intermediate representation back into readable text.

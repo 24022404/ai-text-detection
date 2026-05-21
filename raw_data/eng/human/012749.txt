@@ -1,0 +1,1 @@
+Given two sequences x=x1x2. . . x mandy=y1y2. . . y n, denote the concatena tion of xandyto be xy=x1x2. . . x my1y2. . . y n, and denote xkthe concatenation ofkcopies of x. It is said that xis smaller than y, denoted x<y, if there is an index t⩾1, such that xi=yi,∀i⩽t, and xt+1< yt+1. Note that empty sequence is smaller than 0.

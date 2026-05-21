@@ -1,0 +1,1 @@
+Manage view detail Figure 2.8: Use case manage appointmentsThe manage view detail use case revolves around functions related to presenting information to customers. This use case assists customers in gathering information about providers and services they find interesting.

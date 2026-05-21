@@ -1,0 +1,1 @@
+Tiếp theo, người dùng có thể chọn chức năng "Chia sẻ phòng". Hệ thống sẽ hiển thị danh sách thông tin về những người dùng đỉa có quyền truy cập vào phòng này.

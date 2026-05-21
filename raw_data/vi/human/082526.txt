@@ -1,0 +1,1 @@
+Trong các dự án ML,DL , chúng ta cần một tập dữ lệu đào tạo. Đây là tập dữ lệu thực tế được sử dụng để huấn luyện mô hình thực hiện các hành động khác nhau .

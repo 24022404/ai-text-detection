@@ -1,0 +1,1 @@
+Đố về các chức năng yêu cầu xử lý thời gian thực như nhắn tin, hệ thống phải đảm bảo được về tốc độ Hệ thống phải được thiết kế và lập trình để có thể dễ dàng cho việc bảo trì và nâng cấp các tính năng sau này.

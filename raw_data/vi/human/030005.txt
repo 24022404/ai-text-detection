@@ -1,0 +1,1 @@
+Nest luôn được cập nhật với các công nghệ mới và tốt nhất, giúp cho việc phát triển ứng dụng trở nên tên tiến và hiệu quả hơn.3.4.2 Json Web Token Phần này dựa trên nguồn tham khảo từ . Gồm hai phần nhỏ, giới thiệu về Json Web Token và ưu điểm của nó.

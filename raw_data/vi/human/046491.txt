@@ -1,0 +1,1 @@
+Ứng dụng QLDA cho doanh nghiệp sẽ tiếp tục được xây dựng để hoàn thiện hơn bao gồm các nội dung () tăng tính liên kết với các module khác trong hệ thống, () xây dựng chức năng quản lý rủi ro trong dự án, và () thu thập đánh giá, phản hồi của người dùng để cải thiện các chức năng và giao diện hiện có.MongoDB, MongoDB Documentation .URL:

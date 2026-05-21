@@ -1,0 +1,1 @@
+The "Binaries" column shows the number of binary executable files available, the Images" column lists the number of images that were converted successfully from binary files, and the "Opcodes" column represented the number of opcodes were extracted from samples.

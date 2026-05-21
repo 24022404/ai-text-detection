@@ -1,0 +1,1 @@
+Equals to the length of the prefix of the granddaddy sequence x, from the beginning to the sub-string v. Recall that uk,sis also a Lyndon word, one has:

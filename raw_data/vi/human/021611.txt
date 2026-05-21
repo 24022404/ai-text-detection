@@ -1,0 +1,1 @@
+–Phả quản lý được mọi dữ lệu do hệ thống tạo ra (như tài khoản, bài viết) trên giao diện trang quản lý cho quản trị vên.

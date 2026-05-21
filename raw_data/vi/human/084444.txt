@@ -1,0 +1,1 @@
+Hệu quả Không cần tết lộ Prvate Key, gảng viên chỉ cần kí một giao dịch, Relay sẽ thay gảng viên thực hiện giao dịch hay trả phí thay cho gảng viên. Từ đó gảng viên cóthể hoàn toàn thoả má sử dụng DEducaton mà không cần phải bận tâm tới những vấn điề lên quan tới tền điện tử.

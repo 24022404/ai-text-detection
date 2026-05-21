@@ -1,0 +1,1 @@
+MongoDB lưu trữ dữ lệu dưới dạng document, là một kiểu cấu trúc dữ lệu gồm các trường field và value tương tự JSON.Do dữ lệu điược lưu trữ dướ dạng document trong collection, do đó bạn không cần xác định trước schema của document. Tính linh hoạt của schema này cho phép bạn lưu trữ nhiều loại cấu trúc dữ lệu khác nhau.

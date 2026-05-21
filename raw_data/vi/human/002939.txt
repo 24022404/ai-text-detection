@@ -1,0 +1,1 @@
+Do hệ thống có nhiều chức năng nên tạ đây, em sẽ trình bày nội dung kiểm thử của 3 chức năng chính là chức năng đăng ký tình nguyện viên, chức năng duyệt hồ sơ đăng ký làm Tình nguyện viên và chức năng quản lý bà học(với lớp dạy theo hình thức tập trung).

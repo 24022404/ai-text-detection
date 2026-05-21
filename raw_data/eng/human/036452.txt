@@ -1,0 +1,1 @@
+Numeric OrderName Required Condition Example 1 Email YesValid structured email addressngocnhathht@gmai.com 2 Password YesUnsigned, no space, Minimum of 8 characters, Contains letters, numbers, uppercase characters, and 1 special character (eg !, @, ...)Abc@123 3Confirm passwordYes Same password Abc@123 2.2.4 Rating Usecase Figure 2.10: Rating UsecaseUse Case Description:

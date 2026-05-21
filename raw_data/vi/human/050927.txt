@@ -1,0 +1,1 @@
+Chương 3: Xây dựng mô hình Sau khi khảo sát qua dataset  điã có, cần điưa ra 1 và model để có thể trần với bộ dataset đó .

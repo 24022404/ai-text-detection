@@ -1,0 +1,1 @@
+Tính nhất quán: Giao diện của hệ thống cần duy trì tính nhất quán trong cách thao tác và trình bày, giúp người dùng dễ dàng tìm kiếm và sử dụng các tính năng một cách tự nhiên. Các hành động, nút bấm và menu nên được đặt ở các vị trí dễ nhìn thấy và sử dụng.

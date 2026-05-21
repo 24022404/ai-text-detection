@@ -1,0 +1,1 @@
+Through Props, components can connect to each other using custom data. This helps pass customized data to a specific UI component.

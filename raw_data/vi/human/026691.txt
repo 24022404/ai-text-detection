@@ -1,0 +1,1 @@
+Thiết kế tổng quan Hình dưới đây là biểu đồ phụ thuộc góc<<layer>> Application <<layer>> API Gateway MddlewareMddleware User Server Hình 4.1: Biểu đồ phụ thuộc gó 4.1.3 Thiết kế cho tết có Dựa vào biểu đồ phụ thuộc góc và các định nghĩa tầng, ta có thể hình dung cơ bản về mối liên hệ giữa các thành phần trong hệ thống như sau:

@@ -1,0 +1,1 @@
+Không trạng thái (Stateless): Mỗ yêu cầu HTTP tương đương với một yêu cầu độc lập và không có thông tin trạng thái được lưu giữ giữa các yêu cầu.

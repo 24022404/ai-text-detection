@@ -1,0 +1,1 @@
+Hệ thống hiển thị thông tin chi tiết về sản phẩm, bao gồm tên sản phẩm, giá bán, số lượng trong kho, v.v.

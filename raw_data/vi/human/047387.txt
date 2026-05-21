@@ -1,0 +1,1 @@
+Về lý thuyết Thông qua đồ án, em đã học tập được một số kến thức hữu ích trong lập trình ➢Cách cà điặt, cấu hình cho framework Laravel.

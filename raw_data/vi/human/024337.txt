@@ -1,0 +1,1 @@
+Ngoài những đặc điểm nêu trên, PHP còn một số ưu điểm khác như sau PHP hỗ trợ nhiều kiểu dữ lệu, bao gồm chuỗi, số, mảng, đối tượng và nhiều kiểu dữ lệu khác.

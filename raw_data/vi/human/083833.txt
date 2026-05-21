@@ -1,0 +1,1 @@
+Nếu ta có thể ràng buộc sự thay đổi của poly, ta có thể bỏ qua phần Kh đố bài toán trở thành:

@@ -1,0 +1,1 @@
+Nhờ gió, hệ thống có thể tận dụng các API của server cho các dạng nền tảng và thiết bị khác nhau.

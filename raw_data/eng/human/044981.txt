@@ -1,0 +1,1 @@
+Data Component Support the declaration of actions that Agents can perform in the game.•Define goals that Agents need to achieve.

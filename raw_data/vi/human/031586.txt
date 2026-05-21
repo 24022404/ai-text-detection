@@ -1,0 +1,1 @@
+Tất cả các thành phần này cùng nhau tạo nên một ứng dụng React Native đầy đủ và chức năng. Để triển khai một ứng dụng thương mại điện tử với React Native, chúng ta có thể thực hiện các bước sau:

@@ -1,0 +1,1 @@
+The model has its own vocabulary called ”secvocab” which is optimized to align with the training corpus. You can access the code and pre-trained models for SecBERT at  .

@@ -1,0 +1,1 @@
+Ở giao diện như Hình 4.11, người dùng có thể thử nghệm mô hình UNETR với hình ảnh polyp 2D.

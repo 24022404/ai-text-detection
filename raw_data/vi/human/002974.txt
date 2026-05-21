@@ -1,0 +1,1 @@
+Chương 4 sẽ trình bày cho tết về phân tích thiết kế hệ thống và trình bày sâu hơn về luồng hoạt động của một số nghiệp vụ chính trong hệ thống, thiết kế giao diện, cơ sở dữ liệu và cuối cùng là triển khai hệ thống.

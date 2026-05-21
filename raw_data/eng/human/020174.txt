@@ -1,0 +1,1 @@
+K. Soomro, A. R. Zamir and M. Shah, “UCF101: A dataset of 101 human actions classes from videos in the wild,” CoRR ,jourvol abs/1212.0402, 2012.

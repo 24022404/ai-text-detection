@@ -1,0 +1,1 @@
+Trong đồ án này, em đã đề xuất và triển khai hệ thống đánh giá sản phẩm trên các trang thương mại điện tử tích hợp mô hình phân tích cảm xúc bình luận.

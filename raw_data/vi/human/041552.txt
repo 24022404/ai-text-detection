@@ -1,0 +1,1 @@
+React Native cung cấp sẵn các thành phần như View, Text, Image, Text Input, Scroll V, v.v. và lập trình viên có thể tạo ra các thành phần tùy chỉnh của riêng mình.

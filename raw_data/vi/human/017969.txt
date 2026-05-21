@@ -1,0 +1,1 @@
+IPFS: Mạng ngang hàng chia sẻ tệp được dùng để lưu trữ và chia sẻ dữ liệu trước khi đưa lên mô trường Blockchan.

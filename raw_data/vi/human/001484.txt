@@ -1,0 +1,1 @@
+Bài toán phát hiện và sửa lỗi sai chính tả (SC) sẽ gồm hai bài toán nhỏ là phát hiện lỗ sa và bà toán sửa lỗ chính tả.Bài toán phát hiện lỗi sai chính tả là một bài toán rất được quan tâm trong xử lý ngôn ngữ tự nhiên. Bài toán có đầu vào là một văn bản hay một đoạn văn, đầu ra sẽ là những từ bị sa chính tả.

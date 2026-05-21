@@ -1,0 +1,1 @@
+Ưu điểm của Mô hình Holt Winters là cần ít dữ liệu trong quá khứ và có thể áp dụng cho chuỗi dữ liệu có tính xu hướng và mùa vụ.

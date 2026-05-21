@@ -1,0 +1,1 @@
+Quản lý tài nguyên: Docker cung cấp các công cụ và tính năng quản lý tài nguyên mạnh mẽ. Bạn có thể quản lý và giới hạn tài nguyên sử dụng bởi các container, như CPU, bộ nhớ và lưu trữ, để đảm bảo hiệu suất và đồng nhất trong môi trường triển khai.

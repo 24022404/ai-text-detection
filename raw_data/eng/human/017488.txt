@@ -1,0 +1,1 @@
+J. Hoffman, E. Tzeng, T. Park, et al., “Cycada: Cycle-consistent adversarial domain adaptation,” in International conference on machine learning , Pmlr, 2018, pp. 1989–1998.

@@ -1,0 +1,1 @@
+Define the loss function: The loss function that the model will refine throughout training must be specified. The mean squared error (MSE) loss is a typical loss function for matrix factorization.

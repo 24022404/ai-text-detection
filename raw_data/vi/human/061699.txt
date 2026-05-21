@@ -1,0 +1,1 @@
+WebRTC WebRTC  (Web Real Time Communication) là một công nghệ tiêu chuẩn mở, cho phép truyền thông thời gian thực (realtme) giữa các trình duyệt và ứng dụng web mà không cần cài đặt phần mềm hoặc plugin bổ sung. Nó cung cấp các giao thức và API để thiết lập kết nối trực tiếp (peer to peer) giữa các thiết bị và trình duyệt web để chia sẻ âm thanh, video và dữ liệu.

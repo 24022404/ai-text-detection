@@ -1,0 +1,1 @@
+Màn hình popup chỉnh sửa dữ liệu Hình 4.8: Màn hình popup chỉnh sửa dữ liệu Màn hình ở hình 4.8 hiển thị popup gồm các trường thông tin của dữ liệu, cung cấp công cụ chỉnh sửa dữ liệu.

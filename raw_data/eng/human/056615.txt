@@ -1,0 +1,1 @@
+The workflow begins by defining a YAML file in the ‘.github/workflows‘ direc tory of the project repository. This YAML file contains the necessary configurationto specify when and how often the data update should occur. I configured the work flow to trigger at specific time intervals or based on specific events, such as code commits or pull requests.

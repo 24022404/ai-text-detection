@@ -1,0 +1,1 @@
+Platforms for decentralized video streaming use a variety of distribution techniques. While some systems choose a hybrid strategy that combines central ized and decentralized elements, others only use peer-to-peer networks.

@@ -1,0 +1,5 @@
+Bộ công cụ thực hành phân hệ xác định và điều khiển tư thế vệ tinh ADCS Kit đã được phát triển để phục vụ đào tạo và nghiên cứu trong lĩnh vực kỹ thuật vũ trụ. Bộ công cụ này bao gồm các phần mềm và phần cứng được thiết kế để giúp các chuyên gia và sinh viên có thể thực hành và thử nghiệm các kỹ thuật điều khiển tư thế vệ tinh một cách hiệu quả.
+
+Bộ công cụ ADCS Kit cung cấp các tính năng như mô hình hóa và phân tích dữ liệu, điều khiển và giám sát hệ thống, cũng như các công cụ hỗ trợ đào tạo và nghiên cứu. Với bộ công cụ này, người dùng có thể thực hành và thử nghiệm các kỹ thuật điều khiển tư thế vệ tinh một cách an toàn và hiệu quả, từ đó có thể nâng cao kỹ năng và kiến thức của mình.
+
+Bộ công cụ ADCS Kit được thiết kế để đáp ứng nhu cầu của các tổ chức và cá nhân trong lĩnh vực kỹ thuật vũ trụ, bao gồm các trường đại học, nghiên cứu và phát triển, cũng như các công ty sản xuất vệ tinh. Với sự hỗ trợ của bộ công cụ này, người dùng có thể đạt được mục tiêu của mình trong lĩnh vực kỹ thuật vũ trụ một cách hiệu quả và an toàn.

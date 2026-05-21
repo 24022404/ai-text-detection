@@ -1,0 +1,1 @@
+Thiết kế tổng quan và thiết kế cho tết có Hệ thống được chia làm 3 góc chính tương ứng với từng thành phần trong mô hình MVC đã nêu ở trên.

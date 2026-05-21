@@ -1,0 +1,1 @@
+K. Peguero and X. Cheng, “Csrf protection n javascript frameworks and the security of javascript applications,” Confidence Computing , vol. 1, no. 2, p. 100 035, 2021.

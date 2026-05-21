@@ -1,0 +1,1 @@
+APIs are essential for enabling communication between services; for example, by using the @GetMapping("/users") annotation and open feign.FeignClient, one service can call another service’s user API efficiently.

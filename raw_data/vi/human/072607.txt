@@ -1,0 +1,1 @@
+Gả pháp RabbitMQ là một giải pháp hữu hiệu cho việc thực hiện các thao tác xử lý hàng đợi, thực hiện các công việc địa luồng nhằm đồng bộ hóa dữ liệu một cách song song.

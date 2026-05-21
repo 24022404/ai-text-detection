@@ -1,0 +1,1 @@
+Hàm get_nputs() được định nghĩa theo dạng abstract method. Các trình tính toán khi được kha báo sẽ tự định nghĩa lạ phương thức này.

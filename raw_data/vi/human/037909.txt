@@ -1,0 +1,1 @@
+Go actions: là nơi chứa các events. Chúng là cách mà chúng ta send data từ app điến Redux store. Những data này có thể là từ sự tương tác của user vs app, API calls hoặc cũng có thể là từ form submission.

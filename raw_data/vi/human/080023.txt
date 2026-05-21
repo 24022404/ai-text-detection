@@ -1,0 +1,1 @@
+Chương 5: Các giải pháp và đóng góp nổi bật. Trong chương này sẽ trình bày về các đóng góp nổi bật của sinh viên trong ứng dụng này, đấy chính là sử dụng stomp socket để thực hiện chức năng chat thờ gan thực.

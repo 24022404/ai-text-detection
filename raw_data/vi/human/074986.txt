@@ -1,0 +1,1 @@
+Và một mục đích chính nữa là để gả quyết bài toán về hiệu năng của Hybrid, cũng như chi phí để phát triển ứng dụng trong dài hạn.

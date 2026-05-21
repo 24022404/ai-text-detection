@@ -1,0 +1,1 @@
+Bảo mật chưa thật sự tốt do dùng JavaScript. Do sử dụng JavaScript, người dùng cũng sẽ bị ảnh hưởng bởi những đặc điểm của JavaScript: dễ làm dễ sa,dẫn đến khó duy trì về sau.

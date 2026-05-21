@@ -1,0 +1,1 @@
+Chương 2 trình bày về việc thu thập yêu cầu hệ thống liên quan đến chức năng và người dùng. Sau đó, em sẽ phân tích và mô hình hóa các yêu cầu đón bằng công cụ UML, bao gồm mô hình hóa chức năng, mô hình hóa cấu trúc và mô hình hóa hoạt động dựa trên các loại sơ đồ khác nhau.Chương 3 sẽ gớ thiệu về các công nghệ được sử dụng để xây dựng hệ thống.

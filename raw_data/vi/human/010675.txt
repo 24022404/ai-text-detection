@@ -1,0 +1,1 @@
+Vớ mô hình khuôn mặt 3D thu được từ mô hình dựng khuôn mặt 3D, 9 ảnh xoay với 9 góc của khuôn mặt sẽ được thú lạ làm dữ liệu huấn luyện.

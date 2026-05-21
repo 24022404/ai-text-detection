@@ -1,0 +1,1 @@
+Hiện nay, vệc phát trển các trang web dạy học trực tuyến đã trở thành một xu hướng nổ bật, điặc bệt là trong bố cảnh của sự phát trển của công nghệ và nhu cầu ngày càng cao về gáo dục từ xa. Để hiểu rõ hơn về thực trạng phát trển của các trang web dạy học trực tuyến, cũng như điể xác định yêu cầu cụ thể cho phần mềm, các nhân tố sau cần điược khảo sát:

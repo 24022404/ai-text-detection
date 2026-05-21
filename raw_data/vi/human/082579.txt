@@ -1,0 +1,1 @@
+Trong hệ thống này, tầng trình bày được phát triển với HTML, CSS, Javascript và sử dụng framework ReactJs , tầng ứng dụng sử dụng Java  và framework Spring Boot , ngoài ra còn sử dụng NodeJs  và framework Express .

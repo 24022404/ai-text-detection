@@ -1,0 +1,1 @@
+Chương 4 trình bày về các kết quả đạt được sau khi áp dụng các công nghệ từ Chương 3 điểm xây dựng ứng dụng, bao gồm các kiến trúc phần mềm, thiết kế cho tết về giao diện, các lớp trong ứng dụng, và cuối cùng là hình ảnh thực tế từ ứng dụng mô tả các chức năng chính trong hệ thống.

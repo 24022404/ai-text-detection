@@ -1,0 +1,9 @@
+Objective: Extracting timely fashion trends from vast, unlabelled social media imagery remains a critical challenge for brands and researchers. This study introduces a robust object detection framework augmented with unsupervised learning to automatically identify and track clothing items and style attributes in user-generated photos. 
+
+Methods: We propose a two-stage pipeline. First, a convolutional backbone is pretrained via self-supervised contrastive learning on a large corpus of social media images, followed by pseudo-label generation through clustering of visual features. Second, these pseudo-labels guide a custom object detector that jointly localizes garments and classifies style attributes without requiring manual annotation. A temporal analysis module then aggregates detection outputs over time to highlight emerging trends.
+
+Results: Evaluated on a new benchmark dataset of 200K Instagram images and a public fashion dataset, our method achieves a mean average precision (mAP) of 62.4%, outperforming fully supervised baselines by 9.7%. Unsupervised pretraining reduces annotation needs by over 70% while maintaining high detection accuracy. The trend-mining module successfully identifies rising silhouettes, colors, and accessories up to two months before they appear in curated fashion reports.
+
+Conclusion: The proposed approach delivers a scalable solution for real-time fashion trend extraction, combining robust object detection with unsupervised learning to drastically cut labeling costs and detect novel style shifts. This work offers valuable insights for marketers, designers, and social media analysts aiming to harness consumer-driven fashion signals. 
+
+Keywords: fashion trend analysis, object detection, unsupervised learning, self-supervised pretraining, social media analytics.

@@ -1,0 +1,1 @@
+Chương 4 trình bày về kiến trúc hệ thống và thiết kế chi tiết của hệ thống. Em sẽ trình bày về thiết kế được lựa chọn cho kiến trúc tổng quan của hệ thống thông qua các biểu đồ và thiết kế các lớp chi tiết, các công cụ được sử dụng cho đồ án, mô trường, dữ lệu thực nghiệm và kết quả đạt được cùng với minh họa các chức năng chính của hệ thống.

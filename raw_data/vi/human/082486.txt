@@ -1,0 +1,1 @@
+Lý do lựa chọn Các hàm được dựng sẵn trong thư viện cho từng bài toán cho phép tensorflow xây dựng được nhiều mạng học máy. Dựa vào đó tôi đã lựa chọn ra mạng thích hợp để ứng dụng vào bài toán phát hiện và nhận diện khuôn mặt.

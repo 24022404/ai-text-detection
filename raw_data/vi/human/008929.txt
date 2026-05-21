@@ -1,0 +1,1 @@
+Từ những ưu điểm đó, mẹ quyết định chọn NodeJS điểm xây dựng các API phục vụ cho các chức năng trong ĐATN của em.

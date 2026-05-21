@@ -1,0 +1,1 @@
+Ở mục 2.1.2, đồ án điã điề cập điến các chỉ báo phổ bến trên TTCK. Đặc điểm chung của các chỉ báo là thường được tính theo các công thức dưới dạng hồ quy.

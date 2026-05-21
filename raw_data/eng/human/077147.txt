@@ -1,0 +1,1 @@
+Package repository: contains interfaces that directly manipulate data in the database. This package is responsible for providing the data read and write methods for the service package.

@@ -1,0 +1,1 @@
+Khách có thể truy cập hệ thống nhằm mục đích đóng góp sản phẩm thông qua chức năng đánh giá sản phẩm bằng lnk của sản phẩm trên các trang như thế giớ di động. Bên cạnh đó, chức năng tìm kiếm sản phẩm giúp khách hàng có thể tìm kiếm các sản phẩm điã điược điánh gá trước đó trên hệ thống. Ngoài ra, khách có thể xem toàn bộ đánh giá của sản phẩm trên các trang thương mại khác nhau.

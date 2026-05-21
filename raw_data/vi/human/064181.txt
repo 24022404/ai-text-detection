@@ -1,0 +1,1 @@
+Dựa trên những phân tích và điánh gá của các sản phẩm hiện có, mục têu của điề tà là phát trển một hệ thống quản lý thư vện điơn gản, lnh hoạt và phù hợp với các thư vện nhỏ và vừa. Hệ thống này sẽ cung cấp các tính năng quản lý tà lệu, theo dõ vòng điờ của tà lệu, kểm kê.

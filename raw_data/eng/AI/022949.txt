@@ -1,0 +1,1 @@
+Once a file is uploaded, users are able to view essential details including its size, various hashes, version number, and related metadata.

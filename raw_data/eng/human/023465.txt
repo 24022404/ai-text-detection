@@ -1,0 +1,1 @@
+Gaussian Model of Optical Flow (GMOF) At the time existing vision-based techniques focus mostly on detecting violence and make very little attempt to pinpoint its location. To tackle this problem, Zhange et al. presented a quick and robust method for identifying and localizing violence in surveillance situations to address this issue .

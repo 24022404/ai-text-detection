@@ -1,0 +1,1 @@
+The study explores how conventional social login methods enhance DApp user experience, assessing both the system's efficacy and adaptability while detailing its unique characteristics and benefits.

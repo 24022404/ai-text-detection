@@ -1,0 +1,1 @@
+Bước 3: Xây dựng danh sách gợi ý sản phẩm Dựa vào ma trận tương tự có thể tìm được top sản phẩm tương tự với sản phẩm hiện tại. Giá trị càng cao càng thể hiện mức độ tương tự giữa các sản phẩm.

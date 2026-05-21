@@ -1,0 +1,1 @@
+Bằng việc giám sát chân DATA, v điều khiển có thể biết được có gao tép để vớ DHT11 ko. Nếu tín hiệu đo được DHT11 lên cao, khi đó hoàn thiện quá trình giao tiếp của vi điều khiển vớ DHT.

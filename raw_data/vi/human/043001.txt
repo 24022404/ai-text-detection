@@ -1,0 +1,1 @@
+Thống kê: ScPy cung cấp một loạt các chức năng thống kê điểm thực hiện các phân tích thống kê cơ bản và phức tạp, bao gồm kiểm định giả thuyết, phân phối xác suất, và hồi quy thống kê.

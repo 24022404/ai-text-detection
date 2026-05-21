@@ -1,0 +1,1 @@
+Cấu trúc dữ liệu không thay đổi gúp đồng thờ khá nhiều, và đối sánh mẫu rất tốt để vết mã khai báo.

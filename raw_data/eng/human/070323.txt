@@ -1,0 +1,1 @@
+This is the screen when one user on call or video call other user.Figure 4.14: Interface design of Begin call screen When the caller calls, his/her popup dialog will have the option to cancel the call. From the callee’s screen, he/she can choose to cancel or pickup the call. If the callee chooses to pickup the call, then the video call screen will be displayed.

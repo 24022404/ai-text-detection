@@ -1,0 +1,1 @@
+ReLU helps models converge faster by preventing saturation, as its slope remains constant for large inputs. This property allows the ReLU activation function to avoid plateauing and improve training efficiency.

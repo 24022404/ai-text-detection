@@ -1,0 +1,1 @@
+Bước 2: Từ đồ thị có được ở bước trước, UMAP  tiếp theo sẽ tạo ra một cấu trúc topo mờ.

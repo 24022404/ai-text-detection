@@ -1,0 +1,1 @@
+MySQL is a structured query language relational database. Relational databasesare a form of database that employs a structure to identify and access data in rela tion to other data within the database.

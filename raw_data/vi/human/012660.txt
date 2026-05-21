@@ -1,0 +1,1 @@
+Việc nhận được Heartbeat ngụ ý rằng DataNode đang hoạt động bình thường. Một Block Report chứa danh sách tất cả các khối trên DataNode.Hình 2.2: Các khối dữ lệu và bản sao phân bố trên các DataNode Vớ kiến trúc và những ưu điểm kể trên, HDFS đang được sử dụng rất rộng rãi trong việc lưu trữ dữ lệu lớn. Đó là lý do em chọn HDFS điểm tổ chức lưu trữ dữ lệu trong đồ án này.

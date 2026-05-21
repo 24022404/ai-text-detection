@@ -1,0 +1,9 @@
+Objective: Latent tree models capture hidden hierarchical relationships among observed variables and are widely used in domains such as phylogenetics, natural language processing, and bioinformatics. However, existing methods for learning both tree structure and parameters often rely on expectation–maximization or greedy heuristics that lack global guarantees and struggle to scale to large datasets.
+
+Methods: We introduce a novel, provably scalable algorithm for learning discrete latent tree models in polynomial time. Our approach leverages moment-based spectral decompositions to estimate low-order marginals, combined with a fast neighbor-joining procedure to reconstruct the underlying tree topology. We further refine parameter estimates through a convex post-processing step that guarantees consistency and improves statistical efficiency.
+
+Results: Under mild identifiability conditions (bounded tree degree and nondegenerate pairwise marginals), our method recovers the exact tree structure and parameters with high probability using Õ(d2 log n) samples, where d is the maximum node degree and n the number of observed variables. Empirical evaluations on synthetic benchmarks and real-world datasets demonstrate that our algorithm achieves comparable or better likelihood scores than EM-based baselines while running up to 50× faster on large models (n≥1,000).
+
+Conclusion: This work provides the first end-to-end learning framework for latent tree models with rigorous theoretical guarantees and practical scalability. Our contributions open the door to applying latent tree analysis in high-dimensional settings and pave the way for further extensions to continuous variables and richer hierarchical structures.
+
+Keywords: latent tree models; scalable learning; spectral methods; polynomial-time algorithms; hierarchical graphical models; machine learning.

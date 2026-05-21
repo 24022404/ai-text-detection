@@ -1,0 +1,1 @@
+Collection : Đồng bộ dữ liệu onchanoffchan lên quan tới các sự kiện mnt NFT của người dùng trong các collection có trên hệ thống.

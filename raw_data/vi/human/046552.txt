@@ -1,0 +1,1 @@
+Bảo mật hệ thống : Bảo mật cho ứng dụng Laravel cần một quá trình bảo trì thường xuyên, ngăn ngửa XSS và SQL Injecton của Laravel gúp gảm thếu các nguy cơ bảo mật cho hệ thống.

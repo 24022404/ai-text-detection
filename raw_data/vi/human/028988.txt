@@ -1,0 +1,1 @@
+Tính ngẫu nhiên trong thiết kế bản đồ  Bản đồ và các màn chơi trong game được thiết kế một cách ngẫu nhiên, mỗi lần người chờ quay lại game điều sẽ là một bản đồ khác hoàn toàn, chỉ có cốt truyện, tạo hình nhân vật là được giữ nguyên. Điều này làm tăng giá trị chơ lạ của những tựa game roguelike.

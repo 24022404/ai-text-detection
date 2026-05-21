@@ -1,0 +1,1 @@
+Cross-Selling and Upselling: Recommender systems can be used to make suggestions to users about related products, which may present opportunities for cross-selling and upselling. For instance, if a customer buys a pair of shoes, the system may recommend matching accessories like socks or a handbag.

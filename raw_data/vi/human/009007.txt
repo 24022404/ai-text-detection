@@ -1,0 +1,1 @@
+Nacelle : Đây là phần vỏ của động cơ. Bao gồm lớp vỏ bọc ngoài và vỏ của Roto. Được dùng để làm lớp bảo vệ, che chở cho các thành phần chi tiết cấu tạo bên trong của động cơ.

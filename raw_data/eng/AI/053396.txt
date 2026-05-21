@@ -1,0 +1,1 @@
+Machines leverage Machine Learning to identify and classify email messages as either spam or not, efficiently sorting them into the correct folder for users.

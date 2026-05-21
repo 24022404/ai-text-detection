@@ -1,0 +1,1 @@
+Django là một Python web Framework bậc cao, mã nguồn mở, được phát triển với mục tiêu giúp người dùng xây dựng các ứng dụng web phức tạp một cách dễ dàng và nhanh chóng.

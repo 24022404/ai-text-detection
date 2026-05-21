@@ -1,0 +1,1 @@
+Trong hệ thống, có 4 Role tham gia trực tiếp vào các luồng nghiệp vụ là Employee, Leader, Manager và System Admin. Role Khách sẽ không thể thao tác với hệ thống ngoài luồng long và forgot password.

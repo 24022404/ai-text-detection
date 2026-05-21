@@ -1,0 +1,1 @@
+We performed an empirical comparison of ICA and PCA algorithms by applying them on two simulated noisy time series with varying distribution parameters and level of noise. In general, ICA shows better results than PCA because it takes into account higher moments of data distribution. On the other hand, PCA remains quite sensitive to the level of correlations among signals.

@@ -1,0 +1,1 @@
+This approach involves building a 3D model of the in door environment and processing all the navigation calculations in a game engine like Unity. This approach provides high accuracy, but requires a largeamount of computational resources, which can negatively impact the perfor mance of the app.

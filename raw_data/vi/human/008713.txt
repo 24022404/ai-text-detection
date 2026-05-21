@@ -1,0 +1,1 @@
+Service Contract: Là một phiên bản của Dependency Injection (DI), Servicecontract cung cấp một giao diện ổn định giữa mô đun khách hàng và dịch vụ.

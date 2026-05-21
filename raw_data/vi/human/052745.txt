@@ -1,0 +1,1 @@
+Vớ WebSocket , các ứng dụng web có thể thực hiện các trò chuyện thờ gan thực, cập nhật dữ liệu mà không cần tải lại trang, thông báo tức thì và các tác vụ liên quan đến thời gian thực. Nó đã mở ra nhiều cơ hội cho việc phát triển các ứng dụng web đa phương tiện, trò chơi trực tuyến, phòng họp trực tuyến, ứng dụng chia sẻ dữ liệu và nhiều ứng dụng khác.

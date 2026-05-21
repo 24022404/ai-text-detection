@@ -1,0 +1,1 @@
+Analyzing and verifying a signer’s certificate involves checking the certificate’s issuer, verifying the digital signature, confirming the certificate’s validity period, and ensuring it hasn’t been revoked.

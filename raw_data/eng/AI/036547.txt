@@ -1,0 +1,1 @@
+Convolutional Neural Network (CNN) is an advanced Deep Learning model that excels at processing visual data, making it highly effective and widely used for achieving accurate object recognition in various types of images.

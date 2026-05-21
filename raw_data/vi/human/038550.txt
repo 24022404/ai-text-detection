@@ -1,0 +1,1 @@
+Device (hình 5.8): lọc dữ lệu theo loại thiết bị đọc báo là máy tính (PC) và điện thoại (MB). Có thể chọn một trong hai loại thiết bị hoặc cả ha.

@@ -1,0 +1,1 @@
+There are many benefits when using kafka Kafka is highly scalable. Kafka is a distributed system, which can be scaled quickly and easily without incurring any downtime. Apache Kafka can handle many terabytes of data without incurring much at all in the way of overhead.

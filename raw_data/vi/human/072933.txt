@@ -1,0 +1,1 @@
+HDFS HDFS là một hệ thống tệp phân tán được thiết kế điển chạy trên phần cứng hàng hóa. Nó có nhiều điểm tương đồng với các hệ thống tệp phân tán hiện có. Tuy nhiên, sự khác biệt so với các hệ thống tệp phân tán khác là đáng kể.

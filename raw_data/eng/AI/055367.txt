@@ -1,0 +1,1 @@
+Consistent use of icons and symbols across the interface allows users to easily recognize actions, statuses, and information types, making it simpler and faster to navigate and understand the overall interface.

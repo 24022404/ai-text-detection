@@ -1,0 +1,1 @@
+Controller sử dụng để liên kết ha phần model và view với nhau bằng cách cập nhật các dữ liệu ở phần model từ các event của phần view.

@@ -1,0 +1,9 @@
+Objective: Data augmentations are a cornerstone of training robust convolutional neural networks (CNNs), yet it remains unclear whether and how CNNs internally encode the transformations they encounter. This paper investigates to what extent standard CNN architectures learn explicit representations of common augmentations such as rotation, scaling, translation, color jitter and horizontal flip.  
+
+Methods: We propose a unified probing framework that (1) applies controlled augmentations to input images, (2) extracts intermediate feature maps from trained models, and (3) uses linear and nonlinear probes to predict augmentation parameters from those features. We evaluate ResNet and VGG variants trained on CIFAR-10 and ImageNet under varying augmentation regimes and perform ablation studies to isolate the effects of individual transformations.
+
+Results: Our experiments demonstrate that early convolutional layers encode augmentation parameters with high fidelity—linear probes recover rotation and scale with over 90% accuracy—while deeper layers progressively discard transformation details in favor of semantic invariance. Color and illumination changes remain partially decodable even at later stages, indicating entangled feature representations. Comparisons across architectures reveal that deeper, wider networks distribute augmentation encoding more efficiently, yielding stronger invariance in final classifications.
+
+Conclusion: CNNs do not merely become insensitive to applied transformations; they actively model them in their internal representations before achieving invariance. These findings offer novel insights into representation learning, inform the design of augmentation-aware architectures, and suggest new strategies for automated augmentation policy selection.  
+
+Keywords: convolutional neural networks, data augmentation, representation probing, invariance, equivariance, feature decoding.

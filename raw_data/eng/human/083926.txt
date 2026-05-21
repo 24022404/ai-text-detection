@@ -1,0 +1,1 @@
+Postconditions : The user can view the signer certificate details, including validity dates, issuer information, and any issues related to the certificate’s authenticity.

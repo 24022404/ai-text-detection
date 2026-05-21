@@ -1,0 +1,1 @@
+. Giới thiệu Nest là một framework để xây dựng các ứng dụng web và di động sử dụng Nodejs. Nó sử dụng TypeScript và cung cấp các công cụ và cơ chế để xây dựng các ứng dụng web mạnh mẽ, dễ dàng mở rộng và quản lý.

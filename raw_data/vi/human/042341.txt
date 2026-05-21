@@ -1,0 +1,1 @@
+Bài báo trình bày s ự hình thành và lan truy ền của sóng nén khi n ổ trong môi tr ường đất đá. Phương pháp xác định áp lực sóng nén và kết quả nghiên cứu ứng dụng phần mề m Abaqus để xác định áp lực của sóng nén do n ổ trong đất. Từ đó có những nhận xét về việc tính toán áp lự c sóng nén do n ổ trong môi tr ường đất đá.

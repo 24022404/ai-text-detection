@@ -1,0 +1,1 @@
+Container: Là một thực thể của Image (được tạo ra khi chạy Image). Các con tanner hoạt động độc lập nhau và với hệ điều hành chủ. Có thể khởi tạo hay gỡ bỏ một container rất dễ dàng.

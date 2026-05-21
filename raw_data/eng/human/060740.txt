@@ -1,0 +1,1 @@
+– Adagrad : Adagrad (Adaptive Gradient) is an optimization algorithm used for training machine learning models. It adapts the learning rate of each parameter based on the historical gradients observed during training. Adagrad assigns a different learning rate to each parameter, with parameters that have larger gradients receiving a smaller learning rate and vice versa.

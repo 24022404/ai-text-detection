@@ -1,0 +1,1 @@
+Flutter cung cấp một loạt tính năng và lợi ích quan trọng. Vớ hot reload, lập trình viên có thể xem trực tiếp kết quả của các thay đổi trong mã nguồn, giúp tăng tốc quá trình phát triển. Ngoài ra, Flutter cung cấp giao diện người dùng tương tác mượt mà và phản hồi nhanh, tạo ra trải nghiệm người dùng tốt.

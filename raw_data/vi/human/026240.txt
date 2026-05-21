@@ -1,0 +1,1 @@
+Sau khi ĐATN, em đã thành công trong vệc xây dựng một sản phẩm demo là một website bán sách trực tuyến điúng như phân tích thiết kế ở trong Chương 2 và Chương 4. Sản phẩm demo này có lẽ còn phát trển thêm, nhưng điã chạy tốt và gao dện thân thiện, dễ dùng.

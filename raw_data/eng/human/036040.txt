@@ -1,0 +1,1 @@
+Any file paths that include extraneous details (e.g., paths with a ‘!‘ symbol) are cleaned up to retain only the relevant filenames.

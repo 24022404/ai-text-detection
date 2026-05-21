@@ -1,0 +1,1 @@
+Cập nhật đơn bổ sung: Use case này cha làm 2 use case nhỏ là "Duyệt/Chỉnh sửa đơn bổ sung" và "Từ chối đơn bổ sung". Vớ use case đầu tiên, Manager có thể duyệt nếu đơn bổ sung hợp lệ, hoặc phản hồi lạ cho người tạo nên đơn đỏ thiếu thông tin nào đó. Còn đối với use case còn lạ là "Từ chối điơn bổ sung", Manager sẽ từ chối nếu đơn bổ sung không hợp lệ.

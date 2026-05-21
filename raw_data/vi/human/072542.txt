@@ -1,0 +1,1 @@
+Cụ thể, các lớp Ví, Ngân sách và Người dùng phụ thuộc vào lớp Thu ch, vì thông tin của chúng được tính toán một phần hoặc toàn bộ dựa trên các khoản thu ch.

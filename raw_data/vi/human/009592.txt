@@ -1,0 +1,1 @@
+Hậu điều kiện Khách hàng đã hoàn thành đăng ký tài khoản và có thể sử dụng các tính năng của hệ thống.

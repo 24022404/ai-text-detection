@@ -1,0 +1,1 @@
+Repository Pattern: Được sử dụng điểm tương tác với cơ sở dữ liệu, Repository Pattern giúp che gấu cho tết cơ sở dữ liệu và cung cấp gạo điện thống nhất cho việc truy xuất dữ liệu.

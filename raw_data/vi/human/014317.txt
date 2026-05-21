@@ -1,0 +1,1 @@
+storeD(): Lưu một CV mới + getById(): Trả về dữ liệu của CV theo _d + getAllIDs(): Lấy tất cả CV + update(): Cập nhật trạng thái và thờ gan phỏng vấn của CV + getIntervewScheduleByClassAndMonth(): Lấy tất cả CV và lịch phỏng vấn của CV theo lớp và tháng.

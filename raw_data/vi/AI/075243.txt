@@ -1,0 +1,11 @@
+Nghiên cứu lựa chọn phương pháp xác định sức kháng cắt của cọc khoan nhồi đang là một vấn đề quan trọng trong lĩnh vực xây dựng cơ sở hạ tầng. Cọc khoan nhồi là một loại cọc được sử dụng rộng rãi trong xây dựng, đặc biệt là trong các công trình có yêu cầu về độ bền và độ ổn định cao.
+
+Để xác định sức kháng cắt của cọc khoan nhồi, các phương pháp khác nhau đã được nghiên cứu và áp dụng. Một số phương pháp phổ biến bao gồm phương pháp thử nghiệm, phương pháp tính toán và phương pháp kết hợp.
+
+Phương pháp thử nghiệm là phương pháp được sử dụng rộng rãi nhất để xác định sức kháng cắt của cọc khoan nhồi. Phương pháp này bao gồm việc thực hiện thử nghiệm trên mẫu cọc khoan nhồi để đo sức kháng cắt của nó.
+
+Phương pháp tính toán là phương pháp được sử dụng để xác định sức kháng cắt của cọc khoan nhồi dựa trên các thông số kỹ thuật của cọc khoan nhồi. Phương pháp này bao gồm việc sử dụng các công thức toán học để tính toán sức kháng cắt của cọc khoan nhồi.
+
+Phương pháp kết hợp là phương pháp được sử dụng để kết hợp giữa phương pháp thử nghiệm và phương pháp tính toán để xác định sức kháng cắt của cọc khoan nhồi. Phương pháp này bao gồm việc sử dụng kết quả từ phương pháp thử nghiệm và phương pháp tính toán để xác định sức kháng cắt của cọc khoan nhồi.
+
+Tóm lại, việc lựa chọn phương pháp xác định sức kháng cắt của cọc khoan nhồi là một vấn đề quan trọng trong lĩnh vực xây dựng cơ sở hạ tầng. Các phương pháp khác nhau đã được nghiên cứu và áp dụng, bao gồm phương pháp thử nghiệm, phương pháp tính toán và phương pháp kết hợp.

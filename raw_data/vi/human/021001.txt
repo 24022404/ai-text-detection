@@ -1,0 +1,1 @@
+Tính Bảo mật: Laravel cung cấp các tính năng bảo mật như hashng passwords, CSRF protecton, và authentcaton out of the box, gúp bảo vệ ứng dụng của bạn khỏ các cuộc tấn công.

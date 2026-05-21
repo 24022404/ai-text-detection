@@ -1,0 +1,1 @@
+To delete a post, hover over it and select delete. A confirmation popup will appear; clicking "Yes" deletes the post, shows a success notification, and updates the user's list. Errors trigger an error notification.

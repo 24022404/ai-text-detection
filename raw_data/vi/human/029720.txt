@@ -1,0 +1,1 @@
+Hệ thống kiểm tra tính hợp lệ sau đó gửi thông tin điện nhà tuyển dụng và mal xác nhận cho ứng viên.

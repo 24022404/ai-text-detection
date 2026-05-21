@@ -1,0 +1,1 @@
+T. Hua, W. Wang, Z. Xue, Y. Wang, S. Ren andH. Zhao, “On feature decorrelation in self-supervised learning,” arXiv e-prints , arXiv–2105, 2021.

@@ -1,0 +1,1 @@
+Claim 1. All the vertices in P, if not a start or end vertex, must have the number of in-edges and out-edges equal in P.

@@ -1,0 +1,11 @@
+Here is a generated abstract for the graduation thesis:
+
+The rapid growth of digital publishing has led to an overwhelming number of e-books available online, making it challenging for readers to discover relevant content. This has created a need for effective e-book recommendation systems. Motivated by the importance of personalized recommendations in enhancing user experience, this thesis explores the application of matrix decomposition techniques in developing an e-book recommendation system. 
+
+The primary objective of this research is to design and implement a recommendation system that leverages matrix decomposition to accurately predict user preferences and suggest relevant e-books. Specifically, the system aims to address the issues of data sparsity and scalability in traditional recommendation algorithms.
+
+To achieve this, a hybrid approach combining matrix factorization and collaborative filtering is employed. The system architecture utilizes a matrix decomposition technique to reduce the dimensionality of large user-item interaction matrices, thereby improving the efficiency and accuracy of recommendations.
+
+The results of this study demonstrate the effectiveness of the proposed system in providing personalized e-book recommendations, outperforming traditional methods in terms of precision and recall. The contributions of this research lie in its ability to enhance user engagement and satisfaction in digital libraries and e-book platforms, with potential applications in other domains involving large-scale user-item interactions.
+
+In conclusion, this thesis presents a novel application of matrix decomposition techniques in e-book recommendation systems, highlighting the potential of this approach in improving the discovery of relevant content. Future developments may involve integrating additional techniques, such as natural language processing and deep learning, to further enhance the accuracy and diversity of recommendations.

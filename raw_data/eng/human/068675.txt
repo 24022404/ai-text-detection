@@ -1,0 +1,1 @@
+Detailed use case "Manage Members" Figure 2.8: "Learn Lesson" detailed use case diagram s Administrator has the permission to manage members. An administrator can change privilege of a specific member, making it a Teacher or an Administrator.

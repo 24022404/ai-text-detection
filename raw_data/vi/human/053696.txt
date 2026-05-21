@@ -1,0 +1,1 @@
+Bí thư chọn danh mục cần sửa và nhấn sửa 2. Hệ thống hiển thị form sửa danh mục 3. Bí thư sửa lại nội dung danh mục và nhấn sửa 4. Hệ thống sửa danh mục trong CSDL Luồng sự kiện con:

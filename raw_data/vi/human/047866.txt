@@ -1,0 +1,1 @@
+Gó Extenson: Gó chứa các kha báo mở rộng phương thức cho các class, các kểu dữ lệu có sẵn.

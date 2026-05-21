@@ -1,0 +1,9 @@
+Objective: Accurate extraction of road curbs from mobile LiDAR point clouds is essential for high-definition mapping, infrastructure monitoring, and autonomous driving. Existing methods often struggle with uneven surfaces, occlusions, and varying point densities.  
+
+Methods: We propose a hybrid approach that combines geometric feature analysis with adaptive clustering to robustly detect curbs in urban environments. First, raw LiDAR data undergoes noise filtering and ground segmentation using a voxel-based grid model. Next, multi-scale elevation gradient features are computed to highlight potential curb edges. Finally, an adaptive density-based clustering algorithm groups candidate points into curb segments, refining boundaries through a model-fitting step that enforces continuity and local planarity.  
+
+Results: The method was evaluated on diverse urban datasets collected under different traffic and lighting conditions. Experimental results demonstrate a detection precision of 92.3% and recall of 89.7%, outperforming baseline methods by over 8% in F1-score. The approach also reduces false positives in areas with complex road furniture and adapts to varying LiDAR point densities with minimal parameter tuning. Real-time processing is achieved at an average rate of 15,000 points per second on a standard GPU platform.  
+
+Conclusion: The proposed curb extraction framework delivers reliable, high-accuracy results across challenging urban scenes, offering a scalable solution for HD map generation and autonomous navigation. Its adaptability to diverse datasets and computational efficiency make it well-suited for large-scale smart city applications.  
+
+Keywords: Mobile LiDAR, point cloud processing, road curb extraction, elevation gradient, adaptive clustering, urban mapping.

@@ -1,0 +1,1 @@
+Mt.Gox Attack: Mt.Gox used to be the world’s largest bitcoin exchange but eventually collapsed in 2014. The attackers found a vulnerability in their software and stole more than 850000 Bitcoins (about $450 million at that time). This attack is one of the most damaging attacks in blockchain history and has caused a lot of controversy about the safety of cryptocurrency exchanges.

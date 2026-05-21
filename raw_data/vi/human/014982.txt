@@ -1,0 +1,1 @@
+Gả pháp Khi tạo index cho một table trong cơ sở dữ liệu, hệ thống sẽ tạo ra một danh sách các giá trị được sắp xếp theo thứ tự từ khoá. Kh thực hiện các thao tác truy xuất dữ liệu, hệ thống sẽ tìm kiếm thông tin trong danh sách này thay vì phải duyệt toàn bộ bảng. Do đó, việc truy xuất dữ liệu sẽ nhanh hơn và tiết kệm được nhiều thờ gan.

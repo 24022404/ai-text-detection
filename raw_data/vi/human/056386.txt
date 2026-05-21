@@ -1,0 +1,1 @@
+Triển khai gửi thông báo tự động trên nhiều nền tảng khác như Zalo, Telegram, Mocha, ... điển người dùng có thể thuận tiện hơn trong việc tiếp nhận thông báo của ứng dụng.

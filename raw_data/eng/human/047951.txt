@@ -1,0 +1,1 @@
+PostgreSQL was then modified to be adaptable and run on other systems, including Windows, Mac OS X, and Solaris, with many exceptional capabilities and characteristics.

@@ -1,0 +1,1 @@
+Sử dụng mẫu Pagescontroller. Xem thêm ở mục Page Controller trên MSDN Mô hình này sử dụng viewstate hoặc server based form, nhờ đó sẽ giúp cho việc quản lý trạng thái các trang web dễ dàng.

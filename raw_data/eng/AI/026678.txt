@@ -1,0 +1,1 @@
+The app undergoes a check for Firebase integration, with all identified domains subsequently analyzed for potential malware threats via MalwareDomainCheck.

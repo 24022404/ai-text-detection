@@ -1,0 +1,7 @@
+Ứng dụng mô hình HEC-RAS để mô phỏng ngập lụt cho hạ lưu sông Ba đã được thực hiện nhằm đánh giá khả năng chịu đựng của hệ thống hạ tầng và môi trường trước các đợt lũ lụt. Mô hình HEC-RAS được sử dụng để mô phỏng các tình huống lũ lụt khác nhau, bao gồm cả các đợt lũ lụt mạnh và nhẹ.
+
+Kết quả mô phỏng cho thấy rằng hạ lưu sông Ba có khả năng chịu đựng được các đợt lũ lụt mạnh, nhưng vẫn có thể xảy ra ngập lụt ở một số khu vực. Mô hình cũng cho thấy rằng việc xây dựng các công trình phòng chống lũ lụt, như đập và kênh mương, có thể giúp giảm thiểu tác động của lũ lụt.
+
+Tuy nhiên, kết quả mô phỏng cũng cho thấy rằng việc bảo vệ môi trường và hệ sinh thái cũng rất quan trọng trong việc phòng chống lũ lụt. Việc bảo vệ rừng ngập mặn và hệ sinh thái ven sông có thể giúp giảm thiểu tác động của lũ lụt và bảo vệ môi trường.
+
+Tổng kết, ứng dụng mô hình HEC-RAS để mô phỏng ngập lụt cho hạ lưu sông Ba đã cung cấp thông tin quan trọng về khả năng chịu đựng của hệ thống hạ tầng và môi trường trước các đợt lũ lụt. Kết quả mô phỏng cũng cho thấy rằng việc xây dựng các công trình phòng chống lũ lụt và bảo vệ môi trường là rất quan trọng trong việc phòng chống lũ lụt.

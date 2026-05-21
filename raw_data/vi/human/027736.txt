@@ -1,0 +1,1 @@
+Triển khai hệ thống với vai trò nhân viên của khu vực quản lý xe, đáp ứng các chức năng cơ bản nhất của một khu vực giữ xe. Hiệu suất của hệ thống đạt mức độ cao đồng thờ có khả năng tích hợp IOT và trí tuệ nhân tạo nhận diện trong tương la.

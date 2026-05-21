@@ -1,0 +1,1 @@
+I differentiate the Ethereum architecture and the environment because attacks often come from the environment and can be better addressed here rather than in the blockchain.

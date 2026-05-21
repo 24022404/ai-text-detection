@@ -1,0 +1,1 @@
+Tương thích với trình duyệt: Nó tương thích với tất cả các trình duyệt (Chrome, Frefox, Internet Explorer, Safar và Opera).

@@ -1,0 +1,1 @@
+Overview Neural Network is a series of algorithms devised to find basic relationships in a set of data. Through imitating how it works from the human brain. In other words, an artificial neural network is considered a system of artificial neurons. These can often be organic or artificial in nature.

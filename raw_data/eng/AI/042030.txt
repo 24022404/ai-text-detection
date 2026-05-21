@@ -1,0 +1,9 @@
+Objective: Continual learning aims to enable models to acquire new knowledge over time without forgetting prior tasks. However, existing evaluations span diverse scenarios and protocols, making it difficult to compare methods fairly. This paper re-examines common continual learning settings, proposes a unified categorization, and demonstrates the value of well-tuned strong baselines.
+
+Methods: We first introduce a taxonomy that delineates continual learning into task-incremental, domain-incremental, and class-incremental scenarios, clarifying assumptions about task boundaries and label availability. For each scenario, we define standardized evaluation protocols and performance metrics. We then implement several simple yet robust baseline strategies—including regularization-based methods, replay buffers, and parameter isolation—and optimize their hyperparameters systematically.
+
+Results: Experiments on benchmark datasets (e.g., CIFAR-100, MiniImageNet, and CORe50) reveal that properly tuned baselines often match or surpass more complex algorithms under consistent evaluation. Our results highlight the sensitivity of reported gains to evaluation choices and underscore the importance of protocol rigor. We further analyze catastrophic forgetting and knowledge transfer across scenarios.
+
+Conclusion: By categorizing continual learning scenarios and advocating for strong, well-tuned baselines, this work provides clearer insight into method performance and promotes fairer comparisons. Our guidelines and open-source evaluation suite aim to advance the reproducibility and robustness of future continual learning research.
+
+Keywords: continual learning, lifelong learning, evaluation protocols, strong baselines, catastrophic forgetting.

@@ -1,0 +1,1 @@
+Hệ thống chuyển hướng người dùng đến trang tìm kếm 4.Hệ thống hển thị tất cả các công thức phù hợp với từ khóa tìm kếm Kịch bản khác 4.1 Tìm kếm và chọn theo bộ lọc 1.Ngườ dùng truy cập vào trang chủ 2.Ngườ dùng nhấp vào trang tìm kếm 3. Hệ thống chuyển hướng người dùng đến trang tìm kếm 4. Ngườ dùng nhập tên món ăn hoặc thành phần vào thanh tìm kếm.

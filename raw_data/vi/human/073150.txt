@@ -1,0 +1,1 @@
+Gó Models: Gó điạ diện cho thành phần model trong kiến trúc MVC, cung cấp dữ lệu và khả năng lưu trữ dữ lệu vào bộ nhớ cho ứng dụng.

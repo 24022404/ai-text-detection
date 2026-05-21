@@ -1,0 +1,1 @@
+Gameplay package is the core package defining behavioral components for all elements in the game. Some of these components are player and character con-trollers which are grouped and defined inside sub-packages such as staff,player andvisitor .Gameplay package also involves game manager and controllers for other interactable entities.

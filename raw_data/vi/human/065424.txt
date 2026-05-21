@@ -1,0 +1,1 @@
+Xây dựng các kế hoạch kiểm thử ở mỗ vòng lặp có thể tái sử dụng ở các vòng lặp tiếp theo, để việc chuẩn bị kế hoạch kiểm thử ở mỗ vòng lặp sẽ tốn ít thờ gần hơn.

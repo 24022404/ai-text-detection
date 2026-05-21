@@ -1,0 +1,1 @@
+Nowadays, to contribute to the prevention of acts of violence, surveillance cameras are widely used. However, it is impossible to spend human resources to check captured videos 24/7, hence, this led to a problem: Automated violence detection system on surveillance cameras.

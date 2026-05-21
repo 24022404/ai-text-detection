@@ -1,0 +1,1 @@
+Gả pháp xây dựng chức năng làm bài trắc nghiệm Để mô hình hóa thông tin về câu hỏi, câu trả lời, các chủ đề lên quan em và lưu lại đáp án đúng mà người dùng đã trả lời em đã thiết kế cơ sở dữ lệu với các bảng liên quan như sau:

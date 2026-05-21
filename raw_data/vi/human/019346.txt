@@ -1,0 +1,1 @@
+layer không được tính điểm: trong đó gồm một tầng điầu ra output layer  (tầng thứ n) và (n  1) tầng ẩn hidden layer.

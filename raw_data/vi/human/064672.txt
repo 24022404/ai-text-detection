@@ -1,0 +1,1 @@
+width scale: Kích thước của khung hình sẽ được thay đổi cùng tỷ lệ thành khung hình có độ rộng width scale trước khi đưa vào bài toán.

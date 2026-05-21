@@ -1,0 +1,1 @@
+Tất cả đơn hàng Quản trị viên có thể xem tất cả các hóa đơn, chi tiết hóa đơn và trạng thái của hóa đơn.

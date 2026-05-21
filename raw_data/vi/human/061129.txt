@@ -1,0 +1,1 @@
+Elasticsearch hoạt động bằng cách lưu trữ dữ liệu trong các tài liệu JSON và tạo các chỉ mục (index) từ các tài liệu này. Ko tìm kiếm dữ liệu, Elasticsearch tìm kiếm trên các chỉ mục này và trả về các kết quả phù hợp nhất với các truy vấn được yêu cầu.

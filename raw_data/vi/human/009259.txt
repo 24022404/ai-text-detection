@@ -1,0 +1,1 @@
+Thư viện Phiên bản Mục đích Ethers 5.6.9 Thư viện tương tác với Blockchain Axos 0.19.0 Thư viện gửi HTTP request Redux 4.1.2 Thư viện quản lý state React Redux 7.2.8 Kết nối React Component điến Redux store Bảng 4.12: Danh sách thư viện sử dụng trong game NFS Flappy Bird 4.3.2 Kết quả đạt được Hệ thống xây dựng đáp ứng tính năng sử dụng cho 2 người là người dùng và quản trị vên.

@@ -1,0 +1,1 @@
+Chúng tô điã trển kha server ứng dụng lên Render  bản miễn phí, với cấu hình server là 0.1 CPU, 512MB RAM.

@@ -1,0 +1,1 @@
+Luồng sự kiện chính 1. Nhân viên quản lý kho hàng truy cập vào danh sách các phiếu nhập/xuất hàng trong hệ thống.

@@ -1,0 +1,1 @@
+Hậu điều kiện 1.Quản lý đăng nhập ứng dụng thành công 2.Hệ thống ghi nhận hoạt động đăng nhập thành công vào Activity Log.

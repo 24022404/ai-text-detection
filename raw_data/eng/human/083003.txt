@@ -1,0 +1,1 @@
+The user begins by accessing the "Service list" page and applying multiple filters to find the most suitable services. The application then presents a list of services that match the user’s criteria. Next, the user selects their preferred service provider, and the app navigates to the provider’s details, displaying the various services they offer.

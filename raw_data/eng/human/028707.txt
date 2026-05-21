@@ -1,0 +1,1 @@
+As my project expands and requires more complex automation tasks or cloud in frastructure, I can consider exploring AWS automation services in the future. AWS offers a comprehensive suite of cloud-based solutions that can seamlessly integratewith my existing codebase and provide additional functionalities for scaling, data processing, and deployment.

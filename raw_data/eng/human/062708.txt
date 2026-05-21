@@ -1,0 +1,1 @@
+Accuracy =CorrectPredictions Cardinality Precision =TruePositive TruePositive +FalsePositive Recall =TruePositive TruePositive +FalseNegative Precision +Recall Experiments The final dataset has around 3500 labeled sentences/paragraphs (which was much smaller than the given database, but still a large number to label manually).

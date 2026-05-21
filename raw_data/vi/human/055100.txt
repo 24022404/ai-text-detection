@@ -1,0 +1,1 @@
+Để đánh giá hiệu suất của các mô hình học máy, Scikit Learn cung cấp các phương pháp đánh giá như độ chính xác, độ mất mát, F1 Score và ma trận nhầm lẫn (confusion matrix). Nhờ vào tính năng này, người dùng có thể dễ dàng đánh giá và cải thiện hiệu suất của mô hình.

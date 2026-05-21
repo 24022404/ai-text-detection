@@ -1,0 +1,1 @@
+Trong đồ án này, chúng tôi sử dụng hệ quản trị cơ sở dữ liệu PostgreSQL  điểm xây dựng và quản trị dữ liệu cho hệ thống của mình.

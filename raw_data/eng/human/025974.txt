@@ -1,0 +1,1 @@
+Binary classification : This type of classification involves categorizing data into two distinct classes or categories. For example, classifying emails as spam or non-spam, or predicting whether a customer will churn or not.

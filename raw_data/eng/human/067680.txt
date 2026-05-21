@@ -1,0 +1,1 @@
+S. Woo, J. Park, J.Y. Lee, and I. S. Kweon, “Cbam: Convolutional block attention module,” in Proceedings of the European conference on computer vision (ECCV) , 2018, pp. 3–19.

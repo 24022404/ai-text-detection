@@ -1,0 +1,9 @@
+Xây dựng mô hình dự báo rủi ro vỡ nợ là một vấn đề quan trọng trong lĩnh vực tài chính, giúp các tổ chức tài chính dự đoán và phòng ngừa rủi ro vỡ nợ của các doanh nghiệp. Mới đây, một nghiên cứu thực nghiệm đã áp dụng các mô hình học máy để xây dựng mô hình dự báo rủi ro vỡ nợ trên các doanh nghiệp.
+
+Nghiên cứu này đã sử dụng các dữ liệu về doanh nghiệp, bao gồm thông tin về tài chính, hoạt động kinh doanh và các yếu tố khác. Các mô hình học máy được áp dụng bao gồm mô hình hồi quy tuyến tính, mô hình quyết định cây (Decision Tree), mô hình hỗ trợ vector máy (SVM) và mô hình mạng thần kinh (Neural Network).
+
+Kết quả nghiên cứu cho thấy rằng các mô hình học máy có thể dự báo rủi ro vỡ nợ của các doanh nghiệp với độ chính xác cao. Mô hình mạng thần kinh đã cho kết quả tốt nhất, với độ chính xác dự báo lên đến 90%. Kết quả này cho thấy rằng các mô hình học máy có thể được sử dụng để xây dựng mô hình dự báo rủi ro vỡ nợ hiệu quả.
+
+Nghiên cứu này cũng đã chỉ ra rằng các yếu tố như tình hình tài chính, hoạt động kinh doanh và các yếu tố khác có ảnh hưởng đến rủi ro vỡ nợ của các doanh nghiệp. Kết quả này có thể giúp các tổ chức tài chính xây dựng chiến lược phòng ngừa rủi ro vỡ nợ hiệu quả hơn.
+
+Tổng kết, nghiên cứu này đã chứng minh rằng các mô hình học máy có thể được sử dụng để xây dựng mô hình dự báo rủi ro vỡ nợ hiệu quả. Kết quả này có thể giúp các tổ chức tài chính dự đoán và phòng ngừa rủi ro vỡ nợ của các doanh nghiệp.

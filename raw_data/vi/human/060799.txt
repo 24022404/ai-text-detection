@@ -1,0 +1,1 @@
+Numpy a, Khá nệm Numpy  là một thư viện mã nguồn mở dành cho ngôn ngữ Python nhằm mục đích xử lý, tính toán và tương tác với các chuỗi, ma trận số lớn và đa chiều.

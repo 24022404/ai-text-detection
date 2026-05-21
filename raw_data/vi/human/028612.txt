@@ -1,0 +1,1 @@
+Ngoài việc hoàn thiện theo mục têu ban điầu điã điề ra, hệ thống còn được phát triển điểm hỗ trợ đa ngôn ngữ, giúp cho việc sử dụng trở nên dễ dàng và rộng rãi hơn. Tính năng tìm kiếm và lọc sản phẩm cũng là một yếu tố quan trọng điểm giúp người dùng tìm kiếm và lựa chọn sản phẩm mong muốn một cách dễ dàng và nhanh chóng.

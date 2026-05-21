@@ -1,0 +1,1 @@
+Read/Write with Sensor RFID tags: An RFID tag capable of reading and writ ing data to the tag’s memory, and integrating one or more sensors to collectdata from the environment. This type of tag is used in environmental monitor ing, food monitoring and medical applications.

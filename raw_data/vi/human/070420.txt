@@ -1,0 +1,1 @@
+Bước 6: Trên trình duyệt gõ link localhost:8000 điểm bắt điầu chạy lệnh php artisan server.5.1 Kết luận Trong thờ gan thực hiện ĐATN, em đã học thêm được nhiều kiến thức, kinh nghiệm quý báu trong việc xây dựng một hệ thống hoàn chỉnh theo quy trình khoa học.

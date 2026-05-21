@@ -1,0 +1,1 @@
+Thiết kế giao vện a, Thiết kế thành phần giao diện màn hình thêm ví onchan Màn hình thêm ví onchan được chia thành 4 thành phần con như Hình 4.4. Bao gồm:

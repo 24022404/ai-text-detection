@@ -1,0 +1,1 @@
+Trong đồ án này, chúng tôi sử dụng thư viện Peerjs  điểm thực hiện kết nối peer to peer cho phép các người dùng truyền phát hình ảnh, âm thanh trực tuyến.

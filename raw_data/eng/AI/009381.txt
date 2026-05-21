@@ -1,0 +1,1 @@
+The tool examines each activity in the manifest, identifying <intent-filter> elements with the android.intent.action.VIEW action, while also evaluating any other relevant factors present.

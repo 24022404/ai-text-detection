@@ -1,0 +1,1 @@
+Điều kện Quy tắc 1 Quy tắc 2 Quy tắc 3 Ngày nhận phòng (T/F) T T F Ngày trả phòng (T/F) T F Bảng 4.16: Kểm thử chức năng Tìm kếm Vớ những chức năng còn lạ, việc kểm thử không để trống phần dữ lệu điầu vào trước khi thao tác cho kết quả chính xác.

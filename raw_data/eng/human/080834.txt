@@ -1,0 +1,1 @@
+S(v) =n exceed v. The following example 4.4 lists all element of S(v)withv= 01101 .whose minimal rotations are at most vis:

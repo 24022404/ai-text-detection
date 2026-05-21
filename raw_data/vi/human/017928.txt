@@ -1,0 +1,1 @@
+Về phần View : Nhiệm vụ chính vẫn sẽ là hiển thị giao diện cho người dùng, nhận tương tác từ phía người dùng để gửi yêu cầu điến bộ Controller.

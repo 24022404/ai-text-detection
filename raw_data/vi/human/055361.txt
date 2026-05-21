@@ -1,0 +1,1 @@
+Nó cho phép các lập trình viên chạy JavaScript ở phía máy chủ để xây dựng các ứng dụng mạng nhanh và có thể mở rộng. Nodejs sử dụng mô hình non blocking I/O model, hướng sự kiện, làm cho nó nhẹ và hiệu quả.

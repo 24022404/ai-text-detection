@@ -1,0 +1,1 @@
+When crossing the checkpoint, players will receive rewards. Players use gold to purchase equipment in the shop. The purchased equipment isstored in the inventory. Using equipment will increase the player’s power.

@@ -1,0 +1,1 @@
+The user is involved, and before continuing, the app must be uploaded so the system can start analyzing which APIs the application uses during its operation.

@@ -1,0 +1,1 @@
+Mô hình Client Server cho phép phân chia công việc một cách rõ ràng giữa Client và Server. Client tập trung vào việc hiển thị giao diện người dùng và tương tác với người dùng, trong kh Server đảm nhận vai trò xử lý logc, lưu trữ dữ liệu và cung cấp các dịch vụ.

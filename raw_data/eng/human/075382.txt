@@ -1,0 +1,1 @@
+Through each import, export, and transfer operation, the information kept in the system must reflect reality. The "DXClan.com Digital Workspace System" solution also makes use of APIs to make it simple to query data from the warehouse.

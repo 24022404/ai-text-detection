@@ -1,0 +1,1 @@
+Vì Expressjs chỉ yêu cầu ngôn ngữ lập trình Javascript nên việc xây dựng các ứng dụng web và API trở nên đơn giản hơn với các lập trình viên và nhà phát triển.Expressjs cũng là một khuôn khổ của Node.js do đió hầu hết các mã code điã điược vết sẵn cho các lập trình viên có thể làm việc.

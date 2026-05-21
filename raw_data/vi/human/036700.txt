@@ -1,0 +1,1 @@
+Nơ sử dụng trong ứng dụng Đồ án này sử dụng Firebase điểm nhận thông báo từ phía máy chủ.

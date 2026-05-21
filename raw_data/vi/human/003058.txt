@@ -1,0 +1,1 @@
+Bài toán Để điểm lạ trên sự tiện lợi cho khách hàng thì thanh toán trực tuyến là một chức năng không thể thiếu đối với trang web kinh doanh.

@@ -1,0 +1,1 @@
+Thu nhận ảnh từ các hệ thống camera giao thông và thực hiện tiền xử lý dữ liệu đầu vào.

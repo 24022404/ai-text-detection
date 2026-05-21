@@ -1,0 +1,1 @@
+The app scans Android applications to detect suspicious behaviors such as unusual permissions, questionable API calls, or abnormal network activity. It generates clear, detailed reports on any identified risks, helping users make informed decisions about whether to keep or uninstall particular apps for better security.

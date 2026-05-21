@@ -1,0 +1,1 @@
+Database design a, Service authentication The database of authentication service I used the default of abp framework. In figure 4.10 I only show the most important table and usually be used.

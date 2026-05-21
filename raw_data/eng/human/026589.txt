@@ -1,0 +1,1 @@
+E. Bermejo Nievas, O. Deniz Suarez, G. Bueno Garc ´ıaand R. Sukthankar, “Violence detection in video using computer vision techniques,” inComputer Analysis of Images and Patterns P. Real, D. Diaz-Pernil, H. Molina-Abril, A. Berciano andW. Kropatsch, editors , Berlin, Heidelberg: Springer Berlin Heidelberg, 2011, pages 332–339, ISBN : 978-3-642-23678-5.

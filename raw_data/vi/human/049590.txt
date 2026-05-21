@@ -1,0 +1,1 @@
+Phát triển ứng dụng web đa nền tảng: Javascript có thể được sử dụng điểm phát triển ứng dụng web đa nền tảng, giúp cho ứng dụng có thể chạy trên nhiều nền tảng khác nhau một cách dễ dàng.

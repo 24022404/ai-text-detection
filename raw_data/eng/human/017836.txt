@@ -1,0 +1,1 @@
+C# is designed to be a simple, efficient, and type-safe language that can be used to build a wide range of applications, including desktop applications, web applications, mobile applications, games, and more. C# is often used in conjunction with other technologies such as the .NET Framework, ASP.NET, and Unity.

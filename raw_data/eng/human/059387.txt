@@ -1,0 +1,1 @@
+In the final step, the query calculates a weighted sum of all the values (V) based on the probability vector. This weighted sum serves as the query’s new representationFigure 2.5: Full self-attention pattern and the configuration of attention patterns in Longformer  or output. The entire process can be mathematically formulated as follows:

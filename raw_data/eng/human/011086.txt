@@ -1,0 +1,1 @@
+Word to Vector (Word2Vec) is a predictive embedding model. There are two main Word2Vec architectures used for the distributed representation of words.

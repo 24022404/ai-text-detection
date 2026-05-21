@@ -1,0 +1,1 @@
+Tuy nhiên, ReactJS cũng có nhược điểm. Vì ReactJS chỉ tập trung vào việc hiển thị giao diện, nó không cung cấp nhiều tính năng mặc định để xử lý các vấn đề phức tạp trong ứng dụng. Ngoài ra, việc học và sử dụng JSX cũng có thể gây khó khăn đối với những lập trình viên mới bắt đầu.

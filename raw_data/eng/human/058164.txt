@@ -1,0 +1,1 @@
+Backup Strategy Current approach to tackle backup problems of Trendz is relatively simple. A scheduled script (cronjob) would be triggered daily to dump the database and pushit to a storage bucket on cloud provided by Google Cloud Platform (GCP). However, the solution would eventually become insufficient as the database will con tinue to grow. Current script would look like this:

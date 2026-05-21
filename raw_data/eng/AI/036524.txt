@@ -1,0 +1,1 @@
+Completion logs mark the end of manifest analysis and provide detailed findings, including permissions used, identified components, and any detected security risks within the application.

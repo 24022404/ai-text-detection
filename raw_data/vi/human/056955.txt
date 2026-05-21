@@ -1,0 +1,1 @@
+Em sử dụng ExpressJS cho ĐATN của mình vì Express là một trong những framework phổ biến nhất cho Nodejs và có một cộng đồng lớn hỗ trợ phát triển và giải quyết các vấn đề. Nó cung cấp các tính năng cơ bản cần thiết để xây dựng các ứng dụng và cho phép mở rộng điểm đáp ứng các yêu cầu của các ứng dụng lớn hơn.

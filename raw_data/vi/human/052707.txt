@@ -1,0 +1,1 @@
+Không đảm bảo toàn vẹn dữ liệu. Tức là khi thực hiện các hành động cập nhật bảng hàng loạt mà bị sa logic sẽ dẫn tới mất mát dữ liệu.

@@ -1,0 +1,1 @@
+Hỗ trợ tiêu chuẩn chứng chỉ SSL và cho phép thiết lập cấu hình các yêu cầu với các tùy chọn khác nhau, giúp bảo mật ứng dụng.

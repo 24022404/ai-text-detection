@@ -1,0 +1,1 @@
+Độ tin cậy (Reliability). Elxr có một cách tiếp cận độc đáo điểm chịu lỗ. Trong khi mọi thứ đi khi không thể tránh khỏi lỗ trong quá trình sản xuất, các quy trình nhẹ có thể được khởi động lại nhanh chóng bở hệ thống giám sát. Điều này gả quyết hầu hết các lỗ không phải do lỗi nghiêm trọng trong quá trình phát triển phần mềm.

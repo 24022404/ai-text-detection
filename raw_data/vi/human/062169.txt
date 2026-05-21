@@ -1,0 +1,1 @@
+Đặt hàng: Khách hàng có thể đặt hàng khi có ít nhất một sản phẩm trong giỏ hàng. Đơn hàng sẽ được gửi cho Admin xác nhận.

@@ -1,0 +1,1 @@
+Từ những đặc điểm trên, em lựa chọn kiến trúc này vì rất phù hợp với những yêu cầu mà hệ thống đặt ra. Trong hệ thống này, phần Clent chính là phần giao diện website của hệ thống, còn phần Server bao gồm phần các API để thực hiện các yêu cầu của người dùng, cộng với phần lưu trữ dữ liệu của toàn hệ thống.

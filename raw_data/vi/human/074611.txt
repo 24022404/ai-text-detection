@@ -1,0 +1,1 @@
+Tên Tham số Kiểu dữ lệu trả về Mô tả save order Boolean Lưu đơn hàng mới vào CSDL d, Biểu đồ trình tự các UC quan trọng Hình 4.8 mô tả biểu đồ trình tự các lớp tham gia chức năng đặt hàng.

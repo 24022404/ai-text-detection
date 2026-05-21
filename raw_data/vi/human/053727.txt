@@ -1,0 +1,1 @@
+SI2.3: Ứng dụng web sử dụng điường ống Dgtal Ocean, tự động cập nhật phên bản mớ kh nhánh chính được cập nhật.

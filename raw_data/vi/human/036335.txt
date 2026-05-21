@@ -1,0 +1,1 @@
+remove Member: phương thức này gồm 3 tham số là userId, conversation Id và token, nhằm xóa người dùng có mã người dùng là userId ra khỏi cuộc hội thoại có mã cuộc hội thoại là conversationId.•changeName: phương thức này gồm 3 tham số là newName, conversation Id và token, nhằm đổi tên cuộc hội thoại có mã cuộc hội thoại là conversationId thành new Name.

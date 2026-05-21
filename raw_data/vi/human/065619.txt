@@ -1,0 +1,1 @@
+Cần phải chọn cẩn thận : Sự lựa chọn về loại bến đỗ tăng cường dữ liệu điểm sử dụng đòi hỏi kiến thức về bộ dữ liệu và tác vụ cụ thể. Việc chọn không chính xác có thể làm giảm chất lượng của mô hình.

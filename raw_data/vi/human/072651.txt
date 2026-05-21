@@ -1,0 +1,1 @@
+Mô hình RoBERT cũng có 2 phiên bản là: PoBERT base vớ 12 transformers block và RoBERT large vớ 24 transformers block tương ứng với cùng một kiến trúc của BEST base và BERT large.

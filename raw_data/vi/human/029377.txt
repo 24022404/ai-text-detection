@@ -1,0 +1,1 @@
+Cộng đồng phát triển: PostgreSQL  có một cộng đồng lớn và tích cực, đảm bảo việc phát triển liên tục, sửa lỗ và bảo trì của hệ thống.

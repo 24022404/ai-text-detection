@@ -1,0 +1,1 @@
+Hệ quản trị cơ sở dữ liệu quan hệ: MySQL là một hệ quản trị cơ sở dữ liệu quan hệ, được thiết kế điển lưu trữ dữ liệu theo mô hình quan hệ với bảng và quan hệ giữa chúng.

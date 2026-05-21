@@ -1,0 +1,1 @@
+Dart là một ngôn ngữ lập trình mã nguồn mở đia mô hình vớ tính linh hoạt và hiệu suất cao, do Google phát triển. Ngôn ngữ này được thiết kế điển xây dựng các ứng dụng di động, web và máy chủ, là lựa chọn tuyệt vời cho việc phát triển các sản phẩm công nghệ đa nền tảng.

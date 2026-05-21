@@ -1,0 +1,1 @@
+ORM là một kỹ thuật lập trình gúp ánh xạ các bản ghi dữ liệu trong hệ quản trị cơ sở dữ liệu thành các đối tượng được định nghĩa trong các lớp (classes). Kỹ thuật này giúp giảm sự phụ thuộc vào cấu trúc của cơ sở dữ liệu, đồng thờ mang lại sự linh hoạt trong việc quản lý dữ liệu.

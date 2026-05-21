@@ -1,0 +1,1 @@
+Person in charge: Person responsible for managing the goods inventory check process on the checklist Supervisor: Person responsible for supervising the goods inventory check process Accountant: Responsible for checking the invoices and documents related to goods, creating inventory check invoices, reporting to the warehouse.

@@ -1,0 +1,1 @@
+Từ Bảng 4.4cũng có thể nhận thấy rằng, độ chính xác của mô hình điều xuất cao hơn các mô hình khác trên hạ tập VIColanD BETIS và xếp thứ 3 trên tập CVT. Ngoài ra, trên tập CVCColonDB và ETIS, mô hình cho kết quả đứng thứ hai là Polyp PVT, đây cũng là một mô hình có kiến trúc dựa trên Transformer.

@@ -1,0 +1,1 @@
+Khố thứ 2 là thiết bị bên Jetson Nano. Người dùng có thể điều khiển camera thông qua cử chỉ tay, sau đó thiết bị bên Jetson Nano sẽ dự đoán và gửi yêu cầu đến máy chủ, nếu có thông báo, thiết bị sẽ thông báo qua Loa được kết nối với Jetson Nano.

@@ -1,0 +1,1 @@
+Nó đo lường mức độ mà temset B sẽ xuất hiện trong giao dịch kh temset A đã xuất hiện. Độ tin cậy của một luật kết hợp A→B Được tính bằng số lần xuất hiện của temset A và B chung trong giao dịch chia cho số lần xuất hiện của A. Công thức tính confidence là:

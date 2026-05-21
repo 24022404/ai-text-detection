@@ -1,0 +1,1 @@
+Finally, the extracted features are classified using a fully connected layer to decide whether the group acts are violent or not.

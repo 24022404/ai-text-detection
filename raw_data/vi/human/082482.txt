@@ -1,0 +1,1 @@
+Hiệu suất Ứng dụng cần chạy ổn định và có thờ gan phản hồi nhanh. Có thể chạy được trên các thiết bị di động có cấu hình phổ thông. Quản lý bộ nhớ hiệu quả tránh tình trạng treo máy. Đảm bảo lượng điện năng tiêu thụ khi chạy ứng dụng không xảy ra tình trạng nóng máy, nhanh hết pin.

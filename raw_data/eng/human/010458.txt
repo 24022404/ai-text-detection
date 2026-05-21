@@ -1,0 +1,1 @@
+Actors Involved : User Description : The user selects two previously analyzed files to compare their results, highlighting differences in the analysis outcomes.

@@ -1,0 +1,1 @@
+Web3Auth streamlines the onboarding process for decentralized applications by allowing users to register with social logins, making it easier for newcomers to join and enhancing the overall user experience.

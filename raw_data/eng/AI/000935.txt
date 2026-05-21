@@ -1,0 +1,1 @@
+The system constructs the path for each script in frida_scripts/android/others, verifies the script file’s existence and security, and proceeds to read its contents.

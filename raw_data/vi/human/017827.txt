@@ -1,0 +1,1 @@
+Ban điầu, python được phát triển điểm chạy trên nền unix. Theo thời gian, python dần mở rộng sang mọ hệ điều hành từ MS DOS  điển Mac OS, OS/2, Windows, Linux.

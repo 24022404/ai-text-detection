@@ -1,0 +1,1 @@
+Swft có các ưu điểm là cú pháp ngắn gọn nhưng vẫn dễn điạt rõ ràng, tốc điộ sử lý nhanh. Swft điược thết kế gúp lập trình viên loạ bỏ những lỗ lập trình phổ bến bằng cách áp dụng các mẫu lập trình hiện điạ, loạ bỏ toàn bộ các lớp mã không an toàn:

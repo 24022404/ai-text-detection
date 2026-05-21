@@ -1,0 +1,1 @@
+Huấn luyện mô hình phân vùng ảnh Vớ mục têu tạo được một mô hình có khả năng khá quát hóa trên bộ dữ liệu lớn từ một tập nhỏ dữ liệu đã gán nhãn, đồ án thực hiện cha bộ dữ liệu theo tỉ lệ 1:9. Kết quả huấn luyện bước điầu được thể hiện ở Hình 4.4.

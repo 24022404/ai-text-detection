@@ -1,0 +1,1 @@
+Một nền tảng, đia dịch vụ: Firebase cung cấp đầy đủ các dịch vụ hỗ trợ phát triển web, bạn có thể chọn database Restore hoặc Realtime theo ý muốn.

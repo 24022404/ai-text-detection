@@ -1,0 +1,1 @@
+It is very important to show that the model guessed wrong so that it can learn knowledge from the data. And that’s why the loss function was designed. The loss function will show how much the model guessed against the actual value.

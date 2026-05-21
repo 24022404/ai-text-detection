@@ -1,0 +1,1 @@
+In the realm of text summarization model evaluation, two key metrics take center stage: the ROUGE score  and the BLEU score. These metrics serve as crucial benchmarks for assessing the performance of summarization models.

@@ -1,0 +1,1 @@
+–gasPrice: value provided to perform a transaction on the Ethereum network.The higher the GasPrice, the higher the priority for decrypting the transaction.

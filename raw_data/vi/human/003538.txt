@@ -1,0 +1,1 @@
+mô hình Client Server, thư viện lập trình, công cụ triển khai, ...và các công nghệ được sử dụng để thiết kế hệ thống. Việc hiểu rõ trước mục đích sử dụng và nội dung của các hệ thống này là tiền đề điểm đi tớ bước tiếp theo ở Chương 4: Thiết kế và triển khai.

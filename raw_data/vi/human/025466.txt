@@ -1,0 +1,1 @@
+Chương 2 trình bày khảo sát và phân tích yêu cầu hệ thống . Chương này sẽ khảo sát một số mô hình kinh doanh trực tuyến hiện nay, phân tích đối tượng sử dụng hệ thống, và làm rõ các chức năng chính cũng như yêu cầu phi chức năng của hệ thống.

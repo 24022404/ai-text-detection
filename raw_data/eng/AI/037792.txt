@@ -1,0 +1,1 @@
+The shared weights and bias layer in a CNN effectively reduces the number of parameters, enabling more efficient computation. Each convolution operation produces unique feature maps, which play a crucial role in detecting various features within the input image data.

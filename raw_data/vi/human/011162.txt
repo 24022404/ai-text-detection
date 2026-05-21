@@ -1,0 +1,1 @@
+Các text được hiển thị theo một quy chuẩn chung như text hiển thị nội dung có font size là 14px, text hiển thị title sẽ có font size là 18px và font weight là bold.

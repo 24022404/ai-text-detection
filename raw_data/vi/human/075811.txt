@@ -1,0 +1,1 @@
+–Màn hình kho đồ  Có thể mở màn hình này trong quá trình chơi game để xem vật phẩm mà người chơi đang sở hữu và vũ khí mà người chờ đang sử dụng kèm các chỉ số hiện tại.

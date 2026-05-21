@@ -1,0 +1,1 @@
+Vấn đề của hệ thống Meraki DashBoard Đóng vai trò là một hệ thống quản lý cấu hình mạng không dây trên nền tảng Cloud do công ty Csco phát triển, tuy nhiên, Meraki Dashboard tồn tại hai điểm yếu lớn nhất là:

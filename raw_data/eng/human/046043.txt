@@ -1,0 +1,1 @@
+Y. M. Chee, T. Etzion, H. M. Kiah, S. Marcovich, A. Vardy, E. Yaakobi, et al. , “Locally-constrained de bruijn codes: Properties, enumeration, code constructions, and applications,” IEEE Transactions on Information Theory , vol. 67, no. 12, pp. 7857–7875, 2021.

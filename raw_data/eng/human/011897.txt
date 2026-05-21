@@ -1,0 +1,1 @@
+A(k, s)-RdB graph can be achieved by eliminating all the vertices containing more than sconsecutive letter 0in the de Bruijn graph Gk. As a result, the vertices of a(k, s)-RdB graph are represented by binary sequences of length k−1which don’t contain pattern 0s+1.

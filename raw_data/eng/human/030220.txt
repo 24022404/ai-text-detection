@@ -1,0 +1,1 @@
+Scalability: JWT makes it easier to distribute and use across different systems and services, increasing the scalability of the application.

@@ -1,0 +1,1 @@
+Context Based: Khoa cung cấp đối tượng context (ctx) điểm lưu trữ và truyền dữ liệu giữa các middleware. Điều này giúp bạn truy cập và xử lý thông tin liên quan đến yêu cầu và phản hồi một cách thuận tiện.

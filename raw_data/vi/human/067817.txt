@@ -1,0 +1,1 @@
+AutoConfig: tự động cấu hình Dựa trên các Annotation để tạo ra các bean thay vì XML Server Tomcat có thể được nhúng ngay trong file JAVA build ra và có thể chạy ở bất kì đâu mà java chạy được.

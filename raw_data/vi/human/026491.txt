@@ -1,0 +1,1 @@
+Nghiên cứu được thực hiện nhằm đánh giá biến động cửa sông tỉnh Thái Bình giai đoạn 1995 -2022 qua ảnh viễn thám Landsat. Chỉ số quang phổ nước mNDWI được sử dụng để phân loại đường bờ theo từng giai đoạn. Kết quả phân tích giải đoán ảnh cho thấy các cửa sông ven biển tỉnh Thái Bình giai đoạn từ 1995 đến 2022 đều có xu thế bồi tụ với tốc độ bồi dao động từ 27m/năm đến 170m/năm.

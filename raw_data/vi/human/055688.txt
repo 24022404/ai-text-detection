@@ -1,0 +1,1 @@
+Mô hình sử dụng các giá trị ¯S,¯T,Bd,Bt Của 2009 Basel Face Model  và Bexp Được xây dựng từ bộ dữ liệu Face WareHouse .

@@ -1,0 +1,1 @@
+L(i) j=1CX c=1y(i,j,c) s logp(i,j,c) s where p(i,j) sis predicted probability of pixel x(i,j) s. Because of domain shift problem, performance will drop significantly when deploying on the target dataset.

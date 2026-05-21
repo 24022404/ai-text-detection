@@ -1,0 +1,1 @@
+Developers can use The Graph to establish subgraphs, which function as openAPIs and index and provide data from smart contracts in a well-organized and user friendly way. Due to the fact that they are tailored for particular use cases and data types, these subgraphs offer a more effective and user-friendly way to query data.

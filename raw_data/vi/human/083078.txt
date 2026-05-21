@@ -1,0 +1,1 @@
+Web.php: chứa route mà RouteServceProvder điặt trong nhóm mddleware web, nó cung cấp trạng thá của phên, bảo về CSRF, và mã hóa cooke. Nếu ứng dụng không cung cấp API RESTful, không trạng thá thì hầu hết các route sẽ được định nghĩa trong file này.

@@ -1,0 +1,1 @@
+Sản phẩm cuối của đồ án này cung cấp một dịch vụ qua nền tảng Website giúp quản lý công việc có thể đồng bộ mớ một hoặc nhiều tài khoản hay nền tảng quản lý công việc Cloud.

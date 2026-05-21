@@ -1,0 +1,1 @@
+Bên cạnh đó, nếu ngày nghỉ hoạt động là một thời điểm trong tương lai thì trạng thái của tình nguyện viên đi làm "Đã nghỉ hoạt động" Ngược lại, trạng thái của tình nguyện viên là "Đang hoạt động".

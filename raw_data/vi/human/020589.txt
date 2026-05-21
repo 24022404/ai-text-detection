@@ -1,0 +1,1 @@
+Kế tếp, ảnh điã điược tền xử lý sẽ đi qua mô hình nhận diện khuôn mặt của hệ thống. Mô hình này có nhiệm vụ trích xuất các đặc trưng khuôn mặt, tạo ra một vector đặc trưng biểu diễn cho khuôn mặt trong ảnh. Vector đặc trưng này sau đó được sử dụng như một yêu cầu truy vấn trong Elasticsearch.

@@ -1,0 +1,9 @@
+Objective: Mapping real-world images into the latent spaces of class-conditional generative models remains challenging due to mismatches in semantic conditioning and reconstruction fidelity. This paper introduces a novel framework for transforming and projecting arbitrary images into class-conditional Generative Adversarial Networks (GANs), enabling precise image inversion and class-aware manipulation.
+
+Methods: We propose a two-stage projection network. In Stage 1, a coarse encoder produces an initial latent code guided by a learned conditional embedding that enforces class semantics. In Stage 2, a gradient-based refinement module iteratively optimizes this code to recover high-frequency details while preserving the target class label. Both stages share a class-consistency loss that aligns generated and input images in feature space.
+
+Results: Experiments on CIFAR-10, Tiny ImageNet, and CelebA demonstrate that our method outperforms existing inversion techniques, reducing reconstruction error by 25% and improving Fréchet Inception Distance (FID) by 30%. Ablation studies confirm the effectiveness of the dual-stage design and class-consistency loss. We further showcase applications in semantic image editing and data augmentation, achieving up to a 3% boost in downstream classification accuracy when generated samples are added to training sets.
+
+Conclusion: By enabling accurate, class-aware projection of images into generative models, our approach opens new avenues for image editing, data augmentation, and domain adaptation in computer vision. 
+
+Keywords: class-conditional generative networks, GAN inversion, image projection, latent space, image transformation.

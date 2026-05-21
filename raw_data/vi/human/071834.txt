@@ -1,0 +1,1 @@
+(v) Hậu điều kiện: sau khi thực hiện use case hệ thống sẽ hiển thị danh sách đơn hàng hiện có trong giỏ hàng.

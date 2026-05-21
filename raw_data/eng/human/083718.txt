@@ -1,0 +1,1 @@
+Personalization and product recommendations.A visitor’s browsing, search,and purchase history can be tracked on e-commerce websites. They can gather information about target markets and give customised product recommendations using this data. Examples are the "Frequently bought together" and "Customers who viewed this item also viewed" sections on Amazon product pages.

@@ -1,0 +1,1 @@
+Thư viện crypto hỗ trợ mã hóa mật khẩu dựa trên thuật toán Bcrypt. Thuật toán Bcrypt được đánh giá là bảo mật và an toàn bở mổ lần thực hiện hàm băm nó lại trả về một giá trị khác nhau, khiến cho việc dò tìm mật khẩu trở nên khó hơn.

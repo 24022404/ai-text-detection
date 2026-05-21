@@ -1,0 +1,1 @@
+Hệ điều hành: Ubuntu Ubuntu 22.04.2 LTS Kernel: Linux 5.19.043 generic Kiến trúc: x8664 CPU: 12x2.1Hz GenuineIntel 12th Gen Intel(R) Core(TM) 712700, 25Mb cache.

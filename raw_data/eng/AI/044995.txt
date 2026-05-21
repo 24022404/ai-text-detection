@@ -1,0 +1,1 @@
+The executor leverages the ShareRequest JRPC method to retrieve key shares from various other executors, following the distributed key generation protocol. This collaborative approach enables the secure reconstruction of the encryption key when needed.

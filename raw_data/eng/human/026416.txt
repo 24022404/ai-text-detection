@@ -1,0 +1,1 @@
+Lastly, the User Interface part provides the capability to monitor and trace the agents’ paths.Specifically, the GOAP library requires the following features:

@@ -1,0 +1,1 @@
+Ý tưởng chính của mô hình là thuật toán tạo ra các vectơ nhúng cho nút mở chưa huấn luyện. Gả thuật thực hiện huấn luyện hàm tổng hợp (mean, max, lstm) giúp nút hiện tại có thể tổng hợp được thông tin từ các nút lân cận.

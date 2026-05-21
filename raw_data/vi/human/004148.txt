@@ -1,0 +1,1 @@
+Được thể hiện trong hình 2.7. Use case xem danh sách báo cáo, chức năng này cho phép Admin có thể xem các danh sách mà người dùng báo cáo vdeo nào đó có vi phạm. Use case xử lý báo cáo, cho phép Admin thực hiện xử lý video có lượt báo cáo cao như block người đăng tải video đó, xóa video đió.

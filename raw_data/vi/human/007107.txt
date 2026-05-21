@@ -1,0 +1,1 @@
+WebSocket cung cấp khả năng giao tếp ha chều hiệu quả, header gọn nhẹ nên sử dụng ít lưu lượng hơn giao thức HTTP truyền thống, có điộ trễ thấp và dễ xử lý lỗ. Vì vậy, em lựa chọn webSocket điể xây dựng tính năng nhắn tin thờ gan thực của điề tà.

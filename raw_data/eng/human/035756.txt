@@ -1,0 +1,1 @@
+Traditionally, malware detection and classification has relied on pattern match ing against signatures extracted from specific malware samples. While simple andefficient, signature scanning is easily defeated by a number of well-known eva sive strategies. This fact has given rise to statistical and machine learning based techniques, which are more robust to code modification.

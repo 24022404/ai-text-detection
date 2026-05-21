@@ -1,0 +1,1 @@
+Chuyên môn hóa máy chủ production: Máy chủ production chỉ có một nhiệm vụ chính là thực hiện khởi chạy hệ thống và không cần thực hiện các tác vụ xây dựng hệ thống nào.

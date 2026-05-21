@@ -1,0 +1,1 @@
+N. T. Tran, M. Q. Nghiem, N. T. Nguyen, N. L. T. Nguyen, N. Van Chi andD. Dinh, “Vims: A high-quality vietnamese dataset for abstractive multi document summarization,” Language Resources and Evaluation ,jourvol 54, number 4,pages 893–920, 2020.

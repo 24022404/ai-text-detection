@@ -1,0 +1,1 @@
+Thiết kế tổng quan Dưới đây là hình vẽ về thiết kế tổng quan của hệ thống, được biểu diễn qua biểu đồ gói UML, thiết kế dựa trên chính kiến trúc phần mềm mà em đã sử dụng, đó là kiến trúc MVC.

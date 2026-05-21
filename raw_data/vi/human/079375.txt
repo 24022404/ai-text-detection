@@ -1,0 +1,1 @@
+Busness Logc(Doman): Là nơ xử lý các logc và nghệp vụ chính của hệ thống. Layer này sẽ tếp nhận request từ phía client (người dùng), xử lý và lưu trữ data ở Data source layer Data source: nhệm vụ chính của layer này là thực th các tác vụ lưu trữ dữ liệu và lên lạc với các applcatons khác (được request từ busness logc layer).

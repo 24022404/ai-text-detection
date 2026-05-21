@@ -1,0 +1,1 @@
+Vớ những vấn điề điã trình bày trong phần 1.1, em điặt ra mục têu là xây dựng một ứng dụng game chạy trên cả ha hệ điều hành là Androd và OS. Game sẽ gúp người dùng gả trí đồng thờ kếm tền thông qua vệc chơ game hay là điầu tư token hoặc là mua bán Brd trong game.

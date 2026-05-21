@@ -1,0 +1,1 @@
+Package Controller (hình 4.6) chứa các lớp controller, xử lý các yêu cầu người dùng. Mỗ một màn hình sẽ có quan hệ association và từng controller tương ứng.

@@ -1,0 +1,1 @@
+Từ các yêu cầu người dùng được phác thảo ở biểu đồ 2.4. Dưới đây là sơ đồ Xmind Zen phác thảo những chức năng chính của website, cũng như cho biết số vòng lặp và công việc ở mỗ vòng lặp được thực hiện ở ga đoạn lặp lại xây dựng.

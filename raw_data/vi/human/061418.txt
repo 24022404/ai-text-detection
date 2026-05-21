@@ -1,0 +1,1 @@
+Nhưng mỗi hình thức thanh toán có thể áp dụng lên nhiều đơn hàng khác nhau. Do đó mối quan hệ ở đây là quan hệ 1n.

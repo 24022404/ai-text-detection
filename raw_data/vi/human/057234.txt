@@ -1,0 +1,1 @@
+Phân tích và thống kê : Magento cung cấp cho người dùng các công cụ phân tích và thống kê về doanh số bán hàng, lượt truy cập và chuyển điổ điể gúp người dùng điưa ra các quyết định knh doanh hiệu quả.

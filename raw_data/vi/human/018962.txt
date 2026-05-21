@@ -1,0 +1,1 @@
+Hiệu suất cao: MySQL được bếp điện với hiệu suất cao, hỗ trợ đồng thờ nhiều kết nối và có thể xử lý các yêu cầu truy vấn lớn.

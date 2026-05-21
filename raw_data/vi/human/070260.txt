@@ -1,0 +1,1 @@
+Để khắc phục nhược điểm này và cải thiện hiệu suất, một gả pháp mớ điã ra điờ, đió là không chỉ thu phóng chiều sâu, mà còn thu phóng cả theo hướng chiều rộng và độ phân giải. Bằng cách sử dụng phương pháp này với một tỷ lệ thu phóng thích hợp, kết hợp phương pháp khố thặng dư đảo ngược đã tạo ra mô hình EfficieNt với hiệu suất cao. Ch tết về AscentNet có thể xem tạ .

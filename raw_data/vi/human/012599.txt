@@ -1,0 +1,1 @@
+Không đầy đủ: Trong tập dữ liệu DBLP 13 là phiên bản mới nhất có cập nhật từ khóa (keywords) cho các bà báo. Vì vậy vẫn có nhiều các bài báo, nghên cứu điã điược phát hành từ lâu có khả năng sẽ không có dữ liệu từ khóa.

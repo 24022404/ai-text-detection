@@ -1,0 +1,1 @@
+So sánh việc tăng cường off và tăng cường on Tăng cường ảnh off là việc chúng ta tạo thêm một bộ dữ liệu nữa bằng cách tăng cường những ảnh có trong tập huấn luyện. Trong quá trình huấn luyện, những ảnh này sẽ được trộn lẫn với những ảnh gốc và vẫn sẽ được trích mẫu ngẫu nhiên khi đưa vào trong một batch huấn luyện.

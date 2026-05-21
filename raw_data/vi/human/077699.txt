@@ -1,0 +1,1 @@
+Kh người dùng lựa chọn một bộ sưu tập từ danh sách bộ sưu tập, mục bên phải giao diện sẽ cập nhật và hiển thị danh sách các bài viết của bộ sưu tập đó. Thiết kế được chia phần rõ ràng, đồng thờ kh muốn xem ch tết một bộ sưu tập người dùng không cần phải điều hướng sang một giao diện khác là một điểm nổ bật của thiết kế này.

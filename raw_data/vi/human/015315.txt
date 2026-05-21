@@ -1,0 +1,1 @@
+Thiết bị và cấu hình trên khay sản phẩm AWS EC2 : đơn vị cung cấp dịch vụ máy chủ ảo trên nền tảng đám mây, sử dụng để build project và host website.

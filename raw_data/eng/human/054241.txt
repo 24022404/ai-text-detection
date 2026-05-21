@@ -1,0 +1,1 @@
+From the growing trend mentioned, in this project, we will use Unity to create a hyper casual mobile game - Funny Zoo.

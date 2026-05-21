@@ -1,0 +1,1 @@
+In this section, I will test the response speed of two of the most important func tion in this thesis: upload video and watch video. These request are crucial as they are the backbone of my website and they will also decide the satisfaction of the user when using the website.

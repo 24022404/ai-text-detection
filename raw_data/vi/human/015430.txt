@@ -1,0 +1,1 @@
+Gả thuật phân cụm hỗn hợp vMF Thông thường, các thuật toán phân cụm thường sử dụng dữ liệu trong không gian Euclid. Tuy nhiên, trong nhiều tình huống, dữ liệu tồn tại trong không gian đa chiều và nằm trên một hypersphere (đia tạp cầu điơn vị). Vì vậy việc áp dụng các phương pháp phân cụm truyền thống trên không gian Euclide sẽ không phù hợp.

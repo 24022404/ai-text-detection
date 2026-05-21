@@ -1,0 +1,1 @@
+Chức năng tả về các báo cáo Hình 4.16: Màn hình chức năng tả về báo cáo Hình 4.16 mô tả hành động người dùng muốn tả về 1 báo cáo dưới dạng file csv.Ở đây là báo cáo số lượng người dùng truy cập được phân chia theo các loại trình duyệt.

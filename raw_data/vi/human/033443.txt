@@ -1,0 +1,1 @@
+Từ 4 điểm của hình chữ nhật có diện tích nhỏ nhất, thực hiện biến đổi góc nhìn điểm nắn chỉnh ảnh Hình bên trái của 3.2 giúp trực quan hóa 4∗điểm của hộp văn bản được mô hình phát hiện văn bản tìm được. Hình chính giữa của 3.2 trực quan hóa bao lồ của 4∗điểm. Hình bên phả của 3.2 trực quan hóa 4 điểm góc của hình chữ nhật có diện tích nhỏ nhất bao quanh bao lồ.

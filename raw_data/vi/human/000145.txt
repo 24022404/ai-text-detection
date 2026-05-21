@@ -1,0 +1,1 @@
+Tuy nhiên, điểm bảo mật hơn thì chúng ta cũng phải đánh đổi cho chi phí ở đây là một thiết bị HSM rất đắt. Trong đồ án lần này, em đã dùng phần mềm Softhsm điểm mô phỏng lại các tính năng của HCM. Với việc sử dụng trên em đã có thể thay thế việc lưu trữ cặp khóa và chứng thư của người dùng vào trong cơ sở dữ liệu bằng cách điểm cho softhsm lưu trữ.

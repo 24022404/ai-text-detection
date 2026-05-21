@@ -1,0 +1,1 @@
+Căn chỉnh trình tự Các thí nghiệm liên quan đến gả trình tự gen đò nhỏ rất nhiều thông tin, chẳng hạn như dữ liệu được đọc trên nhiễm sắc thể nào, vị trí của nó trên nhiễm sắc thể đó và nó khác nhau như thế nào khi so sánh với các bộ gen khác nhau. Để làm điều này, chúng ta cần sắp xếp trình tự các lần đi học dựa trên bộ gen tham chiếu được tạo sẵn.

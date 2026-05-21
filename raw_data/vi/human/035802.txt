@@ -1,0 +1,1 @@
+Hệ thống đảm bảo được tính d động. Vì hệ thống có sử dụng công nghệ Docker Nên kh chạy trên các hệ điều hành khác nhau sẽ không có vấn đề. Ngoài ra, trang web có tính dễ sử dụng. Các thao tác chuyển màn hình, gao vện và biểu tượng trên trang web điều dễ hiểu, dễ dàng thao tác, gần gũi với con người.

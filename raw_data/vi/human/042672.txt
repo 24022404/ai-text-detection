@@ -1,0 +1,1 @@
+Tiêu chuẩn hóa: Docker sử dụng định dạng hình ảnh (mage) điểm đóng góp và chia sẻ các ứng dụng và môi trường. Các hình ảnh Docker là một tiêu chuẩn, cho phép bạn chia sẻ và sử dụng lạ các hình ảnh điã điược xây dựng bở người khác, tạo sự nhất quán và tiết kệm thờ gan trong quá trình triển khai ứng dụng.

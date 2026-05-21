@@ -1,0 +1,1 @@
+Hệ thống kiểm tra email của người đi phỏng vấn xem có bị trùng với email đã tồn tại trong hệ thống chưa. 2.1. Nếu không trùng thì tự động tạo tài khoản tình nguyện viên mới bằng email đó, gửi email thông báo đỗ phỏng vấn kèm theo link kích hoạt tài khoản điện cho người đi phỏng vấn.

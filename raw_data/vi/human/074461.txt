@@ -1,0 +1,1 @@
+Hệ thống hoạt động ổn định và mạch lạc. Toàn bộ phần Backend được gói gọn trong 1 Docker network, việc tạo ra Docker network sử dụng bở công cụ Docker Compose điã nó tớ ở chương 3. Backend gồm các API thực hiện các luồng nghệp điã điược nêu ra và mô tả trong chương 4.

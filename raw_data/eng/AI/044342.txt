@@ -1,0 +1,9 @@
+Objective: This paper introduces Roweis Discriminant Analysis (RDA), a unified framework for subspace learning that generalizes classical methods such as Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA). We address the need for a flexible dimensionality-reduction technique that seamlessly integrates supervised and unsupervised criteria.
+
+Methods/Approach: RDA is formulated by incorporating a parameterized Roweis score matrix, which interpolates between scatter-based and variance-based objectives. By adjusting weighting parameters, RDA recovers PCA when emphasizing total variance, LDA when maximizing between-class separation, and novel intermediate modes that balance class discrimination and data reconstruction. We derive a closed-form solution via generalized eigenvalue decomposition and provide an efficient algorithmic implementation suitable for high-dimensional data.
+
+Results/Findings: We evaluate RDA on benchmark datasets for face recognition, handwritten digit classification, and document clustering. Experimental results demonstrate that RDA achieves up to 8% improvement in classification accuracy over standard LDA and 5% over recent hybrid subspace methods. In unsupervised and semi-supervised scenarios, RDA modes outperform PCA and spectral embedding by delivering more compact and discriminative feature representations.
+
+Conclusion/Implications: RDA offers a principled and versatile tool for feature extraction, unifying key subspace learning paradigms under one framework. Its tunable nature allows practitioners to tailor dimensionality reduction to specific tasks, enhancing performance in pattern recognition, computer vision, and data mining applications.
+
+Keywords: Roweis Discriminant Analysis, Subspace Learning, Dimensionality Reduction, Feature Extraction, Pattern Classification

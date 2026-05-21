@@ -1,0 +1,9 @@
+Objective: Unsupervised domain adaptation (UDA) seeks to transfer knowledge from a labeled source domain to an unlabeled target domain, but existing methods often incur substantial computational overhead or tightly couple adaptation modules with specific network architectures. This paper introduces Light-weight Calibrator (LWC), a separable component designed to align feature distributions across domains with minimal cost.
+
+Methods: LWC operates as an independent plug-in layer that can be integrated into any convolutional or transformer backbone. It employs a two-stage process: first, channel-wise normalization adjusts source features toward the target distribution; second, a compact adaptation module refines feature statistics through lightweight moment matching. During training, LWC is optimized jointly with the base network using a standard classification loss on the source and a domain-discrepancy loss on both domains, without requiring target labels.
+
+Results: We evaluate LWC on three benchmark image classification datasets for UDA (Office-31, Office-Home, VisDA-2017). Experimental results demonstrate that inserting LWC yields consistent accuracy gains of 2.1–4.5% over baseline models and matches or outperforms state-of-the-art UDA approaches while adding less than 2% parameter overhead. Ablation studies confirm the efficacy of each LWC component and its robustness across different architectures.
+
+Conclusion: Light-weight Calibrator offers a general, efficient, and modular solution for unsupervised domain adaptation. Its separable design and low computational footprint make it suitable for real-time and resource-constrained applications, broadening the practical adoption of UDA in diverse IT systems.
+
+Keywords: Unsupervised Domain Adaptation, Model Calibration, Transfer Learning, Feature Alignment, Light-weight Component

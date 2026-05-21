@@ -1,0 +1,1 @@
+Dependency Injection (DI): Nest JS hỗ trợ Dependency Injection, giúp quản lý các phụ thuộc giữa các thành phần của ứng dụng một cách hiệu quả.

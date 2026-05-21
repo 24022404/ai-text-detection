@@ -1,0 +1,1 @@
+4 Nguồn:  storage Thư viện multer như một middleware hỗ trợ Expressjs và Nodejs dễ dàng xử lý dữ liệu dưới dạng multipart/form data kh người dùng tải lên các file từ phía client điểm lưu trữ.

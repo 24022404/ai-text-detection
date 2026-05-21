@@ -1,0 +1,1 @@
+To preserve the underlying structures among classes, I propose using Con trastive Learning by applying constraints on features of different categories.

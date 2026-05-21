@@ -1,0 +1,1 @@
+Hỗ trợ mở rộng và tích hợp: PostgreSQL hỗ trợ các tiện ích và công cụ phong phú điểm quản lý và triển khai cơ sở dữ liệu. Nó có thể được tích hợp với các ngôn ngữ lập trình phổ biến như Python, Java và C#, và cung cấp các API cho các ứng dụng phát triển.

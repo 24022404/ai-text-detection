@@ -1,0 +1,9 @@
+This paper addresses the burgeoning issue of how users can effectively navigate and interact with systems making automated decisions due to advances in artificial intelligence and machine learning. With the proliferation of automated systems, it becomes imperative to guide users in understanding and responding to these decisions in various domains.
+
+Methods: We propose a novel framework that integrates user-friendly interfaces and decision-explanation models to assist users in comprehending automated decisions. This framework was designed using principles from human-computer interaction and transparency in AI. We developed a prototype system employing natural language processing (NLP) and visual analytics technologies to facilitate user interaction and decision-making support.
+
+Results: Our approach was evaluated through a series of user studies comparing traditional system interactions with our guided framework. The findings demonstrate significant improvements in user satisfaction, understanding, and perceived transparency. Users were more capable of making informed decisions and felt more in control of the automated processes.
+
+Conclusion: This research contributes a novel framework for enhancing user interaction in the context of automated decision-making systems, emphasizing transparency and user empowerment. Potential applications range from personal digital assistants to intelligent customer service systems. Our findings suggest that adequately guiding users in automated environments can lead to more effective and confident decision-making, ultimately fostering trust and adoption of AI-driven technologies.
+
+Keywords: Automated Decision-Making, User Guidance, Human-Computer Interaction, Transparency, AI Systems, Natural Language Processing.

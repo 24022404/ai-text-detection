@@ -1,0 +1,1 @@
+n37346565d4ecNếu đặc trưng trên các kênh là khác nhau thì sử dụng các bộ lọc rêng cho kênh sẽ chuyên bệt hơn trong việc phát hiện các đặc trưng. () Giảm thiểu số lượng tham ít hơn gấp gần c′lần so với tích chập thông thường.

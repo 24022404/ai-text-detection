@@ -1,0 +1,1 @@
+Performance: The app must be able to handle a large number of users simul taneously without experiencing significant lag or slowdown.• Usability: The app should be easy to navigate and use, with intuitive controls and clear instructions. It should also be accessible to users with disabilities.

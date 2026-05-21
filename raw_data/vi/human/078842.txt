@@ -1,0 +1,1 @@
+Mục đích của phương pháp SVM là tìm được khoảng cách bên lớn nhất, điều này được minh họa trong :Hình 2.9: Sêu phẳng phân chia dữ liệu học thành 2 lớp + và  vớ khoảng cách bên lớn nhất.

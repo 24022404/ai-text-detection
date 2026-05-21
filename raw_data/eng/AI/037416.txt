@@ -1,0 +1,1 @@
+The summary outlines the number of issues identified, categorizing them by severity into high, warning, and secure levels.

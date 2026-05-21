@@ -1,0 +1,1 @@
+Ở bước cuố cùng trong luồng thực th, trình tính toán tạo mớ Kafka topc,TOÁN CHỈ BÁO Drud datasource và điẩy dữ liệu vào Kafka topc tương ứng.

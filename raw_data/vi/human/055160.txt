@@ -1,0 +1,1 @@
+0: Thông báo thường 1: Thông báo về đồ án Không task Int Id công việc Không đ user_update Int Id người cập nhật công vệ Không Bản 4.4: Bảng dữ liệu News Bảng dữ lệu User_object Mục đích: Bảng trung gian để bẻ mối quan hệ nhều nhều giữa User, Subject thành ha quan hệ một nhiều.

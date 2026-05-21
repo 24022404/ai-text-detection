@@ -1,0 +1,1 @@
+Hàm mất mát được áp dụng lên bản đồ đặc trưng toàn cục Và cả 4 đầu ra của hàm mất mát, các đầu ra này được chỉnh lại kích thước sao cho có cùng kích thước vớ nhãn thực thông qua phép nội suy song tuyến. Do đó, hàm mất mát tổng thể của mô hình sẽ là:

@@ -1,0 +1,1 @@
+Với các phần mở rộng điểm cho phép phân tích cú pháp các ký hiệu HGVS. Đố vớ mỗ biến thể đầu vào, print record báo cáo tất cả các mã hóa có thể có bao gồm ID biến thể từ tất cả các nguồn được nhập vào cơ sở dữ liệu của Make Mbl và HGVS (bộ gen, ản phiên mã và protein), được báo cáo trên các trình tự của Make Embl, RefSeq và LRG. Câu lệnh để sử dụng:

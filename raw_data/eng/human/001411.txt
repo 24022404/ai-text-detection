@@ -1,0 +1,1 @@
+Step 1 : The warehouse keeper looks at a suggestion to rotate goods based onthe inventory results obtained from the last inventory. Information suggested ware house island includes.

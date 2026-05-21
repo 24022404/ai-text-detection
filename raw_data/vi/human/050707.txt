@@ -1,0 +1,1 @@
+Mục tiêu thứ hai là nghiên cứu và tìm hiểu gả pháp nhận diện, phân biệt khách hàng thông qua hình ảnh. Vì bài toán áp dụng cho cửa hàng tiện lợi vừa và nhỏ nên tôi mong muốn gả pháp có thể nhận diện và phân biệt cùng lúc 20 người với độ chính xác cao.

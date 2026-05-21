@@ -1,0 +1,9 @@
+Objective: Video scene graph generation seeks to represent dynamic object relationships in videos, but existing methods often under‐utilize target‐specific context and struggle with variable temporal dependencies. This paper introduces a Target Adaptive Context Aggregation (TACA) framework that tailors context modeling to each object pair and dynamically captures relevant spatio‐temporal cues.  
+  
+Methods: TACA integrates two complementary modules: (1) Target‐Guided Context Attention (TGCA), which learns adaptive weights for spatial context features conditioned on the object pair of interest, and (2) Multi‐Scale Temporal Aggregator (MTA), which employs dilated temporal convolution to fuse motion patterns over varying time windows. Both modules feed into a graph convolutional network that refines node and edge embeddings for final scene graph prediction. The entire model is trained end‐to‐end with a combination of relation classification and object localization losses.  
+  
+Results: Experiments on two benchmark video scene graph datasets demonstrate that TACA consistently outperforms state‐of‐the‐art approaches, achieving up to 5.4% absolute gains in Recall@5 and 4.8% in mAP for relationship detection. Ablation studies confirm the effectiveness of adaptive context weighting and multi‐scale temporal fusion.  
+  
+Conclusion: By explicitly aligning context aggregation with target object pairs and capturing long‐term dependencies, TACA substantially enhances video scene graph generation. This advancement offers promising applications in video understanding tasks such as action recognition, video captioning, and autonomous navigation.  
+  
+Keywords: video scene graph generation, context aggregation, target adaptation, spatio‐temporal modeling, graph convolutional networks, deep learning

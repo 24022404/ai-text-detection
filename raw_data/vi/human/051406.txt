@@ -1,0 +1,1 @@
+Chương 1 nêu ra những vấn đề thực tế dẫn tới lý do tôi lựa chọn điều tà này cũng như tổng quan về hệ thống trao đổi phiếu khuyến mạ trên nền tảng công nghệ chuỗi khối. Tiếp theo sẽ là phần trình bày về mục tiêu, phạm vi, định hướng giải pháp và cuối cùng là bố cục trình bày của đồ án này.

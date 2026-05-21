@@ -1,0 +1,1 @@
+Chương 2 là khảo sát các hệ thống hiện có, phân tích yêu cầu và đưa ra những tính năng quan trọng cần phát triển đố về đồ án này.

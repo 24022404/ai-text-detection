@@ -1,0 +1,1 @@
+Chương 4 trình bày về phân tích kiến trúc phần mềm của hệ thống và thiết kế cho tết của nó.

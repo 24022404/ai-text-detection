@@ -1,0 +1,1 @@
+T. Etzion, “Constructions for perfect maps and pseudorandom arrays,” IEEE Transactions on information theory , vol. 34, no. 5, pp. 1308–1316, 1988.

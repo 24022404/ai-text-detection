@@ -1,0 +1,1 @@
+StaticAnalysis_suppressfindings: I want to know which findings have beensuppressed without needing to concern yourself with the scan or detailed anal ysis results.

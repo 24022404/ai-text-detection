@@ -1,0 +1,1 @@
+T. Etzion and A. Lempel's article introduces approaches for constructing de Bruijn sequences with minimal complexity, as detailed in a 1984 IEEE journal issue.

@@ -1,0 +1,1 @@
+Bước 2: Lưu trữ mega trên tạ dockerHub – kho lưu trữ mages của Docker Hình 5.8: Quy trình phát triển và triển khai hệ thống điã tố ưu hóa Bước 3: Tạo máy chủ production, tả mage mớ về và khởi chạy điểm rebuild lạ container.

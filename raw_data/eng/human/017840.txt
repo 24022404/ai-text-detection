@@ -1,0 +1,1 @@
+J. Shen, Z. Wu, D. Le and others , “Hexpan: Taskgated taxonomy construction by hierarchical tree expansion,” Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining 2018, pages 2180–2189.

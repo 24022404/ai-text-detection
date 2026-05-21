@@ -1,0 +1,1 @@
+LetN(k, s)is the maximal length of a (k, s)-RdB sequence, and ℓ(Gk,s)be the length of the longest simple path in Gk,s. Recall that a length lsimple path in Gk,s is equivalent to a (k, s)-RdB sequence of length l+k−1. Therefore, N(k, s) = ℓ(Gk,s) +k−1.

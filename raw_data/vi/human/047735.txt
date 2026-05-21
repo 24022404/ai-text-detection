@@ -1,0 +1,1 @@
+Mô hình quang học: mô hình chiếu sáng giả định một bề mặt Lambertian cho khuôn mặt và xấp xỉ ánh sáng trong cảnh bằng Spherical Harmonics (SH). Độ phản chiếu của điểm trên bề mặt được tính toán bằng cách nhân texture da vớ tổng các sáng trong cảnh. Mô hình chọn ba dả tần cho SH và giả thiết rằng ánh sáng là duy hình chiếu sáng.

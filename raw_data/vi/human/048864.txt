@@ -1,0 +1,1 @@
+So với Flask  hoặc Django , FastER có thể thực hiện đồng thời nhiều yêu cầu từ khách hàng cùng một lúc nhờ cơ chế tự đồng bộ hóa.

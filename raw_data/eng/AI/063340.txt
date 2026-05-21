@@ -1,0 +1,7 @@
+Shape completion is a fundamental task in 3D vision, aiming to recover missing structures from partial observations. While deep learning approaches have achieved remarkable success, they often require large labeled datasets and struggle with generalization. To address these challenges, we propose an unsupervised shape completion framework leveraging a deep prior under the Neural Tangent Kernel (NTK) perspective, enabling effective completion without explicit supervision.
+
+Our method exploits the implicit regularization of deep networks, using NTK theory to guide the learning process for shape reconstruction. We formulate shape completion as an optimization problem over a deep prior, where the NTK induces a smooth and structured latent representation that preserves geometric consistency. Additionally, we introduce a self-supervised consistency loss to enhance robustness and improve generalization across diverse 3D structures.
+
+Experiments on standard shape completion benchmarks demonstrate that our approach achieves state-of-the-art performance in reconstructing high-quality 3D shapes, even under severe occlusions. These results highlight the power of deep priors and NTK-based regularization in advancing unsupervised 3D shape completion.
+
+Keywords: Shape Completion, Neural Tangent Kernel, Deep Prior, Unsupervised Learning, 3D Reconstruction, Implicit Regularization.

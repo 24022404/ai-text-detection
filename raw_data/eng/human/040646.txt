@@ -1,0 +1,1 @@
+To overcome this limitation, recent studies such as Phobert, BartPho , and ViT5  have utilized a large amount of unlabeled data for pre-training language models, followed by fine-tuning them on a smaller set of labeled data specifically for multi-document summarization.

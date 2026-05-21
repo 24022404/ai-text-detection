@@ -1,0 +1,1 @@
+Error Detal: Các lỗ ứng dụng của chúng ta sẽ hển thị thông qua các trình duyệt, và được điều khển bở app.debug trong file confg/app.php.

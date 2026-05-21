@@ -1,0 +1,1 @@
+Yêu cầu về đồng bộ Cloud Hệ thống phả đồng bộ công việc của nhiều tài khoản Cloud trên cùng một giao diện.

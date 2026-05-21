@@ -1,0 +1,1 @@
+Thông qua việc điều khiển bởi Services, Controller sẻ kết nối với Database hoặc có thể thực hiện các thao tác trực tiếp tớ Database bằng cách sử dụng Query Builder.

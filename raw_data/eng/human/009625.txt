@@ -1,0 +1,1 @@
+To tackle this problem, the solution we came up with is to crawl the data from dif ferent sources on the internet, then transform the data and store it in our relational database. Therefore, the system might have more control over the data and be easier to get new feature related to those data.

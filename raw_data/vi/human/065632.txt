@@ -1,0 +1,1 @@
+Dễ thấy, các mô hình sản phẩm IoT ứng dụng MQTT giống như điều tà được phát triển dựa trên kiến trúc hướng sự kiện. MQTT client ko có sự kiện sẽ publish dưới dạng message cho MQTT Broker, đóng vai trò điều phối, và các clent điã subscrbe vào tóc sẽ được Broker tử điến message tương ứng và có hành vi thích hợp.

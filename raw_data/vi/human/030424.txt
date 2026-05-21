@@ -1,0 +1,1 @@
+Chương 2: Từ các vấn điề điã điược điưa ra từ chương 1, chương 2 sẽ phân tích cụ thể các chức năng và yêu cầu của ứng dụng cần phải có, dựa vào khảo sát mong muốn của người dùng và các sản phẩm đang có hiện nay.

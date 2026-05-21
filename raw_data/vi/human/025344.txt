@@ -1,0 +1,1 @@
+Điều khiển–Thanh điều hướng chung: đối với giao diện người dùng sẽ nằm ở bên trên và điốt với giao diện người quản lý sẽ nằm ở phía bên trái Sau đây là thiết kế giao diện của một số các chức năng của hệ thống.

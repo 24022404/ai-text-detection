@@ -1,0 +1,1 @@
+() Tá sử dụng code: Mỗ Microservice có thể được sử dụng lạ trong các dự án khác nhau, vì vậy việc phát triển nhanh hơn và chi phí thấp hơn.

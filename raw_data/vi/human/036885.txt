@@ -1,0 +1,1 @@
+TURN Server chúng tôi sử dụng phiên bản trả phí của Xirsys  cung cấp, có mức phí là 39$ một tháng. Lý do sử dụng bản trả phí chúng tôi sẽ gả thích ở phần 5.2 Đã cài đặt ứng dụng vào điện thoại Oppo Neo 7, 8 (Android 13 ), Oppo A1k, Xom (Android 9 ) và triển khai kiểm thử chức năng trên các điện thoại này.

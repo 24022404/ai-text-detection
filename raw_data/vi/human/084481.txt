@@ -1,0 +1,1 @@
+Điểm hạn chế Điểm hạn chế của đồ án là môi trường đang xét tớ còn tương đối đơn giản, do đó việc học của agent chưa thực sự quá khó khăn điểm cần tới các bước tinh chỉnh phức tạp. Các đánh giá còn tương đối chủ quan, cần có sự tham gia của các chuyên gia trong lĩnh vực giao thông điểm có thể tạo nên một hệ thống tham số đánh giá hợp lý và có tính chất ứng dụng cao hơn nữa.

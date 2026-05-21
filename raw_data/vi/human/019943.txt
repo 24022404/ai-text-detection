@@ -1,0 +1,1 @@
+Yêu cầu phi chức năng Về các yêu cầu phi chức năng, nền tảng cần hoạt động ổn định, dữ liệu cập nhật định kì. Gao diện web màu sắc hiện điạ, bắt mắt. Nền tảng cần phản hồ nhanh với yêu cầu của người dùng, gảm thểu tình trạng treo, điơ gây bất tiện trong quá trìnhKHOÁN người dùng tương tác với hệ thống.

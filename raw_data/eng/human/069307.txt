@@ -1,0 +1,1 @@
+Regularization techniques, such as L1 or L2 regularization, add a penalty term to the loss function to discourage the model from becoming too complex.

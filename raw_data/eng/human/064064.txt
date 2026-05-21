@@ -1,0 +1,1 @@
+Findings are collected with descriptions, severity levels, and scope (which domains or certificates are affected).–A summary tracks the number of findings in each severity category:

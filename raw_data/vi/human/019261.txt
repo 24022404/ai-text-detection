@@ -1,0 +1,1 @@
+Tính dễ bảo trì: Hệ thống cần được thiết kế sao cho dễ dàng bảo trì và mở rộng trong tương lai. Các mã nguồn phả được tố ưu và tuân thủ các quy tắc và tiêu chuẩn phát triển điểm dễ dàng quản lý và nâng cấp hệ thống.

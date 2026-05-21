@@ -1,0 +1,9 @@
+Objective: Accurate and efficient prediction of molecular properties is a central challenge in quantum chemistry, where traditional ab initio methods can be computationally expensive. This paper introduces a novel neural message passing framework designed to learn rich representations of molecular graphs for property prediction tasks.  
+
+Methods: We propose a graph neural network architecture in which atoms are represented as nodes and bonds as edges. During each message passing step, atomic states are updated by aggregating information from neighboring atoms and bonds through learnable message functions. After multiple propagation steps, a readout function computes global molecular features used to predict quantum chemical properties. Our approach incorporates attention-based weighting of messages and edge-conditioned transformations to capture the influence of bond types and interatomic distances.  
+
+Results: Evaluated on the QM9 benchmark dataset, our model achieves state-of-the-art performance in predicting energy-related properties (mean absolute error reduction of up to 15%), dipole moments, and vibrational frequencies, outperforming kernel-based and Coulomb matrix methods. Ablation studies demonstrate that attention mechanisms and multi-step propagation contribute significantly to accuracy. The model scales linearly with the number of atoms, enabling efficient inference for larger molecules.  
+
+Conclusion: The proposed neural message passing framework offers a powerful and scalable alternative to traditional quantum chemistry calculations. By learning end-to-end from data, it accelerates molecular property prediction and opens avenues for rapid virtual screening and materials discovery.  
+
+Keywords: neural message passing, quantum chemistry, graph neural networks, molecular property prediction, deep learning.

@@ -1,0 +1,9 @@
+Ứng dụng mô hình WEAP trong đánh giá tác động của biến đổi khí hậu đến dòng chảy lưu vực sông Ba
+
+Mô hình WEAP (Water Evaluation And Planning) là một công cụ mạnh mẽ được sử dụng để đánh giá và quản lý nguồn nước. Trong bối cảnh biến đổi khí hậu đang trở thành một vấn đề cấp thiết, ứng dụng mô hình WEAP trong đánh giá tác động của biến đổi khí hậu đến dòng chảy lưu vực sông Ba là một bước tiến quan trọng.
+
+Sông Ba là một trong những con sông quan trọng nhất của Việt Nam, cung cấp nước cho hàng triệu người và hỗ trợ phát triển kinh tế. Tuy nhiên, biến đổi khí hậu đang gây ra những tác động nghiêm trọng đến dòng chảy sông Ba, bao gồm giảm lượng nước, thay đổi mùa màng và ảnh hưởng đến sinh kế của người dân.
+
+Mô hình WEAP được sử dụng để đánh giá tác động của biến đổi khí hậu đến dòng chảy sông Ba, bao gồm việc dự đoán lượng nước, phân tích tác động của biến đổi khí hậu đến mùa màng và đánh giá ảnh hưởng đến sinh kế của người dân. Kết quả của mô hình cho thấy rằng biến đổi khí hậu sẽ gây ra những tác động nghiêm trọng đến dòng chảy sông Ba, bao gồm giảm lượng nước và thay đổi mùa màng.
+
+Kết quả của mô hình WEAP cũng cho thấy rằng ứng dụng mô hình này trong đánh giá tác động của biến đổi khí hậu đến dòng chảy sông Ba sẽ giúp các cơ quan quản lý nguồn nước và chính quyền địa phương có thể đưa ra quyết định sáng suốt về việc quản lý và bảo vệ nguồn nước.

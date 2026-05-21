@@ -1,0 +1,1 @@
+The system must be deployed in an on environment, has a domain name that can be easily accessed on a browser, and an SSL certificate for the website.

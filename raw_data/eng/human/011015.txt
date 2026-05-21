@@ -1,0 +1,1 @@
+Provider: Service providers who create and offer their services within the appli-cation. They can directly interact with the frontend to manage their services.

@@ -1,0 +1,1 @@
+2a. Nếu thông tin không hợp lệ, hệ thống thông báo lỗ và yêu cầu người dùng nhập lại thông tn2.4.7 Thêm thông báo Bảng 2.7: Đặc tả use case – Thêm thông báo Tên ca sử dụng: Thêm thông báo ID: 7 Tác nhân chính: Bí thư Mục đích: Bí thư thêm thông báo Mô tả: Ca sử dụng này mô tả cách bí thư thêm thông báo Kích hoạt: Bí thư thêm thông báo Luồng sự kiện chính:

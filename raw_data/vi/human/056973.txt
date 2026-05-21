@@ -1,0 +1,1 @@
+Use case quản lý cuộc hội thoại: một người dùng có thể xem danh sách cuộc hội thoại mà mình tham gia, xem nội dung cuộc hội thoại, xem thông tin cuộc hội thoại, tạo mới, sửa thông tin cuộc hội thoại.

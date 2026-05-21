@@ -1,0 +1,1 @@
+Meda stream là một hình thức stream dữ lệu âm thanh và hình ảnh. Yếu tố này hình thành bằng cách gọ hàm getUserMeda của WebRTC điể khở tạo khi làm vệc cục bộ.

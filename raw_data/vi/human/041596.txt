@@ -1,0 +1,1 @@
+–AF1: Trường hợp các trường thông tin người dùng nhập không hợp lệ, hiển thị thông báo lỗ –AF2: Trường hợp token đăng nhập của người dùng đã hết hạn, thông báo lỗ và điều hướng người dùng về giao diện Đăng nhập Tền điều kiện : Người dùng đã đăng nhập thành công vào hệ thống Hậu điều kiện :

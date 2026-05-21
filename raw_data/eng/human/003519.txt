@@ -1,0 +1,1 @@
+Setting Figure 2.2 is the sequence diagram of the Setting feature. The flow starts when the player clicks the Setting button in the Canvas Start Screen. After the adjustment is complete, the game’s volume will be updated again in Sound Manager.

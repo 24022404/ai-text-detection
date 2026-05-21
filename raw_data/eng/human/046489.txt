@@ -1,0 +1,1 @@
+V. Blanz andT. Vetter, “Face recognition based on fitting a 3d morphable model,” IEEE Transactions on pattern analysis and machine intelligence , journal 25,number 9,pages 1063–1074, 2003.

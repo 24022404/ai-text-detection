@@ -1,0 +1,1 @@
+Số dòng code: 8266 dòng Số lớp: 129 lớp Số gó: 57•Dung lượng toàn bộ mã nguồn: 809.6 kb Hình 4.2 là kết quả câu lệnh thống kê source code của module Communty.

@@ -1,0 +1,1 @@
+The CommitmentRequest JRPC method enables an executor to request commitments from other executors, a crucial step required for generating encryption keys. This process helps to ensure system security and consensus, making collaboration among executors more reliable.

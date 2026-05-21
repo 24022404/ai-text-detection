@@ -1,0 +1,1 @@
+Hỗ trợ đia nền tảng: PHP có thể chạy trên hầu hết các hệ thống máy tính và máy chủ, bao gồm cả Wndows, macOS và các hệ điều hành Lnux.

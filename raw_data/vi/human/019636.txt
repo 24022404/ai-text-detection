@@ -1,0 +1,1 @@
+Khả năng bảo trì tốt hơn Kiểm tra và gỡ lỗ rõ ràng hơn Xử lý dễ dàng hơn các chương trình đồng thờ Trừu tượng cấp cao giúp vết và hiểu mã đơn giản hơn Phoenix Framework Phoenix dễ sử dụng vớ mọi kiến trúc MVC web framework, và nó cũng được sao lưu bở BEAM. Nó cho phép một người tạo ra các ứng dụng web một cách hiệu quả trong khi không ảnh hưởng đến tốc độ hoặc khả năng bảo trì.

@@ -1,0 +1,1 @@
+The entity "Product" have a many-to-many relationship with entity "Order", meaning that a product can belong to multiple order and an order can have more than one product The entity "Product" have a one-to-many relationship with entity "Import", meaning that a Product can have more than one Import Product receipt.

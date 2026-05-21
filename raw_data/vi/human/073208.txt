@@ -1,0 +1,1 @@
+st+1 trạng thái tiếp theo của môi trường Thông tin này sẽ được sử dụng trong việc tính ra tỷ lệ giữa hà policy trong quá trình tính toán hàm mục tiêu của PP.•Giá trị thể hiện bước thờ gan hiện tại có phải bước kết thúc hay không.

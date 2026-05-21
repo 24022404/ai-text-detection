@@ -1,0 +1,1 @@
+PostgreSQL organizes information in tables composed of rows and columns inside databases, ensuring that data is securely saved on disk. It features various storage engines, each designed to optimize the way data is stored and accessed for different use cases.

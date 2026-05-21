@@ -1,0 +1,1 @@
+W. C. Bo Jiang Ye Liu, “Contractfuzzer: Fuzzing smart contracts for vulnerability detection,” Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering, ,pages 259–269, 2018.

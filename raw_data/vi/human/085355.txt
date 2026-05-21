@@ -1,0 +1,1 @@
+Tên của TensorFlow được đưa ra trực tiếp là nhờ vào framework cốt lõi của nó: Tensor. Trong TensorFlow, tất cả các tính toán điều liên quan tới các tensor. 1 tensor là 1  vector  hay ma trận  của n chiều không gian đại diện cho tất cả loại dữ lệu. Tất cả giá trị trong 1(hoặc đã bết 1 phần). Shape của dữ lệu chính là chiều của ma trận hay mảng.

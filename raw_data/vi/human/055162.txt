@@ -1,0 +1,1 @@
+Đồ án này sử dụng Hadoop cho nên Hadoop YARN sẽ được chọn làm trình quản lý cụm cho Spark.

@@ -1,0 +1,1 @@
+Hiện tại server có thể gửi thông báo cho người dùng qua ha kênh thông tin là hòm thư điện tử và webpush phía server. Nhưng theo thói quen của đa số mọi người, bao gồm cả chính em, là từ chối quyền thông báo của ứng dụng web.

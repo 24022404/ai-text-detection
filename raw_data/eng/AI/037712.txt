@@ -1,0 +1,9 @@
+The growing complexity and opacity of machine learning models demand more interpretable solutions. This paper addresses the challenge of explaining latent concepts within these models through semantic grouping, ensuring more intuitive and human-understandable explanations.
+
+Methods/Approach: We propose an ante-hoc approach that induces semantic grouping of latent concepts before the model's inference stage. Our technique involves integrating a novel grouping algorithm that clusters related latent variables based on semantic similarity. This process is enhanced through a custom metric that aligns with human cognitive patterns, preserving the interpretability of the latent space.
+
+Results/Findings: The proposed method significantly enhances the understandability and transparency of black-box models. Experiments on benchmark datasets demonstrate that our approach not only achieves superior interpretability but also maintains model performance, compared to traditional post-hoc explanation techniques. The latent concepts grouped by our method are found to align well with human judgment, as validated by user studies.
+
+Conclusion/Implications: This research presents a pioneering ante-hoc methodology for obtaining intelligible explanations of machine learning models by semantically grouping latent concepts. Our work offers vital contributions to the field of explainable AI (XAI), paving the way for broader adoption of interpretable models in sensitive domains such as healthcare and finance. The approach is versatile and can be integrated into various model architectures, highlighting its potential for widespread application and further exploration in enhancing model transparency.
+
+Keywords: explainable AI, latent concepts, ante-hoc explanations, semantic grouping, interpretability, machine learning models, model transparency.

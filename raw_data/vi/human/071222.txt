@@ -1,0 +1,1 @@
+Phần Server: Nơ thực hiện các thao tác xử lý điến Database. Phần này chỉ giao tiếp với phần Middleware 4.1.4 Biểu đồ phân lớp phân rã của tầng Server Tiếp theo đây, Hình 4.2 là biểu đồ phân lớp phân rã của Tầng Server Bao gồm 4 Hình 4.2: Biểu đồ phân lớp phân rã thành phần tầng.

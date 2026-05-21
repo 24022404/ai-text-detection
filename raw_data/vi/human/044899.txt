@@ -1,0 +1,1 @@
+Phạm v đồ ánĐồ án này tập trung nghên cứu bà toán phân vùng ngữ nghĩa (Semantc Seg mentaton) điố vớ ảnh chụp y tế. Mô hình được xây dựng là sự kết hợp của ha mô hình Masked Autoencoder  và UNet Transformer . Dữ liệu được sử dụng trong đồ án này là các hình ảnh nộ so được chụp trong quá trình kểm tra điạ tràng, lấy từ bộ dữ liệu PolypGen2021 , mnh họa như Hình 1.2.

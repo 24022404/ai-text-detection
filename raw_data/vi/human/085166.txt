@@ -1,0 +1,1 @@
+Tuy nhiên, cũng có những hạn chế của WebRTC . Ví dụ, việc thiết lập kết nối peer to peer có thể gặp khó khăn trong một số trường hợp, đặc biệt là khi thiết bị nằm sau các tường lửa (firewall) hoặc proxy. Ngoài ra, việc bảo mật và quản lý quyền riêng tư cũng là một vấn đề quan trọng cần được xem xét khi sử dụng WebRTC .

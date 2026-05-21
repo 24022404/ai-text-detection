@@ -1,0 +1,1 @@
+If v is a balanced vertex and not the start or end of path P, claim 2 ensures that v has the same number of in-edges as out-edges within P.

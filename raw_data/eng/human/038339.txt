@@ -1,0 +1,1 @@
+Claim 3. Letu= 0s1x1t0jbe a right-unbalanced vertex. Then the shortest path going from uto an arbitrary left-unbalanced vertex lengthen s−j.

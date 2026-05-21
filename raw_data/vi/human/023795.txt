@@ -1,0 +1,1 @@
+Tạo bà dịch Người dùng có thể đóng góp bà dịch cho bà vết hiện tại.Xem thông tin người viết Thông tin người tạo bài viết và người viết bài dịch sẽ được hiển thị tương ứng. Người dùng có thể xem ch tết thông tin của người tạo bài viết/bài dịch.

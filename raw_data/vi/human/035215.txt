@@ -1,0 +1,1 @@
+MongoDB cũng cung cấp các tính năng linh hoạt cho việc sao lưu dữ liệu, tương tác với các tài liệu được lưu trữ, và quản lý tài khoản người dùng và quyền truy cập.

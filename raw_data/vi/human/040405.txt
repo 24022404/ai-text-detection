@@ -1,0 +1,1 @@
+Các công nghệ Hadoop và Spark đã chứng minh được tính hiệu quả trong việc giải quyết các bài toán liên quan đến lưu trữ, xử lý dữ lệu lớn trong những năm qua. Công cụ Google Data Studio sẽ giúp tạo báo cáo vớ độ tùy chỉnh cao thay vì bỏ nhiều công sức để xây dựng giao diện riêng. Những công nghệ nêu trên sẽ được sử dụng để xây dựng các thành phần tương ứng của hệ thống.

@@ -1,0 +1,1 @@
+Trong phạm vi đồ án này, nguồn dữ lệu mà em sử dụng điện từ các trang báo điện tử như Kênh 14, CafeF ... và một số trang báo khác thuộc sở hữu của Công ty cổ phần VCCorp (nợ em đang làm việc). Xây dựng hệ thống phân tích và trực quan hóa dữ lệu nhật ký từ các trang báo điện tử này sẽ góp phần giải quyết các bài toán liên quan đến vận hành quảng cáo của công ty.

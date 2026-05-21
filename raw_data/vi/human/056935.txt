@@ -1,0 +1,1 @@
+React cung cấp một cách tiếp cận khái niệm "Virtual DOM"(DOM ảo). Thay vì thao tác trực tiếp vớ DOM(Document Object Model) thật, React sử dụng một cấu trúc dữ lệu RAM ảo, cho phép nó chỉ cập nhật các thành phần giao diện đã thay đổi thay vì cập nhật toàn bộ DIM. Điều này giúp cải thiện hiệu suất và tăng tốc độ render của ứng dụng.

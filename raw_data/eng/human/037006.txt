@@ -1,0 +1,1 @@
+J. H. Lee, B. H. Lee andM. H. Cho, “A realtme traffc control scheme of multple agv systems for collson free mnmum tme moton: A routng table approach,” IEEE Transactons on Systems, Man, and CybernetcsPart A: Systems and Humans ,jourvol 28,number 3,pages 347–358, 1998.

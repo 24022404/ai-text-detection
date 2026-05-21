@@ -1,0 +1,1 @@
+Phần mềm sẽ có các chức năng chính bao gồm quản lý thông tin sản phẩm và kho hàng, quản lý đơn hàng và hóa đơn, thanh toán và quản lý doanh thu. Ngoài ra, phần mềm cũng sẽ hỗ trợ tính năng quản lý khách hàng, gúp quán tạp hoá có thể tăng cường quan hệ với khách hàng.

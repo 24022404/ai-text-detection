@@ -1,0 +1,1 @@
+Mô hình CNN Vớ 3DMM, ta có thể xây dựng một mô hình dựng khuôn mặt 3D bằng cách dùng mô hình CNN để học các tham số của 3DMM. Đầu ra của mô hình CNN được miêu tả như sau:

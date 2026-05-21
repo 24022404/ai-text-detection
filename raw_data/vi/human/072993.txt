@@ -1,0 +1,1 @@
+Chương 2 sẽ trình bày về tổng quan các chức năng trong hệ thống đồng thờ đặc tả một số use case chính.Trong Chương 3, em sẽ trình bày về các công nghệ và công cụ được sử dụng xuyên suốt quá trình thực hiện đồ án.

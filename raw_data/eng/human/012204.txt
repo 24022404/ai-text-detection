@@ -1,0 +1,1 @@
+J. Humble and D. Farley, Continuous delivery: reliable software releases through build, test, and deployment automation . Pearson Education, 2010, pp. 13–14.

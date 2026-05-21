@@ -1,0 +1,1 @@
+One of the key advantages of MySQL is its ease of use. It comes with a user friendly interface that allows developers to easily create, modify, and query databases.

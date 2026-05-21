@@ -1,0 +1,1 @@
+On the other hand, if the learning rate is too large, the algorithm may not converge to the optimal point (jump around) or even to diverge completely.

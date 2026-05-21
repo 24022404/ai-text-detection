@@ -1,0 +1,1 @@
+Control Pns EN, RST Chốt và nút đặt lại bộ vi điều khiển.Analog Pn A0 Được sử dụng điểm đo điện áp tương tự trong khoảng 0 3,3V.

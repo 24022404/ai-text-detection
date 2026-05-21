@@ -1,0 +1,1 @@
+Matplotlib có thể được sử dụng để tạo ra những figures đủ chất lượng cho một loạt các định dạng hardcopy và môi trường tương tác trên nền tảng.

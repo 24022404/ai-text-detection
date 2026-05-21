@@ -1,0 +1,1 @@
+Biểu đồ use case tổng quát Hình 2.1: Use case tổng quát hệ thống Các tác nhân gồm người dùng và nhân viên:

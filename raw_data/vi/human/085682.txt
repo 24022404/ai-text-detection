@@ -1,0 +1,1 @@
+Khách hàng hoặc thành viên chọn sản phẩm cần xem thông tin 2. Hệ thống hển thị thông tin ch tết sản phẩm trên giao diện Luồng sự kện con:

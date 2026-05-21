@@ -1,0 +1,1 @@
+Lựa chọn kiến trúc phần mềm Module Communty sử dụng kến trúc MVVM (Model  Vew  VewModel) điược hỗ trợ bở framework Magento. Kến trúc MVVM tách bệt các thành phần của một ứng dụng thành ba phần chính: Model (Mô hình), Vew (Gao vện) và VewModel (Mô hình xem).

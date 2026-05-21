@@ -1,0 +1,1 @@
+Do hạn chế về nguồn lực, chi phí để cung cấp một hệ thống máy chủ mạnh mẽ, và cùng với mục tiêu xây dựng một hệ thống trên phạm vi nhỏ, chúng tôi đã lựa chọn trên khu chức năng này theo phương pháp truyền trực tiếp (peertopeer).

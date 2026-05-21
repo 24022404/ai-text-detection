@@ -1,0 +1,1 @@
+Ví dụ: John và Jll là ha thành viên trong mạng lướ. John gh lạ một giao dịch được mã hóa bằng mã khóa rêng tư của anh ấy. Jll có thể gả mã giao dịch này bằng mã khóa công kha của cô ấy. Bằng cách này, Jll tin chắc rằng John đã thực hiện giao dịch. Mã khóa công kha của Jll sẽ không hoạt động nếu mã khóa rêng tư của John bị làm gả.

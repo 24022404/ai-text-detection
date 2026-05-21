@@ -1,0 +1,1 @@
+This experience served as a valuable lesson, highlighting the importance of es tablishing a solid foundation before focusing on fine-tuning and optimization. It is essential to prioritize functional viability before pursuing advanced features and optimizations.

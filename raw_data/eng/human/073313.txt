@@ -1,0 +1,1 @@
+–Route: the routing file contains the–Controller: Receives incoming requests from the client, handles user au thentication and is responsible for returning data to the client.

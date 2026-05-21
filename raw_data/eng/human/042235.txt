@@ -1,0 +1,1 @@
+Flexibility: MVVM allows for flexibility in the design and implementation of the user interface, making it easier to adapt to changes in requirements or technology.

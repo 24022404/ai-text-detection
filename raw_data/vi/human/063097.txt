@@ -1,0 +1,1 @@
+Loại bỏ các ký tự đặc biệt và thay bằng dấu cách Thêm các emoji, emoticon bằng từ mang nghĩa của nó Áp dụng từ điển điển đồng nhất cách đặt dấu (“òa” => “oà”) Áp dụng từ điển các từ viết tắt có ý nghĩa cảm xúc (từ điển tự tạo) (“hjhj” => “hh”) Tách từ bằng thư viện pyv Cuối cùng, dữ liệu được áp dụng các kỹ thuật trích chọn đặc trưng như:

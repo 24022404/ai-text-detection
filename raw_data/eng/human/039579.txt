@@ -1,0 +1,1 @@
+Initialize w(0); 3 fort= 1,2, . . . , T do 4 Choose random set of Knodes; 5 foreach node i∈Knodes in parallel do 6 wi(t)←LocalUpdate (i,w(t−1)) 8 w(t) =PK 9Function LocalUpdate( i,w):

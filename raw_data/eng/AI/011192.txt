@@ -1,0 +1,1 @@
+The "Take Screenshot" sub-use case focuses on capturing images of the device or emulator screen during Android analysis. This helps to document the application's current state, observe UI behavior, and visually confirm specific scenarios in various test cases.

@@ -1,0 +1,1 @@
+The algorithm starts by initializing the distance between each pair of vertices to the weight of the edge between them, if it exists, or to infinity if no such edge exists.

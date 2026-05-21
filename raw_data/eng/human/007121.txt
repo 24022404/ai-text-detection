@@ -1,0 +1,1 @@
+Main interface: It is initially initialized with the image reader module with the view( figure4.5) belowFigure 4.5: Main interface To load input image we use open file feature in "Choose Image" cluster or we can load multiple images using load folder. We have:

@@ -1,0 +1,1 @@
+− Có 4 lệnh dùng đi ể truy cập RESTful API:• POST đi ể tạo object mới PUT đi ể sửa đổi hoặc thay thế một object DELETE đi để loại bỏ một object − Mỗ phương thức trên phá được API call thông qua đi ể gửi chỉ thị cho server phả làm gì.

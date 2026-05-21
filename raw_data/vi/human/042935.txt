@@ -1,0 +1,1 @@
+Decoder từ GPT được sử dụng điểm tái tạo lại đầu vào bị nhiễu. Mặc dù vậy, các từ chỉ có thể sinh từ bên trái, mô hình không thể học được tương tác hai chiều. Hàm kích hoạt GeLU được sử dụng thay thế cho ReLU. Kiến trúc cơ bản của BART sử dụng 6 tầng encoder và decoder trong k kiến trúc mở rộng sử dụng 12 tầng.

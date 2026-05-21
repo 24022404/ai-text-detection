@@ -1,0 +1,1 @@
+Giao diện khi chạy file .exe Hình 4.8: Gao dện vào game Kh người dùng chạy file .exe trong thư mục bulk thì game sẽ được khởi động và xuất hiện gao dẫn vào game. Tại đây người chơi có 3 lựa chọn là chợ mới, tiếp tục chờ vớ save file và thoát available

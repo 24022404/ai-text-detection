@@ -1,0 +1,1 @@
+Gồm hai biểu đồ: () Hệ điều hành, là biểu đồ dạng cột, thể hiện sự phân bố người dùng hoặc số lượt xem của từng hệ điều hành. () Trình duyệt, là biểu đồ dạng bảng gồm ba cột, tên trình duyệt  tỷ lệ người dùng  số lượt xem. Bảng được chia thành nhiều trang có thể sắp xếp theo thứ tự tăng dần hoặc giảm dần của số người dùng hoặc số lượt xem.

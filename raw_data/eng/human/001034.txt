@@ -1,0 +1,1 @@
+In practice, there are many ways to check goods in stock, such as (i) attaching QR codes/Barcodes to product batches and using scanning devices, (ii) using NFC (Near-Field Communications) tags, etc. They all have the common feature of using labels, tags attached to products, and using other reading devices to read product information.

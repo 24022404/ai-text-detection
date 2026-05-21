@@ -1,0 +1,1 @@
+A JavaScript object called Virtual DOM in Vue represents the Document Object Model (DOM). Instead of directly updating the DOM, the application updates the Virtual DOM.Before talking about virtual DOM we need to understand DOM.

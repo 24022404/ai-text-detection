@@ -1,0 +1,7 @@
+Dự báo thủy văn cho lưu vực hồ Bản Vẽ đòi hỏi sự chính xác cao để đảm bảo an toàn và hiệu quả cho các hoạt động liên quan đến hồ. Trong đó, việc tìm kiếm tham số tối ưu là một phần quan trọng để cải thiện độ chính xác của dự báo.
+
+Các phương pháp dò tìm tham số tối ưu được thử nghiệm trong dự án này bao gồm phương pháp gradient descent, phương pháp Newton-Raphson và phương pháp Monte Carlo. Mỗi phương pháp đều có ưu và nhược điểm riêng, nhưng đều có thể giúp tìm ra tham số tối ưu cho dự báo thủy văn.
+
+Kết quả thử nghiệm cho thấy rằng phương pháp gradient descent và phương pháp Newton-Raphson đều có thể tìm ra tham số tối ưu hiệu quả, nhưng phương pháp Monte Carlo lại có thể tìm ra tham số tối ưu với độ chính xác cao hơn. Tuy nhiên, phương pháp Monte Carlo cũng đòi hỏi thời gian tính toán lâu hơn so với hai phương pháp còn lại.
+
+Tóm lại, việc thử nghiệm các phương pháp dò tìm tham số tối ưu trong dự báo thủy văn cho lưu vực hồ Bản Vẽ đã giúp tìm ra tham số tối ưu hiệu quả và cải thiện độ chính xác của dự báo.

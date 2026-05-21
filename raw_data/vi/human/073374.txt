@@ -1,0 +1,1 @@
+Chức năng liên quan đến thanh toán khi đăng bài. App sử dụng một loại điểm để có thể đăng bài hoặc sử dụng một số chức năng khác.

@@ -1,0 +1,1 @@
+Trong đồ án này, chúng tôi đã sử dụng hệ quản trị cơ sở dữ liệu PostgreSQL, là tầng dữ liệu trong ứng dụng của mình.Hình 4.1: Sơ đồ kiến trúc 3 tầng Trong hình 4.1, ta thấy tầng ứng dụng có 3 lớp: Lớp trình diễn, lớp nghiệp vụ và lớp lưu trữ.

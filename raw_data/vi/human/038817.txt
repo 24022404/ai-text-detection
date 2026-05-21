@@ -1,0 +1,1 @@
+Để có thể thực hiện chức năng thông báo realtme cho người dùng, tác gả điã sử dụng Socket.IO trong đồ án này.

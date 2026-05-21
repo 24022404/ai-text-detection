@@ -1,0 +1,1 @@
+Tính chịu lỗ là yêu cầu trong quá trình hệ thống hoạt động có thể chấp nhận rủ ro về phần cứng hoặc phần mềm trong một phạm v nhất định. Hệ thống cần điảm bảo hoạt động thông suốt, không mất mát dữ lệu nếu có sự cố xảy ra. Để thực hiện điược yêu cầu này, các thành phần của hệ thống cần điược cà điặt dướ dạng cụm, dữ lệu điược phân chia ra nhều bản sao điể điảm bảo chịu lỗ.

@@ -1,0 +1,1 @@
+So với những nghiên cứu, bài báo đưa ra những phương pháp đo lường, hay những ứng dụng review về dịch vụ... để khách hàng có thể đưa ra quyết định lựa chọn nhà cung cấp dịch vụ đám mây phù hợp nhất thì hệ thống trong ĐATN này chỉ là một phần nhỏ trong đó nếu xét về độ phức tạp của các quy trình nghiệp vụ.

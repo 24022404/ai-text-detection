@@ -1,0 +1,1 @@
+Đặc tả use case "Tạo danh mục sản phẩm" Bảng 2.1: Đặc tả use case "Tạo danh mục sản phẩm" Mã use case: UC001 Tên Use Case: Tạo danh mục sản phẩm Tạo bởi: QuyenPV Ngày tạo: 01/03/2023 Tác nhân Quản trị viên Mô tả: Quản trị viên đăng nhập vào hệ thống và nhập thông tin của danh mục sản phẩm.

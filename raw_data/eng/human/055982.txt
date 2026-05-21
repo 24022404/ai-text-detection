@@ -1,0 +1,1 @@
+Developed in C and C++, MySQL runs on more than 20 different operating sys tems, including Mac, Windows, Linux, and Unix. Numerous data types, including signed or unsigned integers of lengths 1, 2, 3, 4, and 8 byte(s), FLOAT, DOUBLE, CHAR, VARCHAR, BINARY, are supported by RDBMS, which also supportsmassive databases with millions of records.

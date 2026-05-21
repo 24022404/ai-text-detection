@@ -1,0 +1,1 @@
+Unset HTTP/HTTPS Proxy : This use case involves removing any HTTP or HTTPS proxy settings configured on an Android device or emulator. This is necessary to ensure that network traffic flows directly without being routed through a proxy, which can interfere with analysis or alter the behavior of applications.

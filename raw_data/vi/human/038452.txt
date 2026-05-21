@@ -1,0 +1,1 @@
+Để hiểu rõ hơn, ta xét ví dụ với danh sách công việc như trong bảng 5.3 và bảng 5.4. Ta giả sử dự án đang cần thực hiện trong vòng 11 ngày, và từ hai bảng này ta tính được thờ gan thực hiện dự án tính theo phương pháp CPM đang là 13 ngày.

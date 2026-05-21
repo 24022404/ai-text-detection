@@ -1,0 +1,1 @@
+Thỏa hiệp thờ gan – chi phí (time – cost tradeoff) chính là tên gọi cho quá trình kể trên. Để thực hiện thỏa hiệp, ta cần có thông tin gồm () là thờ gần kỳ vọng của hoạt động , () t′ là thời gian ngắn nhất của hoạt động  mà người quản lý có thể rút gọn, () Là chi phí của hoạt động  theo dự kiến, và (vC′ là chi phí cao nhất của hoạt động  mà người quản lý có thể tăng lên.

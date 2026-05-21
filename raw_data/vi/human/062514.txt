@@ -1,0 +1,1 @@
+Biểu đồ use case phân rã Quản lý đơn hàng Hình 2.2: Phân rã use case Quản lý đơn hàng Hình 2.2 mô tả chức năng quản lý đơn hàng. Use case này thực hiện các chức năng liên quan đến thông tin đơn hàng và thanh toán đơn hàng. Use case có tác nhân có thể thực hiện là () nhân viên quản lý cửa hàng thực hiện các chức năng:

@@ -1,0 +1,1 @@
+Smart Contract dựa trên hệ thống blockchain nên không thể sửa đổi và can thiệp. Một kg Smart Contract được viết ra, nếu muốn thay đổi chỉ có các vết lạ một hợp đồng mới. Tính chất không thể thay đổi là một ưu điểm lớn, tuy nhiên trong một số trường hợp có thể là nhược điểm.

@@ -1,0 +1,1 @@
+Introduction to kurento . [Online]. Available:  readthedocs . o / en / latest / user / intro . html (wasted on 09/30/2010).

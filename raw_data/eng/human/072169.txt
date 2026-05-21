@@ -1,0 +1,1 @@
+Controller In the MVC architecture, the Controller is responsible for monitoring the processing of requests and performing logical tasks. It interacts with the Model to query the database and return data to the View. View then uses this data to display the corresponding information to the user.

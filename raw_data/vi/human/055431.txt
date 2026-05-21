@@ -1,0 +1,1 @@
+Tăng kích thước của yêu cầu: JWT có thể tăng kích thước của yêu cầu do chứa thông tin về người dùng và các thông tin phụ trợ khác. Đều này có thể gây ảnh hưởng đến tốc độ truyền tải dữ liệu và tốc độ xử lý trên máy chủ.

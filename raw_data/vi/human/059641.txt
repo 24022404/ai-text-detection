@@ -1,0 +1,1 @@
+Nơ sử dụng Tô dùng Java làm ngôn ngữ chính điểm phát triển ứng dụng dành cho thiết bị di động.3.2.2 HttpURLConnection a, Khá nệm HttpURLConnection  là một thư viện được Java hỗ trợ, được sử dụng để thực hiện một yêu cầu duy nhất nhưng kết nối mạng cơ bản với máy chủ HTTP.

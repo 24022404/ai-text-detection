@@ -1,0 +1,1 @@
+Xây dựng Chatbot Quá trình xây dựng Chabot gồm các bước: Xác định ý định người dùng: Xác định ý định người dùng (Intent) kh tương tác với hệ thống thông qua câu hỏi hay câu truy vấn của người dùng.

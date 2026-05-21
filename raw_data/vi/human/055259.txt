@@ -1,0 +1,1 @@
+Phân rã use case "Cập nhật thông tin cá nhân" Hình 2.10: Phân rã use case "Cập nhật thông tin cá nhân" Use case này được sử dụng bởi người mua hàng sau khi đăng nhập thành công.

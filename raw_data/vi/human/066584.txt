@@ -1,0 +1,1 @@
+Quản lý nhà cung cấp: Cho phép người sử dụng có thể thêm, xóa, xóa nhà cung cấp và thanh toán các đơn nhập hàng chưa hoàn tất. Tìm kiếm danh sách nhà cung cấp theo một số trường như: Tên nhà cung cấp, mã nhà cung cấp.

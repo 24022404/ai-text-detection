@@ -1,0 +1,1 @@
+– Stochastic Gradient Descent (SGD) : SGD (Stochastic Gradient Descent) is a variant of the gradient descent optimization algorithm commonly used in training machine learning models, particularly in large-scale settings.

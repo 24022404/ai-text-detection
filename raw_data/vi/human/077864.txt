@@ -1,0 +1,1 @@
+Quá trình mã hóa được sử dụng chủ yếu để điảm bảo tính bí mật của các thông tin quan trọng, chẳng hạn trong công tác tình báo, quân sự hay ngoạ gao cũng như các bí mật về knh tế, thương mạ hay cả điến những thông tin cá nhân rêng tư.

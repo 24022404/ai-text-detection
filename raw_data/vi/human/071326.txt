@@ -1,0 +1,1 @@
+Trong đồ án này, chúng tô tập trung vào việc thiết kế và xây dựng hệ thống Video Conferencing vớ các tính năng cho phép người dùng tạo và quản lý các cuộc trò chuyện, mờ người khác tham gia vào cuộc hội thoại. Người dùng trong cùng một cuộc hội thoại có thể nhắn tin văn bản, meda (hình ảnh, video), thực hiện cuộc gọi video và quản lý thành viên trong cuộc hội thoại.

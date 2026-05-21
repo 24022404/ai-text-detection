@@ -1,0 +1,1 @@
+Về phía cơ sở dữ liệu, ĐATN sử dụng MySql và hỗ trợ bở Sequelize  một Javascript ORM điểm thực hiện lưu trữ dữ liệu cho hệ thống. MySql có nhiều ưu điểm như dễ sử dụng, bảo mật cao, khả năng mở rộng và mạnh mẽ.

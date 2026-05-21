@@ -1,0 +1,1 @@
+From those classifications, we can go deeper into the security vulnerabilities in smart contracts. Depending on the level of danger and ability to cope, these vulnerabilities are classified into different vulnerability classes. This project will focus on the following types of vulnerabilities listed:

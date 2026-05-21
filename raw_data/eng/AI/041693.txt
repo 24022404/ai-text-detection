@@ -1,0 +1,1 @@
+If l + i − t = j, then Pu and Pv share the same last edge but end in different terminal states, which is impossible. Otherwise, the path from ev,l+i−t+1 to ev,j connects u to v with length less than s, also a contradiction.

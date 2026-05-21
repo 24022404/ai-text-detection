@@ -1,0 +1,1 @@
+Using the above algorithm assists us to configure SLA policies and supports us to incorporate this policy with helpdesk management. The configuration of SLA policies in the Helpdesk system has menus like Overview, Tickets, Reporting, and Configuration. We can configure different features using the Configuration menu and can add details like:

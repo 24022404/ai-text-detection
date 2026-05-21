@@ -1,0 +1,1 @@
+pad tickets: Lưu trữ thông tin về đơn xin nghỉ phép. Tương tự như đơn bổ sung công nhưng có thêm phần người thay thế khi nghỉ việc, cũng như có thêm loại nghỉ phép.

@@ -1,0 +1,13 @@
+Abstract  
+Scene text images captured “in the wild” often suffer from low resolution, noise, and blur, limiting the accuracy of downstream optical character recognition (OCR) systems. This paper addresses the problem of scene text image super-resolution (STISR) by presenting a novel deep learning framework designed for unconstrained, real-world conditions.  
+
+Methods/Approach  
+We propose WildTextSR, an end-to-end network that integrates multi-scale feature extraction, a text-aware attention mechanism, and adversarial training. WildTextSR’s encoder extracts hierarchical representations of text strokes and background context, while a specialized attention module guides the generator to focus on character edges. A perceptual loss combining pixel, feature, and text recognition feedback is employed to preserve both visual fidelity and semantic content. To bridge the gap between synthetic training data and complex natural scenes, we introduce WildText1500—a diverse dataset of low-resolution, real-scene text images with paired high-quality counterparts.  
+
+Results/Findings  
+On public benchmarks and our WildText1500 test set, WildTextSR achieves up to 1.8 dB improvement in peak signal-to-noise ratio (PSNR) and a 12% relative gain in structural similarity index (SSIM) over state-of-the-art SR methods. Crucially, OCR accuracy on super-resolved images rises from 68% to 85% using a standard recognition engine, outperforming competing approaches by at least 10 percentage points.  
+
+Conclusion/Implications  
+By jointly optimizing for visual clarity and text readability, WildTextSR substantially enhances scene text legibility in natural settings. This advancement holds promise for applications in mobile document capture, augmented reality translation, and autonomous navigation, where reliable text extraction from unpredictable environments is essential.  
+
+Keywords: scene text super-resolution, deep learning, generative adversarial network, attention mechanism, OCR accuracy.

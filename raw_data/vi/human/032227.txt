@@ -1,0 +1,1 @@
+Cách thức hoạt động của CSS là tương tác với các thành phần HTML riêng lẻ được gọi là các phần tử. Nó cho phép tách nội dung và trình bày, điều này giúp cải thiện khả năng truy cập và hiệu suất xử lý của website. CSS cũng cung cấp tính linh hoạt hơn trên nhiều trang và giảm sự lặp lại trong mã HTML.

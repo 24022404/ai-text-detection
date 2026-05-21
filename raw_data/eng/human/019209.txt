@@ -1,0 +1,1 @@
+Not to mention, if the email server does not respond, our main server will suffer greatly, even though this is not a real-time operation.

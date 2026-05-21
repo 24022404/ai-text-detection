@@ -1,0 +1,1 @@
+All screens are managed by the "Screen Manager". The "Screen Manager" con tains information about the current screen being shown on the display, along with the details of all screens stored in the form of a dictionary, with keys being the names of the screens. The "Screen Manager" is designed with two main methods, LoadScreen" and "SetScreen".

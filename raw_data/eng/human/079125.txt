@@ -1,0 +1,1 @@
+Backend Detail Package Design The backend package is a collection of code and resources that constitute the server-side logic and functionality of an application. Let’s break down this backend package into three major packages:

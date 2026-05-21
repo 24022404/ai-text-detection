@@ -1,0 +1,1 @@
+Sau khi đã xây dựng biểu đồ use case ở chương 2, trình bày các công nghệ sử dụng ở chương 3 thì biến chương 4 sẽ đi sâu vào phần thiết kế kiến trúc, quá trình xây dựng, thực hiện kiểm thử và đánh giá.

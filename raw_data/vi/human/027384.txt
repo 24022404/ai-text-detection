@@ -1,0 +1,1 @@
+Gó base: Có chứa các lớp cơ bản dùng chung cho nhiều màn hình, được các lớp khác kế thừa và sử dụng.

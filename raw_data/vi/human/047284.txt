@@ -1,0 +1,1 @@
+Bước 3: Kg có được CSR, luồng xử lý của API gửi đến CÀ điểm CÁ ký với khóa bí mật của CA giúp cho việc tạo chứng thư hợp lệ Hình 5.1: Luồng cấp chứng thư và anh khoa Bước 4: CA trả về chứng thư số điã điược ký vớ khóa bí mật của mình Bước 5: Chứng thư số được lưu lại vớ cặp khóa tương ứng trong SoftHsm.

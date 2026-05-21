@@ -1,0 +1,1 @@
+Module được sử dụng nhiều nhất của Matplotlib là Pyplot cung cấp gạo điện như MATLAB nhưng thay vào đó, nó sử dụng Python và nó là nguồn mở.

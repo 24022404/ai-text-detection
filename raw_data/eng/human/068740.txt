@@ -1,0 +1,1 @@
+After normalizing, I get the normalized confusion matrix which represent the proportion of samples that were classified correctly and incorrectly.

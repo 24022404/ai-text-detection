@@ -1,0 +1,1 @@
+Saving Results to Database: After the analysis, the results are saved in the database ( StaticAnalyzer ), including detailed information about the app’s permissions, code, libraries, certificates, and other aspects.

@@ -1,0 +1,1 @@
+Gả pháp đưa ra Kh phác thảo các yêu cầu chính của người dùng hay phác thảo các chức năng chính của hệ thống, nên phác thảo theo các tác nhân của hệ thống.

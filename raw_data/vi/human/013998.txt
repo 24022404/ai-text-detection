@@ -1,0 +1,1 @@
+Giới thiệu về cảm biến DHT11 DHT11  là một cảm biến nhiệt độ và độ ẩm. Nó ra đời sau và được sử dụng thay thế cho dòng SHT1x ở những nơi không cần độ chính xác cao về nhiệt độ và độ ẩm.

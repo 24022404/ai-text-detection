@@ -1,0 +1,1 @@
+Đều này cho phép các nhà phát trển tùy chỉnh và mở rộng hệ thống theo nhều cách khác nhau. Họ có thể thêm các tính năng mớ vào hệ thống bằng cách tạo các môđiun mớ hoặc thay điổ các môđiun hiện có. Điều này gúp cho vệc phát trển, bảo trì và nâng cấp hệ thống Magento trở nên dễ dàng và hiệu quả hơn.

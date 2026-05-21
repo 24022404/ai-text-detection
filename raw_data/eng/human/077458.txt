@@ -1,0 +1,1 @@
+Replication and High Availability : MongoDB increases the data availabilitywith multiple copies of data on different servers. By providing redundancy, it pro tects the database from hardware failures. If one server goes down, the data can be retrieved easily from other active servers which also had the data stored on them.

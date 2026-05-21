@@ -1,0 +1,1 @@
+Thành viên nhập các thông tin yêu cầu như email và mật khẩu 4.Thành vên nhấn vào nút "Đăng nhập" để đăng nhập.

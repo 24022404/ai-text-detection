@@ -1,0 +1,1 @@
+Cloud Storage  cho Freebase được xây dựng điểm lưu trữ và truy vấn nội dung do người dùng tạo, chẳng hạn như ảnh hoặc video. Cloud Storage của Firebase là một dịch vụ lưu trữ đối tượng mạnh mẽ, đơn giản và tiết kiệm chi phí được xây dựng bở Google.

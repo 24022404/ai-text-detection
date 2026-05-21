@@ -1,0 +1,1 @@
+Thư viện mlxtend (Machine Learning Extensions) là một thư viện Python được xây dựng điểm hỗ trợ và mở rộng các thư viện machine learning phổ biến như Scikit Learn. Mlxtend chủ yếu tập trung vào các công cụ cho phân tích dữ liệu, quy tắc kết hợp (association rules), và các thuật toán học máy mở rộng.

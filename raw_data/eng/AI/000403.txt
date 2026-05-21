@@ -1,0 +1,9 @@
+The paper presents ODVICE, an innovative ontology-driven visual analytic tool designed to facilitate interactive cohort extraction, addressing the growing need for efficient and accurate data analysis in healthcare and related fields. The primary goal is to streamline the process of identifying and analyzing specific cohorts within large datasets by leveraging ontological resources.
+
+Methods/Approach: ODVICE utilizes a semantic framework combining ontology-based data representation with advanced visual analytics to allow users to intuitively interact with complex datasets. The tool incorporates interactive visualizations that help users construct, refine, and validate cohort definitions through an intuitive interface. It harnesses algorithms for semantic reasoning to enhance the precision and relevance of cohort selection.
+
+Results/Findings: The application of ODVICE demonstrated notable improvements in the efficiency and accuracy of cohort extraction tasks compared to traditional, non-interactive methods. User studies confirmed that the tool significantly reduces the time required for cohort definition and improves the accuracy and consistency through enhanced understanding facilitated by visual analytics.
+
+Conclusion/Implications: ODVICE offers considerable advancements in the domain of data-driven cohort extraction, providing a powerful yet user-friendly platform that integrates ontological knowledge to support data scientists and healthcare practitioners. This research contributes to more effective data utilization, potentially impacting areas such as epidemiology, clinical trials, and personalized medicine. Future applications of ODVICE are envisioned in other sectors requiring intricate data analysis and cohort identification, highlighting its flexibility and broad utility.
+
+Key Keywords: ontology-driven, visual analytics, interactive cohort extraction, semantic reasoning, healthcare data analysis.

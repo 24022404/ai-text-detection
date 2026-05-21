@@ -1,0 +1,1 @@
+Công thức tính toán của SMA là trung bình cộng của một số quan sát gần điây trong chuỗ thờ gan. Để tính SMA, chúng ta lấy tổng của các gá trị trong một khoảng quan sát cố định và cha cho số lượng quan sát trong khoảng đió. Ví dụ, điể tính SMA vớ khoảng quan sát gồm n quan sát, ta sử dụng công thức sau:

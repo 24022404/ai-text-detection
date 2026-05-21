@@ -1,0 +1,1 @@
+Thiết kế tổng quan Tuân theo kiến trúc MVC, hệ thống được chia thành ba tầng chính tương ứng với tầng Gao vện (View), tầng Nghiệp vụ (Controller) và tầng Dữ liệu (Model).

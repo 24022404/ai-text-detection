@@ -1,0 +1,9 @@
+The emergence of the Internet of Things (IoT) has necessitated robust and scalable anomaly detection methods to ensure network integrity and reliability. This research addresses the challenge of adaptive anomaly detection within IoT environments facilitated by hierarchical edge computing, aiming to enhance response speed and reduce central processing load.
+
+Methods/Approach: We propose a novel anomaly detection framework leveraging a contextual-bandit approach, which dynamically adapts detection strategies based on contextual information derived from IoT data streams. The hierarchical edge computing architecture helps in distributing the computation load efficiently, enabling real-time data analysis and anomaly identification at different network levels.
+
+Results/Findings: Our approach demonstrates significant improvements in detecting anomalies when compared to traditional methods, particularly under varying network loads and environmental conditions. The contextual-bandit model effectively learns optimal strategies by utilizing real-time context, resulting in higher detection accuracy and reduced false positive rates. Performance evaluation shows enhanced system responsiveness and efficient resource allocation across hierarchical nodes.
+
+Conclusion/Implications: This research contributes to advancing IoT security by integrating adaptive machine learning techniques into a distributed computing paradigm. The proposed model supports scalable and low-latency anomaly detection, with potential applications in smart cities, industrial IoT, and other distributed systems requiring real-time threat management. This study paves the way for further developments in adaptive IoT security solutions across multi-tiered edge computing landscapes.
+
+Keywords: IoT, anomaly detection, hierarchical edge computing, contextual-bandit, adaptive security, real-time analysis, distributed processing.

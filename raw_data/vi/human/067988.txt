@@ -1,0 +1,1 @@
+policy mơ của ta tiếp tục cần phải học theo hướng này (tăng khả năng chọn hành động trong trạng thái hiện tại). Do đó hàm mục tiêu không bị chặn bước cập nhập policy được thực hiện trọn vẹn.

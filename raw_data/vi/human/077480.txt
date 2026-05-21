@@ -1,0 +1,1 @@
+Một trong những ưu điểm của ExpressJS là rất dễ học và sử dụng. ExpressJS hỗ trợ rất nhiều tính năng cơ bản cần thiết cho phát triển ứng dụng, nhưng cũng cho phép mở rộng điểm đáp ứng các yêu cầu của các ứng dụng lớn hơn. Expressjs còn cung cấp cho người lập trình thêm về nhiều tính năng (feature) điểm cải thiện hiệu suất khi lập trình mà không làm chậm tốc độ của NodeJS.

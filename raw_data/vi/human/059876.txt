@@ -1,0 +1,1 @@
+Input: Tài khoản: "user1", Mật khẩu: "password1" Expected output: Người dùng được chuyển đến trang chính của ứng dụng và có thể truy cập vào các thông tin của mình.

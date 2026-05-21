@@ -1,0 +1,1 @@
+In the last chapter, I will give the conclusion about the thesis: what has been done and what not, what can be improved, difficulties I faced while building the app, and how I overcame them. I will also give future develop orientation for the application.2.1 Functional Overview 2.1.1 General use case diagram The figure 2.1 shows the general use case of the application.

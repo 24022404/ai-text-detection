@@ -1,0 +1,1 @@
+Tính dễ dùng: giao diện web hệ thống cần trình bày rõ ràng, rành mạch và nhất quán. Đồng thờ hỗ trợ việc thao tác tạo, cập nhật phân khúc một cách dễ dàng. Thờ gan phản hồi của hệ thống cần diễn ra ổn định tránh tình trạng treo, đơ khi người dùng sử dụng nền tảng.

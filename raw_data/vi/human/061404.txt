@@ -1,0 +1,1 @@
+app . run ( ) Kh chạy fle app.py , chỉ cần chạy câu lệnh flask run hoặc python app.py , Flask mở cổng (default port) 5000, và nội dung trang web sẽ nằm ở đường dẫn  .

@@ -1,0 +1,1 @@
+Common Module xử lý các chức năng được dùng chung ở nhiều module khác như: quản lý khóa, lấy các thông tin từ mạng chủ khố, v.v Currency Config Module xử lý các chức năng liên quan đến cấu hình các thông tin liên quan tới các mạng chuỗi khố.

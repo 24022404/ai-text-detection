@@ -1,0 +1,1 @@
+$php artisan config:clear $php artisan cache:clear Bước 3 : Để có thể làm việc được với Broadcast ta tiếp tục mở file config/app.php , tìm đến dòng App\Providers\BroadcastServiceProvider::class , dòng này ban điầu đang được comment lạ, chúng ta bỏ comment nó đi. Sau đó kéo xuống dưới và thêm dòng sau vào cuối mảng aliases:

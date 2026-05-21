@@ -1,0 +1,1 @@
+Định tuyến: Vệc định tuyến ứng dụng trong Laravel cũng được tếp cận rất lnh hoạt, giúp mở rộng ứng dụng tốt hơn mà vẫn điảm bảo hiệu năng.

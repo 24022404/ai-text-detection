@@ -1,0 +1,1 @@
+Một số giải pháp sử dụng các cơ sở dữ liệu khác như MySQL hay Microsoft SQL điều tỏ ra không hiệu quả do ĐATN cần lưu trữ dữ liệu và cấu trúc thường xuyên thay đổi.

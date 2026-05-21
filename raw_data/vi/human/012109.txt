@@ -1,0 +1,1 @@
+Quản lý kho: Theo dõi số lượng hàng còn lại trong kho để cung cấp dữ liệu cho việc quản lý nguyên liệu.

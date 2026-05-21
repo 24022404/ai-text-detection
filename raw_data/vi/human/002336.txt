@@ -1,0 +1,1 @@
+MongoDB, là cơ sở của ngăn xếp MERN, được thiết kế điển lưu trữ dữ liệu JSON nguyên bản. Mọi thứ trong đó, bao gồm CLO và ngôn ngữ truy vấn, được xây dựng bằng JSON và JS. Hệ quản trị cơ sở dữ liệu NoSQL hoạt động tốt với NodeJS và do đó, cho phép thao tác, biểu diễn và lưu trữ dữ liệu JSON ở mỗi cấp của ứng dụng.

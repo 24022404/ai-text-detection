@@ -1,0 +1,9 @@
+Objective: Neural network pruning aims to reduce model size and computation without sacrificing performance, yet existing methods often degrade gradient propagation and model stability. This paper investigates dynamical isometry—the property that the singular values of a network’s input–output Jacobians remain close to one—as a critical factor for effective pruning.
+
+Methods: We introduce a pruning framework that explicitly enforces dynamical isometry throughout iterative weight removal. Starting from orthogonally initialized weights, our approach alternates between magnitude-based pruning and a lightweight spectral rescaling step that realigns layerwise Jacobian singular values. We quantify isometry via the condition number of each layer’s Jacobian and use this metric to guide rescaling intensity.
+
+Results: On CIFAR-10, CIFAR-100, and ImageNet benchmarks with ResNet and VGG architectures, our method achieves up to 90% sparsity with less than 1.5% top-1 accuracy drop—outperforming standard magnitude pruning by 2–4%. We observe a strong correlation (ρ>0.85) between preserved dynamical isometry and post-pruning accuracy, confirming that stable signal propagation underlies robustness to high sparsity.
+
+Conclusion: By revealing the pivotal role of dynamical isometry in pruning, this work provides both theoretical insight and a practical algorithm for high-performance model compression. Our findings suggest that ensuring near-isometric transformations is a general principle for future pruning and efficient deep-learning design.  
+
+Keywords: neural network pruning, dynamical isometry, model compression, gradient flow, sparsity, deep learning.

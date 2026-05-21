@@ -1,0 +1,1 @@
+Worm A worm is a subset of trojan horse attack that can propagate or self-replicate from one computerto another without human acti vation after breaching a system.

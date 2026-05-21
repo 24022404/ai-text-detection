@@ -1,0 +1,1 @@
+Technical Overview The GUI Manager is designed as a lightweight library, making it easy to install and import into the Unity engine platform. As a result, the package does not require high system resources. Specifically, the details are as follows:

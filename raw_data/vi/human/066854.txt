@@ -1,0 +1,1 @@
+Sử dụng Droplet của Digitalocean điểm trên kho ứng dụng cũng cho phép người dùng tùy chỉnh và cấu hình mô trường máy chủ ảo của họ để phù hợp với nhu cầu của ứng dụng. Ngoài ra, Digitalocean cũng cung cấp nhiều hình ảnh (mage) ứng dụng phổ biến điểm giảm thiểu thờ gan cài đặt và cấu hình.

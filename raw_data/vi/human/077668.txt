@@ -1,0 +1,1 @@
+Để ngăn chặn tấn công XSS, các nhà phát triển có thể áp dụng các biện pháp bảo vệ sau:

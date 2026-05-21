@@ -1,0 +1,1 @@
+Biểu đồ thực thể liên kết giữa Rocket và Attendance Bảng attendance: bảng này quản lý thông tin chấm công của nhân viên, bao gồm các thông tin như ngày làm việc, kiểu công, giờ vào làm, giờ tan làm, số giờ làm việc, số công được tính, trạng thái đi muộn, về sớm của ngày hôm đó, số giờ tăng ca, v.v.

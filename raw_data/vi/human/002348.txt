@@ -1,0 +1,1 @@
+Module thứ 2 là 1 server được viết bằng NodeJs có 2 nhiệm vụ chính: Một là nhận dữ lệu thu thập được từ module thứ nhất và lưu vào cơ sở dữ lệu. Ha là đảm nhận việc xử lý các request đến từ module thứ 3.

@@ -1,0 +1,1 @@
+The first skill (Figure 3.3): Character will summon a sword and slash at the enemy in front, all hit monsters will show their hidden word.

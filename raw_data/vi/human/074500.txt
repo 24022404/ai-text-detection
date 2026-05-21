@@ -1,0 +1,1 @@
+State: Là trạng thái của một thành phần, có thể thay đổi trong quá trình thực thi của ứng dụng. Kh trạng thái của một thành phần thay đổi, React Native sẽ tự động cập nhật lại giao diện.

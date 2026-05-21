@@ -1,0 +1,1 @@
+SQLite3 : Provides a lightweight and efficient database solution for storing analysis results, user data, and application configurations. Its simplicity andfile-based storage are well-suited for development and small-scale deploy ment.

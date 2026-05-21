@@ -1,0 +1,1 @@
+A feature vector is an n-dimensional, numeric vector that encapsulates the features of a single data point within a dataset. In order for machine learning models to be effectively trained, datasets need to be transformed into sets of these feature vectors, as models require structured numeric input to learn patterns and relationships.

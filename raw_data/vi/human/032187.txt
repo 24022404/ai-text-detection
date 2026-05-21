@@ -1,0 +1,1 @@
+Độ tin cậy cao: PostgreSQL hỗ trợ gạo transactions ACID (Atomicity, Con sstency, Isolation, Durability) điểm đảm bảo tính toàn vẹn và đồng nhất của dữ liệu. Nó cung cấp các cơ chế rollback và redo điểm phục hồi dữ liệu sau khi có sự cố.

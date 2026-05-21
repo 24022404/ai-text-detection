@@ -1,0 +1,1 @@
+A check is made to validate the checksum parameter using the is_md5() function to ensure it’s a valid MD5 hash.

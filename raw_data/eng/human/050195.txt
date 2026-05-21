@@ -1,0 +1,1 @@
+apps/ : A folder containing individual Django apps. Each app is a separate module that may include models, views, URLs, migrations, etc.

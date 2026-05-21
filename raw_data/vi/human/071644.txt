@@ -1,0 +1,1 @@
+Tên Use case Mô tả tóm tắt Quyên góp quỹ chung Nhà hảo tâm sẽ điền thông tin để nhận mã QR chuyển khoản, chuyển khoản thông qua mã QR và chờ kết quả sau 515p. Số tiền này sẽ dùng chung cho các trung tâm tùy theo yêu cầu của từng trung tâm.

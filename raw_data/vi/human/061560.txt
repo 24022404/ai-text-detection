@@ -1,0 +1,1 @@
+Input: Ngườ dùng điã điăng nhập và cố gắng truy cập vào thông tin của người dùng khác bằng cách sửa đổi các tham số URL.

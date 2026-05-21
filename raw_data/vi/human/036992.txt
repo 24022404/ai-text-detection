@@ -1,0 +1,1 @@
+WebSoket là công nghệ hỗ trợ giao tếp ha chều gữa client và server bằng cách sử dụng một TCP socket điể tạo một kết nố hiệu quả và ít tốn kém. Mặc dù điược thết kế điể chuyên sử dụng cho các ứng dụng web, nhà phát trển vẫn có thể điưa chúng vào bất kì loạ ứng dụng nào.

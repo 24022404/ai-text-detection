@@ -1,0 +1,1 @@
+Yêu cầu ứng dụng đáp ứng gần thờ gan thực, cập nhật thông tin chấm công của người dùng sau một khoảng thờ gan ngắn.

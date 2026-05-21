@@ -1,0 +1,1 @@
+Yêu cầu về bảo vệ nội dung Các video php của web phải được bảo vệ.3.1 Html HTML là viết tắt của Hypertext Markup Language  (hay là Ngôn ngữ đánh dấu siêu văn bản) được tạo ra bởi nhà vật lý học Tim Berners Lee năm 1980 dùng để xây dựng và cấu trúc các thành phần trong trang web. Người ta thường sử dụng HTML trong việc phân chia các đoạn văn, heading, links, blockquotes, . . .

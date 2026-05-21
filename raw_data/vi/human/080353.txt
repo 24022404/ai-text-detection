@@ -1,0 +1,1 @@
+Hàm update Association nhận điầu vào là danh sách khách hàng và định danh phân khúc và ghi dữ lệu vào bảng 4.3.

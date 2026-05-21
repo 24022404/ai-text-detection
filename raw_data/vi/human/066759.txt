@@ -1,0 +1,1 @@
+Tóm lạ, hướng phát triển tương lai của đồ án nên tập trung vào việc cải thiện tính năng, hiệu suất, khả năng tích hợp và phân tích, cũng như tận dụng các công nghệ mới để nâng cao hiệu quả và tính tiện ích của công cụ. Trygve Kjell Heyerdahl Reenskaug, Model View Controller (MVC) Architecture: A Design Pattern for Organized and Scalable Software Development .

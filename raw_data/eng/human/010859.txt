@@ -1,0 +1,1 @@
+Traditional self-training ,  techniques have an important weakness: the majority of them ignore explicit domain alignment. Due to the negative transfer, pixel features from distinct domains but belonging to the same semantic class may be transferred farther away even when target samples have perfect pseudo-labeling.

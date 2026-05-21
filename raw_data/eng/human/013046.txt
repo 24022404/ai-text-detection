@@ -1,0 +1,1 @@
+A. Banks and E. Porcello, Learning React: functional web development with React and Redux . " O’Reilly Media, Inc.", 2017.

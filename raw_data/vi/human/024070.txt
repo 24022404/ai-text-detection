@@ -1,0 +1,1 @@
+Lập trình hướng sự kiện và bất đồng bộ: Toàn bộ API trong thư viện NodeJS điều bất đồng bộ. Một server sử dụng NodeJS sẽ không bao giờ chờ một API trả về dữ lệu mà sẽ chuyển sang API kế tiếp sau đó và cơ chế thông báo Events trong NodeJS sẽ giúp server nhận được phản hồi từ lần gọi API trước.

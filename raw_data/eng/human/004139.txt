@@ -1,0 +1,1 @@
+MySQL is an open-source relational database management system that is widely used for storing and managing data in web applications. It was developed by Oracle Corporation and is available under the GNU General Public License.

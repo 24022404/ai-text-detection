@@ -1,0 +1,1 @@
+Trên đây là toàn bộ các công nghệ được sử dụng để xây dựng giao diện cho hệ thống. Tuy nhiên, một hệ thống không chỉ bao gồm giao diện mà còn phải có phần xử lý logic. Về phần xử lý logic này, công nghệ được chọn điểm đáp ứng yêu cầu hệ thống là ngôn ngữ lập trình Python với framework Flask.

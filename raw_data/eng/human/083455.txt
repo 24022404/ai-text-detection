@@ -1,0 +1,1 @@
+An User can learn multiple Lesson, and vice versa; Each will create a corre sponding record with finished value. A Lesson might contain an Exercise. WhenUser do the exercise, the system also create an attempt record. An User with spec ified roles can create Exercises and Lessons. Users can also comment on multiple lessons.

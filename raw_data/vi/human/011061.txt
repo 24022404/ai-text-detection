@@ -1,0 +1,1 @@
+Hỗ trợ quá trình phát triển nhanh chóng: Và đặc điểm hoạt động độc lập của từng thành phần, các lập trình viên có thể làm việc đồng thờ trên từng bộ phận khác nhau của mô hình này. MVC giúp tiết kệm rất nhiều thờ gần và công sức phát triển.

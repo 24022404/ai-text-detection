@@ -1,0 +1,1 @@
+Tần điều kiện: Website của khách hàng cần có hệ thống xác thực người dùng và cần có d của người dùng đã đăng nhập Hậu điều kiện:

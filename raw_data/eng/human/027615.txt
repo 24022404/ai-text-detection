@@ -1,0 +1,1 @@
+Permutations, partitions and subsets of ndistinct symbols n, setSnmay not always contain any U-cycles, such as n= 3. All 6permutations can travel is of length 4, for instance, 123→231→312→123, which still lacks 132,321.

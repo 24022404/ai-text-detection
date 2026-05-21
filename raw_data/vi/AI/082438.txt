@@ -1,0 +1,39 @@
+Mô phỏng hình dao động định đều hòa bằng ngôn ngữ Python
+
+Hình dao động định đều hòa là một trong những mô hình cơ bản trong vật lý học, mô tả sự dao động của một hệ thống theo thời gian. Trong bài viết này, chúng ta sẽ tìm hiểu cách mô phỏng hình dao động định đều hòa bằng ngôn ngữ Python.
+
+Mô hình dao động định đều hòa được mô tả bằng phương trình:
+
+x(t) = A * cos(ωt + φ)
+
+trong đó:
+
+- x(t) là vị trí của hệ thống tại thời điểm t
+- A là biên độ dao động
+- ω là tần số dao động
+- φ là pha ban đầu
+
+Để mô phỏng hình dao động định đều hòa bằng Python, chúng ta có thể sử dụng thư viện NumPy và matplotlib. Dưới đây là một ví dụ đơn giản:
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Định nghĩa các tham số
+A = 1  # Biên độ dao động
+ω = 2 * np.pi  # Tần số dao động
+φ = 0  # Pha ban đầu
+t = np.linspace(0, 10, 1000)  # Thời gian từ 0 đến 10 giây với 1000 điểm
+
+# Tính toán vị trí của hệ thống tại mỗi thời điểm
+x = A * np.cos(ω * t + φ)
+
+# Vẽ đồ thị vị trí của hệ thống theo thời gian
+plt.plot(t, x)
+plt.xlabel('Thời gian (s)')
+plt.ylabel('Vị trí (m)')
+plt.title('Hình dao động định đều hòa')
+plt.show()
+```
+
+Kết quả sẽ là một đồ thị hình sin mô tả sự dao động của hệ thống theo thời gian.

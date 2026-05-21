@@ -1,0 +1,1 @@
+Vớ sơ đồ thực thể ERD, hình ảnh 4.112 dưới đây sẽ mô tả các thực thể quan trọng trong hệ thống, các thuộc tính của từng thực thể và mối quan hệ giữa các thực thể.

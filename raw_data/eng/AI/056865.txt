@@ -1,0 +1,1 @@
+H. Fredricksen and J. Maiorana's article explores the link between necklaces of beads in k colors and k-ary de Bruijn sequences, offering key combinatorial insights.

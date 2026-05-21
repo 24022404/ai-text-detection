@@ -1,0 +1,1 @@
+Xóa khách hàng Thay thế/ Ngoại lệ  Khi xóa khách hàng, hệ thống sẽ thông báo có chắc chắn muốn xóa hay không.

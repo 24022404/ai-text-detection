@@ -1,0 +1,1 @@
+Người bán sẽ có chức năng theo dõi đơn hàng, quản lý thực đơn, xem báo cáo giúp cho người bán biết được công việc doanh thu và lợi nhuận.

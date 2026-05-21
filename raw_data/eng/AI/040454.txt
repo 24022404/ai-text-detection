@@ -1,0 +1,1 @@
+F. J. MacWilliams and N. J. Sloane examine pseudo-random sequences and arrays, detailing their properties, construction, and key uses.

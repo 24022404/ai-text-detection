@@ -1,0 +1,1 @@
+Một bộ mã hóa Transformer thuần túy học các bểu dễn trên không gan ẩn của dữ liệu điầu vào.

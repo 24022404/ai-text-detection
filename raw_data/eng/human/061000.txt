@@ -1,0 +1,1 @@
+Additionally, it showcases the top-performing provider’s detailed statistics such as total earnings, appointments served, customer satisfaction (houseman), and thenumber of services rendered. These dashboards aim to offer valuable insights and facilitate efficient service management for both customers and providers(4.16).

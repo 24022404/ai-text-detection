@@ -1,0 +1,1 @@
+A (k, s)-RdB graph is a labeled graph designed to represent (k, s)-RdB sequences; in this graph, each simple path corresponds to a (k, s)-RdB sequence, much like de Bruijn graphs represent sequences.

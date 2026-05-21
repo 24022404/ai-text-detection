@@ -1,0 +1,1 @@
+Các button thêm mới và lưu được thiết kế vớ background màu đỏ (mã màu FE4C50) các con kèm theo và chữ trắng (mã màu #FFF), border radius được đặt là 4px. Khi hover vào button, background color sẽ chuyển sang màu đỏ nhạt (mã màu FE7C7F).

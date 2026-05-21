@@ -1,0 +1,1 @@
+Nonmax suppression: Đây là một kỹ thuật hướng tới việc loại bỏ những hộp giới hạn bị trùng lặp được chồng lên nhau của cùng một đối tượng bằng cách chọn hộp chứa nhiều đặc trưng nhất và loại bỏ những hộp giới hạn khác.

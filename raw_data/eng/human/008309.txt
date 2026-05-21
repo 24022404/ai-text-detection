@@ -1,0 +1,1 @@
+Fig. 4.7 illustrates the interface design of login for merchant function.Figure 4.7: login for merchant function b, Setting interface This page will be divided into 1 main section, the left part will be tabs to select the page including setting page and term. on the right will be the display of the changeable elements of the search page.

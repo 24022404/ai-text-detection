@@ -1,0 +1,1 @@
+Số fle Số dòng trống Số dòng comment Số dòng code Dung lượng Backend 674 32331 44912 169370 62MB Xử lý nghiệp vụ 9 233 0 1045 84 KB Chức năng hỗ trợ 14 51 143 2246 12MB Thư viện sử dụng 651 32047 44769 166079 50MB Bảng 4.5: Bảng thông tin về ứng dụng phần backend 4.3.3 Mnh họa các chức năng chính Sau quá trình triển khai, hệ thống đã hoàn tất và có các chức năng chính sau đây.

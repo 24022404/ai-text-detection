@@ -1,0 +1,1 @@
+Trong đồ án này, chúng tôi sử dụng Docker  điểm cài đặt một số mô trường điểm thực hiện comple một và ngôn ngữ lập trình. Ngoài ra, chúng tôi còn sử dụng docker điểm triển khai và deploy hệ thống.

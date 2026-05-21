@@ -1,0 +1,1 @@
+Việc phòng chống đánh cắp dữ liệu trả về từ truy cập tới máy chủ website là rất quan trọng, vì nó liên quan đến việc bảo vệ thông tin cá nhân và dữ liệu của người dùng. Tạ sao việc phòng chống đánh cắp dữ liệu trả về từ truy cập tới máy chủ website rất quan trọng là bởi vì những nguyên do sau:

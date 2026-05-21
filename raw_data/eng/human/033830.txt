@@ -1,0 +1,1 @@
+Matrix decomposition: This involves breaking down a matrix into simpler components, such as the LU decomposition or the QR decomposition.

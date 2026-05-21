@@ -1,0 +1,1 @@
+Cộng đồng lớn: PHP có một cộng đồng lớn và sô động với nhiều tài lệu, thư viện và framework được phát triển điểm hỗ trợ cho việc phát triển ứng dụng web.

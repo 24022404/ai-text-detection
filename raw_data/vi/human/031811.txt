@@ -1,0 +1,1 @@
+Kến trúc Transformer Hình 3.1: Kến trúc Transformer  Transformer sử dụng kiến trúc mã hóa  gả mã và cơ chế attenton điể xử lý chuỗ dữ liệu điầu vào (Hình 3.1). Nó bao gồm một tập hợp các lớp mã hóa và các lớp gả mã có cấu trúc tương tự nhau. Mỗ lớp bao gồm ha phần chính: lớp tựchú ý (selfattenton layer) và lớp mạng nơron truyền thẳng (feedforward neural network layer).

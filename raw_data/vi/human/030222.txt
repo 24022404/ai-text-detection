@@ -1,0 +1,1 @@
+PostgreSQL là một hệ quản trị cơ sở dữ lệu mã nguồn mở điược ưa chuộng hàng điầu, điược phát trển, phân phố và hỗ trợ bở phòng khoa học máy tính tạ điạ học Calforna. PostgreSQL điược thết kế điể chạy trên các nền tảng tương tự UNIX.

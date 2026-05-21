@@ -1,0 +1,1 @@
+lerp(a, b, t ) =a∗(1−t) +b∗t, where t∈[0; 1] If we plugging in current position and server’s new position for aandb, the client would be able to catching up to the most recent state passed to us from the server.

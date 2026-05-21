@@ -1,0 +1,1 @@
+When there are four or five neighbors, the algorithm will take into account more objects that are comparable. Although it may compromise diversity, this can increase the recommendations’ accuracy.

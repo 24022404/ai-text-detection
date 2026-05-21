@@ -1,0 +1,1 @@
+Chính vì thế, VueJS được đánh giá là phù hợp cho một ứng dụng cần phải phát triển nhanh, hoạt động ổn định và dễ bảo trì, dễ mở rộng.

@@ -1,0 +1,1 @@
+Correct account, check account permissions, activity status, and check tokens. Correctly create and save the token to the session and save the cookie, to the home page.

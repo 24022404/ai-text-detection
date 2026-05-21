@@ -1,0 +1,1 @@
+Từ những phân tích và khảo sát ở trên, tôi quyết định xây dựng website mạng xã hội video. Chúng ta có thể thấy, nhu cầu xem sẽ ngày càng tăng trong tương lai, đò hỏ phần mềm luôn phải thực hiện các thay đổi để phù hợp với nhu cầu tăng cao đó. Chính vì điều này, tôi chọn xây dựng phát triển phần mềm trên nền tảng web.

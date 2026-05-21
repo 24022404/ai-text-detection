@@ -1,0 +1,1 @@
+JW Player là một chương trình flash mã nguồn mở dùng để phát nhạc, vdeo, streamng được sử dụng phổ bến ở các trang web, blog, dễn điàn, . . . JW Player được phát trển vào năm 2005 được phát trển bở công ty cùng tên tạ Mỹ. JW Player cho phép người dùng lưu trữ, quản lý vdeo và nhúng vdeo vào các trang web .

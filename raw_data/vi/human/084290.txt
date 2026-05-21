@@ -1,0 +1,1 @@
+Ứng dụng trong nông nghiệp: hệ thống phun thuốc sâu tự động có khả năng phân biệt được diện tích cỏ và cây trồng dựa trên thuật toán phân vùng ảnh, do đó có thể tiết kiệm được lượng lớn thuốc trừ sâu, đồng thờ kh diện tích cỏ lấn át so với diện tích cây trồng thì hệ thống có thể tự động được kích hoạt.

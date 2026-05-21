@@ -1,0 +1,1 @@
+When customers agree to buy, employees are responsible for making invoices for customers. Staff will save product information, customers with payment meth-ods, and payment status. Then can only edit the payment status of the order When there is a new customer, the staff enters the customer information and saves it.

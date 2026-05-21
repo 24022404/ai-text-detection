@@ -1,0 +1,1 @@
+This thesis aims to address the previously highlighted constraint associated with two FL algorithms FedAvg and FedAdp by introducing a novel algorithm termed Federated Impurity Weighting (FedImp). Our observation reveals the diversity in contributions made by different nodes during the process of global model aggregation.

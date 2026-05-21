@@ -1,0 +1,1 @@
+NLP Engine là thành phần cốt lõi của kiến trúc chatbot. Nó diễn tả những gì người dùng nó và chuyển đổi thành các đầu vào có cấu trúc mà hệ thống có thể xử lý. Công cụ NLP sử dụng các thuật toán học máy nâng cao điểm xác định ý định của người dùng và sau đó đối sánh nó với danh sách ý định được hỗ trợ của bot.

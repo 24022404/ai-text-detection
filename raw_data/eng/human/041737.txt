@@ -1,0 +1,1 @@
+Detailed package design a, Front-end detail package design The detailed package design for the front-end is described in figure 4.3:

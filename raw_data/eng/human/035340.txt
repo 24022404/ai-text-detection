@@ -1,0 +1,1 @@
+Scripts: Script are a Component in Unity. This is an essential component used to interact with player actions, or manage events to change the direction of the game in accordance with the game scenario. Unity gives programmers the ability to write script in C #language.

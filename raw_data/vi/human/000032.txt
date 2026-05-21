@@ -1,0 +1,1 @@
+Đa mục đích: Python có thể được sử dụng điểm phát triển các loại ứng dụng đa dạng, từ ứng dụng web, phần mềm máy tính, đến trí tuệ nhân tạo, khoa học dữ liệu và hệ thống.

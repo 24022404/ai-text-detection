@@ -1,0 +1,1 @@
+Requirement Analysis: Analyzing the system’s requirements, business pro cesses, and particularly the behavior of end-users to thoroughly understand the project’s needs and goals. This ensures that the interface is designed to meet the correct requirements and deliver the best user experience.

@@ -1,0 +1,1 @@
+x´=W1·x+W2·mean j∈N()xj (3.3) Nhận thấy sự quan trọng từ thông tin của vectơ nhúng văn bản mang lại, em thực hiện nối vectơ nhúng văn bản và vectơ đặc trưng đồ thị tạo thành một vectơ tổng hợp, làm đầu vào cho mô đun tiếp theo.

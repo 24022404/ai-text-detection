@@ -1,0 +1,1 @@
+Độ bão hoà (Saturation): Đây là chỉ số thể hiện sự thuần khiết trong màu sắc của một bức ảnh. Với độ bão hòa càng cao thì màu sắc trong bức ảnh sẽ trong hơn và ngược lạ.

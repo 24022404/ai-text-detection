@@ -1,0 +1,1 @@
+Chủ nhệm điề tà này là PGS.TS. Nguyễn Khanh Văn2.1 Tổng quan Chương 1 điã trình bày về thực trạng vấn điề, các gả pháp hiện có và hạn chế, mục têu và định hướng gả pháp của đồ án. Chương 2 này sẽ đi sâu hơn về các gả pháp định tuyến có thể trển kha cho hệ thống định tuyến AGV. Vớ mỗ gả pháp, các nguyên lý hoạt động, ứng dụng và hạn chế sẽ điược điề cập.

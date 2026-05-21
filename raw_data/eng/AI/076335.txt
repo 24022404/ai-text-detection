@@ -1,0 +1,9 @@
+This paper investigates the impact of Q-function reuse on the total regret experienced during the learning processes within tabular, model-free reinforcement learning frameworks. The aim is to determine whether leveraging previously acquired Q-functions can enhance learning efficiency and reduce cumulative regret.
+
+Methods/Approach: We introduce a novel approach to incorporate Q-function reuse in tabular model-free reinforcement learning, utilizing a mechanism that integrates past Q-values into the learning pipeline. This approach is designed to optimize the exploration-exploitation balance by leveraging historical data to inform decision-making. Key algorithms are evaluated and compared using standard reinforcement learning benchmarks to assess their performance.
+
+Results/Findings: Our experimental results demonstrate a significant reduction in total regret when Q-function reuse is employed. Specifically, the integration of previously acquired Q-functions leads to faster convergence and improved learning efficiency across various reinforcement learning tasks. The modified learning algorithms outperform traditional approaches, underscoring the potential benefits of this reuse strategy.
+
+Conclusion/Implications: The study highlights the advantages of Q-function reuse in model-free reinforcement learning, showing a clear reduction in cumulative regret and enhanced overall performance. This research provides valuable insights for the development of more efficient learning systems, with potential applications in autonomous decision-making systems and adaptive control environments. Future work will explore extending this approach to more complex and scalable reinforcement learning scenarios.
+
+Keywords: Q-function reuse, tabular reinforcement learning, model-free learning, total regret, learning efficiency, exploration-exploitation balance.

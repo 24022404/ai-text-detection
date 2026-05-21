@@ -1,0 +1,1 @@
+Yêu cầu kỹ thuật Hệ thống được phân quyền theo từng chức năng ở cả 2 phía máy chủ và máy khách Sử dụng JWT, captcha, OTP qua email để xác thực người dùng Cung cấp phản hồi cho mọi thao tác của người dùng, đồng thời phân biệt được lỗ người dùng và lỗ do hệ thống.

@@ -1,0 +1,1 @@
+Công nghệ sử dụng Các web framework địa diện cho một tập hợp các thư viện và môđun cho phép các nhà phát triển web viết mã, không cần lo lắng về các ch tết cấp thấp như gao thức, quản lý luồng.

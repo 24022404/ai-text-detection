@@ -1,0 +1,1 @@
+–Cơ chế trò chơi và thử thách  Các cấp độ được tạo ngẫu nhiên và tăng dần độ khó tạo ra một loạt các cuộc chạm trán với kẻ thù đầy thách thức.

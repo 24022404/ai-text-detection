@@ -1,0 +1,1 @@
+Gả pháp Để gả quyết được vấn điề đó, gả pháp là kh mỗ user muốn chia sẻ thông tin (đăng Blog mớ) thì những Blog đó sẽ được lst vào danh sách chờ Admn duyệt. Sau khi được phê duyệt thì Blog đó mớ được up lên hệ thống. Trừ tác nhânModerator (chuyên ga ẩm thực) họ sẽ được đăng Blog mà không cần qua sự kểm duyệt của Admn.

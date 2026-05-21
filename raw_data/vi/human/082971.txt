@@ -1,0 +1,1 @@
+request_type: Lưu trữ thông tin về loại yêu cầu về tài khoản. Mỗ loại sẽ ứng với nhiều account request.

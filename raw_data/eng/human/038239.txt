@@ -1,0 +1,1 @@
+# Actor Action 1 User Submit the login form 2 System Check the username and password 3 System Redirect into dashboard Table 2.3: Main flow of use case login Alternative Flows is described in table2.4:

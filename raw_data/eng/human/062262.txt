@@ -1,0 +1,1 @@
+Providers are empowered to accept or dec appointments made by cus tomers, although declining appointments may result in point deductions and impact their overall rating. Additionally, providers can effectively manage their list of services using CRUD functions and maintain control over their account settings.

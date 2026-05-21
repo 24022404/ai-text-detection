@@ -1,0 +1,1 @@
+Elasticsearch cho phép tìm kiếm dữ liệu sai chính tả theo sai số nhất định bằng hàm "fuzzy" có khả năng tìm gần đúng theo giá trị đầu vào. Chúng tôi đã áp dụng vào điểm tìm kiếm các nội dung như ghi chú, thông tin sản phẩm có trong đơn hàng.

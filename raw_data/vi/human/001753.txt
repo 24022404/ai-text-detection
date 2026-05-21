@@ -1,0 +1,1 @@
+MySQL điược sử dụng rộng rã trong các ứng dụng web, điặc bệt là các trang web có lưu lượng truy cập cao. MySQL cũng là một phần của các bộ công cụ LAMP(Lnux, Apache, MySQL, PHP/Python/Perl), MAMP (Mac, Apache, MySQL, PH P/Python/Perl) và WAMP (Wndows, Apache, MySQL, PHP/Python/Perl).

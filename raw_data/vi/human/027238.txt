@@ -1,0 +1,1 @@
+Xử lý ảnh vệ tinh: các vệ tinh nhân tạo quay quanh Trái Đất sẽ lên tục thu thập hình ảnh bề mặt Trái Đất ở những vùng khác nhau. Từ các bức ảnh vệ tinh này, mô hình phân vùng ảnh sẽ phân ảnh thành tuyến đường, khu phố, bên, cây cố, . . .

@@ -1,0 +1,1 @@
+Người dùng sẽ gửi yêu cầu bao gồm dữ liệu là tên đăng nhập( như đồ án môn học sẽ là email), mật khẩu tớ cho server.

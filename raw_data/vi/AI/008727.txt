@@ -1,0 +1,9 @@
+Phân tích so sánh các phương pháp ra quyết định đa tiêu chí là một chủ đề quan trọng trong lĩnh vực quyết định kinh doanh. Trong bài toán lựa chọn phương án, các nhà quản lý và chuyên gia phải đối mặt với nhiều yếu tố khác nhau, bao gồm chi phí, hiệu suất, thời gian, và chất lượng.
+
+Để giải quyết vấn đề này, các phương pháp ra quyết định đa tiêu chí được áp dụng, bao gồm:
+
+- Phương pháp AHP (Analytic Hierarchy Process): Phương pháp này sử dụng một hệ thống phân cấp để đánh giá các tiêu chí và phương án.
+- Phương pháp TOPSIS (Technique for Order Preference by Similarity to Ideal Solution): Phương pháp này sử dụng một hệ thống để đánh giá các phương án và chọn ra phương án tốt nhất.
+- Phương pháp VIKOR (Vise Kriterijumska Optimizacija I Kompromisno Resenje): Phương pháp này sử dụng một hệ thống để đánh giá các phương án và chọn ra phương án tốt nhất.
+
+Mỗi phương pháp đều có ưu và nhược điểm riêng, và việc chọn phương pháp phù hợp sẽ phụ thuộc vào đặc điểm của bài toán và mục tiêu của quyết định. Việc phân tích và so sánh các phương pháp này sẽ giúp các nhà quản lý và chuyên gia đưa ra quyết định chính xác và hiệu quả hơn.

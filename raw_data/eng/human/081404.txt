@@ -1,0 +1,1 @@
+Leveraging the Transformer architecture  and trained on a substantial amount of data, the PRIMERA model exhibits excellent performance in generating grammatically and semantically correct summaries, showcasing its proficiency in capturing contextual meaning.

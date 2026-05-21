@@ -1,0 +1,1 @@
+Tếp theo, ở Chương 3, em giới thiệu về lý thuyết Dự báo chuỗ thờ gan (Tme Seres Forecastng). Ở chương này, một số phương pháp dự báo chuỗ thờ gan cụ thể điược điề cập, phân tích. Trong số các phương pháp điược điề cập, bến thể Exponental Smoothng với hệ số tùy chọn thích ứng sẽ khắc phục điược một số hạn chế còn tồn tạ.

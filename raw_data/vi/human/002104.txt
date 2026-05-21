@@ -1,0 +1,1 @@
+Quản lý điơn hàng : Magento cung cấp một hệ thống quản lý điơn hàng gúp người dùng dễ dàng quản lý các điơn hàng, điặt lạ các điơn hàng trước đió và theo dõ tình trạng điơn hàng.

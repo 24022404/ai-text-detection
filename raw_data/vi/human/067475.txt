@@ -1,0 +1,1 @@
+Cuối cùng, trong chương này sẽ trình bày về kết quả đạt được, sinh hoạt các chức năng chính, kiểm thử và triển khai ứng dụng.

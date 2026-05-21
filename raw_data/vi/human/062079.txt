@@ -1,0 +1,1 @@
+Tầng Controller: Mỗ một nhiệm vụ của hệ thống sẽ có 1 controller xử lý, chịu trách nhiệm truy vấn dữ liệu trên modem để thực thi nhiệm vụ. Ví dụ: () Nhiệm vụ quản lý đơn hàng sẽ được viết trong class OrderController; () Nhiệm vụ quản lý sản phẩm sẽ được đặt trong class ProductsController.

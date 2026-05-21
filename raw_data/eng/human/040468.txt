@@ -1,0 +1,1 @@
+Scenes: In Unity, a Scene is a game scene, the game space where the layout of GameObject is set, or a part containing interface settings such as in-game menus.

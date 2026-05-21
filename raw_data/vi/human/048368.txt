@@ -1,0 +1,1 @@
+Gửi thông báo messenger tự động Facebook đã cung cấp API cho phép gửi tin nhắn messenger đến người dùng.

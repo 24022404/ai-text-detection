@@ -1,0 +1,1 @@
+Mô hình AscentNet: () learning rate: 0,0001 () active function: categorical_crossentropy () dropout: 0,2 (v) thêm 3 lớp sau mô hình ban đầu: Global Average Pool g2D, Batch Normalization và Dense.

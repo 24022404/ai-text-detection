@@ -1,0 +1,1 @@
+Chapter 4 will explain the design architecture of each library and its functions used in the game. This chapter will provide a detailed breakdown of each library’s structure and functionalities, including how they are integrated into the game.

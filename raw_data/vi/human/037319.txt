@@ -1,0 +1,1 @@
+Watermark giúp xác định chính xác người sở hữu ảnh và tránh việc sử dụng ảnh một cách trá phép hoặc không được phép. Người sử dụng sẽ cân nhắc hơn khi sử dụng ảnh có watermark để tránh bị kiện tụng về vi phạm bản quyền.

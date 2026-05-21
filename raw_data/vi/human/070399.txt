@@ -1,0 +1,1 @@
+Mã thông báo web JSON (JWT) là một têu chuẩn mở (RFC 7519) xác định một cách nhỏ gọn và khép kín để truyền thông tin một cách an toàn gữa các bên dưới dạng điố tượng JSON. Thông tin này có thể được xác mnh và tin cậy vì nó được ký điện tử. JWT có thể được ký bằng bí mật (vớ thuật toán HMAC) hoặc cặp khóa công kha/rêng tư bằng RSA hoặc ECDSA.

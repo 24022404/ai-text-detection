@@ -1,0 +1,1 @@
+Tương tác bài vết Đố vớ bài viết mà người dùng cảm thấy hay, người dùng có thể tương tác “Thích” vớ bài viết. Bà viết được tương tác thích sẽ được tự động lưu vào danh sách các bài viết đã thích của người dùng.

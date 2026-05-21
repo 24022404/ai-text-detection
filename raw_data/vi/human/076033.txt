@@ -1,0 +1,1 @@
+Đặc tả use case Kết nối ví Mã ca sử dụng UC001 Tên ca sử dụng Kết nối ví Tác nhân thực hiện Khách, người dùng Mô tả Khách hoặc người dùng kết nối ví với hệ thống.

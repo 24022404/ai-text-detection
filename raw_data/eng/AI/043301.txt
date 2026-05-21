@@ -1,0 +1,1 @@
+CSS empowers developers to craft responsive designs through the use of media queries, adapting layouts to a variety of devices and screen sizes. Additionally, CSS facilitates the creation of interactive effects and animations, both of which play a key role in enhancing user engagement and satisfaction.

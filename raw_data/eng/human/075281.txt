@@ -1,0 +1,1 @@
+Additionally, the thesis will focus on the development of an on communi cation feature for both customers and service providers. Currently, the app only provides the service provider with the customer’s profile and contact information for direct phone calls. The intention is to enhance the user experience by enabling on communication between customers and providers.

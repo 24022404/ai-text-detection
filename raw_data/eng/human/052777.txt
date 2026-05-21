@@ -1,0 +1,1 @@
+N. Caron, F. Massa, G. Synnaeve, N. User, A. Krylov, and S. Zagoruyko, “End To End object detection with transformers,” in European conference on computer vision , Springer, 2020, pp. 213–229.

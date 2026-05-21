@@ -1,0 +1,1 @@
+Vớ chức năng này, tiền sau khi người mua chuyển sẽ được đưa vào tài khoản Paypal quản trị viên dưới dạng số dư đang chờ xử lý. Khi điơn hàng điã điược gao quản trị viên sẽ đánh dấu là "đã vận chuyển" để rút ngắn thời gian có thể rút tiền. Nếu không, tiền sẽ được gả ngân trong vòng 21 ngày.

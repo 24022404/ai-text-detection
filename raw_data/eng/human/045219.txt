@@ -1,0 +1,1 @@
+A game engine is a software framework primarily designed for the development of video games, and generally includes relevant libraries and support programs.

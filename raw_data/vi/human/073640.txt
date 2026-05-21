@@ -1,0 +1,1 @@
+Chương này sẽ trình bày cho tết 3 mô đun được tích hợp trong mô hình điều xuất, bao gồm: môđun mã hóa, module giả mã và môđun tinh chỉnh đặc trưng. Cuối cùng, sẽ định nghĩa hàm mất mát mà mô hình cần tối ưu.

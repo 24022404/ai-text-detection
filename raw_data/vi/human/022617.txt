@@ -1,0 +1,1 @@
+Đầu vào của bà toán là hình ảnh nộ so được chụp thông qua camera gắn ở cuố ống nộ so trong quá trình kểm tra điạ tràng, dưới điều kện ánh sáng trắng. Đầu ra của bà toán là những hình ảnh mặt nạ trong đó phân tách từng điểm ảnh (pxel) trong mỗ hình về các lớp ngữ nghĩa được định nghĩa trước đó, tương tự vớ bểu dễn như trong Hình 1.4.

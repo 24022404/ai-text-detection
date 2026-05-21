@@ -1,0 +1,1 @@
+Thuộc tính Kểu dữ lệu Khóa blog_comment_d nt Khóa chính content nvarchar(MAX) create_date date flag nt status nt total_ds_lke nt total_lke nt update_date date account_d nt blog_d nt Bảng 4.4: Bảng comment blog.

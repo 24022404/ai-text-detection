@@ -1,0 +1,1 @@
+Go .by chứa các cấu hình và thiết lập cho hệ thống hoặc ứng dụng. Các tập tin này được sử dụng để lưu trữ các giá trị cấu hình tùy chỉnh như các bến, hằng số, đường dẫn tới tệp dữ liệu, thông tin cơ sở dữ liệu, và các thông số khác mà ứng dụng cần điểm hoạt động đúng cách.

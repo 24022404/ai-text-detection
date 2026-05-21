@@ -1,0 +1,1 @@
+Các năng quản lý sản phẩm bao gồm: quản lý danh mục sản phẩm, quản lý các hãng sản xuất, quản lý thuộc tính sản phẩm, quản lý thông tin ch tết của sản phẩm.

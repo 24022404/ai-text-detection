@@ -1,0 +1,1 @@
+Chức năng quyên góp : Gồm có 3 hình thức quyên góp:() quyên góp qua chuyển khoản tớ quỹ chung, () quyên góp qua chuyển khoản tới các quỹ riêng về sự kiện, () yêu cầu quyên góp hiện vật cho quỹ chung hoặc cho 1 sự kiện riêng biệt.

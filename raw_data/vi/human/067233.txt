@@ -1,0 +1,1 @@
+ệ thống phục vụ 24/24. cập nhật database trực tiếp, không bị sai sót mất thông tin người dùng. tương tác nhanh gọn, mượt mà. tốc độ truy xuất thông tin nhanh.

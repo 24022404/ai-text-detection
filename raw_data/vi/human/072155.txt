@@ -1,0 +1,1 @@
+Smart z3, FUSO.ERP4, FaceWorks 5, . . . Những phần mềm này hướng tới xây dựng và quản lý kế hoạch sản xuất theo 2 chiến lược cơ bản : Sản xuất để tồn kho (MTS  Make to stock) và Sản xuất theo đơn đặt hàng (MTO  Make to order).

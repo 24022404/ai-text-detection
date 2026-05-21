@@ -1,0 +1,1 @@
+Proxy có thể được dùng như một application firewall để chống đỡ những cuộc tấn công (như tấn công từ chối dịch vụ) vào các ứng dụng web.

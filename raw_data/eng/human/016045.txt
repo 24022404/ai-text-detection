@@ -1,0 +1,1 @@
+This thesis creates a function that enables users to search and track informa tion on the activity history of each shipment in recognition of the significance of such information for helping businesses manage the shipments of items kept in the warehouse.

@@ -1,0 +1,1 @@
+The Jayson library integrates seamlessly with the Express.js server, allowing the server component of the system to process incoming JSON-RPC requests usingthe specified server-side methods. It offers an elegant and efficient solution for im plementing JSON-RPC communication in Node.js, making it an excellent choice for the communication layer of the system.

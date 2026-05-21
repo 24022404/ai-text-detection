@@ -1,0 +1,1 @@
+Chương 2 trình bày về vấn đề khảo sát hiện trạng và yêu cầu của hệ thống dựa trên các hệ thống đã có. Sau đó em sẽ trình bày về các chức năng chính của hệ thống bằng biểu đồ use case tổng quát. Rồ tiếp đó sẽ đi sâu phân tích 1 số use case quan trọng của hệ thống.

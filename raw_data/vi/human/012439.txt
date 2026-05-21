@@ -1,0 +1,1 @@
+Tìm kếm món ăn hiệu quả Nên gả pháp của đồ án là sẽ quản lý công thức món ăn theo vùng mền (mền bắc, mền trung, mền nam) và theo thể loạ món ăn ví dụ như : món canh, món kho, món xào, món hầm,. . . như vậy sẽ giúp cho việc tìm kếm công thức món ăn nhanh và hiệu quả hơn.

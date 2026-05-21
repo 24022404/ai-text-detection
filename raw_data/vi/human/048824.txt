@@ -1,0 +1,1 @@
+Hệ thống hiển thị thông báo thanh toán nợ thành công và cập nhật số tền nợ mớ của khách hàng.Luồng sự kện phát snh 1. Nhân viên bán hàng truy cập vào giao diện thanh toán nợ trên hệ thống.

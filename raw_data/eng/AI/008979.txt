@@ -1,0 +1,1 @@
+Python, a high-level language known for its easy-to-read syntax, is converted into machine code and supports Mac, Windows, and Linux platforms, making it approachable and accessible for many programmers.

@@ -1,0 +1,1 @@
+Vì một người dùng có thể là người tham gia của nhiều phòng code và một phòng code có thể có nhiều người tham gia. Vậy nên mối quan hệ giữa User và Shared User là 1n, Code Editor Room và Shared User cũng là 1n.

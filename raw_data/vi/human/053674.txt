@@ -1,0 +1,1 @@
+Yêu cầu về tính bảo mật Các yêu cầu được gửi và nhận mã hóa theo chứng chỉ bảo mật SSL và HTTPS.

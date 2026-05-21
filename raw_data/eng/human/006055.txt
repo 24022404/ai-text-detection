@@ -1,0 +1,1 @@
+Is the encoder output representation on the i-thdata point of class r while the mean vector of ris denoted as ¯Zr=1 nPn i=1(Z(r) i). The data representations is explicitly constrained by a class-wise feature decorrelation regularization:

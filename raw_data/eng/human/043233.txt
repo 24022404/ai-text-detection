@@ -1,0 +1,1 @@
+logs: A folder of the system to save the history of requests sent from the client to the server Middle-ware: A class that authenticates requests sent from the client before these requests are processed logically and returns correct data.

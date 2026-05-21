@@ -1,0 +1,1 @@
+Hạn chế về tính năng: Mặc dù MySQL hỗ trợ nhiều tính năng cơ bản của một hệ quản trị cơ sở dữ lệu, nhưng nó có thể thiếu một số tính năng cao cấp và mở rộng của các hệ thống cơ sở dữ lệu lớn hơn như Oracle hay PostgreSQL.

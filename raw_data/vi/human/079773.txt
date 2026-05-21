@@ -1,0 +1,1 @@
+Amazon RDS ngoài cung cấp các tính năng ổn định, còn cung cấp rất nhiều các gói chi phí phù hợp với từng nhu cầu khác nhau của người dùng.

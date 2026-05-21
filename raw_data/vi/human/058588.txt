@@ -1,0 +1,1 @@
+PHP 8.1 là phên bản mớ nhất của ngôn ngữ lập trình PHP, điược phát hành vào ngày 25 tháng 11 năm 2021 với nhều tính năng mớ và cả tến, gúp nâng cao hiệu suất và tính năng của ngôn ngữ PHP.

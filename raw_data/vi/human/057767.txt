@@ -1,0 +1,1 @@
+Chèn thêm vector embedding biểu diễn vị trí của token trong câu (ch tết về vector embedding này có thể tìm thấy trong bài báo về Transformer).

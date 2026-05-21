@@ -1,0 +1,1 @@
+M. Abadi, P. Barham, J. Chen andothers , “Tensorflow: A system for large scale machine learning,” in12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16) 2016, pages 265–283. url:https:

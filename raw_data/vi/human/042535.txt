@@ -1,0 +1,1 @@
+Trong đồ án của mình em sử dụng Coroutines điểm xử lý bất đồng bộ ở các tác vụ đọc/ gh, gọi API lấy dữ lệu từ backend mà không làm ảnh hưởng tới luồng chính (man thread).

@@ -1,0 +1,1 @@
+V . Kantorov andI. Laptev, “Efficient feature extraction, encoding, and classification for action recognition,” inProceedings of the 2014 IEEE Conference on Computer Vision and Pattern Recognition jourser CVPR ’14, USA: IEEE Computer Society, 2014, 2593–2600, ISBN : 9781479951185. DOI:10.1109/CVPR.

@@ -1,0 +1,1 @@
+Hiện tạ, kích thước của vật thể lưu trữ trên cơ sở dữ lệu là cố định, và ứng dụng chưa cho phép người dùng thu phóng vật thể khi xem thực tế. Điều này dẫn đến việc người dùng lựa chọn được một sản phẩm ưng ý nhưng sản phẩm đió lạ không phù hợp về kích thước vớ không gan sử dụng.

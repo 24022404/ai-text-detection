@@ -1,0 +1,1 @@
+Tiếp theo, em sẽ lên kế kho lưu trữ mã nguồn vớ dự án trên Render.com điể tự điộng trển khai ứng dụng từ mã nguồn khi có thay đổi. Kết quả của quá trình triển khai là hệ thống Backed được trên kha thành công trong Render.com.

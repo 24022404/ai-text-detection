@@ -1,0 +1,1 @@
+ChatBoxMemberTableVewCell: Vew hển thị người dùng.4.1.4 Thiết kế ch tết gó User Access Hình 4.6: Thiết kế ch tết gó User AccessHình 4.6 mô tả ch tết gó User Access. Bao gồm các lớp : () SgnInVewCon troller, () SgnUpVewController, () TextInputCell. Trong đió từng lớp có nhệm vụ sau:

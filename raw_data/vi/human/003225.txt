@@ -1,0 +1,1 @@
+Tích hợp TypeScript: Extjs hỗ trợ TypeScript natively, cho phép bạn viết mã JavaScript mạnh mẽ và kiểm tra kiểu tĩnh điểm giảm thiểu lỗ và cải thiện sự hiệu quả trong quá trình phát triển.

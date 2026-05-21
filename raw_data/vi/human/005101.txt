@@ -1,0 +1,1 @@
+Framework Singles  là một trong số đó. Framework này dựa trên các naming conventions của mỗ app để xử lý và tả những app con. Khá dễ dàng để nắm bắt ý tưởng và làm theo các mẫu thiết kế có sẵn của framework này. Đây là một giải pháp tốt khi mới bắt đầu nghiên cứu và triển khai Micro Frontends.

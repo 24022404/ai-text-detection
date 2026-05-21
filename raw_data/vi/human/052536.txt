@@ -1,0 +1,1 @@
+Cho tới thờ điểm hiện tạ, có rất nhều cách thức để có thể tạo được file 3D của một vật thể. Dướ điây sẽ trình bày 3 cách phổ bến nhất, phân tích các ưu điểm và nhược điểm của từng cách thức và áp dụng cách thức nào điố với hệ thống bán đồ nộ thất này 5.1.1 Cách thứ nhất: Sử dụng camera trên điện thoạ Hiện nay có rất nhều công cụ cho phép tạo ra file 3D từ camera trên điện thoạ.

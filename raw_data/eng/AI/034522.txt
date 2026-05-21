@@ -1,0 +1,1 @@
+The IT helpdesk department at the company utilizes a Windows-based helpdesk application to efficiently handle and manage internal requests submitted by project members who are also employees of the company.

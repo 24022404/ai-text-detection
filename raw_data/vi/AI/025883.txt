@@ -1,0 +1,5 @@
+Phương pháp phân tích phi tuyến kết cấu khung thép là một công cụ quan trọng trong lĩnh vực xây dựng và kỹ thuật kết cấu. Phương pháp này giúp đánh giá được khả năng chịu lực của kết cấu khung thép trong các điều kiện tải trọng phức tạp, bao gồm cả tải trọng tĩnh và tải trọng động.
+
+Phương pháp phân tích phi tuyến kết cấu khung thép dựa trên nguyên tắc phân tích tĩnh và động kết cấu, kết hợp với các mô hình toán học phức tạp để mô tả sự biến dạng và suy yếu của kết cấu trong quá trình chịu tải. Phương pháp này cho phép phân tích được các kết cấu khung thép trong các điều kiện tải trọng khác nhau, bao gồm cả tải trọng gió, tải trọng trọng lượng, và tải trọng động.
+
+Phương pháp phân tích phi tuyến kết cấu khung thép được ứng dụng rộng rãi trong các lĩnh vực như xây dựng dân dụng, xây dựng công nghiệp, và kỹ thuật kết cấu. Nó giúp đảm bảo an toàn và bền vững của các kết cấu khung thép, đồng thời giảm thiểu được chi phí và thời gian xây dựng.

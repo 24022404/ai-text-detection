@@ -1,0 +1,1 @@
+Perfection of the interface. The interface needs to be complete, easy to use, fully functional. The management web interface as well as the android app do not need to be too picky, but still ensure aesthetics high performance. Also need to support different screens and devices with different configurations.

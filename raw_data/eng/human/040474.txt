@@ -1,0 +1,1 @@
+K. Banker, D. Garrett, P. Bakkum, and SEarch, MongoDB in action: covers MongoDB version 3.0 . Simon and Schuster, 2016.

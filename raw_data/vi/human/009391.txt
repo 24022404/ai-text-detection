@@ -1,0 +1,1 @@
+Phát triển tính năng tự động hóa marketing trên nền tảng các chức năng gửi thông báo, email, sms cho người dùng.

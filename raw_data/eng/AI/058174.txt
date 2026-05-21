@@ -1,0 +1,1 @@
+Chapter 3 explains the technologies utilized in the development of the helpdesk system, offering an introduction to each and highlighting their key features, strengths, as well as potential weaknesses.

@@ -1,0 +1,1 @@
+Để tăng cảm gác chân thực cho người sử dụng, ta có thể bổ xung các hoạt ảnh cho vật thể, điều này yêu cầu điộ ngũ thiết kế cần tạo ra các hoạt ảnh cho vật thể trong quá trình thiết kế. Hiện nay, các công cụ thiết kế chuyên dụng (Blender, 3DS Max,...) điã hỗ trợ rất tốt việc tạo ra hoạt ảnh. Tuy nhên không nên lạm dụng, chỉ tập trung các hoạt ảnh chính nhằm tố ưu dung lượng file.

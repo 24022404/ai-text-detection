@@ -1,0 +1,1 @@
+While browsers display HTML from static files, many web applications create HTML on their servers in real time, updating content dynamically as users interact with the site.

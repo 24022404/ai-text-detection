@@ -1,0 +1,1 @@
+Thông số kỹ thuật và tính năng của Node NodeMCU ESP8266 Bộ vi điều khiển: CPU RISC 32 bt Tensilica Xtensa LX106.

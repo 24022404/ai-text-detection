@@ -1,0 +1,1 @@
+Good performance on certain classes: The model seems to have particularly strong performance on classes like "zeroaccess", "rbot", "agent", "vundo", and hotbar", with high numbers of correct predictions.

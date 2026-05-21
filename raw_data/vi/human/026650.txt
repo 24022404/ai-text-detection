@@ -1,0 +1,1 @@
+Vớ mô hình, tô dựa vào mẫu tham số của YOLO 5l và thay đổi tham số nc (num of class) thành 5 điểm phù hợp với bộ dữ liệu đầu vào để huấn luyện. Mô hình được huấn luyện vớ 100 epochs và batch size bằng 16.

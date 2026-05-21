@@ -1,0 +1,1 @@
+JSX Hình 3.3: JavaScrpt và ReactJS Trọng tâm chính của bất kỳ website cơ bản nào đó là những HTML documents.

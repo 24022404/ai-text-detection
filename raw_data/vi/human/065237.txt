@@ -1,0 +1,1 @@
+Đồ án điã điề xuất một đồ thị quyết định. Đồ thị có thể phản ánh điược dự đioán tình trạng giao thông trong tương la gần và thờ gan d chuyển của AGV khi chúng ở các chế điộ hoạt động khác nhau.

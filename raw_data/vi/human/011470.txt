@@ -1,0 +1,1 @@
+Bước 2: Dựa trên dữ liệu thu thập được ở bước 1, thiết kế và xây dựng Ontology về du lịch Hà Nội.

@@ -1,0 +1,1 @@
+Số bước tố địa  số bước thờ gan tố địa trong một tập môi trường, khi bước thờ gần đạt giới hạn ngày, môi trường sẽ tự động thực hiện setEnv mà không cần chờ điều kiện mà lập trình viên thiết kế.

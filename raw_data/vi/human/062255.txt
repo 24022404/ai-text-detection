@@ -1,0 +1,1 @@
+Zend Framework là một trong những framework PHP phổ biến nhất và được sử dụng rộng rãi trong việc xây dựng các ứng dụng web. Nó được phát triển bởi Zend Technologies, công ty chuyên cung cấp các công cụ và dịch vụ hỗ trợ cho PHP.

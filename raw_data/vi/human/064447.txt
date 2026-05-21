@@ -1,0 +1,1 @@
+Cung cấp URL của công cụ ở địa chỉ : localhost:5000 cho dự án theo như hình 5.1Hình 5.1: Hình ảnh danh sách dự án Có thể thấy, đây là một dự án cần thông tin đăng nhập dựa trên button Config Session, thử ấn spider kh chưa cung cấp thông tin đăng nhập.Kết quả trả về thực tế được thể hiện ở hình 5.2 :

@@ -1,0 +1,9 @@
+Objective: Unsupervised transfer learning aims to leverage labeled data from a source domain to improve performance on a related but unlabeled target domain. However, not all source features contribute equally when distributions differ, and irrelevant or noisy features can degrade transfer. This paper introduces an adaptive feature ranking framework to identify and prioritize the most transferable features without target labels.
+
+Methods: We propose an unsupervised ranking algorithm that jointly evaluates feature relevance in the source domain and feature invariance across domains. The approach computes a transferability score for each feature by combining statistical measures of source-label correlation with a domain‐discrepancy metric based on maximum mean discrepancy (MMD). Features are iteratively reweighted and pruned, enabling a compact representation that focuses on domain‐robust signals. The method requires no hyperparameter tuning on target data.
+
+Results: Experiments on four benchmark datasets spanning image and text classification demonstrate that our adaptive ranking consistently outperforms baseline unsupervised feature‐selection and domain‐adaptation methods. Using only the top 30–50% of features yields up to a 12% relative gain in target accuracy while reducing computational cost by 40%. Ablation studies confirm that balancing relevance and invariance is critical for effective transfer.
+
+Conclusion: By filtering out low-transferability features, our adaptive feature ranking enhances unsupervised transfer learning, offering a generic pre‐processing step for cross‐domain models. This work paves the way for more efficient and accurate domain‐adaptation pipelines in scenarios where target labels are unavailable.
+
+Keywords: Unsupervised transfer learning; feature ranking; domain adaptation; transferability; maximum mean discrepancy.

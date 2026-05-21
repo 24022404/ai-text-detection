@@ -1,0 +1,1 @@
+Keras provides a user-friendly way to construct neural network models by allowing users to stack modular layers, making complex architectures easy to create and understand. It also supports custom layers and loss functions, which encourages experimentation with new ideas.

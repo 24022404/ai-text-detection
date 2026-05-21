@@ -1,0 +1,1 @@
+Ở phân hệ quản lý và lập lịch các trình tính toán chỉ báo, yêu cầu phi chức năng được điáp ứng gồm thờ gan tính toán nhanh. Ngoà ra các yêu cầu phi chức năng khác do điều kện không thể trển kha được trên cụm nên không thể điáp ứng được.

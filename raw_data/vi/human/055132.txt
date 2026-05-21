@@ -1,0 +1,1 @@
+Luồng tích hợp với API của VNPT được mô tả như hình 5.5Hình 5.5: Luồng tích hợp với API VNPT Ứng dụng thứ ba ở đây tức là ứng dụng ký số nội bộ hiện tại. Ứng dụng sẽ nhận yêu cầu ký của người dùng đã được cấp chứng thư công cộng, chuyển tiếp sang VNPT để xử lý yêu cầu ký sau đó. Các bước được mô tả chợ tết như sau:

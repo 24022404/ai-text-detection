@@ -1,0 +1,1 @@
+GraphQL bao gồm 3 điểm đặc trưng bao gồm: Cho phép client xác định chính xác những dữ lệu gì họ cần; GraphQL làm cho việc tổng hợp dữ lệu từ nhiều nguồn dễ dàng hơn; Sử dụng một type system để khai báo dữ lệu.

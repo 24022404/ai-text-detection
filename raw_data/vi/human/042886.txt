@@ -1,0 +1,1 @@
+Thờ gan phản hồi của ứng dụng tối đa khi sử dụng các chức năng xử lý ảnh và xem dòng hình ảnh là 0.08 gây.

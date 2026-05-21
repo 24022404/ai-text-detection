@@ -1,0 +1,1 @@
+The analysis focuses on detecting insecure APIs, programming mistakes, hardcoded secrets, and abnormal behaviors, whether they appear in the source code or within compiled binary files.

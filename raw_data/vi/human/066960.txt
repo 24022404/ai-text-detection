@@ -1,0 +1,1 @@
+Selector: là các hàm dùng để truy xuất và lấy dữ liệu từ trạng thái trong store, giúp cho việc sử dụng trạng thái trở nên dễ dàng và hiệu quả hơn.

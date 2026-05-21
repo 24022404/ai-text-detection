@@ -1,0 +1,1 @@
+Visual Studio Code Visual Studio Code (VS Code) là một trình biên tập mã nguồn mở và miễn phí do Microsoft phát triển. VS Code được thiết kế điển hỗ trợ các ngôn ngữ lập trình khác nhau và là một trong những trình bên tập mã phổ biến nhất hiện nay.

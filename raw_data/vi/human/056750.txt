@@ -1,0 +1,1 @@
+PHP hỗ trợ nhiều framework phổ biến như Laravel, CodeIgniter, Symfony, Y và nhiều hơn nữa, giúp cho việc phát triển ứng dụng web trở nên nhanh chóng và hiệu quả hơn.

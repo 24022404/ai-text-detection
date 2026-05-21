@@ -1,0 +1,1 @@
+JWT viết tắt của JSON WEB TOKEN là một dạng tiêu chuẩn mở của RFC 7519 dùng để truyền thông tin giữa 2 bên client và server một cách bảo mật. Gồm có 3 thành phần:()header là loại token, ()payload chứa phần dữ liệu cần truyền, ()signature chứa chữ ký để xác thực, tránh việc giả mạo.

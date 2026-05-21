@@ -1,0 +1,1 @@
+Dữ liệu linh hoạt: dữ liệu trong MongoDB được lưu trữ dưới dạng các tài liệu JSON, không bị bó buộc về các số lượng các trường thuộc tính, kiểu dữ liệu nên có thể thêm tự do các dữ liệu mong muốn mà không cần quan tâm đến các ràng buộc đó.

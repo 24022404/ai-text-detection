@@ -1,0 +1,1 @@
+Barcode là một mã được n trên nhãn sản phẩm, cho phép đọc và xác định sản phẩm một cách chính xác và nhanh chóng bằng cách sử dụng máy đọc mã vạch.

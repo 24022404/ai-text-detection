@@ -1,0 +1,1 @@
+Wireframing is the process of designing simple visual guides for an application's interface layout, helping to define its overall structure and user flow.

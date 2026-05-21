@@ -1,0 +1,1 @@
+Ví dụ: Kh người dùng muốn tìm các địa điểm du lịch và khách sạn ở cùng một huyện, thay vì phải liên kết các bảng với nhau như trong cơ sở dữ liệu quan hệ, với SPARQL ta chỉ cần truy vấn đơn giản:

@@ -1,0 +1,1 @@
+l(w)(2.6) Vớ phương pháp huấn luyện, mục tiêu là oregon score và affinity score được dự đoán từ mạng nơron sẽ càng gần với sự thật nền tảng (ground truth), nên hàm mất mát MSE được sử dụng trong mô hình CRAFT:

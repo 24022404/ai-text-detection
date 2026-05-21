@@ -1,0 +1,1 @@
+Trển kha lập lịch trình tính toán chỉ báo Sau kh điã có mã nguồn hoàn thiện của các trình tính toán, tô tếp tục trển kha vệc lập lịch cho những trình tính toàn này. Tô lựa chọn 3 chỉ báo là OBV, RS và RSI điể thực hiện lập lịch và tính toán trên Arflow. Các thành phần của Arflow cũng điược trển kha trên các Docker contaner gúp dễ dàng khở chạy và quản lý.

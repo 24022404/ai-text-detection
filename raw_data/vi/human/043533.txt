@@ -1,0 +1,1 @@
+Trong quá trình thực hiện đồ án, sử dụng thư viện mlxtend điểm trên kha thuật toán Apriori và ngưỡng hỗ trợ là 0.01 thu được 222 tập itemsets và được sử dụng trong việc gợi ý sản phẩm.

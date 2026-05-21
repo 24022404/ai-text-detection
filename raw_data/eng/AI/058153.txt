@@ -1,0 +1,9 @@
+The prevalence of blurry images in various applications has necessitated effective blur detection techniques. This paper introduces MSDU-net, a novel convolutional neural network (CNN) architecture tailored for accurate blur detection in digital images. By addressing the limitations of existing methods in capturing multi-scale blur features, this study seeks to enhance detection accuracy and efficiency.
+
+Methods: The proposed MSDU-net extends the conventional U-net model by integrating multi-scale dilated convolutions, which enable the capture of a wider range of contextual information without increasing computational complexity. This design allows the network to effectively discern blur across varying image scales. The training of MSDU-net was conducted with a diverse dataset comprising numerous blurred and clear images, ensuring robust learning and generalization capabilities.
+
+Results: Experimental evaluations demonstrate that MSDU-net outperforms existing state-of-the-art methods in both precision and recall metrics for blur detection. The model exhibits significant improvements in areas with complex blur patterns and consistently achieves superior performance across diverse image datasets, showcasing its ability to generalize well under different conditions.
+
+Conclusion: MSDU-net's architecture, leveraging multi-scale dilated convolutions, provides a substantial advancement in the domain of blur detection. Its capacity to efficiently handle images with varying blur characteristics presents promising implications for applications in photography, videography, and image restoration fields. The innovations introduced by MSDU-net have the potential to be further adapted and integrated into broader image processing tasks, highlighting its contribution to the field of computer vision.
+
+Keywords: MSDU-net, blur detection, multi-scale dilated convolutions, U-net, image processing, convolutional neural network (CNN).

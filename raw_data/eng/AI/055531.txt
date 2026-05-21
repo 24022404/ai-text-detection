@@ -1,0 +1,9 @@
+This paper addresses the challenge of recognizing and deciphering historical ciphered manuscripts, which are valuable yet often elusive resources for historians and cryptologists. The primary objective is to develop an efficient and adaptable method for deciphering these manuscripts using limited labeled data.
+
+Methods/Approach: We propose a novel few-shot learning approach that leverages advanced machine learning techniques to recognize and interpret ciphered texts with minimal prior samples. Our model utilizes a combination of meta-learning and transfer learning strategies to enhance adaptability to new cipher patterns. This allows for rapid recognition and interpretation with significantly reduced data dependency.
+
+Results/Findings: Experimental results demonstrate the effectiveness of our approach, achieving high accuracy rates in deciphering historical ciphers with minimal examples compared to traditional recognition systems. Our model shows superior performance when benchmarked against existing methods, illustrating a marked improvement in both accuracy and computational efficiency.
+
+Conclusion/Implications: The proposed few-shot learning model offers substantial contributions to the field of historical manuscript decipherment by reducing the reliance on extensive labeled datasets. This has significant implications for digital humanities, enabling historians and researchers to access and analyze previously inaccessible historical texts. Our method sets a new standard for adaptability in manuscript recognition, paving the way for future advancements in automated historical text analysis.
+
+Keywords: Few-shot learning, ciphered manuscript recognition, historical documents, meta-learning, transfer learning, digital humanities.

@@ -1,0 +1,1 @@
+Input/Output Input Takes the checksum of the application, rule set, file extensions to analyze, paths to scan, and optionally the paths to ignore. It also takes an apath parameter which specifies an alternative path if necessary.

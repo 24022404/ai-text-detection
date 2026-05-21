@@ -1,0 +1,1 @@
+Về phía cửa hàng Có thể quản lý (thêm, sửa, xóa) danh sách khách hàng, danh mục sản phẩm, danh sách các sản phẩm.

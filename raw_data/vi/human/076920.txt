@@ -1,0 +1,1 @@
+. Cho dù các điểm khác bị xóa đi thì thuật toán vẫn cho kết quả giống như ban đầu. Đây chính là điểm nổ bật của phương pháp SVM so với các phương pháp khác vì tất cả các dữ liệu trong tập huấn luyện điều được dùng để tối ưu hóa kết quả.

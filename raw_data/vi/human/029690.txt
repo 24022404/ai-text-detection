@@ -1,0 +1,1 @@
+Nếu được nhắc, hãy nhập mã PIN hoặc mật khẩu của thiết bị. Ko nhìn thấy thông báo Bạn đã là nhà phát triển! thì nghĩa là bạn đã thành công.

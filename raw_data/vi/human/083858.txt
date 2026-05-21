@@ -1,0 +1,1 @@
+max tr(street)# Đố với trường hợp ngẫu nhiên, policy sẽ cho chúng ta một phân phối xác suất Trong phương pháp học tăng cường, ta muốn tìm được một chuỗi các hành động mà dẫn đến cho ta một lượng điểm thưởng kỳ vọng lớn nhất hoặc là gảm tố đia phí (cost). Có nhiều cách để gả được vấn đề này:

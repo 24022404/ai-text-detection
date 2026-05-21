@@ -1,0 +1,1 @@
+Đố về các giải pháp bảo mật hiện tại, có một số hình thức triển khai từ tự phát, tự xây dựng gả pháp bảo mật không qua một tiêu chuẩn kiểm chứng nào, điều này dẫn đến gây ra những khó khăn trong việc mở rộng về sau cũng như không đảm bảo về tính bảo mật. Điều này gây ra những khó khăn trong khi sử dụng, cùng với đó là việc mất nhiều thờ gan để cài đặt từng gả pháp.

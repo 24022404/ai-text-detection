@@ -1,0 +1,1 @@
+Recall that a path is defined to be a sequence of edges. A vertex vis said to be (lying) in or belong to a path P, denoted by v∈P, ifvhas edges in P. It’s also fair to say that Pgoes through v. Besides, vis called the end (or the start) vertex ofPif its last (first) edge ends (begins) at v.

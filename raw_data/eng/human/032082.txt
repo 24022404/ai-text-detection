@@ -1,0 +1,1 @@
+Buy food from the market: This activity requires you to go to the market, and in order to buy food, you need to have money. Since the journey to the market is usually easier than going up the mountain, this activity will have lower costs compared to the Pick up Fruits activity.

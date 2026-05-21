@@ -1,0 +1,9 @@
+Objective: Nonlinear dynamical systems with high-dimensional states pose significant challenges for real-time simulation and control. This paper introduces a novel High-Order Differentiable Autoencoder (HODA) framework for nonlinear model reduction that captures both state and derivative information to improve accuracy and efficiency in reduced-order models (ROMs).
+
+Methods: HODA extends the classical autoencoder architecture by incorporating high-order derivative matching into its loss function. During training, the encoder maps high-dimensional states to a low-dimensional latent space, while the decoder reconstructs both the original state and its time derivatives up to a specified order. A joint optimization minimizes reconstruction error and the discrepancy between true and network-predicted derivatives, enabling the latent representation to encode richer dynamical information. The method is demonstrated on benchmark nonlinear systems, including the viscous Burgers’ equation and unsteady fluid flow around an obstacle.
+
+Results: Compared to standard autoencoders and Proper Orthogonal Decomposition (POD)–based ROMs, HODA achieves a 30–60% reduction in state reconstruction error for the same latent dimension and up to a 5× speed-up in online simulation. High-order derivative enforcement yields smoother latent dynamics, resulting in improved stability over long-horizon predictions.
+
+Conclusion: By leveraging high-order differentiability, HODA offers a principled approach to learning expressive reduced-order models for complex nonlinear systems. The enhanced accuracy and computational gains make this method particularly promising for real-time control, optimization, and digital twin applications.
+
+Keywords: nonlinear model reduction, autoencoder, high-order differentiable, reduced-order modeling, neural networks, latent dynamics.

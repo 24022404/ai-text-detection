@@ -1,0 +1,1 @@
+ID: chứa nhận dạng định danh duy nhất của bến thể có thể được lưu trong các cơ sở dữ liệu, nếu chưa có thì sẽ được gán bằng dấu chấm (‘.’).

@@ -1,0 +1,1 @@
+Both the customer and the provider have the option to rate and comment on each other’s performance.Basic Flow 1. Customer successfully creates a new appointment through the application, providing all necessary details.

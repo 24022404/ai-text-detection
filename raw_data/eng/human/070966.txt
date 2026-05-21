@@ -1,0 +1,1 @@
+T.-M. H. Hsu, H. Qi andM. Brown, “Measuring the effects of non-identical data distribution for federated visual classification,” arXiv preprint arXiv:1909.06335 , 2019.

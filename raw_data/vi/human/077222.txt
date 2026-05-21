@@ -1,0 +1,1 @@
+Gả pháp quản lý quyền Hệ thống Boundless cung cấp phương thức tùy bến xây dựng quyền truy cập cho những tài khoản được thêm vào Workspace, thể hiện ở chức năng tạo Permission Role và chức năng thêm SAML User.

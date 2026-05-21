@@ -1,0 +1,1 @@
+MessagesController: Nơ kha báo class xử lý các nghệp vụ logc lên quan đến bảng messages.4.1.6 Thiết kế ch tết gó Models Hình 4.8: Thiết kế ch tết gó Models Hình 4.7 mô tả ch tết gó Models. Bao gồm các struct: () User, () ChatBox, () MappngChatBoxPvot, (v) Message. Trong đió nhệm vụ của từng class như sau:

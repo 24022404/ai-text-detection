@@ -1,0 +1,1 @@
+Chọn sản phẩm và số lượng cần mua.  Hệ thống hiển thị thông báo yêu cầu người dùng đăng nhập hệ thống.  Hệ thống hiển thị thông báo yêu cầu người dùng đăng nhập hệ thống.  Đạt TC05  1. Đăng  nhập tài khoản thành viên.

@@ -1,0 +1,1 @@
+Việc của RPN là lấy ra các region proposal giống như selective search chứ không phải là phân loại ảnh. Mô hình VPN khá đơn giản, feature map được cho qua Conv layer 3*3, 512 kernels. Sau đó vớ mỗ anchor lấy được ở trên, RỐN thực hiện 2 bước:

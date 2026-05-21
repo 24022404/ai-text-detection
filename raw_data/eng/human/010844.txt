@@ -1,0 +1,1 @@
+Analyzing Intent Filters: For each activity in the manifest, the tool checks whether it has any <intent-filter> elements with the android.intent.action.VIEW action. It also checks for:

@@ -1,0 +1,1 @@
+Kến trúc VT Hình 3.2: Kến trúc mô hình Vson Transformer  Kến trúc của VT bao gồm các thành phần sau:•Patch Embeddng: Hình ảnh điầu vào được chia thành các mảng không chồng lên nhau, sau đó được làm phẳng và chếu vào một không gan có chều thấp hơn điể thu được véctơ nhúng mảng.

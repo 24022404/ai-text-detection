@@ -1,0 +1,1 @@
+Mô hình BERT thông qua ngữ cảnh để tìm ra địa diện của từ trong không gian số (một không gian mà máy tính có thể hiểu được).

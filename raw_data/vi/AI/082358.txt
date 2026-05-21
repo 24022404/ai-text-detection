@@ -1,0 +1,5 @@
+Mới đây, một nhóm nghiên cứu đã thành công trong việc xây dựng mô hình máy học lai nhân trọng số để dự báo lực bám dính giữa vật liệu BTCT (Bột Talc-Carbon) và FRP (Fiber Reinforced Polymer). Mô hình này được thiết kế để đánh giá chính xác lực bám dính giữa hai loại vật liệu này, giúp cải thiện đáng kể độ tin cậy và hiệu suất của các kết cấu sử dụng BTCT và FRP.
+
+Mô hình máy học lai nhân trọng số được xây dựng dựa trên dữ liệu thực nghiệm và mô phỏng số, giúp mô hình có thể dự báo lực bám dính giữa BTCT và FRP với độ chính xác cao. Kết quả nghiên cứu cho thấy mô hình này có thể dự báo lực bám dính với sai số nhỏ hơn 5%, giúp đảm bảo an toàn và hiệu suất của các kết cấu sử dụng BTCT và FRP.
+
+Kết quả nghiên cứu này có thể được ứng dụng trong nhiều lĩnh vực, bao gồm xây dựng, cơ khí và công nghệ vật liệu. Mô hình máy học lai nhân trọng số có thể giúp các kỹ sư và nhà thiết kế dự báo lực bám dính giữa BTCT và FRP một cách chính xác, giúp cải thiện đáng kể độ tin cậy và hiệu suất của các kết cấu sử dụng vật liệu này.

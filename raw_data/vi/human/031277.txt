@@ -1,0 +1,1 @@
+Use case quản lý thành viên trong cuộc hội thoại: người dùng có thể xem danh sách thành viên trong thông tin cuộc hội thoại, thêm mới người dùng và chủ phòng có thể loại bỏ người dùng.

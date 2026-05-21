@@ -1,0 +1,1 @@
+Long-Term Dependencies: LSTM is specifically designed to mitigate the van ishing gradient problem, allowing it to capture long-term dependencies in the data. This is crucial for modeling the complex and often non-ar relation-ships present in cryptocurrency price data.

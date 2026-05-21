@@ -1,0 +1,1 @@
+Purchase success. The gloves or boots of the main charac ter changed color, indicating the stat has changed.Alternative flowof event3a. Max upgrade reached. The system notifies that max up grade of the main character stat has been reached.

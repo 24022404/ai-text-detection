@@ -1,0 +1,1 @@
+In conclusion, in all 3cases, the correctness of equation 4.15 is verified, hence, Lemma 8 is proved.Summary In this thesis, Run length limited de Bruijn sequences are introduced and studied to replace Hybrid de Bruijn sequence in dBTS system. Compare to HdB sequences, RdB sequences not only have a higher rate but are also more general and adaptive.

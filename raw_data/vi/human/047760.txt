@@ -1,0 +1,1 @@
+Tiếp theo là khó khăn trong việc chọn framework để viết chương trình. Việc lựa chọn React JS cho frontend khá là nhanh chóng, tuy nhiên đối với backend thì tô điã phả thử rất nhiều framework khác nhau trước khi đi đến việc sử dụng extJS.

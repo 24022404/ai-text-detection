@@ -1,0 +1,1 @@
+Xây dựng Ontology lưu trữ tập dữ liệu về các địa điểm du lịch ở Hà Nội và các thông tin liên quan như lễ hội, ẩm thực, khách sạn, quán ăn, quán cafe, siêu thị,. . . Khai thác các tính năng về truy xuất dữ liệu trong Ontology và xây dựng hệ thống cho phép người dùng tra cứu và hỏi đáp các thông tin liên quan đến du lịch Hà Nội.

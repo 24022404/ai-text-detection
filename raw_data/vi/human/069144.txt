@@ -1,0 +1,1 @@
+Chương 4 trình bày về các kết quả thực nghiệm và đánh giá sau khi xây dựng đồ án. Chúng tôi sẽ chỉ rõ cách thức xây dựng và tổ chức phần mềm tìm kiếm công việc, đồng thời cũng chỉ rõ các kết quả đạt được, cách thức triển khai, kiểm thử hệ thống.

@@ -1,0 +1,1 @@
+Controller bao gồm những lớp và hàm xử lý nghệp vụ logc gúp lấy điúng dữ lệu thông tin cần thết nhờ các nghệp vụ lớp Model cung cấp và hển thị dữ lệu đió ra cho người dùng nhờ lớp Vew.

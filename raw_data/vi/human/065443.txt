@@ -1,0 +1,1 @@
+Nơ sử dụng Trong đồ án này, tô sử dụng CART tracker điểm thực hiện theo dõi vị trí của các sản phẩm trong cửa hàng 3.1.3 MTCNN a, Khá nệm MTCN là viết tắt của Multitask Cascaded Convolutional Networks. Nó bao gồm 3 CNN xếp chồng lên nhau và đồng thờ hoạt động khi phát hiện khuôn mặt.

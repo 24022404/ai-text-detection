@@ -1,0 +1,1 @@
+Phát triển hệ thống lưu trữ: cơ sở dữ lệu hoàn chỉnh cho các tín hiệu thiết bị gia dụng, cùng với hệ thống phân quyền người dùng để hướng tới sản phẩm có thể đưa vào sản xuất.

@@ -1,0 +1,1 @@
+ASP.Net là một nền tảng dành cho phát triển web, được Microsoft phát hành và cung cấp lần đầu tiên vào năm 2002 và đến nay đã được nâng cấp thành nhiều phiên bản khác nhau. ASP.NET hoạt điộng trên HTTP, sử dụng các lệnh và chính sách của HTTP điểm trình duyệt có thể trở thành giao tiếp song phương của máy chủ.

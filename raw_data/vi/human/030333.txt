@@ -1,0 +1,1 @@
+Cải thiện giao diện ứng dụng thêm bắt mắt hơn.•Ngoài hỗ trợ cử chỉ tay, ứng dụng cũng nên hỗ trợ điều khiển bằng giọng nói.

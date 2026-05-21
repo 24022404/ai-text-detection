@@ -1,0 +1,1 @@
+To deal with this problem, reliable and efficient timing and synchronization systems have been proposed in , . In this system, a classical channel is used along with the quantum channel, because of its advantage in synchronization.

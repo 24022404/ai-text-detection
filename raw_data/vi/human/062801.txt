@@ -1,0 +1,1 @@
+Vớ phần Backend triển khai trên Rendez, em đã tích hợp Firebase Authent carton Middleware để xác thực yêu cầu từ ứng dụng di động Flutter. Middleware này đảm bảo rằng mỗi yêu cầu gửi đến backend điều có token xác thực hợp lệ firebase và người dùng được ủy quyền mới có thể truy cập vào các API bảo mật.

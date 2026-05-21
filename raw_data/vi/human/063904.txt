@@ -1,0 +1,1 @@
+Chương 2 trình bày về những khảo sát thực tế, phân tích khảo sát để xây dựng những tổng quan các chức năng của hệ thống. Trong phần này, tôi sẽ trình bày biểu đồ use case tổng quan, use case phân rã. Thiết kế quy trình nghiệp vụ chính. Thực hiện đặc tả các biểu đồ usecase điểm có cá nhìn rõ về các chức năng của hệ thống.

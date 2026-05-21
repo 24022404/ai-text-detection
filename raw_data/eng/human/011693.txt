@@ -1,0 +1,1 @@
+Browsable Activities: Activities that can be accessed through intents (a mes saging mechanism in Android) from other apps or sources, like web browsers, other apps, or even the system.

@@ -1,0 +1,1 @@
+Tần điều kiện là người dùng đã đăng nhập vào hệ thống, đã xem video và thấy video không phù hợp.

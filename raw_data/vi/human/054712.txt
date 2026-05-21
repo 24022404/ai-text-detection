@@ -1,0 +1,1 @@
+Phương thức formula() cũng được định nghĩa là abstract, điể có thể tùy chỉnh với các chỉ báo khác nhau.

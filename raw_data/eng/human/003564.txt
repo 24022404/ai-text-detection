@@ -1,0 +1,1 @@
+View Signer Certificate : This sub-use case allows users to examine the dig ital signer certificate associated with the uploaded file. The signer certificate provides important details such as the certificate’s validity, issuer, subject, and associated signatures. Users can use this feature to verify the authenticity and integrity of the file.

@@ -1,0 +1,1 @@
+Ở từng cụm thu được ở trên, tính lại giá trị trung bình cộng của tất cả dữ liệu nằm trong đó và cập nhật giá trị đó sẽ trở thành điểm trung tâm mớ của cụm.

@@ -1,0 +1,1 @@
+Người dùng có thể thực hiện các chức năng bật/tắt mc, bật/tắt máy quay, chia sẻ màn hình, phóng to toàn màn hình, rờ khỏ cuộc gọi bằng cách thao tác với các biểu tượng tương ứng ở thanh toolbar Hình 4.25: Gao den khi thực hiện gọi video Khi người dùng thực hiện cuộc gọi, ứng dụng sẽ gửi một lnk điểm các thành viên trong nhóm hoặc bạn bè tham gia vào cuộc gọi.

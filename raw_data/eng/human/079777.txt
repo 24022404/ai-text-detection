@@ -1,0 +1,1 @@
+Starts with Pv=∅. As v h as 2 in-edges and 1 out-edges, there’s at least 1 in-edge evofvnot lying in P. Of course, ev’s label is 0. Adds evtoPv. Let Continue adding this edge to the head of Pv. Denote a2a10j1x10s−2to be the initial state of this edge. Now, Pvcan be represented as below:

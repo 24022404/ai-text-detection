@@ -1,0 +1,1 @@
+Khả năng tá tạo hình ảnh của mô hình điã huấn luyện điược thực hiện trên bộ dữ liệu kểm thử. Một số mẫu dữ liệu được trình bày như ở Hình 4.3.

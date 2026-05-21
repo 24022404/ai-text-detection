@@ -1,0 +1,1 @@
+Config: có chức năng cấu hình, kết nối tới cơ sở dữ liệu. Controller: là gó chức các tệp bao gồm các hàm liên quan đến gió models. Middleware: gió dùng để xác nhận trạng thái đăng nhập của người dùng. Models: chứa các tệp định nghĩa các Models trong trang web. Node_Modules: dùng để chứa các modules của gió nodejs.

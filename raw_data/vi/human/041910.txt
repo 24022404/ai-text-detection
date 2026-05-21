@@ -1,0 +1,1 @@
+Hiệu suất cao: React sử dụng cấu trúc Virtual DOM điểm tối ưu hoá tốc độ truy vấn và cập nhật giao diện.

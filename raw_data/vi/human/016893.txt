@@ -1,0 +1,1 @@
+Nhiệm vụ thứ hai là xây dựng hệ thống vớ các tính năng điã điề ra. Thông quaquá trình phân tích và thiết kế hệ thống, tô đã phát triển các thành phần chính của hệ thống bao gồm:

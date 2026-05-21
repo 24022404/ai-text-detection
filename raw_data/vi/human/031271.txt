@@ -1,0 +1,1 @@
+Khách hàng chọn điặt hàng 2. Hệ thống xử lý và thêm yêu cầu điặt hàng vào CSDL để quản trị viên xử lý Luồng sự kện con:

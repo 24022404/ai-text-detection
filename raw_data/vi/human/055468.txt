@@ -1,0 +1,1 @@
+Nó có thể được sử dụng điểm phát triển cả ứng dụng web và ứng dụng dành cho thiết bị di động Các công cụ chuyên dụng để gỡ lỗ dễ dàng: Facebook đã phát hành một tiện ích mở rộng của Chrome có thể được sử dụng để gỡ lỗi các ứng dụng React. Đều này làm cho quá trình gỡ lỗi các ứng dụng web React nhanh hơn và dễ dàng hơn.

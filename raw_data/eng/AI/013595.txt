@@ -1,0 +1,9 @@
+Objective: Effective credit assignment remains a central challenge in cooperative multi-agent reinforcement learning (MARL), as agents must learn to coordinate actions that produce joint rewards despite delayed and distributed feedback. This paper introduces a novel meta-policy gradient framework that adaptively assigns individual contributions to team outcomes, improving both learning efficiency and final performance.
+
+Methods: We propose Meta-Credit, a two-level optimization approach in which a meta-learner adjusts agent-specific reward shaping policies via gradient signals derived from overall team returns. At the lower level, individual agents optimize their policies using standard policy gradients augmented by meta-learned shaping terms. At the higher level, the meta-learner updates shaping parameters through policy meta-gradients, effectively guiding credit distribution toward actions that yield the greatest long-term benefit.
+
+Results: Experiments on benchmark cooperative tasks, including grid-world coordination and StarCraft II micromanagement scenarios, demonstrate that Meta-Credit converges up to 40% faster than baseline algorithms (e.g., COMA, QMIX) and achieves higher average win rates. Ablation studies confirm that meta-learned credit assignment substantially reduces variance in gradient estimates and accelerates policy improvement, especially in environments with sparse or noisy rewards.
+
+Conclusion: By integrating meta-policy gradient learning into the credit assignment process, our approach offers a general and scalable solution for cooperative MARL. Meta-Credit not only enhances coordination among agents but also paves the way for more robust multi-agent systems in complex domains. 
+
+Keywords: credit assignment, meta-policy gradient, cooperative multi-agent reinforcement learning, reward shaping, policy meta-learning.

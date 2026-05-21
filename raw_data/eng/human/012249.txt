@@ -1,0 +1,1 @@
+NEW MAPWIN GAMEBATTLE VS ENEMYCOLLECT GOLD UPGRADE Figure 3.1: Player’s skill 1 3.2.3 Game Unit a, Player Player (Figure 3.2) can move and shoot the selected character to destroy the monster, player can also use skills. Player will lose health if touched monsters andFigure 3.2: Playerwill die when out of health point. Player has 3 skills:

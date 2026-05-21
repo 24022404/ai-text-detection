@@ -1,0 +1,1 @@
+Giao diện website của quản trị viên và đại diện trung tâm Giao diện web có tính đặc thù cho công việc trên máy tính hoặc pad, tablet nên em đã thiết kế phù hợp để responsive tương ứng với các màn hình trên.

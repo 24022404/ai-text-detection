@@ -1,0 +1,1 @@
+Đối với hệ thống học và thi trực tuyến Worksheet Zone hiện tại, công cụ tìm kiếm chủ yếu là lọc chính xác theo tên của các điều th, chưa có công cụ để có thể lọc các đề thi và tài liệu theo các chủ đề cũng như các khối lớp, điều này khiến cho việc tìm kiếm chưa thật sự đa dạng cũng như khó khoanh vùng tìm kiếm cho người dùng.

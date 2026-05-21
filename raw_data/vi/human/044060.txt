@@ -1,0 +1,1 @@
+Nếu số tiền thanh toán lớn hơn số tiền nợ của khách hàng, hệ thống sẽ trả về lỗ cho nhân viên bán hàng.

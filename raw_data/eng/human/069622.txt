@@ -1,0 +1,1 @@
+Y. Taqman, M. Yang, M. Ranzato and. Wolf, “Deepface: Closing the gap to human level performance n face verification,” Proceedings of the IEEE conference on computer vision and pattern recognition 2014, pages 1701–1708.

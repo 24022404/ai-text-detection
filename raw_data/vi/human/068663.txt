@@ -1,0 +1,1 @@
+My Room's View là một góc con trong góc View. Có 2 lớp chính là MyRoomLst(là lớp giao diện hiển thị danh sách phòng code của người dùng) và MyRoom Form (là lớp giao diện form thêm mới, hiển thị thông tin của phòng code).

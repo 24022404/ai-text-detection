@@ -1,0 +1,1 @@
+Quy trình nghiệp vụ Tạo và xem thông tin tính toán từ danh mục lịch sử giao dịch Hình 2.8: Quy trình tạo và xem dữ lệu của danh mục Mô tả:

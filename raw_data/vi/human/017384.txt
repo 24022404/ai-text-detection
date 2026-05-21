@@ -1,0 +1,1 @@
+Chương 2, em sẽ tiến hành khảo sát hiện trạng, phân tích thực tế bài toán điểm đưa ra tổng quan các chức năng cần có của điều tà giải quyết các vấn đề gặp phải. Trong chương này em sẽ giới thiệu hệ thống thông qua các biểu đồ usecase điểm biết được các tác nhân và ca sử dụng cần thực hiện.

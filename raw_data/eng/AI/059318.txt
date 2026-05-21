@@ -1,0 +1,1 @@
+The methodology focuses on extracting and parsing the MANIFEST.MF file from the uploaded APK, enabling the retrieval of crucial app metadata such as package information, permissions, and version details.

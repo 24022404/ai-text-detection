@@ -1,0 +1,1 @@
+Cải thiện hiệu suất: React sử dụng Virtual DOM, do gió tạo các ứng dụng web nhanh hơn. Virtual DOM so sánh trạng thái trước đó của các thành phần và chỉ cập nhật các mục trong DOM thực điã điược thay đổi.

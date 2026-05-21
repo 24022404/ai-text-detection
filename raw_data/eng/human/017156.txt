@@ -1,0 +1,1 @@
+Unlike the existing solutions focusing on the multi-class problems which only consider a vulnerability in a smart contract, this thesis proposed a multi-label vulnerability detection mechanism that takes into account the bytecode using the pre-trained language model (SecBERT) to identify multiple vulnerabilities in smart contracts.

@@ -1,0 +1,1 @@
+ObjectPoolManagement is responsible for managing all pools using an ID (hashedfrom the pool name). Similar to individual pools, ObjectPoolManagement also pro vides methods like Spawn, UnSpawn, and ClearAll.

@@ -1,0 +1,1 @@
+Control character movement This test case is to test the player’s ability when using the right mouse button for moving the character (Figure 4.1).

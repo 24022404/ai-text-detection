@@ -1,0 +1,1 @@
+Biểu đồ use case tổng quát Hệ thống điã điược thết kế gồm 2 tác nhân chính: Người dùng và Quản trị vên.

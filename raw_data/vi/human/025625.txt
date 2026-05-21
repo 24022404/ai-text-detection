@@ -1,0 +1,1 @@
+Chương 3, mô tả về phân tích thiết kế hệ thống. Trong chương này nêu bật lên mục tiêu, phạm vi của hệ thống. Thể hiện rõ ràng quy trình nghiệp vụ của trang web đang hướng tới. Cuối cùng, qua mô hình ca sử dụng sẽ giúp bài toán của mình trở nên rõ ràng và hiệu quả.

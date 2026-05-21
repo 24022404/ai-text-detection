@@ -1,0 +1,1 @@
+Kiểu giá trị: mỗ điều kiện lạ có những kiểu giá trị khác nhau ứng với các toán tử so sánh khác nhau. Ví dụ kiểu chuỗi, số thực, số nguyên, thờ gan,..

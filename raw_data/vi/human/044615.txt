@@ -1,0 +1,1 @@
+Biểu đồ use case tổng quát Hình 2.1: Biểu đồ usecase tổng quan Hệ thống xây dựng vớ 2 tác nhân là người dùng và quản trị viên. Với tác nhân người dùng ta có các use case tương ứng:

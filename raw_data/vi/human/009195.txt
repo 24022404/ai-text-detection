@@ -1,0 +1,1 @@
+Sự kết hợp của ResNet và ArcFace Kết hợp ResNet vớ Arcade kết hợp sức mạnh của việc trích xuất đặc trưng hiệu quả với một hàm mất mát phân biệt mạnh mẽ. Kiến trúc sâu của ResNet và khuôn khổ học phần dư cho phép trích xuất các đặc trưng khuôn mặt phức tạp, trong kh Arc Face gúp mô hình phân biệt các đặc trưng này một cách hiệu quả, ngay cả khi sự khác biệt rất nhỏ.

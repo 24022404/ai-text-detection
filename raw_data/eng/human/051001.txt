@@ -1,0 +1,1 @@
+Train the model: To minimize the loss function, we must train the model using stochastic gradient descent (SGD) or another optimizer. To avoid overfitting, we can also employ regularization strategies like L1 or L2 regularization.

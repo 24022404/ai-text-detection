@@ -1,0 +1,1 @@
+3DMs cung cấp một công cụ mạnh mẽ để phân tích và tổng hợp khuôn mặt, vì chúng cho phép nắm bắt một phạm vi rộng lớn các biến đổi khuôn mặt. Tuy nhiên, việc áp dụng chúng có thể gặp khó khăn do khó khăn trong việc huấn luyện những mô hình này vào hình ảnh 2D, một tác vụ dò hỏi sự ước lượng chính xác về tư thế, ánh sáng và các yếu tố khác.

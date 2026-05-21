@@ -1,0 +1,1 @@
+Thống kê các thông tin về ứng dụng Bảng 4.3: Thống kê thông tin ứng dụng STT Thông tin Số liệu 1 Số dòng code 20000 2 Số lớp 145 3 Số có 2 4 Dung lượng toàn bộ mã nguồn 128MB 5 Dung lượng web quản lý sản phẩm 118 MB 6 Dung lượng chatbot server 10MB 4.3.3 Mnh họa các chức năng chính Sau đây là các màn hình chức năng chính, quan trọng trong hệ thống:

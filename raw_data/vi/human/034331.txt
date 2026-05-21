@@ -1,0 +1,1 @@
+Đăng xuất: Người dùng đăng xuất khỏi hệ thống.2.2.3 Biểu đồ use case phân rã nhóm tác nhân Leader Hình 2.4: Biểu đồ use case tác nhân Leader Leader là tác nhân implement từ Employee, nên có đủ các use case của Employee, và có những use case của Leader gồm:

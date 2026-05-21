@@ -1,0 +1,1 @@
+The implementation of nodes for constructing keys of Web3Authen is complex due to the presence of multiple layers within its structure.

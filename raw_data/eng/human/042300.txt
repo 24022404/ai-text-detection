@@ -1,0 +1,1 @@
+Therefore, using clean code techniques like removing the query from the for loop and using final or enum variables improves the performance and makes the application more maintainable.

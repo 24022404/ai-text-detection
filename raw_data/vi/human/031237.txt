@@ -1,0 +1,1 @@
+MongoDB cũng hỗ trợ các tính năng khác như sharding, replication, và indexing, giúp MongoDB phù hợp cho việc xây dựng các ứng dụng có dữ liệu lớn và yêu cầu tính sẵn sàng cao.

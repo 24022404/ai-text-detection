@@ -1,0 +1,9 @@
+The research aims to explore the robustness of image recognition systems by introducing SI-Score, a novel image dataset specifically designed for fine-grained analysis of object location, rotation, and size variations. The need for such a dataset arises from the limitations of existing datasets, which often overlook nuances in object presentation that can significantly impact model performance.
+
+Methods/Approach: SI-Score comprises a diverse collection of images, systematically categorized to include controlled variations in object location, rotation, and size. We employ a robust data annotation framework to ensure accuracy in these variations. This dataset is then utilized to evaluate the performance of several state-of-the-art image classification models, examining how changes in object presentation affect their accuracy and robustness.
+
+Results/Findings: Our analysis reveals significant differences in model robustness with respect to each of the three dimensions: location, rotation, and size. In particular, we find that certain models demonstrate a notable decline in accuracy when faced with extreme rotational changes, while others struggle predominantly with size variations. The findings highlight the discrepancies in model resilience to diverse visual perturbations.
+
+Conclusion/Implications: SI-Score provides a valuable resource for benchmarking and enhancing image recognition models, encouraging the development of more robust algorithms that can maintain performance across varied visual scenarios. The dataset paves the way for future innovations in image processing and computer vision by addressing previously overlooked aspects of model evaluation. It offers critical insights that can inform the design of adaptive algorithms with improved generalization capabilities. 
+
+Key Keywords: image dataset, robustness, object location, object rotation, object size, image classification, computer vision.

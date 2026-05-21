@@ -1,0 +1,1 @@
+Hoàn thiện chức năng thống kê của quản trị viên. Theo dõi được lượng truy cập của trang web. Thống kê được tổng doanh thu mua và bán của cửa hàng.

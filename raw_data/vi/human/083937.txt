@@ -1,0 +1,1 @@
+Controller Layer: Gao tếp vớ Frontend thông qua RESTful API, có nhiệm vụ nhận yêu cầu tầng trình bày chuyển xuống cho Service Layer xử lý, sau khi được xử lý xong trả kết quả về phía Client. Service Layer: Xử lý nghiệp vụ và logo của phần mềm, gõ xuống Repository Layer để thao tác với dữ liệu của hệ thống.

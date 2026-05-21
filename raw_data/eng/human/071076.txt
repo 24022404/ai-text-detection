@@ -1,0 +1,1 @@
+R. Pascanu, T. Mikolov andY. Bengio, On the difficulty of training recurrent neural networks , cite arxiv:1211.5063Comment: Improved description of the exploding gradient problem and description and analysis of the vanishing gradient problem, 2012. url: .

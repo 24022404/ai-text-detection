@@ -1,0 +1,1 @@
+The Owallet login method is simple for users who already have an account. They are prompted to enter their Owallet credentials after choosing the "Login" option, which are then securely transmitted to Owallet’s servers for validation. Users aregiven access to the platform’s wealth of features and personalized content recom mendations after properly authenticating.

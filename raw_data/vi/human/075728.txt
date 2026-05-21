@@ -1,0 +1,1 @@
+Ưu điểm Unity engine Dễ tiếp cận Vì engne này là miễn phí đối với những dự án vừa và nhỏ, nên không có gì lạ đây là một engine lý tưởng cho sinh viên và những người muốn tiếp cận phát triển game. Ngoài ra việc sử dụng một ngôn ngữ cũng dễ học và phổ biến như C# cũng giúp ích rất nhiều trong việc tìm hiểu về game development thông qua engine này.

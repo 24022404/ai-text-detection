@@ -1,0 +1,1 @@
+The figure below show the process of converting binary file into grayscale image The figure 2 shows samples of unrelated binaries, while figure 3 provide the samples of malware family in dataset.

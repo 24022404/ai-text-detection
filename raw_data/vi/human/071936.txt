@@ -1,0 +1,1 @@
+Quản lý thông tin người dùng ở hệ thống riêng, là nơi lưu trữ, phân quyền người dùng không chỉ ở marketplace mà lên kết với các hệ thống game server khác nhau (không giới hạn số lượng).

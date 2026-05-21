@@ -1,0 +1,1 @@
+Y. Yang and S. Soatto, “Fda: Fourier domain adaptation for semantic seg mentation,” in Proceedings of the IEEE/CVF conference on computer vision and pattern recognition , 2020, pp. 4085–4095.

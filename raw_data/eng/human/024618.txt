@@ -1,0 +1,1 @@
+At the heart of dTube’s infrastructure was the STEEM blockchain, a decen tralized social media platform that rewarded users with STEEM tokens for theircontent creation and curation efforts. This incentivized content creators and en couraged community engagement, fostering an environment where original and valuable content thrived.

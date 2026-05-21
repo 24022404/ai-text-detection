@@ -1,0 +1,1 @@
+Quản trị viên có quyền hạn cao nhất, thực hiện đ ư ợc tất cả thao tác trên web. Trang quản trị sẽ hiển thị những thông tin theo sự phân quyền sử dụng khác nhau đ ư ợc quản lý sở thông tin sau: tên đăng nhập, mật khẩu.

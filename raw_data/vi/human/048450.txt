@@ -1,0 +1,1 @@
+Khách hàng: Là khách hàng mớ truy cập vào hệ thống, có thể đăng ký hệ thống, xem các sản phẩm sách, xem ch tết sản phẩm, tìm kếm sách mong muốn và thêm vào gỏ hàng.

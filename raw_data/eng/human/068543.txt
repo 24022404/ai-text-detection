@@ -1,0 +1,1 @@
+checksum : A unique identifier (e.g., hash) for the APK being analyzed.·perms : A list of permissions extracted from the APK.

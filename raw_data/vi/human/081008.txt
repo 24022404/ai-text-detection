@@ -1,0 +1,1 @@
+Frontend chứa gao vện của toàn bộ webste, phía frontend còn sử dụng Redux điểm quản lý state và truyền bến giữa các components trong cùng một trang web. Hệ thống sử dụng thư viện HTTPClient là xos. Axos cung cấp API để xử lý request truyền tả yêu cầu từ phía client lên server.Routes: Yêu cầu từ người dùng sẽ được điều hướng.

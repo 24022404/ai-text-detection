@@ -1,0 +1,1 @@
+Project admins have the ability to set SLA goals for tracking various request types and resolution times. They can also define specific conditions and calendars to control when SLA measurements begin, pause, stop—such as during public holidays—or are canceled, ensuring accurate SLA tracking.

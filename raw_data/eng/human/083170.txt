@@ -1,0 +1,1 @@
+Because of this special way of working, it can remember past information and use the information to predict results. One of the most popular models of RNN is LSTM (Long Short-Term Memory). LSTM shows its superiority in that it can remember more steps than the traditional RNN model.

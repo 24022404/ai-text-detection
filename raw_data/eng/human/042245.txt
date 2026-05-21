@@ -1,0 +1,1 @@
+In which, bm, dn, µis the bias of itemm ,usern . respectively , and the average of allratings (which is constant) At this point, the loss function can be changed to:

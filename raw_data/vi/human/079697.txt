@@ -1,0 +1,1 @@
+Nhóm Dev không thể hoặc không đồng ý tiến hành công việc nếu không có tài lệu đặc tả về yêu cầu, thiết kế hệ thống. Nhóm test thì yêu cầu tài lệu về sản phẩm điều có thể vết các trường hợp kiểm thử và kiểm thử hệ thống được.

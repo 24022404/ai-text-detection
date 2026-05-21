@@ -1,0 +1,1 @@
+Thông tin đơn hàng: Thành phần giao diện hiển thị tổng số tiền người mua phải trả và nút xác nhận đặt hàng.

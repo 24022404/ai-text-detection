@@ -1,0 +1,1 @@
+per(x) = 1−<f(I),f(I′(x))> Với(x)là vector đặc trưng khuôn mặt. < ., > là tích vô hướng của 2 vecto.c, Regularization Để giảm thiểu sự suy biến của hình dạng và bề mặt khuôn mặt, mô hình sử dụng 1 hàm mất mát trên 3DMM theo công thức sau:

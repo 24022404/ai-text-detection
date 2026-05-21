@@ -1,0 +1,1 @@
+TF đo lường tần suất xuất hiện của một từ trong một văn bản cụ thể. Từ nào xuất hiện nhiều lần hơn trong văn bản thì TF của từ đó càng cao.

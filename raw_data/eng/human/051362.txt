@@ -1,0 +1,1 @@
+Optical flow is the motion of objects between consecutive frames of sequence, caused by the relative movement between the object and camera. Based on the pixels that’s being processed, there are two main methods: Sparse and Dense Optical flow.

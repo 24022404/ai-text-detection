@@ -1,0 +1,8 @@
+Abstract  
+We introduce a novel framework for global image editing driven by free-form textual descriptions. While prior work has focused on localized adjustments or style transfer, our approach enables coherent, scene-wide modifications—such as changing weather, lighting, or semantic content—solely via natural language commands. The core of our method is a cross-modal transformer network that jointly encodes an input image and a target text prompt, then decodes a globally edited output. To train this model, we leverage a large-scale paired dataset of images and synthetic edit descriptions, and optimize a combination of reconstruction, adversarial, and perceptual losses to ensure both fidelity and realism.  
+
+Experiments on standard benchmarks demonstrate significant gains over existing text-guided editing techniques: our method achieves a 20% improvement in semantic alignment (as measured by CLIP-based retrieval metrics) and a 15% increase in user satisfaction scores collected via a human evaluation study. Qualitative results further showcase the system’s ability to perform complex global edits—such as “turn midday into dusk” or “make the cityscape appear futuristic”—while preserving fine details and avoiding unwanted artifacts.  
+
+By unifying image and language representations in a single end-to-end trainable model, our work advances the state of the art in text-to-image editing and opens the door to intuitive, language-based photo manipulation tools in practical applications.  
+
+Keywords: global image editing, text-to-image manipulation, cross-modal transformer, neural image editing, adversarial learning

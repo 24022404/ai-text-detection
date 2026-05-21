@@ -1,0 +1,1 @@
+Đặc tả use case "Tìm kiếm homestay" Chức năng “Tìm kiếm homestay” dành cho những người du lịch đã xác định được mình sẽ điến địa điểm nào trong khoảng thời gian nào... Cho tết được đặc tả ở Bảng 2.2 .

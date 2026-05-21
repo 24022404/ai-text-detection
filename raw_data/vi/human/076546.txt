@@ -1,0 +1,1 @@
+Đảm bảo các chức năng chạy ổn định, không crash giữa chừng.Để tiến hành thực nghiệm, bài toán được triển khai trên hệ thống camera thông minh mà chúng tôi đã xây dựng. Hệ thống này có khả năng tích hợp nhiều bài toán thị giác máy tính khác nhau và được triển khai trên nhiều nền tảng như ứng dụng web, ứng dụng dành cho máy tính, ứng dụng dành cho thiết bị di động.

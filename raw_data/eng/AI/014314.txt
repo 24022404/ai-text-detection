@@ -1,0 +1,1 @@
+In Use Case 1, the encKey Executor executes the Pedersen Protocol steps to generate an encKey in advance, allowing users to encrypt their share securely.

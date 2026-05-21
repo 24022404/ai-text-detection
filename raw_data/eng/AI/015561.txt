@@ -1,0 +1,1 @@
+Implementing JSON-RPC communication is simplified and more dependable when using a well-established library like Jayson, offering a streamlined, reliable approach.

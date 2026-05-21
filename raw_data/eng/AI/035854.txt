@@ -1,0 +1,1 @@
+When n equals 5 and k equals 2, analyzing the family of all k-element subsets grows more complex.

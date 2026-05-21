@@ -1,0 +1,1 @@
+Select the virtual device in the AVD Manager and click the green Play button to launch the emulator.

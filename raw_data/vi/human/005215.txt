@@ -1,0 +1,1 @@
+Tiếp theo ứng dụng sẽ gửi yêu cầu đến máy chủ. Nếu thành công, giao diện ứng dụng sẽ hiển thị kết quả và ảnh đã xử lý, nếu thất bại sẽ hiển thị thông báo lỗ. Ch tết luồng hoạt động xem tạ hình 2.9.

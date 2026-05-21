@@ -1,0 +1,1 @@
+The analysis results can be accessed in two ways: as a JSON object for those making API requests, or visually displayed on a web template.

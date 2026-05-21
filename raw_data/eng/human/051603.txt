@@ -1,0 +1,1 @@
+For buyers, the system aims to provide a user-friendly shopping interface, enabling users to easily search for products and access product information. Along side this, ordering and purchasing functions are implemented, complemented by pages that facilitate tracking of their own orders.

@@ -1,0 +1,1 @@
+The article by Y. M. Chee et al., titled “Locally-constrained de Bruijn codes: Properties, enumeration, code constructions, and applications,” examines de Bruijn codes that meet certain local constraints, detailing their properties, methods for construction, and possible uses.

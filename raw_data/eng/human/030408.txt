@@ -1,0 +1,1 @@
+Machine Learning Integration : Leveraging machine learning models for au tomated malware detection and classification could significantly improve the framework’s detection capabilities.

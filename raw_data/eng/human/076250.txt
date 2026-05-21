@@ -1,0 +1,1 @@
+RNN decoders RNN decoders predict the target sequence from left to right, one token per time step. It initializes the 0thhidden state by zero vector or a ar transformation of the last hidden state of the last layer of the encoder. The following section will discuss on an important component of the NMT model, which are attention mechanisms.

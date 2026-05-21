@@ -1,0 +1,1 @@
+Tính bảo mật: Hệ thống yêu cầu người dùng đăng nhập. Kh đăng nhập, người dùng chỉ có thể sử dụng các chức năng vớ quyền hạn và va trò mà hệ thống đã cấp. Nếu người dùng không có tài khoản đăng nhập sẽ có chức năng đăng kí.

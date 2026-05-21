@@ -1,0 +1,1 @@
+■Giao diện thông tin cá nhân Hình 4.18: Giao diện thông tin cá nhân Hình 4.18 là giao diện thông tin cá nhân của người dùng. Người dùng có thể thay đổi thông tin cá nhân ở màn hình này.

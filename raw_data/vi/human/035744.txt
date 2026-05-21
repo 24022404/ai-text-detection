@@ -1,0 +1,1 @@
+Ngày nay, hầu hết các website điều sử dụng jQuery. jQuery được tích hợp từ module hiệu ứng cho điến module truy vấn selector. Các module chính của jQuery gồm :

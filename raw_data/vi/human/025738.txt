@@ -1,0 +1,1 @@
+Gả pháp Sử dụng ứng dụng (App) trên Droplet của Digitalocean là một gả pháp hiệu quả để trên khay hệ thống web. Điều này cho phép người dùng triển khai và quản lý ứng dụng của họ trên một máy chủ ảo độc lập, mà không cần phải lo lắng về việc quản lý cơ sở hạ tầng của hệ thống.

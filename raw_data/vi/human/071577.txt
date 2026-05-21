@@ -1,0 +1,1 @@
+Dưới đây là những trường hợp kiểm thử được đưa ra điểm kiểm thử 2 tính năng quan trọng ở trong game là gây và nhật sát thương giữa quá và nhân vật, thu thập và sử dụng rune kĩ năng. Vớ cả 2 tính năng này thì điều sử dụng kĩ thuật phân vùng tương đương, điều lấy một trường hợp cụ thể để kiểm tra cả một tính năng lớn và đưa ra kết luận.

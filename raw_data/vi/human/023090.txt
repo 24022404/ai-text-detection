@@ -1,0 +1,1 @@
+Do số lượng route nhiều nên em sẽ chỉ trình bày một và route chính có trong hệ thống và mô tả chúng trong Hình 4.4 .

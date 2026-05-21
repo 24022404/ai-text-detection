@@ -1,0 +1,1 @@
+Nếu yêu cầu được xác nhận hợp lệ, quản trị viên sẽ tiến hành chuyển khoản cho bên trung tâm. Khí nhận được tiền theo đúng yêu cầu, bên đại diện trung tâm sẽ bấm xác nhận chuyển khoản Quy trình thực hiện như hình 2.10.

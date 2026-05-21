@@ -1,0 +1,1 @@
+Redis offers data persistence through AOF and RDB methods and enables master-slave replication, allowing the host to sync data to the slave for effective read-write separation.

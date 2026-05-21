@@ -1,0 +1,1 @@
+Giới thiệu về ngôn ngữ lập trình Python Python là một ngôn ngữ lập trình mạnh mẽ và linh hoạt, có nguồn gốc từ sự kết hợp của hiệu suất cao và cú pháp dễ đọc. Vớ thết kế tập trung vào sự đơn giản và sự rõ ràng, Python đã trở thành một trong những ngôn ngữ phổ biến nhất trong cộng đồng lập trình.

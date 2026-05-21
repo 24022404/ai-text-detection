@@ -1,0 +1,1 @@
+Khi ở trong và trò chủ nhà: hệ thống cung cấp chức năng thêm/sửa thông tin của một homestay (như là địa điểm, các loại phòng, giá phòng. . . ) và tắt trạng thái hoạt động của homestay kh cần thiết. Thay đổi trạng thái của các đơn đặt phòng được gửi đến từ người dùng.

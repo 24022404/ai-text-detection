@@ -1,0 +1,1 @@
+The filter size of the convolutional layer is mostly odd, like 3x3 or 5x5. For an odd filter size, the feature map values will define a focal point in the foreground layer. If we choose a filter of size 2x2, 4x4, then we will have difficulty finding the corresponding position of the feature map values in the image space.

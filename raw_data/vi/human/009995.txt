@@ -1,0 +1,1 @@
+Bảo mật trên phía máy khách: JWT được lưu trữ trên máy khách và phải được giữ an toàn. Nếu JWT bị đánh cắp hoặc bị lộ ra ngoài, người tấn công có thể sử dụng nó để truy cập vào tài khoản của người dùng.

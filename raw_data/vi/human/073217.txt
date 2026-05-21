@@ -1,0 +1,1 @@
+Biểu đồ use case phân rã Quản lý đơn hàng Hình 2.2: Biểu đồ use case phân rã Quản lý đơn hàng Usecase quản lý đơn hàng gồm các chức năng chính như sau () CRUD đơn hàng: cho phép tạo mới, chỉnh sửa, xóa, xem danh sách đơn hàng; () Tìm kiếm đơn hàng: cho phép tìm kiếm đơn hàng; () Export danh sách đơn hàng: Cho phép xuất file excel danh sách đơn hàng theo điều kiện tìm kiếm.

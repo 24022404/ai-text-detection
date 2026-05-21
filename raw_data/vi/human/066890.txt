@@ -1,0 +1,1 @@
+Xử lý các vấn đề về bất đồng bộ cũng như thực hiện song song các tác vụ dưới backend cũng gặp một số vấn đề gây ra khoảng thờ gan đợi lớn cho người dùng.

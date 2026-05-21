@@ -1,0 +1,1 @@
+Để quản lý và thao tác trên CSDL ta có thể sử dụng giao diện đồ họa hoặc dạng Command line.2.3.4 Đặc điểm của MYSQL MySQL cũng giống như các hệ quản trị CSDL: Access, SQL Server, Postgresql, Oracle, phần mềm mã nguồn mở do có thể tải miễn phí từ trang chủ. Nó có nhiều phiên bản cho các hệ điều hành khác nhau như Windows, Linux, Mac OS X, Unix, Solaris ... .

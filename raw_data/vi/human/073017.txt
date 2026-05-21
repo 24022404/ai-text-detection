@@ -1,0 +1,1 @@
+b Thông báo thông tin không hợp lệ Bảng 2.18: Bảng Đặc tả use case  Quản lý danh mục 2.3.18 Đặc tả use case  Đặt hàng Tên ca sử dụng: Đặt hàng ID:18 Tác nhân chính: Khách hàng Mục điích: Khách hàng muốn điặt hàng Mô tả: Ca sử dung mô tả khách hàng muốn điặt hàng Kịch hoạt: Khách hàng chọn điặt hàng Luồng sự kện chính:

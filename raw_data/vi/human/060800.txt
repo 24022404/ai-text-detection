@@ -1,0 +1,1 @@
+Quản trị viên vào xác nhận đơn hàng hoặc hủy đơn hàng Hình 4.34: Quản trị vên xem đơn hàng khởi tạo của ngày hôm nay Tiếp theo đó quản trị vên xác nhận đơn hàng và tạo người vận chuyển cho đơn hàng đi Hình 4.35: Xác nhận đơn và tạo người vận chuyển đơn Cuối cùng quản trị viên hoàn thành đơn nếu đỉa gao điơn xong cho User:

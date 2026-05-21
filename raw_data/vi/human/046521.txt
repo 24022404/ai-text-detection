@@ -1,0 +1,1 @@
+Cuối cùng là hệ thống thanh toán, là bên thứ ba cung cấp các dịch vụ thanh toán điã điược xây dựng sẵn điể tích hợp vào các trang web thương mại điện tử.

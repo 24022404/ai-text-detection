@@ -1,0 +1,1 @@
+PostgreSQL supports both synchronous and asynchronous replication, ensuring high availability and fault tolerance. These features provide data redundancy and improve accessibility even if hardware failures occur.

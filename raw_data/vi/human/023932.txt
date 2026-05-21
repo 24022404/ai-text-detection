@@ -1,0 +1,1 @@
+Gả pháp Để giải quyết bài toán trên tác giả đã xây dựng một hệ thống gợi ý cho người dùng. Do hạn chế về mặt dữ liệu nên tác giả đã chọn phương pháp Content Based Filtering. Đây là phương pháp gợi ý các tem dựa vào hồ sơ (profiles) của người dùng hoặc dựa vào nội dung/thuộc tính (attributes) của những tem tương tự như temple mà người dùng đã chọn trong quá khứ.

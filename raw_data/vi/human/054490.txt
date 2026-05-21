@@ -1,0 +1,1 @@
+Mục 5.3.2 trình bày về biểu đồ CPM, một trong những phương pháp phổ biến gúp biểu diễn các công việc trong dự án.

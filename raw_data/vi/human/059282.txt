@@ -1,0 +1,1 @@
+Nhưng JS lạ quá tự do. Việc một dự án lớn phả mở rộng khiến cho sự tự do của JS trở thành nhược điểm. Kiến trúc của 1 dự án Nodejs sẽ không theo 1 quy chuẩn nào cả. Lấy cảm hứng từ kiến trúc của Angular và các công nghệ như .NET Core hay Java Spring, Các lập trình viên đã tạo ra 1 framework chính là extJS.

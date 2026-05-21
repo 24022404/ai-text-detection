@@ -1,0 +1,5 @@
+Phương pháp tính toán khả năng chịu lực của liên kết cốt cứng giữa cột vách và dầm sàn trong các công trình xây dựng hiện đại đang là vấn đề quan tâm của nhiều nhà thiết kế và kỹ sư. Liên kết cốt cứng là phần quan trọng của kết cấu chịu lực, đảm bảo sự liên kết chặt chẽ giữa các thành phần cấu trúc.
+
+Để tính toán khả năng chịu lực của liên kết cốt cứng này, cần áp dụng các phương pháp tính toán khoa học và chính xác. Một trong những phương pháp được đề xuất là sử dụng mô hình toán học kết hợp với các phương pháp tính toán cơ học vật lý. Phương pháp này sẽ giúp xác định được khả năng chịu lực của liên kết cốt cứng dưới tác động của các tải trọng khác nhau.
+
+Phương pháp này cũng sẽ giúp xác định được giới hạn chịu lực của liên kết cốt cứng, từ đó giúp nhà thiết kế và kỹ sư có thể thiết kế và xây dựng các công trình xây dựng an toàn và bền vững. Việc áp dụng phương pháp tính toán này sẽ giúp giảm thiểu rủi ro và đảm bảo sự an toàn cho người sử dụng công trình.

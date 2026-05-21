@@ -1,0 +1,1 @@
+Chapter 4 presents evaluation results of SOTA on violence detection as well as our proposed method on the AICS - violence and a standard benchmark dataset.

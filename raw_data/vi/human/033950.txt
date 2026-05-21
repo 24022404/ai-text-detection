@@ -1,0 +1,1 @@
+jQuery là một thư viện JavaScrpt được thiết kế điơn gản hóa thao tác HTML DOM, cũng như xử lý sự kện, hoạt ảnh CSS và Ajax. jQuery giúp việc xây dựng các chức năng bằng JavaScrpt dễ dàng, nhanh chóng và đia dạng tính năng.

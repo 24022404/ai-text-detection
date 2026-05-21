@@ -1,0 +1,1 @@
+Chọn Cập nhật tài khoản.  Hệ thống hiển thị thông báo “Cập nhật tài khoản thành công” và lưu thay đổi vào cơ sở dữ liệu.  Hệ thống hiển thị thông báo “Cập nhật tài khoản thành công” và lưu thay đổi vào cơ sở dữ liệu.  Đạt TC02  1. Đ tớ mục Tài khoản của tô.

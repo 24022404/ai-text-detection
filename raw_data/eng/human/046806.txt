@@ -1,0 +1,1 @@
+R. Aljundi, F. Babiloni, M. Elhoseiny, M. Rohrbach andT. Tuytelaars, “Memory aware synapses: Learning what (not) to forget,” inEuropean Conference on Computer Vision 2017.

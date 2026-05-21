@@ -1,0 +1,1 @@
+Permsson : Thực thể "Permsson" mô tả một người dùng trong hệ thống có thể. Mỗ "Permsson" có thể có nhều "Role" và nhều "Permsson".

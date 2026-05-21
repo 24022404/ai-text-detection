@@ -1,0 +1,1 @@
+C. Tuma, O. Morandn andV. Carda, “Mnmzng the makespan for the problem of reactve producton schedulng n a fms wth agvs usng a new structure of chromosome n a hybrd ga wth ts,” nIEEE Internatonal Conference on Emergng Technologes and Factory Automaton, ETFA 2013.

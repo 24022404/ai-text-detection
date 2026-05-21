@@ -1,0 +1,9 @@
+Objective: Predicting imminent human-object interactions in first-person video is critical for applications in augmented reality, assistive robotics, and human–machine collaboration. Existing methods often treat action forecasting and attention modeling separately, limiting their ability to anticipate fine-grained hand–object dynamics. 
+
+Methods: We propose a unified deep learning framework that jointly predicts motor attention—defined as gaze-informed hand trajectories—and subsequent action labels from egocentric video. Our model employs a shared convolutional backbone to extract spatio-temporal features, followed by two task-specific heads: (1) a motor-attention module that generates heatmaps of likely hand–object contact regions using a recurrent spatial attention mechanism; (2) an action-forecasting branch that integrates these attention cues with global motion representations to predict the next interaction class. We train the network end-to-end with a composite loss combining attention-map regression and cross-entropy action loss.
+
+Results: Experiments on two benchmark egocentric datasets demonstrate that joint learning of attention and action leads to significant gains: our approach achieves up to 18% relative improvement in early action prediction accuracy and a 22% reduction in attention-map error compared to single-task baselines. Ablation studies confirm the complementary benefits of shared features and cross-task attention fusion.
+
+Conclusion: By coupling motor attention forecasting with action prediction, our method delivers more reliable and interpretable forecasts of human–object interactions. This joint approach opens new avenues for responsive assistive systems and interactive AR interfaces. 
+
+Keywords: motor attention, action forecasting, first-person video, human–object interaction, multi-task learning, deep neural networks.

@@ -1,0 +1,1 @@
+Kịch bản Kết quả Số lượng tài khoản hiện tại là 1 Thông báo lỗ: Cần ít nhất 2 tài khoản để xóa Số lượng tài khoản hiện tại lớn hơn 1 Thông báo thành công Bảng 4.18: Các trường hợp kiểm thử c, Kiểm thử chức năng tạo công việc mà Người dùng nhập thông tin các trường. Trong đó có các trường cần kiểm thử là :

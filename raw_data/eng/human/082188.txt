@@ -1,0 +1,1 @@
+ˆy(i,j,c) t = [c=c′p′(i,j,c′) T] where p′(i,j) Tis predicted probability obtained by teacher M′of pixel x(i,j) Tand[·] denotes the Iverson bracket. Follow DACS strategy, we use the ratio of pixels that q(i) j=1[max c′p′eaxample:

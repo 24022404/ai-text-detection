@@ -1,0 +1,1 @@
+These selected sentences are replaced with a special token, <mask>, in the input, and the model is trained to generate the combined form of these sentences, creating a "pseudo-summary", shown in figure 3.1. This process resembles abstractive summarization, as the model reconstructs the masked sentences using the available information from the remaining parts of the documents.

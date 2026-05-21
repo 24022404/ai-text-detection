@@ -1,0 +1,1 @@
+Frontend: The user-facing part of the application where customers and providersinteract. Customers can easily access and book services, while providers can man age their offerings.

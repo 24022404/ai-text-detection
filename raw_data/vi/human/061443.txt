@@ -1,0 +1,1 @@
+Tổng số bước thờ gan cho mỗi lần sinh giá trị đánh giá là 3072 bước. Đều này đảm bảo bao quát được hết toàn bộ các trường hợp của mô trường. Ở đây chiều tăng giảm của giãn cách tạo xe).

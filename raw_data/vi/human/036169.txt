@@ -1,0 +1,1 @@
+Hướng tiếp cận thay thế và giả thích sự lựa chọn Hướng tiếp cận thay thế có thể được chọn là React Native. Flutter được lựa chọn trong đồ án này vì Flutter có nhiều ưu điểm nổi trội hơn React Native như là hiệu năng cao và có thể chạy trên nhiều môi trường hơn so với React Native.

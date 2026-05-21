@@ -1,0 +1,1 @@
+Tiếp điến là kiểu chữ. Kiểu chữ đảm bảo cho người dùng đọc và nhận biết dễ dàng, không gây mỏi mắt hoặc khó đọc. Kiểu chữ đơn giản được dùng là Aral với kích cỡ 14px. Các kiểu chữ khác tương tự được sử dụng trong trường hợp trình duyệt không hỗ trợ kiểu chữ chính như Roboto, sans serif.

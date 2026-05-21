@@ -1,0 +1,1 @@
+FL algorithms then aim to update the global model parameters wby aggregating the local model updates (either parameters or gradients) from each node:

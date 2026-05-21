@@ -1,0 +1,1 @@
+Ga đoạn kiểm thử, em sử dụng kết hợp các kĩ thuật kiểm thử như phân vùng tương đương, phân tích giá trị bên và đoán lỗ.

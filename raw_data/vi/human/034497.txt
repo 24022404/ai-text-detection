@@ -1,0 +1,1 @@
+Trang tổng quan (hình 5.6) gồm các biểu đồ thể hiện số lượt xem theo thờ gan và phân bố lượng người dùng theo các tiêu chí như loại thiết bị, vị trí địa lý... Cung cấp một góc nhìn tổng quát về tập hợp người đọc báo điện tử.

@@ -1,0 +1,1 @@
+Django cho phép người dùng kiểm soát chặt chẽ quá trình phát triển website thông qua một nền tảng duy nhất, từ quản lý cơ sở dữ liệu, xử lý yêu cầu HTTP, quản lý phên, cho điến trình diễn giao diện người dùng. Django có khả năng xử lý những vấn đề phức tạp điển người dùng tập trung vào việc xây dựng các ứng dụng web của mình.

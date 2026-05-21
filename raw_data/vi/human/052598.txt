@@ -1,0 +1,1 @@
+Sử dụng bảng phụ điể lưu các customfelds tương ứng điố với thư vện. Thêm một bảng phụ điể lưu các custom felds và một bảng khác điể lưu các gá trị tương ứng của thư vện vớ customfelds.

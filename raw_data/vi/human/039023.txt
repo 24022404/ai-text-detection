@@ -1,0 +1,1 @@
+Kến trúc cơ bản của CNN bao gồm các lớp sau: lớp tích chập (convolutonal layer), lớp tổng hợp (poolng layer) và lớp kết nối điầy điủ (fully connected layer).

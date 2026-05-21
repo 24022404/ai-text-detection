@@ -1,0 +1,1 @@
+Lý do lựa chọn Hiện nay, ngoài việc sử dụng Fast API, còn có nhiều công nghệ có thể hỗ trợ như SocketIO và Flask. Tuy nhiên tôi vẫn sử dụng Fast API vì những lý do sau () dễ dàng tiếp cận đối với người mới sử dụng () tốc độ truyền tn cao () hiệu suất cao (v) có thể xử lý bất đồng bộ.

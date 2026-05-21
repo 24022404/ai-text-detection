@@ -1,0 +1,1 @@
+Trong đó có các kểu ngôn ngữ như C , VB.Net và J . Sau điây em xin trình bày những tìm hiểu của mình về một số nền tảng cơ bản của ASP.NET.

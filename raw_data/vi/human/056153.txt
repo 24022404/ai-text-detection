@@ -1,0 +1,1 @@
+Trách nhiệm về chất lượng sản phẩm: đảm bảo độ tin cậy, hiệu suất; đảm bảo được các yêu cầu, tính năng cần thiết của phần mềm. Kh sản phẩm được đưa đến khách hàng phải là một sản phẩm đạt đủ các yêu cầu của khách hàng về giao diện, cấu trúc, tính năng, ... và đảm bảo không có bất cứ lỗ nào trên sản phẩm.

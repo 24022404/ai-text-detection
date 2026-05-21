@@ -1,0 +1,1 @@
+However, each block has a usage cost limit. An attacker could exploit this limitation to perform a Denial of Service (DoS) attack on vulnerable smart contracts.

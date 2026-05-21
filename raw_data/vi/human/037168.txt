@@ -1,0 +1,1 @@
+Rado button Dùng để confg (không tự submt, không được dùng để thực th hành động).  Checkbox Dùng để confg (không tự submt, không được dùng để thực th hành động) Popup Phả có con đióng ở góc trên cùng, bên phải hoặc bên trá của popup. Và vị trí điặt con đióng phả đồng nhất với các popup khác.

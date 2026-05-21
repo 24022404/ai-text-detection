@@ -1,0 +1,1 @@
+Báo cáo Khảo sát dành cho nhà phát triển StackOverflow mới nhất năm 2021 đã khẳng định React là web framework được các nhà phát triển lựa chọn nhiều nhất.

@@ -1,0 +1,1 @@
+Chapter 1 provides an overview of the QKD protocol, emphasizing the importance of synchronization in satellite quantum channels. It particularly analyzes the timing and synchronization system introduced by Zhang, Oi, Lowndes, et al., aiming to uncover potential drawbacks and limitations.

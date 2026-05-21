@@ -1,0 +1,1 @@
+Kết chương: trong chương này đã trình bày khái niệm và các phương pháp cơ bản để giải quyết bài toán phân vùng ảnh, giới thiệu 3 phương pháp tính tích chập bao gồm: tích chập thông thường, tích chập dãn nở và tích chập tách biệt chiều sâu.

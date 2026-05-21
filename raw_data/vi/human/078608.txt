@@ -1,0 +1,1 @@
+Thường thì Principal Component Analysis (PCA) được sử dụng để nắm bắt sự chênh lệch này. Mỗ khuôn mặt sau đó có thể được biểu diễn dưới dạng một tập hợp hệ số trong không gian PCA này, điều này giúp có thể tạo ra khuôn mặt mới chỉ bằng cách thay đổi những hệ số này.

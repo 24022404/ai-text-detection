@@ -1,0 +1,1 @@
+Nếu tếp cận Kafka từ góc nhìn của nền tảng cơ sở dữ liệu quan hệ thì có thể co message tương tự như một hàng (row) trong một bảng dữ liệu. Một message chỉ điơn gản là một mảng byte, vì vậy dữ liệu chứa trong đó không có định dạng cụthể.

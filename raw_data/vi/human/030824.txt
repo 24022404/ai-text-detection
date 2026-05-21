@@ -1,0 +1,1 @@
+Nhiễu Gaussian: Đây là một phép thêm nhiễu thường được sử dụng trong những bài toán thị giác máy tính vì nó giúp cho mô hình phả học được đặc trưng của dữ liệu thay vì hướng sự chú ý vào những thành phần nhiễu có sẵn trong ảnh. Nhiễu này hiện đang để tham số mặc định có phương sa là 20 với giá trị trung bình bằng 0.

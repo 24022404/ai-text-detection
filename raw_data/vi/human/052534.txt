@@ -1,0 +1,1 @@
+Lớp UserController User Controller + get My Schedule(): Array + get Class Schedule(): Array + get Current User(): Object Bảng 4.4: Lớp Usercontroller Ý nghĩa các phương thức:

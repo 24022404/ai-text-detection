@@ -1,0 +1,1 @@
+Sự khác biệt quan trọng giữa Magento Open Source và Magento Commerce nằm ở chức năng và mức độ chi phí cho việc duy trì hệ thống.

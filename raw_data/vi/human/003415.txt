@@ -1,0 +1,1 @@
+Express Express là framework NodeJS phổ biến nhất dùng để xây dựng các API cho ứng dụng. Express nhẹ, cực kỳ nhanh và là gả pháp lý tưởng cho việc xây dựng các Single Page Application.

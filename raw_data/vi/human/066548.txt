@@ -1,0 +1,1 @@
+Người dùng nhập từ khóa tìm kiếm, lựa chọn các điều kiện tìm kiếm và nhấn nút "Lọc tìm kiếm".

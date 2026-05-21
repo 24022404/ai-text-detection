@@ -1,0 +1,1 @@
+Middleware – là các chức năng nâng cao cho Redux, cho phép thực hiện các tác vụ phức tạp như gọi API, xử lý bất đồng bộ.

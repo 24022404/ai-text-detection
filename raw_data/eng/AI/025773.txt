@@ -1,0 +1,1 @@
+Chapter 5 examines system deployment, including test results and the current status of implementation. In contrast, Chapter 6 focuses on building the system itself and details the results that have been achieved throughout the development process.

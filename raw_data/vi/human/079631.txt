@@ -1,0 +1,1 @@
+Vớ hệ thống hỗ trợ lựa chọn nhà cung cấp đám mây, có chức năng tìm kiếm các dịch vụ đám mây dựa trên nhiều tiêu chí. Thực hiện các thao tác để tạo những yêu cầu sau đó xem các dịch vụ đám mây có nhà cung cấp phù hợp được hệ thống gợi ý,...Như vậy, để giúp người dùng thao tác dễ dàng hơn, có các trải nghiệm chất lượng hơn trên website, tô quyết định sử dụng Javascript.

@@ -1,0 +1,1 @@
+Kh trển kha trên hệ thống thực tế phải sử dụng giao thức HTTPS điể giao tếp gữa server và client cho phép trao điổ thông tin một cách an toàn trên nternet.

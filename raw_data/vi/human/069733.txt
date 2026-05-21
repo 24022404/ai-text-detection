@@ -1,0 +1,1 @@
+Tất cả những điặc tính đó khến cho Kafka trở thành một hệ thống truyền thông điệp có hiệu năng vượt trộ dưới khối lượng dữ liệu tả lớn. Do vậy công nghệ này được lựa chọn để sử dụng trển kha trong nền tảng dữ liệu TTCK của nhóm.

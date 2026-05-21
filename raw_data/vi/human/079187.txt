@@ -1,0 +1,1 @@
+SI2: Ứng dụng web SI2.1: Ứng dụng web sẽ có thể thực hiện các yêu cầu HTTP và nhận phản hồ HTTP.

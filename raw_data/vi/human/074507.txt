@@ -1,0 +1,1 @@
+Thiếu dữ liệu gán nhãn: Trong những trường hợp cụ thể, chúng ta có thể có nhiều dữ liệu không gán nhãn. Trong tình huống này, việc huấn luyện một mô hình học sâu đò hỏ sự can thiệp của con người để gán nhãn, hoặc sử dụng các phương pháp học không giám sát hoặc bán giám sát, nhưng chúng có thể không mang lại hiệu suất tốt như học giám sát và dữ liệu gán nhãn điầy đủ.

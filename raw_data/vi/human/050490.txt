@@ -1,0 +1,1 @@
+MySQL là một hệ quản trị cơ sở dữ liệu quan hệ (RDBMS  Relational Database Management System) được sử dụng để lưu trữ và quản lý dữ liệu trong các bảng có cấu trúc. MySQL sử dụng ngôn ngữ truy vấn cấu trúc (SQL  Structured Query Language) điểm thao tác, truy xuất, và quản lý dữ liệu trong cơ sở dữ liệu.

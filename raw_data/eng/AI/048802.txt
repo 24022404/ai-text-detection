@@ -1,0 +1,9 @@
+This paper addresses the challenge of enhancing video quality to improve action recognition performance by developing an advanced video super-resolution (VSR) method tailored for this task. Traditional VSR techniques often fail to prioritize action dynamics, leading to suboptimal input for action recognition systems.
+
+Methods: We propose a novel two-stream VSR framework specifically designed for action recognition. The framework consists of a spatial stream and a temporal stream, each leveraging deep learning models to capture high-quality spatial details and motion information, respectively. The spatial stream focuses on reconstructing fine details in each frame, while the temporal stream enhances motion continuity between frames. These reconstructed outputs are then integrated to optimize the input for action recognition models.
+
+Results: Our method demonstrates superior performance in generating high-resolution videos that significantly improve action recognition accuracy. Through extensive experiments on benchmark datasets, our approach outperforms existing VSR methods, showing a marked increase in recognition rates while maintaining low computational overhead. Quantitative metrics highlight notable enhancements in spatial resolution and motion clarity, critical for accurate action recognition.
+
+Conclusion: The proposed two-stream VSR model presents a significant advancement in the realm of video processing for action-oriented tasks. By simultaneously addressing spatial and temporal dimensions, our method contributes to more accurate and reliable action recognition. This work not only improves existing recognition systems but also opens avenues for future research in integrating VSR with other video-based analytical applications.
+
+Keywords: video super-resolution, action recognition, two-stream framework, spatial stream, temporal stream, deep learning, video quality enhancement.

@@ -1,0 +1,1 @@
+After careful consideration, I opt to translate the Newshead dataset , which takes approximately 7 days to complete. I utilize it as a Vietnamese pretraining dataset for my model. The figure 2.2 illustrates the dataset length distribution.

@@ -1,0 +1,1 @@
+Thiết kế tổng quan Dưới đây là thiết kế tổng quan về các góc có trong trang web Hình 4.2: Thiết kế tổng quan các gói Thiết kế bao gồm 2 gó chính: Frontend và Backend. Trong đó Frontend chứa mã nguồn giao diện người dùng, giao diện của nhân viên quản trị, còn Backend sẽ chứa mã nguồn của phía máy chủ và kết nối với cơ sở dữ liệu.

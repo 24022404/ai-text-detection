@@ -1,0 +1,5 @@
+Simulink tương tác giữa cọc và đất sử dụng lý thuyết phần tử hữu hạn trong trường hợp cọc bị tải ngang đã trở thành một chủ đề quan trọng trong lĩnh vực xây dựng và cơ sở hạ tầng. Lý thuyết phần tử hữu hạn cho phép mô phỏng chính xác quá trình tương tác giữa cọc và đất, giúp dự đoán được độ bền và ổn định của cọc trong các điều kiện tải trọng khác nhau.
+
+Trong trường hợp cọc bị tải ngang, tương tác giữa cọc và đất có thể gây ra các vấn đề về ổn định và độ bền của cọc. Sử dụng lý thuyết phần tử hữu hạn, các nhà nghiên cứu có thể mô phỏng quá trình tương tác này và dự đoán được các kết quả về độ bền và ổn định của cọc.
+
+Kết quả của nghiên cứu này có thể giúp các kỹ sư và nhà xây dựng thiết kế và xây dựng cọc một cách an toàn và hiệu quả hơn, giảm thiểu rủi ro về ổn định và độ bền của cọc.

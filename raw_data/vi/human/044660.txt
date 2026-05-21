@@ -1,0 +1,1 @@
+Điểm neo kết hợp. Vì đây là quá trình xếp hạng không giám sát, thuật toán sẽ sử dụng giá trị trung bình hình học điểm kết hợp các giá trị trong từ đó có được điểm số của thuật ngữ trong phân cụm nút Taxonomy.

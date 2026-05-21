@@ -1,0 +1,9 @@
+Objective: Instance segmentation on 3D point clouds is central to applications in robotics, autonomous driving, and augmented reality, yet its task definitions and evaluation metrics remain largely inherited from 2D vision, obscuring true model performance. This paper aims to rethink both the problem formulation and the metrics used to assess instance segmentation in 3D.
+
+Methods: We first introduce a refined task definition that explicitly accounts for the irregular, unstructured nature of point cloud data and the spatial continuity of object instances. Building on this, we propose a suite of novel evaluation metrics—including Shape‐Aware Intersection over Union (SA-IoU), Boundary Consistency Score (BCS), and Instance Completeness Rate (ICR)—designed to capture volumetric overlap, surface fidelity, and split/merge errors. We integrate these into an open-source evaluation toolkit and benchmark popular deep learning frameworks on publicly available datasets (e.g., ScanNet, S3DIS).
+
+Results: Our experiments reveal significant discrepancies between traditional and proposed metrics: methods that rank highly under standard 3D IoU often underperform in boundary fidelity and instance completeness. The new metrics provide more discriminative insights, exposing strengths and weaknesses of existing architectures and guiding more targeted model improvements.
+
+Conclusion: By redefining the task and introducing comprehensive, shape‐aware metrics, this work lays the groundwork for more meaningful comparisons and advances in 3D instance segmentation. We release our evaluation suite and benchmark results to foster community-wide adoption and drive progress toward robust, real‐world 3D perception systems.
+
+Keywords: 3D point cloud, instance segmentation, evaluation metrics, shape‐aware IoU, boundary consistency, benchmarking

@@ -1,0 +1,1 @@
+Hệ thống chữa tự động trên kha lạ sau khi có thay đổi mới trong mã nguồn mà cần khởi động lạ một cách thủ công.

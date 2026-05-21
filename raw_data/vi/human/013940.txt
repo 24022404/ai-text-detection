@@ -1,0 +1,1 @@
+Độ sâu của mô hình được tính bằng số tầng ẩn cộng một.Hình 2.2: Kiến trúc mạng nơron gồm k tầng ẩn Kiến trúc chung của mạng nơron nhân tạo bao gồm thành phần: Tầng đầu vào, Tầng ẩn và Tầng đầu ra.

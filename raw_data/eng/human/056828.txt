@@ -1,0 +1,1 @@
+Then, for each vertex in the graph, the algorithm updates the distance estimates by considering the possibility of going through that vertex to reach other vertices. The algorithm repeats this process for every vertex in the graph, so that the distance estimates gradually improve with each iteration.

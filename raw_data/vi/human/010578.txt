@@ -1,0 +1,1 @@
+Dùng ma trận tìm được điểm chuyển bản đồ Gaussen về hình dạng của hộp ký tự. Đố vớ affinity score, nối hai đường chéo của hộp ký tự tạo thành 2 tam giác phía trên và phía dưới. Và một affinity box có đỉnh là tâm của 4 cá tam Hình 2.6: Kiến trúc của mô hình phát hiện văn bản CRAFT gác của 2 hộp ký tự liền kề.

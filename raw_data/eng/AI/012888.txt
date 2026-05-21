@@ -1,0 +1,1 @@
+The social network system relies on a relational SQL database, particularly PostgreSQL, to efficiently store and manage user information, including details like name, username, and avatar URL. This setup ensures data integrity and supports seamless retrieval and update operations.

@@ -1,0 +1,5 @@
+Thiết kế thí nghiệm mô hình vật lý nghiên cứu tương tác sóng với kết cấu đê cọc rỗng mặt cắt hình M là một dự án khoa học quan trọng nhằm hiểu rõ hơn về sự tương tác giữa sóng và kết cấu đê cọc rỗng. Mục tiêu của dự án này là thiết kế và thực hiện thí nghiệm mô hình để nghiên cứu sự tương tác giữa sóng và kết cấu đê cọc rỗng mặt cắt hình M.
+
+Thí nghiệm sẽ được thực hiện trên mô hình vật lý có kích thước lớn, với kết cấu đê cọc rỗng mặt cắt hình M được tạo ra bằng vật liệu có độ bền cao. Sóng sẽ được tạo ra bằng cách sử dụng thiết bị tạo sóng chuyên dụng, và sẽ được truyền vào mô hình để nghiên cứu sự tương tác giữa sóng và kết cấu đê cọc rỗng.
+
+Kết quả của thí nghiệm sẽ giúp hiểu rõ hơn về sự tương tác giữa sóng và kết cấu đê cọc rỗng, và sẽ cung cấp thông tin quan trọng cho việc thiết kế và xây dựng các kết cấu đê cọc rỗng trong thực tế.

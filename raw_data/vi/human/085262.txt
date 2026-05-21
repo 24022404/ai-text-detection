@@ -1,0 +1,1 @@
+Collaborative Filtering Collaborative Filtering (CF) là một trong những phương pháp và phổ biến trong gợi ý sản phẩm, dựa trên ý tưởng sự tương quan giữa khách hàng và sản phẩm có thể được xác định thông qua việc xem xét hành vi hoặc sở thích của các khách hàng tương tự.

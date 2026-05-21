@@ -1,0 +1,1 @@
+The thesis proves that ck,sis is the longest (k, s)-RdB sequence, while Figure 4.1 shows that, within a 6-MdB circle, every substring created by combining the suffix and prefix results in a (6,2)-RdB sequence, illustrating this property.

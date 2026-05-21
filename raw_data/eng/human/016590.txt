@@ -1,0 +1,1 @@
+J. Carreira, E. Noland, C. Hillier and A. Zisserman, A short note on the kinetics-700 human action dataset ,july 2019. J. Deng, W. Dong, R. Socher, L.-J. Li, K. Li and F.-F. Li, “Imagenet: A large-scale hierarchical image database,” june 2009, pages 248–255. DOI:

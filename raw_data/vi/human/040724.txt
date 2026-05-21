@@ -1,0 +1,1 @@
+Unidirectional data flow: Dữ liệu trong ReactJS di chuyển theo một hướng duy nhất, giúp cho việc quản lý trạng thái của ứng dụng dễ dàng hơn.

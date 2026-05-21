@@ -1,0 +1,1 @@
+Teacher acts as a supporter for students and manages the contents uploaded to the system, which includes exercises and lessons. Teacher also has all the ability of a User.

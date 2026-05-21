@@ -1,0 +1,1 @@
+Lý do lựa chọn OpenCV cung cấp nhiều hàm hỗ trợ cho việc xử lý hình ảnh và đọc ghi video.

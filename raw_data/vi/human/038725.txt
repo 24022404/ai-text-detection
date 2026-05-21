@@ -1,0 +1,1 @@
+Có mối quan hệ 1 n giữa View và ViewModel nghĩa là nhiều View có thể được kết hợp với một ViewModel. View hoàn toàn độc lập. Bidirectional data binding hay two way data binding giữa View và ViewModel đảm bảo rằng các models và thuộc tính ở ViewModel được đồng bộ với Web. Mô hình MVVM sẽ phù hợp với những ứng dụng cần được hỗ trợ bidirectional data binding..

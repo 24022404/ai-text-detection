@@ -1,0 +1,1 @@
+Bên cạnh đó, ĐANG hướng tới sử dụng ha mô đun cho hệ thống kiểm tra và sửa lỗi chính tả. Chính vì vậy, ĐATN sẽ hướng tới xây dựng và phát triển một hệ thống kiểm tra và sửa lỗi chính tả bằng cách sử dụng các công nghệ ReactJS cho phần giao diện, Flash cho phần máy chủ. Bên cạnh đó, em sử dụng Freestore (một công nghệ của Google) để lưu trữ dữ liệu cho hệ thống.

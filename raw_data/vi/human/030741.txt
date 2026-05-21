@@ -1,0 +1,1 @@
+Thêm tính năng trả lời một tin nhắn, thả cảm xúc cho một tin nhắn và gửi thông báo về email khi có tin nhắn mới cho người dùng đang off.Tổng hợp kiến thức cơ bản về webrtc . [On]. Available:  com/vn/blog/post/webrtc log (visited on 09/30/2010).

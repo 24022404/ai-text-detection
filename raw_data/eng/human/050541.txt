@@ -1,0 +1,1 @@
+Data labeling The model that was chosen was a supervised one, which means it would require data with labels with the expected format like illustrated below:

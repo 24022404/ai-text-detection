@@ -1,0 +1,1 @@
+Hệ thống hiển thị hình ảnh lấy từ camera còn lại (nếu hiện tại là camera trước thì sau khi chọn chức năng này hệ thống sẽ lấy hình ảnh từ camera sau, nếu hiện tại là camera sau thì sau khi chọn chức năng này hệ thống sẽ lấy hình ảnh từ camera trước) của người dùng lên màn hình và chia sẻ hình ảnh đó với những người tham gia video call.

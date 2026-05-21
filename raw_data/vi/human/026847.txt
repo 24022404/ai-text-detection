@@ -1,0 +1,1 @@
+Về cơ sở dữ liệu, em sử dụng hệ quản trị cơ sở dữ liệu MySQL. MySQL có tốc độ khá cao, ổn định và khá dễ sử dụng có thể hoạt động được trên khá nhiều hệ điều hành, đồng thờ là một cơ sở dữ liệu quan hệ nên dễ dàng tổ chức ràng buộc dữ liệu theo nhu cầu của đồ án này.1.4 Bố cục đồ án Phần còn lại của báo cáo đồ án tốt nghiệp này được tổ chức như sau:

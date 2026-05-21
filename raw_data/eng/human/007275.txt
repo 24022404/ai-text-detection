@@ -1,0 +1,1 @@
+Prototypal Inheritance: JavaScript uses prototypes to enable object inheri tance, allowing objects to inherit properties and methods from other objects.

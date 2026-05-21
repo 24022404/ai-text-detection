@@ -1,0 +1,1 @@
+Ví dụ như việc đơn hàng đang được liên kết với sàn thương mại điện tử Tik Tok shop, dữ liệu từ sàn đổ về, đồng thờ người dùng thao tác cập nhật từ phần mềm.

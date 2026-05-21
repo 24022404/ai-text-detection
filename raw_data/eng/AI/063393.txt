@@ -1,0 +1,9 @@
+This paper addresses the limitations of current Vision Transformers (ViTs) in capturing both local and global contextual information efficiently. Traditional ViTs struggle with balancing computational efficiency and the quality of attention over large spatial domains in image data.
+
+Methods/Approach: We propose a novel Local-to-Global Self-Attention mechanism that enhances ViTs by efficiently integrating both localized and global context features during image processing. Our approach involves modifying the standard self-attention layer to transition between local and global attention scopes dynamically, ensuring comprehensive feature representation without substantial computational overhead.
+
+Results/Findings: Experimental results demonstrate that our Local-to-Global Self-Attention model significantly outperforms traditional ViTs on several benchmark datasets, including ImageNet and COCO, in terms of accuracy and processing speed. The proposed method achieves these improvements by reducing redundant computations and optimizing the focus on pertinent image regions, thereby increasing both efficacy and scalability.
+
+Conclusion/Implications: This research contributes to the field of computer vision and neural networks by introducing an efficient and effective method for image interpretation using ViTs. Our Local-to-Global Self-Attention model not only enhances performance but also offers potential applications in real-time image processing systems, autonomous vehicles, and advanced robotics. This innovation sets a new standard for how transformation models perceive and process spatial information.
+
+Keywords: Vision Transformers, Self-Attention, Local-to-Global, Image Processing, Computational Efficiency.

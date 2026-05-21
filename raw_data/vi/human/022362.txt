@@ -1,0 +1,1 @@
+Tuy nhên, xét trên phạm v của đồ án, nhược điểm này có thể tạm thờ bỏ qua.3.4 Cấu trúc của một dự án Laravel Cấu trúc ứng dụng trong Laravel chỉ điơn gản là cấu trúc của các thư mục, thư mục con và tệp tin trong dự án. Kh một dự án Laravel được khở tạo, ta có thể nhìn thấy cấu trúc ứng dụng như Hình 3.6.

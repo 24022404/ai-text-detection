@@ -1,0 +1,9 @@
+Objective: Gradient-weighted Class Activation Mapping (GradCAM) is widely used to visualize and explain convolutional neural network decisions, yet its coarse localization and sensitivity to network depth limit its effectiveness in real-time and resource-constrained settings. This paper introduces a light-weight enhance­ment module, LightCAM, designed to improve the interpretability and explainability of classification networks with minimal computational overhead.  
+
+Methods: LightCAM integrates a shallow attention refinement block that re-weights feature maps before GradCAM aggregation. The block employs channel-wise importance calibration and spatial smoothing, allowing sharper and more focused class activation maps without retraining the backbone network. We evaluate LightCAM on popular architectures (ResNet, MobileNet) across CIFAR-10, CIFAR-100, and ImageNet subsets, measuring localization quality via Intersection over Union (IoU) and the pointing game metric.  
+
+Results: Experiments demonstrate that applying LightCAM yields a 15–25% improvement in IoU and a 10–18% boost in pointing game accuracy over standard GradCAM, while adding less than 2% to overall model parameters and 3 ms to inference time. User studies further confirm higher human agreement scores for LightCAM visualizations. Comparative analysis shows consistent gains over alternative explainability methods such as ScoreCAM and GradCAM++ under identical compute budgets.  
+
+Conclusion: LightCAM offers a practical, plug-and-play solution for enhancing GradCAM-based explanations, particularly suitable for deployment on edge devices and time-critical applications. Its low-cost design preserves classification performance while delivering clearer, more reliable visual insights.  
+
+Keywords: explainable AI, GradCAM, attention refinement, model interpretability, lightweight module, classification networks

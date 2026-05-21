@@ -1,0 +1,1 @@
+Tích hợp gợi ý và tự động hoàn thiện: Hệ thống có thể hỗ trợ gợi ý mã, tự động hoàn thiện từ khóa, các cấu trúc và phần mở rộng mã nguồn, giúp người dùng viết mã một cách nhanh chóng và dễ dàng. Đều này cung cấp một trải nghiệm thuận tiện và tăng hiệu suất trong quá trình lập trình.

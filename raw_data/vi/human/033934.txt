@@ -1,0 +1,1 @@
+Yêu cầu về tính dễ bảo trì Hệ thống được chạy trên nền tảng hosting của google, có các hỗ trợ như log gng, error tracker.

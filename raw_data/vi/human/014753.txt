@@ -1,0 +1,1 @@
+Flutter có một cộng đồng phát triển khá đông đảo, dẫn đến việc các thư viện và plugin liên tục được ra đời, cập nhật và hỗ trợ, phục vụ cho rất nhiều lĩnh vực khác nhau trong lập trình ứng dụng. Trong phạm vi đồ án này các thư viện hỗ trợ có thể kể đến:

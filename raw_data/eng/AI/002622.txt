@@ -1,0 +1,9 @@
+Objective: Efficient detection and classification of traffic events on highways is critical for improving road safety and traffic management. This paper presents a deep‐learning‐based video surveillance framework designed to automatically identify and analyze highway traffic incidents in real time.
+
+Methods: We propose a two‐stage architecture combining a convolutional neural network (CNN) for object detection with a temporal attention module to capture event dynamics. First, a lightweight YOLOv5 backbone extracts vehicle and pedestrian bounding boxes from high‐definition video frames. Second, a temporal transformer aggregates features over sliding windows to distinguish normal flow from anomalies such as sudden stops, lane changes, and collisions. The model is trained end‐to‐end on a custom‐labeled highway dataset covering diverse lighting and weather conditions.
+
+Results: On a test set of 10 000 video clips, our system achieves 92.3% event detection accuracy and processes 25 frames per second on a standard GPU, outperforming baseline methods by 8–12% in precision and recall. Real-time alerts for hazardous events are generated with a mean latency below 150 ms, demonstrating suitability for live traffic monitoring.
+
+Conclusion: The proposed framework offers a scalable, accurate solution for automated highway surveillance. Its combination of spatial CNN features and temporal attention provides robust performance across varied scenarios. This work contributes a novel integration of transformer‐based temporal modeling into traffic event detection, paving the way for smarter, safer road networks.
+
+Keywords: Video Surveillance; Deep Learning; Highway Traffic; Event Detection; Convolutional Neural Network; Temporal Transformer; Real-time Monitoring.

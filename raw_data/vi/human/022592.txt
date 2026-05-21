@@ -1,0 +1,1 @@
+Ví dụ: P(“hôm nay trờ điệp") > P(“trờ đẹp ngày hôm") 2.7.2 Mô hình ngôn ngữ n gram Mục tiêu: Xác định xác suất của 1 câu hoặc một cụm từ:

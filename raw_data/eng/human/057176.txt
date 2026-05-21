@@ -1,0 +1,1 @@
+Text preprocessing includes two steps, including text normalization and text tokenization. Text normalization aims to transform a text into a single canonical form. Text tokenization transforms a sentence into the input format of the NMTmodel. In practice, text normalization is optional, while text tokenization is obligatory.

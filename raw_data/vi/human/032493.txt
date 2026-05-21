@@ -1,0 +1,1 @@
+Đây là một điều là hay thú vị, về tà còn khá nhiều thứ để khai thác. Trong đồ án này, chúng tôi đã thực hiện được các chức năng quan trọng, thiết yếu của ứng dụng Video Conferencing. Tuy nhiên, điểm phần mềm phát triển, hoàn thiện hơn, trong lương là chúng tôi dự định sẽ có tên, bổ sung thêm các chức năng, nghiệp vụ. Đó là:

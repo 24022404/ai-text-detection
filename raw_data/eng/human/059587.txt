@@ -1,0 +1,1 @@
+# Actor Action 1 Supplier Submit the form 2 System System check requirement field, return successful notification 3 System Redirect to list page Table 2.5: Main flow of use case create product Alternative Flows is in table 2.11:

@@ -1,0 +1,1 @@
+Ngoài ra quản lý khách hàng bao gồm quản lý công nợ khách hàng và quản lý danh sách lịch sử gọi cho khách hàng.

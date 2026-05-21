@@ -1,0 +1,1 @@
+View : mục đích chính là hiển thị dữ liệu, tương tác với người dùng thông qua giao diện. Nó làm việc như một cầu nối giữa tầng Logc ứng dụng và người dùng, đảm bảo rằng thông tin được hiển thị rõ ràng, tương tác diễn ra một cách trơn tru.

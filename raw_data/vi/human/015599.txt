@@ -1,0 +1,1 @@
+Hệ thống được trên khay bằng docker . Docker là một nền tảng mã nguồn mở cho việc xây dựng, vận chuyển và chạy các ứng dụng trong các môi trường cô lập gọi là container. Nó cung cấp một cách tiếp cận tiêu chuẩn hóa và sinh hoạt điểm trên kho ứng dụng trên nhiều môi trường khác nhau, bao gồm máy tính cá nhân, máy chủ vật lý và đám mây.

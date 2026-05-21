@@ -1,0 +1,1 @@
+Sửa thông báo Bảng 2.8: Đặc tả use case – Sửa thông báo Tên ca sử dụng: Sửa thông báo ID: 8 Tác nhân chính: Bí thư Mục đích: Bí thư sửa thông báo Mô tả: Ca sử dụng này mô tả cách bí thư sửa thông báo Kích hoạt: Bí thư sửa thông báo Luồng sự kiện chính:

@@ -1,0 +1,7 @@
+Reinforcement learning (RL) has achieved remarkable success in solving complex decision-making problems, yet many model-based RL approaches struggle with balancing exploration and exploitation due to model inaccuracies. In this work, we propose Masked Model-based Actor-Critic (Masked-MBAC), a novel framework that enhances policy learning by selectively trusting the model only when it exhibits high confidence.
+
+Our approach introduces a confidence-aware masking mechanism that identifies unreliable model predictions and prevents them from misleading the policy. Specifically, we employ an uncertainty estimation module that dynamically adjusts the influence of the learned model in policy optimization. When the model is confident, it guides the actor-critic framework for more efficient learning; when uncertainty is high, reliance on model rollouts is reduced to mitigate compounding errors.
+
+Experimental results across various continuous control benchmarks demonstrate that Masked-MBAC significantly improves sample efficiency and policy robustness compared to state-of-the-art model-based and model-free RL methods. Our findings highlight the importance of selective model trust in reinforcement learning, paving the way for more reliable and efficient decision-making in high-dimensional environments.
+
+Keywords: Reinforcement Learning, Model-based RL, Actor-Critic, Uncertainty Estimation, Policy Optimization, Sample Efficiency.

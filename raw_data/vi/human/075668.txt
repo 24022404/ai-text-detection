@@ -1,0 +1,1 @@
+Mongodb là một hệ quản trị cơ sở dữ lệu NoSQL mã nguồn mở đia nền tảng vết bằng C++. Bản ghi trong MongoDB được lưu trữ dưới dạng văn bản (document), là một cấu trúc dữ lệu bao gồm các cặp giá trị và trường tương tự như các đối tượng Json.

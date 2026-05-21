@@ -1,0 +1,1 @@
+Bước 5: Đầu ra sẽ là bounding box + name + confdent (độ chính xác) ứng với khuôn mặt xuất hiện trong ảnh. Nếu không phải là khuôn mặt có sẵn trong tập dữ liệu, đầu ra sẽ là “Unknown".

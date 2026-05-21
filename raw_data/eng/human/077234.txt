@@ -1,0 +1,1 @@
+Debuggable,The Redux DevTools make it easy to trace when, where, why, and how application’s state changed. Redux’s architecture lets log changes, use ”time-travel debugging”, and even send complete error reports to a server.

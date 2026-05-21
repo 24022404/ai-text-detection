@@ -1,0 +1,1 @@
+The minimal rotation ⟨u⟩ of a word u is its lexicographically smallest rotation, such as ⟨010110⟩ = 001011 and ⟨010101⟩ = 010101, and a related definition applies to every word v.

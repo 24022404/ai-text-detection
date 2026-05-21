@@ -1,0 +1,9 @@
+Objective: This paper introduces a unified framework for quantifying the geometric information content of multiclass datasets at both coarse and fine scales, and explores its impact on data-driven intelligence in machine learning systems. 
+
+Methods: We define a coarse‐scale measure that captures global class separability and a fine‐scale measure that characterizes local intra‐class complexity, combining them into a single information‐theoretic score. The framework leverages distance‐based statistics and neighborhood‐graph topology to estimate geometric complexity without requiring model training. We validate the approach on synthetic benchmarks and real‐world image and text classification datasets, and analyze correlations with classifier performance across a range of algorithms (e.g., support vector machines, convolutional neural networks).
+
+Results: Experiments show that the combined geometric information score strongly predicts generalization error (Pearson’s ρ > 0.85) and outperforms traditional complexity and mutual‐information measures by up to 25%. When used for feature selection and dataset pruning, our method yields classification accuracy improvements of 3–7% on challenging benchmarks. Detailed analysis reveals that datasets with high coarse‐scale content benefit most from margin‐based classifiers, while those with elevated fine‐scale complexity require richer local feature representations.
+
+Conclusion: By capturing multiscale geometric structure, the proposed framework provides novel insights into dataset difficulty and guides model selection, feature engineering, and active‐learning strategies. This work advances the theory of data‐driven intelligence and offers practical tools for designing robust multiclass classifiers.
+
+Keywords: coarse‐scale geometric information, fine‐scale geometric information, multiclass classification, data‐driven intelligence, dataset complexity, feature selection, machine learning.

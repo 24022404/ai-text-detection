@@ -1,0 +1,1 @@
+Xem trạng thái đơn hàng, và ch tết các đơn hàng đã mua, có thể đánh giá sản phẩm đã mua.

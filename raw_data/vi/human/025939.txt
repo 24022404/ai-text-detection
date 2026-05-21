@@ -1,0 +1,1 @@
+Phần tổng quan lịch học các lớp (nằm phía bên dưới) là một lịch tổng quan các hoạt động, sự kiện diễn ra tại các lớp học trực thuộc tổ chức. Các hoạt động sự kiện đó có thể là lịch dạy học hay lịch phỏng vấn. Quản trị viên có thể chọn xem lịch dạy của tất cả các lớp hoặc của từng lớp học thuộc tổ chức thông qua select box.

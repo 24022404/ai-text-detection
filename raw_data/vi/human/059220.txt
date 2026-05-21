@@ -1,0 +1,1 @@
+GD  Quản lý sự kiện: xem danh sách sự kiện, tìm kiếm sự kiện, tạo, chỉnh sửa, xóa sự kiện.

@@ -1,0 +1,1 @@
+Reverse Routng : Framework laravel điã cung cấp cho Khách hàng một tính năng rất hữu ích, chúng ta có thể tạo lên kết đến các route được điặt tên.

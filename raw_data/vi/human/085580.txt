@@ -1,0 +1,1 @@
+Nhân viên bán hàng quét mã sản phẩm hoặc tìm kiếm sản phẩm trong danh sách sản phẩm trên hệ thống.

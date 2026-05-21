@@ -1,0 +1,1 @@
+Python is typically an interpreted language, meaning it doesn’t require explicit compilation before running. However, in some cases, your Python code may becompiled into bytecode. This compiled bytecode is saved in .pyc files. The com pilation is not something you usually do manually; it’s managed by the Python interpreter. Bytecode:

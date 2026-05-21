@@ -1,0 +1,1 @@
+Do vậy các bước xử lý và tính toán các chỉ báo trong phân hệ này được cụ thể hóa bằng ngôn ngữ Python, cụ thể là sử dụng thư viện pandas .pandas là thư viện được phát trển phục vụ cho thao tác xử lý và phân tích dữ liệu dạng bảng và chuỗ thờ gan, rất phù hợp với yêu cầu điặt ra của hệ thống.

@@ -1,0 +1,1 @@
+Ví dụ hệ thống dự đoán giá một căn nhà dựa trên diện tích, số phòng và khoảng cách điện trung tâm thành phố.

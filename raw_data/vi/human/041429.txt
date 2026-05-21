@@ -1,0 +1,1 @@
+Sau khi chuyển khoản thành công thì người dùng nhập mã giao dịch đó và gửi lên hệ thống, hệ thống sẽ lưu lại và đợi xác nhận từ phía quản trị viên. Sau khi quản trị viên xác nhận sẽ có thông báo đến người dùng.

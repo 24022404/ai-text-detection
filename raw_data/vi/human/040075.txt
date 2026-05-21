@@ -1,0 +1,1 @@
+Công nghệ thứ hai là CSS. CSS là một ngôn ngữ định dạng được sử dụng để tạo ra các trang web có giao diện đẹp mắt, chuyên nghiệp và dễ đọc. CSS cung cấp cách thức để định dạng và hiển thị nội dung trên trang web, phân tách phần nội dung của trang web với phần định dạng.

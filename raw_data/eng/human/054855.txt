@@ -1,0 +1,1 @@
+Parse Manifest Data: Once the manifest file is obtained, the system parses the contents to extract key information, such as:

@@ -1,0 +1,1 @@
+Some Machine Learning Algorithms To perform the conversion from input to desired output, we can use different models. Machine learning is not a single type of algorithm; You may have heard of Support Vector Machine (SVM), Naive Bayes, Decision Trees, or Deep learning.

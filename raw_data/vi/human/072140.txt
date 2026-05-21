@@ -1,0 +1,1 @@
+MongoDB được sử dụng rộng rãi trong các ứng dụng web, ứng dụng di động, phân tích dữ liệu và nhiều lĩnh vực khác. Nó cung cấp một cách tiếp cận linh hoạt và hiệu quả cho việc lưu trữ và truy xuất dữ liệu phi cấu trúc và cấu trúc sinh hoạt.

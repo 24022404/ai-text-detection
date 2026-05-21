@@ -1,0 +1,1 @@
+Nhược điểm của Bootstraps Tất nhên, một framework không thể nào hoàn hảo, Bootstrap vẫn tồn tạ một số chế nhất định:

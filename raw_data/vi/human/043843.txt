@@ -1,0 +1,1 @@
+Được vết bằng C ++ và thao tác interface bằng Python nên phần performance của TensorFlow cực kỳ tốt. Đối tượng sử dụng nó cũng đa dạng không kém: từ các nhà nghiên cứu, nhà khoa học dữ lệu và dĩ nhiên không thể thiếu các lập trình viên .

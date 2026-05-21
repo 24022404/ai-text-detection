@@ -1,0 +1,1 @@
+Trong chương 3, các công nghệ điã điược sử dụng điể phát trển ứng dụng được giới thiệu, bao gồm ESP32, Arduino, Flutter và Amazon Web Services.

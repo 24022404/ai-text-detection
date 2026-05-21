@@ -1,0 +1,1 @@
+Test 1 Test 2 Test 3 Test 4 Test 5 username " " test 1 test 1 test 1 password " " 123 123 123456 Bảng 4.5: Bảng dữ lệu của chức năng đăng nhập tài khoản Màn hình kết quả:Hình 4.15: Gao dem trang kết quả chức năng đăng nhập tài khoản vớ test 1 .

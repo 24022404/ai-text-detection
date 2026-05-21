@@ -1,0 +1,1 @@
+Trong đồ án môn học, em đã áp dụng kiến trúc MVC điểm xây dựng website đúng với những nhiệm vụ của từng bộ phận của MVC.

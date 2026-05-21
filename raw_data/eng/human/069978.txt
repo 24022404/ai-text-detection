@@ -1,0 +1,1 @@
+Real time violence detection using bidirectional LSTM (BDLSTM) A real-time violence detection system is presented, which analyses large amounts of streaming data and recognizes aggression using a human intelligence simulation .

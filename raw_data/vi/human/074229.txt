@@ -1,0 +1,1 @@
+Trong Android Studio trên máy tính, hãy nhớ chọn thiết bị của bạn trong trình đơn thả xuống. Nhấp vào Chọn thiết bị rồ nhấp OK. Android Studio sẽ cài đặt và chạy ứng dụng đó trên thiết bị.

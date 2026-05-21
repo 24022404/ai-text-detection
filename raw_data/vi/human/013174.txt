@@ -1,0 +1,1 @@
+Deep Storage (Kho lưu trữ sâu) là thành phần lưu trữ tất cả dữ lệu điã điược hệ thống Drud nhận vào. Kho lưu trữ này được chia sẻ quyền truy cập đến tất cả các Drud server trong hệ thống. Kh được trển kha trên các cụm, Deep Storage có thể là các hệ thống S3 hay HDFS. Còn kh trển kha trên một máy, nó sẽ sử dụng bộ nhớ trên ổ điĩa máy tính.

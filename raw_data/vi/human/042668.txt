@@ -1,0 +1,1 @@
+Nhược điểm MySQL bị hạn chế dung lượng, cụ thể, kh số bản ghi của người dùng lớn dần, sẽ gây khó khăn cho việc truy xuất dữ liệu, kiến người dùng cần áp dụng nhiều biện pháp để tăng tốc độ chia sẻ dữ liệu như cha tả database ra nhiều server, hoặc tạo cache MySQL.

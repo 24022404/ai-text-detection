@@ -1,0 +1,9 @@
+Objective: As edge devices become ubiquitous, enabling deep learning (DL) inference directly on resource‐constrained hardware is critical for real‐time applications in IoT, autonomous systems, and smart environments. This paper investigates strategies for adapting large‐scale neural networks to edge platforms without sacrificing accuracy or incurring prohibitive latency and power costs.
+
+Methods: We introduce a comprehensive, hardware‐aware optimization pipeline combining structured pruning, low‐bit quantization, and knowledge distillation, together with an adaptive runtime scheduler. Our approach dynamically selects model variants and precision levels based on available compute, memory, and energy budgets. We further propose a lightweight compiler back end that fuses operations and leverages SIMD instructions to maximize throughput on diverse edge processors.
+
+Results: Experiments on standard vision benchmarks (ImageNet classification and COCO object detection) demonstrate that our optimized models achieve up to 4× reduction in model size and 3× faster inference speeds on ARM Cortex‐A53 and RISC-V cores, with less than 1.5% top-1 accuracy loss compared to baseline full‐precision networks. Energy profiling shows a 2.5× decrease in power consumption on embedded GPU platforms. Comparative analysis against existing edge inference frameworks confirms superior latency‐accuracy trade-offs.
+
+Conclusion: By unifying model compression techniques with adaptive scheduling and hardware‐specific code generation, our framework makes DL practical on a wide range of edge devices. This work paves the way for efficient, on-device intelligence in latency‐sensitive and privacy‐critical applications.  
+
+Keywords: edge AI, deep learning, model compression, quantization, pruning, hardware‐aware optimization, on‐device inference.

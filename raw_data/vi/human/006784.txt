@@ -1,0 +1,1 @@
+Tồn tại các lỗ sai chính tả trên các đồ án, dẫn đến tập dữ liệu huấn luyện và tập dữ liệu kiểm thử vẫn có một số ít lỗ chính tả.

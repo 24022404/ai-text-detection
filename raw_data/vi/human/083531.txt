@@ -1,0 +1,1 @@
+Cấu trúc nhận diện vật thể của YOLO v5 Cấu trúc nhận diện vật thể của YOLOve 5 thường có 3 phần được thể hiện ở hình bên duwois.

@@ -1,0 +1,1 @@
+Trong quá trình huấn luyện mạng (trang) CNN tự động học các giá trị qua các lớp filter dựa vào cách thức mà bạn thực hiện. Ví dụ trong tác vụ phân lớp ảnh, CNNs sẽ cố gắng tìm ra thông số tối ưu cho các filter tương ứng theo thứ tự raw pixel > edges > sharp es > facil > high level features. Layer cuối cùng được dùng để phân lớp ảnh.

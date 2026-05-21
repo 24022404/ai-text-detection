@@ -1,0 +1,1 @@
+M – phần mềm MaraDB : Trong MySQL, XAMPP chứa một trong những hệ quản trị cơ sở dữ lệu quan hệ phổ bến nhất trên thế giới. Kết hợp với Web Server Apache và ngôn ngữ lập trình PHP, MySQL cung cấp khả năng lưu trữ dữ lệu cho các dịch vụ Web.•P – PHP : Ngôn ngữ lập trình phía máy chủ PHP cho phép người dùng tạo các trang Web hoặc ứng dụng động.

@@ -1,0 +1,1 @@
+Chương 3  "Giải pháp đề xuất" tập trung vào mô tả giải pháp cũng như nó về các công nghệ mà gả pháp sử dụng. Đồ án sử dụng phương pháp tăng cường dữ liệu và phương pháp dựng khuôn mặt 3D và trích xuất đặc trưng khuôn mặt với ResNet kết hợp với hàm mất mát Arcade. Ngoài ra giải pháp còn sử dụng Elasticsearch với vai trò cơ sở dữ liệu kêm bộ phân lớp.

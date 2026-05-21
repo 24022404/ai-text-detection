@@ -1,0 +1,1 @@
+Lấy thông tin từ email Để có thể lấy thông tin từ email, Laravel có một số thư viện hỗ trợ như Laravel Malbox, Laravel Imap điểm kết nối và lấy thông tin từ email. Qua quá trình tìm hểu, nghên cứu Laravel Imap điã điược sử dụng trong đồ án này bở tính chất dễ cài đặt và ứng dụng của nó.

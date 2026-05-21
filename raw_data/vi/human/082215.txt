@@ -1,0 +1,1 @@
+Để một mạng nơron đưa ra dự đoán chính xác mỗi nơron sẽ học các trọng số nhất định ở mỗi lớp. Thuật toán mà qua đó tìm hiểu các trọng số được gọi là lan truyền ngược (backpropagation).

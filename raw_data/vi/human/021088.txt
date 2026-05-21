@@ -1,0 +1,1 @@
+Sau khi thực hiện phân tích tổng quan các chức năng, thì chương 3 tôi sẽ trình bày về nội dung các công nghệ sử dụng trong dự án. Bao gồm tên công nghệ, kiến thức lý thuyết tổng quan, ch tết các công nghệ và phương pháp áp dụng để giải quyết vấn đề được nêu ở chương 1. Ngoài ra, tôi sẽ nêu lý do tại sao lựa chọn công nghệ, phương pháp đo trong dự án này.

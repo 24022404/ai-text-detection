@@ -1,0 +1,1 @@
+In addition to competitions, Kaggle also provides a platform for data scientists to collaborate on open source projects, share datasets, and discuss data science topics in the community forum. Kaggle also offers various resources for learning data science, including courses, tutorials, and datasets.

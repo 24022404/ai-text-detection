@@ -1,0 +1,1 @@
+TensorFlow là một thư viện phần mềm mã nguồn mở và mạnh mẽ được Google phát triển, với mục tiêu hỗ trợ tính toán số và đặc biệt là xử lý các tác vụ liên quan đến học máy và học sâu (deep learning).

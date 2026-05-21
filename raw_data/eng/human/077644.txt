@@ -1,0 +1,1 @@
+For sellers, the system offers an interface designed to assist administrators inmonitoring store sales performance, managing inventory, and tracking placed orders. Additionally, it encompasses functions related to customer management, enabling sellers to access customer information and deactivate accounts when neces sary.

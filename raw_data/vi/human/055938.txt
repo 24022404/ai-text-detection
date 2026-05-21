@@ -1,0 +1,1 @@
+Thay đổi kích thước : Hình ảnh được phóng to hoặc thu nhỏ. Đều này mô phỏng hiệu ứng của việc người đó đến gần hơn hoặc đi xa hơn camera.

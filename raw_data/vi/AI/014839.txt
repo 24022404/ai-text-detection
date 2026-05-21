@@ -1,0 +1,7 @@
+Nghiên cứu mới đây đã đánh giá khả năng dự báo nhiệt độ thấp nhất và cao nhất trung bình hạn đến 01 năm bằng phương pháp thống kê. Kết quả cho thấy phương pháp thống kê có thể dự báo nhiệt độ với độ chính xác cao, đặc biệt là trong việc dự báo nhiệt độ thấp nhất.
+
+Phương pháp thống kê đã được áp dụng để phân tích dữ liệu nhiệt độ trong 30 năm qua. Kết quả cho thấy phương pháp này có thể dự báo nhiệt độ thấp nhất trung bình hạn đến 01 năm với độ chính xác lên đến 90%. Trong khi đó, độ chính xác của phương pháp này trong việc dự báo nhiệt độ cao nhất trung bình hạn đến 01 năm là khoảng 80%.
+
+Nghiên cứu cũng chỉ ra rằng phương pháp thống kê có thể được sử dụng để dự báo nhiệt độ trong các khu vực khác nhau trên thế giới. Tuy nhiên, độ chính xác của phương pháp này có thể bị ảnh hưởng bởi các yếu tố như độ cao, địa hình và khí hậu của khu vực.
+
+Tổng kết, nghiên cứu này cho thấy phương pháp thống kê có thể được sử dụng để dự báo nhiệt độ với độ chính xác cao. Tuy nhiên, cần phải tiếp tục nghiên cứu và cải thiện phương pháp này để có thể dự báo nhiệt độ với độ chính xác cao hơn.

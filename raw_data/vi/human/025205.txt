@@ -1,0 +1,1 @@
+Tên Chức năng Port Frontend Frontend Server 3001 Backend Backend Server 3000 PostgreSQL Cơ sở dữ liệu 5432 MongoDB Cơ sở dữ liệu 27017 Reds Cơ sở dữ liệu 6379 Crawler Đồng bộ dữ liệu Bảng 4.16: Thành phần trên khá của hệ thống Kết quả triển khai thực nghiệm được trình bày trong Bảng 4.14 .

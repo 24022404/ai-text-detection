@@ -1,0 +1,1 @@
+Biểu đồ use case phân rã Quản lý bạn bè Hình 2.2: Biểu đồ use case phân rã Quản lý bạn bè Vớ chức năng quản lý bạn bè, người dùng có thể: tìm kiếm bạn bè theo tên đăng nhập và có thể gửi yêu cầu kết bạn với người dùng chưa kết bạn trước đó, xem danh sách bạn bè và huỷ kết bạn với những người dùng đã kết bạn trước đó.

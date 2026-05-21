@@ -1,0 +1,1 @@
+REST API có thể được sử dụng điểm truy cập vào các dịch vụ web, chẳng hạn như dịch vụ ngân hàng trực tuyến, truy vấn thông tin từ các nguồn dữ lệu khác nhau hoặc lấy dữ lệu từ các ứng dụng web khác.

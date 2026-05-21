@@ -1,0 +1,9 @@
+Objective: Detecting and segmenting “detachable” objects—that is, items that can be moved independently—in dynamic scenes from short-baseline video remains a challenge in computer vision. This paper presents a unified framework for detachable object detection that jointly performs spatio-temporal segmentation and depth ordering using only a few consecutive frames.
+
+Methods/Approach: Our method first extracts pixel-level motion cues via dense optical flow and computes per-frame superpixels that respect both color and motion boundaries. We then construct a graph whose nodes represent superpixels across frames and whose edges encode appearance, motion consistency, and a learned depth prior. A joint energy minimization solves for both object segmentation and a partial depth ordering simultaneously. To enforce detachable object hypotheses, we introduce a “detachability” term that favors regions exhibiting coherent motion relative to their background over the video sequence.
+
+Results/Findings: On two public short-baseline video benchmarks, our algorithm achieves a 12% absolute gain in mean Intersection-over-Union (IoU) for detachable object masks and a 15% improvement in depth ordering accuracy compared to state-of-the-art segmentation-only and depth-only approaches. Ablation studies confirm the benefit of the detachability term and the joint optimization.
+
+Conclusion/Implications: The proposed framework reliably identifies and orders movable objects in cluttered, dynamic scenes using minimal video input. This capability benefits applications in augmented reality, robotic manipulation, and autonomous navigation by enabling rapid scene understanding and object discovery.  
+
+Keywords: detachable object detection, video segmentation, depth ordering, short-baseline video, graph optimization.

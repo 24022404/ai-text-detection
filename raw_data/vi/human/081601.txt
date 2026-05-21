@@ -1,0 +1,1 @@
+Đảm bảo an toàn dữ liệu người mua hàng của cửa hàng.3.1 ReactJS React là một thư viện của JavaScript để xây dựng giao diện người dùng. Nhằm mục đích hỗ trợ việc xây dựng những thành phần (components) UI có tính tương tác cao, sử dụng trạng thái (state) và được sử dụng nhiều lần.

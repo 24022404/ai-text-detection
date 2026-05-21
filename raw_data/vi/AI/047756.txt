@@ -1,0 +1,7 @@
+Nghiên cứu mới đây đã tập trung vào việc đánh giá giá trị của hệ số khuếch tán biểu kiến (ADC) trong cộng hưởng từ (MRI) trong chẩn đoán phân biệt u thần kinh. ADC là một kỹ thuật được sử dụng để đo lường tốc độ di chuyển của proton trong mô, giúp phân biệt giữa các loại mô khác nhau.
+
+Kết quả nghiên cứu cho thấy rằng ADC có thể được sử dụng như một công cụ hữu ích trong chẩn đoán phân biệt u thần kinh. Hệ số khuếch tán biểu kiến có thể giúp phân biệt giữa các loại u thần kinh khác nhau, bao gồm cả u ác tính và lành tính. Điều này có thể giúp các bác sĩ chẩn đoán và điều trị u thần kinh một cách chính xác hơn.
+
+Nghiên cứu cũng cho thấy rằng ADC có thể được sử dụng để theo dõi sự thay đổi của u thần kinh trong quá trình điều trị. Điều này có thể giúp các bác sĩ đánh giá hiệu quả của phương pháp điều trị và điều chỉnh kế hoạch điều trị nếu cần.
+
+Tổng kết, nghiên cứu này đã chỉ ra rằng ADC có thể được sử dụng như một công cụ hữu ích trong chẩn đoán phân biệt u thần kinh và theo dõi sự thay đổi của u thần kinh trong quá trình điều trị.

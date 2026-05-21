@@ -1,0 +1,1 @@
+Được phát triển bở Facebook, React Native là một framework hướng đến phát triển ứng dụng di động đa nền tảng. Với sự trợ giúp của React Native, lập trình viên (developer) có thể sử dụng JavaScript để tạo ra mobile apps (ứng dụng di động) hỗ trợ cho cả nền tảng Android và IOS.

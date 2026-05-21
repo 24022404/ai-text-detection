@@ -1,0 +1,1 @@
+Xác định nguồn gốc : Trong hệ mã hóa bất đối xứng chủ sở hữu khóa bí mật sẽ có thể ký dữ liệu bằng khóa đối và chỉ có người chủ sở hữu mới biết khóa bí mật. Ko nhận gói tin, người nhận xác thực chữ ký bằng cách dùng public key gả mã, sau đó tính giá trị hash của bản tin gốc và so sánh với hash trong gói tin nhận được. Hoa chuỗi này phải trùng khớp với nhau.

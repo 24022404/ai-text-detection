@@ -1,0 +1,1 @@
+Vớ Socket.o , bạn có thể xây dựng ứng dụng web với tính năng realtme như chat, cập nhật dữ liệu trực tiếp, thông báo tức thì, và nhiều hơn nữa. Socket.o  hoạt động trên cả máy chủ và trình duyệt, cho phép các sự kiện được truyền đi và nhận về từ cả hai phía.

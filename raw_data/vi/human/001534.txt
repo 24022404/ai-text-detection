@@ -1,0 +1,1 @@
+Mô hình MVC giúp tách biệt logic nghiệp vụ, dữ lệu và gao den trong hệ thống. Sự tách biệt này mang lại nhiều lợi ích như:

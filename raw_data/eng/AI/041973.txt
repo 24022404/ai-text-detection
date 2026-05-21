@@ -1,0 +1,1 @@
+A sequence s = (s1, s2, ..., sn) is defined as an s-run length limited (RLL) sequence of length n if no sequence of consecutive 0’s exceeds s in length; that is, the sequence strictly avoids having s+1 or more 0’s in a row.

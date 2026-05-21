@@ -1,0 +1,1 @@
+Real-time processing: OpenCV provides real-time image processing capabilities,making it suitable for use in applications such as robotics and autonomous vehi cles.

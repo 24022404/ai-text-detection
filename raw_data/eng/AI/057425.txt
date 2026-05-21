@@ -1,0 +1,1 @@
+Odoo utilizes specific actions to handle various processes; for instance, executing a report action (ir.actions.report) prompts the system to produce a report. Each action is tailored to a particular operation, ensuring efficient workflow management.

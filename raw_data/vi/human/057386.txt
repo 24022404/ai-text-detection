@@ -1,0 +1,1 @@
+Môi trường chạy mã nguồn Javascript ngôn ngữ lập trình cần có môi trường điểm có thể hoạt động trên thiết bị, ở đây em sử dụng mô trường là: NodeJS.

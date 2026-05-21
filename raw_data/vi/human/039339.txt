@@ -1,0 +1,1 @@
+Hệ thống kiểm tra tính hợp lệ của thông tin nhập vào và lưu trữ phiếu nhập hàng trong hệ thống.

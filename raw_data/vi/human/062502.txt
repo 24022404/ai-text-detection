@@ -1,0 +1,1 @@
+Full Text Search Service: là một thành phần đặc biệt trong việc truy vấn và đánh chỉ mục dữ liệu văn bản không cấu trúc đi được lưu trữ trong các cơ sở dữ liệu SQL Server.

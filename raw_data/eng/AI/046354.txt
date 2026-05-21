@@ -1,0 +1,1 @@
+If any required fields are missing in step 3 of the main scenario, the system alerts the user and requests that all necessary information be provided.

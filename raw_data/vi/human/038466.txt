@@ -1,0 +1,1 @@
+Có thể thấy, vớ danh sách sản phẩm gợi ý có số lượng là 5, có khoảng 22% customer được gợi ý đúng. Với số lượng sản phẩm gợi ý là 10, tỷ lệ này tăng lên khoảng gần 34%.

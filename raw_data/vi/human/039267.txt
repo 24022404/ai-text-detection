@@ -1,0 +1,1 @@
+Không tính thêm phí khi sử dụng Elastic Beanstalk – bạn chỉ phải trả phí cho những tài nguyên AWS mà bạn cần để lưu trữ và chạy ứng dụng của mình.

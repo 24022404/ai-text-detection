@@ -1,0 +1,1 @@
+Ngoài ra do lớp này lưu trữ các thông tin về tem trong hành trang của người chớ nên lớp này cũng cần có phương thức lưu lại các đồ mà người chơi có hay người chơ mặc kh lưu game để có thể phục hồ lạ khi người chơ Load available

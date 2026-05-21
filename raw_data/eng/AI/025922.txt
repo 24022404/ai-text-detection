@@ -1,0 +1,1 @@
+Although TensorFlow lacks native support for Windows, individuals using this operating system can still install the framework by utilizing package managers such as conda or pip, which offer accessible methods for setting up TensorFlow on Windows despite official limitations.

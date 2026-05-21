@@ -1,0 +1,1 @@
+A. Smon, J.C. Pret, and A. Johnson, “A fast algorithm for bottom up document layout analysis,” IEEE Transactions on Pattern Analysis and Ma che Intelligence , vol. 19, no. 3, pp. 273–277, 1997. DOI:10.1109/34.

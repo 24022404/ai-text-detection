@@ -1,0 +1,1 @@
+Khả năng mở rộng: CryptoJS có khả năng mở rộng và cho phép bạn tạo các hàm mã hóa và băm tùy chỉnh để đáp ứng nhu cầu của ứng dụng.

@@ -1,0 +1,1 @@
+Ft: Dự đioán tạ thờ điểm t M: Dữ lệu đio thực tế Smple Exponental Smoothng là một phương pháp dự báo điơn gản và hiệu quả, và có thể điược sử dụng điể dự báo nhều loạ chuỗ thờ gan khác nhau. Phương pháp này điặc bệt hữu ích cho vệc dự báo các chuỗ thờ gan có xu hướng lặp lạ theo thờ gan.

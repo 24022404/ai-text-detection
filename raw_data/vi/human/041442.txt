@@ -1,0 +1,1 @@
+Controller tiếp nhận các request chứa yêu cầu, điều hướng xử lý tớ Service hoặc xử lý logic nghiệp vụ bằng Repository và trả về response.

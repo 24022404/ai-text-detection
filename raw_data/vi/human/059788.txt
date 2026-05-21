@@ -1,0 +1,1 @@
+Gó Route: định nghĩa các API endpoint – làm nhiệm vụ điều hướng các request đến Controller tương ứng.

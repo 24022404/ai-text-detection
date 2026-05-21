@@ -1,0 +1,1 @@
+Các chỉ số đánh gá Để đánh giá một cách tự động và có hệ thống về việc xây dựng phân loại chủ đề điện bây giờ vẫn là một việc khó khăn. Vì vậy việc đánh giá kết quả thực hiện vẫn cần có sự kiểm tra từ con người. Các chuyên gia được yêu cầu đánh giá dựa trên các tiêu chí sau đây:

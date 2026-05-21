@@ -1,0 +1,9 @@
+This graduation thesis addresses the growing need for efficient sales management systems in the technology product industry. With the rapid evolution of technology and increasing competition, companies face challenges in managing their sales processes, tracking customer interactions, and analyzing sales performance. This research aims to design a system that streamlines sales operations, enhances customer engagement, and provides valuable insights for informed decision-making.
+
+The primary objectives of this thesis are to develop a comprehensive sales management system that integrates customer relationship management, sales forecasting, and performance analysis. The system aims to solve specific problems such as inefficient sales tracking, inadequate customer support, and limited sales analytics.
+
+The system architecture is based on a cloud-based platform, utilizing technologies such as database management systems, web development frameworks, and data analytics tools. The research approach involves a mixed-methods methodology, combining both qualitative and quantitative data collection and analysis techniques.
+
+The expected outcomes of this system include improved sales performance, enhanced customer satisfaction, and increased revenue growth. The contributions of this research lie in providing a tailored sales management system for technology product companies, enabling them to make data-driven decisions and stay competitive in the market.
+
+In conclusion, this thesis presents a comprehensive system design for managing and supporting sales of technology products. The system has the potential to transform sales operations and contribute to the growth and success of technology product companies. Future developments may involve integrating artificial intelligence and machine learning algorithms to further enhance the system's capabilities and predictive analytics.

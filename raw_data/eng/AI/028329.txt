@@ -1,0 +1,9 @@
+Objective: Efficient analysis of vehicle motion trajectories is crucial for applications such as traffic monitoring, anomaly detection, and route optimization. This paper presents a generic framework that unifies trajectory preprocessing, feature extraction, and clustering under a single pipeline to automatically group vehicle trajectories by similarity.
+
+Methods: Our framework begins by normalizing raw GPS sequences in space and time to account for variable sampling rates and route lengths. We then extract a composite feature set combining shape descriptors (e.g., discrete Fréchet distance profiles) and dynamic attributes (e.g., speed and acceleration histograms). A scalable distance metric is defined on this feature space to capture both geometric and kinematic similarities. Finally, we apply a hierarchical agglomerative clustering algorithm with adaptive linkage criteria to form trajectory clusters without requiring a priori knowledge of the number of clusters.
+
+Results: We evaluate the framework on two large real-world datasets: urban taxi rides and multi-lane highway traffic. Compared to baseline methods (K-means, DBSCAN, and spectral clustering on raw coordinates), our approach achieves up to 25% improvement in silhouette score and 30% higher adjusted Rand index against manually labeled ground truth. Clusters reveal meaningful route patterns and traffic behaviors, including common shortcuts and congestion hotspots.
+
+Conclusion: The proposed generic framework delivers accurate, interpretable clustering of vehicle trajectories and adapts seamlessly to diverse road networks and sampling conditions. Its modular design facilitates extension to real-time traffic analytics and automated anomaly detection.
+
+Keywords: vehicle trajectory clustering; spatio-temporal normalization; feature extraction; hierarchical clustering; distance metric.

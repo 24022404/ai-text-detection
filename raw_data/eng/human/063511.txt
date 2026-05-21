@@ -1,0 +1,1 @@
+Cloud-native app development makes it easier to link your own infrastructure, but APIs also let you share your data with clients and other outside users. Because they may stream and broaden how you engage with your partners and perhaps monetize your data, public APIs have special business value (the Google Maps API is a popular example).Figure 3.4 displays how the API functions.

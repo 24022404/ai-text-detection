@@ -1,0 +1,1 @@
+Yêu cầu về khả năng mở rộng Trang web cần đảm bảo khả năng mở rộng và linh hoạt để thích ứng với sự thay đổi về dữ liệu, giao diện người dùng, cũng như kh bổ sung hoặc thay đổi các tính năng. Việc thêm mới hoặc chỉnh sửa các tính năng sau này không được ảnh hưởng điến những tính năng điã có trước đió.

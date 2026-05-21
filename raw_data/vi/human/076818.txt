@@ -1,0 +1,1 @@
+Hiện tại hệ thống đang triển khai trên môi trường local. Cụ thể phía server cung cấp API được thử nghiệm trên máy tính cá nhân  môi trường local vớ cổng 3001.

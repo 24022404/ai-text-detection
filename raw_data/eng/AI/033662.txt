@@ -1,0 +1,1 @@
+Antd is a comprehensive suite of React components developed in line with the Ant UED Team’s design principles, providing essential modern web interface elements such as Layout, Button, Icon, and DatePicker. It also includes distinctive features like LocaleProvider, enabling developers to easily switch application languages and adapt user interfaces for diverse audiences.

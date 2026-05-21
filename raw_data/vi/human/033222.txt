@@ -1,0 +1,1 @@
+Trong gió, vệ tinh chỉnh là một quá trình sử dụng một mô hình mạng đã được huấn luyện cho một nhiệm vụ nhất định điểm thực hiện một nhiệm vụ tương tự.

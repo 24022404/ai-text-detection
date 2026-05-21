@@ -1,0 +1,7 @@
+Nghiên cứu thực nghiệm xác định chế độ tưới theo các phương thức tưới tiết kiệm nước cho cây nho ở Nam Bộ đã được thực hiện nhằm tìm hiểu hiệu quả của các phương thức tưới khác nhau đối với cây nho. Kết quả nghiên cứu cho thấy rằng phương thức tưới tiết kiệm nước bằng hệ thống tưới tự động có hiệu quả cao hơn so với phương thức tưới truyền thống.
+
+Phương thức tưới tự động sử dụng hệ thống cảm biến để đo độ ẩm của đất và tự động điều chỉnh lượng nước tưới cho phù hợp. Kết quả cho thấy rằng phương thức này có thể giảm thiểu lượng nước tưới xuống còn 30% so với phương thức tưới truyền thống.
+
+Bên cạnh đó, nghiên cứu cũng cho thấy rằng phương thức tưới bằng nước mưa có hiệu quả cao hơn so với phương thức tưới bằng nước máy. Phương thức này sử dụng nước mưa để tưới cho cây nho, giúp giảm thiểu lượng nước máy sử dụng và giảm thiểu chi phí tưới.
+
+Kết quả nghiên cứu này có ý nghĩa quan trọng đối với việc phát triển nông nghiệp bền vững ở Nam Bộ, giúp giảm thiểu lượng nước sử dụng và giảm thiểu chi phí tưới cho cây nho.

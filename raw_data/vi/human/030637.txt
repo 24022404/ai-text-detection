@@ -1,0 +1,1 @@
+Thành phần React tách các thành phần UI thành các thành phần nhỏ hơn, từ đó giúp phát triển ứng dụng dễ dàng hơn. Mỗi thành phần là một đối tượng JavaScript, có thể được sử dụng lạ và kết hợp với các thành phần khác để tạo thành một ứng dụng hoàn chỉnh.

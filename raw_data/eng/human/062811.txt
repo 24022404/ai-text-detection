@@ -1,0 +1,1 @@
+When training language models, there is a challenge of defining a prediction goal. Many models predict the next word in a sequence (e.g. “The child came home from . . . ”), a directional approach that inherently limits context learning.

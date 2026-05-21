@@ -1,0 +1,1 @@
+Thông thường trên mô trường vận hành sản phẩm thực tế, K8s sẽ được triển khai bằng cụm máy chủ với kiến trúc được mô tả như hình sau:

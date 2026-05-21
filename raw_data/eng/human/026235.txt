@@ -1,0 +1,1 @@
+Single-page architecture with ReactJS is implemented in the frontend for better user experience. Backend uses NodeJS which is very powerful and can handle lots of requests. For database, MongoDB offers the flexibility for the unstructured data.

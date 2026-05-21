@@ -1,0 +1,1 @@
+WebAssembly (Wasm) is a highly efficient binary instruction format that allows code to execute at near-native speeds across multiple platforms, including web browsers, ensuring both performance and portability for developers and users alike.

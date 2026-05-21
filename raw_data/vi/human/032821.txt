@@ -1,0 +1,1 @@
+Externalize Configuration: Spring Boot cho phép người dùng có thể sử dụng cấu hình (config) từ bên ngoài. Chính vì vậy mà mỗ ứng dụng được tạo ra có thể chạy được trên nhiều môi trường khác nhau.

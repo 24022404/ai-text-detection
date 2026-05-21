@@ -1,0 +1,1 @@
+To proceed, the user needs to upload the file so that the system can analyze its contents and extract the permissions declared within it.

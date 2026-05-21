@@ -1,0 +1,1 @@
+An exported activity, specified as exported=true in an app’s manifest, allows other apps or external entities to access it directly. This accessibility can introduce significant security risks, such as unauthorized access to sensitive features or privilege escalation within the app.

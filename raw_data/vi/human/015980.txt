@@ -1,0 +1,1 @@
+Sử dụng mô hình MVC chức năng Controller có vai trò quan trọng và tối ưu trên các nền tảng ngôn ngữ khác nhau Ta có thể dễ dàng duy trì ứng dụng vì chúng được tách biệt với nhau.

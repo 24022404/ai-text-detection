@@ -1,0 +1,1 @@
+Thứ tự ưu tên của các làn: Độ ưu tên dành cho từng làn đường khác nhau, làn nào có độ ưu tiên cao thì khả năng xe được sinh ra trên làn gió càng cao. Điều này giúp ta có thể tạo được những tình huống khác nhau của giao thông hiện tạ.

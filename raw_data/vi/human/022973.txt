@@ -1,0 +1,1 @@
+Quản lý ví: Để giúp người dùng quản lý số dư một cách dễ dàng, hệ thống cho phép họ cha tổng số dư thành các khoản nhỏ hơn, mỗ khoản sẽ được lưu trữ và đại diện bởi một ví. Việc quản lý các ví này liên quan đến các hoạt động tương tác trực tiếp với chúng trong hệ thống.

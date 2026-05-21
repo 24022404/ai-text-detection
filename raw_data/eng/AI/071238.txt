@@ -1,0 +1,9 @@
+The rapid expansion of neural network models in various applications has led to increased computational and storage demands. This paper addresses the challenge of optimizing these models by introducing SQuantizer, a novel approach for simultaneously learning both sparse and low-precision neural networks, aiming to reduce their resource consumption without compromising performance. 
+
+Methods: SQuantizer employs a unified training framework that integrates sparsity and quantization techniques within the learning process, allowing models to efficiently leverage both techniques concurrently. This approach utilizes adaptive gradient methods to dynamically adjust weights, achieving an optimal trade-off between sparsity and precision. The method was tested across various model architectures and tasks to verify its effectiveness and generalizability.
+
+Results: Experimental evaluations demonstrate that SQuantizer effectively reduces model size and computational requirements, achieving significant improvements in both storage efficiency and inference speed. When compared with existing state-of-the-art methods, SQuantizer consistently outperforms in terms of model compression rates and accuracy retention across multiple benchmark datasets and neural network structures.
+
+Conclusion: SQuantizer presents a significant advancement in the field of model optimization by enabling the parallel learning of sparse and low-precision characteristics within a single framework. This innovation not only enhances the deployability of neural networks on resource-constrained devices but also contributes to the broader goal of sustainable AI deployment. The proposed method holds potential applications in areas where efficient resource usage is critical, such as on-device AI, edge computing, and IoT systems.
+
+Keywords: SQuantizer, neural networks, sparsity, low-precision, model optimization, adaptive gradient methods, AI efficiency, edge computing.

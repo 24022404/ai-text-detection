@@ -1,0 +1,1 @@
+Không thích hợp cho các app cần năng lực tính toán cao (hash, crypto, etc).Với những gì đã phân tích trong chương 2 và công nghệ điã lựa chọn điược ở chương 3. Trong chương 4 sẽ trình bày nội dung về thiết kế, ứng dụng sẽ được triển khai xây dựng và kiểm thử.

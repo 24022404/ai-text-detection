@@ -1,0 +1,1 @@
+For image-based, most of important structure for example edges or gradients is totally local. Therefore, CNNs is an ideal tool for image analysis, and the fact that CNNs were developed for image classification. However, CNNs also perform well in other problem domain.

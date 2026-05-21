@@ -1,0 +1,1 @@
+Amazon S3]  viết tắt của Amazon Simple Storage Service là một "dịch vụ lưu trữ đơn giản" được cung cấp bởi Amazon Web Services (AWS) cung cấp lưu trữ đối tượng thông qua giao diện dịch vụ web. Amazon S3 sử dụng cơ sở hạ tầng lưu trữ có thể mở rộng tương tự mà Amazon.com sử dụng điể chạy mạng thương mại điện tử toàn cầu của mình.

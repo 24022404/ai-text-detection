@@ -1,0 +1,1 @@
+First, we have to setup the environment for our Azure Cognitive Services. By following the documentation, we managed to run the service on our Azure server.

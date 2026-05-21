@@ -1,0 +1,1 @@
+Yêu cầu về độ tin cậy Các dữ liệu trong hệ thống phả thống nhất, đảm bảo an toàn dữ liệu,năng thực hiện đúng nhiệm vụ.

@@ -1,0 +1,1 @@
+After we have enough images, we use PixelAnnotationTool- is a tool to assist in labeling data by color.Next, we put the image data into the python code for training, the environment on Kangle. Of course, before that, the image has gone through processing stages such as noise filtering, angle rotation to enhance and improve the image.

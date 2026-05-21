@@ -1,0 +1,1 @@
+Tiếp theo, em sẽ trình bày biểu đồ ch tết các góc theo từng module 4.1.3 Cấu trúc ch tết các góc theo từng module Hình 4.3: Biểu đồ ch tết có ở module Candidate (Ứng viên)Hình 4.3 mô tả chợ tết gò "Controller" và gió "Model" ở module Candidate (Ứng viên).

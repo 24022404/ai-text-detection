@@ -1,0 +1,1 @@
+Package API: used to handle requests to manipulate data, provide 3. Service package: contains business handling methods, receives calls from Controllers, processes parameters, and returns results. This package usually calls the methods from the repository package and the utility package to support processing.

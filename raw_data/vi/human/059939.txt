@@ -1,0 +1,1 @@
+Nút mặc định chính: chữ trắng nền xanh lá như trong Hình 4.5. Được sử dụng trong các trường hợp thông thường như thực hiện chức năng Tìm kiếm, Tạo bài viết,. . . hoặc sử dụng trong các trường hợp xác nhận thông tin.

@@ -1,0 +1,1 @@
+Express NodeJs Hình 3.5: Express Nodejs (nguồn:  NodeJs  là một môi trường chạy mã JavaScript  phía máy chủ, được xây dựng dựa trên JavaScript Engine V8 của Google Chrome. Vớ NodeJs , bạn có thể phát triển ứng dụng web và máy chủ hiệu quả với khả năng mở rộng tốt.

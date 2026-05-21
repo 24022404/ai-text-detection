@@ -1,0 +1,1 @@
+Như điã điề cập tớ ở phần 4.2.1 kiến trúc tổng quan, phía Backend được chia làm 4 thành phần chính tương ứng với 4 thư mục trong code: routes, controllers, services, models.

@@ -1,0 +1,1 @@
+Furthermore, to predict future price movements, I utilized an LSTM (Long Short-Term Memory) model, a type of deep learning architecture well-suited forsequential data like cryptocurrency price history. The LSTM model can learn patterns and dependencies from historical data, enabling it to make informed predic tions about future price changes.

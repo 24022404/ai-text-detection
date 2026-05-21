@@ -1,0 +1,1 @@
+Người quản lý có quyền thực hiện use case () xem danh sách công việc, () tạo công việc khi đang lập kế hoạch, () xem ch tết công việc, (v) tạo công việc mới (sau khi lập kế hoạch), và (v) tìm kiếm công việc.

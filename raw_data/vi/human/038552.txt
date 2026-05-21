@@ -1,0 +1,1 @@
+Gả pháp Để giải quyết bài toán trên, đồ án xây dựng chức năng phân cấp thành viên. Hệ thống sẽ phát điểm cho thành viên khi họ thực hiện các hành động như mua sản phẩm, đánh giá sản phẩm, đăng bài viết có nhiều lượt thích, v.v. Từ số điểm đó, thành viên có thể mở khóa các cấp bậc cao hơn hoặc quy đổi thành các phần quà tương ứng.

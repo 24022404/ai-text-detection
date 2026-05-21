@@ -1,0 +1,1 @@
+WebSocket  sử dụng một giao thức khởi tạo ban đầu để thiết lập kết nối. Sau khi kết nối được thiết lập, cả máy chủ và trình duyệt có thể gửi và nhận dữ liệu thông qua kênh này. WebSocket  hỗ trợ các tín hiệu sự kiện, cho phép máy chủ gửi thông báo đến trình duyệt kh có dữ liệu mờ hoặc sự kiện xảy ra.

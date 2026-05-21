@@ -1,0 +1,1 @@
+Since ck,s is embedded within a minimal de Bruijn sequence, we can leverage the DKRR sub-ar decoding algorithm introduced by Kociumaka, Radoszewski, and Rytter in 2016. By adapting this algorithm, it is possible to decode ck,s with high efficiency, achieving sub-ar time complexity.

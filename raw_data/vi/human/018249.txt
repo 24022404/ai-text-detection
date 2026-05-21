@@ -1,0 +1,1 @@
+Keras là một thư viện mã nguồn mở rất phổ biến trong lĩnh vực học sâu và được tạo ra bở Francois Chollet. Nó cung cấp một API cao cấp và dễ sử dụng để xây dựng và huấn luyện các mạng nơron (neural networks). Tính đơn giản, tính trực quan và hiệu quả trong việc xây dựng các mô hình học máy phức tạp là những điểm đáng chú ý khến Keras trở nên rất phổ biến trong cộng đồng học sâu.

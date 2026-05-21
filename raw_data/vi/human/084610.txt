@@ -1,0 +1,1 @@
+Ưu điểm nổi trội nhất và cũng là thế mạnh của HTML là nó cung cấp một cấu trúc cho các trang web và cho phép các nhà phát triển web tạo ra nội dung có định dạng và cấu trúc. HTML cũng cho phép các nhà phát triển tạo ra các liên kết giữa các trang web và tài nguyên khác trên Internet, cải thiện trải nghiệm người dùng và tăng tính khả dụng của trang web.

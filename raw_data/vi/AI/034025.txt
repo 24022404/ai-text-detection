@@ -1,0 +1,5 @@
+Ứng dụng đê giảm sóng kết cấu rỗng TC1, TC2 bảo vệ bờ biển vùng Đồng bằng sông Cửu Long đang được triển khai nhằm giảm thiểu tác động của sóng biển lên vùng đồng bằng này. Ứng dụng này sử dụng kết cấu rỗng TC1, TC2 để giảm thiểu lực tác động của sóng biển lên bờ biển, giúp bảo vệ vùng đồng bằng khỏi sự xói mòn và thiệt hại do sóng biển gây ra.
+
+Kết cấu rỗng TC1, TC2 được thiết kế để giảm thiểu lực tác động của sóng biển lên bờ biển bằng cách tạo ra một khoảng không gian giữa kết cấu và mặt nước biển. Điều này giúp giảm thiểu lực tác động của sóng biển lên kết cấu, từ đó giảm thiểu tác động của sóng biển lên bờ biển.
+
+Ứng dụng đê giảm sóng kết cấu rỗng TC1, TC2 bảo vệ bờ biển vùng Đồng bằng sông Cửu Long đang được triển khai tại các khu vực có nguy cơ xói mòn và thiệt hại do sóng biển gây ra. Ứng dụng này được kỳ vọng sẽ giúp bảo vệ vùng đồng bằng khỏi sự xói mòn và thiệt hại do sóng biển gây ra, đồng thời giúp bảo vệ tài sản và cuộc sống của người dân trong vùng.

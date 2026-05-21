@@ -1,0 +1,1 @@
+Dockerfile giúp tự động hóa việc xây dựng mage Docker, giúp đảm bảo tính nhất quán và tái tạo dễ dàng môi trường triển khai.

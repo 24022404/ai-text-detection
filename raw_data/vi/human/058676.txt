@@ -1,0 +1,1 @@
+Kh người dùng tương tác với ứng dụng làm thay đổi trạng thái (state) của ứng dụng (VB: thêm, sửa, xóa dữ lệu cá nhân), Web sẽ thông qua Action (hành động) gửi các thông tin thay đổi tớ Dspatcher gồm có :

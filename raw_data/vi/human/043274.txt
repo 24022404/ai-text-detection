@@ -1,0 +1,1 @@
+Ngoài ra trong đồ án này, việc khảo sát, triển khai, áp dụng phương pháp kiểm thử để xây dựng website là mơ mà người dùng chia sẻ cảm nhận của bản thân về những cuốn sách từng đọc. Từ đó, đưa ra các đánh giá về ưu điểm và nhược điểm của phương pháp này.

@@ -1,0 +1,1 @@
+Test MSE trên model Graph thấp  chỉ bằng gần 1/3 so với model LSTM v1  Vớ model CNN thì Val MSE cao vượt trội  Với model LSTM 2, cả Val MSE và Test MSE điều nằm ở mức vữa Theo quan điểm cá nhân của em, sở dĩ sa số qua model graph thấp đến vậy là bởi vì:

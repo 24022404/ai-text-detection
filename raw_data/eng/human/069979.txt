@@ -1,0 +1,1 @@
+on VNDS: As the above datasets are relatively small and easily susceptible to overfitting, and given that most existing Vietnamese models are focused on single-document processing, we also fine-tune our model on the VNDS dataset to compare its performance against other state-of-the-art models.

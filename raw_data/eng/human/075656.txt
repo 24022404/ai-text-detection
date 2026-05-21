@@ -1,0 +1,1 @@
+Search Filters: The application allows users to apply various search filters to find caregivers based on location, availability, experience, hourly rates, and other preferences.

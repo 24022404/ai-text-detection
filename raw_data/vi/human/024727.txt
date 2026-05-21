@@ -1,0 +1,1 @@
+Nhân viên: là nhân viên của cửa hàng, đăng nhập tài khoản có các chức năng giống quản trị viên, trừ chức năng quản lý nhân viên.

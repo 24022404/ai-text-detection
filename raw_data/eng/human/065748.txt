@@ -1,0 +1,1 @@
+For instance,  combined various techniques such as word co-occurrences, TF IDF, position-based, title-based, and proper noun-based methods to select salientsentences and generate the summary. Another study by  introduced a graph based system that utilized a self-organizing map to cluster documents and extract the main idea.

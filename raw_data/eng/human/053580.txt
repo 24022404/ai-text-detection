@@ -1,0 +1,1 @@
+In the design and development of the system, apart from the core functionalities, non-functional requirements also hold significant importance. The following are the criteria for non-functional requirements that have been established.

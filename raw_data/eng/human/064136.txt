@@ -1,0 +1,1 @@
+Flexible Data Modeling: Games often involve complex and evolving data struc-tures. MongoDB’s document-oriented nature allows developers to store and manage diverse data types in a flexible manner. This flexibility accommodatesthe changing requirements and data structures that can arise during game de velopment.

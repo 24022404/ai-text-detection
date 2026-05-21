@@ -1,0 +1,1 @@
+Tóm lạ, React là một thư viện mã nguồn mở rất mạnh mẽ và linh hoạt trong việc phát triển giao diện người dùng. Các ưu điểm của React, bao gồm hiệu suất tốt, tính mở rộng, dễ tích hợp và sử dụng lại các thành phần, cùng với cộng đồng lớn và phát triển nhanh chóng, nhờ những ưu điểm vượt trội đó em đã chọn React làm thư viện chính điểm xây dựng frontend.

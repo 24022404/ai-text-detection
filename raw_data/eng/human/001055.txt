@@ -1,0 +1,1 @@
+Programming Errors: Some programming errors found in smart contracts are similar to those in other normal programs, such as failure to validate input, cast errors, failure to handle exceptions, number overflow, . . .

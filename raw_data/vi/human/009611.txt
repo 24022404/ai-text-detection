@@ -1,0 +1,1 @@
+Về bài toán quản lý người dùng, vì đồ án được triển khai nội bộ cho nên việc quản lý người dùng sẽ thuộc quyền của người quản trị của đơn vị. Quản lý người dùng dựa trên thêm, sửa, cập nhật và xóa (CRUD  Create, Read, Update, Delete).

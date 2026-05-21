@@ -1,0 +1,1 @@
+Biểu đồ use case tổng quát Từ mô tả một cách khái quát chức năng ở trên, tiếp theo đây là biểu đồ use case tổng quát của hệ thống.

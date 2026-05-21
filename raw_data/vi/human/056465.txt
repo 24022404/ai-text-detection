@@ -1,0 +1,1 @@
+Hiện smart contract được deploy trên Blanc (BNB) Smart Chan Testnet (BSC) để tạo ra một đơn vị tín dụng ảo dưới chuẩn BEP20 token. Thư viện solty được sử dụng để hỗ trợ việc vết smart contract.

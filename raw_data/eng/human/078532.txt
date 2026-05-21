@@ -1,0 +1,1 @@
+algorithm is set to 20. Post each round, the global model’s performance is assessed using the testsets from all participating nodes.

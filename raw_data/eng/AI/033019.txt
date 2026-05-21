@@ -1,0 +1,1 @@
+Web3Auth operates as a decentralized oracle network, much like the thesis project, leveraging Shamir’s Secret Sharing combined with the Distributed Key Generation (DKG) protocol. It delivers essential features for secure, distributed authentication.

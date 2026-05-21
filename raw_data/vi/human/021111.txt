@@ -1,0 +1,1 @@
+Database: Tầng lưu trữ dữ liệu. Nằm dưới tầng Repository, Chỉ giao tiếp với Repository.4.2 Thiết kế cho tết 4.2.1 Thiết kế giao diện Bảng 4.1 dưới đây thể hiện một và thông tin thiết kế giao diện của phần giao tiếp với người dùng là tầng Application.

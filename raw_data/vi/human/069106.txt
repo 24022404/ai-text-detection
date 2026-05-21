@@ -1,0 +1,1 @@
+Phân tích yêu cầu: Visual Paradigm cho phép mô hình hóa và phân tích yêu cầu của dự án thông qua các biểu đồ như Use Case Diagrams, Activity Diagrams, và Sequence Diagrams  để hiểu rõ các yêu cầu từ người dùng và phân tích chúng điểm đảm bảo rằng dự án được thiết kế đúng đắn.

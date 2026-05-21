@@ -1,0 +1,1 @@
+Hậu điều kiện Phiếu nhập hàng được tạo thành công và kho hàng điã điược cập nhật vớ thông tn sản phẩm nhập vào.Luồng sự kện chính 1. Nhân viên quản lý kho hàng truy cập tính năng tạo phiếu nhập hàng trên hệ thống.

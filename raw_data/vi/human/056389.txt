@@ -1,0 +1,1 @@
+Trạng thái (state) của toàn bộ ứng dụng được lưu trong trong 1 stored duy nhất là 1 Object mô hình tree.

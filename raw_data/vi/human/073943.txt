@@ -1,0 +1,1 @@
+ReactJs cũng hỗ trợ tốt cho client side rendering và mã nguồn của nó cũng gọn gàng và dễ hiểu hơn so với việc sử dụng HTML, CSS, JS thuần.

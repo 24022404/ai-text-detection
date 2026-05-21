@@ -1,0 +1,1 @@
+Vì vậy ReactJS tạo ra với mục đích chính là cả thiện quá trình phát triển giao diện người dùng, làm cho việc tương tác với các thành phần trong ứng dụng trở nên dễ dàng hơn. Để làm được như vậy, ReactJS điã điưa ra 2 khá đệm quan trọng bao gồm : JSX vs Virtual DOM.

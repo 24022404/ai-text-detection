@@ -1,0 +1,1 @@
+Các điều kiện ràng buộc Để thu được kết quả phát hiện chính xác cao các hệ thống camera cần được đặt tại các vị trí phù hợp như giữa trục đường chính điểm có góc nhìn rộng tránh các trường hợp các biển báo hai đèn tín hiệu bị che khuất, các vị trí có ánh sáng tốt.

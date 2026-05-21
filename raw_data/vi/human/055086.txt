@@ -1,0 +1,1 @@
+Hệ thống còn cho phép gửi thông báo về số đơn hàng mới trong ngày, số đơn hàng chưa thanh toán, số đơn hàng chờ xử lý qua gmail, messenger và có thể tùy chỉnh bật  tắt, thờ gần gửi thông báo.

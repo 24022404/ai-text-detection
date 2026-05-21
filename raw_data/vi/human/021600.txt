@@ -1,0 +1,1 @@
+Thuộc tính Tên Kiểu dữ liệu Ý nghĩa query set List[Device]Tất cả Organization lấy lên từ CSDL thỏa mãn yêu cầu.

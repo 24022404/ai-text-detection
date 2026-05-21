@@ -1,0 +1,1 @@
+Kubernetes : một hệ thống mã nguồn mở điểm tự động hóa việc triển khai, mở rộng quy mô và quản lý các ứng dụng được đóng gói.

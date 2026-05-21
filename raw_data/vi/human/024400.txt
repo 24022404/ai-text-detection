@@ -1,0 +1,1 @@
+Đều này cho thấy mô hình điều xuất có khả năng học để phân vùng hiệu quả polyp trên ảnh nội soi.

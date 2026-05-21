@@ -1,0 +1,1 @@
+To ensure security, PostgreSQL provides features like user authentication, role based access control, and SSL encryption to protect data from unauthorized access.

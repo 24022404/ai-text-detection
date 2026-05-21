@@ -1,0 +1,1 @@
+dshRepostory: Lưu thông tin cơ bản của món ăn accountRepostory: Lưu tài khoản mod tạo món ăn formulaRepostory: Lưu công thức nấu ăn stepRepostory: Lưu các bước nấu ăn ngredentDetalRepostory: Lưu nguyên lệu điể nấu ăn dshImageRepostory: Lưu ảnh món ăn để lấy dữ lệu hoặc lưu dữ lệu vàodatabase.

@@ -1,0 +1,1 @@
+Cả tiến hệ thống và chức năng quản lý không đơn thuần chỉ là quản lý thông tin mà có thể thống kê doanh thu, thống kê tỷ lệ lấp đầy phòng của homestay.

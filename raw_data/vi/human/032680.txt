@@ -1,0 +1,1 @@
+Xử lý luồng đa phương tiện: Sau khi người dùng cho phép truy cập, bạn sẽ nhận được một luồng đa phương tiện (stream) từ camera và micro. Với luồng video, bạn có thể hiển thị nó trong một thẻ video trên trang web của bạn. Đối với luồng âm thanh, bạn có thể sử dụng nó cho các mục đích tiếp theo, như ghi âm hoặc truyền tải âm thanh.

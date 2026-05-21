@@ -1,0 +1,1 @@
+Hiểu đơn giản, dựa vào khoảng cách của hai vectơ đặc trưng của ha khuôn mặt, ta có thể đưa ra kết luận hay khuôn mặt đó có cùng một người hay không.

@@ -1,0 +1,1 @@
+STT Tên trường Yêu cầu 1 Tên Organization Bắt buộc 2 Merak API key Bắt buộc Bảng C1: Dữ liệu đầu vào cho trường hợp kiểm thử "Tạo Organization theo Mode Quick" Các ca kiểm thử cho chức năng "Tạo Organization theo Mode Quick":

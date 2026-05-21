@@ -1,0 +1,1 @@
+PostgreSQL stands out for its extensibility, enabling users to define custom data types, functions, and operators, which makes it adaptable to a wide range of applications.

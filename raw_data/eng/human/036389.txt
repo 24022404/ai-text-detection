@@ -1,0 +1,1 @@
+Malware Research Acceleration : Security researchers often spend a signifi cant amount of time reverse-engineering malware to understand its behavior.

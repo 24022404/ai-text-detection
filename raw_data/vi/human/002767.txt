@@ -1,0 +1,1 @@
+Ngoài ra, Magento cũng có một phiên bản cao cấp hơn gọi là Magento Enter prse, cung cấp nhiều tính năng cao cấp hơn và hỗ trợ cho các doanh nghiệp có quy mô lớn hơn. Magento Enterprise cũng được tích hợp với các giải pháp quản lý như CRM và ERP điểm hỗ trợ cho việc quản lý và vận hành cửa hàng trực tuyến một cách hiệu quả hơn.

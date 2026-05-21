@@ -1,0 +1,1 @@
+However, a significant challenge is that BARTPho and ViT5 were not specifically tailored for the Multi-document Summarization task, which involves processing long inputs and clusters of related documents with potentially thousands of words.

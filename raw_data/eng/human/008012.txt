@@ -1,0 +1,1 @@
+] This modified model will then be used directly for Vietnamese text summarization context. The input of the model will be text and the output will be the generated summary.4.1 Vietnamese Datasets Although there are significant English language resources, the availability of such extensive datasets is still limited in the Vietnamese language domain.

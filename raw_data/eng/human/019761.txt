@@ -1,0 +1,1 @@
+SecurityThe server must have robust password encryption mechanisms, user authentica tion for their actions, and prevent unauthorized access to functionalities that users are not authorized to access.

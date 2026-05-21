@@ -1,0 +1,1 @@
+Tên điều kiện: đặc điểm của khách hàng. Ví dụ: giới tính, địa chỉ, độ tuổi, sở thích, giá trị đơn đặt hàng tối thiểu,...NỀN TẢNG DỮ LIỆU KHÁCH HÀNG Toán tử: những phép so sánh phục vụ việc phân khúc. Ví dụ: lớn hơn, nhỏ hơn, bằng, bao gồm,..

@@ -1,0 +1,1 @@
+Qua những đánh giá này, ta có thể thấy được một cái nhìn tổng quan về quá trình huấn luyện mô hình và những kết quả đạt được với những cấu hình khác nhau của hệ thống. Từ đó, tuỳ thuộc vào nhu cầu thực tế mà ta có thể sử dụng các cấu hình khác nhau cho các bài toán cụ thể.

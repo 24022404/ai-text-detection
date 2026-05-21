@@ -1,0 +1,1 @@
+gửi những tín hiệu điã bết trước và học tập tín hiệu mớ. Do vậy em đã xây dựng ha file JSON để lưu thông tin của () tất cả các tín hiệu điã bết trước và () tín hiệu học tập được.

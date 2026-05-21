@@ -1,0 +1,1 @@
+Thiết kế cho tết cho lớp ProductDetailId Mô tả: Lớp giao diện thêm và chỉnh sửa sản phẩm Các thuộc tính:

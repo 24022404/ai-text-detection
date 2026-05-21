@@ -1,0 +1,1 @@
+Bến đổ hình học : Những bến đổ này bao gồm các hoạt động như xoay, co giãn, dịch chuyển và lật. Vớ những bến đổ này, chúng ta có thể mô phỏng sự thay đổi trong hình dạng của một người do các chuyển động của đầu. Lật có thể đối phó với việc khuôn mặt có thể được nhìn thấy trong phản chiếu gương.

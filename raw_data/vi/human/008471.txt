@@ -1,0 +1,1 @@
+Hệ thống cần thiết kế tốt để đảm bảo khi xây dựng tính năng mới sẽ không ảnh hưởng tới các tính năng ổn định hiện có.

@@ -1,0 +1,1 @@
+Các phòng code thì có các thông tin như d (là định danh duy nhất, phân biệt giữa các phòng với nhau), roomname(tên phòng), t_public (xác định quyền truy cập của phòng code này là có công khai với những người dùng khác trong hệ thống không), access permission ( chỉ định quyền truy cập với những dụng công kha).

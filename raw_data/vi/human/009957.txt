@@ -1,0 +1,1 @@
+Ở chương 2, em sẽ giới thiệu về những kiến thức nền tảng cần liên quan đến bài toán đặt ra cũng như những lý thuyết được áp dụng trong gả pháp của bài toán.

@@ -1,0 +1,1 @@
+khiển nhân vật (Itty Control Data) nhằm điều khiển nhân vật di chuyển, dữ liệu chỉ số nhân vật (IEnty StatData) điểm có thể lấy được chỉ số tốc độ di chuyển của nhân vật, sau thực hiện di chuyển, dữ liệu bao gồm vị trí của nhân vật, trạng thái hiện tại của nhân vật (đang di chuyển) sẽ được cập nhật.

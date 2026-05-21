@@ -1,0 +1,1 @@
+GPT-3 operates on the principles of autoregressive language modeling, wherein it predicts the likelihood of each token in a sequence based on the preceding tokens.

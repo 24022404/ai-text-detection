@@ -1,0 +1,1 @@
+After careful consideration, MLAPI was selected as our primary framework to handle the multiplayer part of Funny Zoo. MLAPI’s tight integration with Unityleads to low learning curve and fast iterations. MLAPI being fully free and open sourced is another key attribute leading to the final decision.

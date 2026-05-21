@@ -1,0 +1,1 @@
+Cast character skill 1 This test case is to check the character’s ability to use the first skill (Figure 4.3).Figure 4.3: Test case for cast character skill 1 4.1.4 Cast character skill 2This test case is to check the character’s ability to use the second skill (Fig ure 4.4).

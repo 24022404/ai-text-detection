@@ -1,0 +1,1 @@
+Biểu đồ use case phân rã “Quản lý homestay của tô” Use case “Quản lý thông tin homestay của tô” được thể hiện thông qua Hình 2.4 với sự tham gia của 1 tác nhân chính là Host. Use case này bao gồm 4 use case con.

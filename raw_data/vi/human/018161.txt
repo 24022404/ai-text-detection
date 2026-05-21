@@ -1,0 +1,1 @@
+Phân hệ thu thập, tổ chức lưu trữ và phân tích dữ lệu được bạn Lê Đình Phú 20194137 thực hiện. Mục tiêu chính là phát triển một hệ thống có khả năng thu thập, lưu trữ dữ lệu về hành vi của người dùng một cách hiệu quả. Đồng thờ, hệ thống cần có tính khả mở và khả năng chịu tải cao điểm đáp ứng yêu cầu mở rộng thêm các nguồn dữ lệu khác nhau trong tương lai.

@@ -1,0 +1,1 @@
+ISO 14443-4 : This part defines the protocols for data communication betweenthe tag and the card reader. It provides rules for data exchange, including con trol signals and formatting data fields. It also defines how to handle errors during communication.

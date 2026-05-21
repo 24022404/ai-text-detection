@@ -1,0 +1,1 @@
+Tức là cha nhỏ một ứng dụng lớn ra thành nhiều ứng dụng nhỏ hơn, các ứng dụng nhỏ này có thể kết nối và trao đổi dữ liệu cho nhau. Chi tiết hơn về thiết kế Micro frontends trong hệ thống Boundless sẽ được trình bày ở Chương 5.

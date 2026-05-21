@@ -1,0 +1,1 @@
+Hậu điều kiện Không Bảng 2.3: Đặc tả use case Tạo yêu cầu 2.3.2 Đặc tả use case hỏi đáp Tên use case Hỏi đáp Tiền điều kiện Thực hiện Tạo yêu cầu được mô tả trong bảng 2.3.

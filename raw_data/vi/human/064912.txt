@@ -1,0 +1,1 @@
+Phía quản trị viên Quản trị viên có thể thực hiện các chức năng quản trị trên trang quản trị của trang web. Vớ các loại sản phẩm tổng quát, quản trị viên bấm chọn thêm mới sản phẩm và bắt đầu điền các thông tin cần thiết tạo giao diện thêm mới loại sản phẩm.

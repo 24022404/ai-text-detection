@@ -1,0 +1,1 @@
+Hoàn thành các API như đã thiết kế, điảm bảo tốc điộ truy vấn một API không quá 1 gây, có phân quyền dựa trên người sử dụng Đã lưu trữ được khoảng 40 mẫu sản phẩm, 10 người dùng trong cơ sở dữ lệu Đố với phần mềm trên d động:

@@ -1,0 +1,1 @@
+Đố vớ những nhược điểm của phương pháp kiểm thử em đã nêu ở chương 5, trong tương lai sẽ đặt mục tiêu điểm hoàn thiện thêm các thiếu sót đố. Và tìm hiểu thêm các công cụ kiểm thử tự động phần mềm.

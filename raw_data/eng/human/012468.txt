@@ -1,0 +1,1 @@
+Y. Wang, J. Peng, and Z. Zhang, “Uncertainty-aware pseudo label refinery for domain adaptive semantic segmentation,” in Proceedings of the IEEE/CVF International Conference on Computer Vision , 2021, pp. 9092–9101.

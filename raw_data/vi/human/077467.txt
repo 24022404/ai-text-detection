@@ -1,0 +1,1 @@
+A – phần mềm Apache : Web Server mã nguồn mở Apache là máy chủ được sử dụng rộng rã nhất trên toàn thế giới điể phân phố nộ dung Web. Ứng dụng được cung cấp dưới dạng phần mềm mễn phí bở Apache Software Foundaton.

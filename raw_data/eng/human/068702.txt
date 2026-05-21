@@ -1,0 +1,1 @@
+In cryptography, for example, the Baltimore Hilton Inn used de Bruijn sequences to install a cipher lock system for each of its rooms in lieu of the conventional key-lock system . The low-cost n-stage shift register was used to generate maximum-length pseudorandom sequences in stream cipher, though later, this method was proved to be vulnerable to known-plaintext attack .

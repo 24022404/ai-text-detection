@@ -1,0 +1,1 @@
+Trong chương 4 của đồ án trình bày cho tết về thiết kế kiến trúc hệ thống, ch tết các thành phần trong hệ thống, thiết kế cơ sở dữ liệu, quá trình xây dựng, kiểm thử và triển khai hệ thống.

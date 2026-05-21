@@ -1,0 +1,9 @@
+Objective: Farthest Point Sampling (FPS) is widely used to select representative subsets from 3D point clouds, yet it often overlooks local geometric complexity and task-specific feature importance. This paper investigates novel sampling strategies that go beyond FPS to improve point-wise analysis in downstream tasks such as classification, segmentation, and surface reconstruction.  
+
+Methods: We introduce two complementary techniques: (1) a feature-aware sampling module that integrates local descriptor variance and learned attention weights to prioritize points contributing most to task objectives, and (2) a differentiable sampling layer embedded within Graph Neural Networks (GNNs) that jointly learns sampling probabilities and feature extraction end-to-end. Both methods adapt sampling density to geometric detail and semantic relevance, dynamically balancing coverage and redundancy.  
+
+Results: Experiments on standard benchmarks (ModelNet40, ShapeNetPart, and ScanNet) demonstrate that our approaches consistently outperform FPS and recent learning-based sampling methods. On classification, we achieve up to 2.4% accuracy gain over FPS with only half the sampled points. In segmentation tasks, boundary regions and fine structures are better preserved, boosting mean Intersection-over-Union by 3.1%. Runtime analysis highlights that our differentiable layer incurs minimal overhead compared to vanilla FPS, enabling real-time processing on GPU.  
+
+Conclusion: By moving beyond uniform distance-based selection, our feature-aware and differentiable sampling frameworks offer more expressive and task-aligned point subsets. These contributions advance point-wise analysis by reducing input redundancy and enhancing representation quality, with potential applications in robotics, autonomous driving, and AR/VR.  
+
+Keywords: 3D point cloud, sampling, farthest point sampling, feature-aware sampling, differentiable sampling, graph neural networks.

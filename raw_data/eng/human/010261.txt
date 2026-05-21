@@ -1,0 +1,1 @@
+The client sends an HTTPS GET request to the server for reading data, specifying the unique identifier of the metadata or any other criteria for retrieving specific entries. The server retrieves the requested data from the database and returns it in response to the client.

@@ -1,0 +1,1 @@
+Tích hợp các công nghệ ĐATN sử dụng kết hợp các công nghệ ReactJS xây dựng Frontend, Node.js, Expressjs xây dựng Backend và MongoDB là hệ quản trị cơ sở dữ liệu. Tập hợp các công nghệ xây dựng ứng dụng web này được gọi là MERN stack. Hình 3.2 mô tả cấu trúc của một ứng dụng web được xây dựng bở MERN stack.

@@ -1,0 +1,1 @@
+(v) Tăng tính độc lập giữa các phần của hệ thống: Việc tách các phần của hệ thống ra thành các Microservices giúp giảm sự phụ thuộc giữa các phần, do đó làm cho hệ thống trở nên độc lập hơn.

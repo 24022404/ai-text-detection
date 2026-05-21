@@ -1,0 +1,1 @@
+The Processing/Business Logic Layer contains essential logic for analyzing data, running scanners like run_analysis and niap_scan, and extracting meaningful information efficiently.

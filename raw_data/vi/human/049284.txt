@@ -1,0 +1,1 @@
+Nâng cao kỹ năng sử dụng các công cụ phát triển phần mềm chuyên nghiệp như Git, GitHub, VSCode và phpMyAdmin, để quản lý mã nguồn và cơ sở dữ lệu một cách chặt chẽ và hiệu quả.

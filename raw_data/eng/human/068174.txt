@@ -1,0 +1,1 @@
+The output is passed to the outer world above and serves as the short-term input for the next cell (providing short-term output context for the next element in the sequence). The memory is also passed to the next cell.

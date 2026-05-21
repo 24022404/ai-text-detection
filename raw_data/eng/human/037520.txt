@@ -1,0 +1,1 @@
+Allows Developer to break complex UI constructs into independent compo nents. Because it is now easy for developers to disassemble complex UI/UX structures into simpler parts, developers won’t need to worry about the overall web application.

@@ -1,0 +1,1 @@
+Based on lemma 2 and lemma 3, the (4,1)-RdB graph contains V3,1 vertices and its edges appear in figure 3.1.

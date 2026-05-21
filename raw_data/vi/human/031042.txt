@@ -1,0 +1,1 @@
+Bí thư chọn thêm đảng viên 2. Hệ thống hiển thị form thông tin đảng viên cần thêm 3. Bí thư điền thông tin và nhấn “Thêm” 4. Hệ thống xử lý và thông báo kết quả Luồng sự kiện con:

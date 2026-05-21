@@ -1,0 +1,1 @@
+Đồ án điã điáp ứng hầu hết các mục tiêu đặt ra khi phân tích thiết kế. Cụ thể, em đã xây dựng được một ứng dụng thương mại điện tử hoàn chỉnh. Bên cạnh đó là các tính năng được nghiên cứu và mở rộng thêm như là tích hợp cổng thanh toán online, live chat, gợi ý sản phẩm, v.v.

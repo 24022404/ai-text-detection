@@ -1,0 +1,1 @@
+Hạn chế: hiện tạo chức năng chỉ tặng điểm cho thành viên kh thành viên thực hiện mua hàng. Còn các hành động khác như đánh giá sản phẩm và đăng bài viết có nhiều lượt thích thì vẫn chưa được tặng điểm.

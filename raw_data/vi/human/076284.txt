@@ -1,0 +1,1 @@
+Do đố, bài toán đặt ra là xây dựng một hệ thống vớ luồng xử lý dữ lệu lớn, từ lưu trữ tính toán cho đến trực quan hóa dữ lệu điểm khai thác nguồn dữ lệu này.

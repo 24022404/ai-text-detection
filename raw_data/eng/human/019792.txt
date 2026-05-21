@@ -1,0 +1,1 @@
+R. Zhang, F. Meng, Y. Zhou andB. Liu, “Relation classification via recurrent neural network with attention and tensor layers,” Big Data Mining and Analytics , jourvol 1,number 3,pages 234–244, 2018. DOI:10.26599/BDMA.

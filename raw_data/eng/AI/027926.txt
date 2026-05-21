@@ -1,0 +1,1 @@
+Kafka stands out for its high reliability, achieved through data replication, support for multiple subscribers, and the ability to automatically rebalance consumers in case of failure, ensuring greater dependability than other messaging services.

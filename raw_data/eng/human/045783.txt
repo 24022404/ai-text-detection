@@ -1,0 +1,1 @@
+Once you have set up SLAs for a project, your team members will be able to see how each request raised by a customer should be prioritized to meet the team service goals. Once you have set up SLAs for a project, team members can view their SLAs and plan which tasks need to be resolved first.

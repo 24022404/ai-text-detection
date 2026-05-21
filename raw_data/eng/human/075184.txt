@@ -1,0 +1,1 @@
+Within the Controller package, there is a small package called "utils." This package contains utility functions that assist in handling errors when API callsare made from the Router. It ensures that error handling is centralized and consistent across the application.

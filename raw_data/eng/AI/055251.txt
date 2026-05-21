@@ -1,0 +1,1 @@
+The article by P. E. Compeau, P. A. Pevzner, and G. Tesler highlights how de Bruijn graphs enable efficient genome assembly from short sequencing reads.

@@ -1,0 +1,1 @@
+–Màn hình lựa chọn vũ khí  Sau khi xác nhận bắt đầu lượt chơ mớ, đây là màn hình tiếp theo người chơ gặp, đây cũng là màn hình mà người chơi thắng hay thua sẽ quay lại. Ở đây, người chơ lựa chọn vũ khí phù hợp cho lượt chờ của mình, nó hiển thị các chỉ số nhân vật, thông số của vũ khí cũng như lố cho kh sử dụng vũ khí đó.

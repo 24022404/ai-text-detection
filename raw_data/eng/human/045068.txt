@@ -1,0 +1,1 @@
+Basic classes of convolutional neural networksConvolutional neural network consists of basic layers: convolutional layer, pool ing layer, nonar layer, fully connected layer.

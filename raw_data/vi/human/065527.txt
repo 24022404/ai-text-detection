@@ -1,0 +1,1 @@
+Node.js có khả năng xử lý hàng nghìn yêu cầu đồng thờ nhờ cơ chế xử lý quy trình bất đồng bộ. Các yêu cầu tiếp theo được xử lý cùng với yêu cầu đầu tên.

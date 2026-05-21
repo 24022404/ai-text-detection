@@ -1,0 +1,1 @@
+B. Jackson, B. Stevens, and G. Hurlbert explore open problems in gray codes and universal cycles, outlining key questions, challenges, and research directions.

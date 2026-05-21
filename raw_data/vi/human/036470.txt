@@ -1,0 +1,1 @@
+IDF đo lường tầm quan trọng của một từ trong toàn bộ tập văn bản. Nếu một từ xuất hiện trong nhiều văn bản, giá trị IDF của từ đó sẽ thấp, ngược lại, nếu một từ hếm kh xuất hiện, giá trị IDF của từ gió sẽ cao.

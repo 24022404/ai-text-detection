@@ -1,0 +1,9 @@
+Objective: Accurate and efficient delineation of anatomical structures in medical images remains a critical challenge for computer‐aided diagnosis and treatment planning. This paper presents an interactive segmentation framework based on fully convolutional neural networks (FCNNs) that leverages minimal user input to guide precise region delineation across diverse imaging modalities.
+
+Methods: We extend a U-Net–style FCNN by integrating a user‐interaction module that accepts sparse annotations (e.g., clicks or scribbles) as additional network channels. During training, the model learns to fuse image features with user cues, refining its predictions through a cascaded encoder–decoder architecture. A conditional random field (CRF)–inspired refinement layer further sharpens boundaries. We evaluate our approach on public cardiac MRI, brain MRI, and abdominal CT datasets, comparing against standard FCNNs and classical interactive tools.
+
+Results: Our interactive FCNN achieves a mean Dice score improvement of 4–7% over noninteractive baselines and reduces annotation time by up to 60% compared to manual delineation. User studies indicate that two to three clicks per object suffice for high‐quality segmentation, and the model generalizes well to unseen cases without retraining.
+
+Conclusion: The proposed framework combines the accuracy of deep learning with the flexibility of user guidance, offering a practical solution for rapid and reliable medical image segmentation. Its modular design allows easy integration into existing clinical workflows and has potential for real‐time applications.
+
+Keywords: Interactive segmentation, fully convolutional neural network, U-Net, user guidance, medical imaging, deep learning.

@@ -1,0 +1,1 @@
+Khách hàng thành viên có điầy đủ các chức năng của khách hàng viếng thăm và bổ sung thêm chức năng đặt mua, xem danh sách điơn hàng điã điặt và tiến hành thanh toán.

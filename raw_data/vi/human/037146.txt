@@ -1,0 +1,1 @@
+Kiểu dữ liệu số trong MySQL MySQL sử dụng tất cả các kiểu dữ liệu số theo chuẩn ANSI SQL. Các kiểu dữ liệu số phổ biến gồm:

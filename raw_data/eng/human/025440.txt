@@ -1,0 +1,1 @@
+Machine learning models are built on training data, i.e. a set of data with known outcomes, and from there learn and improve performance.

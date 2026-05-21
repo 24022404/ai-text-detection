@@ -1,0 +1,1 @@
+This careful technique makes sure that the reaction time accurately reflects the time it takes for the video to start playing, rather than just the time it takes for the page to load.

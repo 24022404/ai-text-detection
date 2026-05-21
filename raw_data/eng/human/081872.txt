@@ -1,0 +1,1 @@
+The GUI Manager is crucial because every game requires graphics and a userinterface that significantly impacts player reactions. A well-designed graphical in terface can easily engage players and keep them interested in the game. Hence, having a system to manage UI elements in the game is essential.

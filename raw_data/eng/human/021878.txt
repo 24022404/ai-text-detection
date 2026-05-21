@@ -1,0 +1,1 @@
+This thesis only focuses on the case q= 2and thus drops qin the notation for simplicity. Sequence s=s1s2. . . s n∈Σnis also written without ambiguity.

@@ -1,0 +1,1 @@
+Kến trúc MAE Hình 3.3: Kến trúc mô hình Masked Autoencoder  Phương pháp MAE dựa trên ha thiết kế cốt lõ: kiến trúc bộ mã hóagả mã bấtđiố xứng và che một tỷ lệ lớn hình ảnh điầu vào.

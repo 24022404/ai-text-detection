@@ -1,0 +1,1 @@
+Nhà tuyển dụng có thể đăng ký tài khoản, đăng tin tuyển dụng, xem CV của ứng viên, đánh dấu CV của ứng viên tiềm năng, quản lý công việc của mình, quản lý các ứng viên hiện có và quản lý các đơn ứng tuyển được gửi qua hệ thống, xem các bà cha sẻ thông tin hữu ích.

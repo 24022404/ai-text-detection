@@ -1,0 +1,1 @@
+Khả năng mở rộng và mạnh mẽ: MySQL cung cấp khả năng dễ dàng mở rộng, phát triển điểm có thể xử lý rất nhiều dữ liệu.

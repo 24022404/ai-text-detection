@@ -1,0 +1,9 @@
+Objective: Unsupervised domain adaptation for semantic segmentation often struggles with the appearance gap between labeled source images (e.g., synthetic data) and unlabeled target images (e.g., real-world scenes). This paper introduces ColorMapGAN, a novel framework that reduces this gap by learning color transformations that align source domains to target visual characteristics without requiring paired data.
+
+Methods: ColorMapGAN comprises a color mapping generator and a discriminator trained adversarially alongside a segmentation network. The generator learns pixel-wise color adjustments that shift the source image distribution toward the target style while preserving structural and semantic content. The discriminator distinguishes mapped from real target images, guiding the generator to produce realistic colorizations. Concurrently, the segmentation model is trained on transformed source images, enabling it to generalize effectively to the target domain.
+
+Results: We evaluate ColorMapGAN on standard benchmarks, including GTA5→Cityscapes and SYNTHIA→Cityscapes, using mean Intersection-over-Union (mIoU) as the metric. Our approach outperforms existing image-style adaptation and feature-alignment methods by up to 4.2% mIoU, demonstrating superior ability to bridge the visual domain gap with minimal computational overhead.
+
+Conclusion: ColorMapGAN offers an efficient, plug-and-play solution for unsupervised domain adaptation in semantic segmentation. By focusing on color distribution alignment, it achieves robust performance gains and can be integrated into diverse vision pipelines for applications such as autonomous driving and robotics.
+
+Keywords: Unsupervised domain adaptation; semantic segmentation; generative adversarial networks; color mapping; Cityscapes.

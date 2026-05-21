@@ -1,0 +1,1 @@
+DeepFace : Được phát triển bở Facebook, DeepFace sử dụng một mạng neural sâu vớ hơn 120 triệu tham số và bốn lớp tích chập. Mô hình học từ một tập dữ liệu lớn của hình ảnh khuôn mặt điã điược gán nhãn, điạt điộ chính xác gần như con người trong việc nhận dạng khuôn mặt.

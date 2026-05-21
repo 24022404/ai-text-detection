@@ -1,0 +1,1 @@
+a. Code Slave Hình 5.11: Kênh truyền RF nhận dữ liệu. Code Master Hình 5.12: Code Master Code Master Timer 2c. Code App Android Hình 5.14: Code App Tme Hình 5.15: Code App Timer 25.3.3 Kết quả Hệ thống điã hoạt động vớ chế độ Timer. Trên app Android đỉa có cấu hình chế độ Timer, người dùng có thể cài đặt thời gian và bật/tắt các cơ cấu chấp hành điểm điều khiển được hệ thống.

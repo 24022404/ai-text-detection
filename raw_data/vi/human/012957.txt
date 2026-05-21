@@ -1,0 +1,1 @@
+Kiến trúc lnh hoạt: Framework được xây dựng theo mô hình Module, cho phép lập trình viên tùy chỉnh, mở rộng và tái sử dụng các thành phần theo ý muốn.•Thư viện mã nguồn mở: Zend Framework cung cấp nhiều thành phần mã nguồn mở, cho phép lập trình viên sử dụng các chức năng sẵn có để giảm thiểu thờ gan và công sức phát triển.

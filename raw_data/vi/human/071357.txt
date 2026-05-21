@@ -1,0 +1,1 @@
+Trong đồ án của mình tác giả sử dụng Nodejs với thư viện Express để tạo API bên backend, gao xếp vớ frontend thông qua REST API.

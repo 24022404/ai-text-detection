@@ -1,0 +1,1 @@
+STT Tên trường Kiểu dữ liệu Nullable Ràng buộc Mô tả 1 EntityID Int Không PH Id của product 2 AttributeS In Không thuộc tính của product 3 Type varchar Không TypeId của product 4 Sku varchar Không Sku của product Bảng 4.7: Đặc tả bảng Product Bảng Recommendation customer:

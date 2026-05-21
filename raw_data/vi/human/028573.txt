@@ -1,0 +1,1 @@
+Thành vên: Là thành vên điã điăng ký tà khoản tạ webste, có các chức năng của khách hàng mớ, và một số chức năng khác như điặt sản phẩm, đánh giá và bình luận các sản phẩm sách, xem các thông tin của tài khoản.

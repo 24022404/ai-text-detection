@@ -1,0 +1,1 @@
+Rbot : create backdoor, give control to attackers through the backdoor so that at tacker can access to user’s information or launch attack.

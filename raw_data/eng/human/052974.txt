@@ -1,0 +1,1 @@
+G. Hinton, O. Vinyals andJ. Dean, Distilling the knowledge in a neural network , cite arxiv:1503.02531Comment: NIPS 2014 Deep Learning Workshop, 2015. url: .

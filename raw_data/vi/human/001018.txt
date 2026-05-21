@@ -1,0 +1,1 @@
+Luồng dữ liệu một chiều: React tuân theo luồng dữ liệu một chiều. Đều này có nghĩa là kh thiết kế một ứng dụng React, các nhà phát triển thường lồng các thành phần con vào bên trong các thành phần mẹ. Vì dữ liệu chảy theo một hướng nên việc gỡ lỗi trở nên dễ dàng hơn và biết được vị trí xảy ra sự cố trong ứng dụng tạo thời điểm được đề cập.

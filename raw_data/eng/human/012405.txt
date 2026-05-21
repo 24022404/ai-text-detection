@@ -1,0 +1,1 @@
+T. Zheng, Z. Chen, S. Fang, HSe, and Y.G. Jang, “Cds Net: Perceiving multiman character distance for robust text recognition,” ArXv , vol. abs/2111.11011,2021. R. Atenza, “Vson transformer for fast and efficient scene text recog ton,” n International Conference on Document Analysis and Recognition , Springer, 2021, pp. 319–334.

@@ -1,0 +1,1 @@
+Yann LeCun et al. “Gradentbased learnng appled to document recogn ton”. In: Proceedngs of the IEEE 86.11 (1998), pp. 2278–2324.

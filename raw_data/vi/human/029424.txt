@@ -1,0 +1,1 @@
+Thiết kế giao diện a, Các yêu cầu về giao diện Các thông số màn hình và thiết kế giao diện mà ứng dụng hướng tớ là:

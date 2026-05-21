@@ -1,0 +1,1 @@
+In addition, as the code becomes more readable, it is easier to maintain and develop later. People who are new to the project can also easily understand the code without difficulty.

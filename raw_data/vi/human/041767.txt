@@ -1,0 +1,1 @@
+Kết quả đạt được Thống kê dữ liệu đơn hàng một cách nhanh chóng từ việc tính tổng giá trị tất cả đơn hàng, phân loại đơn hàng theo trạng thái của đơn và lọc tất cả các trường có trong đơn hàng nhanh chóng (real time).

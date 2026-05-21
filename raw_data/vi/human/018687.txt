@@ -1,0 +1,1 @@
+Vấn đề về công nghệ Hệ thống được trên khay trên một chân mớ  Su Network. Đây là 1 mạng blockchain mở, các tài liệu hướng dẫn dành cho Nhà phát triển rất ít và sơ sà.

@@ -1,0 +1,1 @@
+Định nghĩa các chuỗi ký tự mặc định trong codebase: hỗ trợ thư viện trích xuất chuỗi ký tự mặc định từ hệ thống.

@@ -1,0 +1,1 @@
+Tuy nhiên, điểm có thể mở rộng hệ thống với các tác nhân khác thì việc các Role bị phình to ra là điều chắc chắn. Do đó kh dự án trở nên phức tạp hơn, có lẽ trong tương lai, sản phẩm của em sẽ chuyển đổi sang sử dụng phân quyền dựa trên quyền.6.2 Triển khai phát triển sản phẩm Sản phẩm được phát triển hoàn toàn trên máy cá nhân của em.

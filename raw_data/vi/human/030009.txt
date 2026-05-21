@@ -1,0 +1,1 @@
+WSGI là kỹ thuật của gao dện chung giữa máy chủ web và trang web. Giao diện cổng máy chủ web WSGI được sử dụng như tiêu chuẩn trong việc phát triển trang web bằng ngôn ngữ lập trình Python.

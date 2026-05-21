@@ -1,0 +1,3 @@
+Quy ước đặt tên các gói thông tin theo ISO 19650 là một tiêu chuẩn quốc tế được thiết lập để đảm bảo sự thống nhất và dễ dàng truy cập thông tin trong lĩnh vực xây dựng và quản lý dự án. Tiêu chuẩn này quy định cách đặt tên cho các gói thông tin, bao gồm cả tên của dự án, gói thông tin và các tài liệu liên quan.
+
+Quy ước đặt tên này giúp giảm thiểu sự nhầm lẫn và tăng cường khả năng tìm kiếm thông tin. Nó cũng hỗ trợ cho việc chia sẻ và sử dụng thông tin một cách hiệu quả giữa các bên liên quan trong dự án. Việc áp dụng quy ước này sẽ giúp cải thiện chất lượng và độ tin cậy của thông tin, từ đó hỗ trợ cho việc đưa ra quyết định sáng suốt và hiệu quả trong lĩnh vực xây dựng và quản lý dự án.

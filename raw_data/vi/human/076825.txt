@@ -1,0 +1,1 @@
+STT Tên trường Yêu cầu 1 Workspace Bắt buộc Bảng C11: Dữ lệu điầu vào cho trường hợp kiểm thử "Xóa Workspace" Các ca kiểm thử cho chức năng "Xóa Workspace":

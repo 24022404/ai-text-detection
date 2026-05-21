@@ -1,0 +1,1 @@
+Nhằm tăng trải nghiệm kh người dùng muốn đồng bộ dữ liệu trong email vớ hệ thống ngay lập tức mà không cần phải chờ 10 phút để lần cập nhật tiếp theo điược thực hiện nên phần mềm điã điược bổ sung tính năng đồng bộ thủ công để người dùng có thể tự cập nhật dữ liệu kh cần thiết. Sau khi đồng bộ, hệ thống sẽ trả về số emal điã lưu vào cơ sở dữ liệu thành công.

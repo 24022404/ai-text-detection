@@ -1,0 +1,1 @@
+Khó khăn trong quản lý mã lớn : Mã JavaScript trong các dự án lớn có thể dễ dàng trở nên khó quản lý và khó bảo trì.

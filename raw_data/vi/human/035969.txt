@@ -1,0 +1,1 @@
+Các server này tách biệt về mặt mã nguồn, hoạt động và dữ liệu. Do các microservice này là độc lập, chúng không giao tiếp trực tiếp với nhau mà qua một thành phần trung gan được gọi là API gateway.

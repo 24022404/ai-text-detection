@@ -1,0 +1,1 @@
+Hệ thống sẽ dùng một mô hình mạng CNN điển trích xuất đặc trưng được học trên tập dữ liệu đã xây dựng. Mạng WAN được chọn để dùng là mạng ResNet (Residual Network) kết hợp với hàm mất mát Arc Face (Additive Angular Margin Loss).

@@ -1,0 +1,1 @@
+Pool Manager Core: The core of the Pool Manager is responsible for coor dinating the Object Pool and Variable Pool modules. It provides functions to request and return objects and variables from their respective pools.

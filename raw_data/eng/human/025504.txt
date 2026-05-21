@@ -1,0 +1,1 @@
+Y. Tian, D. Krishnan andP. Isola, “Contrastive multiview coding,” inComputer Vision – ECCV 2020 A. Vedaldi, H. Bischof, T. Brox andJ.-M. Frahm, editors , Cham: Springer International Publishing, 2020, pages 776–794, ISBN: 978-3-030-58621-8. O. J. Henaff, A. Srinivas, J. D. Fauw andothers ,Data-efficient image recognition with contrastive predictive coding , 2020. url:

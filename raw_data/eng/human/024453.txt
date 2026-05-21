@@ -1,0 +1,1 @@
+Character buy items from the shop- Step 1: Click to shop icon on the screen Main to open popup Shop Step 2: Choose items you want to buyStep 3: Choose the quan tity of this items - Step 4:

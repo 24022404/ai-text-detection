@@ -1,0 +1,1 @@
+Y. Sun, J. Han, P. Zhao, Z. Yn, H. Cheng and. Wu, “Rankplus: Integrating clustering with ranking for heterogeneous information network analysis,” Proceedings of the 12th international conference on extending database technology: advances in database technology 2009, pages 565–576.

@@ -1,0 +1,1 @@
+Huấn luyện mô hình vớ Ngam cho mô đun gợi ý sửa lỗ Từ cơ sở lý thuyết và phần đề xuất ở mục 3.3.1 của mô hình N Gram thì em đã triển khai và thực nghiệm 2 mô hình gram và gram theo luồng sau:

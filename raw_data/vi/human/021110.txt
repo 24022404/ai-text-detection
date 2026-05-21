@@ -1,0 +1,1 @@
+Bước 1: Xây dựng một đồ thị giữa các điểm dữ liệu. Hay điểm dữ liệu sẽ được nối với nhau nếu hàm khoảng cách giữa bọn chúng là tối thiểu trong chiều không gian lớn.

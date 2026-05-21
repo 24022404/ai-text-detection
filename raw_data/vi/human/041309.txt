@@ -1,0 +1,1 @@
+Thêm, sửa, xóa câu hỏi phỏng vấn Quản trị viên thêm, sửa, xóa các câu hỏi xuất hiện trong form đăng ký làm tình nguyện viên Bảng 2.8: Mô tả use cây phân rã Quản lý CV Biểu đồ use case phân rã Quản lý lớp học Hình 2.7: Biểu đồ use case phân rã Quản lý lớp học Tác nhân: Quản trị viên, cán sự lớp Mô tả use case:

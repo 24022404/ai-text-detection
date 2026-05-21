@@ -1,0 +1,1 @@
+Description of use case Accept/Dec Appointment ID and Name UC04 - Accept/Decline AppointmentDescription This use case outs the process of a service provider ac cepting or declining an appointment request received from a customer through the application.

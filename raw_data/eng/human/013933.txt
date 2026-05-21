@@ -1,0 +1,1 @@
+Similarly, the PopupManager class is responsible for managing all the popups within the game. It handles the creation, display, and removal of various popups that appear during gameplay. The relationship between the PopupManager and Popup classes is also a one-to-many relationship, allowing the PopupManager to manage multiple instances of Popup. .

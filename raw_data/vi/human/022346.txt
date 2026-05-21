@@ -1,0 +1,1 @@
+Đánh giá RCNN: Hồ mới xuất hiện thì thuật toán hoạt động khá tốt cho vớ các thuật toán về computer vision trước đó nhờ vào CNN, tuy nhiên nó vẫn có khá nhiều hạn chế:

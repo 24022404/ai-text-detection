@@ -1,0 +1,1 @@
+C. Wang, X. He andA. Zhou, “A short survey on taxonomy learning from text corpora: Issues, resources and recent advances,” Association for Computational Linguistics, september 2017, pages 1190–1203. url:

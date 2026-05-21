@@ -1,0 +1,1 @@
+Thiết kế cho tết gó Đầu tên, hình 4.3 là mô tả cho tết và và Vẽ:Hình 4.3: Thiết kế cho tết có View Gó Templates chứa các tệp tin html hiển thị dữ liệu mà controller trả về.

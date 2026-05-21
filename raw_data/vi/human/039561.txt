@@ -1,0 +1,1 @@
+Chúng ta sử dụng những kết quả xuất hiện ở trên chỉnh sửa vào file .env trong dự án laravel. Và cũng trong file .env sửa dòng BROADCAST DRIVE=log thành BROADCAST DRIVER=pusher .

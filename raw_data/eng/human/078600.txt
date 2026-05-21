@@ -1,0 +1,1 @@
+By using caching, server could respond instantly without querying the database or executing slow procedures. Using caching also mean that we have to clear and update the cache properly, ensure the integration of data.

@@ -1,0 +1,8 @@
+Abstract  
+We present a pillar-based object detection framework tailored for real-time perception in autonomous driving. Unlike conventional voxel- or point-based approaches, our method partitions 3D LiDAR point clouds into evenly spaced vertical pillars and applies a novel Pillar Feature Encoding (PFE) module to aggregate geometric and intensity information within each pillar. Encoded pillar features are projected onto a 2D pseudo-image and processed through a lightweight convolutional backbone to learn multi-scale spatial representations. A single-stage detection head then predicts oriented 3D bounding boxes and class scores for vehicles, pedestrians, and cyclists.  
+
+Evaluated on the KITTI benchmark, our model attains 82.4% mean average precision (mAP) on the moderate difficulty split while running at 62 frames per second on a single GPU—approximately twice the inference speed of leading voxel-based detectors without sacrificing accuracy. Ablation studies demonstrate that the PFE module and 2D CNN architecture each contribute significant gains in both detection performance and computational efficiency.  
+
+By unifying efficient pillar encoding with fast convolutional processing, our approach achieves a favorable balance between high detection accuracy and low latency. This makes it well suited for deployment in safety-critical autonomous vehicles, where real-time 3D object detection is paramount.  
+
+Keywords: pillar-based object detection, LiDAR perception, autonomous driving, real-time 3D detection, convolutional neural network

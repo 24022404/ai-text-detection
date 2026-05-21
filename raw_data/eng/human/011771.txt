@@ -1,0 +1,1 @@
+Number lines of code 215 lines Number of Classes 5 Number of packages 1Capacity 8KB Table 5.5: Information of Pool Manager Package 5.2.6 Results Similar to the GUI Manager Package, the Object Pool Management Package is used as a prefab to manage all object pools functioning within the game. All objects, when spawned (activated), become children of this prefab in the hierarchy.

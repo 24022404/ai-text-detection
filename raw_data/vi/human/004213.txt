@@ -1,0 +1,1 @@
+Mô hình Camera: Tư thế khuôn mặt 3D được biểu diễn bằng ma trận xoay R thuộc nhóm đặc biệt SO3) và vecto tịnh tiến t thuộc R3. Mô hình camera này, cùng với các thông số tư thế khuôn mặt, đóng vai trò quan trọng trong ánh xạ hình học từ khối lượng không gian 3D của khuôn mặt sang hình chiếu 2D của nó trong bức ảnh.

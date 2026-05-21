@@ -1,0 +1,1 @@
+ROUGE evaluates the similarity between the system summary and reference summary based on the overlap of individual words. It computes precision and recall to provide a quantitative measure of the quality.

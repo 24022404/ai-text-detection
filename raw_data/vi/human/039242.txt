@@ -1,0 +1,1 @@
+Ngoài ra, điểm tiến hành thực nghiệm, tô cần triển khai bài toán lên hệ thống camera thông minh mà chúng tôi đã phát triển. Cụ thể là tích hợp bài toán vào máy chủ chính và thêm chức năng trên ứng dụng Android lên kết với bài toán đố.

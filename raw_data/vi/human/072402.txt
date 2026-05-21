@@ -1,0 +1,1 @@
+GD  Quản lý danh mục: xem danh sách danh mục, tìm kiếm danh mục, tạo, chỉnh sửa, xoá danh mục.

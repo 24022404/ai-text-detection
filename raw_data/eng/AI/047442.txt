@@ -1,0 +1,9 @@
+Objective: Multi-relational learning—such as knowledge‐graph embedding and tensor factorization—enables applications ranging from link prediction to recommendation. However, existing algorithms often struggle to scale to web-size graphs due to tightly coupled optimization and high memory demands. This paper introduces a general, scalable framework based on the Alternating Direction Method of Multipliers (ADMM) that decouples the global learning problem into smaller, parallelizable subproblems.
+
+Methods: We formulate a broad class of multi‐relational models (including bilinear and tensor‐factorization approaches) under an ADMM‐based consensus framework. Each worker optimizes local model parameters on a data shard, while a central coordinator enforces consistency via multiplier updates. Our method supports asynchronous updates, sparse regularization, and non‐convex embeddings.
+
+Results: On three large benchmarks (FB15k‐237, YAGO3-10, and OGBN‐PGDD), our ADMM solver achieves up to 4× faster convergence than centralized stochastic gradient methods, with comparable or improved link‐prediction accuracy (Hits@10 gains of 1–3%). We demonstrate near‐linear speedup across up to 64 compute nodes and show that memory per node remains bounded despite growing data size.
+
+Conclusion: By leveraging ADMM’s decomposability, our approach offers a flexible, high‐throughput solution for multi‐relational learning at scale. This framework can be extended to new relation types, regularizers, and streaming settings, making it well suited for real‐world knowledge‐graph applications. 
+
+Keywords: multi‐relational learning, ADMM, distributed optimization, knowledge‐graph embedding, scalability.

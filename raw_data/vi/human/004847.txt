@@ -1,0 +1,1 @@
+Yêu cầu về hiệu năng Hệ thống có khả năng chịu tải trong trường hợp nhiều người dùng truy cập cùng lúc.

@@ -1,0 +1,1 @@
+Along with the requirements about business, the system needs to satisfy non functional requirements such as performance and ease of use.

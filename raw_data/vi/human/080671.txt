@@ -1,0 +1,1 @@
+Bootstraps dễ dàng để sử dụng: Vệc sử dụng Bootstrap là rất điơn gản vì nó được base trên HTML, CSS và Javascpt chỉ cần có kiến thức cơ bản về 3 cá đió là có thể sử dụng bootstrap tốt.

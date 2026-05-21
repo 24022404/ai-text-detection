@@ -1,0 +1,1 @@
+Overall design 4.1.3 Packet diagram for client Figure 4.3: Packet diagram for clientFigure 4.3 depicts an overview package diagram for the warehouse chain man agement application client. The main functions of the client part will be located in the src folder, where:

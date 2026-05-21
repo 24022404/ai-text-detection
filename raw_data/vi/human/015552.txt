@@ -1,0 +1,1 @@
+ExpressJS là một framework được xây dựng trên nền tảng của Nodejs. Expressjs cung cấp các chức năng đặc biệt điểm phát triển website hoặc mobile, vớ điểm mạnh là tối ưu hóa tốc độ xử lý và đơn giản trong việc sử dụng, dễ dàng kết hợp các thư viện.

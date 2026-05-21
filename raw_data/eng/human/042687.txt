@@ -1,0 +1,1 @@
+shown as figure 5.7)The PoolManager class has a one-to-one relationship with both the ObjectPool Manager and VariableManager classes, reflecting the distinct roles they play in the overall functionality of the PoolManager.

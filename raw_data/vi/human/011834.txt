@@ -1,0 +1,1 @@
+Yêu cầu về kỹ thuật Sau khi thiết kế và xây dựng các chức năng hệ thống cần đáp ứng yêu cầu về mặt kỹ thuật như sau:

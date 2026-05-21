@@ -1,0 +1,1 @@
+thông Yêu cầu Pytorch version 1.5 trở lên, Python version 3.7 và CUDA Để bắt đầu với YOLO v5, trước tên sau chép kho lưu trữ YOLO v5 và cài đặt các tính năng phụ thuộc.

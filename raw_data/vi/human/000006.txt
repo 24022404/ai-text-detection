@@ -1,0 +1,1 @@
+Đồng thờ, do đầu vào của hệ thống có nhiều cảm biến hơn nên số tham số của mô hình cũng tăng đáng kể.

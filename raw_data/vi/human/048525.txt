@@ -1,0 +1,1 @@
+Byte 1 : Giá trị phần nguyên của độ ẩm (RH) Byte 2 : Giá trị phần thập phân của độ ẩm (RH)) Byte 3 : Giá trị phần nguyên của nhiệt độ (TC) Byte 4 : Giá trị phần thập phân của nhiệt độ (TC) Byte 5 : Kiểm tra tổng.

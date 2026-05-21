@@ -1,0 +1,1 @@
+GPIO Pns GPIO1 điến GPIO16 NodeMCU có 16 chân đầu vào đầu ra mục đích chung trên bo mạch của nó.

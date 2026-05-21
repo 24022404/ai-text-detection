@@ -1,0 +1,7 @@
+Dầm bê tông cốt thanh composite aramid trở thành một giải pháp phổ biến trong xây dựng hiện đại, nhờ khả năng tăng cường độ bền và giảm trọng lượng. Tuy nhiên, việc tính toán động lực học của dầm này vẫn còn là một thách thức.
+
+Lý thuyết biến dạng cắt (LTC) đã được áp dụng để tính toán động lực học của dầm bê tông cốt thanh composite aramid. LTC cho phép phân tích các biến dạng cắt và xoắn trong dầm, giúp xác định được khả năng chịu lực của nó.
+
+Các nghiên cứu gần đây đã chỉ ra rằng LTC có thể được sử dụng để tính toán động lực học của dầm bê tông cốt thanh composite aramid với độ chính xác cao. Kết quả tính toán bằng LTC đã được so sánh với kết quả thực nghiệm và cho thấy sự tương đồng cao.
+
+Tính toán động lực học của dầm bê tông cốt thanh composite aramid bằng LTC có thể giúp các kỹ sư xây dựng dự án một cách hiệu quả hơn, giảm thiểu rủi ro và tăng cường độ bền của công trình.

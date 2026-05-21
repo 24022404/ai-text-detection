@@ -1,0 +1,1 @@
+Lnh hoạt: Flask được thiết kế điểm linh hoạt và dễ dàng mở rộng. Nó không yêu cầu cấu hình phức tạp và cho phép tùy chỉnh các phần khác nhau của ứng dụng theo nhu cầu cụ thể.

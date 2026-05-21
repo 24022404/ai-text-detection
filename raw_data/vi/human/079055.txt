@@ -1,0 +1,1 @@
+Trong phần chuẩn bị dữ liệu, dữ liệu được lấy từ bộ dữ liệu Celeb, sau đó áp dụng kỹ thuật tăng cường dữ liệu bằng phương pháp dựng khuôn mặt 3D và phép xoay hình học để tạo ra một tập dữ liệu đa dạng và phong phú. Tập dữ liệu này sau đó được sử dụng để huấn luyện mô hình nhận diện khuôn mặt, với sự hỗ trợ của mô hình ResNet50 và hàm mất mát Arcade.

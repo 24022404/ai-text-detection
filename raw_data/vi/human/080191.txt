@@ -1,0 +1,1 @@
+Các nghiên cứu liên quan tới tăng cường dữ liệu a, Tăng cường dữ liệu với các phép biến đổi tổng quát Bến đỗ tổng quát (Generic Transformation) gồm 2 phương pháp chính là bến đổ hình học (Geometric) và ánh sáng (Photometric).

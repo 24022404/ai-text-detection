@@ -1,0 +1,1 @@
+Test case 2 : Thêm ngân sách với tất cả các thông tin hợp lệ và nhiều loại chỉ tiêu.

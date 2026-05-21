@@ -1,0 +1,9 @@
+Objective: Efficient traffic signal control is critical for reducing congestion and improving urban mobility. This paper introduces a novel Boosted Genetic Algorithm (BGA) that integrates machine learning techniques to accelerate optimization and enhance solution quality for traffic control problems.
+
+Methods: We propose a two-stage framework in which a supervised learning model predicts the fitness of candidate signal timing configurations, thereby guiding the genetic algorithm’s selection and reproduction processes. The machine learning predictor is trained on features extracted from traffic flow data—such as vehicle counts, queue lengths, and time-of-day patterns—and dynamically updates during evolution. This “boosting” mechanism adapts crossover and mutation rates in real time, focusing search efforts on the most promising regions of the solution space. Performance is evaluated in a microscopic traffic simulator using real-world network topologies and demand profiles.
+
+Results: Experimental results demonstrate that BGA achieves a 20% reduction in average vehicle delay and a 12% increase in throughput compared to a standard genetic algorithm. Convergence time is reduced by 30%, enabling near–real-time signal plan updates. Sensitivity analysis confirms the robustness of BGA under varying traffic volumes and incident scenarios.
+
+Conclusion: By combining genetic search with predictive machine learning, the proposed method significantly improves both the speed and effectiveness of traffic control optimization. The approach is readily extensible to adaptive traffic management systems and other real-time optimization domains.
+
+Keywords: boosted genetic algorithm, machine learning, traffic control optimization, evolutionary computation, real-time adaptive systems

@@ -1,0 +1,1 @@
+Cơ chế gây hiệu ứng Vớ mỗ hiệu ứng sẽ có những thông số dữ liệu đầu vào khác nhau, ví dụ: hiệu ứng làm choáng có thờ gan kéo dài hiệu ứng, hiệu ứng gây độc gây sát thương theo thời gian thì bao gồm thời gian chờ giữa mỗi lần gây sát thương, sát thương cho mổ lần và thờ gan kéo dài hiệu ứng, với mỗi kiểu dữ liệu như thế sẽ được kế thừa từ lớp Status DataConfig.

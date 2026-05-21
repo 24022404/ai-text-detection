@@ -1,0 +1,1 @@
+In some recent efforts, UDA semantic segmentation incorporates contrastive learning. Through the use of Cutmix between the target domain and the source domain, RCCR  creates several contexts for a portion of the target domain.

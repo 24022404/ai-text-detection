@@ -1,0 +1,1 @@
+Vớ chế độ Auto : Việc bật/tắt bơm, điện, quạt sẽ phụ thuộc vào nhiệt độ, độ ẩm được cài đặt từ trước và hệ thống sẽ tự động bật/tắt các tính năng một cách phù hợp.

@@ -1,0 +1,1 @@
+Postgres has a vibrant and active community that continuously contributes to itsdevelopment and provides extensive documentation and support. It runs on various platforms and is used in diverse domains, including web applications, enterprise systems, geospatial applications, and scientific research.

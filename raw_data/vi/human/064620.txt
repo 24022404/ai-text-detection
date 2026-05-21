@@ -1,0 +1,1 @@
+const name = ’Simplilearn’; const greet = <h1>Hello, name</h1>; Đoạn mã trên cho thấy cách JSX được triển khai trong React. Nó không phải là một chuỗi hay HTML. Thay vào đó, nó nhúng HTML vào mã JavaScript.

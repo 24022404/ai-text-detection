@@ -1,0 +1,1 @@
+3: Mô hình quá trình xác thực người dùng 2. Server tạo ra mã JWT dựa trên dữ liệu được nhận từ yêu cầu và trả lại cho phía client.

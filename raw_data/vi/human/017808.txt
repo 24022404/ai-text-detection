@@ -1,0 +1,1 @@
+ImageView : là một view sử dụng rất nhiều trong ứng dụng android, In imageView sử dụng để hiển thị hình ảnh.

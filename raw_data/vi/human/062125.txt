@@ -1,0 +1,1 @@
+Biểu đồ dưới đây được tổng hợp theo các đơn hàng mà người dùng bán được trong tháng và sử dụng thư viện Chart Js để render.

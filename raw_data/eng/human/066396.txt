@@ -1,0 +1,1 @@
+In Chapter 2, the literature review is presented, beginning with an core of the research scope pertaining to multi-domain machine translation. Subsequently, I delve into an overview of relevant studies and recent state-of-the-art research on this subject. Furthermore, an in-depth analysis of the merits and limitations of previous works that require attention is also provided.

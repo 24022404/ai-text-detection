@@ -1,0 +1,1 @@
+Các thao tác phía người dùng trong trường hợp có lỗ phải xác định được lỗ gây ra do người dùng hay do hệ thống.

@@ -1,0 +1,1 @@
+Model: are the models used to train on a training data according to the algorithm of that model. The model can then make predictions or make decisions based on what they have learned.2.1.3 Workflow Figure 2.2: Machine learning workflow Cụ thể từng bước trong machine learning workflow như sau như sau:

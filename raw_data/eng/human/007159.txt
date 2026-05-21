@@ -1,0 +1,1 @@
+Abused Permission This analysis evaluates the permissions requested by the application to identify any unnecessary or abused permissions. The goal is to ensure that the permissions requested align with the app’s functionality. Key aspects include:

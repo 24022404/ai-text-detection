@@ -1,0 +1,1 @@
+Chapter 2 focuses on the system requirements analysis. In the chapter, I analyze the functional and non-functional requirements of the app. The use cases of the app will also be provided.

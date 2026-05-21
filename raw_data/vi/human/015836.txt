@@ -1,0 +1,1 @@
+Tên use case Mô tả tóm tắt Thêm, sửa, xóa tình nguyện viên Sau khi thêm mới một tình nguyện viên, hệ thống tự động gửi mal điển cho email của tình nguyện viên đó để kích hoạt tài khoản và đăng nhập vào hệ thống.

@@ -1,0 +1,1 @@
+NPM quản lý chia sẻ hàng trăm nghìn các thư viện được chia sẻ bởi cộng đồng lập trình viên JavaScript. Nó giúp cho các dự án mới tránh phả vết lạ các thành phần cơ bản, các thư viện lập trình hay thậm chí cả các framework.

@@ -1,0 +1,1 @@
+Chúng tôi đưa ra c ấu trúc đ ại số gồm các s ố phức mở rộng v ới hai phép toán, là sự mở rộng c ủa các trư ờng . Kết quả mà chúng tôi đ ạt đư ợc không ch ỉ là nêu và chứng minh các tính ch ất liên quan đ ến và áp d ụng, mà còn ch ỉ ra m ột lớp các trư ờng nằm trong mà trư ờng thu ộc vào l ớp đó.

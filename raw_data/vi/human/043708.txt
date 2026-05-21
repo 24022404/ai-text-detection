@@ -1,0 +1,1 @@
+Nhược điểm: thống kế không có dạng biểu đồ chỉ có số liệu gây khó nhìn cho người quản lý. Phù hợp với quản lý ở đơn vị lớn vì ở đó cần nhiều thông tin và ch tết hơn. Người quản lý phải được đào tạo về công nghệ thông tin.

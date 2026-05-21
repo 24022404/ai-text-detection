@@ -1,0 +1,1 @@
+Xây dựng các luật kết hợp (Association Rules): Dựa trên các tập temset phố bến cuối cùng, tạo ra các luật kết hợp bằng cách xác định các quy tắc có độ tin cậy đủ lớn (confidence).6. Kiểm tra sự hỗ trợ và độ tin cậy của các luật: Kiểm tra sự hỗ trợ và độ tin cậy của các luật kết hợp để lọc và chọn ra các luật có ý nghĩa và quan trọng.

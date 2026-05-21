@@ -1,0 +1,1 @@
+Sự lnh hoạt về flatform là một điặc tính lớn của MySQL với tất cả các phên bản của Lnux, Unx, và Wndows đang được hỗ trợ. Và dĩ nhên, tính chất mã nguồn mở của MySQL cho phép sự tùy bến hoàn toàn theo ý muốn điể thêm vào các yêu cầu tích hợp cho database server.

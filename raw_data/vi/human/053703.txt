@@ -1,0 +1,1 @@
+Trong chương này sẽ trình bày ngữ cảnh của bài toán, tổng quan một số giải pháp hiện tại và các thách thức còn tồn tại. Từ đó đặt ra mục tiêu và định hướng giải pháp trong đồ án điểm giải quyết bài toán.

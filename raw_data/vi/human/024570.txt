@@ -1,0 +1,1 @@
+Trong ứng dụng di động Flutter, em đã tích hợp Firebase Authentication SDK để xác thực người dùng thông qua các phương thức đăng nhập là email/password.

@@ -1,0 +1,1 @@
+User Other userOnline call Send text, image and video messages Video call Figure 2.4: Use case detail: Message other users diagram 2.1.5 Use case detail: Manage users The figure 2.5 shows the detailed use case of Manage users diagram. These use cases are for the Admin actor only.

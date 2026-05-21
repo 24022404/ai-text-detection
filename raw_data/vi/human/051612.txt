@@ -1,0 +1,1 @@
+setFlag: Đặt cờ cho emal (ví dụ như: Seen, UnSeen, Spam) Kết quả sau khi kết nối đến email và lưu trữ nội dung của email như sau:

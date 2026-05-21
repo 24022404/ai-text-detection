@@ -1,0 +1,1 @@
+Tạo các đơn bổ sung: Được chia thành 2 use case nhỏ hơn là Tạo đơn nghỉ phép và Tạo đơn bổ sung công. Sự khác biệt của 2 đơn này là đơn nghỉ phép sẽ tương ứng với 1 ngày công, và kh được duyệt thì sẽ trừ 1 ngày trong quỹ ngày nghỉ phép.

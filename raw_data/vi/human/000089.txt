@@ -1,0 +1,1 @@
+Quản lý đơn hàng: Cho phép tạo đơn thủ công, hoặc cấu hình tạo điện tự động, đồng bộ đơn hàng từ webste, Facebook, các sàn thương mại điện tử. Đơn hàng có thể lên kết với các đơn vị vận chuyển và cập nhật trạng thái theo hành trình.

@@ -1,0 +1,1 @@
+truy cập lần cuối 01/08/2022 4 truy cập lần cuối 15/07/20224.1 Thiết kế kiến trúc 4.1.1 Lựa chọn kiến trúc phần mềm Phần mềm được xây dựng theo kiến trúc client – server. Trong mô hình này, server cung cấp các REST API cho phép client gửi request thông qua các API đó.

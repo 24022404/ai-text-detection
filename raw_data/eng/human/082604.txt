@@ -1,0 +1,1 @@
+Testing scenarios Function Scenario Expected Result Login•Input username and password Click the “Log in” button•If the input is correct, the home page is shown to the user.

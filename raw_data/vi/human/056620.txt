@@ -1,0 +1,1 @@
+Metamask addon là một lớp bên ngoài, nó có nhiều phương thức nhưng trong hệ thống này nó sẽ có phương thức được sử dụng là –request Password: yêu cầu mật khẩu từ người dùng.

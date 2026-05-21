@@ -1,0 +1,1 @@
+Công nghệ nhận diện khuôn mặt đã trở nên rất phổ biến trong các ứng dụng hàng ngày, từ mở khóa điện thoại thông minh, đến xác minh danh tính trong ngành ngân hàng, điến phân loại hình ảnh trên mạng xã hội. Mặc dù đã có những tiến bộ đáng kể, vẫn còn nhiều thách thức liên quan đến hiệu suất, độ chính xác, bảo mật, và quyền riêng tư mà những nghiên cứu tiếp theo cần gả quyết.

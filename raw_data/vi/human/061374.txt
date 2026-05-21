@@ -1,0 +1,1 @@
+Tính toán nhanh hơn. Tanh và Sgmod sử dụng hàm  exp và công thức phức tạp hơn ReLU rất nhiều do vậy sẽ tốn nhiều chi phí hơn để tính toán.

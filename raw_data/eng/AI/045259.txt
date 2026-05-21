@@ -1,0 +1,9 @@
+Objective: Transfer learning enables leveraging knowledge from a source task to improve performance on related target tasks, but common approaches often suffer from negative transfer, domain shift sensitivity, and inconsistent outcomes. This work proposes a framework for more reliable transfer learning that explicitly models uncertainty and regularizes feature adaptation to stabilize fine-tuning across diverse tasks.
+
+Methods: We introduce RFA-TWP (Regularized Feature Alignment with Task-Aware Weight Prior), which combines (1) a Bayesian uncertainty estimator to identify and down-weight unreliable source features during adaptation, and (2) a meta-learned regularization term that enforces consistency between source and target representations. Our approach trains an ensemble of lightweight Bayesian neural networks to quantify transfer risk and adapts parameters via gradient-based meta-optimization, ensuring robustness to domain shifts.
+
+Results: We evaluate RFA-TWP on three standard benchmarks—Office-31 (object recognition), VisDA-2017 (synthetic-to-real), and CIFAR→SVHN—and compare against fine-tuning, domain adversarial training, and conventional meta-learning baselines. Across ten transfer scenarios, our method achieves up to 5.8% higher average accuracy, reduces worst-case performance drop by 40%, and yields 30% lower variance in target metrics. Ablation studies confirm that both uncertainty weighting and task-aware regularization are critical for stable gains.
+
+Conclusion: RFA-TWP sets a new reliability standard in transfer learning by mitigating negative transfer and ensuring consistent improvements under varying domain shifts. This framework can be readily applied to vision, language, and speech tasks where dependable adaptation is essential.  
+
+Keywords: transfer learning, reliability, domain adaptation, Bayesian uncertainty, meta-learning.

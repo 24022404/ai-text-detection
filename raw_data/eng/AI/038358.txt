@@ -1,0 +1,1 @@
+The next chapters detail the methodologies, design, and implementation processes used, as well as an evaluation of how effectively the application resolves the identified limitations in its current form.

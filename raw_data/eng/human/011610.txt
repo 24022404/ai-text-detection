@@ -1,0 +1,1 @@
+Evaluate the model: After training, we can assess the model’s effectiveness by looking at its holdout test set prediction accuracy. The effectiveness of the model can also be assessed using various measures, such as precision, recall, or F1 score.

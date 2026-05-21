@@ -1,0 +1,1 @@
+Snowplow . [Online]. Available:  (vsted on 07/15/2023).Trong phần phụ lục này sẽ trình bày tất cả các đặc tả use case của hệ thống.

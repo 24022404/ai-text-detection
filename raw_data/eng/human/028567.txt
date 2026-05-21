@@ -1,0 +1,1 @@
+C. Cao, Y. Weng, S. Zhou, Y. Tong andK. Zhou, “Face Warehouse: A 3d facial expression database for visual computing,” IEEE Transactions on Visualization and Computer Graphics ,jour vol 20,number 3,pages 413–425, 2013.

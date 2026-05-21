@@ -1,0 +1,1 @@
+Màn hình hiển thị thông tin dữ liệu Hình 4.7: Màn hình hiển thị ch tết dữ liệu Màn hình ở hình 4.7 hiển thị các dữ liệu thu thập được dưới dạng danh sách và theo các trường cụ thể để dễ dàng xem các thông tin.

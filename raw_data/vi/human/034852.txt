@@ -1,0 +1,1 @@
+Trước hết, tôi tiến hành chỉnh sửa và tối ưu hệ thống điểm có thể đưa vào thử nghiệm và sử dụng thực tế. Để làm được điều này, hệ thống cần tối ưu từng thành phần, đẩy mạnh truyền thông, xây dựng cộng đồng, tiến hành thử nghiệm trên mô trường có số lượng người sử dụng lớn và áp dụng các công nghệ để tăng khả năng chịu tả, khả năng bảo mật của hệ thống.

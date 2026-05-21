@@ -1,0 +1,1 @@
+Có hai cách để tạo một RDD: song song hóa bộ sưu tập hiện có trong chương trình trình điều khiển của bạn hoặc tham chiếu tập dữ lệu trong hệ thống lưu trữ bên ngoài, chẳng hạn như hệ thống tệp được chia sẻ, HDFS, Hbase, hoặc bất kỳ nguồn dữ lệu nào cung cấp cho được Hadoop hỗ trợ.

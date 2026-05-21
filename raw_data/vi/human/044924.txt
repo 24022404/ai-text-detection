@@ -1,0 +1,1 @@
+Magento là một trong những nền tảng thương mạ điển tử phổ bến và mạnh mẽ nhất, tuy nhên lạ chưa có module gúp doanh nghệp xây dựng CĐTH. Trên cơ sở đió, em muốn xây dựng một module cho nền tảng Magento gúp tích hợp thêm một forum vào cửa hàng trực tuyến nhằm gảm ch phí về vệc xây dựng, quản lý kh xây dựng CĐTH. Hệ thống mớ với các chức năng cơ bản của một forum như:

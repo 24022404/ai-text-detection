@@ -1,0 +1,1 @@
+Trust Chain Status: Information about whether the certificate was issued by a trusted CA and whether the trust chain is intact.3.3.3 Permissions The methodology for analyzing application permissions focuses on identifying and categorizing permissions requested by the application, followed by comparing them to predefined lists of potentially dangerous or suspicious permissions.

@@ -1,0 +1,1 @@
+Qua phân tích và đánh giá trên em nhận thấy cần xây dựng một hệ thống miễn phí bao gồm nhiều lĩnh vực điểm mọi người có thể dễ dàng chia sẻ và hỏ hỏ kiến thức cùng nhau. Hệ thống bao gồm hai tác nhân chính là quản trị viên và người dùng vừa có vai trò là học viên (người học) điểm nhỏ tập, đồng thờ là giảng viên (người dạy) để chia sẻ kiến thức.

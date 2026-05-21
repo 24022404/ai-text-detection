@@ -1,0 +1,1 @@
+See the algorithm 1 for more details. The top sentences with the highest scores are then concatenated to create a pseudo summary, psi. So far, I generated the pseudo labeled dataset Below is the format data of pretraining dataset and finetuning datasets:

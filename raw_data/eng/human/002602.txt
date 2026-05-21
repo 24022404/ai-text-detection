@@ -1,0 +1,1 @@
+Xe, R. Girshick, P. Dollar, STu and THe, “Aggregated residual transformations for deep neural networks,” july 2017, pages 5987–5995. DOI:10.1109/ CVPR.2017.634 .

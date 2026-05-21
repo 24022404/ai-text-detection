@@ -1,0 +1,1 @@
+Suppose Pto be a longest simple path in Gk,s. In other word, Pachieves the length ℓ(Gk,s). Some observations about Pare given in the following claims.

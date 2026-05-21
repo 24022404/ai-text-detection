@@ -1,0 +1,1 @@
+Hiệu năng cao: MySQL hỗ trợ những tiện ích tả tốc độ cao, và đặc biệt là cơ chế sử dụng bộ nhớ cache, do đó mang lại hiệu năng khá tốt và ổn định.

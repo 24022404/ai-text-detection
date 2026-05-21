@@ -1,0 +1,1 @@
+Phương sa (Varance) trong mô hình là hiện tượng dự báo có dao động lớn nhưng thếu tính tổng quát. Điều này dẫn đến việc dự đioán khớp tốt vớ dữ liệu huấn luyện nhưng dao động quanh giá trị thực tế. Các mô hình phức tạp huấn luyện trên dữ liệu nhỏ thường gặp phương sa cao và học gả mạo bằng cách sao chép dữ liệu hơn là học các luật tổng quát.

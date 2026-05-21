@@ -1,0 +1,1 @@
+If l = s − j, the proof is complete; otherwise, the balanced sequence al···a2a10j1x1t0s−l, by claim 2, must have at least one in-edge outside P, enabling us to extend Pv by adding this edge.

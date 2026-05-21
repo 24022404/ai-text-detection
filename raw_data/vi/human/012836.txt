@@ -1,0 +1,1 @@
+Hiệu suất tính toán tốt hơn: Trong một số trường hợp, tính toán ma trận tương tự giữa các sản phẩm có thể đơn giản hơn và hiệu suất cao hơn so với ma trận tương tự giữa người dùng.

@@ -1,0 +1,1 @@
+PostgreSQL offers cross-platform compatibility, running seamlessly on Windows, macOS, Linux, and other Unix-like systems. This flexibility allows developers to deploy their applications on the operating systems they prefer.

@@ -1,0 +1,9 @@
+This paper addresses the challenge of preferences prediction in mobile device usage by leveraging advanced scene recognition and object detection techniques. The objective is to develop a robust model that accurately predicts user preferences based on visual information captured through mobile cameras. Our approach incorporates state-of-the-art convolutional neural networks (CNNs) for scene recognition, combined with object detection frameworks to identify and classify objects in real-time. 
+
+Through extensive experiments on a diverse dataset, our system demonstrates a significant improvement in prediction accuracy compared to traditional preference prediction methods. Results indicate that the proposed model achieves an accuracy rate of over 85% when evaluating user preference patterns in various environments, showcasing its effectiveness in dynamic contexts. 
+
+The innovative integration of scene and object analysis not only enhances the prediction capabilities but also opens new avenues for personalized user experiences in mobile applications. This contributes to the field by providing a practical solution for context-aware systems, with potential applications in targeted advertising, content curation, and user interface design. 
+
+Key contributions include the introduction of a comprehensive mobile gallery framework that adapts to real-time inputs, offering insights into user behavior that were previously unattainable. This research lays the groundwork for future advancements in personalized mobile technology. 
+
+Keywords: preferences prediction, scene recognition, object detection, mobile devices, convolutional neural networks, context-aware systems.

@@ -1,0 +1,1 @@
+Khá nệm MERN là một thuật ngữ rút gọn của MongoDB (M) , ExpressJS (E) , ReactJs (R) reactjs và NodeJs (N) . MERN Stack là một stack Javascript được thiết kế điển giúp phát triển ứng dụng web toàn ngăn xếp dễ dàng hơn và nhanh hơn.

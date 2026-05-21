@@ -1,0 +1,1 @@
+A log message signals the initiation of Android Behavior Analysis, and this message is used to reflect the updated status of the scan process in the system.

@@ -1,0 +1,1 @@
+–Khách hàng có thể cập nhật số lượng sản phẩm –Khách hàng có thể thêm sản phẩm vào gỏ hàng.

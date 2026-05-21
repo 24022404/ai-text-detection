@@ -1,0 +1,1 @@
+Các công nghệ phát triển web: HTML, CSS, Javascript, ReactJS, NodeJS,. . . và một số thư viện hỗ trợ lập trình web khác như Ant Design. . .

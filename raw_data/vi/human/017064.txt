@@ -1,0 +1,1 @@
+conversation Service: đây là thuộc tính được khởi tạo từ đối tượng Converse Service. Ko muốn xử lý các nghiệp vụ logic liên quan tới conversation ta sẽ sử dụng thuộc tính này.

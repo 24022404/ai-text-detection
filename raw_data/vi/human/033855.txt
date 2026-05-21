@@ -1,0 +1,1 @@
+Cách thức triển khai Việc đầu tiên cần làm là : Build file Jar của Source Code Spring Boot Để làm được việc này, ta cần chạy lệnh mvn clean install. Sau khi chạy một thời gian thì hệ thống sẽ tạo ra file Jar ở thư mục target như hình ảnh minh hoạ.

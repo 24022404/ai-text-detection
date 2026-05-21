@@ -1,0 +1,1 @@
+Sau đó tôi đã thử dịch vụ App runner, ứng dụng được deploy thành công nhưng chi phí hoạt động của server lạ rất tốn kém. Cuố cùng tô điã dùng thử App engne của Gcloud. Đây là một nền tảng deploy lý tưởng, server có thờ gan phản hồi tốt, chi phí hợp lý.

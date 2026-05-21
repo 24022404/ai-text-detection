@@ -1,0 +1,1 @@
+Hệ thống đóng gói modular và quản lý góa phụ thuộc. Có nhiều cách khác nhau điểm truy cập vào cơ sở dữ liệu quan hệ. Nhều tiện ích khác nhau hỗ trợ việc triển khai và bảo trì ứng dụng.

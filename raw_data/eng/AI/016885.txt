@@ -1,0 +1,1 @@
+Reliable and efficient timing and synchronization systems have been proposed, utilizing a classical channel together with the quantum channel. This approach leverages the synchronization advantages offered by the classical channel to improve performance.

@@ -1,0 +1,1 @@
+Từ những nguyên nhân và cách thức để tấn công XSS như trên, cùng với đó là việc các website hiện nay đia phần điều được sử dụng HTTPS để mã hoá dữ liệu truyền tả nên gả pháp em đưa ra để ngăn các hacker tấn công XSS là lọc các ký tự đặc trưng từ đầu vào dữ liệu được nhập biến từ phía người dùng.

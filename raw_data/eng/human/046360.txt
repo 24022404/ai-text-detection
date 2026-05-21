@@ -1,0 +1,1 @@
+The RFID reader includes 3 main functions (i) two-way communication with the tag, (ii) pre-processing of received information, (ii) connection to the information management computer system.

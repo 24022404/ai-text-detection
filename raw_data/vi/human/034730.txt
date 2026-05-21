@@ -1,0 +1,1 @@
+Một số ví dụ của các ứng dụng sử dụng mô hình client server bao gồm: email, web server, cơ sở dữ liệu, các ứng dụng đồ họa, và nhiều ứng dụng khác.

@@ -1,0 +1,1 @@
+Kểu dữ lệu đia dạng : Hỗ trợ nhều loạ kểu dữ lệu, bao gồm kểu nguyên thủy (số nguyên, số thực, chuỗ, boolean), kểu cấu trúc (ngày/gờ, mảng, phạm v, UUID), kểu tà lệu (JSON/JSONB, XML, keyvalue), kểu hình học (điểm, điường thẳng, vòng tròn, đia gác) và kểu tùy chỉnh.

@@ -1,0 +1,9 @@
+Objective: Accurate county-level forecasting of corn yields is critical for agricultural planning and supply chain management. This study investigates the use of deep Long Short-Term Memory (LSTM) networks to predict annual corn yields at the U.S. county scale by capturing complex temporal dependencies in weather, soil, and historical yield data.  
+
+Methods: We develop a sequence-to-one LSTM architecture that ingests multiyear time series of climatic variables (temperature, precipitation, solar radiation), soil properties, and past yield records. The model is trained and tested on data spanning 2000–2020 for over 2,000 counties, with hyperparameters tuned via cross-validation. Performance is benchmarked against conventional machine learning baselines, including Random Forest, Support Vector Regression, and feedforward neural networks.
+
+Results: The LSTM model achieves a mean absolute error (MAE) of 3.2 bushels/acre and a coefficient of determination (R²) of 0.87, outperforming the best baseline by 15% in MAE reduction and 0.10 in R² improvement. Ablation studies show that integrating seasonal weather forecasts and soil moisture indices contributes to a 7% additional reduction in error. Temporal attention mechanisms further enhance interpretability by highlighting key growth-period influences.
+
+Conclusion: Deep LSTM networks provide a robust framework for county-level corn yield prediction, offering policymakers and agribusiness stakeholders high-resolution, data-driven insights. The proposed approach facilitates early-season decision making and resource allocation, and can be extended to other crops and regions.  
+
+Keywords: corn yield prediction, Long Short-Term Memory, time-series forecasting, precision agriculture, deep learning, county-level modeling

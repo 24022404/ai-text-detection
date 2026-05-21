@@ -1,0 +1,1 @@
+LFSRs generate maximal-length sequences of 2^k−1 using a feedback function determined by the length k and a primitive polynomial, ensuring all possible binary strings except the all-zero string are produced. To achieve this, it is essential first to identify a suitable primitive polynomial for the desired sequence length.

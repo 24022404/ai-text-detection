@@ -1,0 +1,1 @@
+Overall, the MVVM pattern is a popular choice for building modern user inter faces that are easy to maintain and test.3.1 Data construction 3.1.1 Overview Data made in this project are actual images of printed circuit boards taken at TAISHODO ELECTRICS VIETNAM.

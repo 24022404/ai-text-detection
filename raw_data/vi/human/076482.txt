@@ -1,0 +1,1 @@
+Components Các component là các khối xây dựng bao gồm một ứng dụng React đại diện cho một phần của giao diện người dùng. React tách giao diện người dùng thành nhiều component, giúp việc gỡ lỗi trở nên dễ tiếp cận hơn và mỗ component có một bộ thuộc tính và chức năng riêng. Dưới đây là một số tính năng của Component:

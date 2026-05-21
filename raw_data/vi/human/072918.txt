@@ -1,0 +1,1 @@
+Quản lý thông báo: bí thư có thể thêm, sửa, xóa thông báo.4.3.3 Minh họa các chức năng 4.3.3.1. Đăng nhập Hình 4.15 minh họa Giao diện đăng nhập.

@@ -1,0 +1,1 @@
+Dù được tạo ra từ rất lâu, Laravel vẫn được tếp tục phát trển, bắt kịp với những công nghệ mớ. Vì vậy lập trình viên sử dụng Laravel cũng sẽ được sử dụng các tính năng mớ nhất của PHP.

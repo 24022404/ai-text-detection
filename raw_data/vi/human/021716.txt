@@ -1,0 +1,1 @@
+Thanh tìm kiếm ở phía trên cùng của trang cho phép người dùng tìm kiếm nhanh chóng các phòng code dựa trên tên hoặc d phòng. Đều này rất hữu ích khi danh sách phòng code trở nên lớn và người dùng cần nhanh chóng xác định một phòng cụ thể.

@@ -1,0 +1,1 @@
+Các chỉ báo chứng khoán phổ bến Mỗ chỉ báo của TTCK được xác định qua các công thức tính toán rêng. Hệ thống hiện tạ gồm 07 chỉ báo có sẵn, với các công thức được định nghĩa dựa vào các thông tin giao dịch của các mã chứng khoán.

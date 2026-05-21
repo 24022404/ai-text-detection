@@ -1,0 +1,1 @@
+Trình điều khiển giúp chuyển đổi chương trình người dùng thành các tác vụ sau đó lên lịch các tác vụ (task) trên các trình thực thi. Trình thực thi chịu trách nghiệm chạy tác tác vụ riêng lẻ trong một tác vụ Spark nhất định và gửi kết quả cho trình điều khiển khi chạy xong.

@@ -1,0 +1,1 @@
+Cải thiện chất lượng dữ liệu đồ án: xử lý bằng tay hoặc sử dụng mô hình phát hiện lỗi sai chính tả để loại bỏ các câu có lỗ sai chính tả.

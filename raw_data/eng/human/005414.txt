@@ -1,0 +1,1 @@
+Problem Since there are many ideas yet to be implemented, the system needs to be able to be easily modified and developed. The initial version of the system may runsmoothly, but further development will result in very large code files and overlap ping game logic.

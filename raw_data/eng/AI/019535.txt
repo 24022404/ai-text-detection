@@ -1,0 +1,9 @@
+Objective: Object detectors often struggle in complex scenes where contextual relationships and typical object arrangements provide critical cues. This paper introduces a Layout Transfer Network (LTN) to explicitly incorporate scene layout priors into object detection, enabling more accurate and robust predictions under occlusion, clutter, or unconventional viewpoints.
+
+Methods: The proposed LTN consists of two key components. First, a Layout Estimation Module learns a compact representation of canonical object-layout patterns from training images. Second, a Transfer Module maps these learned layouts onto input images by aligning spatial priors with deep convolutional features. Both modules are trained end-to-end alongside a standard detection backbone, allowing the network to adaptively fuse transferred layout cues with local appearance information.
+
+Results: We evaluate our approach on challenging benchmarks including MS COCO and Pascal VOC. Compared to a strong Faster R-CNN baseline, LTN achieves improvements of up to 3.8% mean Average Precision (mAP), with particularly notable gains on small, occluded, and context-dependent object categories. Ablation studies confirm the effectiveness of each module and demonstrate that layout transfer consistently enhances detection reliability across diverse scene types.
+
+Conclusion: By learning to transfer scene layouts, our method enriches object detectors with global context, reducing false positives and boosting detection in challenging scenarios. The Layout Transfer Network offers a general framework that can be integrated into existing detection pipelines, paving the way for more context-aware computer vision systems.
+
+Keywords: layout transfer network; context aware object detection; scene understanding; deep learning; object detection.

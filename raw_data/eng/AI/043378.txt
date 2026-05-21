@@ -1,0 +1,1 @@
+To create a report action, make an XML file in your report directory and design templates using HTML within the <template> tag to define your report’s structure. You can use <t-call=” ”/> to include other templates, allowing for reusable and modular custom report designs.

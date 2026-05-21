@@ -1,0 +1,1 @@
+Step 2: Create a prefab called "Bullet" Step3: Call the static method ’ObjectManager.Spawn’ to spawn a bullet with each update frameA pool of prefab bullets is created and manages the bullets within the pool.A pool of bullets Result : Pass Create an array pool of temporary variables based on type: Collider.

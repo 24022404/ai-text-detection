@@ -1,0 +1,1 @@
+Conjecture 1 proposes that N(n) = n + 1, suggesting a direct formula for the problem. By constructing a transition graph, one can systematically identify a U-cycle for the set of Pn of length n, where ai = aj when the i-th and j-th elements belong to the same group; this transition graph for Pn is illustrated in figure 2.5.

@@ -1,0 +1,1 @@
+Người dùng ấn chọn vào bạn bè muốn nhắn tin, hệ thống hiển thị giao diện tin nhắn của 2 người. Và người dùng nhập tin nhắn sau đó gửi. Các tin nhắn sẽ được hiển thị trên màn hình.

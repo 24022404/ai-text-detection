@@ -1,0 +1,1 @@
+Các ứng dụng của WebRTC  rất đa dạng. Điển hình là ứng dụng truyền phát video trực tuyến (live streaming), hội thảo trực tuyến (web conferencing), các ứng dụng gọi video và thoại qua trình duyệt web, chia sẻ màn hình và trò chơi trực tuyến.

@@ -1,0 +1,1 @@
+By securely storing the mnemonic in the backend, the executor is able to sign transactions for the frontend, enabling secure and seamless user interactions. Moreover, executors also play important roles as verifiers and assigners in the Perdesen DKG protocol, as explored in the thesis.

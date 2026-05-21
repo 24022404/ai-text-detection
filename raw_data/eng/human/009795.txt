@@ -1,0 +1,1 @@
+By analyzing the data, modifying the user’s scoring method in the train set, and experimenting with different deep learning techniques, the recommender system can be further refined. learning techniques like NeuMF and Deep Matrix Factorization.

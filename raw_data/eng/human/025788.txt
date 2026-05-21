@@ -1,0 +1,1 @@
+Wireframing: Creating wireframes, which are basic visual representations of the interface layout, to establish the structure and flow of the application.

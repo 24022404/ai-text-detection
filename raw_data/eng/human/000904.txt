@@ -1,0 +1,1 @@
+Predictablity: Buttons, forms and functions should be predictable. An example for this is that a button with trash can icon should behave as a "DELETE" button.

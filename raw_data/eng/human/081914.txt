@@ -1,0 +1,1 @@
+All experiments and implementation details are described in Chapter 5, including dataset statistics, hyperparameters, evaluation metrics, and comparison with stateof-the-art bases. I also present my observations on my proposed method compared with state-of-the-art baselines.

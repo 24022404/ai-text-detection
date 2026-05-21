@@ -1,0 +1,1 @@
+Capacity expansion presents significant challenges since, as a cluster nears its maximum capacity, scaling up becomes increasingly complicated. It requires reserving additional space in advance, which often leads to inefficient use of resources and unnecessary waste (see Figure 3.3: Cloudinary).

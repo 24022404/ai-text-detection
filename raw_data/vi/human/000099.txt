@@ -1,0 +1,1 @@
+Một số từ khóa RDFS đưa ra, đồng thờ quy ước ý nghĩa tương thích với mô hình dữ liệu RDF.

@@ -1,0 +1,1 @@
+Gá pháp khả dĩ và đơn giản nhất đó là tạo một socket với server để biết khi nào có thông báo mở và hiển thị bằng giao diện của chính website. Khi không mở ứng dụng thì vẫn sẽ nhận thông báo, hoặc không nếu bị từ chối, qua web push.

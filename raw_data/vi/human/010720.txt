@@ -1,0 +1,1 @@
+FastAp a, Giới thiệu Fast API  là một khung được sử dụng để xây dựng các API. Fast API có hiệu năng cao, cú pháp đơn giản, dễ dàng cài đặt và triển khai, có thể lập trình đồng bộ hoặc bất đồng bộ.

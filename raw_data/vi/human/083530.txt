@@ -1,0 +1,1 @@
+Vệc tách bệt tầng model có rất nhều thuận lợ, trước là sễ quản lý sau là dẽnâng cấp và phát trển trong tương la của mã nguồn.

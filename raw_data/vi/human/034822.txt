@@ -1,0 +1,1 @@
+Vì vậy, để ngăn việc thay đổi rất nhiều tham số trong một lần, một mô hình giúp sgmod thay cho hàm softmax:

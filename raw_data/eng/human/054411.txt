@@ -1,0 +1,1 @@
+<owl : Class rdf : about ="# quanCafe "> < r d f s : subClassOf r d f : r e s o u r c e ="#demAnUong "/ > </ owl : Class > Property OWL có hai loại thuộc tính:

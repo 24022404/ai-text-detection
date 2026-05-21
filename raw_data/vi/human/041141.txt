@@ -1,0 +1,1 @@
+Hệ thống kểm tra thông tin (nếu thông tin sa hoặc không hợp lệ quay lạ bước 5) 8. Hệ thống lưu trữ công thức được sửa trong cơ sở dữ liệu sau đó chuyển hướng đến trang hồ sơ và hển thị danh sách công thức .

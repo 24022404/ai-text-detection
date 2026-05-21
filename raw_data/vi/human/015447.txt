@@ -1,0 +1,1 @@
+đăng ký và đăng nhập, tạo và quản lý các nhóm, nhận thông báo, tìm kếm, trao điổ thông tin. Đặc bệt module còn cung cấp thêm các tính năng dành rêng cho thương mạ điện tử như: Tham chếu trực tếp đến sản phẩm trong nộ dung bà điăng, hệ thống thứ hạng nhằm khuyến khích tương tác của thành viên, thêm điều kện điể tạo mã gảm gá dựa trên thứ hạng của thành viên.

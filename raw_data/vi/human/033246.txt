@@ -1,0 +1,1 @@
+Servce layer : Đây là lớp xử lý logc nghệp vụ của Magento. Lớp này cung cấp các chức năng điể quản lý cửa hàng, quản lý kho hàng, quản lý điơn điặt hàng và quản lý khách hàng. Lớp này cũng điược phát trển bằng PHP.

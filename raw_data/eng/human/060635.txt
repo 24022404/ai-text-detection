@@ -1,0 +1,1 @@
+V . Gheorghiu and M. Mosca, “Benchmarking the quantum cryptanalysis of symmetric, public-key and hash-based cryptographic schemes,” arXiv preprint arXiv:1902.02332 , 2019.

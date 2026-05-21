@@ -1,0 +1,1 @@
+The Python interpreter is responsible for executing your Python code.You exe cute the Python program in your terminal or command prompt.

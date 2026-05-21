@@ -1,0 +1,1 @@
+Warehouse staff assigned to perform the inventory will have the right to view ticketinformation, perform inventory and view detailed inventory results. Warehouse accountants are responsible for printing inventory reports and other papers. The as signed supervisor has the task to see if the ticket information has been performed on time, task, process or not.

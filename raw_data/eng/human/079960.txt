@@ -1,0 +1,1 @@
+Definition 7 (Run length limited de Bruijn (RdB) sequence) .A sequence s= (s1, s2, . . . , s n)∈Σnis called a (k, s)-run length limited de Bruijn (RdB) sequence of length nif it is a de Bruijn sequence of order kand a s-RLL sequence of length n.

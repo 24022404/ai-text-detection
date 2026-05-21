@@ -1,0 +1,1 @@
+Seed Phrase: Thành phần text input điểm người dùng nhập vào cụm từ khô phục của ví Nút Import: Thành phần nút có chức năng gửi yêu cầu import ví.Hình 4.4: Thiết kế thành phần giao diện màn Thêm ví onchan b, Thiết kế thành phần giao diện màn hình Ví onchan Màn hình Ví onchan được chia thành 4 thành phần con như Hình 4.5. Bao gồm:

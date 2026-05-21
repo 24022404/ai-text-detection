@@ -1,0 +1,1 @@
+Đăng nhập  Cho phép tài khoản có trong hệ thống đăng nhập vào hệ thống điểm thực hiện các tính năng chuyên biệt.

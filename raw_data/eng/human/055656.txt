@@ -1,0 +1,1 @@
+coming requests. The range of 39.09 to 153.81 for the standard deviation of req/sec demonstrates the variability of processing rates.

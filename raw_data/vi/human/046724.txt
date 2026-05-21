@@ -1,0 +1,1 @@
+Đăng tả hình ảnh lên một kho dữ liệu của bên thứ 3 như AWS, Google Cloud, v.v... và lấy lại đường link dẫn đến ảnh, cuối cùng lưu trữ vào CSDL dưới kiểu dữ liệu varchar thông thường. Tuy nhiên hiện nay các bên thứ 3 hầu như điều cần phải trả phí hàng tháng để sử dụng dịch vụ.

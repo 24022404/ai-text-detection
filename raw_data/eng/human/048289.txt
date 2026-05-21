@@ -1,0 +1,1 @@
+The motivation behind this highly complex structure is to stabilize the exploding/dimi nishing gradient flow  induced by back-propagation through time.

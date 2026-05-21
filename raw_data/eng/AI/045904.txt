@@ -1,0 +1,9 @@
+Objective: Anticipating the future positions of hands and interacted objects in video frames is critical for applications ranging from human–computer interaction to autonomous robotics. This paper addresses the problem of forecasting pixel-level locations and semantic identities of hands and objects several frames ahead, under unconstrained real-world scenarios.
+
+Methods: We propose a dual-stream spatio-temporal prediction network that separately encodes hand motion and object appearance before merging them through a cross-attention module. The model consists of (1) a convolutional encoder extracting spatial features from current RGB and optical flow inputs, (2) a recurrent transformer-based decoder that predicts future feature maps, and (3) a lightweight segmentation head that outputs per-pixel class labels and bounding masks for hands and objects. To capture long-term dependencies, we introduce a temporal attention mechanism that selectively integrates past feature representations over a sliding window of frames.
+
+Results: Extensive experiments on two challenging benchmarks demonstrate that our approach outperforms state-of-the-art baselines by 8–12% in mean intersection-over-union (mIoU) for hand segmentation and by 10–15% in average precision (AP) for object localization up to five frames into the future. Ablation studies confirm the effectiveness of the dual-stream design and temporal attention.
+
+Conclusion: The proposed framework delivers robust future forecasting of hands and objects, enabling proactive scene understanding and timely decision-making in interactive and autonomous systems. Potential applications include assistive robotics, augmented reality, and advanced video surveillance. 
+
+Keywords: hand-object forecasting, future frame prediction, spatio-temporal network, attention mechanism, deep learning.

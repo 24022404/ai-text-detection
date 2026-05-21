@@ -1,0 +1,1 @@
+When the image is in the STOPPED state, the code removes the image from the augmentedImageMap .In short, the code is checking the tracking state of each augmented image, and when an image is being tracked, it retrieves its name using the getName() method and stores it in the startingImage variable.

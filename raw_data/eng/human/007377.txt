@@ -1,0 +1,1 @@
+Post-conditions After the administrator performs the account verification,make sure that there are no accounts in the system in an in active state. If so, they need to be verified to be activated or removed from the system.

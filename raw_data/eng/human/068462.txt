@@ -1,0 +1,1 @@
+top\_malware_permissions: [’android.permission.READ\_SMS’, ’android.permission.SEND\_SMS’], ’other\_abused\_permissions’: [’android.permission.BLUETOOTH’, ’android.permission.ACCESS\_BACKGROUND\_LOCATION’], ’total\_malware\_permissions’: 24, ’total\_other\_permissions’: 42 b, Input/Output Input: The analysis starts with two key pieces of input:

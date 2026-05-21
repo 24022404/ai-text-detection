@@ -1,0 +1,1 @@
+Sau quá trình xây dựng, ứng dụng game NFS Flappy Bird sẽ được triển khai trên appstore và có file apk. Ch tết quá trình triển khai như sau:

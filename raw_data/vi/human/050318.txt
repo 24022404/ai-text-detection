@@ -1,0 +1,1 @@
+Mã nguồn được thực thi dựa trên framework PyTorch, quá trình huấn luyện mô hình sử dụng Google Colab. Thông số phần cứng được thống kê trong Bảng 4.2.

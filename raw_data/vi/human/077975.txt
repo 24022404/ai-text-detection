@@ -1,0 +1,1 @@
+Việc cần làm chỉ là tả mã của bạn lên và Elastic Beanstalk sẽ tự động xử lý việc triển khai, từ cung cấp công suất, cân bằng tả, tự động điều chỉnh quy mô đun giám sát trạng thái ứng dụng. Đồng thời, bạn vẫn có toàn quyền kiểm những tài nguyên AWS vận hành ứng dụng của bạn và có thể truy cập các tài nguyên quan trọng vào bất kỳ lúc nào.

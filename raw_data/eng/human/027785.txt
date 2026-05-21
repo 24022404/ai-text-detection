@@ -1,0 +1,1 @@
+The 2.5th percentile throughput values are generally low, ranging between 13 kilobytes and zero bytes, indicating slower data transmission rates for certain queries.

@@ -1,0 +1,1 @@
+Tạo lời nhắc: Thành viên tạo lời nhắc đặt hàng cho mình.Hình 2.4: Usecase Tổng quan Đăng xuất: Đăng xuất phiên đăng nhập khỏi hệ thống.

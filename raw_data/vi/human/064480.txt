@@ -1,0 +1,1 @@
+update Participant: phương thức này gồm 3 tham số là conversationId, user Id và type, nhầm cập nhật thành viên trong gọi video của cuộc hội thoại.Hình 4.11: Lớp ConversatonRepostory Hình 4.11 là thiết kế lớp ConversatonRepostory, nó bao gồm các phương thức:

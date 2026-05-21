@@ -1,0 +1,1 @@
+The existing app, Jupviec, has limitations as it solely caters to one specific ser vice. The scope of this thesis aims to serve similar services while intending to expand and elevate the service offerings to a more sophisticated and diverse level.

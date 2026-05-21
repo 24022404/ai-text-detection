@@ -1,0 +1,1 @@
+T. P. Pedersen’s paper introduces a threshold cryptosystem that removes the requirement for a trusted party, as detailed in EUROCRYPT’91.

@@ -1,0 +1,1 @@
+In Chapter 3, I will present the overview of the website. Afterward, I will go into great detail about the website architecture.

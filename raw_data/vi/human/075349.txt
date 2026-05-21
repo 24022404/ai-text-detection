@@ -1,0 +1,1 @@
+Predictable state management: Redux quản lý trạng thái của ứng dụng theo cách mà dễ dàng dự đoán và hiểu được. Nó sử dụng các "reducers" điểm xử lý các thay đổi trạng thái và giúp đảm bảo tính nhất quán trong trạng thái của ứng dụng.

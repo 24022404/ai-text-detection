@@ -1,0 +1,1 @@
+– Softmax function : Softmax function is a non-ar function used in Neural Networks to calculate multilayer output probabilities. This function ensures that the sum of the output probabilities of the classes is equal to 1.

@@ -1,0 +1,1 @@
+Gả pháp Nhận thấy sự cần thiết của việc tích hợp thanh toán trực tuyến vào ứng dụng thương mại điện tử nên ở trong khuôn khổ đồ án lần này, em đã tìm hiểu và triển khai tích hợp cổng thanh toán on vào ứng dụng của mình.

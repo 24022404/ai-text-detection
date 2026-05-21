@@ -1,0 +1,1 @@
+Nhấn Cập nhật.  Hệ thống hiển thị thông báo cập nhật đơn hàng thành công, lưu vào cơ sở dữ liệu và trở về trang quản lý đơn hàng.  Hệ thống hiển thị thông báo cập nhật đơn hàng thành công, lưu vào cơ sở dữ liệu và trở về trang quản lý đơn hàng.  Đạt TC04  1. Đăng nhập tài khoản quản trị viên.

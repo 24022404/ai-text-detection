@@ -1,0 +1,1 @@
+Bà báo bao gồm kết quả thí nghiệm trên một số tập dữ liệu chuẩn để chứng minh hiệu quả của mô hình SSPPDAN được đề xuất, cho thấy nó vượt trội hơn các phương pháp tiên tiến khác trong tình huống SSPP.

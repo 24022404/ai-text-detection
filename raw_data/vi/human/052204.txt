@@ -1,0 +1,1 @@
+Services: Ko nhận được yêu cầu từ Controller, Services sẻ kết nối và tương tác với cơ sở dữ liệu, sau đó trả kết quả về cho Controller.

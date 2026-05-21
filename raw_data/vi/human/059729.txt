@@ -1,0 +1,1 @@
+Thời gian chờ trung bình cho phép ta nhìn vào hiệu năng của các phương pháp đối với một mục tiêu quan trọng của bài toán là game thể thờ gần mà mọi người tham gia giao thông phải chờ đợi tín hiệu đèn. độ đo đánh giá gúp ta có thể ước lượng được các giá trị mà gả pháp mang lại.

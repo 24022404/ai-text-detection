@@ -1,0 +1,1 @@
+Để bổ sung thêm tính năng trích xuất thông tin từ ảnh, hệ thống có thể cần thêm nhiều loại hình ảnh như bên la sêu thị, hóa đơn cho yêu,... Đây là những loại ảnh phổ biến kh người dùng mua sắm và chi tiêu hàng ngày. Việc bổ sung chức năng trích xuất cho các hình ảnh này sẽ là một hướng phát triển tiềm năng cho ứng dụng.

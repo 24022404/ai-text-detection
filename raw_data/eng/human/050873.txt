@@ -1,0 +1,1 @@
+L. Hoyer, D. Dai, and L. Van Gool, “Daformer: Improving network architec tures and training strategies for domain-adaptive semantic segmentation,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition , 2022, pp. 9924–9935.

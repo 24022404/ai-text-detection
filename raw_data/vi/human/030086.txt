@@ -1,0 +1,1 @@
+Mô hình MVC (model, controller, view) là mô hình chuẩn cho ứng dụng web được sử dụng nhiều nhất ngày nay.

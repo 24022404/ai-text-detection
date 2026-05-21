@@ -1,0 +1,1 @@
+Như đã điề cập, đồ thị quyết định là một bến thể nâng cấp từ đồ thị hình học thông thường, dướ điây là một số điề xuất ban điầu các định nghĩa về đồ thị mớ và các thành phần của nó.

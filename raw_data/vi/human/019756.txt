@@ -1,0 +1,1 @@
+Người dùng nhập nội dung muốn hỏi trong ô nhập message và ấn "Send". Sau đó chờ người chuyên gia phản hồi.

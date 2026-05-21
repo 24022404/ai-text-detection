@@ -1,0 +1,1 @@
+Quản lý showroom Một số use case yêu cầu người dùng buộc phải đăng nhập mới có thể sử dụng đó là: quản lý tài khoản cá nhân, quản lý tn cá nhân, đăng tn và quản lý showroom.

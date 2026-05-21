@@ -1,0 +1,1 @@
+Mô tả ý tưởng về cách thức hoạt động của việc đa ngôn ngữ hóa được Format định nghĩa như Hình 5.9. Ch tết ý tưởng được trình bày rõ hơn trong tài liệu thiết kế của Format JS .

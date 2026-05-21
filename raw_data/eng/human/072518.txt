@@ -1,0 +1,1 @@
+However, the model shows a slight decrease in scores on ViMs. Meanwhile, viPRIMERA pretrained on translated and preprocessed Newshead exhibited promising results on ViMs and VLSP, with high R-1 and R-2 scores. Unfortunately, the model’s performance is not yet tested for the VMDS dataset.

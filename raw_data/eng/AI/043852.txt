@@ -1,0 +1,1 @@
+Once the administrator has verified accounts, any accounts that remain inactive must undergo one of two actions: they should either be verified and activated for use, or be removed entirely from the system.

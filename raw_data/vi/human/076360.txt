@@ -1,0 +1,1 @@
+ID ô đồ (bằng 1 nếu chưa có đồ bên trong, bằng ID của đồ đó nếu có), số lượng tem trong ô đồ đi, loại đồ có thể đặt vào ô đồ đố (đồ có thể mặc lên người không thể để vào vị trí kỹ năng có thể dùng). Class này cũng có các event để cập nhật tình trạng nhân vật mỗi khi một món đồ được bỏ vào một vị trí nào đấy.

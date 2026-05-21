@@ -1,0 +1,1 @@
+Apps must be signed with secure certificates instead of a debug certificate, as debug certificates are only for development and not suitable for production releases.

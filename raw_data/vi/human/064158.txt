@@ -1,0 +1,1 @@
+Question là tập hợp các câu hỏi được dùng để mô tả cách thức việc đánh giá/đạt được một mục tiêu cụ thể được xác định trên. Các câu hỏi nên thể hiện được sự đặc trưng của đối tượng.

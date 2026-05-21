@@ -1,0 +1,1 @@
+Không phải mã nguồn mở Chỉ hoạt động trên CSDL NoSQL Lập trình viên không được truy cập mã nguồn Truy vấn chậm Phạm vi hoạt động bị hạn chế ở một và quốc gia Một và dịch vụ cần trả phí, chi phí dành cho Freebase tương đối lớn và không ổn định Thuế Dedicated Servers và cả hợp đồng doanh nghiệp Không cung cấp API GraphQL Chỉ có thể chạy trên Google Cloud.

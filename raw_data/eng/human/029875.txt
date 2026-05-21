@@ -1,0 +1,1 @@
+According to the related work , there are four kinds of mechanisms for solving multi-label problems: binary relevance, label powerset, classifier chain, and adapted algorithms.

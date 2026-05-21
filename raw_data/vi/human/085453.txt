@@ -1,0 +1,1 @@
+Frebase Realtme Database Vớ cách thức hoạt động này, người dùng dễ tến hành đăng ký một tài khoản trên frebase điể tạo ứng dụng. Những điều bạn nhận được sau khi đăng ký sẽ được nằm dưới dạng Json và điã điược đồng bộ hóa thờ gan đến tất cả các kết nối client.

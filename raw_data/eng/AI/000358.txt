@@ -1,0 +1,1 @@
+JavaScript handles asynchronous operations using callbacks, promises, and async/await, enabling efficient execution of tasks such as making API calls without blocking the main thread.

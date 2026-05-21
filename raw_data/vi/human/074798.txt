@@ -1,0 +1,1 @@
+Gao dện Inventory và chỉ số nhân vật Hình 4.10: Giao diện hành trang và chỉ số Kh người chơ bấm vào nút Inventory hoặc nút Stats trên thanh công cụ cạnh gao vện hiển thị máu (hình cầu màu đỏ tại vị trí góc dưới tay trái) thì sẽ hiện ra hai cửa sổ như hình. Cửa sổ bên trái sẽ hiển thị các chỉ số hiện tại mà nhân vật có.

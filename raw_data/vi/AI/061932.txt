@@ -1,0 +1,7 @@
+Phasolpro GSKĐ 1.0 là phần mềm được thiết kế để hỗ trợ giám sát kê đơn về phác đồ điều trị và tương tác thuốc trong hệ thống y tế. Phần mềm này nhằm mục đích đảm bảo an toàn và hiệu quả của quá trình điều trị bằng cách cung cấp thông tin chính xác và cập nhật về các loại thuốc và phác đồ điều trị.
+
+Phasolpro GSKĐ 1.0 cho phép người dùng truy cập và quản lý thông tin về các loại thuốc, bao gồm thông tin về tác dụng, tác dụng phụ, tương tác thuốc và liều lượng. Phần mềm cũng cung cấp tính năng giám sát kê đơn, giúp người dùng xác định và cảnh báo về các trường hợp kê đơn không an toàn hoặc không phù hợp.
+
+Bên cạnh đó, Phasolpro GSKĐ 1.0 còn hỗ trợ người dùng trong việc xây dựng và quản lý phác đồ điều trị, bao gồm việc chọn lọc và sắp xếp các loại thuốc phù hợp với từng trường hợp bệnh. Phần mềm cũng cung cấp tính năng báo cáo và thống kê, giúp người dùng theo dõi và đánh giá hiệu quả của quá trình điều trị.
+
+Tổng thể, Phasolpro GSKĐ 1.0 là một công cụ quan trọng trong việc đảm bảo an toàn và hiệu quả của quá trình điều trị, giúp người dùng đưa ra quyết định kê đơn thông minh và an toàn hơn.

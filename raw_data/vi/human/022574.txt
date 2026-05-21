@@ -1,0 +1,1 @@
+JavaScript là một ngôn ngữ lập trình website, được tích hợp và nhúng trong HTML giúp website sống động hơn. JavaScript cho phép kiểm soát các hành vi của trang web tốt hơn so với kh chỉ sử dụng mỗ HTML.

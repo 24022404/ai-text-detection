@@ -1,0 +1,1 @@
+Việc này sẽ ảnh hưởng đến tất cả các ga đoạn phát triển : có ít mã để kiểm tra và ít lag hơn; đối với người đọc thì có ít mã điểm đọc, hiểu, nhận xét, và bảo trì.

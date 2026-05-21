@@ -1,0 +1,9 @@
+Objective: Semantic image segmentation models are increasingly deployed in sensitive domains, yet their complex output structures may inadvertently expose training data. This work presents Segmentations-Leak, the first systematic study of membership inference attacks and defenses in semantic segmentation, aiming to quantify and mitigate privacy leakage.  
+
+Methods: We design two attack strategies tailored to segmentation: (1) Output Confidence Attack, which exploits per-pixel probability distributions, and (2) Gradient-Based Attack, leveraging model sensitivity to input variations. We evaluate these attacks on representative architectures (UNet, DeepLabV3+) across benchmark datasets (Cityscapes, Pascal VOC). To defend against leakage, we introduce SegGuard, a training-time regularization combining randomized perturbations, temperature scaling, and confidence smoothing to limit information exposure without altering model outputs at inference.  
+
+Results: Our attacks achieve up to 92% membership classification accuracy on overparameterized segmentation networks, revealing a substantial privacy risk. SegGuard reduces attack success rates by 30–45% while preserving mean Intersection-over-Union (mIoU) within a 1.8% degradation. Comparative analysis shows SegGuard outperforms baseline defenses such as dropout and differential privacy noise injection in balancing privacy and utility.  
+
+Conclusion: Segmentations-Leak uncovers a critical privacy gap in semantic segmentation and delivers a practical defense that integrates seamlessly with existing training pipelines. Our findings highlight the trade-offs between segmentation performance and data privacy, offering actionable insights for developing privacy-aware models in medical imaging, autonomous driving, and other sensitive applications.  
+
+Keywords: semantic image segmentation, membership inference attack, model privacy, defense mechanism, deep learning.

@@ -1,0 +1,1 @@
+At the core of Docker is the Docker Engine, which provides the container run time and orchestration capabilities. Developers can create Docker images, whichserve as templates for containers, defining the application’s configuration and dependencies. These images are stored in registries, making it easy to share and dis tribute applications.

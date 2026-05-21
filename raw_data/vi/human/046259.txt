@@ -1,0 +1,1 @@
+Biết được những ưu điểm này của một ứng dụng web chat, em đã xây dựng một ứng dụng web chat giúp mọi người có thể dễ dàng kết nối và trao đổi thông tin.

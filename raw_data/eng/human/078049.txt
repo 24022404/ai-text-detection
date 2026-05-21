@@ -1,0 +1,1 @@
+Overall designBased on the diagram above, the packages are identified and divided into subapplications: Helpdesk, Project, Customer, Agent, Admin, Authentication.Each pack age represents a part of the helpdesk system and contains corresponding classes and functionalities.

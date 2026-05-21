@@ -1,0 +1,1 @@
+T. Etzion and A. Lempel’s paper presents and analyzes algorithms designed to generate full-length shift register sequences, which are vital in information theory applications.

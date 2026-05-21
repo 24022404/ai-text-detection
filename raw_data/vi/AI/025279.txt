@@ -1,0 +1,3 @@
+Hiệu ứng nhóm trong móng cọc đài thấp là một yếu tố quan trọng ảnh hưởng đến độ bền và ổn định của công trình. Số lượng và khoảng cách cọc đóng vai trò quyết định trong việc tạo ra hiệu ứng này. Khi số lượng cọc tăng lên, hiệu ứng nhóm cũng tăng theo, dẫn đến sự phân bố lực tốt hơn và giảm thiểu khả năng xảy ra sự cố.
+
+Tuy nhiên, khoảng cách giữa các cọc cũng đóng vai trò quan trọng. Nếu khoảng cách quá gần, hiệu ứng nhóm có thể bị giảm thiểu do sự chồng lấp của lực. Ngược lại, nếu khoảng cách quá xa, hiệu ứng nhóm có thể bị giảm thiểu do sự phân tán lực. Do đó, việc lựa chọn số lượng và khoảng cách cọc phù hợp là rất quan trọng để đạt được hiệu ứng nhóm tối ưu trong móng cọc đài thấp.

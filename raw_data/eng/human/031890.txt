@@ -1,0 +1,1 @@
+Calling the ranking of the momentum factor for a cryptocurrency in ascending order is "rank," we calculate the weight as follows: weight = rank - the average of all ranks of the cryptocurrencies.

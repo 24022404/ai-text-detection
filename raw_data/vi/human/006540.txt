@@ -1,0 +1,1 @@
+FILTER: bộ lọc mang giá trị PASS nếu vị trí này thỏa mãn điều kiện của tất cả các bộ lọc. Nếu bộ lọc chưa được áp dụng, thì trường này sẽ được đặt thành giá trị trống bằng dấu chấm (’.’).

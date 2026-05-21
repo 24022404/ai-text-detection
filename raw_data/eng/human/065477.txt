@@ -1,0 +1,1 @@
+Data layer is where we persist data for the application or system. This contains the functionality for creating, transforming, updating, and deleting items into the database.

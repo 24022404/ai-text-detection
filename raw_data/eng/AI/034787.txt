@@ -1,0 +1,9 @@
+Objective: Generating valid structured data such as code snippets, molecular graphs, or mathematical expressions poses unique challenges because conventional variational autoencoders (VAEs) can produce syntactically invalid outputs. This paper introduces a syntax-directed variational autoencoder (SD-VAE) that enforces formal grammar rules during both encoding and decoding, ensuring the generation of well-formed structures.
+
+Methods: SD-VAE incorporates grammar productions into its latent‐variable framework. Input data are first parsed into abstract syntax trees (ASTs) according to a context‐free grammar. The encoder maps these ASTs into a continuous latent space via a tree‐structured neural network, while the decoder reconstructs structures by sequentially sampling grammar productions conditioned on the latent code. A differentiable mask guided by grammar constraints prunes invalid rule choices at each decoding step.
+
+Results: We evaluate SD-VAE on two benchmarks: SMILES representations for small molecules and arithmetic expression trees. Compared to a baseline sequence‐based VAE, SD-VAE achieves over 98% syntactic validity (versus 75%), reduces reconstruction error by 25%, and increases generative diversity by 30% as measured by unique output rates.
+
+Conclusion: By embedding syntax directly into the VAE architecture, SD-VAE delivers reliable, high‐quality generation of structured data without post hoc filtering. This approach can be extended to program synthesis, data serialization, and any domain governed by formal grammars.
+
+Keywords: syntax-directed generation, variational autoencoder, structured data, grammar constraints, generative model

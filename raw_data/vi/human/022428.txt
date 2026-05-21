@@ -1,0 +1,1 @@
+Dễ sử dụng : Google Data Studio là một công cụ khá dễ sử dụng, dù rằng thực tếm điểm khai thác hết công dụng của nó cũng cần có knh nghệm.Google Data Studo hoạt điộng bằng cách kết nối báo cáo vớ nhiều nguồn dữ lệu khác nhau, cho phép trình bày dữ lệu trong các dashboard gàu tính tương tác.

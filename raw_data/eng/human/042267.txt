@@ -1,0 +1,1 @@
+Data protection: GitHub Actions run on virtual machines, and they can access the repository using the provided Personal Access Token (PAT) for authentication.

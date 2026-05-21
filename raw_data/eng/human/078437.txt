@@ -1,0 +1,1 @@
+After completing the checks for both Firebase Database and Firebase Remote Config, all findings are compiled and categorized by severity.

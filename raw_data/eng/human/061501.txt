@@ -1,0 +1,1 @@
+We started a thorough investigation of alternative remedies to address this issue in order to achieve a balance between decentralization, data efficiency, and query performance. Our objective was to come up with a simple solution that upheld the decentralization ideals while preserving the responsiveness and scalability of the platform.

@@ -1,0 +1,1 @@
+Cốt lõ của dự báo chuỗ thờ gan là khảo sát và phân tích các quan hệ phụ thuộc thờ gan của dữ lệu, dựa trên mẫu lặp lạ và xu hướng trong quá khứ. Phương pháp này gúp chúng ta hiểu rõ hơn về sự bến đỗ của dữ lệu theo thờ gan và từ đió có thể tên đioán các gá trị trong tương la.

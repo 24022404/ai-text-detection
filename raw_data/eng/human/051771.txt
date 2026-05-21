@@ -1,0 +1,1 @@
+The use of industry standards, such as the BIP39 protocol, in the creation andadministration of mnemonic phrases or seed phrases is a crucial component of wal let security. The BIP39 protocol guarantees that wallets follow a consistent process for producing mnemonic phrases, which are human-readable collections of words.

@@ -1,0 +1,1 @@
+When updating prototypes, I use only features of pixels on target images with a high confidence score to ensure prototypes represent the correct centroids as much as possible. Specifically, I generate pseudo labels to update prototypes as:

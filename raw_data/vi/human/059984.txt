@@ -1,0 +1,1 @@
+Đố vớ mục tiêu thứ tư , tô áp dụng công nghệ xử lý đa luồng để tiến hành chạy song song nhiều dòng camera khác nhau, kết hợp các kết quả nhận được từ các luồng điểm đưa ra kết quả của bài toán.

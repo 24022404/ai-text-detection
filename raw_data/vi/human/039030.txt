@@ -1,0 +1,1 @@
+Một số điặc điểm của ASP.NET framework Code Behind Mode: Đây là khá nệm về tách rời thiết kế và mã code. Bằng cách tách rời như vậy, vệc duy trì ứng dụng ASP.Net trở nên dễ dàng hơn.

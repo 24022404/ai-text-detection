@@ -1,0 +1,1 @@
+id number yes An identifier established by the Clienterror Object no This member is RE QUIRED on error.This member MUST NOT exist if there was no errortriggered during invoca tion.The value for this member MUST be an Object Table 4.24: General JPRC response detail The subsequent tables will describe in detail the request parameters and the response value:

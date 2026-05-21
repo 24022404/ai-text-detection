@@ -1,0 +1,1 @@
+SCK: Là chân xung clock giao tiếp SPI trong NRF24L01. Dữ liệu sẽ truyền giữa module và vi điều khiển theo xung clock trên chân SCK.

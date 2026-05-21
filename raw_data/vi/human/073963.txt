@@ -1,0 +1,1 @@
+Địa chỉ IP:  CPU: 1 nhân RAM: 1GB Bộ nhớ: 25GB Hệ điều hành: Ubuntu 20.04 LTS Các bước triển khai hệ thống bao gồm:

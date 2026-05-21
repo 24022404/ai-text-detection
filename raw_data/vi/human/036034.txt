@@ -1,0 +1,1 @@
+Độ phân gả Hỗ trợ các độ phân giải Kích thước màn hình Tùy ý, với màn hình điện thoại hoặc máy tính sẽ có giao diện tương ứng Màu sắc Hỗ trợ đủ bảng mã màu RGB Font chữ Open Sans Button color #2a3f54 hover: #2a3f54 Thông báo Thành công:

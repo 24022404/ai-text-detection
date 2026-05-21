@@ -1,0 +1,1 @@
+course: khóa học d: ID khóa học param: Tham số lọc danh sách khóa học ServiceResult: kiểu dữ liệu chung được định nghĩa điểm trả về Frontend Method: Không Start: Không, Thiết kế lớp Course Service Hình 4.10: Thiết kế lớp Course Service Attribute: Không Operation:

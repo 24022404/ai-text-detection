@@ -1,0 +1,1 @@
+Quá khớp (Overfitting): Kh dữ liệu huấn luyện không đủ, mô hình có thể gặp phải vấn đề quá khớp. Đều này có nghĩa là mô hình học quá tốt trên dữ liệu huấn luyện nhưng không thể tổng quát hóa tốt trên dữ liệu mờ hoặc chưa từng gặp.

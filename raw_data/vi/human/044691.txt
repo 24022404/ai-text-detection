@@ -1,0 +1,1 @@
+Phần Frontend gồm 1 Website duy nhất. Đã được thể hiện các phần trong Chương 5.6.4 Những điều chưa đạt được và tương lai Hệ thống thực sự chưa hề sử dụng các kỹ thuật như Cache, cân bằng tả. Việc này có thể khiến hiệu suất của Server cũng như Clent sẽ không được tối ưu.

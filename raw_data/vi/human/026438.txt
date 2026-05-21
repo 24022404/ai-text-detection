@@ -1,0 +1,1 @@
+Để chọn âm tết tốt nhất trong tập hợp nhầm lẫn (tập hợp các ứng cử vên điểm sửa), chúng ta cần đo lường mối quan hệ giữa một âm tiết và các âm tết lân cận của nó.

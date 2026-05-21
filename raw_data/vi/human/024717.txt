@@ -1,0 +1,1 @@
+(Vew): gồm có fle gao vện hển thị các thông tin và nhận thông tin từ Khách hàng như sau:

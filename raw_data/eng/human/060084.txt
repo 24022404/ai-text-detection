@@ -1,0 +1,1 @@
+Outdated Compiler Version : This vulnerability occurs when the contract uses an outdated compiler and can be easily attacked, resulting in the use of these contracts being affected. This vulnerability can be avoided by using a new compiler at contract development time.

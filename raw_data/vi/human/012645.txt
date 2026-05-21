@@ -1,0 +1,1 @@
+Ở đây, mỗ hướng đi sẽ có một đèn giao thông tương ứng quyết định việc có cho xe d chuyển hay không. Hệ thống bao gồm 4 đèn giao thông này sẽ đóng vai trò quản lý việc lưu thông của các phương tiện giao thông trên ngã tư này, đồng thời cũng chính là đối tượng mà ta đang hướng tới để tối ưu hoá các quyết định.

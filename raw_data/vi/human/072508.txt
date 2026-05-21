@@ -1,0 +1,1 @@
+Tổng quan về MERN Stack MERN Stack  là một thuật ngữ chỉ một bộ các công nghệ mã nguồn mở liên quan đến Javascript, bao gồm MongoDB, ExpressJS, Reactjs/React Native,Nodejs. Những ứng dụng được xây dựng từ MERN Stack được gọi là React Un versal App.

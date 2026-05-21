@@ -1,0 +1,1 @@
+Thông tin nhận hàng: Thành phần giao diện hiển thị thông tin người nhận hàng gồm tên và địa chỉ.

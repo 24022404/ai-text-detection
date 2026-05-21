@@ -1,0 +1,1 @@
+A CSS declaration pairs a property name with a value, separated by a colon and ending with a semicolon. These declarations are grouped in blocks, which are wrapped in curly braces.

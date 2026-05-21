@@ -1,0 +1,1 @@
+Mô hình client server cung cấp nhiều lợi ích cho các ứng dụng và hệ thống phần mềm, bao gồm tính khả dụng cao, tính mở rộng và linh hoạt, an ninh và quản lý dễ dàng, và tiết kệm chi phí.

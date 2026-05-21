@@ -1,0 +1,1 @@
+Height =r k(3.1) Width =r S=Σm i=1Si m(3.3) Similarly, candidate boxes are generated and resized to 320x240 for the next 15 consecutive frames. The feature-extraction-and-classification stage uses every 16 consecutive frames to determine whether a group is violent or not.

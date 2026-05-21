@@ -1,0 +1,1 @@
+Chương 3: Gớ thiệu về công nghệ sử dụng vớ lý do lựa chọn những công nghệ đió trong quá trình thực hiện xây dựng hệ thống website này gồm có framework Laravel, MySQL, PHP và Bootstraps, HTML, CSS, Js. . .

@@ -1,0 +1,1 @@
+Bước 1: đặc trưng đầu vào đồng thờ được đưa qua toán tử gộp cực đại (Sampling  MP) và gộp trung bình (Average Pooling  AP), ha toán tử này được thực hiện theo chiều sâu của đặc trưng. Do đó, nếu đặc trưng đầu vào có kích thước [HxWxC] (C là số kênh), sau mỗ toán tử trên sẽ thu được đặc trưng đầu ra có kích thước [HxWx1].

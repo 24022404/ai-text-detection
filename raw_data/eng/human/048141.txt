@@ -1,0 +1,1 @@
+# Define the base image FROM python:3.8.10 WORKDIR /absa # Install Torch libraries RUN pip install torch torchvision torchaudio --index-url \  --no-cache-dir # Add requirements.txt file first and # install other required libraries COPY requirements.txt requirements.txt RUN pip install -r requirements.txt # Copy the code into the image COPY . .

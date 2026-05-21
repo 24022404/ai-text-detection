@@ -1,0 +1,9 @@
+Objective: General image recognition often demands large annotated datasets, yet real-world applications frequently involve scenarios with scarce labeled samples and multiple co-occurring objects. This paper addresses the challenge of multi-label few-shot learning by incorporating external knowledge to enhance representation learning and label prediction under limited data conditions.  
+
+Methods: We propose KG-FSL, a knowledge-guided multi-label few-shot learning framework that fuses visual features with semantic relations derived from a knowledge graph. During meta-training, support images and their label sets are embedded into a joint semantic-visual space. A graph-based attention module then propagates information among related classes, enabling the model to infer co-occurrence patterns even for classes with few examples. At inference, prototype representations are dynamically updated by leveraging class hierarchy and attribute associations.  
+
+Results: Experiments on the MS-COCO and PASCAL VOC benchmarks demonstrate that KG-FSL outperforms state-of-the-art multi-label few-shot methods by 4.8%–6.2% in mean average precision (mAP) and achieves notable gains in F1-score for rare and long-tail classes. Ablation studies confirm the effectiveness of the knowledge graph integration and attention module in capturing inter-label dependencies.  
+
+Conclusion: KG-FSL provides a robust solution for general image recognition tasks under few-shot constraints by explicitly modeling semantic relationships among labels. This approach reduces the reliance on large labeled datasets and can be extended to other domains where external knowledge is available, paving the way for more data-efficient multi-label learning systems.  
+
+Keywords: Knowledge-Guided Learning, Multi-Label Classification, Few-Shot Learning, Image Recognition, Knowledge Graph, Semantic Embeddings.

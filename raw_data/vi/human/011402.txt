@@ -1,0 +1,1 @@
+Lý do lựa chọn Facenet dễ sử dụng, mô hình chỉ cần thu thập dữ liệu ảnh được căn chỉnh tối ưu về vùng cắt của mặt điểm đưa ra kết quả tốt. Ngoài ra, Facenet luôn đáp ứng một hiệu suất vô cùng ổn định với một số lượng dữ liệu ảnh rất lớn.

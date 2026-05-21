@@ -1,0 +1,1 @@
+Bên cạnh những thành công đạt được, đồ án vẫn còn một số hạn chế. Lượng dữ liệu chưa đủ lớn, chưa tận dụng được tố đia ưu thế của Web ngữ nghĩa. Khả năng tương tác của chatbot còn khá giới hạn, cần xây dựng thông minh hơn để tăng trải nghiệm người dùng. Trang web chỉ ở mức độ cơ bản, còn cần cải thiện tính năng.

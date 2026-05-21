@@ -1,0 +1,1 @@
+Đô kh, mô hình điơn gản và được huấn luyện trên dữ liệu lớn dẫn đến điộ chệch lớn, gọi là mô hình bị chệch. Để gảm điộ chệch, ta sử dụng mô hình phức tạp hơn với khả năng bểu dễn tốt hơn. Tuy nhên, mô hình quá phức tạp có thể gây ra hiện tượng phương sa.

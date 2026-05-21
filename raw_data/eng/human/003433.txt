@@ -1,0 +1,1 @@
+Chapter 2 will describe the blockchain definition, smart contracts, vulnerabilities in smart contracts, and artificial intelligence knowledge related to this research.

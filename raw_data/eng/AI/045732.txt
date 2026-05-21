@@ -1,0 +1,1 @@
+The Download Screenshot sub-use case enables users to obtain screenshots captured during the analysis process, providing visual documentation of application screens, suspicious activities, or indicators of security vulnerabilities as the file operates within the system. This feature supports thorough review and evidence collection.

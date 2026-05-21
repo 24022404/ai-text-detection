@@ -1,0 +1,1 @@
+In addition, the study also builds a business process to rotate goods in the ware house based on the inventory results as shown in Figure 5.14:Figure 5.14: Business process of inventory rotation The detailed description of the process of moving goods in the warehouse is as follows:

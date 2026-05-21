@@ -1,0 +1,9 @@
+Objective: Deep metric learning (DML) models embed images into a feature space where similarity is captured by distance metrics, enabling applications such as image retrieval, face recognition, and clustering. However, their decision-making process remains opaque, limiting trust and debuggability. This paper introduces Metric-CAM, a novel visual explanation framework tailored to pairwise similarity models.  
+
+Methods: Metric-CAM extends class activation mapping to DML by computing gradient‐weighted feature importance for image pairs. Given two inputs, our approach derives attention maps that highlight regions most influential to their computed distance. We further incorporate prototype‐guided aggregation to distill both local (instance‐level) and global (class‐level) explanations without altering the original embedding network.  
+
+Results: We evaluate Metric-CAM on benchmark datasets (CUB-200-2011, Stanford Cars, and SOP) using quantitative faithfulness metrics (insertion/deletion) and a human interpretability study. Compared to baseline methods (Grad-CAM, LIME adapted to DML), Metric-CAM achieves a 25% higher faithfulness score and is preferred by 72% of participants for clarity and consistency. Crucially, explanation generation incurs negligible overhead and does not degrade embedding performance.  
+
+Conclusion: Metric-CAM offers the first systematic, model‐agnostic visual explanation for deep metric learners, enhancing transparency and facilitating model debugging, bias detection, and user trust. Its generality makes it applicable across diverse DML architectures and domains.  
+
+Keywords: deep metric learning, visual explanation, interpretability, class activation mapping, similarity learning.

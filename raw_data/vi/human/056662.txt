@@ -1,0 +1,1 @@
+Laravel có tốc độ xử lý nhanh, dễ sử dụng, di chuyển cơ sở dữ lệu dễ dàng và tính bảo mật cao. Trên đây, em đã trình bày sơ lược về những ưu điểm của Laravel Framework, ch tết về công nghệ này sẽ được trình bày ở chương 3 mục 3.1.

@@ -1,0 +1,1 @@
+Thư viện này cung cấp một loạt các công cụ mạnh mẽ cho việc xây dựng và huấn luyện các mô hình học máy. Người dùng có thể tạo ra các mạng nơron thông thường và cơ bản, cũng như các mô hình nâng cao hơn như mạng nơron tích chập (CNN) cho việc xử lý hình ảnh và mạng nơron hồi quy (RNN) cho việc xử lý dữ liệu tuần tự và chuỗi.

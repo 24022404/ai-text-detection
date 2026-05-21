@@ -1,0 +1,1 @@
+Các thành phần này có logic và điều khiển của chúng và chúng có thể được sử dụng lạ trong toàn bộ ứng dụng, do gió làm giảm đáng kể thờ gan phát triển của ứng dụng.

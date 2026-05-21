@@ -1,0 +1,1 @@
+Như vậy, trong chương 4 em đã trình bày tổng quan về thiết kế biểu đồ gói, thiết kế cơ sở dữ lệu, thiết kế giao diện cho hệ thống cùng kết quả xây dựng hệ thống.

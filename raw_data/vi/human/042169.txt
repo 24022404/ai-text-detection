@@ -1,0 +1,1 @@
+Loại bỏ các tập không phổ biến: Loại bỏ các tập ứng cử không đáp ứng điều kiện support threshold, giúp giảm số lượng tập temset cần phân tích trong bước tiếp theo.

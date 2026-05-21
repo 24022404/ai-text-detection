@@ -1,0 +1,1 @@
+D. Bahdanau, K. Cho andY. Bengio, Neural machine translation by jointly learning to align and translate , cite arxiv:1409.0473Comment: Accepted at ICLR 2015 as oral presentation, 2014. url:

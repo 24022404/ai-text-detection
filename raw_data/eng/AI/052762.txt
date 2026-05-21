@@ -1,0 +1,1 @@
+The helpdesk system is structured into distinct packages: Helpdesk, Project, Customer, Agent, Admin, and Authentication. Each package corresponds to a specific subapplication, grouping related classes and functions, which are visually represented in the diagram above.

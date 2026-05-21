@@ -1,0 +1,1 @@
+Handling Non-Linearity: Cryptocurrency prices are influenced by a multitude of factors, including market sentiment, news, and external events. LSTM’s ability to capture non-ar relationships makes it suitable for handling the intricate and dynamic nature of crypto markets.

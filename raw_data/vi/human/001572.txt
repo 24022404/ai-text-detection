@@ -1,0 +1,1 @@
+Một trong những ưu điểm quan trọng của WebRTC  là tính đơn giản và dễ sử dụng. Nó cung cấp một API mạnh mẽ cho các nhà phát triển web để tạo ra các ứng dụng truyền thông thờ gan thực một cách dễ dàng. Bên cạnh đó, việc sử dụng truyền thông peer to peer giữa các thiết bị giảm thiểu độ trễ và tăng tính ổn định của kết nối.

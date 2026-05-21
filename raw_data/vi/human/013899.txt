@@ -1,0 +1,1 @@
+Hệ thống được xây dựng theo bộ công cụ lập trình mã nguồn mở lên quan tớ Javascript là MERN Stack bao gồm M (MongoDB), E (ExpressJs), R (ReactJs) và N (NodeJs). Hệ thống gồm hai phần chính:

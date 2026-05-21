@@ -1,0 +1,1 @@
+Tích hợp ZAP API vào ứng dụng: Em đã thực hiện tích hợp ZAP API vào ứng dụng web để có thể gọi các chức năng của ZAP từ phía người dùng và nhận các kết quả kiểm thử từ ZAP API.

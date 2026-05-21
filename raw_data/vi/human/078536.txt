@@ -1,0 +1,1 @@
+Phương án giải quyết a, Xác thực JSON Web Token (JWT) là một chuẩn mở (RFC 7519) định nghĩa một cách nhỏ gọn và khép kín để truyền một cách an toàn thông tin giữa các bên dưới dạng đối tượng JSON. Thông tin này được xác minh và đáng tin cậy vì nó có chứa chữ ký số.

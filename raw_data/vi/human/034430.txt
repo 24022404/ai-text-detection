@@ -1,0 +1,1 @@
+Thực thể này có thuộc tính là Mã bà đăng (Blog ID), Tên bà đăng (name), Nộ dung bà điăng (content), Số lượt thích (total lke),. . .Thuộc tính Kểu dữ lệu Khóa blog_d nt Khóa chính content nvarchar(MAX) create_date date number_comment nt status nt ttle nvarchar(MAX) total_ds_lke nt total_lke nt update_date date account_d nt Bảng 4.3: Bảng Blog.

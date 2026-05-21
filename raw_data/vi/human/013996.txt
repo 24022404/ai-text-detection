@@ -1,0 +1,1 @@
+Trong đồ án này, em sử dụng SO vào ba lớp đó là lớp ItemS nhằm lưu trữ các thông tin của một team, lớp DatabaseS nhằm lưu trữ thông tin của mọi tem trong game và cuối cùng là lớp inventory điểm lưu trữ thông tin của hành trang nhân vật.

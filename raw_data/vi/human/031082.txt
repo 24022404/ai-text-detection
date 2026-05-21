@@ -1,0 +1,1 @@
+Giá trị: những giá trị cụ thể cho việc phân khúc. Ví dụ độ tuổi lớn hơn 18 thì 18 chính là giá trị.

@@ -1,0 +1,1 @@
+C. Chu, R. Dabre andS. Kurohashi, “An empirical comparison of domain adaptation methods for neural machine translation.,” inACL (2) R. Barzilay andM.-Y. Kan, editors , Association for Computational Linguistics, 2017, pages 385–391, ISBN: 978-1-945626-76-0. url:

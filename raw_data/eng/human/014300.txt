@@ -1,0 +1,1 @@
+Reactivity: Streamlit features reactive updates, automatically updating data and the user interface when changes occur. This creates a smooth and interactive user experience.

@@ -1,0 +1,1 @@
+In addition to these methods, ObjectPoolManagement has a GetPool() method, which allows finding a specific pool based on the object or string passed in.

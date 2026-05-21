@@ -1,0 +1,1 @@
+Trong những năm gần đây, bài toán này được đông đảo công đồng nghiên cứu xử lý ngôn ngữ tự nhiên (NLP) đặc biệt quan tâm. Bài toán xác định và phân loại văn bản thành các cảm xúc khác nhau như tích cực (positive), tiêu cực (negative), trung bình (neutral) hoặc là cảm xúc như vui, buồn, tức giận,v.v. để xác định cảm xúc con người đối với chủ đề hay thực thể cụ thể.

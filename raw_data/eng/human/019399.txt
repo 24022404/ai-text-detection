@@ -1,0 +1,1 @@
+NodeJS provides a rich library of modules for various purposes, such as connecting to databases, creating HTTP servers, handling HTTP requests and responses, and more.

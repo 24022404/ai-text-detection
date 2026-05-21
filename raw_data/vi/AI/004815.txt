@@ -1,0 +1,3 @@
+Mô hình trí tuệ nhân tạo dự báo phát tán phóng xạ tại mỏ đồng Sin Quyen đang được xây dựng để cải thiện hiệu suất và an toàn trong quá trình khai thác mỏ. Mô hình này sử dụng các thuật toán học máy để phân tích dữ liệu về địa chất, khí hậu và các yếu tố khác ảnh hưởng đến quá trình khai thác. 
+
+Mô hình dự báo sẽ giúp các nhà khai thác dự đoán và ngăn chặn các sự kiện nguy hiểm như sự cố phóng xạ, giúp giảm thiểu rủi ro và bảo vệ môi trường. Đồng thời, mô hình này cũng sẽ giúp tăng cường hiệu suất khai thác, giảm chi phí và tăng sản lượng.

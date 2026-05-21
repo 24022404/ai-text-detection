@@ -1,0 +1,1 @@
+Chức năng đánh giá điểm cho dịch vụ cloud Người dùng chọn một dịch vụ đám mây bất kỳ nào nếu muốn đánh giá điểm.

@@ -1,0 +1,1 @@
+Phương pháp word2vec định nghĩa ha vector nhúng có cùng chiều cho mỗ từ vựng trong bộ từ vựng. Word2vec sử dụng ha vector nhúng khác nhau đại diện cho từ mục tiêu và từ ngữ cảnh. Kh từ là từ mục tiêu, vector nhúng của nó được đại diện bở u. Trong kh từ là một từ ngữ cảnh, vector nhúng của nó là v. Bở vậy phương pháp cần hai ma trận nhúng vàO cho các từ mục tiêu và từ ngữ cảnh.

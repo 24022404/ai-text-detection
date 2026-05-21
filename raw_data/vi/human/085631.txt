@@ -1,0 +1,1 @@
+InterManager sẽ được sử dụng bở lớp GameplayManager điểm thực hiện các logic trong game như sinh quá, quản lý số lượng quá trên bản đồ, v.v.

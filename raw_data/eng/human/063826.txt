@@ -1,0 +1,1 @@
+Masked LM (MLM): Before inputting word sequences into BERT, 15% of the words are replaced with a [MASK] token. BERT then predicts the original values of the masked words by considering the context provided by the remaining non-masked words in the sequence. Technically, this prediction process involves:

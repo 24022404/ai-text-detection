@@ -1,0 +1,1 @@
+Vớ nhận định rằng các thông tin quan sát của agent về môi trường là tương đối đầy đủ do có số lượng cảm biến khá dày. Ta thấy hệ thống có thể được cải tiến về mặt mô hình và thử nghiệm giảm số lượng cảm biến để tối ưu hóa hệ thống, giảm thiểu chi phí.

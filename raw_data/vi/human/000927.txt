@@ -1,0 +1,1 @@
+Phía backend: Xây dựng các chức năng phía backend phù hợp với đối tượng người dùng Khách hàng: chức năng đăng ký, tìm kiếm, xem thông tin homestay, các bà nhận xét. . .

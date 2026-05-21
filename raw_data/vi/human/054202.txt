@@ -1,0 +1,1 @@
+ZAP cũng hỗ trợ tích hợp với các công cụ và quy trình tự động hóa. Điều này giúp em tích kiệm thờ gần và công sức trong việc thực hiện các bước kiểm thử và quản lý lỗ hổng bảo mật. OWASP ZAP API có thể tích hợp vào quy trình CICD (Continuous Integration/Continuous Deployment) của hệ thống, đảm bảo rằng việc kiểm thử và bảo mật được thực hiện một cách liên tục và tự động.

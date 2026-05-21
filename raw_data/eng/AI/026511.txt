@@ -1,0 +1,1 @@
+QWeb is an XML-based templating engine integral to Odoo, enabling the generation and customization of reports, HTML fragments, and entire web pages. With QWeb, users can easily apply various styles and formatting options, tailoring outputs to specific needs. This flexibility has earned QWeb the designation of a report engine.

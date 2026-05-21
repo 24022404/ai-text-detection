@@ -1,0 +1,1 @@
+Quản lý thông tin cá nhân: Mổ người dùng sẽ có một trang cá nhân riêng trong hệ thống. Người dùng có thể quản lý các thông tin của bản thân trong đó.

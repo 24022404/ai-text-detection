@@ -1,0 +1,1 @@
+Axis:  Chúng là dòng số giống như các đối tượng và đảm nhiệm việc tạo các giới hạn biểu đồ.

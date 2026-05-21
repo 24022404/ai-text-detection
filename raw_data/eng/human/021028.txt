@@ -1,0 +1,1 @@
+where Dkis the training set of task Tk. To compare with original CRL model, I include CE loss LCEto the overall loss, and train model on two versions, with and without LCE:

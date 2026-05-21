@@ -1,0 +1,1 @@
+Tổng quan chức năng Hệ thống thu thập và đánh giá sản phẩm trên các trang thương mại điện tử gồm nhiều thành phần và chức năng khác nhau. Hình 5.1 dưới đây mô tả tổng quan chức năng của toàn bộ hệ thống.

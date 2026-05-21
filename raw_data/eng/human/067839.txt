@@ -1,0 +1,1 @@
+VGG16 improves on AlexNet and replaces the large filters with sequences of layer and 5 for the second layer. The researchers trained the VGG model for severalweeks using NVIDIA Titan Black GPUs.

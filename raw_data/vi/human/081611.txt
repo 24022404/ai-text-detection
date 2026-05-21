@@ -1,0 +1,1 @@
+Yêu cầu hệ thống điể cà điặt Laravel : Để có thể cà Laravel, chúng ta phải điáp ứng được các yêu cầu bắt buộc sau:

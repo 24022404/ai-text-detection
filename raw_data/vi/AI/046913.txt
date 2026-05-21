@@ -1,0 +1,5 @@
+Kết quả tính toán nhiệt thủy hóa trong bê tông khối lớn bằng phần mềm Midas Civil và Ansys đã được so sánh và phân tích. Các kết quả cho thấy rằng cả hai phần mềm đều có thể mô hình hóa và tính toán chính xác quá trình nhiệt thủy hóa trong bê tông khối lớn. Tuy nhiên, phần mềm Ansys cho thấy sự chính xác cao hơn trong việc mô hình hóa quá trình nhiệt thủy hóa, đặc biệt là trong việc tính toán độ ẩm và nhiệt độ trong bê tông.
+
+Phần mềm Midas Civil cũng cho thấy kết quả chính xác, nhưng có thể bị ảnh hưởng bởi các yếu tố như độ dày của bê tông và cường độ của tải trọng. Kết quả này cho thấy rằng việc lựa chọn phần mềm phù hợp là rất quan trọng trong việc tính toán nhiệt thủy hóa trong bê tông khối lớn.
+
+Kết quả so sánh này cũng cho thấy rằng việc sử dụng phần mềm Ansys có thể giúp giảm thiểu rủi ro và tăng cường độ tin cậy trong việc thiết kế và xây dựng các công trình bê tông khối lớn. Tuy nhiên, cần phải tiếp tục nghiên cứu và phân tích để xác định được phần mềm phù hợp nhất cho từng trường hợp cụ thể.

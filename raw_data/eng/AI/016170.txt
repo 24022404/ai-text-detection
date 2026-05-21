@@ -1,0 +1,1 @@
+TID 672 identifies the main thread managing this event, matching the PID as expected for main threads.

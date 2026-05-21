@@ -1,0 +1,9 @@
+Objective: Deep convolutional neural networks (CNNs) deliver state-of-the-art performance in computer vision but incur heavy computational and memory costs. This paper investigates whether network pruning can be carried out effectively without full retraining—and if not, how minimal retraining can restore accuracy—thereby enabling efficient deployment on resource-constrained devices.
+
+Methods: We introduce two complementary pruning schemes. The first (“zero-retrain pruning”) uses layer-wise weight saliency thresholds to remove uninformative filters in a single pass. The second (“light-retrain pruning”) applies structured filter removal followed by fast fine-tuning over 10 epochs. Both methods employ global magnitude and activation statistics to select pruning candidates. We evaluate on standard CNN benchmarks (VGG-16, ResNet-50) over CIFAR-10 and ImageNet datasets, comparing against conventional magnitude-based pruning with full retraining.
+
+Results: Zero-retrain pruning reduces parameter count by up to 68% and cuts floating-point operations by 55%, while retaining 90–93% of baseline accuracy without any retraining. Light-retrain pruning achieves a similar parameter reduction but recovers to within 1% of original accuracy using only 20% of the typical fine-tuning budget. Compared to full-retrain baselines, our techniques reduce overall compression time by 60–75%.
+
+Conclusion: Our study demonstrates that effective CNN pruning can often forgo extensive retraining, or recuperate accuracy with minimal fine-tuning. These findings offer practical guidelines for on-device model compression and pave the way for agile CNN deployment in embedded and edge environments.
+
+Keywords: deep CNN, model pruning, retraining, model compression, edge deployment

@@ -1,0 +1,1 @@
+Aspect Volume Unit Java Code (Application Side) 1742 line Python Code (Data Pre-processing) 583 line Javascript Code (Server Side) 251 line Android Application 45 MB Server Application 40 MB Data 736 KB Table 4.2: Overall Statistic 4.2.3 Illustration of main functions The application has two main screens, the Launcher Screen and the AR Screen.

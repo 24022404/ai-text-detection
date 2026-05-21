@@ -1,0 +1,1 @@
+Khả năng chia sẻ: Nhà phát trển có thể dễ dàng tìm thấy các Image điược chia sẻ bở cộng đồng trên Docker Hub. Điều này gúp gảm bớt thờ gan tạo Image so với cách thông thường, tăng tốc điộ phát trển phần mềm.

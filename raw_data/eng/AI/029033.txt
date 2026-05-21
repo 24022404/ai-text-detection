@@ -1,0 +1,1 @@
+Identifying browsable activities in an Android app requires scanning the AndroidManifest.xml file to find activities that include intent filters. These filters indicate that external apps or web content can access the activities, making them browsable.

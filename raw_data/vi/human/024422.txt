@@ -1,0 +1,1 @@
+Phân hệ hạ tầng trển kha Kubernetes: đióng va trò kết nối các phân hệ còn lạ trong hệ thống, đióng gó chúng và trển kha trên cùng một nền tảng.

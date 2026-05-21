@@ -1,0 +1,1 @@
+Hàm mất mát dựa trên hình ảnh Hàm mất mát dựa trên hình ảnh bao gồm thông tin về từng pixel màu và các đặc trưng 2D của khuôn mặt.

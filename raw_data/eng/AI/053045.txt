@@ -1,0 +1,10 @@
+Abstract  
+Objective: Conventional image captioning models often produce generic and repetitive descriptions that lack the richness and variability of human-generated captions. This work investigates how to endow captioning systems with human-like diversity while preserving descriptive accuracy.  
+
+Methods: We introduce a diversity-aware framework comprising three components. First, we define a novel diversity metric that balances n-gram distinctness with visual-semantic relevance, enabling quantifiable measurement of caption variation. Second, we augment the standard cross-entropy training loss with a reinforcement learning objective that rewards diverse yet faithful captions. Third, we propose DiverseBeamSearch, an extension of beam search that promotes exploration of alternative caption candidates.  
+
+Results: Experiments on the MSCOCO benchmark demonstrate that our method achieves comparable or improved performance on conventional metrics (BLEU, CIDEr, METEOR) while significantly boosting diversity scores (Distinct-n, Self-CIDEr). Qualitative analysis shows a richer set of plausible descriptions per image, and human evaluators rate our captions as more varied and human-like without sacrificing relevance.  
+
+Conclusion: By explicitly modeling and rewarding diversity, our approach generates captions that better reflect the multifaceted nature of human description. This work contributes a practical training and decoding recipe for diverse image captioning and underscores the importance of diversity in making vision-language systems more engaging and informative.  
+
+Keywords: image captioning, diversity, deep reinforcement learning, beam search, visual-semantic metrics, human-like descriptions

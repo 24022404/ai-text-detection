@@ -1,0 +1,1 @@
+Hamming loss: It reports how many times on average, the relevance of an example to a class label is incorrectly predicted. Therefore, hamming loss takes into account the prediction error (an incorrect label is predicted) and missing error (a relevant label not predicted), normalized over total number ofclasses and total number of examples.

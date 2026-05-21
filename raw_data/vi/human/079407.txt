@@ -1,0 +1,1 @@
+Thiết kế ô nhập liệu Cỡ chữ 14px, chiều cao 40px, bo góc 6px, căn lề xung quanh 10px, màu vền bình thường: xám, màu nền khi nhập liệu: xanh dương.

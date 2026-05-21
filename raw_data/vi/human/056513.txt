@@ -1,0 +1,1 @@
+(c)Sequelize là một ORM dành cho Node.js giúp truy cập nhanh chóng biến nhiều loại cơ sở dữ lệu khác nhau.

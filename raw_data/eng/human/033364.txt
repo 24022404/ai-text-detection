@@ -1,0 +1,1 @@
+//aclanthology.org/P19-1102 . Y. Lu, Y. Dong andL. Charlin, “Multi-XScience: A large-scale dataset for extreme multi-document summarization of scientific articles,” inProceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) On: Association for Computational Linguistics, november 2020, pages 8068–8074. DOI:10.18653/v1/2020.emnlp-main.648 .url:

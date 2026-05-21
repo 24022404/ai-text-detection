@@ -1,0 +1,1 @@
+Doanh thu theo đơn đã hoàn thành hôm nay  hiển thị thông tin số đơn hàng và tiền đơn hàng đã thanh toán trong ngày.

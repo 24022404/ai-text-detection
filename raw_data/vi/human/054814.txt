@@ -1,0 +1,1 @@
+Express.js là một framework phát triển backend của Node.js, được sử dụng rộng rãi trong các dự án web và mobile. Vớ Expressjs, lập trình viên có thể dễ dàng tạo các ứng dụng web động, ứng dụng RESTful API và ứng dụng đia người dùng.

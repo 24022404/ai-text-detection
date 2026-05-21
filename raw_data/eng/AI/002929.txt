@@ -1,0 +1,9 @@
+Objective: Generating realistic images from structured scene descriptions remains challenging due to inaccurate object placements and limited context modeling. This paper addresses the problem of translating scene graphs—graphical representations of objects and their relationships—into high-quality images by refining object layouts based on contextual cues.
+
+Methods: We propose a two-stage framework. First, an initial layout generator constructs coarse bounding boxes and segmentation masks directly from the input scene graph using graph convolution layers to encode object relations. Second, a Contextualized Object Layout Refinement (COLR) module iteratively adjusts each object’s position, scale, and shape by aggregating relational information from neighboring nodes in the scene graph. The refined layouts are then fed into a conditional generative adversarial network (GAN) to synthesize the final image.
+
+Results: Experiments on the Visual Genome and COCO-Stuff datasets show that our approach outperforms existing scene-graph-to-image methods in both image realism and layout fidelity. We achieve a 23% lower Fréchet Inception Distance (FID) and a 15% improvement in Intersection-over-Union (IoU) for object masks compared to the current state-of-the-art. Qualitative evaluations also demonstrate more coherent object interactions and fewer layout collisions.
+
+Conclusion: By integrating contextual refinement into the layout prediction process, our method produces more accurate and visually compelling images from scene graphs. This work enables improved scene synthesis for applications in virtual reality, content creation, and human–computer interaction.
+
+Keywords: scene graph, image generation, object layout refinement, generative adversarial network, context modeling, graph convolution.

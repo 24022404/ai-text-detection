@@ -1,0 +1,1 @@
+Trong phạm vi của đồ án, Xpress được sử dụng để xây dựng server chat gúp gửi tin nhắn messenger tự động cho người dùng.

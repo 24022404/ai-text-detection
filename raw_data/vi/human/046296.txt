@@ -1,0 +1,1 @@
+Mô hình nhận diện được huấn luyện trên tập dữ liệu huấn luyện sau khi được tăng cường bở phương pháp dựng khuôn mặt 3D. Mô hình nhận diện sẽ trả ra kết quả là đặc trưng khuôn mặt được biểu diễn bởi vector 512 chiều và được lưu trữ trong cơ sở dữ liệu.

@@ -1,0 +1,1 @@
+Nhấn Tạo mới. Hệ thống hiển thị thông báo “Thêm gá sale thành công”, cập nhật vào cơ sở dữ liệu và trở về trang quản lý sản phẩm.  Hệ thống hiển thị thông báo “Thêm gá sale thành công”, cập nhật vào cơ sở dữ liệu và trở về trang quản lý sản phẩm.

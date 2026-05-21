@@ -1,0 +1,1 @@
+Ứng với mỗi công nghệ được sử dụng vào hệ thống, chúng tôi có những phân tích rõ ràng công dụng của công nghệ này, và trả lời một số câu hỏi như tạ sao lại sử dụng nó, sử dụng nó để gả quyết vấn đề gì, ngoài công nghệ này còn có thể dùng công nghệ nào khác thay thế, ưu nhược điểm khi sử dụng những công nghệ thay thế đó.

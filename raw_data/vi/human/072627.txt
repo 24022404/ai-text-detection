@@ -1,0 +1,1 @@
+storage : chứa các fle blade template điã điược phên dịch (compled), các file sesson, file cache và một số file khác được tạo bơ framework. Thư mục này gồm app, framework và logs.

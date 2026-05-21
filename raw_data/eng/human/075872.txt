@@ -1,0 +1,1 @@
+A set of regular expressions or patterns designed to detect sensitive in formation, such as email addresses, API keys, authentication tokens, and passwords.

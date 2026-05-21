@@ -1,0 +1,1 @@
+Use case request to be supplierThe suppliers must request to be suppliers by filling in all the required informa tion. After the request sends successfully, the System will send an email with the link to follow the recommendation.

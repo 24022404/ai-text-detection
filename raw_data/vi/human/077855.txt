@@ -1,0 +1,1 @@
+Bài toán nhận diện vật thể ngày càng phổ biến trong đời sống của chúng ta. Hơn một thập kỷ qua, có rất nhiều công trình nghiên cứu về bài toán xác định vật thể.

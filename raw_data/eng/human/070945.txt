@@ -1,0 +1,1 @@
+h=LN(W[concat (h11, h21)] +b), where h11, h21are the hidden representations of [E11]and[E21]and LN is a Layer Normalization layer. hserves as the logit for later calculating Cross-Entropy loss.

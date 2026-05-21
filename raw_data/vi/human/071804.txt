@@ -1,0 +1,1 @@
+Test Lab (Phòng thí nghệm) Frebase Test Lab là một dịch vụ dựa trên điám mây cho phép các nhà phát trển thử nghệm ứng dụng của họ trên nhều thiết bị và cấu hình khác nhau. Điều này giúp họ điảm bảo ứng dụng hoạt động tốt trên nhều loạ thiết bị và trong các điều kện mạng khác nhau.

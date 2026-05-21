@@ -1,0 +1,11 @@
+Ứng dụng một số bài tập bổ trợ nhằm nâng cao kỹ thuật đá tạt cho nam môn sinh tại Câu lạc bộ Vovinam là một sáng kiến nhằm cải thiện kỹ năng đá tạt của các thành viên nam môn sinh tại Câu lạc bộ Vovinam. Bài tập bổ trợ này bao gồm các kỹ thuật đá tạt cơ bản và nâng cao, giúp các thành viên phát triển kỹ năng và tăng cường khả năng chiến đấu.
+
+Các bài tập bổ trợ bao gồm:
+
+- Kỹ thuật đá tạt cơ bản: Bài tập này giúp các thành viên học cách sử dụng chân và tay để đá tạt, đồng thời phát triển kỹ năng phối hợp giữa các bộ phận cơ thể.
+
+- Kỹ thuật đá tạt nâng cao: Bài tập này giúp các thành viên học cách sử dụng kỹ thuật đá tạt phức tạp hơn, bao gồm đá tạt với nhiều hướng và tốc độ khác nhau.
+
+- Bài tập phối hợp: Bài tập này giúp các thành viên học cách phối hợp giữa các kỹ thuật đá tạt với các kỹ thuật khác, như đá tạt và đánh chặn.
+
+Mục tiêu của ứng dụng này là giúp các thành viên nam môn sinh tại Câu lạc bộ Vovinam nâng cao kỹ thuật đá tạt và trở thành những chiến binh giỏi hơn.

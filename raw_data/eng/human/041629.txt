@@ -1,0 +1,1 @@
+Y. Sun, J. Han, X. Yan, P. S. Yu and. Wu, “Pathsim: Meta path based top k similarity search in heterogeneous information networks,” Proceedings of the VLDB Endowment ,jour vol 4,number 11,pages 992–1003, 2011.

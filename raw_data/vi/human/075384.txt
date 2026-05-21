@@ -1,0 +1,1 @@
+Tùy chỉnh động: CSS cho phép lập trình viên tùy chỉnh động cho các thành phần của trang web, bao gồm việc định dạng, sắp xếp, và hoạt động của các đối tượng trên trang web.

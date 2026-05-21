@@ -1,0 +1,1 @@
+Thư viện frontend Thư viện Ant Design là tập hợp các components của React, được xây dựng theo chuẩn thiết kế của Ant UED Team. Các component của Ant Design đều là các component thông dụng trong web hiện điạ ví dụ như Layout, Button, Icon,. . . Bên cạnh đó, Ant Design cho phép người dùng tùy chỉnh các thuộc tính một cách dễ dàng.

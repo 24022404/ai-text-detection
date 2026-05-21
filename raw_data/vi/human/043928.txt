@@ -1,0 +1,1 @@
+Nhiệm vụ chính của thành phần này chỉ đơn giản là quản lý dữ liệu. Model sẽ chịu trách nhiệm quản lý dữ liệu từ cơ sở dữ liệu, API hay JSON. Trong ứng dụng, Model chứa các đối tượng (cây) với tất cả thông tin (dữ liệu) cần thiết cho ứng dụng.

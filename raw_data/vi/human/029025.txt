@@ -1,0 +1,1 @@
+Biểu đồ được thể hiện trong hình 2.5. Use case xem thông tin chi tiết cho phép khách, người dùng có thể xem các thông tin về dịch vụ đám mây như nhà cung cấp, chứng chỉ...Use case xem top các dịch vụ đánh giá cao dành cho người dùng.

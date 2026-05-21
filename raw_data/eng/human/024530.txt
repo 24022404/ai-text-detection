@@ -1,0 +1,1 @@
+In chapter 3, I will go into the technologies used to build the app, and how that technology is used to solve the functional requirements stated in chapter 2.

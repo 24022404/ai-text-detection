@@ -1,0 +1,1 @@
+V(Vew): Có nhệm vụ tếp nhận dữ lệu từ controller và hển thị nộ dung sang các đioạn mã HTML, bạn có thể hiểu nôm na điây người ta gọi là thành phần giao diện.➢C(Controller): Đóng và trò trung gan gữa Model và Vew. Nó có nhệm vụ tếp nhận yêu cầu từ client sau đió xử lý request, load model tương ứng rồ trả kết quả về cho client.

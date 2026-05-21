@@ -1,0 +1,1 @@
+Chọn Cập nhật tài khoản.  Hệ thống hiển thị thông báo “Đền các trường thông tin bắt buộc”.  Hệ thống hiển thị thông báo “Đền các trường thông tin bắt buộc”.  Đạt TC03  1. Đ tớ mục Tài khoản của tô.

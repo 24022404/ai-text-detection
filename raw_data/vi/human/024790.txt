@@ -1,0 +1,1 @@
+getChar Data() : lấy dữ liệu tiền quyên góp qua các tháng để làm dữ liệu cho đồ thị hiển thị cho nhà hảo tâm.

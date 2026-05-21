@@ -1,0 +1,9 @@
+Objective: Automated game testing often relies on scripted scenarios or random exploration, resulting in limited coverage and missed defects. This paper introduces a deep reinforcement learning (DRL) framework that autonomously navigates game environments to uncover bugs and validate gameplay mechanics.  
+
+Methods: We design an RL-based test agent that learns to maximize a composite reward reflecting code coverage, state diversity, and error detection. The agent employs policy-gradient optimization with curriculum learning, allowing it to tackle progressively complex levels. To guide exploration, we integrate lightweight reward shaping based on in-game events (e.g., collisions, item pickups) and employ memory-based state encoding to avoid redundant trajectories.  
+
+Results: Experiments on three diverse 3D platformer prototypes demonstrate that our DRL agent increases test coverage by up to 45% and reveals 60% more unique defects compared to baseline random and rule-based testers. Training converges within 100,000 interaction steps per level, translating to a 30% reduction in overall testing time. Qualitative analysis shows the agent’s ability to discover edge-case sequences, such as out-of-bounds exploits and timing-sensitive physics glitches.  
+
+Conclusion: By harnessing deep reinforcement learning, our approach advances automated game testing beyond traditional methods, offering scalable, adaptive exploration that improves defect detection and reduces manual effort. The proposed framework is readily extensible to different game genres and testing objectives, paving the way for intelligent quality-assurance pipelines.  
+
+Keywords: automated game testing; deep reinforcement learning; reinforcement learning agent; reward shaping; game quality assurance.

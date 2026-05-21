@@ -1,0 +1,1 @@
+Vệc che một tỷ lệ lớn của hình ảnh điầu vào, chẳng hạn như 75%, cho phép điào tạo các mô hình lớn một cách hiệu quả và hiệu quả, tăng tốc điào tạo gấp 3 lần trở lên và cả thiện điộ chính xác.

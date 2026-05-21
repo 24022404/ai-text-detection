@@ -1,0 +1,10 @@
+Abstract  
+We propose the Dual Contradistinctive Generative Autoencoder (DCGAE), a novel framework that integrates generative modeling with dual contrastive objectives to improve both sample synthesis and latent representation quality. Traditional autoencoders often face a trade-off between reconstruction fidelity and meaningful latent embeddings, while contrastive methods excel at representation learning but lack strong generative capabilities. DCGAE addresses these limitations by combining a reconstruction loss in data space with an adversarial contrastive loss in latent space and a feature-level contrastive loss in output space.  
+
+In our approach, an encoder–decoder backbone is augmented with two synchronized contrastive modules: one encourages semantically similar inputs to map to proximate latent codes, and the other enforces diversity and fidelity among generated samples by contrasting intermediate feature representations. We train the model end-to-end using a unified objective that balances reconstruction, generative adversarial, and contrastive terms.  
+
+Empirical evaluations on benchmark datasets (e.g., CIFAR-10, CelebA) demonstrate that DCGAE outperforms state-of-the-art variational and adversarial autoencoders in terms of Fréchet Inception Distance (FID), reconstruction error, and downstream classification accuracy. Ablation studies confirm the complementary benefits of the two contrastive components.  
+
+Our contributions include (1) a dual contrastive learning strategy within a generative autoencoder, (2) a stable training procedure unifying multiple loss terms, and (3) superior performance on synthesis and representation tasks. DCGAE offers a versatile foundation for applications in image generation, representation learning, and data augmentation.  
+
+Keywords: generative autoencoder, contrastive learning, representation learning, adversarial training, image synthesis.

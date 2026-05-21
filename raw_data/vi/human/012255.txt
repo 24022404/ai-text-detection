@@ -1,0 +1,1 @@
+Tầng logic bao gồm các thành phần thực hiện nghiệp vụ của ứng dụng có tác dụng là cầu nối giữa tầng giao vận và tầng dữ lệu. Nó xử lý các yêu cầu từ tầng giao diện và thực hiện các yêu cầu nghiệp vụ. Sau đó trả kết quả tương ứng cho tầng giao diện.

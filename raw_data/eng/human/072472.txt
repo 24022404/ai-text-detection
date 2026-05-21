@@ -1,0 +1,1 @@
+Once the view is finalized, The DispatcherServlet passes the model data to the picture which is finally rendered on the browser.

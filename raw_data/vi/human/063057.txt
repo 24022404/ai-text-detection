@@ -1,0 +1,1 @@
+Khách hàng, Người dùng (Khách hàng đăng ký tài khoản để trở thành Người dùng), Host (Người dùng đăng tải thông tin về homestay của mình để trở thành Host), và Quản trị viên. Ứng với mỗi tác nhân là những vai trò, chức năng cụ thể trong hệ thống.

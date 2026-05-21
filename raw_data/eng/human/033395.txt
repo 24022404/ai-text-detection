@@ -1,0 +1,1 @@
+Parameter type Local Google cloud vps CPU Intel core I5-4210H 2.9 MhzIntel(R) Xeon(R) CPU @ 2.20GHz RAM 8GB 2GB ROM 128GB SSD , 500GB HDD20GB HDD OS Windows 10 Pro 64-bit Linux 11 Graphic VGA GTX 850m (4GB) No Table 5.4: Environment parameter implementation5.3.2 Implementation results Below is a picture of ten accounts working at the same time to test the product’s performance:

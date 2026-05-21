@@ -1,0 +1,1 @@
+But there are some problems with ReLU activation function such as explod ing gradient. The exploding gradient is opposite of vanishing gradient and occurswhere large error gradients accumulate and result in very large updates to neu ral network model weights during training. Due to this, the model is unstable and unable to learn from your training data.

@@ -1,0 +1,1 @@
+Yêu cầu về giao diện Ngôn ngữ sử dụng là Tiếng Việt, giao diện thân thiện với người dùng.3.1 Ngôn ngữ lập trình Kotlin Kotlin là một ngôn ngữ lập trình được giới thiệu vào năm 2011 bở JetBrains.

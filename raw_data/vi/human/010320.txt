@@ -1,0 +1,1 @@
+Thứ tự, cấu trúc các màn hình: các màn hình phải điược sắp xếp hợp lý, chỉ nên cần tố đia 3 đến 4 chạm (số lần tương tác trên màn hình giao diện) điể người dùng thực hiện điược mục điích của mình.

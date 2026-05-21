@@ -1,0 +1,1 @@
+Kh xây dựng ứng dụng game, lựa chọn cơ sở dữ liệu ph quan hệ MongoDB, đảm bảo thời gian truy cập nhanh nhất, kết hợp thư viện SocketIO mang đến tính chất “realtime” cho việc chơi available

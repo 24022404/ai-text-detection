@@ -1,0 +1,1 @@
+Khảo sát hiện trạng từ đó đưa ra giải pháp của hệ thống, từ đó chỉ ra đối tượng sử dụng, trình bày tổng quan, phân tích, làm rõ các chức năng nghiệp vụ, phân tích quy trình nghiệp vụ, đặc tả các chức năng và các yêu cầu phi chức năng, . . .

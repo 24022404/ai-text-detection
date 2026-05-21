@@ -1,0 +1,1 @@
+Áp dụng công thức Cosin Smarty để tính toán độ tương tự giữa các cặp sản phẩm dựa trên các vector này.

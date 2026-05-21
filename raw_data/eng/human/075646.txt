@@ -1,0 +1,1 @@
+ReactJS allows developers to write applications directly on JavaScript. Add to that JSX, one of the characteristics that makes ReactJS not just simple but also more enjoyable. Now that they can design a new feature and see it in action live, developers can include HTML snippets directly into JavaScript.

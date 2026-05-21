@@ -1,0 +1,1 @@
+When the System has many redundant data such as in table supplier request. In case requests are no longer to approved because of some reasons. What should I do to save admin work? I thought, I will reject all request if exist a setting time.

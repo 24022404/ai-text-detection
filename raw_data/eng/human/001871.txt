@@ -1,0 +1,1 @@
+ReactJS is an opensource developed by Facebook, launched in 2013, itself is a Javascript library used to build interactions with components on the website. One of the most outstanding features of ReactJS is that rendering data can not only be done on the Server layer, but also below the Client.

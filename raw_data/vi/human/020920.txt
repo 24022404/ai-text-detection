@@ -1,0 +1,1 @@
+Vớ ứng dụng này người dùng có khả năng truy cập và khai thác các thông tin một cách hiệu quá: các thông tin về lớp học, thời khóa biểu, tra cứu sinh viên, giảng viên, nhắc lịch học. Tuy nhiên phần mềm này còn khá là hạn chế và đôi lúc xảy ra sai sót trong quá trình nhắc lịch học cho các bạn sinh viên.

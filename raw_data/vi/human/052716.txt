@@ -1,0 +1,1 @@
+Rendering đa dạng: Extjs hỗ trợ ha phương pháp render: Serverside Rendering (SSR) và Static Site Generator (SSG). Đều này cho phép bạn lựa chọn cách render tốt nhất cho từng trang của ứng dụng của mình. Bạn có thể render các trang động trên máy chủ (SSR) hoặc tạo các trang tĩnh trước (SSG) để tăng tốc độ tải trang.

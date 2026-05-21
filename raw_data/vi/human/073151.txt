@@ -1,0 +1,1 @@
+Các nút được sắp xếp theo dạng phân cấp vớ yêu cầu các chủ đề ở nút con là một nhánh hoặc một chủ đề phụ của chủ đề được biểu diễn ở nút cha.

@@ -1,0 +1,1 @@
+Description : This column provides a detailed explanation of the security issue, including why it is significant and the potential consequences if left un resolved. It may also include the conditions under which the issue occurs and its specific impact on the application.

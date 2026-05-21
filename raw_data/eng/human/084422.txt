@@ -1,0 +1,1 @@
+It provides a reliable method to acknowledge tasks from publishers and distribute them between workers. It serves as a fundamental component within the Trendz project, providing crucial functionality for the distribution and processing of tasks between publishers and workers.

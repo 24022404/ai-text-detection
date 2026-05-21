@@ -1,0 +1,1 @@
+[*] Microservices usually use communication via network interfaces while Mono liths application functions communicate internally. Read/Write speed of hardware (CPU cache, RAM or SSD) should always be faster than communication over the Internet.

@@ -1,0 +1,1 @@
+Mặc dù hiện nay MongoDB rất phổ biến, các diễn đàn về công nghệ thông tin cũng như các khóa học hiện nay hầu như điều sử dụng MongoDB vì những lợi ích của hệ quản trị cơ sở dữ liệu này : () tiện lợi và nhanh chóng trong việc lưu trữ, () tự do lưu trữ mà không có ràng buộc. Nhưng cũng chính vì vậy mà em không lựa chọn MongoDB cho đồ án môn học, bở các lý do:

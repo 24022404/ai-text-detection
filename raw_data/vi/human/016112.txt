@@ -1,0 +1,1 @@
+Các giải pháp cho vấn đề này thường liên quan đến các kỹ thuật có thể tìm ra hoặc tạo ra thêm thông tin hữu ích từ số lượng dữ liệu hạn chế có sẵn. Qua khảo sát và tìm hiểu thì một số kỹ thuật bao gồm:

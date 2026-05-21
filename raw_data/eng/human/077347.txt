@@ -1,0 +1,1 @@
+It governs how a decentralized video streaming platform functions, allowing users to both watch and produce content. Users can directly exchange videocontent with one another using P2P architecture, in contrast to typical stream ing systems that rely on centralized servers. This makes a centralized authority unnecessary and allows for a more decentralized, robust network.

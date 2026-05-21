@@ -1,0 +1,1 @@
+This section will provide an overview of the technologies used in the ARNav app, including AR technology, graph-based navigation,and any other relevant technologies. It will also describe the technical chal lenges faced during the development of the ARNav app and how they were overcome.

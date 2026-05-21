@@ -1,0 +1,1 @@
+Activity Invocation: Once exported activities are identified, the tester attempts to invoke these activities using intents, with a focus on those that could lead to unintended behavior or security risks.

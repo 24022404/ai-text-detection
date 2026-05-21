@@ -1,0 +1,1 @@
+Mã nguồn gồm ha gó chính là Mner Package và DAO Package. Trong đió DAO Package gồm ha lớp DrudConnecton và KafkaConnecton với mã nguồn như mô tả ở 5.1 và 5.2. Mner Package chữa class Mner và các class chỉ báo kế thừa gồm 5 class: OBVMner, RSMner, ADMner, RSIMner và AroonMner.

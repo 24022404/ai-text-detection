@@ -1,0 +1,1 @@
+Users can access a detailed list of permissions, each with its purpose, level of criticality, and an outline of potential security or privacy risks.

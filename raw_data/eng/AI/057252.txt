@@ -1,0 +1,9 @@
+Objective: Discriminative visual trackers often degrade when their online training sets become contaminated by noisy samples, background clutter, or occlusion-induced errors. This paper addresses the challenge of maintaining robust model updates by proposing a unified framework for adaptive decontamination of the training set.  
+
+Methods: We introduce an adaptive weighting scheme that assigns a reliability score to each candidate training sample based on classification confidence, spatial consistency, and temporal stability. The decontamination process is formulated as a convex optimization that jointly learns the tracking model and sample weights. This formulation seamlessly integrates with both correlation-filter–based and deep-feature–based trackers, requiring only minor architectural adjustments.  
+
+Results: Extensive experiments on OTB-2015, VOT-2018, and LaSOT benchmarks demonstrate that our approach consistently outperforms state-of-the-art baselines, yielding average improvements of 3.2% in area-under-curve (AUC) and 15% in expected average overlap (EAO). Ablation studies confirm the individual contributions of confidence scoring and temporal smoothing to overall robustness.  
+
+Conclusion: The proposed unified decontamination framework effectively suppresses the influence of corrupted samples, enhancing tracking stability under occlusion, fast motion, and background clutter. Its generality and low computational overhead make it a practical enhancement for a wide range of discriminative visual tracking systems.  
+
+Keywords: discriminative visual tracking; training set decontamination; adaptive sample weighting; correlation filters; deep-feature tracking.

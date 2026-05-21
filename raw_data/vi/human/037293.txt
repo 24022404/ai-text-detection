@@ -1,0 +1,1 @@
+Nhấn Tạo mới. Hệ thống hiển thị thông báo “Thêm sản phẩm thành công” và cập nhật vào cơ sở dữ liệu. Hệ thống hiển thị thông báo “Thêm sản phẩm thành công” và cập nhật vào cơ sở dữ liệu.  Đạt TC02  1. Đăng nhập tài khoản quản trị viên.

@@ -1,0 +1,1 @@
+Tắc nhân xác thực giao dịch bằng ví và số tiền offer sẽ bị trừ vào tài khoản của tác nhân.

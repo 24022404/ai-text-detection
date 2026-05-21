@@ -1,0 +1,1 @@
+Chapter 2 examines requirements for task and project management applications by studying user needs and analyzing current solutions. It identifies essential features users seek, such as task tracking, collaboration, and notifications, and leverages these insights to form the foundation for designing the proposed solution.

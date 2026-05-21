@@ -1,0 +1,1 @@
+Database A database is a structured collection of data that is often stored and accessible digitally via a computer system. It allows for data storage and manipulation. In other words, databases are utilized by businesses to store, manage, and retrieve information.

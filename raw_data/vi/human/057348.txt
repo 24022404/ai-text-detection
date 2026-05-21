@@ -1,0 +1,1 @@
+Trước khi dùng thư viện, ngôn ngữ nào đó thì nên tìm hiểu sơ qua các thư viện, ngôn ngữ tương tự, so sánh ưu nhược điểm để tìm ra thư viện, ngôn ngữ phù hợp nhất với trang web của mình.6.2 Hướng phát triển Một số hướng phát triển, định hướng công việc trong tương lai mà em dành cho hệ thống:

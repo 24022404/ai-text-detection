@@ -1,0 +1,1 @@
+Every substring of length k appears at most once in ck,s since ck,s is a substring of the cyclic de Bruijn sequence x, as established in Lemma 6. The sequence x itself contains each possible k-length substring exactly once, ensuring this uniqueness in ck,s.

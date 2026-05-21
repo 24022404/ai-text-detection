@@ -1,0 +1,1 @@
+Tiếp theo, chương 4 phân tích ch tết về các thiết kế kiến trúc bao gồm thiết kế lớp, thiết kế giao diện, thiết kế cơ sở dữ liệu...Trình bày quá trình thực hiện kiểm thử và triển khai thực tế.

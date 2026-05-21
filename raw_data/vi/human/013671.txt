@@ -1,0 +1,1 @@
+Model chịu trách nhiệm quản lý dữ liệu của ứng dụng. Nó nhận đầu vào của người dùng từ bộ điều khiển. Model chứa các phương thức để xử lý dữ liệu điện từ database.

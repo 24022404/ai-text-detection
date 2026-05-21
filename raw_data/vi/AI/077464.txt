@@ -1,0 +1,3 @@
+Thí nghiệm nén tĩnh O-cell là một phương pháp được sử dụng để xác định sức chịu tải dọc trục của cọc khoan nhồi, đặc biệt là đối với các cọc có đường kính nhỏ. Phương pháp này dựa trên nguyên tắc nén tĩnh, trong đó cọc được nén bởi một lực cố định để đo khả năng chịu tải của nó.
+
+Thí nghiệm này được thực hiện để đánh giá sức chịu tải dọc trục của cọc khoan nhồi đường kính nhỏ trong các điều kiện khác nhau. Kết quả của thí nghiệm sẽ cung cấp thông tin quan trọng về khả năng chịu tải của cọc, giúp các kỹ sư xây dựng và thiết kế cọc khoan nhồi an toàn và hiệu quả.

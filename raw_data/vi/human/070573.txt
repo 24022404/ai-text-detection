@@ -1,0 +1,1 @@
+Bí thư/ nhân sự nhập tin nhắn 2. Nhấn gửi tin nhắn 3. Hệ thống thêm tin nhắn vào CSDL và hiển thị lên giao diện Luồng sự kiện con:

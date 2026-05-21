@@ -1,0 +1,1 @@
+Customer: This entity stores information about users who have the role of a customer. It has a one-to-one relationship with the User entity, meaning each customer is associated with one user account.

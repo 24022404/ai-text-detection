@@ -1,0 +1,1 @@
+Xử lý gửi mail cho người dùng kh thanh toán, thanh toán được xác nhận em sử dụng thư viện nodemailer vớ OAuth2 để tránh việc sử dụng thẳng password của email. Em đã tạo một ứng dụng trên Google Cloud Console, tạ d và refresh token để sử dụng địa chỉ mal.

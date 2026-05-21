@@ -1,0 +1,9 @@
+Objective: Accurate forecasting of multiple related time series is challenging due to diverse patterns and high computational costs. This paper introduces a novel two-stage method that leverages k-means clustering to group similar time series before applying tailored forecasting models, thereby improving prediction accuracy and efficiency.
+
+Methods: First, we extract compact feature vectors from each time series, capturing trend, seasonality, and statistical moments. Next, we apply the k-means algorithm to partition the series into homogeneous clusters. For each cluster, we train a dedicated forecasting model—either an ARIMA variant or a gradient-boosted regression tree—tuned to the cluster’s characteristic dynamics. Finally, we generate forecasts by applying the corresponding cluster model to new data.
+
+Results: We evaluate our approach on two real-world datasets: monthly retail sales across product categories and daily energy consumption in smart buildings. Compared to a baseline of individual models per series and a global model for all series, our grouped methodology reduces mean absolute percentage error (MAPE) by up to 18% and lowers root mean square error (RMSE) by 12% on average. Moreover, model training time decreases significantly due to reduced model count and parameter tuning within clusters.
+
+Conclusion: Grouping time series with k-means prior to forecasting yields more accurate and computationally efficient predictions. This strategy is especially beneficial for large collections of related series where patterns repeat across subsets. The proposed framework can be extended to accommodate dynamic clustering and alternative similarity measures, making it a versatile tool for scalable time-series analysis.
+
+Keywords: time series forecasting, k-means clustering, grouped modeling, ARIMA, gradient boosting, model efficiency.

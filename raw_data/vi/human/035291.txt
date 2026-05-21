@@ -1,0 +1,1 @@
+ReactJS xây dựng trang web theo Single page application, sản phẩm chỉ sử dụng một trang duy nhất được cấu tạo từ nhiều thành phần. Ko sử dụng các chức năng khác nhau chỉ có thành phần trong trang thay đổi còn trang web không cần tả lạ.

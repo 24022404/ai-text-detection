@@ -1,0 +1,1 @@
+In this section, I consider MLP experiments, followed by CNN and then RNN experiments. For CNN and RNN, I have considers a large number of cases. The MLP and CNN models are based on image features, while RNN experiments based on opcode sequences.

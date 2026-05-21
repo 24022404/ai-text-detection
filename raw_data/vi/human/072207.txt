@@ -1,0 +1,1 @@
+Việc ứng dụng Spring Boot gúp các lập trình viên tập trung tốt hơn đến mục tiêu vết code của mình thay vì phải lo nghĩ nhiều đến các kỹ thuật code như vớ Node.js.

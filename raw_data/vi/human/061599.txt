@@ -1,0 +1,1 @@
+Tự động cấu hình Tự động cấu hình có nghĩa là các ứng dụng được khở tạo với các thành phần phụ thuộc được thiết lập sẵn mà bạn không phải cấu hình theo cách thủ công.

@@ -1,0 +1,1 @@
+Trong đồ án của mình em dùng Docker thiết lập môi trường và chạy các ứng dụng backend: Spring Boot, MySQL, No.

@@ -1,0 +1,1 @@
+Use case Tìm kếm công thức món ăn UC ID and Name: UC4 Tìm kếm công thức món ăn Tác nhân: Admnstrator, Moderator, User, Guest Mô tả: Ngườ dùng tìm kếm công thức nấu ăn với các bộ lọc điể họ có thể tìm thấy công thức tốt nhất phù hợp với nhu cầu của người dùng. Chúng có thể được lọc theo các têu chí khác nhau như theo vùng mền, thể loạ món ăn.

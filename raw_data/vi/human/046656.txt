@@ -1,0 +1,1 @@
+Cuố cùng, cơ chế xác thực username/password đơn giản và dễ trên kha, không dò hỏi sự phức tạp về cài đặt hay sử dụng các công nghệ phức tạp.

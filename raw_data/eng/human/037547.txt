@@ -1,0 +1,1 @@
+Pricing: GitHub Actions offers a certain amount of free usage for public reposi tories, making it cost-effective for open-source projects. AWS automation services, on the other hand, are part of the larger AWS cloud ecosystem, and their pricing is based on consumption, which can vary depending on the scale and complexity of the automation tasks.

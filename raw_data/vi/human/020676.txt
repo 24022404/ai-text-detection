@@ -1,0 +1,1 @@
+Việc quản lý cấp độ truy cập bài viết, khoa học hay hộ thảo với người dùng được gả quyết bằng cách gắn một cấp độ truy cập cho đối tượng, và người dùng thuộc cấp độ truy cập đói hoặc cao hơn mớ có thể truy cập.

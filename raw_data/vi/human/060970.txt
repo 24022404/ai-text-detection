@@ -1,0 +1,1 @@
+Nếu khách quên mật khẩu, khách có thể yêu cầu hệ thống cho phép mình thiết lập lại mật khẩu. Lúc này, hệ thống sẽ gửi token trong lên kết kèm gửi qua email điã điăng ký. Khách có thể vào liên kết địa điểm thực hiện việc thiết lập lại mật khẩu.

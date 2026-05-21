@@ -1,0 +1,1 @@
+Nơ sử dụng trong ứng dụng Tô sử dụng Fast API làm máy chủ cho thiết bị Jetson Nano, giúp máy chủ có thể gửi tín hiệu điện Jetson Nano.

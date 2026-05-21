@@ -1,0 +1,1 @@
+Store – là nơi lưu trữ toàn bộ trạng thái (state) của ứng dụng. Store sẽ cập nhật trạng thái ko nhận được các Actions và thông báo cho Ve kh trạng thái thay đổi.

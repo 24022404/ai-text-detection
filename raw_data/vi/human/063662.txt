@@ -1,0 +1,1 @@
+Nếu email đã tồn tại trong hệ thống thì hiển thị popup báo đến quản trị viên/cán sự lớp là không thể tự động tạo tài khoản mới, gửi email thông báo đỗ phỏng vấn điện cho người đi phỏng vấn Bảng 4.26: Kịch bản kiểm thử cho chức năng duyệt CV Kiểm thử chức năng quản lý bàn học theo hình thức dạy tập trung SUY Kịch bản kiểm thử Kết quả mong muốn 1 Tạo mới một bà học:

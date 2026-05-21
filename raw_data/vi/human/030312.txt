@@ -1,0 +1,1 @@
+Tạo mớ và cập nhật file Arflow DAG Bước cuố cùng trong quá trình tạo mớ chỉ báo, đó là tạo mớ và cập nhật file Arflow DAG. Trước khi nhận yêu cầu tạo mớ các chỉ báo, phân hệ đã có một DAG gồm các chỉ báo có sẵn của hệ thống như thể hiện ở sơ đồ 4.11.

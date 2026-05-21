@@ -1,0 +1,9 @@
+Objective: Reinforcement learning (RL) agents often struggle to generalize beyond their training environments, limiting their applicability in real‐world settings. This paper investigates how leveraging human‐provided instructions can guide policy learning and foster improved generalization in RL.
+
+Methods: We introduce “Ask Your Humans,” an interactive RL framework in which agents solicit natural‐language guidance from human teachers whenever encountering novel or ambiguous states. Instructions are encoded via a lightweight transformer module and fused with state representations to inform action selection. During training, the agent alternates between autonomous exploration and instruction‐driven rollouts, allowing it to ground language cues in observed transitions. We evaluate this approach on procedurally generated navigation and object‐manipulation benchmarks with wide task variability.
+
+Results: Experiments demonstrate that agents using human instructions achieve up to 25% higher success rates on unseen task variants compared to standard RL baselines and language‐conditioned policies without interaction. Instruction‐augmented agents require 30% fewer training episodes to reach comparable performance and exhibit more robust behavior under environmental perturbations. Ablation studies confirm the value of on‐demand instruction queries versus fixed language annotations.
+
+Conclusion: Incorporating real‐time human instructions enables RL agents to adapt more effectively to novel scenarios, reducing sample complexity and enhancing policy robustness. This work highlights the promise of language‐grounded interactive learning for scalable, generalizable autonomous systems.
+
+Keywords: reinforcement learning, human instruction, generalization, interactive learning, language‐grounded policies

@@ -1,0 +1,1 @@
+Cha tập dữ liệu theo tỉ lệ 6:4 theo thờ gan đơn hàng được đặt. Số lượng hóa đơn tập trận là 14444, số lượng hóa đơn tập test là 7740.

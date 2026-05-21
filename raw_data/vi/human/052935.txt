@@ -1,0 +1,1 @@
+Với cộng đồng lớn và sự phát triển liên tục, ReactJS  đã trở thành lựa chọn hàng đầu cho việc xây dựng các ứng dụng web chất lượng cao. Nó được sử dụng rộng rãi ở các công ty công nghệ hàng đầu thế giới và cung cấp nền tảng mạnh mẽ để xây dựng giao diện người dùng điệp và tương tác trên web. Chính vì vậy, chúng tôi đã sử dụng để xây dựng giao diện người dùng trong đồ án này.

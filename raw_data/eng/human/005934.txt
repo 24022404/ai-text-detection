@@ -1,0 +1,1 @@
+TN – True Negative: Number of predicted data that are not X labels and they are not actually X (in this case the model predicts correct).

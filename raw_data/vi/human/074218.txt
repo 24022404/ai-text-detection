@@ -1,0 +1,1 @@
+Yêu cầu về trải nghiệm người dùng Ứng dụng cần có một giao diện nhất quán, rõ ràng, dễ nhìn. Các nút cần có kích cỡ tối thiểu 24dp và có hiệu ứng "gợn sóng" điểm người dùng có thể click chính xác hơn, cỡ chữ đủ lớn (tối thiểu 14sp), v.v. Màu sắc trong ứng dụng cũng cần phải hài hoà, không được tạo sự tương phản lớn, dẫn điện trải nghiệm người dùng không tốt.

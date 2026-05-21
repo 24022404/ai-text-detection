@@ -1,0 +1,1 @@
+In addition to inputting their location, the user also needs to provide information about the current camera rotation. This information is crucial for rendering the 3D path in the correct direction. The user can obtain this information by scanning the image, which also allows the app to detect the camera’s current rotation.

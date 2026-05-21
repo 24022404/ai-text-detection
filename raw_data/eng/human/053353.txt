@@ -1,0 +1,1 @@
+Farther scope, student look forward to work out the IT service managemetn (ITSM) platform, which includes problem management, change management, and IT asset management. It is referred to as a standalone tool that works as as part of a broader ITSM platform with an array of ticketing capabilities, including but not limited to:

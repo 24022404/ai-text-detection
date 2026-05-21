@@ -1,0 +1,1 @@
+Nếu cơ sở dữ liệu không chính xác ngay từ đầu sẽ mất rất nhiều thờ gan để sửa, thậm chí là phải bắt đầu lại từ đầu.

@@ -1,0 +1,1 @@
+Hệ thống mớ được phát trển trên giao diện màn hình máy tính và chưa hỗ trợ phát trển cho màn hình điện thoạ. Hệ thống cũng chưa có tích hợp chức năng thông báo và chưa kểm thử cũng như điáp ứng được với nhu cầu số lượng lớn.

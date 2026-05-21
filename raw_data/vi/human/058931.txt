@@ -1,0 +1,1 @@
+Workspace, Organization và Device. Vớ mỗ thiết kế lớp, tôi trình bày đặc tả cho một hoặc một và lớp quan trọng nhất trong hình minh họa, đồng thờ làm rõ hơn vai trò của lớp trong hệ thống bằng biểu đồ tuần tự trong phần tiếp theo của chương này. Thiết kế lớp cho tết cho các gói khác được trình bày trong Phụ lục B.

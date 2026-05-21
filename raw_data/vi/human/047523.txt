@@ -1,0 +1,1 @@
+− Vì vậy, các công việc cơ bản sẽ là: Vết các lớp → Nhấn F5 để chạy ứng dụng → Code First API tạo ra cơ sở dữ liệu mờ hoặc ánh xạ các lớp vớ cơ sở dữ liệu đã tồn tại → Thêm dữ liệu mặc định vào cơ sở dữ liệu hoặc kiểm tra dữ liệu trong cơ sở dữ liệu Cuối cùng khi mở chạy ứng dụng.

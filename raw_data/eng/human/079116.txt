@@ -1,0 +1,1 @@
+Static Analysis: This method involves examining the structure, code, and re sources of an application without executing it. Static analysis is efficient andcan uncover embedded malicious code, permissions, and configurations. How ever, it struggles to detect runtime behaviors or obfuscation techniques used by advanced malware.

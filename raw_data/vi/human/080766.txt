@@ -1,0 +1,1 @@
+Dữ liệu Không Kỳ vọng Giao dịch thành công, tiền bị trừ vào ví và màn hình hiển thị kết quả.

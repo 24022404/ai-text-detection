@@ -1,0 +1,1 @@
+Amazon Web Services (AWS) là nền tảng đám mây toàn diện và được sử dụng phổ biến nhất thế giới bao gồm cơ sở hạ tầng dưới dạng dịch vụ (IaaS) và nền tảng dưới dạng dịch vụ (PaaS). Dịch vụ AWS cung cấp các giải pháp có quy mô linh hoạt cho điện toán, lưu trữ, cơ sở dữ liệu, phân tích, và hơn thế nữa .

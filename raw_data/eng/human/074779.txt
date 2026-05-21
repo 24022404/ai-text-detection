@@ -1,0 +1,1 @@
+Python 3.8: Since the module was written in Python and test on local machine with Python 3.8 installed, it is safe to say that Python 3.8 would be a suitable version.

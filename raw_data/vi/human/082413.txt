@@ -1,0 +1,1 @@
+–Công cụ quan hệ yêu cầu dữ liệu từ công cụ lưu trữ dựa trên truy vấn điầu vào và xử lý kết quả.

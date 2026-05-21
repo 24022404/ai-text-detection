@@ -1,0 +1,1 @@
+Ngoài ra điểm dữ liệu được trực quan, dễ so sánh và thống kê em sử dụng thêm các biểu đồ cột và biểu đồ tròn. Với biểu đồ cột sẽ mô tả số lượng khóa học theo từng danh mục, qua đó có thể thấy được xu hướng các khóa học trên phần mềm.

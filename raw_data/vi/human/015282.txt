@@ -1,0 +1,1 @@
+Android Studio cung cấp một giao diện thân thiện với người dùng, tài liệu toàn diện và một loạt các thư viện và API điển hỗ trợ các nhà phát triển xây dựng các ứng dụng Android chất lượng cao.Hình 4.16: Android Studio Giao diện người dùng: Cửa sổ chính của Android Studio bao gồm các khu vực logc được xác định trong hình dưới.

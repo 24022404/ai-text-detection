@@ -1,0 +1,1 @@
+Kiến trúc MVC được thảo luận lần đầu vào năm 1979 bở Trygve Reenskaug và được giới thiệu lần đầu tiên vào năm 1987 bằng ngôn ngữ lập trình Smalltalk.  MVC lần đầu tên được chấp thuận như một khái niệm chung, trong một bài báo năm 1988. Cho điện thờ gan  gần đây, MVC pattern được sử dụng rộng rãi trong các ứng dụng website hiện địa.

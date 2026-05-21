@@ -1,0 +1,1 @@
+Nhờ đặc điểm của máy chủ Nginx là một máy chủ trung gian có thể điều phối các yêu cầu, hệ thống Backend được cân bằng tải tốt hơn.

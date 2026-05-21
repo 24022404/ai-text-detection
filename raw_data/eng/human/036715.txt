@@ -1,0 +1,1 @@
+Bcrypt uses salt to protect against attacks like rainbow table, brute force, and more. Bcrypt is an adaptive function, so if you call bcrypt’s function frequently, it becomes slower. This hinders an attacker’s ability to benefit from a brute-force attack.

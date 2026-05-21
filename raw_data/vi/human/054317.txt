@@ -1,0 +1,1 @@
+Kh truy vấn tớ CSDL MySQL, phả cung cấp tên truy cập và mật khẩu của tài khoản có quyền sử dụng CSDL đó.

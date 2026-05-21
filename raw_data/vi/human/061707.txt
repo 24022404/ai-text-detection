@@ -1,0 +1,1 @@
+Kh áp dụng phương pháp tăng trưởng tuyến tính điơn gản, nguyên tắc cơ bản là gả định rằng sự thay điổ của bến số theo thờ gan có thể điược bểu dễn bằng một điường thẳng điơn gản. Đường thẳng này sẽ mô tả mố quan hệ gữa bến số điầu vào (thờ gan) và bến số điầu ra (gá trị cần dự đioán) thông qua công thức:

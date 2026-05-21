@@ -1,0 +1,1 @@
+Scalability: Since JWTs are self-contained, they can be easily distributed andused across different systems and services. This makes them ideal for use in dis tributed systems and microservices architectures.

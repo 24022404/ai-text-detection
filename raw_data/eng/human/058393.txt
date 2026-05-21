@@ -1,0 +1,1 @@
+Sequential Information: Cryptocurrency prices are inherently time-dependent and exhibit sequential patterns. LSTM is designed to handle sequential data and can effectively capture the temporal relationships and dependencies in the price movements.

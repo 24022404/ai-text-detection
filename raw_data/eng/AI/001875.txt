@@ -1,0 +1,1 @@
+When a client application submits a query to PostgreSQL, the query undergoes parsing and analysis before being optimized to form the most efficient execution plan possible. This optimized plan is then carried out by the query executor, ensuring optimal processing of client requests.

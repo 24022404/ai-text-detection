@@ -1,0 +1,1 @@
+The physical storage location according to the data from the management soft ware and the physical storage location of that RFID code in the warehouse.

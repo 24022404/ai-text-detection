@@ -1,0 +1,1 @@
+Secondly, I implemented a momentum factor calculation algorithm to process the collected data. This algorithm allows me to assess the momentum trends and gauge the strength of price movements for different cryptocurrencies over time.

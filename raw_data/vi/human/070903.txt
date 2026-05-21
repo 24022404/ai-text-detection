@@ -1,0 +1,1 @@
+Khá nệm ReactJS là một opensource được phát triển bở Facebook, ra mắt vào năm 2013, bản thân nó là một thư viện Javascript được dùng để điểm xây dựng các tương tác với các thành phần trên website. Một trong những điểm nổi bật nhất của ReactJS đó là việc render dữ liệu không chỉ thực hiện được trên tầng Server mà còn ở dưới Client nữa.

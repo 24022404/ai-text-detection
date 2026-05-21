@@ -1,0 +1,1 @@
+Run length limited de Bruijn sequence. Besides, just like other constrained codes, a convenient way to apprehend a code is using a labeled graph. Hence, the graph presentation of these sequences is also provided.

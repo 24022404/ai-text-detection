@@ -1,0 +1,1 @@
+Apache Kafka is a distributed publish-subscribe messaging system, developed in Scala and Java, that excels at real-time event stream processing. It enables the efficient transfer of data between diverse source systems and target systems, supporting scalable data pipelines.

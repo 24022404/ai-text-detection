@@ -1,0 +1,1 @@
+I pretrain the model for 100K steps, with early stopping, batch size of 16, Adam optimizer with a learning rate of 3e−5following , with 10K warmup steps and linear decay.

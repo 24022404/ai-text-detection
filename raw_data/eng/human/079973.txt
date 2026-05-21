@@ -1,0 +1,1 @@
+While manual indoor positioning may not provide real-time tracking like auto matic indoor positioning, it is more accurate and does not require any specialized hardware. ARNav allows users to scan images in a built-in image database.

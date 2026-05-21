@@ -1,0 +1,1 @@
+I give the theoretical proof on how feature decorrelation enlarges the eigenvalues in the next section 4.5. The overall objective function is given by:

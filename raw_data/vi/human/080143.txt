@@ -1,0 +1,1 @@
+Nếu là chuột phải thì nhân vật người chơi sẽ thực hiện đòn đánh cơ bản về hương của chuột. Ngoài ra lớp này còn quản lý việc người chớ có muốn bỏ item ra đất hay không.

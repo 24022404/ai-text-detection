@@ -1,0 +1,1 @@
+Nó chỉ có chức năng như một hàm hồi quy tuyến tính, vì vậy sẽ hạn chế trong việc tính toán và xử lý các thông số phức tạp của dữ liệu đầu vào.

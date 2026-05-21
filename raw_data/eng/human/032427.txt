@@ -1,0 +1,1 @@
+Input layer (input layer): This layer is located on the leftmost side of the network, representing the inputs of the network.

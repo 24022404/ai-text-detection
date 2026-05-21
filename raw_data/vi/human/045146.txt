@@ -1,0 +1,1 @@
+Cho phép quản lý tài khoản: xem tổng quan trang cá nhân, cập nhật thông tin tài khoản, quản lý đơn hàng.

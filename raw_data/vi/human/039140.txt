@@ -1,0 +1,1 @@
+() Giám đốc sản xuất: có tất cả các chức năng của nhân viên bộ phận sản xuất và có thể quản lý xưởng sản xuất, nhà máy sản xuất.

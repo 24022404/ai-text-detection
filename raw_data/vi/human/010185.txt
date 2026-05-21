@@ -1,0 +1,1 @@
+Khắc phục vấn điề trên, phương pháp định tuyến điược sử dụng ở nghên cứu của SadMehrabad  sử dụng cách tếp cận ngược. Ở điây, một chất gọ là chất chống pheromone điược sử dụng. Trong quá trình một AGV d chuyển từ nguồn S đến điểm điích T, nó sẽ thả chất chống pheromone lên trên tuyến điường nó đi qua.

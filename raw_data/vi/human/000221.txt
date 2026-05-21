@@ -1,0 +1,1 @@
+Bất kì một hàm Boolean nào cũng có  thể biểu diễn được bỏ một mạng MLP 2 tầng trong đó các neural sử dụng hàm truyền sigmoid.

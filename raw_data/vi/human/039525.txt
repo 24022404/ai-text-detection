@@ -1,0 +1,1 @@
+Jmp Jmp là một thư viện xử lý ảnh đơn giản và dễ sử dụng cho Nodejs và trình duyệt web. Thư viện này cung cấp các chức năng xử lý ảnh cơ bản như thay đổi kích thước, cắt ảnh, lật, xoay, thêm văn bản và hiệu ứng màu sắc.

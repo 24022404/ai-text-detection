@@ -1,0 +1,1 @@
+Step 5 : Navigate to the server directory, run the "npm run init" command to initialize sample data for the entire system.

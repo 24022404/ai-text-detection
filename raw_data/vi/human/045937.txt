@@ -1,0 +1,1 @@
+Tóm lại, việc chọn SQLite3 làm cơ sở dữ liệu cho hệ thống của đồ án tốt nghiệp được đưa ra với những lý do hết sức cân nhắc. Tính đơn giản, dễ triển khai, hiệu suất cao và tích hợp tốt với Python là những ưu điểm chính của SQLte3 điã gúp hệ thống điáp ứng yêu cầu và đạt được hiệu quả trong quá trình phát triển đồ án tốt nghiệp.

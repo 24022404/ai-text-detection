@@ -1,0 +1,1 @@
+Tích hợp API: Sử dụng các công nghệ như RESTful API hoặc GraphQL điểm tích hợp ứng dụng của bạn với các dịch vụ web, chẳng hạn như cơ sở dữ lệu sản phẩm, hệ thống thanh toán và quản lý đơn hàng.

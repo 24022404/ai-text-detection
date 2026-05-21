@@ -1,0 +1,1 @@
+Đặc điểm của MongoDB MongoDB có các đặc điểm chính: cơ sở dữ liệu ph quan hệ (NoSQL), mở rộng dễ dàng với các cụm máy chủ (cluster), tạo ra bản sao và phân tán dữ liệu trên nhiều máy chủ khác nhau,..

@@ -1,0 +1,1 @@
+Luồng sự kiện chính : Đặc tả luồng sự kiện của usecase Quản trị viên duyệt danh sách bản ghi được mô tả trong Bảng 2.13.

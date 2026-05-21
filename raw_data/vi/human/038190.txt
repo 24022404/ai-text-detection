@@ -1,0 +1,1 @@
+Mã làm mới (refresh Token): Là mã được gửi đi để lấy về một access Token mớ khi nó hết hạn. Chính vì vậy nó có thờ gan hiệu lực rất lâu. Việc có mặt của refreshToken này giúp cho Client có thể lấy lại được access Token mà không cần phải xác thực lạ từ phía người dùng.

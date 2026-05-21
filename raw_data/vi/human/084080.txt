@@ -1,0 +1,1 @@
+Dữ lệu hành vi: tương tự như dữ lệu tương tác nhưng ch tết về mức độ sử dụng trực tiếp của khách hàng khi sử dụng dịch vụ như lịch sử mua hàng, giá trị đơn hàng, thờ lượng người dùng trên ứng dụng,..

@@ -1,0 +1,1 @@
+Laravel hiện tại là một trong những ngôn ngữ backend phổ biến nhất bên cạnh các ngôn ngữ khác như Django, Express JS, Ruby on Rails.

@@ -1,0 +1,1 @@
+Tầng trình diễn là gao dệt của người dùng, là tầng giao tiếp của ứng dụng, nơ mà người dùng cuối tương tác với ứng dụng. Mục đích chính của nó là hiển thị thông tin và thu thập các yêu cầu của người dùng. Tầng trình diễn có thể chạy trên trình duyệt web, có thể như ứng dụng máy tình bàn hoặc giao diện đồ họa của người dùng.

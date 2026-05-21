@@ -1,0 +1,1 @@
+Database: hệ quản trị cơ sở dữ liệu được sử dụng là PostgreSQL  tương ứng với thiết kế cơ sở dữ liệu có quan hệ.4.1.2 Thiết kế tổng quan Hình 4.3: Kiến trúc phân tầng  biểu đồ phụ thuộc gói Toàn bộ hệ thống (bao gồm cả Frontend và Backend) có thể được chia thành 3 tầng:

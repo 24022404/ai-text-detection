@@ -1,0 +1,1 @@
+In which Wis the matrix indicating the interest in the features of the entire customer, each column corresponding to a client, and Xis the matrix showing the features of the entire product, each row representing a product. Kis a much smaller number than MandNfor optimal computation, where Mis the number of products and Nis the number of customers.

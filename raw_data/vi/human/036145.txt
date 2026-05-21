@@ -1,0 +1,1 @@
+Nodes Fle Trong tệp xml này, ta điặt vị trí của các nút theo (tọa điộ x và y, mô tả khoảng cách đến điểm gốc tính bằng mét) và một ID điể tham khảo trong tương la. Tên của tệp này có dạng yourflename.nod.xml . Tệp node có định dạng sau:

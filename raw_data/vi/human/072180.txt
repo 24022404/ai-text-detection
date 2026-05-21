@@ -1,0 +1,1 @@
+Vớ cấu hình mô trường này, em sử dụng một kiến trúc mạng nơron đơn giản với 5 lớp ẩn, trong đó mỗi lớp có 128 đơn vị ẩn và vớ các gá trị sêu tham số cơ bản điã điược chọn, quá trình huấn luyện diễn ra khá ổn định và hiệu quả, được thể hiện qua hình 4.3. Trong đó, ta có thể thấy mô hình học một cách tương đối ổn định và hội tụ sau khoảng 25000 bước thờ gan.

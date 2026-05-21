@@ -1,0 +1,1 @@
+Tấn công DDoS Distributed Denial of Service (DDoS) là một phương thức tấn công mà các hacker thực hiện với mục đích làm gián đoạn lưu lượng truy cập thông thường điển với máy chủ, dịch vụ hoặc mạng được nhắm đến bằng cách thực hiện một lượng lớn truy cập tớ phía máy chủ bị tấn công.

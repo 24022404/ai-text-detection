@@ -1,0 +1,1 @@
+React JS ReactJS là một thư viện, được viết bằng ngôn ngữ JavaScript, được phát triển bở Facebook. ReactJS cho phép xây dựng các ứng dụng web tương tác cao và dễ bảo trì.

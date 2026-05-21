@@ -1,0 +1,1 @@
+Do đó, Single SeongOn là công nghệ giúp người dùng giảm số lượng tài khoản cần phải tạo và ghi nhớ, giảm số lần cung cấp thông tin cá nhân cho các trang web vì đã có một địa chỉ quản lý tài khoản tập trung. Tuy nhiên, điều đó cũng có nghĩa là có sự phụ thuộc lớn vào các dịch vụ ngoài hệ thống, đi cùng với nó là những khoản chi phí phát sinh khi thông qua bên thứ ba.

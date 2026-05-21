@@ -1,0 +1,1 @@
+Docker  nền tảng phần mềm cho phép dựng, kiểm thử và triển khai ứng dụng một cách nhanh chóng. Có thể có Docker như một máy ảo cho phép cài đặt môi trường, cấu hình hệ thống, mọ thứ cần thiết để có thể chạy chương trình.

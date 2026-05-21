@@ -1,0 +1,1 @@
+Bước 2 là giai đoạn tiền xử lý ảnh: ảnh thu thập được sẽ được đưa vào mạng MTCNN điểm tiến hành phát hiện khuôn mặt và cắt các khuôn mặt để chuẩn bị cho bước tiếp theo.

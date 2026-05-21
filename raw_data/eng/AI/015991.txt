@@ -1,0 +1,9 @@
+Objective: Effective exploration remains a central challenge in reinforcement learning (RL), especially in environments with sparse or delayed rewards. This survey aims to provide a comprehensive overview of intrinsic motivation mechanisms that guide agents toward self-driven exploration.
+
+Methods: We systematically review and classify intrinsic motivation approaches into three main categories—prediction-based methods that minimize future state prediction errors, information-theoretic measures that maximize information gain, and novelty-driven strategies that reward visits to previously unseen states. For each category, we examine representative algorithms, implementation details in both classic and deep-RL settings, and benchmark performance across standard testbeds.
+
+Results: Our comparative analysis highlights key design trade-offs: prediction-based signals excel in structured domains but may struggle with high-dimensional inputs; information-theoretic approaches demonstrate robust exploration in complex tasks at the cost of higher computational overhead; and novelty-driven methods offer scalable solutions but can lead to redundant behavior without proper state abstraction. We identify best practices for combining learning-progress signals with explicit state representations to enhance exploration efficiency.
+
+Conclusion: By synthesizing existing work into a unified taxonomy and pinpointing current limitations—such as scalability, stability, and transferability—this survey charts open research directions. Promising avenues include integrating intrinsic motivation with hierarchical and meta-learning frameworks and deploying adaptive exploration strategies in real-world robotics and autonomous systems.
+
+Keywords: Intrinsic motivation, Reinforcement learning, Exploration, Taxonomy, Survey

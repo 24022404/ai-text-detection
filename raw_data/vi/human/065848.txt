@@ -1,0 +1,1 @@
+resources  Chứa  những fle vew và raw, các file bên soạn như LESS, SASS, hoặc JavaScript. Ngoài ra còn chứa tất cả các file lang trong project , các file về xuất giao diện người dùng..

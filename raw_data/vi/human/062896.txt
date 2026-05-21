@@ -1,0 +1,1 @@
+sẽ áp dụng lên mỗi kênh của ma trận đầu vào một bộ lọc tích chập khác nhau và hoàn toàn không chia sẻ trọng số. Kết quả đầu ra sẽ áp dụng tích chập điểm với bộ 2.6minh họa sự khác nhau giữa tích chập thông thường và tích chập tách biệt chiều sâu.

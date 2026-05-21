@@ -1,0 +1,7 @@
+Móng bè cọc là một trong những loại móng phổ biến được sử dụng trong xây dựng, đặc biệt là trong các công trình có yêu cầu về độ ổn định và khả năng chịu tải trọng cao. Trong cấu trúc này, bè và cọc đóng vai trò quan trọng trong việc phân chia tải trọng và đảm bảo sự ổn định của toàn bộ công trình.
+
+Bè và cọc trong móng bè cọc hoạt động như một hệ thống đồng bộ, nơi bè chịu tải trọng từ trên cao và truyền xuống cọc, sau đó cọc sẽ chịu tải trọng và truyền xuống nền đất. Sự chia tải trọng giữa bè và cọc được quyết định bởi nhiều yếu tố, bao gồm cả kích thước và hình dạng của bè và cọc, cũng như tính chất của nền đất.
+
+Khi tải trọng được truyền xuống cọc, cọc sẽ chịu lực ép và lực kéo, đồng thời nền đất cũng sẽ chịu lực ép và lực kéo. Sự tương tác giữa cọc và nền đất sẽ quyết định khả năng chịu tải trọng của công trình. Nếu cọc và nền đất không được thiết kế và xây dựng phù hợp, có thể dẫn đến sự sụt lún hoặc thậm chí là đổ sập của công trình.
+
+Để đảm bảo sự ổn định và an toàn của công trình, cần phải tính toán và thiết kế kỹ lưỡng bè và cọc, cũng như nền đất. Sự chia tải trọng giữa bè và cọc cần được xem xét kỹ lưỡng để đảm bảo rằng công trình có thể chịu được tải trọng và hoạt động ổn định trong suốt quá trình sử dụng.

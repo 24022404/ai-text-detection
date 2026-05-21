@@ -1,0 +1,1 @@
+Themaltrail_check method reads a separate list of malicious domains from the Maltrail database and checks if any of the extracted domains match the entries.

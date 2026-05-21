@@ -1,0 +1,1 @@
+Cấu trúc này không chỉ giúp đơn giản hóa quá trình xử lý dữ liệu, mà còn tạo điều kiện thuận lợi cho việc đọc và truy cập dữ liệu trong quá trình huấn luyện và đánh giá mô hình. Bằng cách đặt tên thư mục theo danh tính người, việc xác định nhãn dữ liệu trở nên đơn giản và trực quan, đồng thờ cúng gúp ngữ cho dữ liệu được tổ chức một cách rõ ràng và dễ dàng quản lý.

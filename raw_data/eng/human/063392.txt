@@ -1,0 +1,1 @@
+Asynchronous (Non-blocking): All NodeJs APIs are asynchronous, it is mainly based on NodeJs server. Asynchronous helps the processing tasks at the serverto return results faster, without having to wait for the previous tasks to com plete before executing.

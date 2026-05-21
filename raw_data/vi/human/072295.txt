@@ -1,0 +1,1 @@
+Chuỗ khố hoạt động như thế nào? Trong khi các cơ chế chuỗ khối cơ bản rất phức tạp, em sẽ trình bày tổng quan ngắn gọn trong các bước sau. Phần mềm chuỗ khố có thể tự động hóa hầu hết các bước sau:

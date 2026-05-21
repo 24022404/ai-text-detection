@@ -1,0 +1,1 @@
+Kiểm tra và xử lý dữ liệu đầu vào: Kiểm tra và xử lý dữ liệu đầu vào của người dùng trước khi thực hiện các câu lệnh truy vấn. Nếu các giá trị nhập từ người dùng không đáp ứng các yêu cầu về định dạng hoặc kiểu dữ liệu, hãy hiển thị thông báo lỗ cho người dùng và không thực hiện câu lệnh truy vấn.

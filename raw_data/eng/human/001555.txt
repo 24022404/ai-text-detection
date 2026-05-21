@@ -1,0 +1,1 @@
+SCSS is a CSS superset used for client-side styling. SCSS is essentially a more advanced version of CSS that enables cleaner, more manageable style as well as a major increase in capability. Variables, operators, nested syntax, functions, andmany more capabilities are available in SCSS. SCSS is our tool of choice for de veloping and styling the web client.

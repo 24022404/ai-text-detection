@@ -1,0 +1,1 @@
+Quản lý log: PM2 cung cấp một giao diện dễ sử dụng để xem và quản lý log của các ứng dụng Node.js. Bạn có thể xem log theo thời gian thực và lưu trữ log vào các tệp riêng biệt.

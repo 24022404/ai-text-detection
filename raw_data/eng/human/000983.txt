@@ -1,0 +1,1 @@
+–ESCORT: The ESCORT  architecture is divided into two parts: feature extraction and classification. In the feature extraction part, bytecode data will be passed through a GRU/LSTM layer to create the correspondingfeature vector. Afterward, the second component of ESCORT’s multi output DNN architecture is the ensembling of multiple vulnerability branches.

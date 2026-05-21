@@ -1,0 +1,14 @@
+Background & Motivation: 
+The increasing volume of unstructured data has led to a growing demand for effective relation extraction methods. However, traditional relation extraction approaches often suffer from concept drift and data distribution shifts, resulting in decreased performance over time. This highlights the need for continual learning methods that can adapt to evolving data distributions.
+
+Objectives: 
+This thesis aims to develop a novel continual relation extraction framework, focusing on feature decorrelation to mitigate the impact of concept drift. The primary objectives are to design a system that can learn from streaming data, adapt to new relations, and maintain performance over time, while addressing the challenges of feature redundancy and correlation.
+
+Methodology: 
+The proposed framework leverages a combination of incremental learning, feature selection, and decorrelation techniques to continually update the relation extraction model. A modular architecture is employed, incorporating a feature extractor, a decorrelation module, and a relation classifier, to facilitate adaptability and scalability.
+
+Results & Expected Contributions: 
+The experimental results demonstrate the effectiveness of the proposed framework in continually extracting relations from evolving data streams, outperforming traditional batch learning approaches. This research contributes to the development of more robust and adaptable relation extraction systems, enabling real-world applications such as information retrieval, question answering, and knowledge graph construction.
+
+Conclusion: 
+This thesis presents a novel approach to continual relation extraction, emphasizing feature decorrelation to address concept drift and data distribution shifts. The proposed framework offers a promising solution for real-world applications, and future research directions include exploring transfer learning and multimodal fusion techniques to further enhance the system's performance and adaptability.

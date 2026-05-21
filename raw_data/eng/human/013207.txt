@@ -1,0 +1,1 @@
+– Adam : Adam is an optimization algorithm commonly used for training neural networks. It combines momentum and adaptive learning rates to achieve faster convergence. Adam adjusts the learning rate for each parameter based on estimates of the first and second moments of the gradients. This makes it robust to noisy gradients and suitable for a variety of tasks.

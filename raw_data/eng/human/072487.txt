@@ -1,0 +1,1 @@
+Signature is an encrypted string. It is signed on the header and payload of the token by the encryption algorithm specified on the header (usually SHA-256 or RS256). Signature is the part that ensures the JWT is not changed over the network, this part is signed from a combination of header, payload and a secret string located on the server side.

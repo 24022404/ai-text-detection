@@ -1,0 +1,1 @@
+Gó service: thực hiện các chức năng cụ thể và liên quan đến logic nghiệp vụ của ứng dụng.•Gõ middleware: thực hiện các tác vụ như xác thực, phân quyền người dùng, kiểm tra dữ liệu đầu vào trước khi chuyển đến xử lý tiếp theo.

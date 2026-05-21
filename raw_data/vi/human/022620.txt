@@ -1,0 +1,1 @@
+Store được co là phần quan trọng nhất trong Redux, nó có nhiệm vụ lưu trữ và phân phát dữ lệu cho các component. Trong store bao gồm các thành phần như dspatcher (có nhiệm vụ kích hoạt các acton bên trong reducer), reducer có nhiệm vụ xử lý các hành động được gửi đến. Sau đây là mô hình cách thức hoạt động của Redux.

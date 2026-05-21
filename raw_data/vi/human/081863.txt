@@ -1,0 +1,1 @@
+Nếu một giao lộ cho phép AGV hoạt động ở cả 2 chế điộ thì sẽ có 2 điỉnh chế điộ:vvàvđiạ diện cho điỉnh ở 2 chế điộ hoạt động của AGV.

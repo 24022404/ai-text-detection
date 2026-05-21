@@ -1,0 +1,1 @@
+Kến trúc UNETR Hình 3.5: Kến trúc mô hình UNETR  Kến trúc UNETR được lấy cảm hứng từ thành công gần điây của Transformer ở lĩnh vực xử lý ngôn ngữ tự nhên (NLP) trong việc học mố lên hệ gữa các vùng ở xa nhau.

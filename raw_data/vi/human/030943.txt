@@ -1,0 +1,1 @@
+Mối tương quan giữa HTML và CSS rất mật thiết. HTML là ngôn ngữ markup (nền tảng của este) và CSS định hình phong cách (tất cả những gì tạo nên giao diện website), chúng là không thể tách rời.

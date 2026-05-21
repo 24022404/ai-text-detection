@@ -1,0 +1,1 @@
+Kubernete archtecture explanaton . [On]. Avalable:  medum.com/smplfedkubernetesarchtecture3febe12480eb (vsted on 02/10/2023). How totp works . [On]. Available:  docs/glossary/top (visited on 02/10/2023).

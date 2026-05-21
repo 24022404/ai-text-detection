@@ -1,0 +1,1 @@
+GitHub Actions then executed the workflow automatically based on the definedschedule or events. The data update process would occur without any manual in tervention, ensuring that the web application always displayed the most current cryptocurrency data.

@@ -1,0 +1,1 @@
+Daily update cryptocurrencies price: At 00:15 UTC+0 every day, Github Actions’s Virtual machine will run the code to generate the updated data file for cryp tocurrency prices. After generating the file, Github Actions’s Virtual machine will push it to the GitHub repository.

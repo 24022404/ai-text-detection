@@ -1,0 +1,1 @@
+Hstorcal (Lịch sử) là tến trình xử lý lưu trữ liệu có thể truy vấn được. Các node đang chạy các tến trình Hstorcal tìm nạp các segment từ Deep Storage điến điĩa cục bộ của chúng và trả lờ các truy vấn về các phân đioạn này.

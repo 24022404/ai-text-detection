@@ -1,0 +1,1 @@
+Trình quản lý tài nguyên chịu trách nhiệm tiếp nhận các công việc gửi đến,thương lượng vùng chứa điều tên điểm thực thi chủ ứng dụng (Applications ter) và cung cấp dịch vụ khởi động lại vùng chứa Application Master ko bị lỗ.

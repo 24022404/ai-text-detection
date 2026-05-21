@@ -1,0 +1,1 @@
+Intersection over Union (IoU, Jaccard index) Intersection over Union (IoU), cũng được bếp điện là độ đo Jaccard index, đây là một độ đo được sử dụng phổ biến và hiệu quả trong phân vùng ngữ nghĩa. IoU được tính bằng cách lấy diện tích vùng chồng lấn của nhãn dự đoán và nhãn thực cha cho vùng diện tích hợp nhất của cả hai nhãn (xem hình minh họa 4.1).

@@ -1,0 +1,1 @@
+Loss distill (xi, W) =H(qit, qis) (3.2) where His cross entropy function, qitis the prediction probability of teacher model atxiandqisis the prediction probability of student model at xi.

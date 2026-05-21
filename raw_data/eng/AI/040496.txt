@@ -1,0 +1,9 @@
+Objective: Accurate segmentation of anatomical structures in medical images is critical for diagnosis and treatment planning, yet existing deep learning models often struggle with fine boundary delineation and robustness across modalities. This work introduces an Iterative Deep Convolutional Encoder-Decoder Network (IDCED-Net) to enhance segmentation precision through progressive refinement.
+
+Methods: IDCED-Net builds on an encoder-decoder backbone with multi-scale feature extraction and symmetric skip connections. Unlike one-pass architectures, our model incorporates an iterative feedback mechanism: at each stage, the decoder’s segmentation output is re-encoded and fused with original features, allowing subsequent passes to correct residual errors. We train the network end-to-end using a combined loss function that balances region overlap (Dice loss) and edge coherence (boundary loss). Data augmentation and modality-specific normalization ensure generalization across MRI and CT scans.
+
+Results: Evaluations on publicly available brain tumor and liver lesion datasets demonstrate that IDCED-Net achieves an average Dice score of 0.92 and Intersection over Union (IoU) of 0.87, outperforming baseline UNet and FCN models by 4–6% in segmentation accuracy. Iterative refinement yields sharper boundaries and reduces false positives in low-contrast regions. Training convergence is accelerated by up to 20% compared to non-iterative counterparts.
+
+Conclusion: The proposed IDCED-Net delivers significant improvements in medical image segmentation through its novel iterative encoder-decoder design. This approach offers enhanced accuracy and robustness, making it suitable for clinical workflows and further extension to other imaging modalities.
+
+Keywords: medical image segmentation, convolutional neural network, encoder-decoder, iterative refinement, deep learning.

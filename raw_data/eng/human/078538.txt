@@ -1,0 +1,1 @@
+Chrstan Szegedy et al. “Gong deeper wth convolutons”. In: Proceedngs of the IEEE conference on computer vson and pattern recognton . 2015, pp. 1–9.

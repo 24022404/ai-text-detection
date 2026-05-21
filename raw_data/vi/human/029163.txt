@@ -1,0 +1,1 @@
+Thiết kế giao diện Trong phạm vi của Đồ án này, hệ thống Quản lý bán hàng sẽ được thiết kế chạy trên trình duyệt web. Sau đây là thiết kế một số màn hình chính của hệ thống:

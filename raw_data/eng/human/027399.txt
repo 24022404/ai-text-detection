@@ -1,0 +1,1 @@
+Control character shoot This test case is to test the player’s ability when using the left mouse button for controlling the character to shoot (Figure 4.2).

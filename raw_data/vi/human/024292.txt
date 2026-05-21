@@ -1,0 +1,1 @@
+Quản lý giỏ hàng: Chỉ khách hàng đã đăng nhập mới có thể quản lý giỏ hàng (thêm sản phẩm, chỉnh sửa số lượng, xóa) sản phẩm trong giỏ hàng.

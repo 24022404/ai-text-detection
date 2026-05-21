@@ -1,0 +1,1 @@
+Therefore, when displaying detailed inventory results with RFID tags in logis tics warehouses, it is necessary to show full information including:

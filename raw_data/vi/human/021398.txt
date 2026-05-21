@@ -1,0 +1,1 @@
+Tích hợp với các công nghệ khác: Flask có thể được tích hợp với các công nghệ và thư viện khác, bao gồm các thư viện hỗ trợ cho học máy và trí tuệ nhân tạo.

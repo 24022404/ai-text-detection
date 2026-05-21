@@ -1,0 +1,1 @@
+React Js ReactJS  là một thư viện JavaScript mã nguồn mở được sử dụng để xây dựng giao diện người dùng (UI) cho các ứng dụng web. Nó được phát triển bở Facebook và được sử dụng bởi nhiều công ty lớn trên toàn thế giới.

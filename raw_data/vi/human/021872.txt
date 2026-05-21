@@ -1,0 +1,1 @@
+person+1 recall(4.2) hay F1= 2.1 person+1 recall= 2.precision .recall precision + recall(4.3)Hình 4.1: Công thức Precision và Recall Precision: được định nghĩa là tỉ lệ số điểm true positive trong số những điểm được phân loại là positive (TP + FP).

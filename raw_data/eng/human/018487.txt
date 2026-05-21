@@ -1,0 +1,1 @@
+R. Sennrich, B. Haddow andA. Birch, “Neural machine translation of rare words with subword units,” inProceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) Association for Computational Linguistics, august 2016, pages 1715–1725. DOI:10.

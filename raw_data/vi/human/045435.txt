@@ -1,0 +1,1 @@
+Standalone : một trình quản lý cụm đơn giản đi kèm vớ Spark giúp dễ dàng thiết lập một cụm.

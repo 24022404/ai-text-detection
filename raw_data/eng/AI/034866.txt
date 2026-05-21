@@ -1,0 +1,1 @@
+The APP section displays the app icon, name, version, and package name, plus a warning badge if the scan is incomplete.

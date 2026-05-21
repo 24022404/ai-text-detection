@@ -1,0 +1,1 @@
+MySQL cho phép dữ lệu tồn tại và truy cập trên nhiều công cụ lưu trữ như CSV, NDB hay InnoDB cũng như cho phép sao chép và phân vùng bảng dữ lệu. Ngoài ra các vấn đề về bảo mật trong MySQL cũng được nhà phát triển chú trọng điầu tư và đảm bảo cho người dùng.

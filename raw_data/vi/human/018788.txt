@@ -1,0 +1,1 @@
+Phân quyền và quản lý mức độ truy cập của những người có nhiệm vụ quản lý các thiết bị của địa điểm/tổ chức cung cấp wifi công cộng.

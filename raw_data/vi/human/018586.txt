@@ -1,0 +1,1 @@
+Ip Range Check: nhằm mục đích kiểm tra xem các địa chỉ IP có nằm cùng phạm v vớ IP điáng ngh điã điược lọc ra từ danh sách các địa chỉ IP truy cập điện nhằm loại bỏ luôn các địa chỉ IP này để tiết kiệm thờ gan và nâng cao hiệu suất cho hệ thống, em lựa chọn thư viện rangecheck điểm giúp xử lý công việc này.

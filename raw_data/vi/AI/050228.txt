@@ -1,0 +1,5 @@
+Đánh giá tương quan giữa điểm biến dạng hình đo bằng bảng M và cấu trúc hoàng điểm trong phù hoàng đ là một nghiên cứu khoa học nhằm xác định mối quan hệ giữa hai phương pháp đo biến dạng hình học khác nhau. Bảng M là một công cụ đo biến dạng hình học được sử dụng rộng rãi trong nhiều lĩnh vực, trong khi cấu trúc hoàng điểm là một phương pháp đo biến dạng hình học dựa trên phân tích hình ảnh.
+
+Nghiên cứu này đã thực hiện đo biến dạng hình học bằng cả hai phương pháp trên và so sánh kết quả để đánh giá tương quan giữa chúng. Kết quả cho thấy rằng hai phương pháp đo biến dạng hình học này có mối quan hệ chặt chẽ với nhau, và kết quả đo bằng bảng M có thể được sử dụng để dự đoán kết quả đo bằng cấu trúc hoàng điểm.
+
+Kết quả nghiên cứu này có ý nghĩa quan trọng trong việc xác định phương pháp đo biến dạng hình học phù hợp cho từng ứng dụng cụ thể. Nó cũng cung cấp thông tin quan trọng cho các nhà khoa học và kỹ sư trong việc lựa chọn phương pháp đo biến dạng hình học phù hợp cho nghiên cứu và ứng dụng của họ.

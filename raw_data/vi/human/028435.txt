@@ -1,0 +1,1 @@
+Khi sử dụng kỹ thuật này, chỉ một số phần tử đầu tên của danh sách sẽ được tả và hiển thị cho người dùng ban đầu. Khi người dùng cuộn xuống dưới của trang, các phần tử tiếp theo sẽ được tả và thêm vào danh sách. Kỹ thuật được ứng dụng vào hệ thống trong các danh sách về thu chi, ngân sách, bạn bè và thông báo.

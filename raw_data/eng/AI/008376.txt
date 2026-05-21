@@ -1,0 +1,9 @@
+Objective: Ensuring both accurate identification and operational safety during data-driven modeling of dynamical systems is critical in safety-sensitive applications such as autonomous vehicles and industrial automation. This paper addresses the problem of safe exploration for identifying unknown linear systems under explicit safety constraints.  
+
+Methods: We formulate the exploration task as a robust optimization problem that selects input sequences to maximize the worst-case reduction in model uncertainty while guaranteeing that all state and input trajectories remain within predefined safe sets. By leveraging confidence sets derived from least-squares estimation and casting safety requirements as linear matrix inequalities, our approach yields a convex program solvable in real time. We further develop an iterative scheme that refines system estimates and updates safe exploration policies on the fly.  
+
+Results: The proposed method is shown to provide rigorous probabilistic safety guarantees at every exploration step. Theoretical analysis establishes sublinear growth of identification error with respect to the number of samples, matching the performance of unconstrained exploration up to constant factors. In simulation studies on high-dimensional linear systems, our robust exploration strategy achieves up to 40% reduction in parameter estimation error compared to baselines that ignore safety or treat it conservatively, while strictly satisfying all safety bounds.  
+
+Conclusion: This work demonstrates that robust optimization can reconcile exploration and safety in linear system identification, offering a principled framework for deploying adaptive learning controllers in safety-critical environments.  
+
+Keywords: safe exploration; linear system identification; robust optimization; safety constraints; confidence sets.

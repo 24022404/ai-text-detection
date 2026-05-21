@@ -1,0 +1,1 @@
+STT Tên trường Kiểu dữ lệu Ý nghĩa 1 user id Integer mã định danh khách hàng 2 category_id Integer mã định danh thể loại sách 3 update_time Datetime thờ gan gần nhất khách hàng quan tâm đến thể loại điốt Bảng 4.4: Bảng cdp_customer_category_assocaton Bảng cdp_customer_book_assocaton lưu trữ thông tin về những cuốn sách mà khách hàng đã từng xem qua.

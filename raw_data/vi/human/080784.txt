@@ -1,0 +1,1 @@
+Luồng tương đương/ngọa lệ:2.4.9 Xóa thông báo Bảng 2.9: Đặc tả use case – Xóa thông báo Tên ca sử dụng: Xóa thông báo ID: 9 Tác nhân chính: Bí thư Mục đích: Bí thư xóa thông báo Mô tả: Ca sử dụng này mô tả cách bí thư xóa thông báo Kích hoạt: Bí thư xóa thông báo Luồng sự kiện chính:

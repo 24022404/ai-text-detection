@@ -1,0 +1,1 @@
+Game điã có các yếu tố ngẫu nhiên của một game RPG: vật phẩm có thể rơi ra từ quái vật hay đồ đạc bị phá vỡ, chỉ số trên các tem là không giống nhau mà thường sẽ có tem này mạnh hơn tem khác và lượng sát thương gây ra mỗi khi người chơ sử dụng kỹ năng trong game là không giống nhau.

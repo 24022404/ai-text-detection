@@ -1,0 +1,1 @@
+Whatmyuseragent.com whatmyuseragent cung cấp app giúp xác định thông tin về loại trình duyệt, loại điện thoại cũng như hệ điều hành dựa trên dữ lệu từ useragent lưu trên trình duyệt.

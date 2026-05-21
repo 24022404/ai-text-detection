@@ -1,0 +1,1 @@
+Use case CRUD các yêu cầu cho dự án, người dùng có thể tạo, xem, sửa, xóa các yêu cầu cho một dự án nào đó của mình. Cuối cùng use case xem các dịch vụ đám mây phù hợp. Hệ thống sẽ tính toán dựa trên các yêu cầu của người dùng, hiển thị gợi ý ra những dịch vụ của nhà cung cấp phù hợp, người dùng có thể xem để ra quyết định lựa chọn.

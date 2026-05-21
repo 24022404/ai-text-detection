@@ -1,0 +1,1 @@
+Dữ liệu phân cấp: Trong Ontology, các khái niệm được nhóm lại với nhau thông qua các nhãn cho phép phân biệt các cấp độ tri thức khác nhau, từ đó chatbot có thể dễ dàng tham vấn vào từng mức độ tùy theo yêu cầu sử dụng.

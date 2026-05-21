@@ -1,0 +1,9 @@
+Objective: Recovering the three-dimensional shape and motion of fast-moving objects from blurred imagery remains a fundamental challenge in computational photography and computer vision. This paper introduces a novel framework, Shape from Blur, that jointly estimates textured 3D geometry and motion parameters using the blur patterns inherent in a single image or a short video sequence.
+
+Methods: We model motion blur as the integral of a deformable 3D surface undergoing rigid motion over the exposure interval. A differentiable blur formation module is combined with a mesh-based surface representation and spatially varying texture. By optimizing shape vertices, object pose, and texture simultaneously, our approach exploits blur cues rather than treating them as noise. We employ a coarse-to-fine optimization strategy with photometric and motion consistency losses to ensure convergence even under severe blur.
+
+Results: On both synthetic benchmarks and real-world captures of spinning gears, flying projectiles, and rapidly articulated objects, Shape from Blur achieves up to 40% lower shape reconstruction error and 30% more accurate motion trajectories compared to state-of-the-art deblurring-then-reconstruct pipelines. Qualitative results demonstrate recovery of fine surface details and precise motion paths that were previously unrecoverable.
+
+Conclusion: Our work presents the first end-to-end system for exploiting motion blur as a signal for 3D reconstruction and motion estimation. This technique paves the way for high-speed 3D scanning in sports analysis, robotics, and industrial inspection.
+
+Keywords: shape from blur, motion blur, 3D reconstruction, motion estimation, computational photography

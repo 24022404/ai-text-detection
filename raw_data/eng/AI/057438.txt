@@ -1,0 +1,9 @@
+Objective: Generalized Zero-Shot Learning (GZSL) models often suffer from visual bias toward seen classes, limiting their ability to recognize novel categories. This paper introduces a Domain-aware Visual Bias Eliminating (DVBE) framework that explicitly addresses and mitigates the domain gap between seen and unseen classes in GZSL.
+
+Methods: DVBE integrates a domain discriminator into the visual-semantic embedding pipeline. During training, an adversarial objective encourages the feature extractor to produce domain-invariant representations that confuse the discriminator, while a bias reduction module re-weights class prototypes based on their domain similarity scores. We further incorporate a semantic consistency loss to preserve inter-class relationships and ensure that features remain discriminative for both seen and unseen categories.
+
+Results: We evaluate DVBE on three standard GZSL benchmarks—AwA2, CUB, and SUN—using per-class accuracy and harmonic mean as metrics. Compared to baseline methods, DVBE achieves an average harmonic mean improvement of 7.2%, demonstrating substantial gains on unseen class recognition without sacrificing seen class performance. Ablation studies confirm the effectiveness of both the adversarial domain alignment and prototype re-weighting components.
+
+Conclusion: By explicitly modeling domain bias and enforcing feature invariance, DVBE significantly enhances the balance between seen and unseen class accuracies in GZSL. This approach paves the way for more robust zero-shot models capable of reliable generalization to novel categories.
+
+Keywords: Generalized zero-shot learning, visual bias elimination, domain adaptation, adversarial learning, semantic embedding.

@@ -1,0 +1,1 @@
+Khả năng kết nối cục bộ: Để thiết kế một lớp nơron đầy đủ xử lý hình ảnh rất khó vì kích thước ảnh rất lớn. Để gả quyết vấn đề này, mạng nơron tích chập chỉ kết nối tới một bộ phận nhỏ nơron của tầng trước. Nhờ kết nối cục bộ, mạng tích chập có thể tập trung trích xuất ra được những đặc điểm quan trọng như góc, cạnh, kết cấu của vật thể tồn tại trong ảnh.

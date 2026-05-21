@@ -1,0 +1,1 @@
+CMD [ "npm", "run", "start" ]Add a further .dockerignore file to ensure that local files do not affect the con tainer build process:

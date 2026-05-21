@@ -1,0 +1,1 @@
+Chuỗ thờ gan thường có tính chất dự báo, do các gá trị trong tương la phụ thuộc vào các gá trị quá khứ.

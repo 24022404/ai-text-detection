@@ -1,0 +1,1 @@
+Component misalignment and excess tin during tin printing are significant causes of tin bridges forming between pins. Other contributing factors exist, but effective solutions have been suggested to address these common production issues.

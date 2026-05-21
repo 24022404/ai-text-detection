@@ -1,0 +1,1 @@
+Lý do Do thờ gan thực hiện giao dịch của Su Network bị chậm vào 1 số thời điểm, crawler truy xuất chậm do lỗi full node.

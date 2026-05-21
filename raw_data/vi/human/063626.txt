@@ -1,0 +1,1 @@
+Config: Là class chứa các thuộc tính, phương thức liên quan đến cấu hình của người dùng.bCh tết gó Calendar Hình 4.5: Biểu đồ lớp cho tết có Calendar Trong đó:

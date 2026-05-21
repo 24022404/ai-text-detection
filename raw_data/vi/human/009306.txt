@@ -1,0 +1,1 @@
+MySQL cũng rất linh hoạt khi cung cấp các kết nối hỗ trợ nhiều ngôn ngữ lập trình và có thể chạy trên nhiều nền tảng. Đều này giúp dễ dàng tích hợp với các ứng dụng và hệ thống hiện có.

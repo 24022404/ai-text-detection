@@ -1,0 +1,1 @@
+Quản lý có thể tạo lập, chỉnh sửa, xóa và tìm kiếm các sản phẩm có trong cửa hàng m2.2.5 Phân rã use case "Quản lý sự kiện" Hình 2.5: Phân rã use case "Quản lý sự kiện" Use case này được sử dụng bởi quản trị viên sau khi đăng nhập thành công.

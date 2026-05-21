@@ -1,0 +1,1 @@
+A checksum serves as a unique hash identifier for the APK, while perms represent the permissions list taken from the APK file.

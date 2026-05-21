@@ -1,0 +1,1 @@
+Bên cạnh đó, hệ thống còn tích hợp OpenAI API, cho phép sử dụng trí tuệ nhân tạo mạnh mẽ của OpenAI, bao gồm các tính năng NLP (Natural Language Processing) và GPT 3.5, giúp cung cấp thông tin chi tiết, trả lời câu hỏi hoặc dự đoán dữ lệu. Ch tết sẽ được trình bày trong phần 5.1.

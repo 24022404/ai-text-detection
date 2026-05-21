@@ -1,0 +1,1 @@
+Recall =number of overlapping words total words in the reference summary(2.1)Precision, on the other hand, measures how much of the information in the system summary is relevant and necessary. Precision is calculated as:

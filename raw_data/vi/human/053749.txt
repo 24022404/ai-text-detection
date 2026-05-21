@@ -1,0 +1,1 @@
+TRÌNH MÔ PHỎNG OMNeT++ OMNeT++ là trình mô phỏng mạng không dây, là trình mô phỏng mạng sự kện rờ rạc kiến trúc mở môđiun dựa trên thành phần điược trển kha trong C++ cho :

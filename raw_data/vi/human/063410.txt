@@ -1,0 +1,1 @@
+Hệ thống backend cho NFT Marketplace đã hoàn thiện hết các tính năng đặt ra khi bắt đầu xây dựng dự án nhưng không vì thế mà hệ thống có thể không được xây dựng và phát triển nữa. Do những hạn chế về thời gian cũng như kỹ năng của bản thân, hệ thống vẫn còn các vấn đề về tối ưu hiệu năng xử lý, cũng như đảm bảo được càng nhiều người dùng thì hệ thống vẫn có thể chịu tải được.

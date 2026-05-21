@@ -1,0 +1,1 @@
+Đồng thuận: Một hệ thống chuỗ khố thiết lập các quy tắc về sự đồng thuận của người tham ga cho phép gh lạ các giao dịch. Bạn chỉ có thể gh lạ các giao dịch mớ khi đia số người tham ga mạng lướ đồng thuận.

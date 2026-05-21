@@ -1,0 +1,1 @@
+newMessage: phương thức này gồm 4 tham số là content, type, conversation Id và token, nhằm gửi tin nhắn của người dùng có nội dung content, loại type(văn bản, hình ảnh, video) vào cuộc hội thoại có mã cuộc hội thoại là conversationId.

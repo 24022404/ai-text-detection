@@ -1,0 +1,1 @@
+In logistics warehouses, the goods stored are not just those that have been or dered, but also many goods waiting to be distributed to other locations. Therefore, combining the FIFO and FEFO algorithms is a suitable option for managing these goods effectively.

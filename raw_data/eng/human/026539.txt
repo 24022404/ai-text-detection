@@ -1,0 +1,1 @@
+Bag of Words Bag of Words (BoW) is the traditional vector representation most commonly used in word embedding methods. Each word or n-gram is associated with a vector index and marked as 0 or 1 depending on its occurrence in the given document.

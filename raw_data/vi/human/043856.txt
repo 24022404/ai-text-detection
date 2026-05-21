@@ -1,0 +1,1 @@
+Các tính năng chính của Elxr Hình 3.3: Chức năng chính của Elxr Được xây dựng trên máy ảo Erlang. Elxr có quyền truy cập vào tất cả các công cụ đồng thờ mà Erlang có quyền truy cập, khiến nó trở thành một trong những ngôn ngữ hiện đại mạnh mẽ nhất để xây dựng các hệ thống phân tán, có thể mở rộng.

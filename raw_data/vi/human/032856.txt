@@ -1,0 +1,1 @@
+Để xây dựng trang web cho phép người dùng có thể truy cập trên các thiết bị điện tử khác nhau thì em đã thiết kế hệ thống theo phong cách Responsive (thiết kế web đáp ứng) và xây dựng hệ thống bằng Laravel Framework.

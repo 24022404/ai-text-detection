@@ -1,0 +1,1 @@
+General use case diagram Base on figure 2.4, the system consists of three agents : Guest, User and Admin Figure 2.4: General use case diagram Guest will have the following features :

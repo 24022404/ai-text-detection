@@ -1,0 +1,1 @@
+Về hiệu năng ReactJS sử dụng cơ chế Virtual DOM điểm tối ưu hóa quá trình hiển thị và cập nhật giao diện, giúp tăng tốc độ hiển thị các thành phần gạo vện và cải thiện trải nghiệm người dùng. Thêm vào đó, ReactJS còn hỗ trợ Serverside Rendering (SSR), giúp tăng tốc độ tải trang và cải thiện tính tương tác của ứng dụng.

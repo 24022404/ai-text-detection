@@ -1,0 +1,1 @@
+M(Model): Có nhệm vụ thao tác với cơ sở dữ lệu, nghĩa là nó sẽ chứa tất cả các hàm, các phương thức truy vấn trực tếp với dữ lệu và controller sẻ thông qua các hàm, phương thức đió để lấy dữ lệu rồ gửi qua Vew.

@@ -1,0 +1,1 @@
+Đặc tả use case Xem thông tin sản phẩm Khách hàng viếng thăm hoặc thành viên điều sử dụng use case “Xem thông tin sản phẩm” để xem thông tin từng sản phẩm hiện có trên trang chủ của trang web.

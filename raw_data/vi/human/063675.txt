@@ -1,0 +1,1 @@
+Quản trị viên: sẽ có quyền quản lý các tài khoản của người dùng, các thông tin được đăng tải trên hệ thống.

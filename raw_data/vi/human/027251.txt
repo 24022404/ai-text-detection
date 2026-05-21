@@ -1,0 +1,1 @@
+Tên Kiểu dữ lệu Mô tả Có bắt buộc Có Ràng buộc d Int Id file đính kèm Có Khóa chính fle_path Varchar(255) UUID của file Có filename Varchar(255) Tên file Có d_task Int Id task Có Khoá ngoạ d_comment Int Id bình luận Có Khóa ngoại Bảng 4.10: Bảng dữ liệu Attachments Bảng dữ lệu More_nformaton_topc Mục đích: Lưu thông tin ch tết của điều tà.

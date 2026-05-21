@@ -1,0 +1,1 @@
+Token JWT có ba phần chính: header, payload và signature. Header chứa các thông tin về loại token và thuật toán mã hóa được sử dụng. Payload chứa các thông tin về người dùng và các quyền truy cập của họ. Signature chứa chữ ký số để xác thực tính toàn vẹn của token.

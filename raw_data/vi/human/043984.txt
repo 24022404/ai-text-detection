@@ -1,0 +1,1 @@
+Dưới đây là file excel thông tin chi tiết doanh thu theo từng khách hàng trong ngày 18/7/2022.Hình 5.12: Xuất báo cáo excel doanh thu ch tết theo khách hàng 5.4.5 Kết quả Hệ thống điã có thể cho phép người dùng xem báo cáo doanh thu theo khách hàng theo khoảng thờ gan tùy chỉnh, có thể sắp xếp một số trường dữ liệu như:

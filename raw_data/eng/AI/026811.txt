@@ -1,0 +1,1 @@
+Cross-entropy loss, denoted as L, measures the difference between true binary labels (y) and predicted probabilities (p) for the positive class. It is calculated using the formula L = -y log(p) - (1-y) log(1-p), where log() is the natural logarithm.

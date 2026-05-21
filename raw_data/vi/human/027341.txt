@@ -1,0 +1,1 @@
+Các chức năng của hệ thống Hệ thống gồm hai phần: website cho khách hàng và website cho người bán hàng.

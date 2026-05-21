@@ -1,0 +1,1 @@
+Cơ chế này tạo ra ha bộ mã khóa cho các thành viên trong mạng lướ. Một mã khóa là mã khóa công kha cho mọ người trong mạng lướ dùng chung. Mã khóa còn lạ là mã khóa rêng tư duy nhất của mỗ thành viên. Mã khóa rêng tư và công kha hoạt động cùng nhau để mở khóa dữ liệu trong sổ cá.

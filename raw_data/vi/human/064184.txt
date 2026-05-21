@@ -1,0 +1,1 @@
+Chọn sản phẩm bất kỳ . Hiển thị ch tết sản phẩm . Hiển thị ch tết sản phẩm . Đạt 4.4.2 Chức năng tìm kiếm sản phẩm Bảng 4.4: Kiểm thử chức năng tìm kiếm sản phẩm Test case Quy trình thực hiện  Kết quả mong đợi  Kết quả đạt được  Trạng thái TC01  1. Nhập từ khóa sản phẩm vào thanh tìm kiếm.

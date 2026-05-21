@@ -1,0 +1,1 @@
+Phần backend của hệ thống được phát triển bằng Nodejs và Expressjs, một framework nhẹ và mạnh mẽ, giúp tạo ra các API và quản lý logc phía server.Node.js cho phép xử lý số lượng lớn kết nối đồng thờ một cách hiệu quả, phù hợp với các ứng dụng có yêu cầu cao về hiệu suất.

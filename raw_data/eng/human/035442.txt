@@ -1,0 +1,1 @@
+Leti=DKRR(uk,s)be the position of the word uk,sin the granddaddy sequence of order kx. Recall that, from Construction 1, we have ck,s= (xi+1, . . . , x n,0s).

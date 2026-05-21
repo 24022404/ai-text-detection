@@ -1,0 +1,1 @@
+Ví dụ: Tìm kiếm các địa điểm du lịch thông qua loại địa điểm Hình 3.13: Gao vện quản lý internet của LUIS Để trích xuất được thông tin từ người dùng, ta cần tiến hành huấn luyện, xác định danh sách các thực thể có thể xuất hiện trong câu hội thoại.

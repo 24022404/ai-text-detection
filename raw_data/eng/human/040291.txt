@@ -1,0 +1,1 @@
+OF. Bourgeois, Z. Bubinski, and H. Emptoz, “A fast and efficient method for extracting text paragraphs and graphics from unconstrained documents,”Proceedings., 11th IAPR International Conference on Pattern Recognize ton. Vol.II. Conference B: Pattern Recognition Methodology and Systems , 1992, pp. 272–276. DOI:10.1109/ICPR.1992.201771 .

@@ -1,0 +1,1 @@
+The development objective of the project is to create useful tools that assist developers in the game development process, reducing time and effort. These tools aim to help developers focus on the core aspects of the game by handling repetitive or complex tasks, ultimately streamlining the development workflow.

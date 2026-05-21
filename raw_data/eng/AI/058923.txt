@@ -1,0 +1,1 @@
+During printing, tin deflection leads to the formation of excess solder pins as the assembly passes through the furnace.

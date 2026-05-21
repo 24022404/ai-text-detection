@@ -1,0 +1,1 @@
+Trong đồ án này, em sử dụng Hadoop YARN điểm quản lý tài nguyên, điều phối và lập lịch cho các chương trình Spark thực hiện phân tích dữ lệu. Vì thế em sẽ đi sâu vào việc trình bày mô đun này.

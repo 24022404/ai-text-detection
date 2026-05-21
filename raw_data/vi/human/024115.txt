@@ -1,0 +1,1 @@
+Kết quả đạt được Sau khi kết hợp các bộ dữ liệu có sẵn, tô đã thu được kết quả là bộ dữ liệu gồm 6 cử chỉ tay, có tổng số lượng hình ảnh là 6600k, tương ứng với mỗi cữ tay có khoảng 1100 hình ảnh . Bộ dữ liệu này sẽ được đóng góp cho cộng cộng phục vụ mục đích nghiên cứu và học tập những bài toán liên quan.

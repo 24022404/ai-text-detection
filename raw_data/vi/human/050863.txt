@@ -1,0 +1,1 @@
+–Data Frame là một Dataset được tổ chức thành các cột có tên. Về mặt khá nệm, nó tương đương với một bảng trong cơ sở dữ lệu quan hệ hoặc một khung dữ lệu trong IPython, nhưng với các tối ưu hóa phong phú hơn.

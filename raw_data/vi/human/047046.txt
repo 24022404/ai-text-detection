@@ -1,0 +1,1 @@
+Events: Event trong laravel cũng tương tự theo kiểu ta có một sự kện và trong sự kện đió có nhêu hành động.

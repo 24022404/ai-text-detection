@@ -1,0 +1,1 @@
+To visually illustrate the interactions between these classes, the following sequence diagrams present some common use cases: booking an appointment, ac cepting/declining an appointment.

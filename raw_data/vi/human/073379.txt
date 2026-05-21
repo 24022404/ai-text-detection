@@ -1,0 +1,1 @@
+Chương điầu tiên của đồ án tốt nghiệp, em sẽ giới thiệu về điều là “Hệ thống tuyển dụng điều dưỡng”. Trong chương này, em sẽ nêu vấn đề dẫn đến việc em xây dựng hệ thống này. Sau đó, đặt ra mục tiêu cần đạt được và đề cập đến bố cục các chương của đồ án.

@@ -1,0 +1,1 @@
+Nếu người dùng click vào xem chợ tết video do chính mình đăng tải, trên giao diện cho tết video sẽ hiển thị nút cài đặt video, người dùng có thể chỉnh sửa quyền của video bằng cách ấn vào cài đặt quyền riêng tư như hình 4.16.

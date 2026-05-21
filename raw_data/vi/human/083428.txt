@@ -1,0 +1,1 @@
+Tính toán Cosne Smarty (độ tương tự Cosin) giữa các cặp vector khách hàng. Mỗ vector khách hàng sẽ biểu diễn bằng các giá trị mua hàng của họ.2. Sử dụng các giá trị mua hàng để tạo thành các vector đại diện cho mỗi khách hàng trong không gian đa chiều. Vector này có số chiều bằng số lượng sản phẩm.

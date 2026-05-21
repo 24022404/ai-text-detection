@@ -1,0 +1,1 @@
+It then takes those URLs and sends them to message queue and let the queue system perform the job distribution process.

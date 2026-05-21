@@ -1,0 +1,1 @@
+Kết quả đạt được Qua thực nghiệm với bộ dữ liệu 20 người gồm từ 50 tới 100 ảnh mổ người, tôi đã tìm ra khoảng cách giữa các vector đặc trưng để nhận diện khuôn mặt với độ chính xác 82,42%. Ha khuôn mặt được xác định là cùng một người kh khoảng cách giữa hai vector đặc trưng nhỏ hơn 5Ha khuôn mặt được tính là khác nhau kh khoảng cách giữa hai vector đặc trưng lớn hơn 5,5.

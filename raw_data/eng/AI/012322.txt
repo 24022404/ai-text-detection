@@ -1,0 +1,11 @@
+Here is a potential abstract for the graduation thesis:
+
+The increasing demand for accurate machine translation has led to a growing interest in domain-oriented approaches. English-Vietnamese machine translation, in particular, poses significant challenges due to the linguistic and cultural differences between the two languages. This thesis aims to address these challenges by researching and developing a domain-oriented machine translation system for English-Vietnamese language pairs.
+
+The main objectives of this research are to investigate the effectiveness of domain adaptation techniques in improving translation accuracy and to develop a system that can efficiently translate domain-specific texts. The research focuses on solving the problems of lexical and syntactical discrepancies between English and Vietnamese, as well as addressing the issue of limited training data for domain-specific translation tasks.
+
+The methodology employed in this research involves using a combination of machine learning and deep learning techniques, including neural machine translation and domain adaptation methods. The system architecture is based on a encoder-decoder framework, utilizing attention mechanisms and transfer learning to improve translation performance.
+
+The results of this research show significant improvements in translation accuracy for domain-specific texts, particularly in the fields of technology and healthcare. The expected contributions of this research include the development of a highly accurate domain-oriented machine translation system for English-Vietnamese language pairs, as well as the provision of insights into the effectiveness of domain adaptation techniques for low-resource languages.
+
+In conclusion, this research demonstrates the potential of domain-oriented machine translation for improving translation accuracy and addressing the challenges of English-Vietnamese language pairs. Future developments may involve exploring the application of this system to other language pairs and domains, as well as investigating the use of multimodal inputs to further improve translation performance.

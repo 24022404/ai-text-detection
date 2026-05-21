@@ -1,0 +1,1 @@
+Sau đó, Laravel không ngừng phát trển và ngày càng khẳng định vị thế hàng điầu trong những framework web. Phên bản mớ nhất của Laravel là phên bản số 9, được ra mắt vào tháng 2 năm 2022.

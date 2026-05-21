@@ -1,0 +1,1 @@
+Góc view: chứa ha gó navigator,screen và component. Gói component gồm những component vết riêng cho việc tái sử dụng. Gói screen gồm các màn hình gao vện và gió navigator chứa trật tự, đường dẫn đến các màn hình trong screen.•Gó utl chứa các hàm tính toán giúp cho việc lập trình thuận tiện đồng thời gúp mã nguồn gọn gàng.

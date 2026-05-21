@@ -1,0 +1,1 @@
+Postconditions : The user can view a list of browsable activities, including their names, intents, and any associated security configurations or risks.

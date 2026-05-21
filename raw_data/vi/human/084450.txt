@@ -1,0 +1,1 @@
+Trong chương này em sẽ trình bày về các công nghệ mà em đã sử dụng để xây dựng website của mình. Các ngôn ngữ dùng để xử lý frontend, backend, xử lý cơ sở dữ liệu và quản lý video.

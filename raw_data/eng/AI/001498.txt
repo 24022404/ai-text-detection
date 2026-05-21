@@ -1,0 +1,1 @@
+TOP_MALWARE_PERMISSIONS refers to a set of permissions that are commonly exploited by malicious software to gain access to private user information or to carry out dangerous operations on a device, putting users’ security at risk.

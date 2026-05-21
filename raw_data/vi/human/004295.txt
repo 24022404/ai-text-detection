@@ -1,0 +1,1 @@
+Yêu cầu về tính dễ bảo trì Mã nguồn ứng dụng cần tuân thủ các quy tắc Clean code như đặt tên biến, tên hàm đúng chức năng, xử lý các ngoại lệ có thể xảy ra. Hệ thống cũng cần được thiết kế đảm bảo cho khả năng nâng cấp, bảo trì, sửa chữa và cập nhật thường xuyên.

@@ -1,0 +1,1 @@
+A Use Case General Diagram is a diagram used in software system analysis and design to describe the functions and interactions between the main components of the system and the users (actors) involved.

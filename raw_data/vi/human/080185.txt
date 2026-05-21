@@ -1,0 +1,1 @@
+Màu xanh lá cây được dùng cho các chức năng thêm mới, màu vàng dùng cho các chức năng chỉnh sửa và màu đỏ dùng cho các chức năng xoá, báo lỗ. Gao vện có sự tương tác với người dùng. Các biểu tượng thông dụng giúp người dùng dễ dàng nhận biết các chức năng. Kh người dùng thực hiện xong các công việc sẽ có thông báo phản hồi.

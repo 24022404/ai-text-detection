@@ -1,0 +1,9 @@
+Objective: Accurate and efficient multi-step forecasting of spatial-temporal time series is critical for applications such as traffic management, energy demand prediction, and environmental monitoring. Traditional autoregressive models generate future values sequentially, leading to error accumulation and slow inference. 
+
+Methods: We introduce NAST, a Non-Autoregressive Spatial-Temporal Transformer tailored for time series forecasting. NAST employs parallel decoding to predict all future steps simultaneously, dramatically reducing inference latency. To capture complex dependencies, our architecture features two complementary modules: a Spatial Transformer that models inter-variable relationships via cross-attention, and a Temporal Transformer that learns intra-variable dynamics through self-attention. We further integrate a spatiotemporal position encoding scheme and apply a curriculum-based training strategy to bridge the gap between parallel predictions and ground truth sequences.
+
+Results: Experiments on four real-world benchmarks—including traffic speed, electricity consumption, and weather data—demonstrate that NAST matches or outperforms state-of-the-art autoregressive and non-autoregressive baselines. Across multiple forecasting horizons, NAST reduces mean absolute error by up to 12% and cuts inference time by an order of magnitude on long-horizon tasks. Ablation studies confirm the individual contributions of the spatial and temporal modules to overall performance.
+
+Conclusion: NAST delivers high-accuracy, low-latency forecasting by breaking the sequential generation bottleneck and effectively modeling spatial-temporal dependencies. Its efficiency and robustness make it a versatile tool for real-time decision support in diverse IT-driven domains.
+
+Keywords: Non-Autoregressive, Transformer, Time Series Forecasting, Spatial-Temporal Modeling, Real-Time Inference

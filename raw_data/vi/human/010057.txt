@@ -1,0 +1,1 @@
+Mô hình MVC ➢Cách tạo và gó sử dụng các phương thức trong các lớp Model, Controller. Đưa nộ dung Khách hàng yêu cầu ra vew.

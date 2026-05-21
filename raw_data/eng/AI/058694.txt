@@ -1,0 +1,1 @@
+Microservices architecture enables each service to be deployed and updated independently, ensuring that any changes or new features impact only the targeted service. This independence greatly simplifies the process of integrating new features compared to monolithic models.

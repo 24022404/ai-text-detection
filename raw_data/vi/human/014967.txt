@@ -1,0 +1,1 @@
+NodeJs là một dự án mã nguồn mở được thiết kế điển chạy trên môi trường V8 JavaScript Runtime, là trình thông dịch JavaScript được sử dụng trong trình duyệt Chrome. Nền tảng này được xem là lựa chọn hoàn hảo cho các ứng dụng cần sử dụng nhiều dữ liệu, nhờ vào mô trường hướng sự kiện (event driven) không đồng bộ.

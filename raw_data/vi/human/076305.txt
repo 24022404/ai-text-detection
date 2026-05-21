@@ -1,0 +1,1 @@
+Luồng sự kiện chính: 1. Quản trị viên chọn chức năng xác nhận giao hàng trong quản lý đơn hàng .

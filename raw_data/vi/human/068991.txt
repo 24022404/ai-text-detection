@@ -1,0 +1,1 @@
+Số lượng sản phẩm thành viên thêm vào giỏ lớn hơn số lượng trong kho, hệ thống thông báo lỗ.

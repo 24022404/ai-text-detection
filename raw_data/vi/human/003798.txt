@@ -1,0 +1,1 @@
+Đỉnh quyết định: Đỉnh quyết định điạ diện cho gao lộ trong mô trường. Tùy theo vệc giao lộ cho phép AGV hoạt động ở các chế điộ nào mà điỉnh này sẽ chứa các điỉnh chế điộ tương ứng. Nếu một giao lộ cho phép AGV hoạt động ở cả 2 chế điộ thì điỉnh quyết định vsẽ chứa 2 điỉnh chế điộ vvàv.

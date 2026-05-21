@@ -1,0 +1,1 @@
+Chính vì thế, để gả quyết vấn đề này, tô đã chọn ra một số sản phẩm thông dụng trong cửa hàng làm sản phẩm thử nghiệm và lựa chọn điều tà: "Ứng dụng phát hiện người và hành động lấy đồ trong cửa hàng tiện lợi" điểm tiếp cận bài toán và xây dựng một ứng dụng giúp cảnh báo sớm những sự cố xảy ra cho cửa hàng.

@@ -1,0 +1,1 @@
+With the above modeling, the problem is solved and the objective function value is exactly equal to 10000 is also the number of books, in the data set or all books appear in the train set.

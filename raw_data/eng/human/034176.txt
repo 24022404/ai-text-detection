@@ -1,0 +1,1 @@
+In the application, I use Cloudinary as the CDN for fast accessing the static content like images and videos, which the application is expected to have a lot.

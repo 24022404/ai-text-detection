@@ -1,0 +1,1 @@
+Once the appointment details are chosen, the user clicks Processed." 10. The app presents a popup confirming all appointment information for the customer to review.

@@ -1,0 +1,1 @@
+Ngoài ra, các quy trình của Elxr / Erlang phù hợp để giải quyết các vấn đề về tính đồng thờ và khả năng mở rộng trong các dịch vụ web. Mặc dù các kênh Phoenix có thể đạt được 2 triệu kết nối websocket trên một hộp duy nhất, nhưng dung lượng có thể được nhân lên bằng cách phân phối lưu lượng điện nhiều nút hơn.

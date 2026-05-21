@@ -1,0 +1,1 @@
+Jobs like warehousing, discharging, returning items, etc. will be kept in the his tory of that cargo after they are finished in order to save shipment information.

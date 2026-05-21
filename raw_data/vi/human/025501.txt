@@ -1,0 +1,1 @@
+Vớ những màn hình hển thị dữ lệu từ server trả về, công vệc đồng bộ dữ lệu từ server phải điược điưa vào luồng phụ, tránh cho gao vện bị gật và không phản hồ lạ thao tác người dùng khi sử dụng.

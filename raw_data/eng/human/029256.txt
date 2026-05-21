@@ -1,0 +1,1 @@
+Bytecode is an intermediate representation of your Python code. It’s a low-level, platform-independent format that the Python interpreter can execute. Bytecode files (.pyc) are generated to improve execution speed. If the .pyc file exists andis newer than the source code, Python uses it for faster execution. Python Inter preter (Virtual Machine):

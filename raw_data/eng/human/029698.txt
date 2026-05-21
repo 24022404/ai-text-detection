@@ -1,0 +1,1 @@
+Player cleans up the zoo sites by picking up the poos of the zoo animals and throw them into the trash bin.

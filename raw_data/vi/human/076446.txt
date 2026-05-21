@@ -1,0 +1,1 @@
+Đầu ra của chương trình thực hiện việc phân nhóm khách hàng vào các phân khúc là dữ lệu về liên kết giữa khách hàng và phân khúc sẽ được ghi vào bảng 4.3.

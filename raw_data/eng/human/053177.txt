@@ -1,0 +1,1 @@
+Q. Jodelet, X. Lu, and T. Murata, “Balanced softmax cross entropy for ncre mental learning,” an International Conference on Artificial Neural Networks , Springer, 2021, pp. 385–396.

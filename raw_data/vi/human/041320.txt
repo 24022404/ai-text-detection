@@ -1,0 +1,1 @@
+Hệ thống sẽ gửi tin nhắn xác thực về tài khoản Email. Ngoài ra hệ thống cũng cung cấp chức năng đặt lại mật khẩu cho tài khoản. Người dùng đã đăng ký tài khoản thành công có thể sử dụng điểm đăng nhập vào ứng dụng.

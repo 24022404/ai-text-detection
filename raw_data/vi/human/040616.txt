@@ -1,0 +1,1 @@
+Trong hệ thống này em sẽ xây dựng chức năng quản lý danh mục vớ 2 danh mục là chức vụ đảng và chuyên ngành của đảng viên.5.3.2 Gả pháp đề xuất Các bước cần thực hiện là:

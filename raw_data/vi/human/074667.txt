@@ -1,0 +1,1 @@
+Web ngữ nghĩa đã ra đời nhằm giải quyết vấn đề trên. Web ngữ nghĩa là hệ thống các thông tin được định nghĩa một cách rõ ràng nhằm mục đích giúp máy tính có thể hiểu được ngữ nghĩa, từ đó việc tìm kiếm thông tin cũng dễ dàng và chính xác hơn.

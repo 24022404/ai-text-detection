@@ -1,0 +1,1 @@
+Class-Specific Observations High Accuracy Classes: Some classes like "zeroaccess", "vundo", "zbot" havea high number of correctly classified samples. This indicates the model per forms well in identifying these specific malware families.

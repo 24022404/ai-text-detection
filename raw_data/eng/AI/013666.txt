@@ -1,0 +1,9 @@
+This paper addresses the challenge of understanding the decision-making processes in super-resolution networks by employing local attribution maps. Super-resolution networks, which enhance the resolution of images, often function as black boxes. This research aims to provide insights into how these networks allocate attention to different parts of an image, improving explainability.
+
+Methods/Approach: Our approach utilizes local attribution maps to trace the influence of input pixels on the network's output. By integrating gradient-based attribution techniques, we generate maps that visualize the contribution of specific regions in the original image to the super-resolved output. This method enables the identification of patterns and relationships within the data that guide the network’s enhancement decisions.
+
+Results/Findings: Experiments demonstrate that our attribution maps effectively reveal critical areas where super-resolution networks focus, offering clarity on their internal processes. Comparisons with existing interpretability techniques show that our method achieves superior clarity and granularity, highlighting its potential to foster improvements in network design and training.
+
+Conclusion/Implications: The insights obtained through local attribution maps pave the way for more transparent and accountable image processing applications. This work not only enhances our understanding of super-resolution networks but also contributes to the broader field of explainable artificial intelligence (XAI). The methodology could be extended to other domains employing deep learning models, to achieve similar interpretability in diverse applications.
+
+Keywords: Super-resolution networks, local attribution maps, interpretability, explainable AI, image processing, gradient-based techniques.

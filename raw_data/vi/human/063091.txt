@@ -1,0 +1,1 @@
+Mô hình quá phức tạp có thể nhớ chính xác từng mẫu huấn luyện, gây ra hiện tượng điộ chính xác cao trên dữ liệu huấn luyện nhưng sa số cao trên dữ liệu kểm tra.

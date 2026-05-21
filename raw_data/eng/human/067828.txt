@@ -1,0 +1,1 @@
+With respect to this matter, the application wishes to help balance the ticket queue and technician availability and applies the right SLA to the ticket based on predefined automation rules plus proactive escalation capabilities that steer clear of SLA violations.

@@ -1,0 +1,1 @@
+Sau khi hoàn tất kiểm tra và thử nghiệm, em đã triển khai ứng dụng lên mô trường thực tế điểm cung cấp dịch vụ cho người dùng. Quá trình triển khai được thực hiện và sau này ko có các thay đổi hệ thống sẽ tự động trên kha.

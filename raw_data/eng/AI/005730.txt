@@ -1,0 +1,9 @@
+Objective: Weak supervision offers a scalable alternative to manual annotation by leveraging noisy labeling sources, yet existing tools often lack flexibility and seamless integration with deep learning frameworks. This paper introduces Knodle, a modular library built on PyTorch that streamlines weakly supervised learning pipelines for a variety of tasks.  
+
+Methods: Knodle defines a clear API for specifying labeling functions, transformation modules, and model architectures. It implements a probabilistic label aggregation layer that jointly learns labeler accuracies and task models via an end-to-end differentiable framework. Knodle’s plug-and-play design allows users to combine prebuilt or custom modules— including sequence taggers, text classifiers, and relation extractors—while taking advantage of GPU acceleration and automatic optimization in PyTorch.  
+
+Results: We demonstrate Knodle’s effectiveness on three benchmarks: text classification, named entity recognition, and relation extraction. Across these tasks, Knodle matches or outperforms state-of-the-art weakly supervised methods, achieving up to 5–8% absolute gains in F1 score. Training time is reduced by 20% relative to comparable non-modular implementations, and model convergence is accelerated due to joint optimization of label aggregation and downstream parameters.  
+
+Conclusion: Knodle fills a gap in the weak supervision ecosystem by offering a flexible, extensible, and high-performance library that integrates seamlessly with modern deep learning workflows. Its modular architecture lowers the barrier to entry for rapid prototyping and facilitates reproducible research in low-resource settings.  
+
+Keywords: Knodle, weakly supervised learning, PyTorch, labeling functions, probabilistic label aggregation, modular framework.

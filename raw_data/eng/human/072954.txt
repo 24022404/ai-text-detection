@@ -1,0 +1,1 @@
+Conjecture 1. N(n) =n+ 1.Constructing transition graph is also help finding U-cycle for the set of Pnof length n(a0, a1, . . . , a n), where ai=ajindicates the i-th element and j-th element are in the same group of the partition. The transition graph of Pnis illustrated in figure 2.5.

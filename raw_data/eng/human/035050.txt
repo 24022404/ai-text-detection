@@ -1,0 +1,1 @@
+The application is built based on the two most popular architectural models today, MVC and Redux. With this combination, the system will add flexibility to the user interface and can be easily integrated and expanded when the scale of the system is expanded.

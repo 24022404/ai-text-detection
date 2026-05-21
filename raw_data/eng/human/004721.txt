@@ -1,0 +1,1 @@
+The Service layer is implemented through the ServiceImpl class, which calls the functions of the Repository interface. The Repository interface connects directly to the database, processes queries and retrieves data. After retrieving data from thedatabase, the ServiceImpl class formats it into the right form and passes it to the Controller layer.

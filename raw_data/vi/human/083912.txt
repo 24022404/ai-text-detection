@@ -1,0 +1,1 @@
+Thư mục App chứa toàn bộ mã nguồn của dự án. Hầu hết các Class điều nằm trong thư mục này.

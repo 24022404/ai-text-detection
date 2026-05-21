@@ -1,0 +1,1 @@
+Hệ thống nhập hàng: cho phép người sử dụng nhập hàng mớ khi có nhu cầu, sửa thông tin hàng nhập, xóa hàng khi không nhập ra khỏi danh sách hàng nhập.

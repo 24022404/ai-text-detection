@@ -1,0 +1,1 @@
+Check enemy and bullet collision This test case is to check the collision between the character and the enemy (Figure 4.9).

@@ -1,0 +1,1 @@
+Managing and storing big data is challenging due to its volume, variety, velocity, security concerns, and the demand for new technologies.

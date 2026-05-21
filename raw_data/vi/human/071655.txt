@@ -1,0 +1,1 @@
+HTML viết tắt của Hypertext Markup Language là ngôn ngữ lập trình dùng để xây dựng và cấu trúc lạ các thành phần có trong Website.Hình 3.2: Logo của HTML HTML được tạo ra bởi Tim Berners Lee, một nhà vật lý học của trung tâm nghiên cứu CERN ở Thụy Sĩ. Hiện nay, HTML đã trở thành một chuẩn Internet được tổ chức W3C (World Wide Web Consortium) vận hành và phát triển.

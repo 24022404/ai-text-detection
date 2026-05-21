@@ -1,0 +1,1 @@
+Xem bảng công của member: Leader có thể theo dõi thời lượng làm việc của member team mình để có thể quản lý hiệu suất làm việc của team tốt hơn.

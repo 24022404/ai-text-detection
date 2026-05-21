@@ -1,0 +1,1 @@
+Problem description The issue with not using pagination is that it can lead to slower page load times and potentially overload the server with too much data to process at once. This is especially problematic when dealing with large datasets or high-traffic websites.

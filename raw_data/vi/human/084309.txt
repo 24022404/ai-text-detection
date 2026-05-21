@@ -1,0 +1,1 @@
+() Tên use case: Thêm sản phẩm vào giỏ hàng () Các dòng sự kiện chính: Trên giao diện màn hình chi tiết sản phẩm , khách hàng viếng chọn thêm vào giỏ hàng. Hệ thống sẽ lưu trữ thông tin sản phẩm mà khách hàng viếng thăm đưa vào giỏ. Kết thúc use case.

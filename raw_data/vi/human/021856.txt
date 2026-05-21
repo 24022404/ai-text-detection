@@ -1,0 +1,1 @@
+Cách thiết kế các biểu đồ em tham khảo từ tài liệu .2.2.1 Biểu đồ use case tổng quát Hình 2.3: Use case tổng quan Dưới đây là mô tả biểu đồ use case tổng quan như hình 2.3.

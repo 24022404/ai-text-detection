@@ -1,0 +1,1 @@
+Hệ thống thử nghệm trong đồ án được đióng gó bằng Docker, phục vụ cho mục điích xây dựng lạ trên các mô trường khác. Một số phương pháp tố ưu điã được áp dụng, bao gồm:

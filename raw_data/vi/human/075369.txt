@@ -1,0 +1,1 @@
+Mô hình RoBERTa  sẽ huấn luyện lạ BEAT trên những bộ dữ liệu lớn cho các ngôn ngữ khác ngoài ngôn ngữ như tiếng anh.

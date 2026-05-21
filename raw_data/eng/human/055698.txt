@@ -1,0 +1,1 @@
+The entity "Order" have a one-to-one relationship with entity "Review", mean ing that an Order can only have one review.

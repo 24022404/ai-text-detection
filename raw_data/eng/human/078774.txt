@@ -1,0 +1,1 @@
+The motivation behind creating my web application stems from the increasinginterest and popularity of cryptocurrencies. As the cryptocurrency market contin ues to grow, there is a demand for accessible and user-friendly platforms to monitor and visualize the momentum factor in cryptocurrency data.

@@ -1,0 +1,1 @@
+The Render service proved to be highly beneficial, offering features like continuous deployment, which automatically updates the app whenever changes are pushed to the repos itory. Its user-friendly UI allowed for easy setup of environment variables, while built-inanalytics and monitoring tools provided valuable insights into the app’s performance, us age, and error tracking.

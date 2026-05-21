@@ -1,0 +1,1 @@
+Tạo mặt nạ bằng cách xóa đi vùng dự đoán của S 1(hay vùng điố tượng điã điược phát hiện từ đầu ra của bước trước) thông qua công thức:

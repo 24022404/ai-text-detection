@@ -1,0 +1,1 @@
+Tên Kiểu dữ lệu Mô tả Có bắt buộc Có Ràng buộc d Varchar(255) Mã môn học Có Khóa chính type Int Có phải môn đồ án hay không. Type = 0 ứng với môn học bình thường.

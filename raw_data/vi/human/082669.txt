@@ -1,0 +1,1 @@
+Quản trị viên có thể sửa, xóa thông tin khách hàng hoặc thay đổi mật khẩu của khách hàng trên hệ thống.

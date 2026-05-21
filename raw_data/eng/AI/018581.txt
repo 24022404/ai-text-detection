@@ -1,0 +1,9 @@
+Objective: Generative adversarial networks (GANs) often suffer from limited output diversity and mode collapse, which restricts their applicability in tasks requiring rich sample variation. This paper introduces microbatchGAN, a novel training framework that enhances generative diversity through multi-adversarial discrimination operating on microbatches.
+
+Methods: microbatchGAN partitions each training batch into several microbatches and employs a distinct discriminator for each partition. By assigning tailored discriminators to small data subsets, the generator receives more specialized feedback signals that encourage exploration of diverse modes in the target distribution. We adopt a shared generator with parallel discriminator heads, each optimized with a Wasserstein loss and gradient-penalty regularization to stabilize training. An adaptive weighting scheme balances the contributions of discriminators based on their performance, promoting underrepresented modes.
+
+Results: We evaluate microbatchGAN on CIFAR-10, CelebA, and LSUN Bedrooms datasets. Compared to baseline GAN variants (DCGAN, WGAN-GP, and PacGAN), microbatchGAN achieves a 15–25% improvement in Fréchet Inception Distance and a 10–20% increase in Inception Score. Qualitative analysis demonstrates richer object variations and reduced repetition of patterns. Ablation studies confirm that both microbatch splitting and multi-adversarial weighting are critical to performance gains.
+
+Conclusion: By stimulating diversity through microbatch-level discrimination, microbatchGAN offers a scalable solution to mode collapse without sacrificing sample quality. This approach can be integrated into existing GAN architectures, benefiting applications in image synthesis, data augmentation, and creative content generation.
+
+Keywords: microbatchGAN, generative adversarial networks, mode diversity, multi-adversarial learning, batch partitioning.

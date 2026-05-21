@@ -1,0 +1,1 @@
+Petmart (Giao diện trong Hình 2.1) là 1 trang web cho người dùng tìm kiếm, nhận nuôi thú cưng, mua các phụ kiện cho thú cưng. Ngoài ra còn có bác sĩ tư vấn cho khách hàng 24/7 và các dịch vụ chăm sóc cho thú cưng.

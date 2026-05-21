@@ -1,0 +1,1 @@
+Từ Hình 2.6 ta có các thông tin sau: Postal embeddings: vị trí token trong câu, tố địa 512 tokens. Token embeddings: các token của xâu đầu vào. Token đầu tên là [CLS]. Token kết thúc câu là [SEP]. Trong task phân loại, đầu ra của Transformer (hidden state cuối cùng) ứng với token này là giá trị phân loại.

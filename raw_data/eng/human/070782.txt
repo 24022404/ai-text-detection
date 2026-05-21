@@ -1,0 +1,1 @@
+Recurrent neural networks are designed for this very purpose, while convolutional neural networks are incapable of effectively interpreting temporal information.

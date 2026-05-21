@@ -1,0 +1,1 @@
+Ticket priority is indicated using a star system, where up to three stars can be displayed. Three stars represent the highest priority a ticket can have, while the absence of stars shows that the ticket is the lowest priority.

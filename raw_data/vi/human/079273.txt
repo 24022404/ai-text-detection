@@ -1,0 +1,1 @@
+Vấn đề đặt ra đó chính là khi người dùng cần sử dụng dịch vụ của hệ thống luôn mà tài khoản chưa có tiền, cách nhanh nhất trong các cách trên đó chính là thanh toán qua chuyển khoản, tuy nhiên cách này vẫn sẽ phải chờ một khoảng thời gian để xác nhận ngoài ra còn tiềm ẩn nguy cơ bị lỗ do người dùng thao tác sai trong quá trình thực hiện.

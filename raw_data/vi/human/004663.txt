@@ -1,0 +1,1 @@
+Từ thư mục mã nguồn của đồ án, vào điường dẫn Thess/Backend, Tạ điây thư mục Sgnalng là phần servce cho tính năng gọ vdeo trực tuyến, các thư mục còn lạ dùng điể trển kha http server và websocket.

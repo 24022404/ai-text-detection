@@ -1,0 +1,1 @@
+Tầng giao diện người dùng (User Interface) : Lớp này điảm nhệm va trò cung cấp gao dện cho người dùng, thường là các máy khách Tầng dịch vụ (Mddleware) : Lớp này có va trò xử lý ch tết.

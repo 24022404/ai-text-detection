@@ -1,0 +1,9 @@
+This research aims to address the challenge of creating efficient and interpretable saliency maps in reinforcement learning environments, specifically within Atari games. Traditional methods often require additional computational resources or complex models. Our study introduces a novel approach that leverages attention mechanisms inherent in trained Atari agents to generate saliency maps without additional cost.
+
+Methods/Approach: We explore the integration of attention layers within the architecture of reinforcement learning agents trained on Atari games. By analyzing the internal attention weights, we develop a method to visualize saliency, capturing which game elements are crucial for decision-making. Our approach is designed to run concurrently with agent training, thereby introducing minimal overhead and complexity to the existing model.
+
+Results/Findings: The proposed attention-based saliency model demonstrates effective identification of critical game elements, providing insights into agent behavior and decision-making processes. Through comparative analysis with conventional saliency methods, our approach shows competitive performance in terms of accuracy and interpretability, while eliminating the need for post hoc saliency calculation.
+
+Conclusion/Implications: This research highlights the potential of using intrinsic attention mechanisms to obtain interpretable saliency maps without incurring additional computational costs, effectively providing a "free-lunch" saliency solution. The findings contribute to more transparent AI models, offering potential applications in debugging, model improvement, and enhancing human trust in AI agents. This framework opens avenues for further exploration in diverse reinforcement learning environments.
+
+Keywords: Saliency maps, attention mechanism, reinforcement learning, Atari agents, interpretability, AI transparency.

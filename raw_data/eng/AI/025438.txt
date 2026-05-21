@@ -1,0 +1,1 @@
+When a user deletes a file from the recent scans list, all related data tied to that file is removed from the system, ensuring no trace remains.

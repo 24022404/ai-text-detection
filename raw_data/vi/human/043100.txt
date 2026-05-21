@@ -1,0 +1,1 @@
+Blockchain có thể được xem là một cuốn sổ cá điện tử được phân phối trên nhiều máy tính khác nhau, lưu trữ mọi thông tin giao dịch và đảm bảo các thông tin đó không thể bị thay đổi dưới bất kỳ hình thức nào.

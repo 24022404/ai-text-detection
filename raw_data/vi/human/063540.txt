@@ -1,0 +1,1 @@
+Lớp RDF và RDF Schema RDF (Resource Description Framework) là một mô hình dữ liệu cho phép biểu diễn các phát biểu ngữ nghĩa về dữ liệu. RDF Schema cung cấp bộ từ vựng mô tả một cách có ngữ nghĩa về các lớp và thuộc tính của tài nguyên RDF, tổng quát hóa phân cấp các thuộc tính và lớp đó, thêm vào khả năng bổ sung một số dữ liệu ở mức lược đồ.

@@ -1,0 +1,1 @@
+Tự động quản lý trạng thiendang ,fulfilled và rejected .•Cần sử dụng middleware như redux thunk hoặc redux saga điểm quản lý tác vụ bất đồng bộ, đồ hở vết nhiều mã hơn.Kinh nghiệm Phát triển•Game thêu mã boilerplate giúp mã nguồn sạch hơn và dễ hiểu hơn.

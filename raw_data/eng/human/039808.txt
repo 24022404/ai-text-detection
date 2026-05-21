@@ -1,0 +1,1 @@
+Overall design In Streamlit, developers can create a multipage web application by organizing their code into separate files and placing them in a folder Each file in the folder represents a different page of the web application, providing the flexibility to have multiple views for the app.

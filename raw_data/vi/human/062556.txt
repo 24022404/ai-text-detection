@@ -1,0 +1,1 @@
+Đặt vấn đề Trong ứng dụng React, việc gõ các API để lấy dữ liệu từ server là một hoạt động rất phổ biến. Tuy nhiên, việc quản lý các API call, xử lý lỗ và làm mới dữ liệu có thể trở nên phức tạp đối với các ứng dụng lớn. Vì vậy, các nhà phát triển React cần tìm kiếm gả pháp hiệu quả để quản lý việc gọi các API trong ứng dụng của mình.

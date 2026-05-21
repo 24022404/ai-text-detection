@@ -1,0 +1,1 @@
+Tầng Dữ liệu là nơi chứa các thông tin quan trọng cho ứng dụng và được sử dụng bởi các thành phần khác của hệ thống.

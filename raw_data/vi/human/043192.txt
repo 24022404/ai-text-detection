@@ -1,0 +1,1 @@
+EStep (Kỳ vọng): Gán từng điểm dữ liệu vào cụm dựa trên xác suất thuộc về mỗ cụm. Xác suất này được tính bằng cách sử dụng phân phối von Mises Fisher và các tham số của mô hình phân phối hỗn hợp.

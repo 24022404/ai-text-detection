@@ -1,0 +1,1 @@
+Using a tool like apksigtool allows you to extract vital certificate data, including the public key, signature algorithm, and hash algorithm.

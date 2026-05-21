@@ -1,0 +1,1 @@
+Giao diện được thiết kế nhất quán, các phần cùng nhóm chức năng được nhóm lại với nhau Gao dệt phả đơn giản, trực quan và dễ nhìn.

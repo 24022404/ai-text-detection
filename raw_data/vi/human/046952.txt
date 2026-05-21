@@ -1,0 +1,1 @@
+Master gửi dữ liệu từng bt một tớ slave dọc theo đường MOSI. Slave đọc các bt kh nó nhận được.

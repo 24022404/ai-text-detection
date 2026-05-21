@@ -1,0 +1,1 @@
+The position t_i of the word u_{k,s} in the granddaddy sequence of order k_x is defined, where c_{k,s} from Construction 1 is (x_{i+1}, ..., x_n, 0^s).

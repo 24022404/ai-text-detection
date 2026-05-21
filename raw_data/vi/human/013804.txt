@@ -1,0 +1,1 @@
+–Màn hình trong khi chơi game  Đây là màn hình mà người chơi khi bắt đầu lượt chơ, ở đây sẽ hiển thị lượng máu, tài nguyên mà người chơi kiếm được và thờ gần hồ của các kỹ năng mà người chơi đang sở hữu, v.v.

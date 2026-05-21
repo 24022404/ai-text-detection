@@ -1,0 +1,1 @@
+<arflow_server_host>:<arflow_port>/ap/v1/dags – Lấy mã nguồn của file DAG các trình tính toán chỉ báo Bước này bao gồm ha lần truy vấn thông qua Arflow Rest API. Đầu tên, gửi request đến endpont /ap/v1/dags/dag_d điể lấy thông tin ch tết về một DAG, được định danh qua dag_d. Vớ DAG có d là "ndcator_dag" thì URL hoàn chỉnh sẽ là:

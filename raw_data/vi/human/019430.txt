@@ -1,0 +1,1 @@
+Tạo ra một giao diện dễ học và sử dụng. Đều này có thể được đạt được bằng cách sử dụng các ký hiệu và biểu tượng rõ ràng để thể hiện chức năng và ý nghĩa của các thành phần trong giao diện. Ngoài ra, cung cấp hướng dẫn và hỗ trợ cho người dùng cũng là một yếu tố quan trọng giúp tăng tính khả dụng của giao diện.

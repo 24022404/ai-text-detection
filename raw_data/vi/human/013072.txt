@@ -1,0 +1,1 @@
+Until MAgents bến một môi trường thông thường trong Unity trở thành một mô trường học máy. Trong đó, các agent hoạt động thông qua các bước thờ gan.

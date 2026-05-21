@@ -1,0 +1,1 @@
+Trong tương lai sẽ cần phải nghiên cứu phương thức xác thực với các ứng dụng giao dịch chứng khoán phổ biến và sẽ cập nhật giao dịch tự động cho người dùng.

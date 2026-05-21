@@ -1,0 +1,1 @@
+C. Gormley and Z. Tong, Elasticsearch: the definitive guide: a distributed real-time search and analytics engine . " O’Reilly Media, Inc.", 2015.

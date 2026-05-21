@@ -1,0 +1,1 @@
+Ngoài ra, PM2 cũng được sử dụng trong quá trình phát triển và triển khai hệ thống. PM2 (Process Manager 2) là một công cụ quản lý quá trình (process manager) mã nguồn mở cho Nodejs. Nó được thiết kế điển giúp quản lý, theo dõi và triển khai các ứng dụng Nodejs một cách dễ dàng và hiệu quả.

@@ -1,0 +1,1 @@
+Ngoài ra, package firebase đóng vai trò giao tiếp giữa CSDL restore, nó không tiếp nhận các request từ client lên không cần có controller. Các service từ các package khác sẽ gọi đến server của firebase nếu muốn truy cập cơ sở dữ lệu.

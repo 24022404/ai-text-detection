@@ -1,0 +1,1 @@
+Overall design a, Package diagram for server The figure below will display the package diagram for server.Figure 4.3: Package diagram for server side Reference to Fig. 4.3 above,Model takes the role of an interceptor, intercepting and checking the request before the controller continue to processing and handling to respond.

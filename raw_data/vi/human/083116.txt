@@ -1,0 +1,1 @@
+Với các ưu điểm trên, em quyết định sử dụng công nghệ extJs điểm xây dựng giao diện cho hệ thống.

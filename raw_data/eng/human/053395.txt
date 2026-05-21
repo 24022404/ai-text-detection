@@ -1,0 +1,1 @@
+Starting from an initial value, the Gradient Descent is iteratively run to find the optimal value of the parameters in order to find the smallest possible value of the selected cost function.

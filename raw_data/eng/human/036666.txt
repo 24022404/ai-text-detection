@@ -1,0 +1,1 @@
+Local receptive field: This class is responsible for separating and filtering data, image information and selecting image areas with the highest use value.

@@ -1,0 +1,1 @@
+Language/Ngôn ngữ: Có rất nhiều ngôn ngữ lập trình khác nhau tồn tại trong .net framework. Các ngôn ngữ này là VB.net và C , có thể được sử dụng điểm phát triển các ứng dụng web. Trong sản phẩm của mình em sử dụng ngôn ngữ C.

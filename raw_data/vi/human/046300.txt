@@ -1,0 +1,1 @@
+Tốc độ xử lý Hệ thống cần xử lý dữ liệu một cách nhanh chóng và chính xác 4 Tính dễ dùng Gao vện hệ thống phả thân thiện và dễ sử dụng Bảng 2.5: Các yêu cầu phi chức năng 3.1 Hệ cơ sở dữ liệu Phần này dựa trên nguồn tham khảo từ . Gồm hai phần nhỏ, giới thiệu về MySQL và các kiểu dữ liệu.

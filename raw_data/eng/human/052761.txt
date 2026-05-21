@@ -1,0 +1,1 @@
+D.-H. C. Loi Luu, “Making smart contracts smarter,” Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security , pages 254–269, 2016.

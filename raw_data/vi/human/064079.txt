@@ -1,0 +1,1 @@
+Lưu ý rằng, một Neural chỉ có 1 tầng vào và 1 tầng ra nhưng có thể có nhiều tầng ẩn.

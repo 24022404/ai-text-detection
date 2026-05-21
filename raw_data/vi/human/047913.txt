@@ -1,0 +1,1 @@
+Trong chương 3, em sẽ giới thiệu tổng quan về kiến trúc microservice của dự án VietStudy. Ứng dụng sẽ bao gồm những dịch vụ nào, lên kết với nhau ra sao cũng như hệ thống CMS sẽ nằm ở đâu và tương tác với các dịch vụ khác như thế nào.

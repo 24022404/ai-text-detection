@@ -1,0 +1,1 @@
+Limited accesses for internal data processing requests: Apart from regular users, there are also internal services that have to make requests to the API server.

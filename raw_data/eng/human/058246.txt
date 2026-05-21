@@ -1,0 +1,1 @@
+Bag-of-Words (BoW) The Bag-of-Words (BoW) method, which originated in the text retrieval community  has lately gained popularity for a picture  and video comprehension .

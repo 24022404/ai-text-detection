@@ -1,0 +1,1 @@
+q is the set of q-ary sequences of length nover alphabet Σ. The following sets satisfy the closure conditions for the existence of universal cycles proved by Sawada .

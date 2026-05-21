@@ -1,0 +1,1 @@
+...Hiệu chỉnh kết quả (không bắt buộc) Ví dụ câu truy vấn tên, địa chỉ và tọa độ của chợ:

@@ -1,0 +1,1 @@
+Các chức năng cơ bản giống khách vãng la o Chức năng đăng nhập o Chức năng quản lý thông tin cá nhân o Chức năng mua sản phẩm Đối với tài khoản quản trị viên:

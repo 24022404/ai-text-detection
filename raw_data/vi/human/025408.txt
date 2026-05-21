@@ -1,0 +1,1 @@
+View (Gao den): Gao vện đại diện cho phần hiển thị của hệ thống. Trong trường hợp website bán quần áo, các giao diện sẽ là các trang HTML/CSS hiển thị thông tin sản phẩm, danh mục, giỏ hàng và các chức năng khác cho người dùng. Gao vện là nơi người dùng tương tác với hệ thống và nhận thông tin từ mô hình.

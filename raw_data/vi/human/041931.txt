@@ -1,0 +1,1 @@
+Người dùng khách là khách hàng chưa đăng nhập vào hệ thống sẽ bị giới hạn các quyền chỉ có quyền xem danh sách các bài viết và sản phẩm.

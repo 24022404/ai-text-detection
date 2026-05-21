@@ -1,0 +1,1 @@
+Khách lựa chọn đăng ký tài khoản 2. Hệ thống hển thị form đăng ký tài khoản 3. Khách điền thông tin vào mẫu rồ chọn xác nhận 4. Hệ thống cập nhật CSDL và thông báo đăng ký thành công Luồng sự kện con:

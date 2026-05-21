@@ -1,0 +1,1 @@
+ResourceManager và NodeManager tạo thành khung tính toán dữ lệu. Resource Manager là cơ quan tố cao phân xử tài nguyên giữa tất cả các ứng dụng trong hệ thống. Node Manager là tác nhân trên mỗi máy chịu trách nhiệm về các vùng chứa, giám sát việc sử dụng tài nguyên của chúng (cpu, bộ nhớ, điĩa, mạng) và báo cáo tương tự cho ResourceManager/Scheduler.

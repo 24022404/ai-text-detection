@@ -1,0 +1,1 @@
+Trong bài báo này, chúng tôi xem xét giải đúng một lớp hệ phương trình tích phân dạng Toeplitz -Hankel với hạch không thoái hoá bằng kỹ thuật tích chập và tích chập suy rộng liên quan đến các phép biến đổi tích phân Kontorovich –Lebedev và Fourier trên các lớp không gian hàm .

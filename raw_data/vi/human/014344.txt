@@ -1,0 +1,1 @@
+Giúp con người thư giãn với kho nhạc không giới hạn về thể loại.Bài toán phân tích và thiết kế hệ thống website nghe nhạc này đáp ứng được các nhu cầu, chức năng cơ bản của một nền tảng nghe nhạc miễn phí như nghe nhạc, chia sẻ nhạc, quản lý nhạc, thống kê, thông báo, quản trị hệ thống.

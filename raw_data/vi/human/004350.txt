@@ -1,0 +1,1 @@
+Quá trình này bao gồm việc khảo sát hiện trạng thực tế từ đó làm rõ các tác nhân và các chức năng chính của hệ thống thông qua các biểu đồ use case tổng quan và biểu đồ use case phân rã.

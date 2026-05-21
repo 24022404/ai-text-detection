@@ -1,0 +1,1 @@
+Lastly, the Items table holds information about the items equipped by the gamer, which is used to calculate progress and the player’s strength. Each gamer has a system of equipped item slots, which are stored in the Items table. The Items table includes attributes such as slotType (to identify the type of equipment slot) and codename (to specify the equipped item).

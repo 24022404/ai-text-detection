@@ -1,0 +1,1 @@
+Bước 1: Người dùng tạo giao dịch chuyển đổi token từ onchan sang off chân ở giao diện hệ thống. Hệ thống sẽ tạo một yêu cầu giao dịch và lưu trữ vào cơ sở dữ liệu.

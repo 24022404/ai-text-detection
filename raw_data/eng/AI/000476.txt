@@ -1,0 +1,1 @@
+Yoon et al. (2008) propose an effective, scalable method for software compatibility testing, tackling the difficulties of verifying that software operates reliably across diverse platforms and configurations.

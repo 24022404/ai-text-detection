@@ -1,0 +1,1 @@
+Segment embeddings: phân biệt 2 câu trong trường hợp đầu vào là cặp câu, câu A là các giá trị 0, câu B là các giá trị 1.

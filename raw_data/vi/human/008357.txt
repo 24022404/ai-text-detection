@@ -1,0 +1,1 @@
+Chương 1: Giới thiệu về tà Ở chương này, các yêu cầu ban điầu của bài toán được nêu lên, bao gồm những  vấn đề, các chức năng chính, định hướng gả pháp Chương 2 : Thu thập,tiền xử lý và phân tích dataset Chương này sẽ tập trung vào dataset  mà ta sẽ tran trong suốt quá trình .

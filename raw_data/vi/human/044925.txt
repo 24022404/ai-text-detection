@@ -1,0 +1,1 @@
+Xác suất mà agent đi tớ trạng thái′sau khi đưa ra hành động a được tính bởi hàm chuyển tiếp trạng thái Pa(s, s′). Do đió, trạng thái kế tiếp s′phụ thuộc vào trạng thái hiện tại và hành động a.

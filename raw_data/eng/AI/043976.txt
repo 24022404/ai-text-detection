@@ -1,0 +1,9 @@
+Objective: Detecting text in natural scenes demands both high accuracy and real-time performance for applications such as augmented reality and autonomous navigation. Existing methods often trade off speed for precision or rely on manually designed anchor boxes that poorly adapt to diverse text shapes.
+
+Methods: We propose STELA (Scene Text detector with Learned Anchor), a novel end-to-end architecture that jointly learns optimal anchor parameters and text localization in a single pass. STELA integrates a lightweight convolutional backbone with a feature pyramid network to capture multi-scale information, and introduces an anchor regression module that dynamically adjusts anchor size, aspect ratio, and orientation based on training data. A compact detection head then refines these anchors into precise text bounding quadrilaterals.
+
+Results: Evaluated on standard benchmarks (ICDAR2015, Total-Text, and CTW1500), STELA achieves an F-measure of up to 88.4% while running at 32 frames per second on a single GPU—surpassing both traditional anchor-based detectors and recent anchor-free approaches. Ablation studies confirm that learned anchors contribute a 4.2% gain in detection accuracy with negligible latency overhead.
+
+Conclusion: STELA offers a compelling balance of speed and accuracy for real-time scene text detection, eliminating the need for hand-crafted anchor design and improving robustness to text of arbitrary orientation and scale. This work lays the foundation for more efficient on-device OCR and paves the way for practical deployment in resource-constrained environments.
+
+Keywords: scene text detection, real-time, learned anchor, feature pyramid network, deep learning, text localization.

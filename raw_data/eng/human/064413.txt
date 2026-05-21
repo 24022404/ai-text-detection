@@ -1,0 +1,1 @@
+The app leverages AR technology to overlay virtual information on the real envi ronment, helping users navigate more effectively and efficiently inside a building.

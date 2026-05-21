@@ -1,0 +1,1 @@
+Mã ca sử dụng UC07 Tên ca sử dụng Tạo người dùng Tác nhân Administrator (người quản trị hệ thống) Mô tả Thực hiện thêm người dùng vào hệ thống Tiền điều kiện Đã đăng nhập, là người quản trị hệ thống Luồng sự kiện chính(thành công)STT Thực hiện bởi Hành động 1 Administrator Chọn chức năng tạo người dùng 2 Hệ thống Hiển thị thông tin cần điền để tạo người dùng.

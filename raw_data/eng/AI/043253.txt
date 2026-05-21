@@ -1,0 +1,1 @@
+Ant Design for React, boasting over 51k stars on GitHub, is a robust suite of React libraries that addresses a wide range of project needs, often eliminating the necessity for additional third-party libraries.

@@ -1,0 +1,1 @@
+HTML documents are plain text files with a .html extension and can be created and edited using basic text editors. When a web browser loads an HTML page, it reads the markup and displays the content accordingly. HTML is complemented by CSS (Cascading Style Sheets) and JavaScript, which respectively handle the presentation and behavior of web pages.

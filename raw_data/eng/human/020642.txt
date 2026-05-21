@@ -1,0 +1,1 @@
+New technology barriers: It is extremely problematic to apply new technol ogy in a monolithic application because then the entire application has to be rewritten.

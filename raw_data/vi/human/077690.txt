@@ -1,0 +1,1 @@
+Máy chủ luôn luôn trong trạng thái sẵn sàng nhận request, sẽ xử lý yêu cầu được gửi đến từ client rồi sau đó trả về kết quả lạ trong thời gian ngắn nhất.

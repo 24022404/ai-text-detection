@@ -1,0 +1,1 @@
+Trong ảnh dưới đây chọn vị trí hiển thị ở phần đầu Content của trang chủ.Hình 4.17: Chọn Layout cho Widget Tiếp theo, chọn block có tên "Recommend User User" (block được tạo bởi module gợi ý sản phẩm) để thêm danh sách gợi ý vào Widget.

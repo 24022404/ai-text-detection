@@ -1,0 +1,1 @@
+Warehouse staff receive information and paste the shipment code, RFID code on the corresponding goods and arrange them in the designated position.

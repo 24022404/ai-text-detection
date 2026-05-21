@@ -1,0 +1,1 @@
+Kh muốn tạo mới phòng, người dùng chỉ cần điền vào trường "Tên phòng" và sau đó bấm vào nút "Tạo phòng". Hệ thống sẽ tiếp nhận thông tin và tạo một phòng code mớ có tên được cung cấp.

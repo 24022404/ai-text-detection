@@ -1,0 +1,1 @@
+Đầu tiên cần tạo giao diện tạo lời nhắc. Người dùng sẽ cần phải vào trang danh sách đơn hàng của mình và ấn tạo lời nhắc trên đơn hàng mong muốn. Người dùng có thể chỉnh sửa lại đơn hàng theo nhu cầu của mình và chọn thời gian đặt hàng mong muốn. Hình 5.6 minh họa cách tạo lời nhắc cho đơn hàng.

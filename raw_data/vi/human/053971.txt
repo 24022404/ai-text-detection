@@ -1,0 +1,1 @@
+Khi vào game, còn mất thờ gan để khởi tạo dữ liệu dẫn điện trải nghiệm người dùng không tốt.

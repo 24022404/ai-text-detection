@@ -1,0 +1,1 @@
+Để tạo dựng một bộ khung cấu trúc của ứng dụng thì NodeJs cần tích hợp thêm các framework bên trong nó. Và ưu thế mềm dẻo, tối ưu hóa và sinh hoạt, Express framework  là lựa chọn phổ biến hàng đầu điểm tích hợp với NodeJs.

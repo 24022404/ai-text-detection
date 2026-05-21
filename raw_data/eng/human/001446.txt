@@ -1,0 +1,1 @@
+User is the most basic actor, which represent a general person accessing our sys tem. An user is able to search for words using the system dictionary, and memorizethem through flashcards. The actor also have access to lessons, exercises, and can upgrade account to unlock new contents and features.

@@ -1,0 +1,1 @@
+Trong chương này, em đã trình bày về chức năng, giao diện của trang web cũng như công nghệ được sử dụng khi xây dựng trang web này. Trong chương tiếp theo, em sẽ trình bày về kết luận và hướng phát triển.6.1 Kết luận Trong phạm vi của đồ án tốt nghiệp, em đã thực hiện được ba đóng góp như sau:

@@ -1,0 +1,1 @@
+Frida enables dynamic runtime analysis by monitoring app behavior as it runs, making it possible to inspect dynamically loaded classes, functions, and methods. This approach uncovers real-time interactions between components and helps identify issues that static code analysis might miss, enhancing app security.

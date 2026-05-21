@@ -1,0 +1,1 @@
+OBV =OBV −1+sgn(C−C1)∗V Gá trị OBV được tính dựa trên giá đióng cửa và khối lượng giao dịch. Vậy nên thuộc tính nput_tables sẽ là danh sách gồm bảng lưu dữ liệu giao dịch (tcker_data).

@@ -1,0 +1,1 @@
+Gả pháp được triển khai dưới dạng website : website sẽ cung cấp gạo điện cho người dùng có thể tham gia sử dụng các dịch vụ liên quan đến ký tài liệu sử dụng công nghệ ký số từ xa. Về phía người quản trị sẽ được cung cấp một giao diện riêng khác để có thể thao tác với việc quản lý người dùng nói chung.

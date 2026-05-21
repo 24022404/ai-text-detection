@@ -1,0 +1,1 @@
+JavaScript là 1 trong 3 ngôn ngữ chính của lập trình web, và nó được dùng phổ biến trong suốt 20 năm qua. Từ thuở sơ khai, nó còn có tên là Mocha (năm 1995), sau đó được đổi thành Mona, Javascript, và cuối cùng là JavaScript như hiện nay.

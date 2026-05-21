@@ -1,0 +1,1 @@
+Chuyển điện Developer options (Tùy chọn cho nhà phát triển), cuộn xuống phần Debugging (Gỡ lỗi) rồi bật tùy chọn Wireless debugging (Gỡ lỗi qua W F).

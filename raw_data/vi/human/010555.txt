@@ -1,0 +1,1 @@
+Để mô hình client server hoạt động thì giữa các máy server và client cần có một chuẩn nhất định gọi là giao thức (ví dụ như HTTPS, TCP/IP, FPT,. . . ) Bên cạnh đó, cấu hình của server phải cao hơn cấu hình của các client.

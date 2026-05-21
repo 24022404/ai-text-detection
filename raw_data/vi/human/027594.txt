@@ -1,0 +1,1 @@
+Mô hình MTCNN Multitask Cascaded Convolutional Networks (MTCNN) được sử dụng để phát hiện ra khuôn mặt có trong ảnh hoặc frame trong video. Mạng MTCNN vớ 3 lớp mạng khác biệt, đặc trưng cho 3 ga đoạn chính là PNet, Net, ONet.

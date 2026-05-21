@@ -1,0 +1,1 @@
+As one of transfer learning examples, I utilize this architecture, which consists of an impressive 152 layers. Specifically, I employ the ResNet152 model and retrain only the output layer for our malware classification task.

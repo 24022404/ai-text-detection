@@ -1,0 +1,1 @@
+ICSP pn viết tắt của In Circuit Serial Programming. Đó là chân lập trình nối tiếp cho phép người lập trình sử dụng một và phương thức có sẵn trong firmware của Arduino.

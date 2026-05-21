@@ -1,0 +1,1 @@
+By using Material UI, the application user interface will be more elaborate and consistent, and provides better experience to users.

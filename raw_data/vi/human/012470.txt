@@ -1,0 +1,1 @@
+Bước 4. Mô hình sử dụng bộ phân loại SVM để phân loại các khuôn mặt dựa vào đặc trưng chết xuất được.

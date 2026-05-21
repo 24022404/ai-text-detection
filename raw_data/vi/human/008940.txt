@@ -1,0 +1,1 @@
+Sau đó, Form Create Blog gọi phương thức Validate() điểm kiểm tra tính hợp lệ của dữ liệu. Nếu Validate() thất bại, Form Create Blog sẽ gọi CreateError() để hiển thị lỗi và luồng xử lý dừng lại. Ngược lại, nếu Validate() thành công, FormCreate Blog sẽ tiếp tục gọt CreateBlog(Images[], Blog) trên Blogger Controller .

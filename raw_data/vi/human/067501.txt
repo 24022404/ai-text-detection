@@ -1,0 +1,1 @@
+Phân chia công việc : Kiến trúc MVC cho phép phân chia công việc rõ ràng giữa các nhóm nhà phát triển. Nhóm chịu trách nhiệm cho Model có thể tập trung vào xử lý dữ liệu, nhóm View chịu trách nhiệm cho giao diện người dùng, và nhóm Controller điều khiển tương tác giữa hai thành phần trên. Đều này tăng hiệu suất làm việc và giảm xung đột trong quá trình phát triển.

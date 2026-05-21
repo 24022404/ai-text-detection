@@ -1,0 +1,1 @@
+MVC tách các thành phần khác nhau của một ứng dụng, các nhà phát triển có thể làm việc song song trên các thành phần khác nhau mà không ảnh hưởng hoặc chặn lẫn nhau.

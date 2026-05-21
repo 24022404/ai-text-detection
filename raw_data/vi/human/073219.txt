@@ -1,0 +1,1 @@
+Quản trị viên có quyền vô hiệu hóa, xóa tài khoản và chấp thuận yêu cầu đổi mật khẩu của nhân viên. Ngoài ra, quản trị viên còn có các tính năng riêng biệt thích hợp với việc quản lý hệ thống còn các tính năng của nhân viên sẽ tập trung vào việc vận hành hệ thống.

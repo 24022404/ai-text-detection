@@ -1,0 +1,1 @@
+Sử dụng HTTPS để giao tiếp giữa server và client cho phép trao đổi thông tin một cách an toàn trên internet.

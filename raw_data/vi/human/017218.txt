@@ -1,0 +1,1 @@
+Dữ lệu sử dụng để huấn luyện mô hình gồm 14203 ảnh. Ảnh huấn luyện và thử nghiệm được chia theo tỷ lệ 80 : 20. Vớ tổng số nhãn là 162 trong đó gồm 93 loài động vật và 69 là thực vật. Trung bình mỗ nhãn sẽ 50 ảnh, trong đó 40 ảnh huấn luyện và 10 ảnh điểm kiểm thử.

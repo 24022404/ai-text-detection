@@ -1,0 +1,1 @@
+To transform a binary to an image, I interpret the sequence of binary bytes as the pixel values of grayscale PNG image. In my experiments, I consistently use a fixed width of 256, while the length varies based on the size of the binary.

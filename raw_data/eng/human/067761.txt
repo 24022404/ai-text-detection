@@ -1,0 +1,1 @@
+To solve the domain gap problem, several approaches that can be divided into adversarial training and self-training (ST). In this work, I chose DACS  as the base method for the self-training approach. It uses teacher-student architecture, which makes models more stable and pseudo labels less noisy. In addition, because DACS  is a one-stage method, it is easy to set up.

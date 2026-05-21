@@ -1,0 +1,1 @@
+Gao vện quản trị control   Các chức năng thêm, sửa và xóa control  hoạt động theo đúng kịch bản điều ra.

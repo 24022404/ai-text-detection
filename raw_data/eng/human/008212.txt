@@ -1,0 +1,1 @@
+Upon a successful transaction, the system notifies the provider of the newly cre ated appointment. The provider has two options: they can either accept or dec the appointment. If the provider accepts the appointment, the system updates the status to "accepted" and notifies both the customer and the provider.

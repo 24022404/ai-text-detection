@@ -1,0 +1,1 @@
+Gradient Descent is an algorithm that iteratively updates parameters, starting from an initial value, to search for and reach the optimal solution that minimizes a given cost function.

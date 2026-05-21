@@ -1,0 +1,1 @@
+Real-time Updates: Games often require real-time updates to reflect changes in player actions, scores, or game states. MongoDB’s ability to handle highwrite throughput and support real-time data updates makes it suitable for sce narios where data needs to be updated and accessed rapidly.

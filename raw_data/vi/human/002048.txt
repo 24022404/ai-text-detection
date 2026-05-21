@@ -1,0 +1,1 @@
+Đánh giá mức độ tốt ko đạt được từng trạng thái nhất định hoặc là thực hiện các hành động nhất định tạ từng trạng thái, từ đó chọn hành động tốt nhất (value learning).

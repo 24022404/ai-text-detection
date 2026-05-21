@@ -1,0 +1,1 @@
+Phép tích chập này giúp mở rộng trường tiếp nhận cục bộ, lấy được nhiều thông tin hơn từ ảnh đầu vào mà không tăng độ phức tạp tính toán. Tích chập dãn nở có thể được sử dụng để thay thế phép gộp (pooled), giúp giảm bộ nhớ tiêu thụ và không làm mất độ phân giải của đặc trưng đầu ra.

@@ -1,0 +1,1 @@
+Tính toán các giá trị xác suất chọn hành động tạ trạng thái sớ policy mới nhất. Từ đó tính được tỉ lệ giữa policy cũ và mớ.

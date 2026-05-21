@@ -1,0 +1,1 @@
+Chuẩn hóa khi thết kế giao diện: Các button có chữ trắng nền đien, fontsze là 14px, màu chữ là màu đien. Ngoà ra các thành phần khác và giao diện quản trị viên kế thừa và phát trển thêm theo framework Magento.

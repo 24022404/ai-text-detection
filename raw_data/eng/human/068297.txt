@@ -1,0 +1,1 @@
+Matrix visualization: In order to do this, the matrix data must be presented graphically in a variety of ways, such as heatmaps, scatter plots, or network graphs.

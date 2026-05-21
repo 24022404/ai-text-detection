@@ -1,0 +1,1 @@
+Về vấn đề còn tồn đọng trong ĐẤT này là độ chính xác của lớp Neutral vẫn còn thấp hơn so với hs lớp Positive và Negative. Vấn đề này có thể do bộ dữ liệu và bước tiền xử lý của em chưa hoàn hảo nên kh thử nghiệm mô hình thì có một số câu có nhãn Neutral thì bị đánh sa là Negative hoặc Postal.

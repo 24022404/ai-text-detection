@@ -1,0 +1,1 @@
+Such flaws of Zhang, Oi, Lowndes, et al. ’s system, fortunately, can still be improved. That is the goal this thesis aims to. The main task here is to design a code satisfying the constraints of dBTS system.

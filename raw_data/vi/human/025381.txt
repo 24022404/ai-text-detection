@@ -1,0 +1,1 @@
+Tập thực thể comments bao gồm các thuộc tính text, date comment. Tập thực thể users, tập thực thể vdeos có quan hệ has vớ tập thực thể comments. Một user có thể tạo nhiều comments trong nhiều video khác nhau và một comment do một người dùng tạo ra ở trong một video.

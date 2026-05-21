@@ -1,0 +1,1 @@
+Không có phí bổ sung cho Elastic Beanstalk  người dùng chỉ trả tiền cho các tài nguyên AWS cần thiết để lưu trữ và chạy các ứng dụng của họ.

@@ -1,0 +1,1 @@
+STT Tên trường Kiểu dữ lệu Mô tả 1 date trong Ngày phân tích, ví dụ "20220415" 2 hour Integer Gờ phân tích, ví dụ "14" 3 user Integer Số người dùng 4 view Integer Số lượt xem Xử lý: Trích xuất ngày và giờ từ trường tme để tạo ra hai trường date and hour.

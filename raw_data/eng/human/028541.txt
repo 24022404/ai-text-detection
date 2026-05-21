@@ -1,0 +1,1 @@
+H. Fredricksen and I. J. Kessler, “An algorithm for generating necklaces of beads in two colors,” Discrete mathematics , vol. 61, no. 2-3, pp. 181–188, 1986. F. Ruskey, C. Savage, and T. M. Y . Wang, “Generating necklaces,” Journal of Algorithms , vol. 13, no. 3, pp. 414–430, 1992.

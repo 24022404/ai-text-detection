@@ -1,0 +1,1 @@
+The web client is designed to be responsive, allowing users to access Odoo applications from various devices, including desktops, tablets, and mobile phones.

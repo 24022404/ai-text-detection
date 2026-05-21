@@ -1,0 +1,1 @@
+Tương tác với DOM và xử lý sự kiện: JavaScript cho phép tương tác với DOM (Document Object Model) để thay đổi nội dung và giao diện của trang web, cũng như xử lý các sự kiện người dùng như nhấp chuột và nhấn phím.

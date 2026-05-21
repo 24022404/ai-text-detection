@@ -1,0 +1,1 @@
+Sample selection ( 12 - 13): For each relation r∈Rk, we retrieve all samples labeled rfrom Dk. Then, the k-means algorithm is used to cluster the samples. The relation representation of the sample closest to the center is selected and stored in memory for each cluster.

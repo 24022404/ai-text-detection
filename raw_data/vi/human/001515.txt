@@ -1,0 +1,1 @@
+React Hình 3.7: thư viện React React hay còn gọi là ReactJS là một thư viện JavaScript mã nguồn mở được phát triển ở Facebook để xây dựng các ứng dụng. Vớ React, các nhà phát triển có thể tạo ra các thành phần UI độc lập, tái sử dụng và có tính tương tác cao điểm tạo ra giao diện người dùng đáp ứng và trải nghiệm người dùng tốt hơn.

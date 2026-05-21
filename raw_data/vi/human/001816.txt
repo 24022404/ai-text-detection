@@ -1,0 +1,1 @@
+Bố cục của ứng dụng: phải điược thết kế phù hợp với nhều loạ màn hình củacác phên bản Phone. Tỷ lệ, kích thước và vị trí những phần tử hển thị phải điược sắp xếp hợp lý.

@@ -1,0 +1,1 @@
+Các phương thức điược mô tả trong bảng 3.7Tên phương thứcĐầu vào Đầu raPhạm v truy cậpMô tả getRank nt pont strng pulcLấy thông tin cấu hình và trả về mức rank tương tứng với số điểm Bảng 3.7: Lớp RankSystemHelper  các phương thức Lớp SaveMemberController Mô tả : Xử lý lưu thông tin lưu hoặc tạo mớ thông tin hộ vên.

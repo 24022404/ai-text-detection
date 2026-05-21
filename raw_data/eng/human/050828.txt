@@ -1,0 +1,1 @@
+Moreover, users can monitor the number of existing pools, pool names, sample prefabs, the quantity of active objects, the quantity of objects remaining in the pool, as well as the capacity of each pool through the Object Pool Manager’s inspector.

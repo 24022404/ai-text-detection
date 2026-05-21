@@ -1,0 +1,1 @@
+v.Module Boundless Access Control: module thành phần đảm nhiệm chức năng quản lý và xây dựng quyền truy cập cho hệ thống.

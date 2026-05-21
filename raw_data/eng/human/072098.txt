@@ -1,0 +1,1 @@
+A successful relation extraction system plays a crucial role in exploring unstructured text, and thus is a cornerstone for many other Natural Language Processing tasks, such as Information Retrieval, Question Answering, and Knowledge Graph Construction.

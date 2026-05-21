@@ -1,0 +1,9 @@
+This paper addresses the challenge of noise interference in image classification tasks, which can significantly impair model accuracy and robustness. The primary objective is to enhance the noise resilience of convolutional neural networks (CNNs) by integrating wavelet transforms into the learning architecture.
+
+Methods/Approach: We propose a novel framework that combines wavelet transform preprocessing with conventional CNNs to improve their ability to filter and classify noise-afflicted images. The wavelet transform is employed to decompose images into different frequency components, enabling the CNN to focus on denoised representations of the data. This integration facilitates more robust feature extraction and improved classification performance under noisy conditions.
+
+Results/Findings: Experimental evaluations demonstrate that the proposed wavelet integrated CNN significantly outperforms standard CNNs and other state-of-the-art models in noisy environments. Testing across multiple datasets showed a marked increase in classification accuracy, with improvements of up to 15% in settings with high noise levels. Moreover, the model exhibits consistent performance across various types of image distortions, highlighting its generalizability and effectiveness.
+
+Conclusion/Implications: The integration of wavelet transforms with CNNs introduces an innovative approach to enhancing noise resistance in image classification tasks. This method contributes to the field by providing a robust alternative that can be applied in real-world applications, such as medical imaging, autonomous vehicles, and surveillance systems. Future work could explore the adaptability of this framework to other deep learning architectures and its potential extension to video data. 
+
+Keywords: wavelet transform, CNN, noise-robust, image classification, feature extraction, deep learning.

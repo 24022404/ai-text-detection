@@ -1,0 +1,1 @@
+Xác định các thực thể trong hệ thống Ta xác định được các thực thể trong cơ sở dữ liệu, dưới đây là và thực thể chính của ứng dụng:

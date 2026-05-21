@@ -1,0 +1,1 @@
+To collect data for the research, first, we get lists of contract addresses from the website: dune and verify the source code with tintinweb . After that, we use theSafechain tool to get the description of the vulnerability type, the location where the vulnerability appears, and its details. This step helps label the data.

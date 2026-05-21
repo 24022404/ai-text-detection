@@ -1,0 +1,1 @@
+Đối tượng chính mà trò chơi hướng điến là những người thích thể loại roguelike, trò chơi sẽ đặc biệt phù hợp với người chơ thích thể loại bắn súng 2D, cùng nội dung đơn giản, dễ tiếp cận những địa dạng trong lớp chơi. Trò chơi sử dụng đồ họa pixel nhằm phục vụ sở thích người chơ Mỹ cũng như sở thích của địa phần người chơ khu vực Bắc Mỹ.

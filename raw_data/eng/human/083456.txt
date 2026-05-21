@@ -1,0 +1,1 @@
+A. M. Bruckstein, T. Etzion, R. Giryes, N. Gordon, R. J. Holt, and D. Shuldiner,“Simple and robust binary self-location patterns,” IEEE transactions on in formation theory , vol. 58, no. 7, pp. 4884–4889, 2012.

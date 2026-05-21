@@ -1,0 +1,1 @@
+Muốn cài đặt được Pusher điầu tiên chúng ta cần có một tài khoản Pusher hoặc chúng ta có thể đăng nhập bằng tài khoản GitHub hay tài khoản Google.

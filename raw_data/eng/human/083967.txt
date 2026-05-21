@@ -1,0 +1,1 @@
+The services of GCP can be accessed by software developers, cloud administrators and IT professionals over the Internet or through a dedicated network connec tion.

@@ -1,0 +1,1 @@
+VGG16 enhances AlexNet by using sequences of smaller filters instead of large ones and incorporates five filters in the second layer. Training was conducted over several weeks on NVIDIA Titan Black GPUs.

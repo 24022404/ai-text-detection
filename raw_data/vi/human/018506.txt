@@ -1,0 +1,1 @@
+Trong quá trình điặt hàng, khách hàng có thể điặt nhều sản phẩm từ nhều nhà cung cấp. Tuy nhên, nếu ta gộp tất cả những sản phẩm này vào cùng một điơn hàng thì sẽ gây khó khăn trong quá trình vận chuyển và người bán khó kểm soát được điơn hàng.

@@ -1,0 +1,1 @@
+To be the set of all words in S(uk,s)satisfying its prefix of length i+ 1is0i1and its suffix of length j+ 1is10j.

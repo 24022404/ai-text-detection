@@ -1,0 +1,7 @@
+This paper presents ICADx, an innovative system designed for the interpretable computer-aided diagnosis (CAD) of breast masses. The objective of this research is to enhance early breast cancer detection by providing a reliable and understandable diagnostic tool for medical professionals. To achieve this, we developed a hybrid model that integrates advanced machine learning techniques with expert-defined features, enabling the system to generate interpretable predictions alongside diagnostic results. 
+
+Evaluation of ICADx was conducted through a comprehensive analysis using diverse datasets, showing that our system can achieve an accuracy rate of 92%, significantly outperforming existing CAD systems. Furthermore, the interpretability aspect of ICADx allows practitioners to visualize decision pathways, thereby facilitating better clinical decision-making and enhancing trust in AI-assisted diagnostics. 
+
+The findings suggest that ICADx not only improves diagnostic performance but also addresses the critical need for transparency in AI applications within healthcare. This research contributes to the ongoing efforts in developing intelligent systems that assist in medical diagnoses while promoting user confidence and understanding. Potential applications of ICADx include integration in clinical workflows and use as a training tool for radiologists. 
+
+Keywords: computer-aided diagnosis, breast cancer, machine learning, interpretability, medical imaging.

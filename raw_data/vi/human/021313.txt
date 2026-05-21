@@ -1,0 +1,1 @@
+Tương thích với nhiều extension và plugin: Magento hỗ trợ rất nhiều extension và plugin cho phép mở rộng tính năng của cửa hàng theo nhu cầu cụ thể của người dùng.

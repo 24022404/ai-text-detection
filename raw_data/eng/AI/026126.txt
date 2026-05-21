@@ -1,0 +1,1 @@
+A labeled graph is a useful illustration that helps visualize and better understand constrained code by clearly showing relationships and limitations involved.

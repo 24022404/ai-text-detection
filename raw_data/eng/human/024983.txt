@@ -1,0 +1,1 @@
+React uses Redux for building the user interface. It was first introduced by Dan Abramov and Andrew Clark in 2015.

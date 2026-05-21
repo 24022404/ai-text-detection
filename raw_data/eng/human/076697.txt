@@ -1,0 +1,1 @@
+Technical Overview Due to its nature as an AI library, the GOAP library is designed to be suitable for use in large-scale projects. The library utilizes BurstCompile, a new technology under development by Unity, to enable multi-threading for agents. Additionally, it uses node view to construct a visual window for the library.

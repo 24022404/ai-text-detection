@@ -1,0 +1,1 @@
+In chapter 4, the architecture of the app will be introduced. It consists of the interface design, the package design, the class design and the database design. It will also include the testing of the app, the data flow of some important use case and the installation of such a system.

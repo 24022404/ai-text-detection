@@ -1,0 +1,1 @@
+Ngoài document chính từ pytorch thì vẫn còn khá hạn  chế các nguồn tài lệu bên ngoài như các tutorials hay các câu hỏi trên stackoverflow.

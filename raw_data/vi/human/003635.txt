@@ -1,0 +1,1 @@
+Trang chủ của trang web hiển thị thông tin cơ bản của trang web như: logo, tên cửa hàng, hình ảnh sản phẩm minh hoạ của trang web, danh sách các sản phẩm đang được bán tạ trang web.

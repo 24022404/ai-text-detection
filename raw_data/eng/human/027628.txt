@@ -1,0 +1,1 @@
+Notify Controller function createNotify This function creates new notify, handles such request when the front end of the application calls the API.

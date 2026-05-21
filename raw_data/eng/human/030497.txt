@@ -1,0 +1,1 @@
+This subsection includes a set of UML diagrams that present each package’s re sponsibilities and the relationships between them. By examining these diagrams,we can gain a better understanding of the project’s organization and how the dif ferent parts interact.

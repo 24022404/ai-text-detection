@@ -1,0 +1,1 @@
+CSDL khách hàng: lưu trữ thông tin khách hàng (mã khách hàng, tên khách hàng, đi ịa chỉ, số điện thoại, mã số thuế).

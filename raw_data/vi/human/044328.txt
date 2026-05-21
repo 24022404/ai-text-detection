@@ -1,0 +1,1 @@
+Mô tả luồng hoạt động nghiệp vụ giao dịch NTFs Quy trình thực hiện giao dịch NTFs giữa các đối tác nghiệp vụ có thể được mô tả như sau:

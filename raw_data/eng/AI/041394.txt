@@ -1,0 +1,9 @@
+This paper presents a comprehensive survey on the use of semi-supervised learning techniques for handling delayed, partially labelled data streams, a pervasive challenge in real-time data processing scenarios. The aim is to address the limitations of fully supervised models that require extensive labeled datasets and to explore methods that capitalize on the abundance of unlabeled data typically available in streaming environments.
+
+Methods/Approach: We systematically review existing methodologies, focusing on algorithms that integrate semi-supervised learning with data stream mining. This includes exploration of ensemble methods, incremental learning strategies, and adaptive models capable of adjusting to the dynamic nature of data streams. The paper also examines mechanisms for timely label propagation and updating, which are crucial when facing delays in labeled data.
+
+Results/Findings: The survey identifies key performance enhancements of semi-supervised models over traditional approaches in terms of accuracy, adaptability, and computational efficiency. We compile comparative analyses across various domains such as sensor networks, online social media analytics, and financial markets, highlighting the reduction in labeling requirements and the improved capacity to react to concept drifts.
+
+Conclusion/Implications: Our findings underscore the significant potential of semi-supervised learning in transforming data stream processing. The insights and identified gaps pave the way for future research on more robust and efficient algorithms. The survey emphasizes the importance of developing innovative strategies for timely and effective learning in environments characterized by delayed labeling, with applications spanning numerous fields that require real-time data insights.
+
+Keywords: Semi-supervised learning, data streams, delayed labeling, incremental learning, ensemble methods.

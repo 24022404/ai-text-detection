@@ -1,0 +1,1 @@
+The method uses the application's AndroidManifest.xml file as input, which specifies all the app's components, including activities, services, and content providers needed for operation.

@@ -1,0 +1,1 @@
+Tạ màn hình chi tiết cuộc trò chuyện, người dùng có thể nhập tin nhắn cũng như chọn con mà mình muốn gửi đến cho bạn bè của mình. Sau khi nhập xong nội dung tin nhắn, người dùng ấn nút gửi ở bên cạnh input nhập nội dung tin nhắn như hình 4.23. Sau đó tin nhắn sẽ được gửi đến bạn bè.

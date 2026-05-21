@@ -1,0 +1,1 @@
+Mỗ môđiun bao gồm một hoặc nhều thành phần như controllers, models, vews, blocks và helpers. Các môđiun cung cấp các tính năng cụ thể cho hệ thống Magento, chẳng hạn như tính năng thanh toán, quản lý sản phẩm, quản lý điơn hàng, quản lý khách hàng và nhều hơn nữa.

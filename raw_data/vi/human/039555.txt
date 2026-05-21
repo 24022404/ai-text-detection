@@ -1,0 +1,1 @@
+Tính tương thích trình duyệt: Hệ thống cần tương thích với các trình duyệt web phổ biến, bao gồm Google Chrome , Mozilla Firefox , Safari  và Microsoft Edge . Đều này đảm bảo rằng người dùng có thể truy cập và sử dụng hệ thống trên các trình duyệt khác nhau mà không gặp sự cố tương thích.

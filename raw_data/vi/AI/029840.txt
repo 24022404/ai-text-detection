@@ -1,0 +1,9 @@
+Vấn đề vận dụng lý luận xác định giá trị tài liệu lưu trữ nghe - nhìn vào thực tiễn đang trở thành một trong những thách thức lớn đối với các thư viện và trung tâm lưu trữ hiện nay. Lý luận xác định giá trị tài liệu lưu trữ nghe - nhìn là một khái niệm quan trọng trong lĩnh vực lưu trữ, giúp xác định giá trị và tầm quan trọng của các tài liệu lưu trữ.
+
+Tuy nhiên, trong thực tiễn, việc vận dụng lý luận này còn gặp nhiều khó khăn. Một trong những lý do chính là sự đa dạng và phong phú của các tài liệu lưu trữ, cũng như sự thay đổi nhanh chóng của công nghệ và nhu cầu của người dùng. Điều này đòi hỏi các thư viện và trung tâm lưu trữ phải có khả năng thích nghi và linh hoạt trong việc vận dụng lý luận xác định giá trị tài liệu lưu trữ nghe - nhìn.
+
+Để giải quyết vấn đề này, các thư viện và trung tâm lưu trữ cần phải xây dựng một hệ thống quản lý và đánh giá giá trị tài liệu lưu trữ hiệu quả. Điều này bao gồm việc xây dựng một cơ sở dữ liệu chính xác và đầy đủ, cũng như việc áp dụng các phương pháp đánh giá giá trị tài liệu lưu trữ hiện đại.
+
+Bên cạnh đó, các thư viện và trung tâm lưu trữ cũng cần phải tăng cường hợp tác và chia sẻ kinh nghiệm với các tổ chức khác trong lĩnh vực lưu trữ. Điều này sẽ giúp họ có thể học hỏi và áp dụng các phương pháp và kỹ thuật mới, cũng như có thể chia sẻ kinh nghiệm và kiến thức với các tổ chức khác.
+
+Tóm lại, vận dụng lý luận xác định giá trị tài liệu lưu trữ nghe - nhìn vào thực tiễn là một vấn đề phức tạp và đòi hỏi sự linh hoạt và thích nghi. Tuy nhiên, với sự nỗ lực và hợp tác của các thư viện và trung tâm lưu trữ, chúng ta có thể giải quyết được vấn đề này và xây dựng một hệ thống lưu trữ hiệu quả và hiện đại.

@@ -1,0 +1,1 @@
+Hệu suất : Đảm bảo rằng hệ thống hoạt động một cách hiệu quả và không gây ra trễ hoặc gảm tốc điộ sử dụng điáng kể khi có nhều người dùng truy cập cùng một lúc.

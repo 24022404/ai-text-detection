@@ -1,0 +1,1 @@
+IoU=Dce 2−Dce(4.2) Xét về khía cạnh ma trận nhầm lẫn, các độ đo có thể được biểu diễn lạ như trong công thức ( 4.3) và (4.4):

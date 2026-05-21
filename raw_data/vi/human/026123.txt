@@ -1,0 +1,1 @@
+Vớ chế độ Timer: Người dùng có thể hẹn giờ tùy chỉnh theo ý điịnh điể hệ thống hoạt điộng.Thống kê các thông tn về ứng dụng STT Thông tin Số liệu 1 Số dòng code android 1482 2 Số dòng code arduino 792 3 Số có 3 4 Số lớp 22 5 Dung lượng mã nguồn Android 43.6 MB 6 Dung lượng mã nguồn IDE 26MB Mô hình sản phẩm thu được:

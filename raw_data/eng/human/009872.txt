@@ -1,0 +1,1 @@
+P. Bachman, R. D. Hjelm andW. Buchwalter, “Learning representations by maximizing mutual information across views,” inProceedings of the 33rd International Conference on Neural Information Processing Systems Red Hook, NY, USA: Curran Associates Inc., 2019.

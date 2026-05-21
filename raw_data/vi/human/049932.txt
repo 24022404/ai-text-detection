@@ -1,0 +1,1 @@
+Mô hình trích xuất đặc trưng khuôn mặt Khuôn mặt sau khi được phát hiện sẽ được đưa qua mô hình Facenet điển trích xuất vector đặc trưng. Vector đặc trưng là một vector với kích thước cố điịnh, điã điược học trong quá trình huấn luyện và đại diện cho một tập các đặc trưng có trách nhiệm trong việc phân loại các đối tượng trong chều không gan điã điược bến đỗ.

@@ -1,0 +1,1 @@
+tên, mô tả, danh mục và danh mục con khóa học. Phần nội dung là phần quan trọng nhất, người dùng có thể thêm, sửa, xóa các chương và bà tùy nội dung bài giảng của mình và tả lên các tài liệu giảng dạy tại đây. Phần cuối là bà kiểm tra, người dùng tạo các câu hỏi cho khóa học của mình.

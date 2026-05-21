@@ -1,0 +1,1 @@
+.Module Bounlessrootconfg : là điểm bắt đầu (Entrypoint) của ứng dụng web, chịu trách nhiệm quản lý tất cả các module còn lạ. Root config sẽ ánh xạ và tả các thành phần tương ứng mỗi khi được gọi điến.

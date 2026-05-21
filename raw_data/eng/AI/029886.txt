@@ -1,0 +1,1 @@
+Lempel and Cohn (1985) propose effective universal test sequences for VLSI circuits, ensuring thorough fault coverage and efficient testing.

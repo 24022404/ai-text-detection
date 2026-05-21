@@ -1,0 +1,5 @@
+Ứng dụng học máy nhận dạng tướng đất đá khu vực bồn trũng An Châu là một công nghệ tiên tiến trong lĩnh vực địa chất học. Công nghệ này sử dụng phương pháp học máy để phân tích và nhận dạng các tướng đất đá tại khu vực bồn trũng An Châu.
+
+Bằng cách phân tích dữ liệu địa chất và hình ảnh vệ tinh, ứng dụng này có thể xác định các loại đất đá, độ dày của lớp phủ, và các đặc điểm địa chất khác. Điều này giúp các nhà khoa học và chuyên gia địa chất có thể hiểu rõ hơn về cấu trúc địa chất của khu vực và dự đoán các nguy cơ tiềm ẩn như lũ lụt, sụt lún, và các hiện tượng địa chất khác.
+
+Ứng dụng này cũng có thể giúp các nhà khai thác mỏ và các công ty xây dựng có thể lựa chọn vị trí khai thác và xây dựng an toàn hơn, giảm thiểu rủi ro và tăng hiệu suất công việc.

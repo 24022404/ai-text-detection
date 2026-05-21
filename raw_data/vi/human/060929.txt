@@ -1,0 +1,1 @@
+Lý do chọn Arduino Uno R3 Hình 3.1: Arduino Uno R3 Môi trường phát triển đơn giản, rõ ràng: Đặc điểm nổi bật nhất của Arduino là môi trường phát triển ứng dụng cực kỳ dễ sử dụng. Arduino có các tập lệnh hết sức đơn giản. Nhờ đó, Arduino che đi sự phức tạp của việc lập trình cho vi điều khiển.

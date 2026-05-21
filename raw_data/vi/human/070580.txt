@@ -1,0 +1,1 @@
+Thờ gắn khởi điầu chậm: Laravel là một framework mạnh mẽ với nhiều tính năng, điều này khiến quá trình khởi điầu dự án mới có thể chậm hơn so với các framework nhẹ hơn.

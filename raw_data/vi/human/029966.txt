@@ -1,0 +1,1 @@
+Gửi thông báo email tự động Để gửi emal, Laravel điã cung cấp package malgun sử dụng Imap điểm có thể gửi mail và tùy chỉnh một số thông tin cấu hình như: () username, () password, () host, (va) port, (v) encryption. Trong phạm vi đồ án này, cấu hình kết nối đến gmail được sử dụng như sau:

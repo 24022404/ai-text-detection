@@ -1,0 +1,1 @@
+God (Dependency Injection): Có chứa các lớp hỗ trợ việc dependency n jector giảm tiểu sự phụ thuộc các lớp với nhau.

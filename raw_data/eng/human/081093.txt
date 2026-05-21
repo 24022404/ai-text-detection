@@ -1,0 +1,1 @@
+Pooling layers: A pooling layer follows several convolutional layers—this helps re duce the dimensionality and the number of parameters of the feature maps created by each convolution step. Pooling is crucial given the rapid growth of the number of available filters from 64 to 128, 256, and eventually 512 in the final layers.

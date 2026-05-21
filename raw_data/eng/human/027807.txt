@@ -1,0 +1,1 @@
+Cast character skill 3 This test case is to check the character’s ability to use the third skill (Figure 4.5).

@@ -1,0 +1,1 @@
+STT Tên Kiểu trả về Mô tả (mục đích) 1 Save Course ServiceResult Lưu/Sửa khóa học 2 Remove Course ServiceResult Xóa khóa học theo ID3 Get Max ID ServiceResult Lấy ID lớn nhất khóa học 4 GetLr Course ServiceResult Lấy danh sách khóa học theo tham số Bảng 4.2: Các phương thức của lớp Course Controller Parameter:

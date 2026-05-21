@@ -1,0 +1,1 @@
+List[Device]vod Xóa danh sách nhiều thiết bị ra khỏi hệ thống Bảng 4.3: Bảng đặc tả chợ tết lớp Device eSet v4.2.3 Phân tích hành vi hệ thống bằng biểu đồ trình tự Một và biểu đồ tuần tự để minh họa rõ hơn vai trò của các lớp được xây dựng trong chương trình:

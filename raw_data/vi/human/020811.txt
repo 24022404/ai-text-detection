@@ -1,0 +1,1 @@
+–Buff Stat: phương thức giúp tăng chỉ số của nhân vật bao gồm tốc độ di chuyển, sức mạnh, tốc độ đánh, v.v.

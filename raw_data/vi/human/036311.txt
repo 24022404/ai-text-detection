@@ -1,0 +1,1 @@
+Scikit Learn là một thư viện mã nguồn mở hàng đầu trong lĩnh vực học máy (machine learning) dành cho ngôn ngữ lập trình Python. Nó cung cấp một loạt các công cụ và thuật toán mạnh mẽ giúp thực hiện các nhiệm vụ xử lý, huấn luyện và đánh giá các mô hình học máy một cách hiệu quả.

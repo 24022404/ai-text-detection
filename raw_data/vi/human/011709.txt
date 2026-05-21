@@ -1,0 +1,1 @@
+Hỗ trợ cho các tính năng mới chậm: PHP có thể mất thờ gần điểm hỗ trợ các tính năng mới nhất của ngôn ngữ lập trình, do quá trình chuẩn bị và đưa ra quyết định thường diễn ra một cách chậm chạp.

@@ -1,0 +1,1 @@
+Công cụ tối ưu hóa: Extjs cung cấp các công cụ tối ưu hóa như code splitting, prefetch, và lazy loading điểm tối ưu hóa hiệu suất tải trang và tăng trải nghiệm người dùng.

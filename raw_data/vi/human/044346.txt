@@ -1,0 +1,1 @@
+Dựa trên mô hình MVC, hình vẽ sau đây là mô tả kiến trúc phân tầng cho hệ thống của em:Hình 4.2: Kiến trúc hệ thống quản lý và bán đồ nội thất.

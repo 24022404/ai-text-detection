@@ -1,0 +1,1 @@
+Hệ thống hển thị thông báo thành công 8. Hệ thống chuyển đến trang đăng nhập Kịch bản khác N/A Ngoạ lệ: 3.E.1. Không thể giao tếp với máy chủ API, hệ thống hển thị thông báo lỗ 3.E.2. Khách nhập thông tin không hợp lệ Mức điộ ưu tên: Cao Tần suất sử dụng: Cao Bảng 2.3: Usecase đăng ký.

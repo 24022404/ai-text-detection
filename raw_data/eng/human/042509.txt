@@ -1,0 +1,1 @@
+Improving clarity in architecture: Using DTO helps clearly separate the different layers in the application architecture, such as separating the business layer and the user interface layer. A DTO can be used to transfer data between these layers.

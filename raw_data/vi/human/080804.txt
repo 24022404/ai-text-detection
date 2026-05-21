@@ -1,0 +1,1 @@
+Tuy vậy hệ thống cũng có những nhược điểm sau. ) Chưa tận dụng điược tố đia dữ lệu thu thập điược. ) Dữ lệu xử lý hành vi người dùng chưa đủ lớn để đánh giá hiệu năng của các trình xử lý. ) Định danh người dùng chưa đăng nhập chưa được triển khai. và) Dữ lệu về sở thích của khách hàng đang được sử dụng những tập luật đơn giản.

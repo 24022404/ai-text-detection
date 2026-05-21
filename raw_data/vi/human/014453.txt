@@ -1,0 +1,1 @@
+Chức năng "Tìm kiếm thông tin" Mô tả: Tìm kiếm đối tượng mà người dùng quan tâm dựa trên thông tin lên quan.

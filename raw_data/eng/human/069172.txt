@@ -1,0 +1,1 @@
+Hong, KIm, JU. Ryu and. S. Yang, “Sepadan: Deep domain adaptation network for face recognition with single sample per person,” n 2017 IEEE International Conference on Image Processing (ICIP) IEEE, 2017, pages 825–829.

@@ -1,0 +1,1 @@
+Elicitation: This entails obtaining details about the needs from key players including clients, business analysts, and end users. To elicit requirements, a variety of techniques can be employed, including interviews, surveys, and brainstorming sessions.

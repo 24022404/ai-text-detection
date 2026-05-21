@@ -1,0 +1,1 @@
+Sau khi lấy được kho dữ liệu phụ, thuật toán sử dụng mô hình Skip Gram vớ lấy mẫu âm (SGNS)  làm mô hình nhúng cơ sở. Ở phần Cơ sở lý thuyết điã trình bày ch tết về phương pháp nhúng từ. Mô hình sẽ sử dụng kho văn bản dữ liệu phụ Thay vì toàn bộ kho dữ liệu D. Hàm mất mát được giảm thiểu ở:

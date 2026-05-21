@@ -1,0 +1,1 @@
+Trong giai đoạn lặp lại xây dựng, các vòng lặp được xảy ra liên tục và lên tiếp nhau, và sẽ phát triển tịnh tiến nên sẽ có rất ít thờ gan điể chuẩn bị các kế hoạch kiểm thử, tài lệu kiểm thử.

@@ -1,0 +1,1 @@
+View General Information : This sub-use case provides the user with basic metadata and file details about the uploaded file. This information includes the file name, file size, hash values (MD5/SHA1/SHA256), version, packagename, and other essential attributes. This step is important for verifying the authenticity of the file and understanding its general properties.

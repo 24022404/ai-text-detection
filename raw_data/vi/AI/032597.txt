@@ -1,0 +1,5 @@
+Phát triển phương pháp HPLC-DAD định lượng pentostatin trong quả thể nấm dược liệu Cordyceps militar là một nghiên cứu khoa học quan trọng nhằm tìm kiếm và xác định thành phần hoạt tính sinh học trong Cordyceps militar. Cordyceps militar là một loại nấm dược liệu được sử dụng trong y học cổ truyền Trung Quốc để điều trị nhiều bệnh lý khác nhau.
+
+Phương pháp HPLC-DAD (HPLC với cảm biến diode array) là một kỹ thuật phân tích cao cấp được sử dụng để xác định và định lượng các hợp chất trong mẫu. Trong nghiên cứu này, nhóm nghiên cứu đã sử dụng HPLC-DAD để xác định và định lượng pentostatin, một hợp chất hoạt tính sinh học trong Cordyceps militar.
+
+Kết quả nghiên cứu cho thấy phương pháp HPLC-DAD có thể xác định và định lượng pentostatin trong quả thể nấm Cordyceps militar với độ chính xác cao. Nghiên cứu này có thể mở ra hướng phát triển mới cho việc sử dụng Cordyceps militar như một nguồn dược liệu tự nhiên để điều trị các bệnh lý khác nhau.

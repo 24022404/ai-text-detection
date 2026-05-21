@@ -1,0 +1,1 @@
+Sau khi nhận được cử chỉ tay từ camera, Jetson Nano sẽ dự đoán cử chỉ tay và gửi yêu cầu tương ứng đến máy chủ để điều khiển cử chỉ tay. Thông báo nhận được từ máy chủ sẽ được phát qua loa.

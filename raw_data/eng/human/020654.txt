@@ -1,0 +1,1 @@
+fc=Pns j=1[y(i,j) s=c] ns·H·WAccording DAFormer , based on the frequency fcof a certain class cthe sam pling probability P(c)of that class is calculated as follow:

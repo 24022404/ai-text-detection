@@ -1,0 +1,1 @@
+The Java Spring Framework is a widely used open-source framework designed to build standalone, production-ready applications that run on the Java Virtual Machine (JVM). Spring Boot, an extension of the Spring Framework, streamlines and accelerates web application and microservice development by providing auto-configuration, an embedded server, and production-ready features.

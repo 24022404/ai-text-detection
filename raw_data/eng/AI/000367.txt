@@ -1,0 +1,1 @@
+C.H. Bennett and G. Brassard’s 1984 paper presents quantum cryptography, proposing a method for secure public key distribution and coin tossing based on quantum mechanics, discussed at a renowned IEEE conference.

@@ -1,0 +1,1 @@
+FILTER ( l i c e n s e ( ? name ) = \ " " " " + v a l u e + " " " \ " ) LIMIT 1 " " " b, Chức năng "Tìm kiếm thông tin" Chatbot thực hiện truy vấn tìm đối tượng mà người dùng yêu cầu dựa vào các thông tin lên quan xoay quanh. Ví dụ mẫu câu truy vấn SPARQL tìm địa điểm du lịch thông qua tên lễ hội trong đó value là tên lễ hội mà người dùng nhập vào.

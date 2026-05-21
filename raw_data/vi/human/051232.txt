@@ -1,0 +1,1 @@
+View: là thành phần hiển thị dữ liệu và các thông tin khác lên giao diện người dùng, cung cấp môi trường điểm người dùng tương tác với hệ thống như nhập liệu, nhấn, . . .

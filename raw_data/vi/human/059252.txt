@@ -1,0 +1,1 @@
+Pa(s, s′)là xác suất mà hành động trong trạng thái tạ thời điểm sẽ dẫn đến trạng thái′trong thời điểm t+ 1.

@@ -1,0 +1,1 @@
+Đều này giúp mô hình hiểu và tổng quát hóa dữ liệu hơn, điảm bảo hiệu suất tốt trên dữ liệu mớ.

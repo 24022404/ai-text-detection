@@ -1,0 +1,1 @@
+The input section gathers the application's APK directory, MD5 hash, and package name to collect dynamic logs, clipboard data, and related files, while the output section generates a structured report of this data.

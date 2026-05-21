@@ -1,0 +1,1 @@
+Bài toán quy hoạch tuyến tính Quy hoạch tuyến tính (QHTT)  là bài toán tối ưu, trong đó hàm mục tiêu và các điều kiện ràng buộc điều là tuyến tính. Dạng chuẩn tắc của một bài toán quy hoạch tuyến tính có thể được biểu diễn như Công thức 3.1 :

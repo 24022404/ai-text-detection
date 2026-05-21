@@ -1,0 +1,1 @@
+Bước 4: Hệ thống thực hiện khởi tạo giao dịch tăng số lượng token tương ứng của người dùng để gửi lên mạng chuỗi khố. Sau khi gửi thành công lên mạng chuỗi khố, cập nhật trạng thái của yêu cầu.

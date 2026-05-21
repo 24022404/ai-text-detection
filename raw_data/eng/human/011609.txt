@@ -1,0 +1,1 @@
+FakeRean : pretends to scan the whole system, sends notifications to user about issues and asks user to pay for cleaning system.

@@ -1,0 +1,1 @@
+Quản trị viên là tác nhân quản trị hệ thống, có chức năng chính là duyệt các yêu cầu tín dụng từ các nhãn hàng.2.2.2 Biểu đồ use case cho tết CRUD phiếu khuyến mạ Hình 2.2: Use case CRUD phiếu khuyến mạ Hình 2.2 là biểu đồ use case phân rã CRUD phiếu khuyến mãi. CRUD ở đây là tạo ra (create), điọc (read), cập nhập (update) và xóa (delete).

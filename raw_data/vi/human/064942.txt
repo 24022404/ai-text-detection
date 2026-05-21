@@ -1,0 +1,1 @@
+Magento sử dụng MySQL làm hệ quản trị cơ sở dữ liệu chính để lưu trữ và quản lý dữ liệu của nền tảng thương mại điện tử. MySQL được tích hợp sâu vào Magento điểm lưu trữ thông tin về sản phẩm, danh mục, đơn hàng, khách hàng và các dữ liệu khác cần thiết cho hoạt động của cửa hàng trực tuyến.

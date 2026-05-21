@@ -1,0 +1,1 @@
+.Boundless Backend: mã nguồn xử lý nghiệp vụ của hệ thống, bao gồm mã nguồn các package, mỗ package xử lý một nghiệp vụ riêng biệt.

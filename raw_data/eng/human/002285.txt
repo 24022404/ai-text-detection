@@ -1,0 +1,1 @@
+Matrix Factorization: This method decomposes the user-item rating matrix into two low-rank matrices, one representing the user preferences and the other representing the item attributes. Matrix factorization can be effective for longtail items because it can use the attributes of items to make recommendations even if the item has few ratings.

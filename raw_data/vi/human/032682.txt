@@ -1,0 +1,1 @@
+Cuối cùng, ĐATN cũng hỗ trợ cập nhật lại các thông số của ga đoạn và cột mốc tự động khi thay đổi thông tin của các công việc có lên quan.

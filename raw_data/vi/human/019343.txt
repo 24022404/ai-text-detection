@@ -1,0 +1,1 @@
+Mộ cuộc hội thoại gồm nhiều thành viên khác nhau, mối quan hệ giữa cuộc hội thoại và thành viên cuộc hội thoại là 1n.

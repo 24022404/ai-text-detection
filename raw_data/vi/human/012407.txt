@@ -1,0 +1,1 @@
+Chia sẻ quyền chỉnh sửa bài vết Người dùng có thể cấp quyền cho người dùng khác cùng chỉnh sửa bài viết.

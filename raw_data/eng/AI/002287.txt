@@ -1,0 +1,1 @@
+By monitoring access to sensitive data, unnecessary permissions, and unusual activities, the system logs suspicious API calls that may indicate malicious behavior or security risks. This process enables users to review these potentially harmful calls, assess any threats, and respond accordingly to maintain the security and integrity of their environment.

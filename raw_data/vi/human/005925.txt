@@ -1,0 +1,1 @@
+Yêu cầu về hiệu năng Trang web cần đảm bảo khả năng phục vụ nhiều người dùng đồng thờ mà không gặp vấn đề. Thờ gan phản hồi và độ trễ trên các nền tảng khác nhau, phải nằm trong giới hạn chấp nhận được.

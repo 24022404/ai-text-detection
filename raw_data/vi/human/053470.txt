@@ -1,0 +1,1 @@
+Một nhóm gả pháp tập trung vào vệc định tuyến nhều AGV điể tránh va chạm và tố thểu hoá sa lệch so với thờ gan quy định. Nhóm gả pháp này sử dụng các kỹ thuật như cha nhỏ bà toán, học tăng cường, v.v. Tuy nhên, nhóm gả pháp này bỏ qua sự có mặt của con người trong mô trường, dẫn đến vệc không thể áp dụng chúng vào vệc định tuyến AGV trong mô trường bệnh vện.

@@ -1,0 +1,1 @@
+Kến trúc của Magento a, Kến trúc tổng quan Magento tích hợp các nguyên tắc kiến trúc cốt lõ của các ứng dụng hướng điố tượng và dựa trên PHP.

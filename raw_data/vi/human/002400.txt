@@ -1,0 +1,1 @@
+Hệ thống Inventory ItemS Class: lớp đóng vai trò lưu trữ các prototype cho các tem trong game, lớp này nắm tất cả thông tin của một tem, từ loại tem, con điếm model của em đó khi người chờ mặc trên người, chỉ số màu tím giấy có thể có cũng được lưu tại đây nếu em đó là đồ có thể mặc hoặc lượng sát thương mà kỹ năng có thể gây ra nếu đó là một kỹ năng có thể dùng.

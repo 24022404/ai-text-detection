@@ -1,0 +1,1 @@
+The data set details solder defects in substandard welds, focusing on three main types of poor-quality errors: bridge foot, fat bridge, and issues related to excess solder.

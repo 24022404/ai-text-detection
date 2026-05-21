@@ -1,0 +1,1 @@
+Permadeath (Cá chết vĩnh cửu)  là cơ chế khi người chờ chết, toàn bộ quá trình chờ sẽ phải bắt đầu lại từ đầu, khến game roguelike luôn có thử thách cao.

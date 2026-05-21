@@ -1,0 +1,1 @@
+Đầu tên, ta truy cập trang  , chọn file .glb cần gảm dung lượng Ở tab Export, mục compresson ta chọn Meshopt Ở cửa sổ Meshot compresson ta chọn level Medum(c) Phương pháp nén này giúp cho dung lượng file .glb được gảm thểu từ 1020% điố với từng file khác nhau.

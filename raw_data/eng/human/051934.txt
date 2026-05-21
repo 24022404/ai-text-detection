@@ -1,0 +1,1 @@
+Difficulty in error handling: If there is an error when transferring data, error handling can become more complex when not using DTO. If data is transferred directly, errors can affect many layers of the application, making it more difficult to fix them.

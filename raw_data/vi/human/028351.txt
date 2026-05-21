@@ -1,0 +1,1 @@
+Trong Chương 3, em giới thiệu về các công nghệ được sử dụng. MySQL sử dụng để lưu trữ dữ lệu. Apache Spark, Apache Hadoop sử dụng để xử lý dữ lệu, xử lý các phân khúc khách hàng. Và Spring Boot, ReactJs điểm xây dựng giao diện người dùng điểm tạo, lấy thông tin các phân khúc khách hàng.

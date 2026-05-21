@@ -1,0 +1,1 @@
+Dữ lệu về hành vi của khách hàng và lượng khách hàng sử dụng ứng dụng là rất lớn, vì thế cần có một công cụ hỗ trợ tốt việc xử lý dữ lệu lớn. Apache Spark là một framework tốt cho việc xử lý dữ lệu lớn với những ưu điểm nổ trọ như: tốc độ xử lý nhanh, chính xác, tính chịu lỗ,..

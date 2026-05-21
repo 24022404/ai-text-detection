@@ -1,0 +1,1 @@
+Hệ thống thông báo làm đúng, nếu sai hệ thống đưa ra đáp án đúng cho mỗi câu trắc nghiệm.

@@ -1,0 +1,1 @@
+Hàm kích hoạt (Activation function): Hàm kích hoạt được sử dụng ở phần cuối của đơn vị ẩn điểm đưa ra độ phức tạp ph tuyến tính cho mô hình và được sử dụng làm dữ liệu đầu vào cho tầng tiếp theo.

@@ -1,0 +1,1 @@
+Phần lớn các framework CSS hiện nay chọn hướng tiếp cận "Component first", tức là tạo ra các thành phần có sẵn để lập trình viên chỉ việc sử dụng, giúp hoàn thiện sản phẩm nhanh chóng. Tuy nhiên, nhược điểm của phương pháp này là rất khó để tùy chỉnh các thành phần đó. Trái lạ, Talend CSS sử dụng phương pháp tiếp cận "Utility First Framework".

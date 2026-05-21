@@ -1,0 +1,1 @@
+Hỗ trợ các ngôn ngữ lập trình: MySQL hỗ trợ nhiều ngôn ngữ lập trình khác nhau, bao gồm C, C++, Java, Python và PHP.

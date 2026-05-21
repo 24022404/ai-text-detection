@@ -1,0 +1,1 @@
+Kho ngữ liệu là tập hợp các văn bản. Bộ từ vựng của kho ngữ liệu là một tập hợp các từ có thể xuất hiện trong một tập dữ liệu văn bản. Thông qua bộ từ vựng thường được sử dụng để giúp các mô hình hiểu và phân tích văn bản.

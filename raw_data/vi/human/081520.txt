@@ -1,0 +1,1 @@
+Cuối cùng, tầng dữ liệu chúng tôi sử dụng cơ sở dữ liệu PostgreSQL .4.1.2 Thiết kế tổng quan Hình 4.2: Biểu đồ phụ thuộc có Mục đích của từng package:

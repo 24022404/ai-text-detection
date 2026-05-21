@@ -1,0 +1,1 @@
+Flowchart of FedImp is shown in the Figure 4.6, the server begins with the initialization of model parameters. Then a process for each communication round is executed, involving the selection of a random set of nodes, parallel execution of local updates, and aggregation of global parameters. The algorithm terminates when it reaches a certain number of iterations.

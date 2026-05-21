@@ -1,0 +1,1 @@
+Ecosystem phong phú: Docker có một cộng đồng lớn và một hệ sinh thái mở rộng với hàng ngàn các hình ảnh điã điược xây dựng sẵn và các công cụ hỗ trợ.

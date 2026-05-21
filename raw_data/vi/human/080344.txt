@@ -1,0 +1,1 @@
+Không khóa: Không yêu cầu trình thông dịch hoặc công cụ thờ gan chạy điểm kích hoạt các ứng dụng OutSystems. Nền tảng này tạo ra các ứng dụng có kiến trúc tiêu chuẩn.

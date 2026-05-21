@@ -1,0 +1,1 @@
+Bước 1: Sau khi hệ thống nhận được dữ liệu từ mạng chủ khố, hệ thống sẽ lưu trữ dữ liệu vào và đánh nhãn là dữ liệu chưa được xác thực hoàn toàn. Tuy nhiên, dữ liệu này vẫn được trả về cho người dùng điểm đảm bảo thờ gan thực.

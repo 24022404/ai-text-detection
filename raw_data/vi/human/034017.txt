@@ -1,0 +1,1 @@
+Tạ bước này, người dùng sẽ được xem lạ các khoản phí mình đã chọn và tổng số tền phải thanh toán. Kh các thông tn điều điã điúng, người dùng sẽ tến hành thanh toán bên ngoài web, sau khi hoàn thành, người dùng sẽ ấn nút Thanh toán.

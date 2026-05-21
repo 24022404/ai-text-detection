@@ -1,0 +1,1 @@
+Keras điã điược tích hợp mặc điịnh vớ TensorFlow, tuy nhiên nó cũng hỗ trợ các backend học sâu khác như Theano và CNTK.

@@ -1,0 +1,1 @@
+Công thức tính của phương thức này giống như phương thức bên trên, chỉ khác chỗ là trước khi tính toán thì các từ được chuẩn hoá hết về dạng n thường để tính độ chính xác.

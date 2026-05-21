@@ -1,0 +1,1 @@
+Ngờ dụng chọn một góc sẽ được dẫn đến trang điểm nhập mã giao dịch mua thành công. Thông tin các ví điện tử điểm nhận chuyển khoản sẽ được cung cấp và người dùng có thể chọn một trong các tài khoản.

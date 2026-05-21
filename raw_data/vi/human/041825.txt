@@ -1,0 +1,1 @@
+Về model: Vì các trường tùy chỉnh ở trong đồ án khá điơn gản: chỉ có các trường vớ kểu dữ lệu text và number, nên vệc lưu dữ lệu có thể dùng JSON điể lưu vào một trường trong cơ sở dữ lệu. Cụ thể như sau:

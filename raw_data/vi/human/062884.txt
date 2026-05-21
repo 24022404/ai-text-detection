@@ -1,0 +1,1 @@
+File dữ liệu đầu vào: IonXpress 081_rawlb.basecaller.fq 4.1.1 Kiểm soát chất lượng và tiền xử lý dữ liệu ‘Kết quả đánh giá chất lượng bằng FastQ cho thấy dữ liệu file FASTQ điầu vào có chất lượng không tốt và ở được cảnh báo lỗ vớ chất lượng đoạn đọc như hình 4.2. Do vậy cần tiền xử lý trước khi phát hiện đột biến.

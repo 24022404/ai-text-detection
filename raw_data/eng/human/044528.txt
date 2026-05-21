@@ -1,0 +1,1 @@
+The player can jump on a block and perform a double jump in mid-air. The player can also attack enemies when close to them.The character moves according to the specified key pressed, and the character’s facing direction aligns with the direction of movement. The character can jump one block, double jump in the air, attack monsters.

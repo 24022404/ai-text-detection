@@ -1,0 +1,1 @@
+Sau khi nhận được thông tin từ Actiondispatcher làm nhiệm vụ truyền tả (broadcast) nội dung nhận được tới các Store đăng ký lắng nghe sự kiện thay đổi từ trước đó.

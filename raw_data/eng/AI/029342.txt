@@ -1,0 +1,1 @@
+The analysis reviews the app’s requested permissions to identify any that are unnecessary or potentially misused, ensuring they are appropriate for the app’s intended features and functions while helping to maintain user trust and data protection.

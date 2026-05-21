@@ -1,0 +1,1 @@
+Một khá nệm nữa của Drud được nhắc đến rất nhều trong đồ án này, đó là Drud datasources . Drud datasources là điố tượng để thực hiện truy vấn dữ liệu. Kểu datasource phổ bến nhất là datasource dạng bảng. Đô khi nhắc đến datasource sẽ được ngầm hiểu là datasource dạng bảng. Mỗ trường dữ liệu (cột) Drud datasource dạng bảng thuộc một trong ba loạ sau:

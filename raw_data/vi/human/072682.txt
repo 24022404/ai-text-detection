@@ -1,0 +1,1 @@
+Mổ lần muốn mở rộng hệ thống, hoặc thay đổi thì rất mất thời gian khi phải can thiệp vào rất nhiều thư viện khác nhau do kh triển khai các giải pháp bảo mật phải cài đặt rất nhiều thư vện 2.1.3 Các lỗ hổng bảo mật thường gặp Dưới đây là những khảo sát ch tết về các lỗ hổng bảo mật thường gặp trong các hệ thống Website.

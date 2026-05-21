@@ -1,0 +1,1 @@
+Javascript is a high-level, dynamic, and interpreted programming language, which is primarily used for creating web applications. Javascript is often used in combination with HTML and CSS to create dynamic and interactive web pages. It is an object-oriented language and supports a wide range of programming paradigms, including procedural, functional, and event-driven programming.

@@ -1,0 +1,1 @@
+Detailed Design a, Database design The ERD diagram depicted in the image 5.14 is designed to manage the database system for player data in the game Pixel Platformer. The diagram consists of four main entities: Gamer, Chapter, Item, and Inventory.

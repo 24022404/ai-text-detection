@@ -1,0 +1,1 @@
+Đo kích thước báo cáo có hạn nên em xin phép trình bày về 3 use case chính: () Thu thập sản phẩm tự động, () Đánh giá sản phẩm và () Tìm kiếm sản phẩm theo đánh giá.

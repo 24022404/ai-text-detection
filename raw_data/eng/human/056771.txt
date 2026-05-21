@@ -1,0 +1,1 @@
+Integrate with software of other departments in ANSV such as Sales (quota tion information, orders, pricing policies, promotions, incentives...) and CRM (recording potential customers. Interactions and full history storage,. . . ).

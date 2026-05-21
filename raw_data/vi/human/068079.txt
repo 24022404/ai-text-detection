@@ -1,0 +1,1 @@
+Phần mềm trung gian Middleware: Đây là phần mềm trung gan có quyền truy cập vào cơ sở dữ lệu, yêu cầu của khách hàng và những phần mềm trung gian khác. Phần mềm Middleware này chịu trách nhiệm chính cho việc tổ chức có hệ thống các chức năng của Express.js.

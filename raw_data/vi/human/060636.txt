@@ -1,0 +1,1 @@
+Controller : chứa các lớp controller nhận các yêu cầu từ giao diện người dùng, điều phối hoạt động của gao vện và logic ứng dụng, có vai trò quan trọng trong việc gọi và sử dụng các dịch vụ, xử lý và kiểm tra dữ liệu, cũng như xử lý lỗ và ngoại lệ.

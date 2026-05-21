@@ -1,0 +1,1 @@
+Tạo danh sách gợi ý sản phẩm: Dựa trên thông tin từ bước trên, có thể tạo danh sách các sản phẩm được đề xuất cho khách hàng hiện tại. Các sản phẩm này thường là những sản phẩm mà nhóm khách hàng tương tự đã thể hiện sự quan tâm hoặc mua trong quá khứ.

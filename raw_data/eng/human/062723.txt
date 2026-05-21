@@ -1,0 +1,1 @@
+Blockchain embrace the transparency of transaction data by design, but theymay fall well short of that capability when it comes to storing information according to one’s preferences, especially in huge amounts. In addition, rather than main taining constant transparency, these kinds of data should be made public, private, or just accessible to chosen people.

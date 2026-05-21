@@ -1,0 +1,1 @@
+Ví dụ: Kh nhập "thông tin tenDemDuLch ", kết quả sẽ trả về các thông tin:•Tên địa điểm du lịch.

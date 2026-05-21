@@ -1,0 +1,9 @@
+Objective: Image harmonization aims to seamlessly blend a composite foreground into a background by adjusting color and tone, yet existing deep-learning methods struggle to deliver both high fidelity and efficiency on large, high-resolution inputs. This paper introduces a Spatial-Separated Curve Rendering Network (SSCRN) designed for efficient, high-resolution image harmonization.  
+
+Methods: SSCRN decomposes the harmonization task into spatially distinct regions and learns a set of lightweight, pixel-adaptive curve functions that map input colors to harmonized outputs. A multi-scale encoder extracts contextual features, which feed into a novel Spatial Separation Module that allocates region-specific curve parameters. These curves are rendered in a single forward pass, enabling end-to-end training without dense per-pixel regression.  
+
+Results: Experiments on public benchmarks and a custom 4K image dataset demonstrate that SSCRN achieves state-of-the-art harmonization quality—measured by PSNR and structural similarity metrics—while reducing memory use by 40% and inference time by 50% compared to leading approaches. Qualitative evaluations confirm that SSCRN preserves fine details and color consistency across challenging lighting and texture variations.  
+
+Conclusion: By integrating spatial separation with curve-based rendering, SSCRN delivers a compact, fast, and scalable solution for high-resolution image harmonization. This approach paves the way for real-time applications in photo editing, film post-production, and augmented reality.  
+
+Keywords: image harmonization, spatial-separated curves, deep neural network, high-resolution processing, efficient rendering.

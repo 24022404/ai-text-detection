@@ -1,0 +1,1 @@
+Dựa trên mục tiêu nghiên cứu và định hướng giải pháp của đồ án, kết quả dự kiến đạt được của đồ án này sẽ đảm bảo một các yêu cầu như:Tạo ra một trang web mà các nhà tuyển dụng có thể đăng ký tài khoản, đăng ký tn tuyển dụng, quản lý danh sách các ứng viên đã ứng tuyển, xem thông tin các ứng viên, lưu các ứng viên tiềm năng, đánh giá ứng viên đã ứng tuyển vào công ty.

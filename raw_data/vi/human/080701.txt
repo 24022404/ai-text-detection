@@ -1,0 +1,1 @@
+Hệ thống gồm 2 tác nhân, đó là: Quản trị hệ thống và Khách, mỗ tác nhân có một vai trò nhất định. Tuy nhiên, tuỳ mục đích quản lý mà chức năng đăng nhập và thu thập sản phẩm bị ẩn đối với tác nhân Khách.

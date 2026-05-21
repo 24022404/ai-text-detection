@@ -1,0 +1,1 @@
+A. Banks and E. Porcello’s 2017 book, "Learning React," gives guidance on building functional web apps with React and Redux.

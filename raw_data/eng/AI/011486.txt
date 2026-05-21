@@ -1,0 +1,1 @@
+A loss function measures the difference between a model’s prediction and the actual value, guiding the model to learn from its errors. By minimizing this loss, the model improves its accuracy with each iteration.

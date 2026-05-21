@@ -1,0 +1,1 @@
+Gó “Controller” chứa các class như RecrutmentJob Controller, CategoryController, JobBookmark Controller ... là class xử lý nghiệp vụ logic, lấy dữ lệu từ Modem, gửi dữ lệu đến View.

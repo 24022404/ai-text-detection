@@ -1,0 +1,1 @@
+Model (M) : Là bộ phận có chức năng lưu trữ toàn bộ dữ lệu của ứng dụng. Bộ phận này là một cầu nối giữa 2 thành phần bên dưới là View và Controller. Model thể hiện dưới hình thức là một cơ sở dữ lệu hoặc có khi chỉ đơn giản là một file XML bình thường. Model thể hiện rõ các thao tác với cơ sở dữ lệu như cho phép xem, truy xuất, xử lý dữ lệu,. . .

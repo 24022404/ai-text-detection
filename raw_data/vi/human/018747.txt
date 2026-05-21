@@ -1,0 +1,1 @@
+Model:  Là nơi lưu trữ tất cả  những nghiệp vụ tương tác với  dữ liệu hoặc cơ sở dữ liệu MySQL . Bao gồm các class fun cton xử lý các tác vụ như kết nối database, truy vấn dữ liệu, thêm – sửa – xóa dữ liệu,…hình ảnh,… nó đảm nhiệm nhiệm vụ hiển thị dữ liệu và giúp người dùng tương tác với hệ thống.

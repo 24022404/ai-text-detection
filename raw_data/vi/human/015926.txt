@@ -1,0 +1,1 @@
+–Lớp được gán nhãn: <rdfs:label>quán ăn</rdfs:label> Lớp quanBa :–Lớp quanBa là lớp con của lớp demAnUong và lưu trữ thông tin về các quán bar ở Hà Nội.

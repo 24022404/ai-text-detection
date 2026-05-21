@@ -1,0 +1,1 @@
+Mô Đun tiền xử lý:Hình 3.5: Hình vẽ mô tả mô đun tiền xử lý Ở module này, từ thông tin văn bản của hộp văn bản, thu được vectơ nhúng ko đưa qua mô hình huấn luyện sẵn BERT. Tiếp đón, đưa qua các lớp mạng In ear và Actvaton để giảm chiều của vectơ nhúng. Cho một câu văn bản s= w() 1, w() 2, ..., w() T  vectơ nhúng của câu văn được định nghĩa như sau:

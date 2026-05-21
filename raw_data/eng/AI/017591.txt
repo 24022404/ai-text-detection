@@ -1,0 +1,1 @@
+When a user selects Change Password, they are required to verify their identity by entering their current password, followed by their new password. Once the credentials are validated, the system updates the password and notifies the user of the successful change.

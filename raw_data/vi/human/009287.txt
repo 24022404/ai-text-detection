@@ -1,0 +1,1 @@
+Đầu vào của bram: kiểm Đầu ra của bram: [’tra’, ’soát’, ’nghiệm’, ’chứng’, ’dịch’, ’định’, ’điểm’, ’duyệt’, ’khảo’, ’sát’] 3.3.2 Mô hình huấn luyện trước BartPho BartPho nhận input đầu vào là 1 câu điã điược điánh dấu các vị trí sa. Dựa vào ngữ cảnh của câu BartPho sẽ đưa ra gợi ý theo từng vị trí.Hình 3.4: Sử dụng mô hình BartPho Ví dụ: Hệ thống kiểm tra lỗi chính tả.

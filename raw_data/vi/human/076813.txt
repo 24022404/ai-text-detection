@@ -1,0 +1,1 @@
+Person =Số mẫu dương đúng Số mẫu dương đúng + Số mẫu dương sa Recall là tỷ lệ giữa số lượng quan sát dương được dự đoán chính xác và tất cả các quan sát thực sự thuộc lớp dương. Nó cũng được gọi là Độ nhạy, Tỉ lệ trúng, hoặc Tỉ lệ dương đúng. Đây là một thước đo về độ điầy đủ của bộ phân loại. Recall thấp cho thấy số lượng mẫu âm sa cao. Độ nhớ được tính bằng công thức:

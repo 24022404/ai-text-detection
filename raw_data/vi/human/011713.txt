@@ -1,0 +1,1 @@
+Ngoài ra, Kotlin được thiết kế điển có thể thực thi trên đa nền tảng (multiplatform) từ backend điến frontend. Đều này cho phép các nhà phát triển chỉ cần học Kotlin là có thể xây dựng các ứng dụng full stack.

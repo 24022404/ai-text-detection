@@ -1,0 +1,1 @@
+The task is to find every word in S(uk, s) with a prefix 0^i1 (length i+1) and suffix 10^j (length j+1).

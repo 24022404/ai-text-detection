@@ -1,0 +1,1 @@
+AngularEven though a web application can be build by using only web vanilla technolo gies, it might be cumbersome to manage and maintain as your application grows.

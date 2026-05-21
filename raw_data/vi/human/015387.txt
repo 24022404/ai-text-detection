@@ -1,0 +1,1 @@
+Trong khuôn khổ ĐATN, phạm vi các thiết bị mà hệ thống sẽ quản lý là các thiết bị phần cứng của Cisco Merak.

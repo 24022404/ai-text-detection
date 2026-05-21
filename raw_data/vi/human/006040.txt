@@ -1,0 +1,1 @@
+Tập vocab được xây dựng dựa trên tần suất xuất hiện của mỗ từ được sắp xếp từ cao xuống thấp. File vocab word em cố định là 10000 từ, file sub vocab của em là 106 kí tự. Những từ không tồn tại ở file vocab sẽ được đánh dấu là <UNK> Embedding.

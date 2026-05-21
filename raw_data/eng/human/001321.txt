@@ -1,0 +1,1 @@
+This app is for most of users to use, so the interface needs to be easy to be clean, intuitive, modern and encourages users to interact. In addition, it is also necessary to adhere to basic design principles, easy navigation. In addition, the interface has responsive support, and is suitable for variety of screen sizes on different devices.

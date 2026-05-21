@@ -1,0 +1,1 @@
+Figure 2.3 displays the de Bruijn graph of order 4, G4. By deleting the vertices 000, 001, and 100 from G4, the resulting (4,1)-RdB graph is obtained, as depicted in figure 3.1.

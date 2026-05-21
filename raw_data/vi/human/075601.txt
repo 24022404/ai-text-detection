@@ -1,0 +1,1 @@
+Nodejs là một môi trường thực thi mã javascript phía máy chủ, được xây dựng dựa trên javascript engine v8 của google chrome, giúp thực thi mã javascript với hiệu suất cao và xử lý hàng nghìn kết nối đồng thờ mà không cần tạo ra các tiến trình mới cho kết nối mớ .

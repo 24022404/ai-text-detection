@@ -1,0 +1,1 @@
+Đầu tên, PhoBERT  là một mô hình đào tạo trước được huấn luyện cho ngôn ngữ đơn ngữ, tức là mô hình chỉ huấn luyện dành riêng cho 1 ngôn ngữ duy nhất, ngôn ngữ mà mô hình PhoBERT hướng tớ là tiếng Việt. Việc huấn luyện mô hình sẽ dựa trên kiến trúc và cách tiếp cận giống như RoBERTa của Facebook giới thiệu giữa năm 2019.

@@ -1,0 +1,1 @@
+Chức năng kiểm thử và quản lý lỗ hổng bảo mật: Kiểm thử lỗ hổng bảo mật và lưu trữ thông tin của lỗ hổng đi vào cơ sở dữ liệu để làm kết quả đánh giá cho hệ thống của khách hàng.

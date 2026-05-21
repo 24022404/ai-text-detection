@@ -1,0 +1,1 @@
+Sơ lược về chức năng các góc trong Frontend: Node Modules: chứa các modules của gió nodejs. Public: chứa file index.html và style.css. Url: bao gồm mã nguồn chính của giao diện trang web. Adn: chứa các thành phần liên quan đến trang admin. Shop: chứa các thành phần liên quan đến trang giao diện khách hàng.

@@ -1,0 +1,1 @@
+− Controllers: Controller là các thành phần dùng đi để quản lý tương tác người dùng, làm việc với model và chọn vé đi ể hiển thị giao diện người dùng.

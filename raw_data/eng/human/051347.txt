@@ -1,0 +1,1 @@
+Flags: Theflags=0x3048be44 represent additional information about the permission’s state or behavior. These flags are encoded in binary and used internally by the system.

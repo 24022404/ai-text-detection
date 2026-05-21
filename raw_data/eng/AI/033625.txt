@@ -1,0 +1,9 @@
+Objective: Monocular depth estimation in dynamic environments remains a critical challenge for applications such as autonomous driving, where moving objects and varying illumination degrade performance. This paper introduces R4Dyn, a novel framework that leverages consumer-grade radar signals to self-supervise monocular depth estimation in dynamic scenes.  
+
+Methods: R4Dyn integrates synchronized radar point clouds with a standard monocular camera setup. We design a dual-branch network: a depth prediction network trained with a composite loss comprising photometric consistency and radar-depth consistency terms, and a motion segmentation module that isolates dynamic regions using temporal radar returns. By projecting radar measurements into the image plane, we derive sparse but reliable depth cues that guide the self-supervised learning process, especially where photometric cues fail.  
+
+Results: Experiments on a large-scale driving dataset demonstrate that R4Dyn reduces absolute relative error by 18% and root mean square error by 12% compared to state-of-the-art self-supervised monocular methods. Notably, depth accuracy for dynamic objects improves by over 20%, and robustness under low-light conditions shows a 15% performance gain.  
+
+Conclusion: R4Dyn highlights the untapped potential of affordable radar sensors for enhancing monocular depth estimation in challenging, real-world scenarios. By combining radar consistency with self-supervision, our approach delivers more reliable depth maps across both static and moving regions, paving the way for safer and more robust perception systems in autonomous vehicles.  
+
+Keywords: Radar, Monocular Depth Estimation, Self-Supervised Learning, Dynamic Scenes, Autonomous Driving

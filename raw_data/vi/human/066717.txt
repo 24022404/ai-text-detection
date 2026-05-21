@@ -1,0 +1,1 @@
+Form Kh gõ phím enter trên bàn phím phả focus vào một button quan trọng và an toàn nhất (default button). Vídụ:  Vớ các lệnh edt hoặc search thì focus vào but ton "Lưu"/"Tìm kếm".  Vớ các lệnh xóa thì focus vào button "Cancel".

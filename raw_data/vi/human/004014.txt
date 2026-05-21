@@ -1,0 +1,1 @@
+Sử dụng khóa bí mật để mã hóa giá trị hash ta sẽ điược tóm tắt dữ lệu điã điược ký (sgned message dgest). Kết hợp giá trị trên vớ chứng thư số và thờ gan ta có được chữ ký số.

@@ -1,0 +1,1 @@
+Nest sử dụng mô hình lập trình hướng đối tượng (OOP) và cú pháp của JavaScript, giúp cho các lập trình viên có thể dễ dàng học và sử dụng Nest.

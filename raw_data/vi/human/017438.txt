@@ -1,0 +1,1 @@
+Bằng dữ liệu thực tế: Xây dựng trang web để thu thập dữ liệu thực tế. Vì lượng dữ liệu có hạn nên phần dữ liệu này em chủ yếu sử dụng cho bộ dữ liệu kiểm thử.

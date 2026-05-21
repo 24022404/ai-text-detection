@@ -1,0 +1,1 @@
+Kết quả Hệ thống điã có thể lấy nội dung từ email, cấu hình email nhận phản hồi từ khách hàng và cấu hình luật tạo phản hồi một cách đơn giản cho phép người dùng có thể xem, phân loại các email đến. Từ đó có thể nắm bắt được mong muốn của khách hàng, tình trạng của cửa hàng điểm đưa ra chiến lược kinh doanh phù hợp.

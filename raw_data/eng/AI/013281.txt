@@ -1,0 +1,1 @@
+This column provides a detailed explanation of the security issue, highlighting its importance and discussing the potential consequences if it remains unresolved. It examines the conditions that give rise to the problem and clarifies the specific impact on the application's performance.

@@ -1,0 +1,1 @@
+Kết hợp các tem để tạo các tập temset có kích thước lớn hơn, sau đó đếm số lần xuất hiện của chúng.

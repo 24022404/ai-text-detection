@@ -1,0 +1,1 @@
+With documentation that serves as a representation of a contract between parties, APIs are frequently compared to contracts: This is how party 2’s program will react if party 1 submits a structured remote request.

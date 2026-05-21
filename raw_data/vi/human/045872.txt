@@ -1,0 +1,1 @@
+Tạ mỗ nút Taxonomy c, dựa trên kho ngữ liệu cục bộ Và các thể hiện mô típ được chọn cục bộ ˜Mc, thuật toán thực hiện cải tiến quá trình nhúng từ thông qua việc huấn luyện sử dụng nhúng từ của văn bản và các thể hiện Môtô. Cụ thể bằng NETWORK cách kết hợp văn bản và mô típ cùng nhau sau đó tối thiểu hóa hàm mất mát chứng:

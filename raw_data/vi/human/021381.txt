@@ -1,0 +1,1 @@
+//Analyst.java return df.select(splt(col("tme")," ).getItem(0).as("date"), col("os"), col("gud")) .groupBy("date", "os") .agg(count("gud").as("vew"), countDstnct("gud").as("user")) .collectAsLst(); Phân tích lưu lượng truy cập theo khung gờ trong ngày Bà toán: Tính số lượng người dùng, lượt xem báo điện tử theo khung gờ trong ngày.

@@ -1,0 +1,1 @@
+Definition 2 (Code and Codeword) .Aq-ary block code Cover Σis a nonempty set Cofq−arywords of the same length n. Each element of Cis called a codeword inC.

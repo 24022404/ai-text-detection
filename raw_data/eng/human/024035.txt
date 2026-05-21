@@ -1,0 +1,1 @@
+All use case of the system are generally described by an overall use case diagram as shown in figure 2.1 There are 1 actor in the system that is the player.

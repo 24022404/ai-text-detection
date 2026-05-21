@@ -1,0 +1,1 @@
+MongoDB: cơ sở dữ liệu này cung cấp các tính năng linh hoạt cho việc sao lưu dữ liệu, khá phù hợp với một hệ thống liên tục có những thay đổi về mặt dữ liệu như hệ thống em đang phát triển.

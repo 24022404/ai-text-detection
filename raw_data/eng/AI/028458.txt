@@ -1,0 +1,1 @@
+J. Pages et al. (2005) introduce optimized De Bruijn patterns for efficient one-shot 3D shape acquisition, improving both accuracy and speed through novel pattern design.

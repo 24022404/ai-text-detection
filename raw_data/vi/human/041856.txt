@@ -1,0 +1,1 @@
+Hệ thống turn based (chiến đấu theo lượt)  Game sẽ cho bạn lựa chọn hành động của mình trong quá trình chờ, không giới hạn về thờ gan để bạn lựa chọn hành động tiếp theo một cách kỹ lưỡng. Turn Based điểm lạ tính chiến thuật cao, đồ hộ người chơi phải tính toán cẩn trọng trong mỗi sự lựa chọn trong game.

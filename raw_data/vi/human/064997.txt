@@ -1,0 +1,1 @@
+Single Sgn Sngle Sgn On (SSO) là cơ chế cho phép người dùng sử dụng nhiều dịch vụ mà chỉ cần tạo tài khoản ở một nơi duy nhất. Nói cách khác, người dùng có thể dùng một tài khoản  một định danh đã tạo ở một số trang web để đăng nhập vào các trang web khác mà không cần tạo thêm tài khoản mớ.

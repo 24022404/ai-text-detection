@@ -1,0 +1,1 @@
+MVC là một dạng kiến trúc phần mềm, phân chia thành 3 phần đầu vào, xử lý và đầu ra, được gói gọn trong cấu trúc Model  View  Controller. Model và Controller sẽ tiếp nhận mọi yêu cầu từ phía người dùng và xử lý, cuối cùng sẽ lấy ra thông tin người dùng cần và gửi đến View để hiển thị cho người dùng kết quả.

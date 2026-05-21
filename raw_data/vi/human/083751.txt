@@ -1,0 +1,1 @@
+Thuật toán bọc gói (Gift wrapping) là thuật toán đơn giản, dễ hiểu của bài Hình 2.4: Minh họa bao lồi (convex hull) toán tìm bao lồi. Ý tưởng của thuật toán như việc đi qua các điểm với một dải băng.

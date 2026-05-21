@@ -1,0 +1,1 @@
+Bootstrap là một framework được xây dựng dựa trên HTML, CSS và JavaScript tập trung vào việc đơn giản hóa việc phát trển các trang web. Bootstrap là sản phẩm của Mark Otto và Jacob Thornton tạ Twtter. Năm 2011, Bootstrap được xuất bản như là một mã nguồn mở với tên gọi Twtter Blueprnt trên GtHub .

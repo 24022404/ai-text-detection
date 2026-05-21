@@ -1,0 +1,1 @@
+Phân hệ phân tích và ứng dụng nền tảng dữ lệu khách hàng được em thực hiện, sử dụng dữ lệu hành vi của người dùng được thu thập từ phân hệ trên làm cơ sở. Mục đích chính là xây dựng hệ thống xử lý dữ lệu hành vi, trích xuất ra các thông tin phù hợp, từ đó thực hiện phân nhóm khách hàng theo các phân khúc có cùng đặc điểm theo nhu cầu người sử dụng.

@@ -1,0 +1,1 @@
+For example, at any given time, only one scene is active, and pop-ups that appear simultaneously will be displayed on top of the current pop-up when opened later.

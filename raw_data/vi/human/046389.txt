@@ -1,0 +1,1 @@
+Ha website này sử dụng chung một backend server . Backend server này cung cấp các ap để thực hiện xử lý các request được gửi lên từ client, truy vấn dữ liệu từ phía database hoặc tương tác với Storage để lưu các dữ liệu dạng Blob.

@@ -1,0 +1,1 @@
+IPFS cho tương la Web ngày nay không hiệu quả và điắt tền: HTTP tả xuống các tệp từ một máy chủ tạ một thờ điểm — nhưng IPFS ngang hàng truy xuất các phần từ nhều nút cùng một lúc, cho phép tết kệm điáng kể băng thông. IPFS cho phép phân phố hiệu quả khối lượng dữ liệu lớn mà không bị trùng lặp.

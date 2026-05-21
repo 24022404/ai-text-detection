@@ -1,0 +1,1 @@
+EndoScope: bao gồm 612 ảnh từ tập dữ liệu CVC Inc DB và 300 ảnh từ tập CVC300, cho mục đích huấn luyện mô hình. Tập dữ liệu kiểm tra bao gồm 60 ảnh có độ phân giải 574x500, trong một số bài báo được gọi với tên EndoScope hay VTC.

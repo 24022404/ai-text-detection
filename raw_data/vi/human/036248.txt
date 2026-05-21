@@ -1,0 +1,1 @@
+Các hàm được dựng sẵn trong thư viện cho từng bài toán cho phép  TensorFlow xây dựng được nhiều neural network. Nó còn cho phép ta tính toán song song trên nhiều máy tính khác nhau, thậm chí trên nhiều CPU, GPU trong cùng 1 máy hay tạo ra các dataflow graph – đồ thị luồng dữ lệu để dựng nên các model.

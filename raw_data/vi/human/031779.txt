@@ -1,0 +1,1 @@
+Nhấn Tạo mới. Hệ thống hiển thị thông báo yêu cầu nhập các thông tin của sản phẩm.  Hệ thống hiển thị thông báo yêu cầu nhập các thông tin của sản phẩm.  Đạt TC03  1. Đăng nhập tài khoản quản trị viên.  Hệ thống hiển thị danh sách các sản phẩm trùng khớp với từ khóa tìm kiếm.  Hệ thống hiển thị danh sách các sản mục quản lý sản phẩm.

@@ -1,0 +1,1 @@
+WebRTC  được phát triển bởi các tổ chức như Google, Mozilla và Opera, và đã trở thành một tiêu chuẩn web được hỗ trợ rộng rãi. Nó sử dụng các công nghệ như JavaScript, HTML và các giao thức mạng như Real Time Protocol  (RTP) và Session Initiation Protocol  (SIP) điểm cung cấp khả năng truyền thông thờ gan thực.

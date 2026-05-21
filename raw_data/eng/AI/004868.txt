@@ -1,0 +1,1 @@
+The findings include detailed descriptions, severity levels, and the affected scope, such as domains or certificates. A summary also provides the number of findings per severity category.

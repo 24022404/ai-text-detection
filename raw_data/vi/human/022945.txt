@@ -1,0 +1,1 @@
+Off: Kh người dùng ngoại tuyến, dữ liệu sẽ được lưu trên bộ nhớ cache của thiết bị và tự động đồng bộ kh người dùng trực tuyến.

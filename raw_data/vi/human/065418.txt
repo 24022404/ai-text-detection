@@ -1,0 +1,1 @@
+Bộ câu hỏi khảo sát bao gồm 6 phần, tương ứng với 6 tiêu chí lớn được nêu ở trên. Trong mỗi một tiêu chí lớn, triển khai các câu hỏi liên quan. Tổng có 44 câu hỏi. Dưới đây là một số ví dụ câu hỏi khảo sát được thực hiện:

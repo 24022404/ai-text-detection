@@ -1,0 +1,1 @@
+Hệ thống hiển thị thông tin cuộc hội thoại gồm tên cuộc hội thoại, tên các thành viên và vai trò của các thành viên.

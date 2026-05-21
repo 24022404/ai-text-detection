@@ -1,0 +1,1 @@
+Việc này giúp cho trang web sẽ load rất nhanh ở những lần sau đó ngay từ lần truy cập điầu tên phía clent điã render ra toàn bộ website của hệ thống. So với SSR sẽ là chỉ khi người dùng yêu cầu thì server mớ render ra trang web với dữ liệu tương ứng.

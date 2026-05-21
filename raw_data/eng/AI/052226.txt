@@ -1,0 +1,9 @@
+This research presents a novel approach to infer urban traffic flow with fine granularity, guided by existing road networks. Accurate prediction of traffic patterns is critical for urban planning and management, as well as for enhancing real-time traffic navigation systems.
+
+Methods/Approach: We introduced a Road Network Guided Traffic Inference framework that integrates road network features with state-of-the-art machine learning models. Specifically, the method leverages graph neural networks to model spatial dependencies inherent in urban road networks, while incorporating temporal data to capture dynamic traffic flow patterns. This dual-component approach enables nuanced predictions at a higher resolution than traditional methods.
+
+Results/Findings: The proposed framework was evaluated using real-world traffic datasets, revealing superior performance in accuracy and detail compared to baseline models. The integration of road network features enhanced the model's ability to predict flow variations at different times and locations, demonstrating a tangible improvement in precision, particularly for lesser-explored secondary roads and alleyways.
+
+Conclusion/Implications: Our research contributes a significant advancement in urban traffic flow inference by providing a finer-grained prediction capability that traditional models lack. This has substantial implications for smart city infrastructure, allowing for optimized traffic management and improved urban mobility solutions. Future applications of this approach can be expanded to integrate real-time data feeds, further augmenting its utility and accuracy in live traffic monitoring systems.
+
+Keywords: urban traffic flow, road network, graph neural networks, traffic prediction, smart city, machine learning.

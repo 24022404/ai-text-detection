@@ -1,0 +1,1 @@
+Tạo ra kho ngữ liệu Của dữ liệu đầu vào bằng cách tương ứng với mỗi bài báo sử dụng tiêu đề và tóm tắt của các bà báo điểm tạo thành kho ngữ liệu D của tập dữ liệu đầu vào.

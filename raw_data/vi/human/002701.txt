@@ -1,0 +1,1 @@
+–Màu của CUI cần nổ bật các thông tin trên nền tối xung quanh, khiến người chơ dễ dàng nhận được thông tin thông qua màu sắc của UI.

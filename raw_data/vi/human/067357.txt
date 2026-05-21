@@ -1,0 +1,1 @@
+Module chú ý theo không gian (SAM) Môđun này tập trung tìm ra vị trí nào trên đặc trưng chứa thông tin quan trọng cần chú ý bằng cách đánh trọng số cho mỗi điểm ảnh trên bản đồ đặc trưng.

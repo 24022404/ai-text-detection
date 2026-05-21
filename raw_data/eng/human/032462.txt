@@ -1,0 +1,1 @@
+B. McMahan, E. Moore, D. Ramage, S. Hampson andB. A. y Arcas, “Communication efficient learning of deep networks from decentralized data,” inArtificial intelligence and statistics PMLR, 2017, pages 1273–1282.

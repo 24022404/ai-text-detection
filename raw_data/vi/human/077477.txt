@@ -1,0 +1,1 @@
+Tương tự như xử lý thông tin về sở thích ngắn hạn, nguồn dữ lệu để xử lý là dữ lệu từ Kafka và được xử lý bằng chương trình Spark Streaming.

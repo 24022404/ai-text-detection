@@ -1,0 +1,1 @@
+Tính dễ dùng Các chức năng kh được thiết kế sao cho dễ sử dụng. Nếu xảy ra lỗi trong quá trình thao tác cần phải thông báo lỗ, để biết và sửa lỗi.

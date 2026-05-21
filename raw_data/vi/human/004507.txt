@@ -1,0 +1,1 @@
+Nhưng khó khăn nhất trong việc tả hình ảnh lên là vấn đề về lưu trữ. Hình ảnh là một dạng dữ liệu tốn không ít dung lượng nếu lưu trữ không có sự tính toán, cắt giảm dung lượng và giới hạn kiểu hình ảnh. Trong đồ án môn học, em gặp nhiều khó khăn trong việc lưu trữ hình ảnh vào cơ sở dữ liệu.

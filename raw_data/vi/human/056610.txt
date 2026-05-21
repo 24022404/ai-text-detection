@@ -1,0 +1,1 @@
+Common Language Runtime/Thờ gan chạy ngôn ngữ lập trình thông thường hay CLR: Common Language Infrastructure  Cơ sở hạ tầng ngôn ngữ lập trình phổ thông hay CLI là một nền tảng dùng để chạy các chương trình .Net.

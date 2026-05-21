@@ -1,0 +1,1 @@
+Protégé cung cấp hạ phiên bản là WebProtege dành cho website và Protégé Desktop dành cho ứng dụng trên máy tính.

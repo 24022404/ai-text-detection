@@ -1,0 +1,1 @@
+D. Jha, M. A. Regler, D. Johansen, P. Halvorsen, and H. D. Johansen, “Doubleu net: A deep convolutional neural network for medical image segmentation,”n2020 IEEE 33rd International symposium on computer based medical systems (CBMS) , IEEE, 2020, pp. 558–564.

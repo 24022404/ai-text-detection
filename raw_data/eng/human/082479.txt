@@ -1,0 +1,1 @@
+Monitor Data Flow and Communication: Frida allows the monitoring of data exchanges between the application and external resources (e.g., databases, APIs, or cloud services). This is important for detecting potential data leaks, unauthorized data transmissions, or communication with malicious servers.

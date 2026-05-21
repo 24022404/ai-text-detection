@@ -1,0 +1,1 @@
+JavaScript có thể được sử dụng điểm phát triển phía client (máy khách ) cũng như phát triển phía server (máy chủ ).

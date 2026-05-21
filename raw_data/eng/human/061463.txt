@@ -1,0 +1,1 @@
+The hidden layer (hidden layer): This layer is located between the input and output layers and represents the logical inference process of the network.

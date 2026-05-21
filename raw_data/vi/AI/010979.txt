@@ -1,0 +1,7 @@
+Mô hình dự đoán biến đổi màu sắc của khoai tây ngọt da cam (Ipomoea batatas L. Lam.) trong quá trình bảo quản
+
+Khoai tây ngọt da cam là một loại thực phẩm giàu dinh dưỡng và được ưa chuộng trên toàn thế giới. Tuy nhiên, quá trình bảo quản có thể dẫn đến biến đổi màu sắc, ảnh hưởng đến chất lượng và giá trị của sản phẩm. Để giải quyết vấn đề này, các nhà khoa học đã phát triển các mô hình dự đoán biến đổi màu sắc của khoai tây ngọt da cam trong quá trình bảo quản.
+
+Các mô hình dự đoán này dựa trên các yếu tố như thời gian bảo quản, nhiệt độ, độ ẩm và ánh sáng. Các mô hình này có thể dự đoán chính xác biến đổi màu sắc của khoai tây ngọt da cam trong quá trình bảo quản, giúp các nhà sản xuất và người tiêu dùng có thể đưa ra quyết định thông minh hơn về việc bảo quản và sử dụng sản phẩm.
+
+Mô hình dự đoán này cũng có thể giúp giảm thiểu lãng phí và tăng cường chất lượng của sản phẩm. Ngoài ra, các mô hình dự đoán này cũng có thể được áp dụng cho các loại thực phẩm khác, giúp tăng cường chất lượng và an toàn của sản phẩm.

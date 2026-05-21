@@ -1,0 +1,1 @@
+Môđiun: Laravel cung cấp điến 20 thư vên và môđiun hỗ trợ lập trình viên trong việc xây dựng web. Mỗ môđiun điều được tích hợp với trình quản lý dependency Composer giúp dễ dàng cập nhật.

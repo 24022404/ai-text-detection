@@ -1,0 +1,1 @@
+Y . Wang, K. Huang and T. Tan, “Human activity recognition based on r transform,” june 2007. DOI:10.1109/CVPR.2007.383505 . T. Zhang, W. Jia, B. Yang, J. Yang, X. He and Z. Zheng, “Mowld: A robust motion image descriptor for violence detection,” Multimedia Tools and Applications , jourvol 76,january 2017. DOI:10.1007/s11042-015-3133-0 .

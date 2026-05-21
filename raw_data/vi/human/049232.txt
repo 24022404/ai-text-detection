@@ -1,0 +1,1 @@
+Ký hiện: kh người dùng chọn tạo khung chữ ký trong văn bản và chèn chữ ký của mình vào rồi chọn ký, kh ấy văn bản sau khi được ký sẽ có thể thấy được khung chữ ký cùng thông tin.

@@ -1,0 +1,1 @@
+Laravel được thiết kế theo mô hình MVC giúp tách thành phần hển thị và phần xử lý của một ứng dụng thành các phần rêng bệt, từ đió việc quản lý, bảo trí, và mở rộng dễ dàng hơn.

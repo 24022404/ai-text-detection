@@ -1,0 +1,1 @@
+OpenCV a, Khá nệm OpenCV (Open Computer Vision) là một thư viện mã nguồn mở được vết bằng ngôn ngữ C/C++ . OpenCV cung cấp các hàm giúp xử lý về thị giác máy tính, học máy và xử lý ảnh.OpenCV cung cấp gạo điện có thể được sử dụng bởi các ngôn ngữ C/C++, Python, Java vì vậy hỗ trợ được cho Window, Linux, Mac OS lẫn Android và IOS.

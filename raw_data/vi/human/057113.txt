@@ -1,0 +1,1 @@
+Các client của các người dùng nhận được thông tin sẽ hiển thị vị trí con trỏ của người dùng đang chỉnh sửa ở vị trí nhận được.

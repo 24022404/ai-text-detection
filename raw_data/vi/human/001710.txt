@@ -1,0 +1,1 @@
+Xem doanh thu tổng hợp theo khách hàng Qua quá trình tìm hiểu, tổng hợp doanh thu theo khách hàng trong hệ thống cần một số thông tin quan trọng như sau:

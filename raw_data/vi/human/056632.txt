@@ -1,0 +1,1 @@
+SUMO gúp nghên cứu một số chủ điề nghên cứu như lựa chọn tuyến điường và thuật toán đièn giao thông hoặc mô phỏng truyền thông gữa các phương tện.

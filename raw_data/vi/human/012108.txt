@@ -1,0 +1,1 @@
+Go entity: chứa các lớp có các thuộc tính thể hiện các trường trong cơ sở dữ liệu, các lớp này đại diện cho các bảng dữ liệu của hệ thống.

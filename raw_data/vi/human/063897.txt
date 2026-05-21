@@ -1,0 +1,1 @@
+Quyết định này đến từ việc Elasticsearch hỗ trợ xuất sắc cho việc lưu trữ, quản lý và truy vấn đặc trưng khuôn mặt và các thông tin liên quan (như danh tính, thông tin cá nhân lên quan). Cụ thể, mỗ mẫu dữ liệu được lưu trong Elasticsearch điều bao gồm hai thành phần chính.

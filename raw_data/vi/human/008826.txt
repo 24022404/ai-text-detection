@@ -1,0 +1,1 @@
+: Bài báo đ ề xuất giải pháp s ử dụng số liệu cắt lớp vô tuy ến và bóng thám không đ ể ước lượng ch ỉ số khúc x ạ vô tuy ến tầng đối lưu. K ết quả cho th ấy sự khác bi ệt tương đ ối giá tr ị độ khúc x ạ vô tuy ến giữa hai phương pháp thay đ ổi từ dương sang âm, không ph ụ thuộc vào đ ộ cao nh ỏ hay đ ộ cao lớn và có đ ộ lớn ở mức dưới 4%.

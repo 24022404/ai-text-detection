@@ -1,0 +1,1 @@
+Tính năng dành cho quản trị viên: tất cả các tính năng điều yêu cầu phả đăng nhập mớ thực hiện được.

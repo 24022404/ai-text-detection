@@ -1,0 +1,1 @@
+Để thực hiện chức năng nhắn tin trên website, sử dụng công nghệ Socket Socket giúp cho người dùng có thể nhận thông báo khi ai đó nhắn tin hoặc follow, . . . một Hình 3.5: Mô hình Socket  cách nhanh chóng mà không cần load lại trang, giúp cho trải nghiệm người dùng trở lên tốt hơn.

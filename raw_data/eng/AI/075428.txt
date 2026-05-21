@@ -1,0 +1,9 @@
+The rapidly growing need for accurate and efficient text detection in complex environments such as autonomous driving, augmented reality, and image forensics necessitates robust solutions. This paper introduces STELA, a real-time scene text detector leveraging a learned anchor mechanism to enhance precision and speed in varying light and text conditions.
+
+Methods: STELA employs a novel deep learning-based framework, focusing on an adaptive anchor generation approach that intelligently learns spatial properties of text from the environment. Through a customized convolutional neural network (CNN), the model efficiently predicts text regions by refining anchor boxes based on scene-specific attributes, reducing false positives commonly associated with conventional methods.
+
+Results: Our evaluation on several benchmark datasets demonstrates that STELA achieves significant improvements in detection accuracy and processing speed compared to existing state-of-the-art models. Specifically, STELA achieves a precision rate that is 10% higher and processes images 30% faster in real-time conditions, making it well-suited for deployment in resource-constrained environments.
+
+Conclusions: The introduction of a learned anchor strategy represents a breakthrough in scene text detection, offering a versatile solution adaptable to diverse applications requiring real-time text recognition. STELA's scalability and performance highlight its potential for widespread use in various industries where quick and precise text detection is crucial.
+
+Keywords: scene text detection, real-time, learned anchor, convolutional neural network, image processing, autonomous systems.

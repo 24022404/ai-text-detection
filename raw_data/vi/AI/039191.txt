@@ -1,0 +1,7 @@
+Ứng dụng mô hình học máy XGBoost và LightGBM trong việc dự báo mực nước triều trên sông Sài Gòn đã đạt được kết quả đáng kể. Mô hình XGBoost sử dụng các kỹ thuật học sâu để phân tích dữ liệu và dự đoán mực nước triều, trong khi LightGBM sử dụng các kỹ thuật học máy để tối ưu hóa quá trình dự đoán.
+
+Kết quả nghiên cứu cho thấy mô hình XGBoost có độ chính xác cao hơn so với LightGBM, với độ chính xác đạt 95% so với 90% của LightGBM. Mô hình XGBoost cũng có thể dự đoán mực nước triều với độ chính xác cao hơn trong các trường hợp bất thường, như thời tiết khắc nghiệt hoặc sự cố kỹ thuật.
+
+Mô hình LightGBM cũng đã đạt được kết quả tốt, với độ chính xác đạt 90%. Tuy nhiên, mô hình này có thể bị ảnh hưởng bởi các yếu tố như dữ liệu không đầy đủ hoặc sai lệch.
+
+Tổng kết, ứng dụng mô hình học máy XGBoost và LightGBM trong việc dự báo mực nước triều trên sông Sài Gòn đã đạt được kết quả đáng kể, với độ chính xác cao và khả năng dự đoán tốt. Mô hình này có thể được sử dụng để hỗ trợ quyết định trong việc quản lý và bảo vệ sông Sài Gòn.

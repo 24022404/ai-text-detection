@@ -1,0 +1,1 @@
+Handlng Errors: Tất cả các trường hợp ngoạ lệ được xử lý trong lớp App/Exceptons/Handers. Lớp này có 2 phương thức là Report và Render.

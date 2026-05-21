@@ -1,0 +1,1 @@
+Thiết kế giao diện Ứng dụng là website, do đó điố tượng màn hình hướng tới sẽ là cả máy tính và điện thoạ với mọ kích cỡ. Hệ thống được thiết kế điể phù hợp với mọ kích cỡ màn hình, dễ dùng và tương tác trên mọ thiết bị.

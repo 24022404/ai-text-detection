@@ -1,0 +1,1 @@
+Gả pháp đưa ra: Google cung cấp cho người dùng và các lập trình viên một công cụ là Dialogflow Essentials. Cho phép tích hợp chatbox vào webste ngay cả khi webste chạy dạng localhost. Sau khi tạo AI chatbot và cung cấp dữ liệu mẫu trên ta tiến hành triển khai chatbot trên  . Việc còn lại là liên kết chatbot với mã nguồn của chúng ta. Kết quả đạt được như sau:

@@ -1,0 +1,1 @@
+SQL Server hoạt động điộc quyền trên mô trường Wndows trong hơn 20 năm. Vào năm 2016, Mcrosoft đã cung cấp nó trên Lnux. SQL Server 2017 đã có sẵn rộng rã vào tháng 10 năm 2016 chạy trên cả Wndows và Lnux.

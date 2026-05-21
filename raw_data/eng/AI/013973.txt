@@ -1,0 +1,9 @@
+Objective: Accurate 3D human pose estimation from a single RGB image remains challenging due to depth ambiguity and high computational cost of volumetric representations. This paper introduces a coarse-to-fine volumetric prediction framework that delivers precise joint localization while maintaining efficiency.
+
+Methods: We propose a two-stage convolutional neural network. In the first (coarse) stage, a lightweight 2D backbone extracts feature maps that are lifted into a low-resolution 3D volume, producing coarse per-voxel joint likelihoods. In the second (fine) stage, we crop high-resolution volumetric subregions around the coarse predictions and apply a compact 3D convolutional refinement network. This hierarchical design concentrates computational resources on regions of interest, enabling precise depth recovery without processing the entire volume at full resolution.
+
+Results: Experiments on Human3.6M and MPI-INF-3DHP demonstrate that our approach outperforms existing single-image methods by reducing mean per-joint position error (MPJPE) by up to 12% while requiring 40% less inference time compared to full-resolution volumetric baselines. Qualitative results show sharper joint localization and robust performance under occlusions and unusual poses.
+
+Conclusion: The proposed coarse-to-fine volumetric prediction framework achieves a favorable trade-off between accuracy and efficiency for single-image 3D human pose estimation. Its modular design allows easy integration with alternative backbones or refinement modules, making it suitable for real-time applications in AR/VR, human–computer interaction, and sports analytics.
+
+Keywords: 3D human pose estimation; coarse-to-fine; volumetric prediction; single-image; convolutional neural networks.

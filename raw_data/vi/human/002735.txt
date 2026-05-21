@@ -1,0 +1,1 @@
+Việc lấy được dữ lệu thờ gan thực, các giao dịch đang được diễn ra trên các sàn giao dịch của Việt Nam được lấy thông qua một socket kết nối điện với bên Công ty cổ phần chứng khoán SSI. Thông tin các công ty được nhập vào CSDL từ các file excel lấy từ trang Vietstock Finance.

@@ -1,0 +1,1 @@
+Doman: dacSan  Các thuộc tính mô tả thông tin về đặc sản gồm –Thuộc tính tenDacn : tên đặc sản.

@@ -1,0 +1,1 @@
+Webview là tầng cuối cùng của kiến trúc MVC, đóng vai trò là giao diện của chương trình – GUI. Trong các ứng dụng web, có chứa mã ở phía client như HTML, JavaScript, XML hay JSON, v.v. View là tầng nhìn thấy được vớt, người dùng, trong khi các model, các controller là bị ẩn đi với người sử dụng.

@@ -1,0 +1,1 @@
+Bước 3: Từ cấu trúc tôpô mờ, UMAP  sẽ cố gắng hạ thấp chiều dữ liệu xuống số chiều mong muốn sao cho vẫn bảo toàn được cấu trúc tôpô.

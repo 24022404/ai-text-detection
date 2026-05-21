@@ -1,0 +1,1 @@
+Gao dền được xây dựng dưới dạng web cho phép việc không cần phả tả lạ sau mỗi thao tác, thay vào đó là các thông báo ngay lập tức tớ nhân viên để phản hồi lại kết quả.Hình 4.2: Giao diện màn hình chính Màn hình chính hiển thị các dữ liệu hiện có, cho phép thêm mới, chỉnh sửa, phân loại và xem thông tin của các đề thi và nguồn tài liệu.

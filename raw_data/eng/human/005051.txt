@@ -1,0 +1,1 @@
+The goal of this project is to replace the current way of sending customer re quests through email with a helpdesk management system. For this, a helpdesk website is developed and built, and the requests can be received and responded through the website.

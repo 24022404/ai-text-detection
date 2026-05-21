@@ -1,0 +1,1 @@
+Còn về mô hình của react native thì đó là mô hình components and pages. Cụ thể thì ở đây, thư mục components sẽ là nơ xử lý việc hiển thị giao diện người dùng.

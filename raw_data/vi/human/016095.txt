@@ -1,0 +1,1 @@
+Kh trang được tả lần đầu tiên, Lewre sẽ render component điểm trả về output cho trang web (sử dụng include trong blade template engine)•Kh một tương tác xảy ra giữa người dùng và ứng dụng, Livewire sẽ thực hiện gửi request bằng AJAX tới máy chủ kèm theo dữ liệu được cập nhật.

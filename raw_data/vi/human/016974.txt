@@ -1,0 +1,1 @@
+Firebase là một nền tảng đám mây của Google được sử dụng điểm phát triển các ứng dụng web và di động. Firebase cung cấp cho người phát triển một loạt các tính năng như cơ sở dữ lệu thời gian thực, xác thực người dùng, lưu trữ đám mây, phân tích, thông báo đẩy ... Một trong những ưu điểm của Firebase là tính dễ sử dụng.

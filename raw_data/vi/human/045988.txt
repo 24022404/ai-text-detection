@@ -1,0 +1,1 @@
+Payload: Chứa các thông tin về người dùng hoặc thông tin phụ trợ của ứng dụng. Payload thường được mã hóa bằng Base64URL.

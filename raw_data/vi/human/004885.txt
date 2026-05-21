@@ -1,0 +1,1 @@
+Chế độ xem mặc định là phân bố theo tỉnh thành, để xem sự phân bố theo tỉnh  vùng miền  quốc gia, có thể sử dụng phím mũi tên lên/xuống ở góc trên bên phải biểu đồ điểm đối giữa các chế độ (tương tự hình 5.10).

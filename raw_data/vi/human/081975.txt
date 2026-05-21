@@ -1,0 +1,1 @@
+session token, cookie và hàng loạt các thông tin khác. Và với việc lấy được cookie từ phía người dùng, các hacker sẽ có thể đăng nhập với thông tin của người dùng bị đánh cắp. Và đây cũng là lý do khiến cho XSS là một dạng tấn công tuy đơn giản nhưng lạ điềm lạ những mối nguy hiểm tiềm tàng cho cả người dùng và hệ thống.

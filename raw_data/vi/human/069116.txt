@@ -1,0 +1,1 @@
+Thiết kế giao diện a, Thông tin chung về màn hình Tất cả các màn hình điều có thiết kế chung gồm bố cục 3 phần: () phần Header, () phần Man, () phần Footer. Phần mềm thiết kế thay đổi tùy thuộc vào nội dung từng chức năng.

@@ -1,0 +1,1 @@
+Encoder Decoder attention: Sở dĩ được gọi là encoder decoder attention vì đây là kiến trúc attention tương tác giữa các vectơ nhúng của encoder và decoder.

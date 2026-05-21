@@ -1,0 +1,1 @@
+M. K. Aguilera, A. Merchant, M. Shah, and A. Vetch, “Firebase: Realtime database as a service,” IEEE Internet Computing, vol. 21, no. 2, pp. 4856, 2017.

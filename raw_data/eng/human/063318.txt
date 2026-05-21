@@ -1,0 +1,1 @@
+CPUs friendly: As the instance group does not have any GPUs, integrated models should be able to perform at a reasonable speed on CPU-only systems despite most of them were trained on GPUs.

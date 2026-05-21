@@ -1,0 +1,1 @@
+(1) Hiển thị danh sách kho hàng của cửa hàng mà quản trị viên đã truy cập, có thể thực hiện các thao tác thêm, sửa, xóa, tìm kiếm kho hàng (2) Người quản lý nhấn vào danh sách kho hàng điểm xem ch tết thông tin của kho hàng đó.

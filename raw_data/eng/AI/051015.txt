@@ -1,0 +1,9 @@
+Objective: Early identification of households at high risk of malaria is critical for targeting interventions in resource-limited settings. Traditional household surveys are often time-consuming and include redundant questions, reducing efficiency and delaying response. This study proposes a novel deep reinforcement learning (DRL) framework to adaptively select survey questions and predict household malaria likelihood with minimal inquiry.  
+
+Methods: We formulate the adaptive survey process as a Markov Decision Process (MDP) in which an agent sequentially chooses questions to maximize predictive confidence while minimizing survey length. A Deep Q-Network (DQN) was trained on anonymized demographic, environmental, and health-history data from 5,000 households in a malaria-endemic region. The reward function balances classification accuracy against the number of questions asked. We compare our DRL-driven survey strategy to static questionnaires and random question selection.  
+
+Results: Our approach achieves 92.3% predictive accuracy using an average of only 8 questions per household—an improvement of 15% in efficiency over fixed-length surveys with comparable accuracy. The DRL agent prioritizes high-impact features such as travel history, sleeping arrangements, and mosquito‐net usage.  
+
+Conclusion: This work demonstrates that DRL can drive adaptive, cost-effective malaria risk surveys without sacrificing predictive performance. The proposed system offers a scalable tool for public-health practitioners to rapidly assess risk and allocate resources.  
+
+Keywords: malaria prediction, deep reinforcement learning, adaptive surveys, household data, Markov Decision Process.

@@ -1,0 +1,1 @@
+Assuming v is the start vertex, its number of out-edges is either equal to or one more than its number of in-edges. If these numbers are equal, then the proof is finished. However, if there is one more out-edge, it is possible to construct a longer simple path, which contradicts the original assumption that P is the longest possible path.

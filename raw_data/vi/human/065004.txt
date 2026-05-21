@@ -1,0 +1,1 @@
+Một trong những lý do quan trọng nhất là OWASP Zed Attack Proxy (ZAP) là một công cụ kiểm thử an toàn mạnh mẽ và miễn phí, được phát triển và duy trì bởi cộng đồng OWASP. Đều này đảm bảo rằng hệ thống của đồ án tốt nghiệp sẽ có sự hỗ trợ và cập nhật liên tục từ cộng đồng bảo mật hàng đầu trên toàn thế giới.

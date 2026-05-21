@@ -1,0 +1,1 @@
+The Id reportfleetid is the external id which you specify inside your report ac tion. For example, you can specify the header and footer of your report by using <header> and <footer> tags, or you can call an external id by using the <t-call=” ”/> tags. You can also generate Qweb reports from the wizard. Thus in odoo, one can easily create/custom Qweb reports.

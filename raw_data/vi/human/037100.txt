@@ -1,0 +1,1 @@
+Tuy nhiên, so sánh với các ứng dụng tương tự hiện có trên thị trường, hệ thống cần phải cải thiện rất nhiều điểm có thể được áp dụng vào thực tế. Vớ hệ thống tại thời điểm hiện tại, em có 2 định hướng phát triển: cải thiện các chức năng của hệ thống và phát triển thêm các tính năng mới đáp ứng yêu cầu người dùng.

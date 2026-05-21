@@ -1,0 +1,1 @@
+Views chính là thành phần làm nhiệm vụ hiển thị nội dung ứng dụng (có thể hiểu giống như thành phần V trong mô hình MVC).

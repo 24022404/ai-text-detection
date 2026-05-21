@@ -1,0 +1,1 @@
+Handcrafted features: Manually engineered by the data scientist Learning features: Automatically obtained from a machine or deep learning algorithm Suppose, for an image classification task, where the target is to classify cats from dogs, the developer is faced with a dilemma on how to input the data to the classifier. There are two options:

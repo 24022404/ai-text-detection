@@ -1,0 +1,1 @@
+Props giúp các component tương tác với nhau, là các nput mà component nhận và trả thuộc tính mô tả những gì component con sẽ render. Props là bất biến. State thể hiện trạng thái của ứng dụng và kh state thay đổi thì component sẽ render lạ để cập nhật UI.

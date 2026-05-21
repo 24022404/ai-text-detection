@@ -1,0 +1,1 @@
+L. Jing, P. Vincent, Y. LeCun andY. Tian, “Understanding dimensional collapse in contrastive self-supervised learning,” inInternational Conferenceon Learning Representations 2022. url:

@@ -1,0 +1,1 @@
+Redux Toolkit là một bộ công cụ chính thức được tạo ra điểm giúp đơn giản hóa việc sử dụng Redux trong việc quản lý trạng thái ứng dụng. Nó cung cấp một loạt các tiện ích và phương pháp nhằm giảm thiểu boilerplate code, làm cho việc quản lý trạng thái trở nên dễ dàng và hiệu quả hơn. Redux Toolkit có nhiều ưu điểm như:

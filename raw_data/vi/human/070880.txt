@@ -1,0 +1,1 @@
+Lưu trữ dữ lệu dưới dạng json, mỗ một collection sẽ có các kích cỡ và các document khác nhau nên sẽ rất linh hoạt cho việc lưu trữ dữ lệu.

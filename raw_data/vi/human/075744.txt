@@ -1,0 +1,1 @@
+Các thông tin trên sẽ được hiển thị khi người dùng nhập tên của đối tượng. Đối với những đối tượng có nhiều tên gọi, trong quá trình thu thập thông tin cũng sẽ cố gắng thu thập các tên gọi khác để tăng khả năng tìm kiếm.

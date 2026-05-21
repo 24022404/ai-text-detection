@@ -1,0 +1,1 @@
+Tạo ra hệ thống có chức năng chuyển đổi các tài sản trong game sang tài sản số và ngược lạ.

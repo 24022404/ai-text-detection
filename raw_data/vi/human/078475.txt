@@ -1,0 +1,1 @@
+Thiết kế cho tết có View Ở góc Web sẽ bao gồm 2d có chính đó là: () góc View dành cho phái quản trị viên và đại diện trung tâm, ()gó View dành cho nhà hảo tâm. Mổ có được xây dựng ở 2 dự án riêng biệt.

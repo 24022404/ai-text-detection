@@ -1,0 +1,1 @@
+A path consists of a sequence of edges, where a vertex v is included in a path P (v ∈ P) if it shares any of the edges contained in P. In this context, P is said to travel through v, designating v as the start or end vertex if the path begins or ends at v.

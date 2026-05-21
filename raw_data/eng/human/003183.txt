@@ -1,0 +1,1 @@
+API Hooking: By hooking into specific functions or API calls, Frida can monitor how the app interacts with system services, such as networking, filesystem, or cryptographic functions. This helps detect interactions with sensi tive APIs that could indicate malicious behavior, such as unauthorized data access or information exfiltration.

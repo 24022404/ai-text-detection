@@ -1,0 +1,1 @@
+C. Zhang, F. Tao, X. Chen andothers , “Taxogen: Unsupervised topic taxonomy construction by adaptive term embedding and clustering,” Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining 2018, pages 2701–2709.

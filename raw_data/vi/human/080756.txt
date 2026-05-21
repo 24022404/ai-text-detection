@@ -1,0 +1,1 @@
+() Tền điều kiện: sau khi khách hàng đã xem thông tin sản phẩm.(v) Hậu điều kiện: sau khi thực hiện use case hệ thống sẽ xuất thông tin của sản phẩm ra giao diện giỏ hàng.

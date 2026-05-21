@@ -1,0 +1,1 @@
+While the team leader can only manage the customers that his team creates. Users can change customer information. Employees can only change the customer service person.

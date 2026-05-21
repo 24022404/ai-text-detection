@@ -1,0 +1,1 @@
+This ensures that the content of the application is displayed optimally and easily accessible, regardless of the specific screen resolution.

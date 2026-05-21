@@ -1,0 +1,1 @@
+Matplotlib là một thư viện giống như GNUplot. Ưu điểm chính so với GNUplot đó là Matplotlib là một module của Python. Đo mức độ phổ biến của python ngày càng tăng, nên matplotlib cũng nhận được sự quan tâm tương tự.

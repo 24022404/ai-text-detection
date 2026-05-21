@@ -1,0 +1,1 @@
+Mô hình end to end Softmax Regression là mở rộng của Logistic Regression cho bài toán multiclass classification, có thể được coi là một layer của Neural Networks. Các bộ phân lớp cho kết quả cao nhất thường là một Neural Network với rất nhiều layer và layer cuốn là một softmax regression, đặc biệt là các Convolutional Neural Networks.

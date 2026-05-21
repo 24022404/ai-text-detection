@@ -1,0 +1,1 @@
+Hỗ trợ mã nguồn mở: MySQL là một hệ quản trị cơ sở dữ lệu mã nguồn mở, điều này có nghĩa là người dùng có thể sử dụng và phân phối nó miễn phí, giúp tiết kiệm chi phí và thuận lợi cho các dự án mã nguồn mở.

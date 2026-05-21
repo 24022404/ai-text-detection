@@ -1,0 +1,1 @@
+Community Collaboration : Incorporating collaborative features, such as ashared database of known threats and patterns, could foster a stronger ecosys tem for malware detection and prevention.

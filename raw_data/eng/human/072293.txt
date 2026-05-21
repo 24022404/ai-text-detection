@@ -1,0 +1,1 @@
+Quantity: The number of products in stock that are counted, including the actual quantity and the quantity being stored in the system.

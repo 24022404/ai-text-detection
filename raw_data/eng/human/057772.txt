@@ -1,0 +1,1 @@
+The notable achievements of pre-trained transformer models in contemporary NLP, which relies on Deep Learning techniques, can be attributed to two key factors:

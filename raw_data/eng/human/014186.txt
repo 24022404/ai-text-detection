@@ -1,0 +1,1 @@
+In graduation research 2, I stored the image in google drive, then got the public URL to return to the website. But this research, I cannot use the old way because the storage of google drive of an account is limited. It is not high security with an e-commerce system. I thought I should have a storage system to store the media.

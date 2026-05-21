@@ -1,0 +1,1 @@
+Vớ quản trị viên, quản trị viên có thể phân công hướng dẫn đồ án, xoá một phân công hướng dẫn bất kì nếu thấy không hợp lý, lọc danh sách phân công đồ án theo kỳ học, tên giảng viên, tên sinh viên, tên đồ án, thống kê tổng số sinh viên đăng ký học các môn đồ án, số giảng viên đang được quản lý tại học kì hiện tại.

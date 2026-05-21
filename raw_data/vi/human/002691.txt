@@ -1,0 +1,1 @@
+Hiện tại ứng dụng hỗ trợ hai ngôn ngữ là Tiếng Việt và Tiếng Anh. Sử dụng thư viện flutter_localzatons và cấu hình tệp l10n.yaml trong thư mục gốc của ứng dụng Flutter như sau.

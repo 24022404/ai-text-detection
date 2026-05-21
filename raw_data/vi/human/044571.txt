@@ -1,0 +1,1 @@
+Apache Mesos : một trình quản lý cụm chung cũng có thể chạy Hadoop MapReduce và các ứng dụng dịch vụ. (Không khuyến khích dùng nữa) Hadoop YARN : trình quản lý tài nguyên trong Hadoop 2 và 3.

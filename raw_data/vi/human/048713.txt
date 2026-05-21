@@ -1,0 +1,1 @@
+Cô lập hóa: Docker sử dụng công nghệ contaner điểm cô lập các ứng dụng và môi trường của chúng. Mỗ container chứa tất cả những gì cần thiết để chạy một ứng dụng, bao gồm mã nguồn, thư viện, bến mô trường và tài nguyên hệ thống. Điều này đảm bảo rằng các ứng dụng chạy trong một container không ảnh hưởng đến nhau và không ảnh hưởng đến môi trường bên ngoài.

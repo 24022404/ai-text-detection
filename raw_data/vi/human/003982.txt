@@ -1,0 +1,1 @@
+LibVLC a, Khá nệm LibVLC  là thư viện Android nhúng công cụ VLC, cung cấp rất nhiều tính năng đa phương tiện. Có khả năng phát mọi định dạng tệp phương tiện, mọ codec và mọ gao thức phát trực tuyến.

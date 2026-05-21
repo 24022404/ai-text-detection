@@ -1,0 +1,1 @@
+NodeJs là một platform tạo môi trường điểm thực thi ngôn ngữ Javascript phía máy chủ. Với việc hỗ trợ xử lý bất đồng bộ, cùng vớ tích hợp Google V8 engine , việc bên dịch mã nguồn của máy chủ sẽ trở nên nhanh hơn, mềm dẻo hơn, cũng như đảm bảo tính mở rộng sau này.

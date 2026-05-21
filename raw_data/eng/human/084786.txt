@@ -1,0 +1,1 @@
+Cấu hình: Gói t2.micro  free tier; v CPU 1 core; Memory: 1GB; Storage: 15 GB general; Purpose SSD (gp3); OS: Ubuntu 22.04 Nginx: sử dụng làm webserver, handle các HTTP/HTTPS request và server các static file.

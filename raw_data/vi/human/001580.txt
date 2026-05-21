@@ -1,0 +1,1 @@
+Khách hàng có thể đăng ký hệ thống, xem các sản phẩm sách, xem ch tết sản phẩm, tìm kếm sách mong muốn.

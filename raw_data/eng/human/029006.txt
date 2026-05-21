@@ -1,0 +1,1 @@
+For email addresses, the method checks if the pattern appears in placeswhere they would be used, such as in user authentication or communica tion modules.

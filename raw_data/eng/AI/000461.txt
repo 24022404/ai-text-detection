@@ -1,0 +1,9 @@
+Objective: Unsupervised anomaly detection and precise localization in medical images remain challenging due to the scarcity of abnormal samples and the variability of healthy anatomy. We introduce Constrained Contrastive Distribution Learning (CCDL), a novel framework that learns a compact representation of normal tissue and effectively discriminates anomalous regions without requiring labeled pathologies.  
+
+Methods: CCDL employs a two-branch encoder with a momentum-updated teacher network to generate stable features on healthy images. A constrained contrastive loss enforces that embeddings of normal samples form a tight distribution, while synthetically perturbed or out-of-distribution patches are pushed toward the periphery. We model the healthy feature manifold with a Gaussian distribution and compute anomaly scores based on feature likelihood. Localization maps are produced by mapping pixel-wise deviations from the learned distribution.  
+
+Results: Extensive experiments on public medical imaging benchmarks—including brain MRI and chest X-ray datasets—demonstrate that CCDL outperforms state-of-the-art unsupervised methods in both detection and localization. Our approach achieves substantial gains in area under the ROC curve and mean intersection-over-union for anomaly maps, while maintaining computational efficiency.  
+
+Conclusion: By integrating contrastive representation learning with explicit distribution constraints, CCDL captures healthy anatomy variations and reliably highlights anomalous regions. This generalizable, label-free framework holds promise for screening and computer-aided diagnosis in diverse medical imaging applications.  
+
+Keywords: unsupervised anomaly detection, medical image analysis, contrastive learning, distribution modeling, anomaly localization

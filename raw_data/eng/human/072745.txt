@@ -1,0 +1,1 @@
+Example 4.1 (Lyndon words). The word 00101 is a Lyndon word since it is smaller than all of its rotations: 01010 ,10100 ,01001 ,10010 . The word 01100 is not a Lyndon word, since one of its rotations, 00011 , is smaller than it. The word 011011 is also not a Lyndon word, as its cyclic rotation by 3letters is equal to it.

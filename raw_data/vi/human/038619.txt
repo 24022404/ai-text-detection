@@ -1,0 +1,1 @@
+TypeScript có thể được transpole hoặc comple thành mã JavaScript, giúp mã nguồn có thể chạy trong bất kỳ môi trường nào hỗ trợ JavaScript, bao gồm cả trình duyệt web và Nodejs. Đều này cho phép các lập trình viên sử dụng các tính năng nâng cao của TypeScript trong các dự án của họ trong khi vẫn có thể chạy mã trên bất kỳ nền tảng nào hỗ trợ JavaScript.

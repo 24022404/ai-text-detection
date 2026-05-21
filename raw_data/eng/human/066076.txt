@@ -1,0 +1,1 @@
+Another noteworthy dataset is ViMs , introduced by Nghiem et al. This corpus was meticulously collected from various domains, utilizing Google News as the primary source. With a substantial count of 1,945 documents extracted from popular news websites in Vietnam, ViMs presents a robust and diverse dataset for multi-document summarization research.

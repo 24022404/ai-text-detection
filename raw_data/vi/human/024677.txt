@@ -1,0 +1,1 @@
+Tác nhân nhập mật khẩu và xác nhận kết nối ví với hệ thống bằng tiện ích ví trên trình duyệt.

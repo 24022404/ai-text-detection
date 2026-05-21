@@ -1,0 +1,1 @@
+Chính vì những khó khăn được nêu như ở trên, em nhận thấy Lớp học Cầu Vồng cần có một hệ thống đặc thù hỗ trợ công việc quản lý dạy học và nhân sự rêng, trước hết hướng tới đối tượng là người quản trị và các tình nguyện viên tham gia lớp học trên nền tảng Web và mở rộng đối tượng là các em học sinh hoặc phụ huynh.

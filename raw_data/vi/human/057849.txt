@@ -1,0 +1,1 @@
+STT Tên trường Yêu cầu 1 Organization Bắt buộc 2 Tên Ste Bắt buộc 3 Vị trí địa lý đặt Ste trong thực tế Bắt buộc Bảng C9: Dữ lệu điầu vào cho trường hợp kiểm thử "Tạo Site mới"Các trường hợp kiểm thử cho chức năng "Tạo Site mới":

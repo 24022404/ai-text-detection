@@ -1,0 +1,1 @@
+Gả pháp tổng quan Để giải quyết vấn đề này em đã sử dụng Reds điểm lưu lại dữ lệu, từ đó làm giảm thiểu số lần truy vấn đến cơ sở dữ lệu, ngoài ra có thể lưu trữ lạ thông tin HTML của trang web nhằm giúp người dùng sau khi truy cập lạ sẽ không cần phải tải lại dữ lệu giữa.

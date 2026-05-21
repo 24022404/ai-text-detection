@@ -1,0 +1,1 @@
+We consider the problem of embedding a relation, represented as a directed graph, into Euclidean space. For three types of embeddings motivated by the recent literature on knowledge graphs, we obtain characterizations of which relations they are able to capture, as well as bounds on the minimal dimensionality and precision needed.

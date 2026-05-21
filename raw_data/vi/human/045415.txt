@@ -1,0 +1,1 @@
+Chương 3 giới thiệu về các công nghệ và kiến thức nền tảng được áp dụng để xây dựng ứng dụng, điểm nổ bật của công nghệ đió, lý do áp dụng những công nghệ và kiến thức đó để xây dựng ứng dụng QLCV theo dự án.

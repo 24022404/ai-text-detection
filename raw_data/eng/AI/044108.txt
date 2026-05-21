@@ -1,0 +1,1 @@
+The thesis presents Run length limited de Bruijn sequences as an alternative to Hybrid de Bruijn sequences within the dBTS system, demonstrating that RdB sequences offer a higher rate and enhanced generality and adaptability compared to HdB sequences. Additionally, equation 4.15 is verified across all three cases, thus supporting the validity of Lemma 8.

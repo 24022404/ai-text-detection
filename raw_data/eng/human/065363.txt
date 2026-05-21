@@ -1,0 +1,1 @@
+After quantifying the contribution of each participating node using the non ar mapping function designed above, the authors use the softmax function to calculate the weight of each participating node for the global model aggregation:

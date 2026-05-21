@@ -1,0 +1,7 @@
+Emotion recognition from body gestures is a crucial task in affective computing, with applications in human-computer interaction, surveillance, and healthcare. However, existing models rely heavily on labeled training data and struggle to generalize to unseen emotions or diverse body gestures. To address these challenges, we propose a Generalized Zero-Shot Emotion Recognition (GZS-ER) framework, which enables recognition of novel emotions without requiring labeled examples.
+
+Our approach leverages a semantic embedding space that maps body gestures to emotion concepts using a combination of graph-based representation learning and cross-modal alignment techniques. We introduce a gesture-emotion mapping module that learns transferable features, ensuring robust generalization to unseen emotions. Additionally, we incorporate a self-supervised contrastive learning mechanism to enhance feature discrimination and improve model robustness.
+
+Experiments on benchmark datasets demonstrate that GZS-ER significantly outperforms existing zero-shot and few-shot emotion recognition models, achieving high accuracy even for previously unseen emotions. These results highlight the potential of zero-shot learning for emotion recognition, paving the way for more adaptive and scalable affective computing systems.
+
+Keywords: Zero-Shot Learning, Emotion Recognition, Body Gestures, Affective Computing, Cross-Modal Learning, Contrastive Learning.

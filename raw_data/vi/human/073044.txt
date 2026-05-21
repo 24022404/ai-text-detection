@@ -1,0 +1,1 @@
+Triển khai cơ sở dữ lệu Cơ sở dữ lệu được lưu trữ tại máy chủ của công ty thực tập, cho tốc độ truy cập nhanh. Việc truy vấn giữa server và cơ sở dữ lệu được thực hiện bên trong cùng một hệ thống.Trong đồ án này em đã tìm hều về các phương thức tính toán về các mã cổ phiếu để đưa ra số lệu cho người chơi chứng khoán độc.

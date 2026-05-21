@@ -1,0 +1,1 @@
+Variable Pool Module: Similar to the Object Pool module, this componentmanages the pool of temporary variables or data structures used during gameplay. It handles the allocation and deallocation of variables and ensures effi cient reuse.

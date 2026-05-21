@@ -1,0 +1,1 @@
+<owl : Object Property rdf : about ="# thuoc Quan Huyen "> < r d f s : domain r d f : r e s o u r c e =#demDuLch "/ > < r d f s : range r d f : r e s o u r c e ="# quanHuyen "/ > </ owl : Object Property > –Datatype properties: Thuộc tính kiểu dữ liệu gắn các đối tượng với kiểu dữ liệu. Ví dụ:

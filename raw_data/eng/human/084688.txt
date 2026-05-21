@@ -1,0 +1,1 @@
+In manual indoor positioning, the user’s location is defined manually, typically by using a floor plan or other type of map. Thisapproach involves the user inputting their current location in a form, or scan ning a QR code or image so that the system can automatically detect their location.

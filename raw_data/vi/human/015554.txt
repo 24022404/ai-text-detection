@@ -1,0 +1,1 @@
+Môi trường sử dụng hạt giống cố định cho các hàm số ngẫu nhiên. Điều này gúp ta đảm bảo được mô trường giống nhau giữa các lần đánh gá, tăng được sự công bằng cho các phương pháp.

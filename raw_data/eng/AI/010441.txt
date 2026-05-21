@@ -1,0 +1,9 @@
+Objective: Deep learning models for medical image classification often achieve high accuracy but lack transparency, hindering clinical adoption. This paper introduces a weakly-supervised segmentation framework that not only classifies diseases from medical scans but also generates interpretable lesion maps using only image-level labels.  
+
+Methods: We design a two-branch network comprising a classification stream and a segmentation stream. The classification stream produces disease probabilities, while the segmentation stream leverages class activation maps (CAMs) to initialize region proposals. A refinement module iteratively enhances these proposals by enforcing spatial consistency and boundary awareness. Both streams share features and are trained end-to-end with a joint loss combining classification and segmentation objectives.
+
+Results: Experiments on two public chest X-ray datasets demonstrate that our method improves classification accuracy by up to 4.8% over standard CNN baselines and boosts localization quality, achieving a mean Intersection-over-Union (mIoU) increase of 12.3% without pixel-level annotations. Qualitative analysis confirms that the generated lesion maps align with radiologist annotations, facilitating model interpretability.
+
+Conclusion: By integrating weakly-supervised segmentation into the classification pipeline, our approach delivers both competitive diagnostic performance and transparent, lesion-level explanations. This contributes a practical solution for reliable, explainable disease detection in clinical practice.  
+
+Keywords: explainable AI, weakly-supervised learning, segmentation, disease classification, medical imaging.

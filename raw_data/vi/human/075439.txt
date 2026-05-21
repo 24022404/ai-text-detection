@@ -1,0 +1,1 @@
+Scheduler là tến trình Python đia luồng chịu trách nhệm lập lịch cho các Task và DAG trong hệ thống. Cụ thể, Scheduler quyết điịnh xem Task nào được thựcth, thực th vào thờ điểm nào cũng như thực th trên tài nguyên nào.

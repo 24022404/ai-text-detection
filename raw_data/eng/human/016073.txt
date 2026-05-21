@@ -1,0 +1,1 @@
+Fig. 4.8 illustrates the interface design of setting page.Figure 4.8: Design of setting page c, Term interface This page will be divided into 1 main section, the left part will be tabs to select the page including setting page and term. on the right will be the display of the data table of searches.

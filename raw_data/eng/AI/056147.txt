@@ -1,0 +1,1 @@
+Students seek to utilize the ITSM platform, an independent tool embedded in a broader management system. It delivers essential capabilities like problem management, change management, and asset tracking, while also supporting comprehensive ticketing features to streamline IT services.

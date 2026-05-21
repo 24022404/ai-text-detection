@@ -1,0 +1,1 @@
+Problem The program has to include an admin edit page so that the search page may be as user-friendly as feasible and can be altered in accordance with the store owner’s sales plan.

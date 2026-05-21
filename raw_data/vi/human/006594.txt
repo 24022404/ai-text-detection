@@ -1,0 +1,1 @@
+ReactJS được sử dụng rộng rãi để phát triển các ứng dụng web động, đặc biệt là các ứng dụng đơn trang (single page applications) và các ứng dụng có tính tương tác cao.

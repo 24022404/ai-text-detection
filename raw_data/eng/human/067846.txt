@@ -1,0 +1,1 @@
+It’s quick and simple.Since Laravel is the most popular PHP framework, most web developers are already familiar with it. There’s also a wide selection of built-in templates, which makes development simpler and easier for developers.

@@ -1,0 +1,1 @@
+Do đó, các chức năng đặc trưng của quản trị viên là "Quản lý nhân viên" và "Quản lý doanh thu".

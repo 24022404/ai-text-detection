@@ -1,0 +1,1 @@
+Nền trắng, chữ đỏ ở dạng Snackbar hoặc hộp thoại thông báo Bảng 4.1: Thông tin màn hình ứng dụng 4.2.2 Thiết kế lớp Các lớp thiết kế điều có các thuộc tính chung sau đây:

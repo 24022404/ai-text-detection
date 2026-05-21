@@ -1,0 +1,1 @@
+PHP cũng cho phép tích hợp với các CMS (Content Management System) như WordPress, Drupal, Joomla và nhiều hơn nữa, giúp cho việc tạo và quản lý các trang web trở nên dễ dàng hơn.

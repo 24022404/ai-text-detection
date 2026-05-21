@@ -1,0 +1,1 @@
+Poor performance: When transferring data between layers, especially when transmitting data over the network, directly passing large objects or data structures can lead to poor performance and reduce application speed.

@@ -1,0 +1,1 @@
+Chức năng đầu tên sẽ là quản lý loại sản phẩm. Các sản phẩm trên trang web sẽ được phân ra thành các loại sản phẩm chung dựa trên đặc điểm về hình dáng, công dụng: giường, ghế, tủ, kệ sách, với các thông tin như: tên loại sản phẩm, mô tả về loại sản phẩm đó, ảnh đại diện cho loại sản phẩm và thờ gan tạo lập loại sản phẩm.

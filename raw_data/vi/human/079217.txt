@@ -1,0 +1,1 @@
+Đặc tả use case "Quản lý cuộc hội thoại" Usecase "Quản lý cuộc hội thoại" Mã usecase UC001 Giới thiệu Use Case mô tả sự tương tác giữa người dùng với hệ thống kh người dùng muốn quản lý cuộc hội thoại.

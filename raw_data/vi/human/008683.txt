@@ -1,0 +1,1 @@
+Sử dụng giao thức AMQP (Advanced Message Queue Protocol) để có thể gửi dữ liệu thông qua cơ chế hàng đợi.

@@ -1,0 +1,1 @@
+*MessageController: xử lý các yêu cầu liên quan đến tin nhắn như lấy danh sách các tin nhắn gửi với bạn, lấy ra danh sách tin nhắn gửi trong nhóm.

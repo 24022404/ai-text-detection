@@ -1,0 +1,1 @@
+Harvest from the garden: This is the activity with the lowest implementation cost as you only need to go behind your house and harvest food. However, this activity requires you to have planted crops in order to harvest them.

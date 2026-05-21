@@ -1,0 +1,1 @@
+Đảm bảo thành công Đơn ứng tuyển được gửi đến nhà tuyển dụng, ứng viên nhận được email xác nhận đã ứng tuyển thành công.

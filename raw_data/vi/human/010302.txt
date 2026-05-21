@@ -1,0 +1,1 @@
+Mô hình ngôn ngữ Là phân bố xác suất trên tập các văn bản, cho biết xác suất của một câu (hoặc 1 cụm từ) thuộc 1 ngôn ngữ là bao nhiêu. Mô hình ngôn ngữ tốt sẽ đánh giá đúng các câu đúng ngữ pháp, trôi chảy hơn các từ có thứ tự ngẫu nhiên.

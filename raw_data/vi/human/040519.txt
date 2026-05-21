@@ -1,0 +1,1 @@
+2:42 PMd Explorer Hình 4.3: Thiết kế cho tết giao diện màn hình chính Thiết kế màn hình thông tin chi tiết loài vật: Màn hình này hiển thị thông tin chi tiết về loài vật. Màu chủ đạo là màu xanh da trời. Màu nền là màu trắng vớ chữ màu đen. Một phần hiển thị hình ảnh của loài vật đó.

@@ -1,0 +1,1 @@
+CSDL mặt hàng: lưu trữ thông tin loại hàng (mã mặt hàng, tên mặt hàng, mã nhà cung cấp).

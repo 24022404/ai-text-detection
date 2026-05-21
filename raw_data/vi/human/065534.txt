@@ -1,0 +1,1 @@
+Quản lý danh sách những người tham gia vào phòng.2.2.1 Biểu đồ use case tổng quát Hình 2.1: Biểu đồ use case tổng quan Hình 2.1 là biểu đồ use case tổng quan của hệ thống. Tác nhân duy nhất của hệ thống là người dùng  bất kỳ người dùng nào được phân quyền sử dụng module trình soạn thảo mã nguồn on điều được co là người dùng của hệ thống. Các use case chính của hệ thống:

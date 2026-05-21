@@ -1,0 +1,1 @@
+Cloud Messagng (Nhắn tin trên điám mây) Frebase Cloud Messagng (FCM) là dịch vụ cho phép doanh nghệp gửi tin nhắn điến thiết bị của người dùng, ngay cả khi họ không sử dụng ứng dụng. Nhà phát trển có thể sử dụng FCM điể gửi thông báo điẩy, cập nhật nộ dung ứng dụng, v.v.

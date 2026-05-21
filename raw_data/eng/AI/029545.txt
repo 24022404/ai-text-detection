@@ -1,0 +1,1 @@
+A Lyndon word is a sequence that remains strictly smaller than each of its rotations, making it uniquely minimal.

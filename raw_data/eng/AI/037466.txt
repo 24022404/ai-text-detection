@@ -1,0 +1,9 @@
+Objective: We propose “Ask Your Neurons,” a unified neural framework for Visual Question Answering (VQA) that interprets natural-language questions and generates accurate answers about image content. Addressing the challenge of bridging vision and language, our model learns rich multimodal representations without hand-crafted rules.  
+
+Methods: We combine a Convolutional Neural Network (CNN) to extract spatial visual features with a Long Short-Term Memory (LSTM) network to encode the input question. A joint embedding layer aligns visual and textual modalities into a common vector space. We further introduce a soft-attention mechanism that dynamically focuses on image regions most relevant to each question token. The entire architecture is trained end-to-end using cross-entropy loss over large-scale VQA datasets.  
+
+Results: On benchmark datasets such as DAQUAR and VQA v2.0, Ask Your Neurons achieves state-of-the-art accuracy, outperforming previous models by 5–8% on object recognition and relational reasoning queries. Ablation studies confirm the effectiveness of our attention layer and joint embedding strategy, showing consistent gains over baselines that omit these components.  
+
+Conclusion: By integrating attention-guided multimodal fusion within a single neural network, Ask Your Neurons delivers a flexible, scalable solution for image-based question answering. This approach paves the way for more interactive AI assistants capable of visual understanding and natural dialogue.  
+
+Keywords: Visual Question Answering, Convolutional Neural Network, Long Short-Term Memory, Multimodal Learning, Attention Mechanism.

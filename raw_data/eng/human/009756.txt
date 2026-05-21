@@ -1,0 +1,1 @@
+The final results are organized into a dictionary, where the filename serves as the key and the detected matches are stored as the value.

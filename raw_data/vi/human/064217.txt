@@ -1,0 +1,1 @@
+vector_dstance_max: Kh so sánh khoảng cách khoảng các của ha vector đặc trưng của hà khuôn mặt, nếu khoảng cách đó lớn hơn vector_dstance_max thì sẽ được xác định là một người mớ.

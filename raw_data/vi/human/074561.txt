@@ -1,0 +1,1 @@
+Khác với MySQL hay các loại SQL database khác chạy theo mô hình database – table – row vớ số dòng – cột nhất định, schema phức tạp, và phả sử dụng nhiều JOIN kh query. MongoDB chạy theo mô hình database – collection – document, thay thế mô hình cơ sở dữ liệu dùng table truyền thống bằng các document và định dạng JSON với cấu trúc linh hoạt hơn (MongoDB gọi là BSON).

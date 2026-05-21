@@ -1,0 +1,1 @@
+The code first reads in all the data from the JSON source and then starts pro cessing the information for each floor in the building. For each floor, it initializes several data structures to store the floor data, such as the features of each floor, the vertexes of each floor, the elevators of each floor, and the posters of each floor.

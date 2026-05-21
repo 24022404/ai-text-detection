@@ -1,0 +1,1 @@
+Server kết nối và truy vấn với cơ sở dữ lệu qua Sequelize , các bản ghi khi truy vấn sẽ là một đối tượng được định nghĩa sẵn khi khởi tạo.

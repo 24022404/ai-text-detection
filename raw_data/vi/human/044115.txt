@@ -1,0 +1,1 @@
+Elasticsearch Elasticsearch  là một công cụ tìm kiếm và phân tích dữ liệu phân tán, mã nguồn mở, được xây dựng trên nền tảng Apache Lucene. Elasticsearch cung cấp một gả pháp tìm kiếm và phân tích dữ liệu mạnh mẽ, linh hoạt và dễ sử dụng cho các ứng dụng web, đặc biệt là các ứng dụng có dữ liệu lớn.

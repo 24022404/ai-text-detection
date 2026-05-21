@@ -1,0 +1,1 @@
+Get data on the quantity of goods, the type of goods and the allowable storagelocation that the goods are in the warehouse. This data is taken from the man agement system, especially the data needs to be accurate and updated regularly to ensure all adjustments in stock are reasonable and timely.

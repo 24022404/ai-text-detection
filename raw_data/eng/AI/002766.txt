@@ -1,0 +1,1 @@
+M. Cohn and A. Lempel introduce efficient algorithms for m-sequence transforms, greatly reducing computation time, key in information theory applications.

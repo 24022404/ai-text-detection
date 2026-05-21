@@ -1,0 +1,1 @@
+CSDL nhà cung cấp: lưu trữ thông  tin nhà cung cấp (mã nhà cung cấp, tên nhà cung cấp, địa chỉ, số điện thoại, mã số thuế).

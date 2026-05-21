@@ -1,0 +1,1 @@
+Khai thác tố địa các thông tin có ích từ nhật ký truy cập báo điện tử của người dùng. Ví dụ: trang báo/chuyên mục người dùng truy cập, gúp hiểu về xu hướng/sở thích của tập người dùng, làm cho báo cáo phân tích trở nên đa dạng vớ nhiều thông tin hữu ích hơn.

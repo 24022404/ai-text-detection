@@ -1,0 +1,1 @@
+Firebase AnalysisFirebase is often used as a backend for mobile applications. This analysis exam ines Firebase configurations, such as database security, user authentication setups, and related APIs. The goal is to ensure that no vulnerabilities exist in the storage and handling of user data.

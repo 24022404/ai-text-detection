@@ -1,0 +1,1 @@
+Difficulty in training and fine-tuning the model: Deep learning requires a lot of computational resources and time to train the model. Fine-tuning modelparameters to achieve the best performance is also a time-consuming task.

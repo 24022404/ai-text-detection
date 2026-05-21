@@ -1,0 +1,1 @@
+nền tảng phần mềm cho phép dựng, kểm thử và trển kha ứng dụng một cách nhanh chóng. Có thể co Docker như một máy ảo cho phép cà điặt mô trường, cấu hình hệ thống, mọ thứ cần thết điể có thể chạy chương trình.

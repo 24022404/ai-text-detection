@@ -1,0 +1,1 @@
+Vẫn chưa được hoàn thiện trong việc deploy, áp dụng cho các hệ thống lớn  ,... được như framework ra đời trước nó như tensorflow.

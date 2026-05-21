@@ -1,0 +1,1 @@
+Xây dựng các tập phổ biến (Frequent Itemsets): Sử dụng quy tắc hỗ trợ (support threshold), tìm tất cả các tập temset (tập hợp các tem) thường xuyên (có support lớn hơn hoặc bằng ngưỡng). Quá trình này bao gồm:

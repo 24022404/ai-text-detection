@@ -1,0 +1,1 @@
+Many security experts have participated and discovered many smart contract security vulnerabilities. Vulnerabilities are classified into many groups, specifically as follows.

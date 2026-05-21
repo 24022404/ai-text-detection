@@ -1,0 +1,1 @@
+Có kiểu gõ động (dynamically typed). Điều này làm tăng tốc độ phát triển cho các ứng dụng web đơn giản. Các kiểu tĩnh có thể được giới thiệu trong Elxr thông qua các tệp kiểu chữ.

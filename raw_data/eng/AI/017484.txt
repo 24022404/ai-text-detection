@@ -1,0 +1,9 @@
+Objective: Parameter sharing is a common practice in multi-agent deep reinforcement learning (MADRL) that aims to improve sample efficiency and coordination by using a single network for multiple agents. However, indiscriminate sharing can lead to negative transfer when agents have divergent roles or observations. This paper revisits parameter sharing strategies in MADRL, asking when and how sharing should be applied to maximize collective performance.
+
+Methods: We introduce a family of adaptive sharing schemes that range from full sharing to no sharing. Our approach uses task-conditioned gating networks to allocate shared and agent-specific parameters based on state similarity and role assignments. We evaluate these schemes on benchmark environments including cooperative navigation, competitive particle-world scenarios, and mixed cooperative-competitive tasks. Performance is compared against baselines of full sharing, independent learning, and manual grouping.
+
+Results: Experiments demonstrate that adaptive sharing consistently outperforms static strategies, achieving up to 25% faster convergence and 15% higher collective reward. In highly heterogeneous tasks, selective sharing reduces policy interference and accelerates specialization. In symmetric tasks, our method gracefully falls back to full sharing, retaining the sample-efficiency benefits. Ablation studies confirm the gating network’s effectiveness in dynamically adjusting parameter overlap.
+
+Conclusion: This work provides the first systematic study of parameter sharing in MADRL, offering an adaptive framework that balances efficiency and specialization. The proposed schemes improve learning stability and scalability in diverse multi-agent settings, guiding the design of future MADRL algorithms.  
+
+Keywords: multi-agent deep reinforcement learning, parameter sharing, adaptive gating, sample efficiency, coordination.

@@ -1,0 +1,1 @@
+A.5 Use Case View product information A.5.1 Class diagram In this use case, the User actor views the details page for a selected product.

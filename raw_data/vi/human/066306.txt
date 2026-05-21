@@ -1,0 +1,1 @@
+Nhiệm vụ đầu tên là nghiên cứu các cơ chế, cách thức hoạt động của các nền tảng chuỗi khố mới, từ đó đề xuất một mạng phù hợp với những mục têu mà điề tà điã điề ra điể trển kha điề tà. Như đã trình bày trong mục 1.3 , tô đã lựa chọn chuỗi khố Su Network là nền tảng phát triển và triển khai cho hệ thống của tô. Su Network là mạng chuỗi khố có một số ưu điểm như sau:

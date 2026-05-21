@@ -1,0 +1,1 @@
+Quy trình phát triển nhanh hơn MVC hỗ trợ phát việc phát triển nhanh chóng và song song. Nếu một mô hình MVC được dùng để phát triển bất kỳ ứng dụng web cụ thể nào, một lập trình viên có thể làm việc trên View và một developer khác có thể làm việc vớ Controller điểm tạo logc nghiệp vụ cho ứng dụng web đó.

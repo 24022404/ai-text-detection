@@ -1,0 +1,1 @@
+Đầu tên, em xây dựng Dockerfile điểm mô tả các bước cần thiết để xây dựng mage Docker của ứng dụng. Dockerfile sẽ bao gồm các chỉ thị để sao chép mã nguồn vào mage, cài đặt các phụ thuộc và thiết lập môi trường cho ứng dụng.

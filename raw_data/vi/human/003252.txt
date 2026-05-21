@@ -1,0 +1,1 @@
+Hệ thống xóa công thức mớ trong cơ sở dữ liệu và chuyển hướng đến trang hồ sơ và hển thị danh sách công thức .

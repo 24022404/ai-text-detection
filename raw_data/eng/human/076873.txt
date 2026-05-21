@@ -1,0 +1,1 @@
+The rate of de Bruijn sequences can be determined by understanding its longest length. Section 4.2 provides a formal definition of rate and maximal asymptotic rate of the de Bruijn sequence. This section concerns finding the longest simple path in Gk,s, which corresponds to the longest (k, s)-RdB sequence.

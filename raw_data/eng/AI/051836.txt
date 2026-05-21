@@ -1,0 +1,1 @@
+Dynamic analysis observes how an application behaves while running in a controlled environment to identify malicious actions, such as unauthorized data exfiltration or unusual API calls. Despite its effectiveness in uncovering threats, this method often requires significant resources, time, and intricate configurations.

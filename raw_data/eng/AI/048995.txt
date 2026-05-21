@@ -1,0 +1,1 @@
+Redux Saga is a middleware library designed to assist a Redux store in managing asynchronous side effects such as HTTP requests, browser storage access, and various I/O operations. By using Redux Saga, developers can organize these tasks more efficiently, separate business logic from UI, and write code that is easier to test and maintain in complex applications.

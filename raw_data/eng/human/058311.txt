@@ -1,0 +1,1 @@
+EMR =1 nnX i=1I(yi=byi) (4.2) where I is the indicator function. Clearly, a disadvantage of this measure is that it does not distinguish between completely incorrect and partially correct which might be considered harsh.

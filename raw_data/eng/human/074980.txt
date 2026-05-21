@@ -1,0 +1,1 @@
+The goal of my research is to investigate the poor performance in the CRE task caused by Cross-Entropy loss. From the investigation, I will propose solutions to improve the performance of the CRE task.

@@ -1,0 +1,1 @@
+Methodology – Manual Method: Navigate to the device’s Wi-Fi settings, select thenetwork, and choose "Proxy" to set it to "None" or remove any pre configured proxy settings.

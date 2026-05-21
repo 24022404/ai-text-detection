@@ -1,0 +1,1 @@
+HTML, CSS, JS, Materialize Hình 3.2: HTML, CSS, JS Hình 3.3: Material UI (nguồn:  Đây là các công nghệ giúp phát triển giao diện người dùng. HTML, CSS, JS là các công nghệ cơ bản trong phát triển giao diện web. Bên cạnh đó Material UI , là một công cụ hỗ trợ mạnh trong việc tạo nhanh các thành phần giao diện rất phù hợp và tiện lợi khi kết hợp với ReactJs .

@@ -1,0 +1,1 @@
+Thiết kế giao diện của trang web đơn giản, tập trung vào các chức năng chính giúp người dùng dễ dàng sử dụng, tương tác.

@@ -1,0 +1,1 @@
+embedding alignment for lifelong relation extraction,” inProceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers) Minneapolis, Minnesota: Association for Computational Linguistics, june 2019, pages 796–806. DOI:10.18653/v1/N19-1086 .url:https:

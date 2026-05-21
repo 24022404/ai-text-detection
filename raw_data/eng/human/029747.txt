@@ -1,0 +1,1 @@
+network_summary : A summary of the findings, with counts of is sues categorized by severity (e.g., high ,warning ,secure ).

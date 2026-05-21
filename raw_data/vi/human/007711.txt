@@ -1,0 +1,1 @@
+F1 =2 PRECISION+1 RECALL(2.3) Trong bài toán phân loại nhiều lớp, cho lần lượt một lớp là Positive và các lớp còn lại là Negative điểm tính các Precision, Recall tương ứng.

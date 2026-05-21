@@ -1,0 +1,1 @@
+The application is designed with a user-friendly interface that simplifies the pro cess of detecting and understanding potential malware threats. Regular users often lack the technical knowledge to understand the complexities of malware behavior, so this tool provides an accessible way for them to stay informed about the security risks associated with the apps they use.

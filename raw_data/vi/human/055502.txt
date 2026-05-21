@@ -1,0 +1,1 @@
+Giảm độ tương phản: tương tự như cách trên, từ ảnh gốc tao sẽ giảm độ tương phản để tạo thêm một ảnh mới. Khi luyện tập với những ảnh này, thuật toán sẽ tăng khả năng nhận diện vật thể ở những điều kiện ánh sáng kém như buổi chiều tối hay buổi đêm.

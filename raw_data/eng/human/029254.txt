@@ -1,0 +1,1 @@
+User click on Search bar Activation event Main event stream (success)Ordinal numberPerformed byActivity 1. UserUser enters a search query into the search bar.

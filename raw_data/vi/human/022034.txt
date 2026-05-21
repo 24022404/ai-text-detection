@@ -1,0 +1,1 @@
+Khách là những người chưa có tài khoản, có thể đăng ký để có tài khoản đăng nhập và sử dụng ứng dụng.•Người dùng: sau khi đăng nhập với tài khoản, người dùng có thể có các chức năng: quản lý bạn bè, xem thông báo, quản lý nhóm, quản lý tin nhắn, đăng xuất.

@@ -1,0 +1,1 @@
+The algorithm was implemented in Python, a high-level programming languagewidely used for scientific and data analysis applications. The algorithm was de signed to find the shortest path between any two points in the graph, which is essential for the indoor navigation app to work correctly.

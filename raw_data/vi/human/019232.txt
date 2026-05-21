@@ -1,0 +1,1 @@
+Sau đó, có thể sử dụng các API được cung cấp để tải lên, tải xuống và quản lý các tệp. Một trong những lợi ích lớn nhất của việc sử dụng S3 là khả năng mở rộng linh hoạt. Nếu cần thêm dung lượng lưu trữ, có thể dễ dàng tăng dung lượng lưu trữ của bucket S3.

@@ -1,0 +1,1 @@
+Upgrade Account Figure 4.31: Upgrade screenThe upgrade screen displays three packages available in the system: Free, Pre mium and Plus.f, Admin Figure 4.32: Member list screen Member list is displayed in form of a table with search by username, email and full name function.

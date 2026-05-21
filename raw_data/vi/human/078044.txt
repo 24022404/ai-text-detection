@@ -1,0 +1,1 @@
+Lý do lựa chọn MongoDB là một NoSQL, mang một số lợi thế hơn so với các cơ sở dữ liệu dạng quan hệ SQL (RDBMS) bao gồm:

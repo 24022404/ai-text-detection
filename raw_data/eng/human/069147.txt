@@ -1,0 +1,1 @@
+Real-time notifications is not a "nice-to-have" feature, it is instead a must. Users would need to know whether the topics that they are following are being mentioned or not, and what kind of public sentiment is being tied with them immediately.

@@ -1,0 +1,9 @@
+Objective: Autonomous systems operating in outdoor environments must detect regions in camera imagery where visual information is impaired (“blindness”) and recognize the cause (e.g., glare, shadow, sensor noise). This paper introduces DeepBlindness, a real-time framework that jointly estimates a pixel-level blindness map and classifies the underlying blindness type from a single color image.
+
+Methods: DeepBlindness employs a multi-task convolutional neural network with a shared encoder and two task-specific decoders. The first decoder outputs a per-pixel probability map indicating degrees of visual impairment; the second decoder predicts one of several blindness categories (sun glare, cast shadow, lens flare, rain streaks). To boost efficiency, we integrate depthwise separable convolutions and channel attention modules. The model is trained end-to-end on a newly collected Outdoor Blindness Dataset (OBD), which comprises 5,000 annotated images covering diverse lighting and weather conditions.
+
+Results: On OBD’s test split, DeepBlindness achieves a mean intersection-over-union (mIoU) of 71.8% for blindness map estimation and a classification accuracy of 88.3%—outperforming state-of-the-art segmentation and classification baselines by over 12% and 9%, respectively. The network processes 1920×1080 images at 30 frames per second on a single GPU.
+
+Conclusion: DeepBlindness delivers fast, accurate blindness detection and categorization from standard color cameras, enabling safer perception modules in autonomous driving, robotics, and surveillance applications.  
+
+Keywords: blindness map estimation, outdoor scene understanding, multi-task learning, real-time inference, convolutional neural network, blindness classification.

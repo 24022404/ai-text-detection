@@ -1,0 +1,1 @@
+As content is spread across numerous nodes, the network can still serve the video content even if one or more nodes fail, preserving a seamless streaming experience for users.

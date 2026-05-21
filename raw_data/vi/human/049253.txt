@@ -1,0 +1,1 @@
+Phân rã use case Nhắn tin Hình 2.4 là biểu đồ phân rã Use case Nhắn tin, được phân rã thành 3 use case.

@@ -1,0 +1,1 @@
+FROM azul/zulu openjdk alpine:11 jre WORKDIR /otp/app COPY ehust 0.0.1SNAPSHOT.jar app.java CMD ["java", "jar", "/app/app/app.java"] Tạo Docker Image và chạy container với lệnh sau tạ thư mục chứa tệp thực thi và tệp Dockerfile:

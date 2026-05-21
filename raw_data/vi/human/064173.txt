@@ -1,0 +1,1 @@
+Chương 2 trình bày về quá trình khảo sát cũng như hiện trạng của các hệ thống hiện này. Từ đó đưa ra các phân tích, phương án giải quyết đối với việc phân loại dữ liệu điểm phát triển công cụ gợi ý, tìm kiếm và gã pháp vỡ từng lỗ hổng bảo mật cụ thể trong gói giải pháp bảo mật.

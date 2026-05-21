@@ -1,0 +1,1 @@
+Đưa sản phẩm vào giỏ hàng: sau khi khách hàng tìm thấy sản phẩm ưng ý thì có thể đưa sản phẩm đó vào giỏ hàng. Tạ giỏ hàng khách hàng có thể tiến hành thay thế sản phẩm hiện có thành sản phẩm khác nếu nhu cầu thay đổi.

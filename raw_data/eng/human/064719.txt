@@ -1,0 +1,1 @@
+To deploy my navigation app, I used Xampp for the database and ran the server on my local machine Lenovo IdeaPad L340. I also ran the app on my Xiaomi Redmi Note 7 smartphone to simulate a real user environment. The deployment process was fairly straightforward and didn’t require any complex infrastructure.

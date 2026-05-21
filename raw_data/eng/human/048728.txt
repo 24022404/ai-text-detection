@@ -1,0 +1,1 @@
+The distribution’s smoothness is determined by the temperature T. A lower Tre sults in a heavier emphasis on rare classes with a small fcand a higher Tin a more uniform distribution. Therefore, with reasonable T, we have balanced class distribution in a batch.

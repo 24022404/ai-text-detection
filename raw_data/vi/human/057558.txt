@@ -1,0 +1,1 @@
+Trong Android Studio, hãy nhấp vào Tool (Công cụ) > SDK Manager (Trình quản lý SDK). Hộp thoại Preferences > Appearance Behavior System Settings > Android (Lựa chọn ưu tiên > Cài đặt hệ thống giao diện và hành v > SDK Android) sẽ mở ra.

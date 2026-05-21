@@ -1,0 +1,1 @@
+Giao diện Desktop hiện tại đang hoạt động ổn định với 3 kích cỡ màn hình là 1366x768, 1440x695, 1920x937. Hình 4.5, 4.6, 4.7, 4.8 là giao diện mockup và giao diện thực tế trên màn hình Desktop ở một và trang tiêu biểu trong hệ thống.

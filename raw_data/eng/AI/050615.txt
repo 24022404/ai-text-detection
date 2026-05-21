@@ -1,0 +1,9 @@
+Objective: Instance-level image translation aims to modify specific objects within a scene while preserving overall consistency and context. Existing image-to-image approaches often produce artifacts at object boundaries or fail to adapt fine-grained details across diverse instances.
+
+Methods: We introduce DA-GAN, a Deep Attention Generative Adversarial Network that integrates learnable attention modules into both generator and discriminator. An auxiliary segmentation branch produces per-instance attention maps, guiding the generator to focus transformation on target objects and the discriminator to evaluate realism at the object level. We further design an attention-guided adversarial loss and a reconstruction loss that jointly enforce fidelity to input structure and target style.
+
+Results: On multiple benchmarks—including urban scene translation, face attribute editing, and object-centric style transfer—DA-GAN outperforms state-of-the-art methods (e.g., CycleGAN, Pix2PixHD) in quantitative metrics (Fréchet Inception Distance, SSIM) and qualitative user studies. Ablation experiments confirm that attention modules significantly enhance boundary precision and reduce background distortion. DA-GAN demonstrates robustness to varying object scales and complex layouts, consistently delivering sharper, more realistic translations.
+
+Conclusion: By explicitly modeling instance-level attention within the GAN framework, DA-GAN advances the fidelity and controllability of image translation. This approach offers practical benefits for applications in augmented reality, content creation, and data augmentation for downstream vision tasks.
+
+Keywords: image translation, generative adversarial networks, attention mechanism, instance-level, deep learning.

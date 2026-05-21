@@ -1,0 +1,1 @@
+A. Arcur, “Restful api automated test case generation with ecomaster,” ACM Transactions on Software Engineering and Methodology (TOSEM) , vol. 28, no. 1, pp. 1–37, 2019.

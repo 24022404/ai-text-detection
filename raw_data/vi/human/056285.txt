@@ -1,0 +1,1 @@
+Tuy nhiên lý do tô sử dụng mạng trên là () mô hình nhẹ có ít tham số () chạy trên thiết bị Jetson Nano () tài nguyên sử dụng không vượt quá tài nguyên sẵn có của Jetson Nano.

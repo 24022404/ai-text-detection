@@ -1,0 +1,1 @@
+Hướng tiếp cận thay thế có thể được chọn là JavaScript. Java được chọn sử dụng trong đồ án này bở tính hướng đối tượng của nó, tốc độ cũng như sự ổn định được đảm bảo.

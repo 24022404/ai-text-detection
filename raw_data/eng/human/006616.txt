@@ -1,0 +1,1 @@
+Convolutional encoder and Attention-based encoder encode all input tokens simultan eously that brings a great advantage in speed. But allowing direct connections between states prevents Convolutional encoders and Attention-based encoders fromapprehending the sequence’s order. Therefore they have to use positional embedding to know the position of each token.

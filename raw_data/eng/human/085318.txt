@@ -1,0 +1,1 @@
+Mythril  - Ethereum’s official smart contract security vulnerability detection tool. Mythril can identify a wide range of security vulnerabilities and uses symbolic execution to investigate all potentially dangerous paths.

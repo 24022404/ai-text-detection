@@ -1,0 +1,1 @@
+OpenCV thrives due to its large, active community, which continually contributes, supports, and shares valuable knowledge about the library.

@@ -1,0 +1,1 @@
+Hậu điều kiện Nhân viên đã hoàn thành xác nhận tài khoản và có thể điăng nhập vào hệ thống.Luồng sự kện chính 1. Chủ cửa hàng truy cập trang đăng ký tài khoản nhân viên trên hệ thống.

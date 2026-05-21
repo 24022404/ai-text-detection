@@ -1,0 +1,1 @@
+Bước 1: Thêm thông tin đảng viên Bước 2: Xem thông tin hồ sơ đảng viên Bước 3: Thực hiện sửa, xóa các thông tin liên quan đến đảng viên 5.1.3 Kết quả đạt được Hình 5.1 là kết quả đạt được cho Gao dẫn thêm hồ sơ đảng viên.

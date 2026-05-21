@@ -1,0 +1,1 @@
+However, while outdoor navigation apps are highly effective for navigation inoutdoor environments, they are not well-suited for indoor navigation. This is because the GPS signal is weak or unavailable inside buildings, which makes it diffi cult to accurately determine the user’s location.

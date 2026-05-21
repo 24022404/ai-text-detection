@@ -1,0 +1,1 @@
+React Js ReactJs  là một thư viện JavaScript mã nguồn mở và miễn phí để xây dựng giao diện người dùng dựa trên các thành phần UI rêng lẻ, hay còn được gọi là các component. Nó được phát triển và duy trì bở Meta (trước đây là Facebook) và sở hữu cho mình một cộng đồng các nhà phát triển lên tới hàng triệu lập trình viên.

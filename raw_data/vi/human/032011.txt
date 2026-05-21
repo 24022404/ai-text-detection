@@ -1,0 +1,1 @@
+Đố vớ bài toán phân loại sẽ có các cách đánh gá như: () ma trận hỗn loạn(confusion matrix), () các đội vào cơ bản Accuracy, Precision and Recall, () F1 score.

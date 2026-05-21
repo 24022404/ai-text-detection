@@ -1,0 +1,1 @@
+The decoder works similarly to a language model as it predicts one token per time step. However, the decoder conditions its prediction on the source sequence.

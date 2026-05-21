@@ -1,0 +1,1 @@
+Controller : là phần của kiến trúc MVC điứng gữa Model và Vew, và nó chịu trách nhệm điều phố các tương tác gữa ha phần còn lạ. Controller nhận các yêu cầu từ người dùng thông qua Vew và sau đió gọ các phương thức phù hợp trên Model điể truy xuất và xử lý dữ lệu. Sau khi Model xử lý dữ lệu, Controller có thể chuyển dữ lệu này điến Vew điể hển thị kết quả cuố cùng cho người dùng.

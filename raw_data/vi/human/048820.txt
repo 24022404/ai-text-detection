@@ -1,0 +1,1 @@
+Hỗ trợ cho các giao thức và chuẩn web: PHP hỗ trợ các giao thức web như HTTP, FTP, IMAP và các chuẩn như XML, JSON, SOAP, và RESTful web services.

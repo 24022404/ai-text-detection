@@ -1,0 +1,1 @@
+Rust can be compiled to WebAssembly, allowing developers to bring both high performance and strong safety features of Rust into modern web applications.

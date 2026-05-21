@@ -1,0 +1,1 @@
+–Sự phân chia phân quyền chức năng và giao diện giữa quản trị viên và người dùng mạch lạc và chặt chẽ giúp quản lý hệ thống dễ dàng.

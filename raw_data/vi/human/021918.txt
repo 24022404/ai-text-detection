@@ -1,0 +1,1 @@
+–Quản trị viên có thể xuất điơn hàng.2.2.2.9 Bểu đồ usecase phân rã cho chức năng Khách hàng xem sản phẩm Hình 2.10: Bểu đồ usecase phân rã cho chức năng Khách hàng xem sản phẩm ➢Mô tả usecase phân rã cho chức năng Khách hàng xem gỏ hàng:

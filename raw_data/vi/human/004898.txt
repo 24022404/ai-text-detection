@@ -1,0 +1,1 @@
+Bí thư/ nhân sự điền thông tin đăng nhập và nhấn “Đăng nhập” 2. Hệ thống xử lý thông tin đăng nhập 3. Hệ thống điều hướng người dùng vào trang tương ứng Luồng sự kiện con:

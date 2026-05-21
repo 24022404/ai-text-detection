@@ -1,0 +1,9 @@
+This study presents an innovative approach to bi-level image thresholding using Kaniadakis entropy, a generalized form of entropy that has shown promise in various statistical mechanics applications. The research aims to enhance image processing techniques by providing a more effective method for distinguishing object and background regions in grayscale images.
+
+Methods: The proposed method employs Kaniadakis entropy to maximize information content between the object and background, thus determining the optimal threshold value. This approach differs from traditional methods by utilizing the non-extensive properties of Kaniadakis entropy, allowing it to adapt more flexibly to diverse image characteristics. Extensive testing was conducted using a variety of standard image datasets to evaluate the method's effectiveness and robustness.
+
+Results: The experimental results demonstrate that the Kaniadakis entropy-based thresholding method significantly outperforms traditional techniques such as Otsu's method and Kapur's entropy in terms of segmentation accuracy and computational efficiency. The proposed technique consistently yielded superior results in maintaining the integrity of object boundaries and minimizing segmentation errors across different types of images.
+
+Conclusion: The integration of Kaniadakis entropy into bi-level image thresholding offers a powerful tool for image segmentation tasks. Its ability to adapt to diverse image features while maintaining high accuracy positions it as a valuable enhancement over existing methods. This work contributes to the field by providing an effective alternative to classic thresholding techniques, with potential applications in medical imaging, remote sensing, and any domain requiring precise image analysis.
+
+Keywords: Bi-level image thresholding, Kaniadakis entropy, image segmentation, grayscale images, information content, computational efficiency.

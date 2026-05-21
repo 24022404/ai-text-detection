@@ -1,0 +1,1 @@
+Em chọn sử dụng Laravel Framework để xây dựng hệ thống vì Laravel là một PHP framework mã nguồn mở miễn phí, hỗ trợ phát triển các ứng dụng web dựa trên mô hình Model – View – Controller (MVC)  dễ quản lý và phát triển hệ thống.

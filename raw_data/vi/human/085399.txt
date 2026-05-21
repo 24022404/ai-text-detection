@@ -1,0 +1,1 @@
+Redux là một thư viện dành cho Javascript có nhiệm vụ tạo ra một lớp quản lý mọ trạng thái của một website. Lý do em lựa chọn Redux kết hợp với ReactJS bởi vì Redux có thể khắc phục điểm yếu của ReactJS.

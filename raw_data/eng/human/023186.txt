@@ -1,0 +1,1 @@
+Auth: acts as a dedicated container for all API-related logic concerning userauthentication and registration within the system. It encompasses functionali ties for handling user login, registration, and related authentication processes.

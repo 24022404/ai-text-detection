@@ -1,0 +1,1 @@
+Proposing a novel FL algorithm to improve the convergence in FL basing on the dataset’s impurity factor : Building upon the insights gained from the evaluation of two traditional FL algorithms, the thesis’s second significant contribution lies in the proposal and development of a novel FL algorithm.

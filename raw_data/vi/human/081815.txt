@@ -1,0 +1,1 @@
+Sử dụng nhiều lần: Các thành phần của React có thể được sử dụng nhiều lần trong các trang web và ứng dụng khác nhau.

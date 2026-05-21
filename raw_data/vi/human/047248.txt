@@ -1,0 +1,1 @@
+Đố với các máy chủ cần được kết nối lỏng lẻo và không đáng tin cậy hơn mức cho phép phân cụm, RabbitMQ sẽ cung cấp mô hình liên kết.

@@ -1,0 +1,1 @@
+Nginx also provides caching functions for both static files (JS, CSS and im ages) and HTTP APIs. This caching functionality serves two important purposes:

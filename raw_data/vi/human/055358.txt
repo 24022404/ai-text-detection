@@ -1,0 +1,1 @@
+Tiếp theo, em sử dụng gram và gram trong thư viện nltk điểm huấn luyện tạo ra hi mô hình gram và gram.

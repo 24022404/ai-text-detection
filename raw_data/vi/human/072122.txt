@@ -1,0 +1,1 @@
+Biểu đồ phân bố lưu lượng truy cập theo khung giờ Biểu đồ cột Co ha loại cột tương ứng với hai loại thiết bị PC và MB, cho biết người dùng thường đọc báo điện tử vào khung giờ nào trong ngày, xu hướng đó phụ thuộc vào thiết bị sử dụng như thế nào .

@@ -1,0 +1,1 @@
+Những năm gần đây, các mô hình ngôn ngữ được đào tạo trước đã rất phổ biến trong lĩnh vực xử lý ngôn ngữ tự nhiên, một trong những mô hình đào tạo trước phổ biến nhất là BERT. Chính vì vậy Facebook đã công bố một dự án kế thừa lạ kiến trúc và thuật toán của mô hình BERT có tên là RoBERTa  được giới thiệu giữa năm 2019.

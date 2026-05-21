@@ -1,0 +1,1 @@
+A comprehensive structured report merges findings from all analysis stages, highlights severity levels, delivers practical recommendations, and offers a concise summary of the application's overall security posture for informed decision-making.

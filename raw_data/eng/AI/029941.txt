@@ -1,0 +1,1 @@
+The user can access a comprehensive report on the application's TLS/SSL implementation that highlights potential vulnerabilities, identifies insecure configurations, and provides recommendations to enhance security.

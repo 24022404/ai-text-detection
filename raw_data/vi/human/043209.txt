@@ -1,0 +1,1 @@
+Quản lý đơn hàng: các đơn hàng của khách hàng sau khi thực hiện sẽ được quản trị viên xem các thông tn điã điược cung cấp cũng như chỉnh sửa trạng thái hiện tại của đơn hàng.

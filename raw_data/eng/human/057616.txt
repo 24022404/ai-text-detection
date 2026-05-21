@@ -1,0 +1,1 @@
+This may involve leveraging transfer learning, unsupervised learning, or artificial data synthesis methods to generate diverse data for domains with limited resources.

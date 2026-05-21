@@ -1,0 +1,1 @@
+Performance: MongoDB is designed for high-performance applications. It uti lizes memory-mapped files and indexes for efficient data access, enabling fast read and write operations, which is crucial in gaming applications that require low latency and smooth gameplay experiences.

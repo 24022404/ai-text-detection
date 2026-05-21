@@ -1,0 +1,1 @@
+At the same time, the project also involves building a Pixel Platformer game, not only to validate the usability of the libraries but also to create a complete game that allows players to experience a platformer in the pixel art style. This game aims to deliver an authentic platformer gameplay experience with the charm of pixel art graphics.

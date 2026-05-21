@@ -1,0 +1,1 @@
+[Only]. Available:  html (visited on 02/20/2023).A.1 Đặc tả use case "Đăng nhập" Bảng A.1: Đặc tả use case "Đăng nhập" Mã use case: UC005 Tên Use Case: Đăng nhập Tạo bởi: QuyenPV Ngày tạo: 01/03/2023 Tác nhân Quản trị viên Mô tả: Quản trị viên truy cập vào tên miền của hệ thống, sau đó nhập thông tin đăng nhập.

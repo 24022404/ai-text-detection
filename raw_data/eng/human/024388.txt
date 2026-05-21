@@ -1,0 +1,1 @@
+Lack of clarity in architecture: If data is transferred directly between layers,changing the data structure or adding new properties can affect the entire applica tion and make maintenance and development difficult.

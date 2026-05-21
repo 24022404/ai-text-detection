@@ -1,0 +1,1 @@
+dX Above equalities hold because the entries on the main diagonal of a correlationmatrix are 1’s. Now, consider my proposed loss L(r) FD, we have:

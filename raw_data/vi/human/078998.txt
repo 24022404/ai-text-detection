@@ -1,0 +1,1 @@
+batch_size = 64: Số lượng bước thờ gắn được sử dụng cho một lần tính toán gradient trong bước tối ưu hoá policy.

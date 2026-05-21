@@ -1,0 +1,1 @@
+An Eulerian cycle that starts at vertex 000 and uses edge symbols 0,1,0,1,0,0,1,1,1,0,1,1,0,0,0 forms a de Bruijn sequence of order 4. Prepending 000 yields an acyclic sequence for analysis.

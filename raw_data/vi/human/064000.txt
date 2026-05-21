@@ -1,0 +1,1 @@
+() Dễ dàng quản lý: Mỗ Microservice có thể được quản lý độc lập, vì vậy các lỗi xảy ra trong một Microservice không ảnh hưởng đến toàn bộ hệ thống. Việc quản lý và bảo trì cáp Micro Services trở nên dễ dàng hơn và hiệu quả hơn.

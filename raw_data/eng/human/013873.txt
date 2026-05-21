@@ -1,0 +1,1 @@
+The ability to perform inventory and empty the warehouse of products (for the allocated ticket) can be seen if the user is logged in as a warehouse employee, such as the person in charge of creating the slip, the supervisor, or the accountant.

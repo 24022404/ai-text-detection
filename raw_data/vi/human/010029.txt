@@ -1,0 +1,1 @@
+Model – tập hợp các đối tượng và thao tác xử lý dữ liệu của ứng dụng. Nó chịu trách nhiệm lưu trữ và truy xuất dữ liệu, và cung cấp các phương thức để thực hiện các thao tác trên dữ liệu đó.

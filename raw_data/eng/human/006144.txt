@@ -1,0 +1,1 @@
+After the cluster has been created, open the Cloud Shell. To working on the clus ter, you must set the current project name and connect to the cluster. For example, connect to the ‘linhpn‘ cluster on the project ‘bkc-learning-hub‘:

@@ -1,0 +1,1 @@
+F. Zhu, Z. Cheng, X.-y. Zhang andC.-l. Liu, “Class-incremental learning via dual augmentation,” inAdvances in Neural Information Processing Systems M. Ranzato, A. Beygelzimer, Y. Dauphin, P. Liang andJ. W. Vaughan, editors ,volume 34, Curran Associates, Inc., 2021, pages 14 306–14 318.

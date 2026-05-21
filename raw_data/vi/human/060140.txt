@@ -1,0 +1,1 @@
+AHP là một phương pháp định lượng, dùng để sắp xếp các phương án quyết định và chọn một phương án thỏa mãn các tiêu chí cho trước. Tôi sẽ thực hiện đầu tên là xác định các tiêu chí trong quyết định lựa chọn nhà cung cấp dịch vụ đám mây.

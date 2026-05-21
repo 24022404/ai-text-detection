@@ -1,0 +1,1 @@
+Để xây dựng một ứng dụng web hoàn toàn hoạt động hiệu quả, các mã code và thành phần phả được vết và kiểm tra một cách cẩn thận. Code phả rõ ràng và đơn giản điểm đọc và dễ hiểu. Qua đó cần chọn lựa các thư viện và công cụ thích hợp với dự án.

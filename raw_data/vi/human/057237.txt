@@ -1,0 +1,1 @@
+Chương trình điều khiển (driver program) phả lắng nghe và tiếp nhận các kết nối biến từ các trình thực thi của nó trong suốt thờ gan tồn tại. Như vậy, trình điều khiển phả có địa chỉ mạng từ các nút công nhân (worker node).

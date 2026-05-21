@@ -1,0 +1,1 @@
+Ứng dụng OutSystems bao gồm các mô đun mà Service Studio khởi động từ mẫu ứng dụng bạn chọn. Nhờ các mẫu ứng dụng, các ứng dụng có nhiều yếu tố được xác định trước giúp bạn tiết kệ thờ gắn phát triển, như màn hình đăng nhập, chủ đề, bố cục... Có 3 loại mẫu ứng dụng sau:

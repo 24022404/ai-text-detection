@@ -1,0 +1,1 @@
+User: Nơ kha báo các trường trong bảng users, mỗ điố tượng của struct này thể hiện 1 người dùng.

@@ -1,0 +1,1 @@
+Together, these sub-tasks form the Path Finding task, which is a critical compo nent of the ARNav app. The task was designed to provide accurate and efficientindoor navigation, and to support the AR features of the app. In the three subsec tions, we will dive into how each is implemented.

@@ -1,0 +1,1 @@
+Convex Hull Trong hình học tính toán, bao lồi (convex hull) của một tập điểm là tập lồi nhỏ nhất (theo diện tích, thể tích, . . . ) mà tất cả các điểm điều nằm trong tập gió.

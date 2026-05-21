@@ -1,0 +1,1 @@
+Từ biểu đồ Cmnd Zen phác thảo chức năng ở giai đoạn điầu tên sẽ cho biết số vòng lặp và các chức năng của hệ thống cần thực hiện tại mỗ vòng lặp.

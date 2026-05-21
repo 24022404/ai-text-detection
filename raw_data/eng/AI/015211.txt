@@ -1,0 +1,1 @@
+PostgreSQL's open source code enables users to freely utilize, modify, and implement the database for various business purposes without licensing restrictions.

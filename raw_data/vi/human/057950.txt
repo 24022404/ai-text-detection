@@ -1,0 +1,1 @@
+Thiết kế ch tết gó Hình 4.3: Thiết kế lớp gó gao vện Tầng giao diện bao gồm các thành phần: Đăng nhập, danh sách món ăn, quản lý điơn hàng , quản lý người dùng, điặt hàng, đăng kí, gỏ hàng, quản lý thực điơn, quản lý thực điơn, quản lý chỗ ngồ, doanh thu. Các thành phần này được dựa trên giao diện thực tế người dùng trả nghệm, nhóm vào lớp giao diện.

@@ -1,0 +1,1 @@
+Multiplayer Perceptron A perceptron calculates a weighted sum of its inputs, forming a hyperplane, and use a threshold to classify data. However, it cannot separate data that is not ar separable. This is a significantly limitation, as the XOR function cannot be separated linearly.

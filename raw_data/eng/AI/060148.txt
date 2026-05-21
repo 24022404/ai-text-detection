@@ -1,0 +1,1 @@
+Chapter 3 Methodology covers the system’s design, addressing structural and behavior modeling, overview architecture, as well as the design of classes, database, and user interface.

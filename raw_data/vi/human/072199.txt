@@ -1,0 +1,1 @@
+Use Case Manage Applicant Hình 4.7: Biểu đồ thiết kế cho tết gói use case Manage Apple tHình 4.7 mô tả tương tác giữa các package để thực hiện chức năng quản lý ứng vên.

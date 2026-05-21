@@ -1,0 +1,1 @@
+Việc triển khai xây dựng ứng dụng quản lý bán hàng bước đầu đã đạt được những thành quả nhất định. Ứng dụng điã điược xây dựng thành công, đáp ứng được nhu cầu của bài toán (hỗ trợ các nhà quản lý có thể quản lý thông tin của doanh nghiệp một cách dễ dàng).

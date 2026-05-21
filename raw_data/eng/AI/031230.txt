@@ -1,0 +1,1 @@
+Filters such as CustomAuthorizationFilter are injected to handle token decoding, ensuring secure data access within the application. Meanwhile, class dependencies like PostRepository are injected into PostService, and all repository classes extend JpaRepository to enable concise and efficient database queries.

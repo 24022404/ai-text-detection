@@ -1,0 +1,1 @@
+Nhấn Enter trên bàn phím.  Hiển thị danh sách sản phẩm hợp lệ với từ khóa tìm kiếm.  Hiển thị danh sách sản phẩm hợp lệ với từ khóa tìm kiếm.  Đạt 4.4.3 Chức năng đăng ký tài khoản Bảng 4.5: Kiểm thử chức năng đăng ký tài khoản Test case Quy trình thực hiện  Kết quả mong đợi  Kết quả đạt được  Trạng thái TC01  1. Chọn đăng ký tài khoản.

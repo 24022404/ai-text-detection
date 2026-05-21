@@ -1,0 +1,1 @@
+Dữ lệu được lưu trong MongoDB được gọi là các BSON document. Các dữ liệu kiểu BSON ở đây có thể dạng chuỗi, mảng, document khác, hoặc mảng document. . . Dưới đây là ví dụ một dữ lệu kiểu JSON:

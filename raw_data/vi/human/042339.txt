@@ -1,0 +1,1 @@
+Mô tả giải pháp Công nghệ Flutter được sử dụng nhằm mục đích có thể chạy ứng dụng trên nhiều nền tảng từ web, desktop cho điến mobile app.Spring boot được lựa chọn bởi vì thờ gần xây dựng ứng dụng nhanh, dễ dàng khi không phải cấu hình server .

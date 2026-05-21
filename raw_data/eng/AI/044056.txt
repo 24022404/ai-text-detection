@@ -1,0 +1,1 @@
+Odoo not only stores and integrates data but also excels at presenting comprehensive and detailed information for businesses, enabling them to efficiently manage product inventory levels on both a daily and monthly basis. Additionally, Odoo provides visibility into upcoming shipments, even those not yet fully recorded in the system.

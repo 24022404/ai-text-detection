@@ -1,0 +1,1 @@
+Mục đích cuối cùng là tạo ra hàm số f hiệu quả để vớ dữ liệu mới được đưa vào mô hình vẫn tìm được nhãn kết quả tương ứng. Thuật toán học có giám sát thường được chia thành hai loại nhỏ hơn là: phân loại (Classification) và hồi quy (Regression).

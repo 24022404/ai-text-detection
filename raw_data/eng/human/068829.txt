@@ -1,0 +1,1 @@
+The primary goal of the FL process is to minimize the dissimilarity between the globally aggregated model and the local models distributed across multiple decentralized nodes. This is achieved through the formulation of an objective function, F(w), which is commonly expressed as the sum (or average) of local objectives from each participating node:

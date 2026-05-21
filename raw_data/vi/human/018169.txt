@@ -1,0 +1,1 @@
+Extensions: Flask có một cộng đồng phong phú với nhiều extension cho các tính năng khác nhau như xác thực người dùng, kết nối cơ sở dữ liệu, bảo mật, và nhiều tính năng mở rộng khác.

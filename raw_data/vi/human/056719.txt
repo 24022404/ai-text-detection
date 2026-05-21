@@ -1,0 +1,1 @@
+Laravel là một framework PHP mã nguồn mở và mễn phí, được tạo nên bở Taylor Otwell điể lập trình các ứng dụng web theo kiến trúc ModelVewController.

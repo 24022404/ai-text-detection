@@ -1,0 +1,1 @@
+Kh tấn công SQL Injection và SQL Injection thành công, kẻ tấn công có thể thực thi các hành động không mong muốn như đọc hoặc thay đổi các thông tin trong cơ sở dữ liệu, thực hiện các truy vấn lệnh bất hợp pháp, hoặc thậm chí truy cập được vào các thông tin nhạy cảm.

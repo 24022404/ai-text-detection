@@ -1,0 +1,9 @@
+Objective: Accurate, fine-grained urban traffic flow estimation is critical for intelligent transportation systems, yet existing methods often overlook the inherent structure of road networks. This paper proposes a road network guided framework to improve spatial resolution and prediction accuracy in traffic flow inference.  
+
+Methods: We introduce a novel Graph Convolutional Recurrent Network (GCRN) that explicitly incorporates road topology, link connectivity, and segment attributes. The model constructs a directed graph where nodes represent road segments and edges capture connectivity and travel direction. Spatial dependencies are modeled via graph convolutions over the network, while temporal dynamics are learned through gated recurrent units (GRUs). To handle data sparsity, we integrate a network-aware interpolation module that leverages neighboring segment flows and road hierarchy.  
+
+Results: Experiments on two large-scale urban datasets demonstrate that our approach outperforms state-of-the-art baselines in mean absolute error (MAE) and root mean squared error (RMSE) by up to 18% and 22%, respectively. Fine-grained analysis shows significant gains in congested and data-scarce areas. Ablation studies confirm the effectiveness of both the road-guided graph structure and the interpolation module.  
+
+Conclusion: By embedding road network characteristics into spatio-temporal learning, our method delivers more precise and robust traffic flow estimates. This advance facilitates real-time traffic management, route planning, and urban mobility analysis, offering a scalable solution for smart city applications.  
+
+Keywords: Traffic Flow Inference, Road Network, Graph Convolutional Networks, Spatio-Temporal Modeling, Urban Mobility.

@@ -1,0 +1,1 @@
+Child classes can use the BeforeAdd, AfterAdd, and AsyncAfterAdd methods tocustomize the Add record flow. These approaches assist to dramatically boost de velopment speed, when a fully new business requirement can be satisfied simply by customizing and overwriting methods.

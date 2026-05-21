@@ -1,0 +1,9 @@
+Objective: Accurate near-field distance estimation around vehicles is critical for advanced driver-assistance systems (ADAS) but remains challenging due to severe distortion in surround-view fisheye imagery and scarcity of annotated depth maps. This paper presents SVDistNet, a novel self-supervised learning framework designed to estimate per-pixel distances in the 0–10 m range using only four surround‐view fisheye cameras.
+
+Methods: SVDistNet employs a multi-branch convolutional backbone that processes each fisheye view independently before fusing features in a shared representation space. Self-supervision arises from geometric consistency across overlapping fields of view: reprojection loss enforces agreement between predicted distances and relative camera poses, while a photometric reconstruction loss refines fine details. A soft-distortion module explicitly models fisheye lens effects, enabling the network to learn spatially varying pixel mappings without requiring explicit calibration labels.
+
+Results: Experiments on both synthetic and real-world datasets demonstrate that SVDistNet achieves a mean absolute error of 0.12 m within 5 m and 0.25 m within 10 m—improving over state-of-the-art supervised and unsupervised baselines by up to 30%. Qualitative tests confirm robust performance under varying illumination and occlusion conditions.
+
+Conclusion: By eliminating the need for dense ground-truth distances and leveraging multi-view geometry, SVDistNet offers a practical, scalable solution for near-field perception in automotive applications. Its self-supervised design paves the way for continual learning on diverse deployment vehicles. Potential extensions include integration with semantic segmentation and dynamic object tracking for full-scene understanding.
+
+Keywords: Self-Supervised Learning, Distance Estimation, Fisheye Cameras, Surround View, Automotive Perception.

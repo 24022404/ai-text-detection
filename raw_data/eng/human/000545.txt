@@ -1,0 +1,1 @@
+The first dataset, VMDS, is a valuable collection of multi-document data gathered from the Vietnamese newspaper website baomoi.com. It comprises 600 documents thoughtfully categorized into 200 topics, offering a diverse and informative set for analysis.

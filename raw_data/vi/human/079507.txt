@@ -1,0 +1,1 @@
+API Gateway được sử dụng ở đây là King. Kong là một dịch vụ API Gateway mã nguồn mở được sử dụng để quản lý và kiểm soát lưu lượng API trong một hệ thống phân tán. Nó cung cấp một cách tiếp cận tập trung cho việc quản lý và bảo mật các APP, đồng thờ cung cấp các tính năng bảo mật, quản lý, mở rộng và theo dõi hiệu suất.

@@ -1,0 +1,7 @@
+Phương pháp màng bao dữ liệu DEA (Data Envelopment Analysis) đã trở thành một công cụ quan trọng trong đánh giá hiệu quả quản lý vận hành hệ thống. Cơ sở khoa học của phương pháp này dựa trên nguyên tắc so sánh hiệu quả giữa các đơn vị sản xuất khác nhau thông qua việc phân tích dữ liệu về đầu vào và đầu ra.
+
+Phương pháp DEA cho phép đánh giá hiệu quả của các đơn vị sản xuất bằng cách so sánh mức độ hiệu quả của chúng trong việc sử dụng các nguồn lực và tạo ra các sản phẩm. Qua đó, có thể xác định được các đơn vị sản xuất hiệu quả cao và hiệu quả thấp, từ đó đề xuất các biện pháp cải thiện hiệu quả quản lý vận hành hệ thống.
+
+Cơ sở khoa học của phương pháp DEA bao gồm các khái niệm như hiệu suất sản xuất, hiệu suất sử dụng nguồn lực, và hiệu suất tạo ra sản phẩm. Phương pháp này cũng dựa trên các giả định về sự hiện diện của các nguồn lực hạn chế và sự cạnh tranh giữa các đơn vị sản xuất.
+
+Phương pháp DEA đã được ứng dụng rộng rãi trong nhiều lĩnh vực như quản lý tài nguyên, quản lý sản xuất, và quản lý dịch vụ. Qua đó, đã giúp các tổ chức và doanh nghiệp đánh giá hiệu quả quản lý vận hành hệ thống một cách chính xác và hiệu quả, từ đó đề xuất các biện pháp cải thiện hiệu quả quản lý vận hành hệ thống.

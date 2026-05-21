@@ -1,0 +1,1 @@
+Để giải quyết việc tìm kiếm và lựa chọn sản phẩm gợ ý cho người dùng, đồ án điã tếp cận thông qua việc xây dựng module gợi ý sản phẩm trên nền tảng Magento.

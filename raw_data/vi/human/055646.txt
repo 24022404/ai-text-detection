@@ -1,0 +1,1 @@
+. Dựa vào dữ liệu truy cập mạng của khách hàng để xây dựng chức năng thống kê  phân tích dữ liệu hoặc hệ gợi ý, điểm hỗ trợ người sở hữu dịch vụ mạng có thể nắm bắt xu hướng và đưa ra những thay đổi kịp thời để mang lại trải nghiệm tốt nhất cho khách hàng.

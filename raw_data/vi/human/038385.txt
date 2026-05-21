@@ -1,0 +1,1 @@
+ExpressJs được sử dụng rộng rãi trong cộng đồng Nodejs và là một phần quan trọng của các ứng dụng web và API phổ biến, bao gồm cả các ứng dụng web thương mại điện tử, ứng dụng di động và các ứng dụng IoT (Internet of Things).

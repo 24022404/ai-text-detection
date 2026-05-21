@@ -1,0 +1,9 @@
+Objective: Video object segmentation typically demands extensive frame‐level annotations, posing significant labeling burdens. This work addresses the problem of one-shot weakly supervised video object segmentation, where only a single annotated frame and coarse weak labels (e.g., bounding boxes or scribbles) are provided for a target object, and the goal is to propagate accurate pixel‐level masks across all video frames.
+
+Methods: We propose a dual‐module framework combining a one‐shot adaptation network and a spatiotemporal propagation network. The adaptation module aligns the feature space of the annotated frame with subsequent frames through metric learning, while the propagation module refines object boundaries using a lightweight convolutional recurrent architecture guided by weak cues. A novel consistency loss enforces agreement between bounding‐box supervision and predicted masks, and an attention‐based memory bank stores representative object features to handle appearance changes and occlusions over time.
+
+Results: Experiments on benchmark datasets (DAVIS 2017 and YouTube‐Objects) demonstrate that our approach outperforms existing weakly supervised methods by 8–12% in mean Intersection‐over‐Union (mIoU) and achieves near fully supervised accuracy with only one mask annotation. Ablation studies confirm the effectiveness of the memory bank and consistency loss in improving temporal coherence and segmentation precision.
+
+Conclusion: Our one‐shot weakly supervised framework substantially reduces annotation costs while delivering high‐quality video object masks. This approach has strong potential for scalable video analysis applications in surveillance, robotics, and content editing.
+
+Keywords: one-shot learning, weak supervision, video object segmentation, spatiotemporal propagation, memory network.

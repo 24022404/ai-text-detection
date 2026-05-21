@@ -1,0 +1,1 @@
+Trong phần này, em sẽ trình bày về mô hình hóa cấu trúc của một số ca sử dụng chính trong hệ thống.

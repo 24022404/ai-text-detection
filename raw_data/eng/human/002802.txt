@@ -1,0 +1,1 @@
+Admin : A privileged actor in the system. The admin’s responsibilities include managing user accounts (e.g., adding, updating, or deactivating accounts),monitoring system performance, reviewing and resolving reported issues, managing permissions, configuring system settings, and ensuring the smooth op eration of the application.

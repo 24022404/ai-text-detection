@@ -1,0 +1,1 @@
+X. Li, J. Zhang andC. Zong, “Towards zero unknown word in neural machine translation.,” inIJCAI S. Kambhampati, editor , IJCAI/AAAI Press, 2016, pages 2852–2858, ISBN: 978-1-57735-771-1. url:

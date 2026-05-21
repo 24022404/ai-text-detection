@@ -1,0 +1,1 @@
+Chọn số lượng món ăn muốn hển thị trên màn hình.Hển thị giao diện menu theo số lượng người dùng yêu cầu TC003 Kểm tra chức năng xóa món ăn1.Ấn vào mục menu trên thanh công cụ.

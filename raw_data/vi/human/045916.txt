@@ -1,0 +1,1 @@
+Hệ thống cung cấp các chức năng quản lý nhà hàng cho người bán cùng với chức năng thống kê doanh thu theo mốc thời gian cụ thể.

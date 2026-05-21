@@ -1,0 +1,1 @@
+Props: Là các thuộc tính của một thành phần, cho phép lập trình viên điều chỉnh tính năng và gao vện của thành phần đió. Ví dụ, thuộc tính style được sử dụng để định dạng và trình bày một thành phần.

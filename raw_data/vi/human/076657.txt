@@ -1,0 +1,1 @@
+4a. Hệ thống dừng record video, xác nhận người dùng có muốn lưu lạ vdeo điã record không.3b. Ngườ dùng chọn giờ cuộc gọi video.

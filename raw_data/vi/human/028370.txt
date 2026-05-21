@@ -1,0 +1,1 @@
+Sử dụng Method Channel, em đã thiết lập một kết nối trực tiếp giữa lớp Flutter và mã Java/Kotlin trong nền tảng Android. Điều này cho phép chúng tôi gọi các hàm Java/Kotlin từ Flutter và truyền dữ lệu giữa hai mô trường một cách dễ dàng.

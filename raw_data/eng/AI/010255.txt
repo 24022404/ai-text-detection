@@ -1,0 +1,9 @@
+Objective: Effective video retrieval requires modeling both the spatial content of individual frames and their temporal dynamics. Existing methods often treat frame features independently or aggregate them with simple pooling, limiting their ability to capture complex temporal relationships. 
+
+Methods: We introduce a Graph Based Temporal Aggregation (GBTA) framework that represents each video as a dynamic graph, where nodes correspond to frame-level embeddings and edges encode temporal dependencies. A lightweight graph neural network (GNN) propagates information across this structure, learning context-aware node representations. These enriched embeddings are then fused into a compact video-level descriptor using an attention-guided pooling strategy. During training, a triplet loss encourages videos with similar semantics to cluster in the embedding space, while dissimilar pairs are pushed apart.
+
+Results: Evaluations on two standard video retrieval benchmarks—MSR-VTT and ActivityNet—demonstrate that GBTA outperforms state-of-the-art methods by 4.2% and 3.7% in mean Average Precision (mAP), respectively. Ablation studies confirm the effectiveness of the graph construction and attention pooling steps, showing consistent gains when modeling longer-range temporal relations.
+
+Conclusion: GBTA offers a novel and scalable approach for integrating spatiotemporal context in video retrieval. By leveraging graph structures to aggregate temporal features, our method delivers more discriminative embeddings and robust retrieval performance. Potential applications include content-based search in large video archives, recommendation systems, and multimedia indexing. 
+
+Keywords: video retrieval, temporal aggregation, graph neural network, attention pooling, representation learning, video embedding.

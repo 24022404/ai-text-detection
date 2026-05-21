@@ -1,0 +1,1 @@
+StaticAnalysis_recentscanresult: I just need to get a list of recent scans without needing to know additional details about the analyzed files or any analysis results.

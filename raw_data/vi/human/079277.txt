@@ -1,0 +1,1 @@
+Thành phần OS Clent bao gồm 7 gó chính: () Core, () Models, () Network, (v) Assets, (v) Vew, (v) Other, (v) Supportng fle:

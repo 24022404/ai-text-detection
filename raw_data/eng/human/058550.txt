@@ -1,0 +1,1 @@
+Al Hatamzadeh et al. “Unetr: Transformers for 3d medcal mage segmen taton”. In: Proceedngs of the IEEE/CVF wnter conference on applcatons of computer vson . 2022, pp. 574–584.

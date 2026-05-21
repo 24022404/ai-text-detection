@@ -1,0 +1,1 @@
+Tố ưu hóa quá trình xử lý giao dịch để tăng tốc độ xử lý, tăng trải nghiệm người dùng.

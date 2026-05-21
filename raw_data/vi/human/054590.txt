@@ -1,0 +1,1 @@
+Máy có thể hiểu được thông tin trên Web: Web hiện hành chỉ cho con người đọc chứ không dành cho máy hiểu. Semantic Web tạo ra Web mà cả người và máy điều có thể hiểu .

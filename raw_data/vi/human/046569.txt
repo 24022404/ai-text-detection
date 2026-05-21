@@ -1,0 +1,1 @@
+Tếp điến, điể thử nghệm và kểm tra các điầu API điến các thành phần lưu trữ như Apache Drud và Apache Kafka, nền tảng API Postman đióng va trò tạo các yêu cầu và lấy kết quả trả về.

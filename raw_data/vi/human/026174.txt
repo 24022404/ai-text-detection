@@ -1,0 +1,1 @@
+Lý do lựa chọn Torch và Pytorch tích hợp nhiều API mạnh mẽ giúp việc huấn luyện mô hình trở nên dễ dàng hơn.

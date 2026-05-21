@@ -1,0 +1,1 @@
+RESTful API thiết kế theo mô hình client server (khách chủ), có sự tách rời rêng biệt giữa các thành phần của hệ thống, điều này cho phép quá trình phát triển cũng như thay đổi, cập nhật các thành phần của hệ thống độc lập với nhau.

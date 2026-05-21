@@ -1,0 +1,1 @@
+Kích hoạt: Không Luồng sự kiện chính:1. Khách hàng truy cập vào phần Unfy Data ; 2. Khác hàng làm theo hướng dẫn và nhúng đoạn code có tác dụng gì d của người dùng về server ; 3. Hệ thống xác định những người dùng sau khi đăng nhập website là cùng 1 người dùng.

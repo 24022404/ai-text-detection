@@ -1,0 +1,1 @@
+The methodology begins by parsing the app’s AndroidManifest.xml file to identify activities with the exported attribute set to true, indicating external accessibility.

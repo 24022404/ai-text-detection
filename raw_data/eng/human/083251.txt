@@ -1,0 +1,1 @@
+A risk assessment based on the type and visibility of the sensitive in formation (e.g., high risk for exposed API keys, medium risk for email addresses).

@@ -1,0 +1,1 @@
+Vulnerability Detection Mechanisms Although there were many vulnerability detection tools for smart contracts, these tools cannot achieve good accuracy while they require high processing time.

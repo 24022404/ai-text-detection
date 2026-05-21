@@ -1,0 +1,1 @@
+Công nghệ này kết hợp với cơ chế one way data binding – luồng dữ liệu một chiều từ parent điện chlb thông qua props, giúp việc kiểm soát và sửa lỗ trở nên dễ dàng hơn. Với những đặc điểm này, ReactJS rất phù hợp để xây dựng các ứng dụng lớn mà dữ liệu thay đổi liên tục theo thời gian.

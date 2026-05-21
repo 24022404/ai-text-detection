@@ -1,0 +1,1 @@
+Bộ lập lịch (scheduler), xử lý cả việc kích hoạt quy trình công việc theo lịch trình và giữ nhiệm vụ cho trình thực thi điểm chạy.

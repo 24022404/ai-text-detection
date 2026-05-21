@@ -1,0 +1,1 @@
+P. E. Compeau, P. A. Pevzner, and G. Tesler, “How to apply de bruijn graphs to genome assembly,” Nature biotechnology , vol. 29, no. 11, pp. 987–991, 2011.

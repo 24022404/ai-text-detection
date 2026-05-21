@@ -1,0 +1,1 @@
+DynamoDB : là cơ sở dữ lệu NoSQL nhanh và linh hoạt. DynamoDB lưu trữ dữ lệu dưới dạng key value hoặc document, tốc độ truy xuất cao vớ tính mở rộng lớn.

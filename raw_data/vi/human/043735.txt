@@ -1,0 +1,1 @@
+Khó để liên kết trực tiếp thông tin người dùng trong cơ sở liệu và mạng mạng chuỗi khố. Ví dụ: Mỗi lần kiểm tra người dùng A có sở hữu NFT X hay không, chúng ta điều cần phải tương tác với mảng chuỗi khố bằng cách gõ các hàm ở hợp đồng thông minh của bộ sưu tập mà NFT đó đang được lưu trữ.

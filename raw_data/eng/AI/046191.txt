@@ -1,0 +1,9 @@
+Objective: Ensuring that deep neural networks (DNNs) maintain reliable performance under adversarial perturbations is critical for video-based applications such as autonomous driving, surveillance, and human–computer interaction. This paper introduces the first framework providing formal robustness guarantees for DNNs operating on video inputs. 
+
+Methods: We extend randomized smoothing certification from images to video sequences by modeling perturbations across both spatial and temporal dimensions. Our approach, Temporal Smoothness Certification (TSC), constructs a probabilistic certificate based on aggregating frame‐wise Gaussian noise and enforcing a temporal consistency constraint. We derive closed‐form bounds on the maximum allowable perturbation per frame that preserve the predicted label for the entire video clip. The method integrates seamlessly with existing video‐classification architectures without retraining.
+
+Results: We evaluate TSC on two standard benchmarks, UCF-101 and Kinetics-400, using ResNet3D and SlowFast backbones. Experimental results demonstrate that our method yields up to 25% higher certified robustness under `ℓ2`‐bounded perturbations compared to adapted image‐based smoothing baselines. Moreover, the temporal consistency constraint significantly reduces the required noise magnitude to maintain high certification rates, leading to practical guarantees at real‐time inference speeds.
+
+Conclusion: This work delivers the first end‐to‐end certification framework for video DNNs, bridging a critical gap in adversarial robustness research for sequential data. The proposed TSC method offers actionable insights for deploying secure video analytics systems and opens new research avenues in spatio‐temporal verification. 
+
+Keywords: deep neural networks, video classification, robustness certification, adversarial perturbations, randomized smoothing, temporal consistency.

@@ -1,0 +1,1 @@
+The server is built with Nodejs, which is an open-source JavaScript-based platform used to build server applications. It provides the resources and tools to develop web applications efficiently and at a fast pace Client site built with Reactjs is a JavaScript library used to build intuitive user interfaces (UIs) and complex web applications.

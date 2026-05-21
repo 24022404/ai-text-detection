@@ -1,0 +1,1 @@
+Ứng dụng sử dụng mã này để lấy mã truy cập (access Token) hoặc mã làm mới (refreshToken). Sau đó sẽ lưu trữ vào cơ sở dữ liệu.

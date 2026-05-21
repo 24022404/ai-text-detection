@@ -1,0 +1,1 @@
+Hiện tại, webste bán giày trực tuyến đang được hoàn thiện và đang được thử nghiệm sử dụng trong thực tế thông qua đường link:  Hình 4.16 dưới đây cung cấp chi tiết về cấu hình server trên khay công cụ.

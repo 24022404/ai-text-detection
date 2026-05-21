@@ -1,0 +1,1 @@
+Vue tập trung xây dựng thư viện lõ vào lớp "Vew", do đó, việc triển khai rất nhẹ nhàng và không tốn nhiều tài nguyên, phù hợp với dự án nhỏ và linh hoạt. VueJS cũng là một framework dễ học và cung cấp tài liệu liên quan khách tết và đầy đủ  thích hợp với việc xây dựng từ một bản phân tích thiết kế hệ thống điã có sẵn.

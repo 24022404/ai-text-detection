@@ -1,0 +1,1 @@
+Cụ thể, BART có hiệu quả sánh ngang RoBERTa trên GLUE và SQuAT và đạt SOTA trong các nhiệm vụ về điốt hoạ trừu tượng, trả lời câu hỏi và tóm tắt.

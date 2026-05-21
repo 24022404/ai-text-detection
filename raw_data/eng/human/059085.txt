@@ -1,0 +1,1 @@
+From there, I conduct analysis and indicate functional and non-functional require ments. Based on the requirements, I conduct detailed design and build the database.

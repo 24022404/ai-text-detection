@@ -1,0 +1,1 @@
+Laravel có tốc điộ nhanh : Framework này đã được đánh giá là PHP frame work có tốc điộ nhanh nhất hiện này và nó còn gảm số lần truy cập và xử lý dữ lệu, từ đió tố ưu hóa tốc điộ trang.

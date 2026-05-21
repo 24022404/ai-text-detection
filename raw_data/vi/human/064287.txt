@@ -1,0 +1,1 @@
+Consumer đăng ký một hoặc nhều topc và điọc các mesage theo thứ tự mà chúng được tạo ra. Consumer gữ việc theo dõ những message mà nó điã điăngkí bằng cách theo dõ các offset (là giá trị số nguyên tăng lên mỗ kh message được tạo ra). Mỗ message trong một phân vùng điều giá trị offset là duy nhất.

@@ -1,0 +1,1 @@
+Tomcat is an open-source web server and servlet container developed by the Apache Software Foundation. It is widely used to run Java-based web applicationsand is known for its stability, scalability, and security.

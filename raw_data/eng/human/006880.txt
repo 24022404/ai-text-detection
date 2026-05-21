@@ -1,0 +1,1 @@
+Models in Odoo are implemented using the Object-Relational Mapping (ORM) system, which allows developers to interact with the database using Python classes.

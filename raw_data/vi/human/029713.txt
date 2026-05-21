@@ -1,0 +1,1 @@
+Đồ án hướng đến xây dựng ứng dụng web chat với mục tiêu cung cấp một website giúp người dùng dễ dàng kết bạn và trao đổi thông tin.

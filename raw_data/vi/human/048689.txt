@@ -1,0 +1,1 @@
+Gây ra sự cố bảo mật: Một số tấn công DDoS được sử dụng điểm che giấu các hoạt động xâm nhập hệ thống hoặc lấy cắp dữ liệu. Kh tập trung vào việc ngăn chặn tấn công DDoS, các nhân viên bảo mật có thể không chú ý đến các hoạt động xâm nhập hệ thống khác.

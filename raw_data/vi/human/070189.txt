@@ -1,0 +1,1 @@
+Tiếp đến, hệ thống hỗ trợ tự động gửi email đến các ứng viên sau mỗi bước thay đổi trạng thái của hồ sơ. Dưới đây là bảng so sánh ưu điểm khi sử dụng hệ thống và khi không sử dụng hệ thống quản lý trong việc gửi mail xét duyệt hồ sơ theo các trường hợp cụ thể.

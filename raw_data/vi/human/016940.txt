@@ -1,0 +1,1 @@
+JSX (Javascript + XML) là một phần quan trọng trong ReactJS. JSX là một dạng ngôn ngữ cho phép vết các mã HTML trong file Javascript, từ đó giúp code trở nên dễ đọc và rõ ràng hơn. Nó chuyển đổi cú pháp dạng gần như XML về thành Javascript, từ đó giúp người lập trình có thể code ReactJS bằng cú pháp của XML thay vì sử dụng Javascript.

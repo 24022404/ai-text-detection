@@ -1,0 +1,1 @@
+Multi-News is a multi-document summarization dataset containing 56k pairs of news articles and their professionally-written human summaries from the site newer.com. The summaries are carefully crafted by editors and include links to the original articles.

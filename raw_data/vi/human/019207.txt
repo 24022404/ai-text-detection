@@ -1,0 +1,1 @@
+Thư mục Backend chứa mã nguồn về phía xây dựng server và thư mục Frontend chứa mã nguồn về giao diện trang web như sau:

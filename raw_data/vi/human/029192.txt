@@ -1,0 +1,1 @@
+Kiến trúc Micro Frontends không chỉ có khả năng mở rộng dễ dàng hơn, đồng thờ có thể giúp cho quy trình phát triển và bảo trì phần mềm nhanh chóng hơn.

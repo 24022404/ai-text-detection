@@ -1,0 +1,1 @@
+To containerize the sample app, create a new file named Dockerfile in the same directory as the source files, and its content could be like the following:# Use the official lightweight Node.js 16 image.

@@ -1,0 +1,1 @@
+Performance Game performance is how well a computer can handle and display games and is one of the crucial elements of a game. This project has had good performance when running, but in order to ensure that computers with weaker configurations achieve good performance when executing the game, some changes and solutions need to be made.

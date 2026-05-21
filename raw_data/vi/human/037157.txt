@@ -1,0 +1,1 @@
+hiểu và huấn luyện mô hình MAE trên bộ dữ liệu y tế polyp điạ tràng; Chuyển giao mô hình MAE vớ decoder là UNETR điể khoanh vùng trên tập dữ liệu ảnh polyp điạ tràng; Xây dựng giao diện thử nghệm bằng Streamlt và đióng gó ứng dụng bằng Docker; Trển kha mô hình và bộ tham số điã huấn luyện trên Huggng Face.

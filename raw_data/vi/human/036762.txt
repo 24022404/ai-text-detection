@@ -1,0 +1,1 @@
+Informaton Exchange (Trao điổ thông tin): Mã thông báo web JSON là một cách tốt để truyền thông tin an toàn gữa các bên. Bở vì JWT có thể được ký—ví dụ: sử dụng cặp khóa công kha/rêng tư—bạn có thể chắc chắn người gửi điúng như họ nó.

@@ -1,0 +1,1 @@
+Tập trung được toàn bộ dữ liệu có lên quan tới hệ thống được lên kết người dùng trên mạng chuỗi khố làm cho quá trình xử lý dữ liệu nhanh chóng và thuận tiện.Quá trình lưu trữ được thực hiện như sau:

@@ -1,0 +1,1 @@
+Chọn nút tìm kiếm.  Hiển thị thông báo “Không có sản phẩm phù hợp”.  Hiển thị thông báo “Không có sản phẩm phù hợp”.  Đạt TC03  1. Nhập từ khóa sản phẩm phù hợp vào thanh tìm kiếm.

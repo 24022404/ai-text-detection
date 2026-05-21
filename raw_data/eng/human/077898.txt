@@ -1,0 +1,1 @@
+Modularity: Keras allows users to build models by stacking layers, each of which can be thought of as a self-contained neural network module.Extensibility: Keras can be easily extended with custom layers and loss functions, making it possible to experiment with new architectures and techniques.

@@ -1,0 +1,1 @@
+Thiết kế giao diện Hệ thống được thiết kế vớ hat gao den rêng biệt điểm tương tác và quản lý dễ dàng cho ha tác nhân chính (quản trị viên và người dùng), bao gồm giao diện người dùng và giao diện quản trị hệ thống. Ch tết sẽ được minh họa như Hình 4.5 dưới đây.

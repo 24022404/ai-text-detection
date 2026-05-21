@@ -1,0 +1,1 @@
+Bài toán tối ưu kh này trở thành tr(street)# Tập tính gradient điểm sử dụng cho việc tối ưu lấy mẫu (sampling) để tính toán xấp xỉ giá trị đó.

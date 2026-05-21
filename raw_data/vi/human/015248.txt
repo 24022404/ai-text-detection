@@ -1,0 +1,1 @@
+Mổ khi ta cần đối chiếu thông tin của một tem thì ta truy cập lớp này để có thể biết được đó là tem nào, lớp này gồm một danh sách các tem được đưa vào trong game và đánh ID cho từng tem đó.

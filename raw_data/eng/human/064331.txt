@@ -1,0 +1,1 @@
+Fine-tuning on ViMs: The ViMs dataset contains two reference summaries for each cluster, assigned by different annotators. To select the most appropriate reference summary for each cluster, we calculate the Rouge Score of each sentence in the reference summary with respect to the entire text in the cluster and choose the sentence with the highest Rouge Score.

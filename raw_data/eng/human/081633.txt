@@ -1,0 +1,1 @@
+If the scan returns results and contains a ‘choice_matcher‘ key, the value of ‘choice_matcher‘ is returned, which likely contains the scan findings.

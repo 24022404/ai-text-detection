@@ -1,0 +1,1 @@
+Numpy là một thư viện lõ phục vụ cho khoa học máy tính của Python, hỗ trợ cho việc tính toán các mảng nhiều chiều, có kích thước lớn vớ các hàm điã điược tố ưu áp dụng lên các mảng nhiều chiều gió. Numpy đặc biệt hữu ích khi  thực hiện các hàm liên quan tới Đại Số Tuyến Tính.

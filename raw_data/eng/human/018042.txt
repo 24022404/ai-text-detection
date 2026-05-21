@@ -1,0 +1,1 @@
+APP : Displays the app’s icon, name, version, and package name. If the scan is incomplete, a warning badge appears.

@@ -1,0 +1,1 @@
+Mọi người dùng trong hệ thống điều có thể sử dụng tính năng chấm công bằng cách quét gương mặt. Nếu người dùng có tài khoản và đã đăng ký gương mặt, hệ thống sẽ ghi nhận thông tin chấm công của họ. Ngược lại, nếu người dùng không có tài khoản hoặc chưa đăng ký gương mặt, thông tin chấm công sẽ không được ghi nhận.

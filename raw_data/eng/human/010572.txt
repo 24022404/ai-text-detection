@@ -1,0 +1,1 @@
+N. Tajbakhsh, S. R. Gurudu, and J. Lang, “Automated polyp detection in colonoscopy videos using shape and context information,” IEEE transactions on medical imaging , vol. 35, no. 2, pp. 630–644, 2015.

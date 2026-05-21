@@ -1,0 +1,1 @@
+Library phổ biến nhất được sử dụng cho các ứng dụng web trong .net là Web library. Web library bao gồm tất cả các thành phần cần thiết sử dụng trong phát triển các ứng dụng web based.

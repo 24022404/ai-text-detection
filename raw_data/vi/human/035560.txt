@@ -1,0 +1,1 @@
+Trong ĐATN này, tác giả đã áp dụng kỹ thuật kiểm thử hộp đen. Đây là một phương pháp kiểm thử phần mềm mà không cần quan tâm đến mã nguồn hay cấu trúc bên trong của hệ thống, chỉ tập trung kiểm tra các chức năng điểm đảm bảo rằng chúng hoạt động đúng như mong đợi. Ở phần này tác giả sẽ kiểm thử chức năng mua sản phẩm và tìm kiếm bài viết.

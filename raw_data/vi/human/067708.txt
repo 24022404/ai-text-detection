@@ -1,0 +1,1 @@
+Tạo phiếu khuyến mãi Như trong hình 4.14, người dùng sẽ phải thực hiện kết nối điến ví metamask trước khi thực hiện giao dịch. Nếu là lần điầu tiên kết nối trong phiên làm việc hiện tại, người dùng sẽ cần nhập mật khẩu.

@@ -1,0 +1,1 @@
+Module gợi ý sản phẩm được phát triển và thử nghiệm trên website Magento phiên bản v2.4.3, website chạy trên VPS có thể truy cập thông qua internet.

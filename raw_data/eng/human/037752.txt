@@ -1,0 +1,1 @@
+Sales department staff make inventory schedule and list of goods 3. Sales department staff sends approval request to management 4. Once approved by the management, the requisition is sent to the storekeeper 5. The warehouse keeper confirms the request for warehousing of goods. The storekeeper needs to identify the following information in order to approve the request:

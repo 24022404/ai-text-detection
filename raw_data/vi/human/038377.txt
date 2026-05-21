@@ -1,0 +1,1 @@
+Khác vớ scrpt phía client, PHP được thực th phía server trước khi gửi sang phía client. Vì vậy, thay vì gửi mã nguồn, server xử lý và chỉ gửi kết quả đã được chuyển thành định dạng HTML. Do đó, scrpt phía server giúp lập trình viên không bị lộ mã nguồn. Ngôn ngữ PHP rất điơn gản với người mớ, nhưng vẫn điảm bảo điủ những tính năng nâng cao cho lập trình viên chuyên nghệp.

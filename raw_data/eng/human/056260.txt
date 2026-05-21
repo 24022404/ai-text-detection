@@ -1,0 +1,1 @@
+ShareRequest - Lastly, the executor uses the ShareRequest JRPC method to re quest shares from other executors in order to reconstruct the encryption key. As part of the distributed key generation protocol, the executor must obtain portions from multiple other executors.

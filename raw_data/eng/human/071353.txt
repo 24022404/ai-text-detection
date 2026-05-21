@@ -1,0 +1,1 @@
+L.-C. Chen, G. Papandreou, I. Kokkinos, K. Murphy, and A. L. Yuille, “Se mantic image segmentation with deep convolutional nets and fully connected crfs,” arXiv preprint arXiv:1412.7062 , 2014.

@@ -1,0 +1,7 @@
+Xây dựng trò chơi roguelike qua màn Simple Rogue là một dự án nghiên cứu nhằm tạo ra một trò chơi điện tử có tính chất khám phá và chiến đấu trong một môi trường không xác định. Trò chơi này được xây dựng dựa trên cơ sở của Simple Rogue, một trò chơi roguelike đơn giản và phổ biến. Mục tiêu của dự án này là tạo ra một trò chơi có tính tương tác cao, với các yếu tố như hệ thống chiến đấu, hệ thống khám phá, và hệ thống nâng cấp.
+
+Dự án này sử dụng các kỹ thuật lập trình như lập trình hướng đối tượng và lập trình hướng sự kiện để tạo ra một trò chơi có tính linh hoạt và dễ dàng mở rộng. Hệ thống chiến đấu của trò chơi được xây dựng dựa trên cơ sở của một trò chơi chiến thuật, với các yếu tố như hệ thống tấn công, hệ thống phòng thủ, và hệ thống sử dụng kỹ năng.
+
+Hệ thống khám phá của trò chơi được xây dựng dựa trên cơ sở của một trò chơi phiêu lưu, với các yếu tố như hệ thống di chuyển, hệ thống khám phá, và hệ thống giải quyết vấn đề. Hệ thống nâng cấp của trò chơi được xây dựng dựa trên cơ sở của một trò chơi RPG, với các yếu tố như hệ thống nâng cấp kỹ năng, hệ thống nâng cấp trang bị, và hệ thống nâng cấp nhân vật.
+
+Dự án này cũng được thực hiện với mục tiêu tạo ra một trò chơi có tính tương tác cao với người chơi, với các yếu tố như hệ thống phản hồi, hệ thống điều khiển, và hệ thống đánh giá. Kết quả của dự án này là một trò chơi roguelike có tính chất khám phá và chiến đấu trong một môi trường không xác định, với các yếu tố như hệ thống chiến đấu, hệ thống khám phá, và hệ thống nâng cấp.

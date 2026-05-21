@@ -1,0 +1,1 @@
+Vew (Gao dện): Đạ dện cho thành phần hển thị của ứng dụng, nơ người dùng tương tác và nhìn thấy thông tin. Vew hển thị dữ lệu từ Model và cung cấp gao diện người dùng để tương tác với người dùng. Vew không chứa logc xử lý dữ lệu và chỉ bết cách hển thị dữ lệu được cung cấp từ Model.

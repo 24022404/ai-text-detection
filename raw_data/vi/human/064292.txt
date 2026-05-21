@@ -1,0 +1,1 @@
+Hệ thống đãi gả quyết được vấn đề kiểm tra việc báo cáo khoa học không có trích dẫn nhưng chưa có chức năng phát hiện và sửa lỗi chính tả. Ngoài ra, phần giao diện của chức năng kiểm tra sao chép còn đơn giản, chưa thân thiện với người dùng.

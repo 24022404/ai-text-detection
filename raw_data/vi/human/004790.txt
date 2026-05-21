@@ -1,0 +1,1 @@
+Tài liệu điầy đủ: Tài liệu của Laravel rất thân thiện với các nhà phát triển. Tất cả các phiên bản Laravel điều được phát hành cùng các tài liệu phù hợp, giúp tìm thấy những gã thích ch tết về coding style, methods và classes nhanh chóng.

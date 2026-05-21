@@ -1,0 +1,1 @@
+Hệ thống kiểm tra dữ liệu, nếu không có sản phẩm nào được tìm kiếm, hệ thống sẽ đưa ra thông báo không có kết quả

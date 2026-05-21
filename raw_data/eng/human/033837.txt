@@ -1,0 +1,1 @@
+The other parts of graduation research are organized as follows. Chapter 2 present the main functional and non-functional requirement of the project. It mentions a website for the supplier in an e-commerce system in a distributed architecture.

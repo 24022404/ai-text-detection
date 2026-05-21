@@ -1,0 +1,1 @@
+Benefits of the Architecture Scalability : The modular design allows easy addition of new analysis types or extension of existing functionalities.

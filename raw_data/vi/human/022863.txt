@@ -1,0 +1,1 @@
+Dưới đây là hình ảnh minh họa cách thức hoạt động của 3 bộ phận trong kiến trúc MVC. Cả ba điều có lên kết chặt chẽ với nhau. 4.11.

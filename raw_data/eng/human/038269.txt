@@ -1,0 +1,1 @@
+Furthermore, PostgreSQL supports replication for high availability and faulttolerance. Synchronous and asynchronous replication methods ensure data redun dancy and accessibility, even in the case of hardware failures.

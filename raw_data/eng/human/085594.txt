@@ -1,0 +1,1 @@
+Since the PAT is associated with the virtual machine and is not exposed publicly, it reduces the risk of unauthorized access to the repository. Additionally, I can control the scope of the PAT’s permissions, limiting it to specific actions required for the workflows.

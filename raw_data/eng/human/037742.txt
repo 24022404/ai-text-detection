@@ -1,0 +1,1 @@
+Consistent representation learning ( 16 - 23): In order to keep the embedding of historical relations in space consistent after learning new tasks, we perform SCL loss Contrastive Replay LCRand knowledge distillation constraints on the samples in memory.

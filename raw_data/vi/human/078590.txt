@@ -1,0 +1,1 @@
+Khố Slave : V điều khiển Arduino Uno R3 có chức năng nhận dữ liệu từ cảm biến và chuyển cho khối điều khiển trung tâm, ngoài ra còn nhận dữ liệu từ khó điều khiển điển điều khiển cơ cấu chấp hành (bơm, điện quạt).

@@ -1,0 +1,1 @@
+Định hướng gả pháp Từ các mục tiêu đã nêu trong phần 1.4.1, em đề xuất định hướng gả pháp theo hướng sau: () Sửa giao diện hệ thống phát hiện sao chép. () Xây dựng mô đun cho bài toán phát hiện lỗi chính tả. () Xây dựng mô đun cho bài toán gợi ý sửa lỗ. Cuối cùng, (v) Xây dựng hệ thống kiểm tra và sửa lỗi chính tả.

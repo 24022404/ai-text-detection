@@ -1,0 +1,1 @@
+Tăng cường dữ liệu với phép biến đổi thuộc tính Bến đỗ thuộc tính (Attribute Transformation) là các phép bến đổ trong tăng cường dữ liệu khuôn mặt đặc biệt gả quyết các đặc tính duy nhất của hình ảnh khuôn mặt. Hình thức tăng cường này liên quan đến việc áp dụng các phép bến đỗ làm thay đổi các thuộc tính cụ thể của khuôn mặt như biểu cảm, tư thế, ánh sáng, và tuổi tác, v.v.

@@ -1,0 +1,1 @@
+Trong Chương 3 em sẽ trình bày các công nghệ đã sử dụng ở từng phần Frontend, Backend. Sau đó là đưa ra những lý do tại sao bản thân lạ lựa chọn những công nghệ này.

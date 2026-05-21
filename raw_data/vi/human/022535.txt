@@ -1,0 +1,1 @@
+Đa nền tảng: CryptoJS có thể hoạt động trên nhiều nền tảng khác nhau, bao gồm trình duyệt web, Nodejs và React Native.

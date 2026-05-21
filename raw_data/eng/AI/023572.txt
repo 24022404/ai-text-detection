@@ -1,0 +1,7 @@
+Image deblurring and super-resolution are fundamental tasks in computer vision, essential for applications such as medical imaging, surveillance, and photography enhancement. Traditional approaches often rely on handcrafted priors or fixed regularization, which may not generalize well across varying image conditions. In this work, we propose a novel Adaptive Sparse Domain Selection and Adaptive Regularization (ASDAR) framework to jointly address image deblurring and super-resolution.
+
+Our method dynamically selects the most relevant sparse domains for image reconstruction, leveraging a learned adaptive sparse representation that captures fine-grained details while suppressing noise and artifacts. Additionally, we introduce an adaptive regularization mechanism, which adjusts penalties based on local image structures, ensuring sharper edges and improved texture preservation. The integration of these two adaptive components enables our model to generalize effectively across different blur levels and scaling factors.
+
+Extensive experiments on benchmark datasets demonstrate that ASDAR outperforms state-of-the-art methods in both quantitative metrics (PSNR, SSIM) and perceptual quality. Our findings highlight the importance of adaptive sparse modeling and context-aware regularization for high-fidelity image restoration.
+
+Keywords: Image Deblurring, Super-Resolution, Sparse Domain Selection, Adaptive Regularization, Image Restoration, Computer Vision.

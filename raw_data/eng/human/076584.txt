@@ -1,0 +1,1 @@
+Detailed use case diagram Figure 2.2: Daily update cryptocurrencies priceGithub Actions’ Virtual machine will automatically run the code file to update data on various cryptocurrencies at 00:15 UTC+0 every day.

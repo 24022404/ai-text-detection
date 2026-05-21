@@ -1,0 +1,1 @@
+Output : Dự báo nhu cầu tiêu thụ của sản phẩm trong các tháng kế tiếp Bước 1 : Xác định hệ số làm mịn của mô hình Sa số bình phương trung bình MSE là một tiêu chí đánh giá sai số dự báo, là chênh lệch giữa giá trị thực (dữ liệu) và giá trị dự báo nhằm đánh giá chất lượng hay sự phù hợp của mô hình dự báo tạ cùng một thời điểm.

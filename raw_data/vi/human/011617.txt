@@ -1,0 +1,1 @@
+Tầng tích chập (CONV): sử dụng các bộ lọc điểm thực hiện phép tích chập kh đưa chúng đi qua đầu vào I theo các chiều của nó. Các siêu tham số của các bộ lọc này bao gồm kích thước bộ lọc F và độ trượt (str) S. Kết quả điều ra O được gọi là feature map hay actvaton map.

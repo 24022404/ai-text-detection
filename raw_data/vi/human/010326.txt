@@ -1,0 +1,1 @@
+Vớ model graph, sa số qua hàm MSE thu được thấp hơn nhiều so với kh ta tran vớ các model CNN, LSTM.

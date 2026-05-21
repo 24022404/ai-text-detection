@@ -1,0 +1,1 @@
+Trường đó phải là public hoặc có thuộc tính SerializeField Trường đó không phải trường stats Trường đó không phải hằng số const Trường đó không phải trường readonly Kiểu dữ liệu trường đó phải là kiểu có thể serialize.

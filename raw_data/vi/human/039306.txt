@@ -1,0 +1,1 @@
+Dựa theo thiết kế lưu trữ cơ sở dữ liệu như trên cho bài tập no, em điã phát trển và tích hợp thành công loại bài tập này vào hệ thống CMS. Minh họa kết quả thu được phía frontend được thể hiện trong hình dưới đây:

@@ -1,0 +1,1 @@
+Custom Integrations Chatbot có thể được tích hợp với các hệ thống phụ trợ như CRM, cơ sở dữ liệu, ứng dụng thanh toán, lịch và nhiều công cụ khác, để nâng cao khả năng của chatbot, tăng trải nghiệm người dùng.

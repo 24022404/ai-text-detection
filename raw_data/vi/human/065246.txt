@@ -1,0 +1,1 @@
+Kh truy cập vào trang web, chọn chức năng đăng nhập tài khoản Khi đó, người dùng nhập sai thông tin đăng nhập gồm tên đăng nhập và mật khẩu trước khi nhấn vào button Đăng nhập Sau đó, hiển thị thông báo lỗi " Tên đăng nhập và mật khẩu không chính xác" 3. Acceptance Criteria 3:

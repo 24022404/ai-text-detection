@@ -1,0 +1,1 @@
+Luồng sự kiện Thực hiện Sự kiện 1 Người dùng Tạo trang home ấn vào biểu tượng xem top dịch vụ trên header 2 Hệ thống D chuyển người dùng điến trang xem top dịch vụ 3 Hệ thống Hiển thị ra top 5 các dịch vụ được đánh giá cao 4 Người dùng Xem các thông tin về dịch vụ đám mây được đánh giá cao 5 Người dùng Nếu muốn xem ch tết dịch vụ, ấn chọn vào dịch vụ muốn xem.

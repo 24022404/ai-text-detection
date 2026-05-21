@@ -1,0 +1,1 @@
+Authentication : The system will let learners create accounts and track their progress. The accounts will be divided into different roles, and each role has itsown permissions.Dictionary : Dictionary is one of the features that many English learning sys tem are lacking. Having a dictionary integrated into the application prevent user switching to another platform.

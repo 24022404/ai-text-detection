@@ -1,0 +1,1 @@
+Project admins can create SLA goals that specify the types of requests you want to track and the time it should take to resolve them. From there, you can define the conditions and calendars that impact when SLA measurements start, pause, stop (for example, stopping when your office is closed for a public holiday), or cancel.

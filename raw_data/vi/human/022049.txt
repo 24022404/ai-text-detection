@@ -1,0 +1,1 @@
+Các lớp này được xếp chồng lên nhau theo một thứ tự cụ thể. Ảnh điầu vào được bểu dễn bằng một ma trận các giá trị và được đưa qua lớp tích chập điầu tên. Sau đó, các giá trị tính toán sẽ được chuyển tếp qua lớp tổng hợp. Lớp tích chập và tổng hợp có thể được lặp lạ nhều lần trong mạng.

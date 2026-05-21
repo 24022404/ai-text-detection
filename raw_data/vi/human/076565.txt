@@ -1,0 +1,1 @@
+pad types: Lưu trữ thông tin về loại nghỉ phép. Chứa thông tin về loạt nghỉ Hình 4.8: Thiết kế cơ sở dữ liệu cụm TimeKeeping phép cũng như lương lương được nhận khi đơn được duyệt. Mỗ loại nghỉ phép có thể ứng với nhiều đơn nghỉ phép khác nhau.

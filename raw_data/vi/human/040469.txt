@@ -1,0 +1,1 @@
+Nơ sử dụng trong ứng dụng Tô sử dụng Python Shell để giao tiếp giữa Python và JavaScript gúp truyền những thông tin nhận từ máy chủ và những dữ liệu sau khi xử lý điện ứng dụng.c, Lý do lựa chọn Để phục vụ việc truyền tin, tôi có thể sử dụng Fast AVI hoặc sử dụng Socket IO.

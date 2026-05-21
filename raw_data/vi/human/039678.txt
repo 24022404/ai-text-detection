@@ -1,0 +1,1 @@
+Trường hợp có nhiều bản ghi, danh sách được hiển thị theo nhiều trang, mỗi trang hiển thị 1015 bản gh AF1: Không có bản ghi nào trong hệ thống AF2: Lỗ hiển thị danh sách bản ghi trong hệ thống BF2 Quản trị viên lựa chọn hiển thị 1 trang cụ thể trong danh sách BF3 Cập nhật lại danh sách bản ghi, hiển thị các bảng ở trang tương ứng.

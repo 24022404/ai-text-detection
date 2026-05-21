@@ -1,0 +1,1 @@
+Common compression algorithms include Huffman code, found in JPEG, MPEG, and MP3 files, and Lempel-Ziv code, used in ZIP files.

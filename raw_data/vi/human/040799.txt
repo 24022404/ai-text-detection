@@ -1,0 +1,1 @@
+Giá trị Recall là tỉ lệ các thuật ngữ trùng nhau cùng được xác định bởi mô hình và người chú thích vớ tổng số thuật ngữ được người chú thích lựa chọn. F1 là giá trị kết hợp hai giá trị trong sử dụng trung bình điều hòa (harmonic mean).

@@ -1,0 +1,1 @@
+Lớp nghiệp vụ là lớp xử lý logic nghiệp vụ chính. Trong đồ án này, lớp nghiệp vụ chính là các lớp service.

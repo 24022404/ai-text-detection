@@ -1,0 +1,1 @@
+Các phép phân tích điều cùng đọc dữ lệu từ HDFS vớ cấu trúc cho trước, nhưng mỗi loại phân tích chỉ sử dụng một số trường dữ lệu cho nến trước mỗi bước phân tích điều có bước lọc chỉ giữ lại các trường dữ lệu cần thiết. Cho tết về các bài toán phân tích sẽ được trình bày sau đây.

@@ -1,0 +1,1 @@
+jQuery is a popular open-source JavaScript library that simplifies the process of interacting with HTML documents, handling events, creating animations, and making asynchronous HTTP requests. It was created by John Resig in 2006 and has since become one of the most widely used JavaScript libraries on the web.

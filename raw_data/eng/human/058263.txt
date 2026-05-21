@@ -1,0 +1,1 @@
+C. Ding, S. Fan, M. Zhu, W. Feng and B. Jia, “Violence detection in video by using 3d convolutional neural networks,” inISVC 2014.

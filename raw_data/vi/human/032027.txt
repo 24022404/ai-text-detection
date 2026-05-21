@@ -1,0 +1,1 @@
+Bước 1 : Để dùng được Pusher, chúng ta sẽ cài đặt gói thư viện Pusher PHP , mở command line và chạy lệnh:

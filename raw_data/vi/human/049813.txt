@@ -1,0 +1,1 @@
+Đánh dấu các vị trí đầu câu thứ nhất bằng token [CLS] và vị trí của các câu bằng token [SEP].

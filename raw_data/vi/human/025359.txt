@@ -1,0 +1,1 @@
+.1.3 Độ sâu của gả trình tự Độ sâu gả trình tự (Depth) tính toán trung bình số lượng đoạn đọc bao phủ mỗ vị trí, được ký hiệu đơn vị là X. Chẳng hạn, nếu trong tổng thể có trung bình 10 đoạn đọc thì độ sâu của gả trình tự là 10X. Hình .1 mô tả kỹ hơn về độ sâu gả trình tự.

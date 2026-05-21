@@ -1,0 +1,1 @@
+The FKM algorithm, named after Fredricksen, Kessller, and Maiorana, is an encoding method that uses a concatenation scheme. Notably, as demonstrated by Frank Ruskey and colleagues in 1992, it achieves constant amortized time for each symbol processed.

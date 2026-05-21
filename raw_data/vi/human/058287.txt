@@ -1,0 +1,1 @@
+OpenCV điã điược phát trển điể hỗ trợ hoạt động thờ gan thực và được tối ưu hóa sử dụng tăng tốc GPU, giúp xử lý ảnh và dữ liệu video nhanh chóng và hiệu quả.

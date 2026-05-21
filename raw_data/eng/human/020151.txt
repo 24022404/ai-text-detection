@@ -1,0 +1,1 @@
+The above is a summary of the preparation and implementation process to check the quality of solder pins on PCB printed circuit boards.

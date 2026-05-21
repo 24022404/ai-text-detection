@@ -1,0 +1,1 @@
+J. Chang, S. Gerrish, C. Wang, J. Boyd-Graber, and D. Blei, “Reading tea leaves: How humans interpret topic models,” Advances in neural information processing systems , vol. 22, 2009.

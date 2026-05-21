@@ -1,0 +1,1 @@
+L(z, y) = −[y log(z) + (1−y)log(1−z)] Hàm kết hợp Softmax Cross Entropy : là sự kết hợp của lớp fully connected cuối cùng.

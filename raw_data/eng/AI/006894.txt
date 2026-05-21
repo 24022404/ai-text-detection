@@ -1,0 +1,1 @@
+The customer account will be marked as 'edited' on the admin dashboard once it is updated at the designated date and time.

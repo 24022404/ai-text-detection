@@ -1,0 +1,1 @@
+The purpose is to let the admin create new system users, assign specific roles and access permissions, and manage user deletion with certain preconditions involved.

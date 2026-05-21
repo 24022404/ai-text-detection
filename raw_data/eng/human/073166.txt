@@ -1,0 +1,1 @@
+The system implements JWT (JSON Web Token) for each user login. JWT token constructed of1. The header contains information about the token format, the signing algo rithm, and the base64 encoded header 2. Payload is any data container, usually used to store publicly identifiable user information in the form of JSON, the payload is base64 encoded.

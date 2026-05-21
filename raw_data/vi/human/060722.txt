@@ -1,0 +1,1 @@
+Bí thư nhập nội dung thông báo và nhấn thêm 2. Hệ thống thêm thông báo vào CSDL 3. Hệ thống hiển thị thông báo mở thêm trong danh sách thông báo Luồng sự kiện con:

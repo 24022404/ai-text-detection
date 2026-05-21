@@ -1,0 +1,1 @@
+Công cụ là phần mềm được sử dụng trong dự án như: Phần mềm quản lý công việc, phần mềm quản lý source code, phần mềm quản lý lỗ. . . Có rất nhiều công cụ được sử dụng để hỗ trợ vận hành.

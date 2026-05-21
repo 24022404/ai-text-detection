@@ -1,0 +1,1 @@
+Gả pháp Để sử dụng env, chúng ta có thể thêm một tập tin .env vào dự án của mình và lưu trữ các giá trị cấu hình trong đó. Sau đó, chúng ta có thể đọc các giá trị này trong ứng dụng của mình bằng cách sử dụng một thư viện như dotenv.

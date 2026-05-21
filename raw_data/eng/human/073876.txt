@@ -1,0 +1,1 @@
+However, it should be noted that detecting abnormalities in videos is a difficult job since the term “anomaly” is often imprecise and poorly defined . They differ greatly depending on the conditions and circumstances in which they occur.

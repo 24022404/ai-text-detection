@@ -1,0 +1,1 @@
+Hệ thống dễ dàng bảo trì, nâng cấp chức năng mớ do hệ thống điã điược module hóa.Trong đồ án, tô điã có cơ hội làm việc với các công nghệ và thư vên quan trọng trong quá trình thiết kế, phân tích và phát triển hệ thống. Dưới đây là các công nghệ mà tô đã sử dụng và một số công cụ để hoàn thành đồ án này.

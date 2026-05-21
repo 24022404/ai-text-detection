@@ -1,0 +1,1 @@
+JavaScript excels at event-driven programming, allowing developers to define specific functions that execute in response to user actions like button clicks or form submissions.

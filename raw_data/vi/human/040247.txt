@@ -1,0 +1,1 @@
+Phương pháp tếp cận phân cấp gúp gả quyết vấn điề tìm điường đi ngắn nhất cho AGV bằng cách chia nó thành nhều vấn điề con. Các vấn điề con này điược gả quyết một cách rêng bệt, sau đió kết hợp hoặc lựa chọn các gả pháp tốt nhất điể gả quyết vấn điề lớn hơn.

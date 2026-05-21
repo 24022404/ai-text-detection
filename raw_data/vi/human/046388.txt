@@ -1,0 +1,1 @@
+(v) Hậu điều kiện: sau khi thực hiện Usecase hệ thống sẽ thông báo đăng nhập thành công hay chưa.2.3.3 Đặc tả use case Xem danh sách sản phẩm Khách hàng viếng thăm hoặc thành viên điều sử dụng use case “Xem danh sách sản phẩm” để xem danh sách các sản phẩm hiện có trên trang chủ của trang web với các hình ảnh đại diện cho từng sản phẩm.

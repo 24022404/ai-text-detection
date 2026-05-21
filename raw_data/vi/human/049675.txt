@@ -1,0 +1,1 @@
+extJS Hình 3.8: extJS Framework extJS là một framework của React được phát triển bởi Vercel, và nó cung cấp rất nhiều ưu điểm cho việc phát triển ứng dụng.

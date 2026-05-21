@@ -1,0 +1,1 @@
+NRF24L01  là một trong những thiết bị giao tiếp sóng RF cho các ứng dụng hiện địa. NRF24L01 là module rẻ và có những tính năng tuyệt vời. Module hoạt động ở tần số 2.4GHz, có thể truyền và nhận dữ liệu bằng một module duy nhất.

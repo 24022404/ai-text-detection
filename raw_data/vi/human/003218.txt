@@ -1,0 +1,1 @@
+Trong chương 4, em phân tích yêu cầu phần mềm, thực hiện việc thiết kế các bểu đồ cho phần mềm, có được thiết kế lớp tổng quan và thiết kế ch tết như gao diện, cơ sở dữ liệu. Sau đó kết thúc chương vớ mục kểm thử hệ thống và nêu ra kết quả điạt được.

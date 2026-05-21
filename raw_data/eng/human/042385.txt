@@ -1,0 +1,1 @@
+With backpropagation, the weights in the Neural Network are updated through the use of an optimization algorithm such as Gradient Descent. Gradient Descent is used to optimize the loss function by finding weight values that minimize the value of the loss function.

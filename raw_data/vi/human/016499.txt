@@ -1,0 +1,1 @@
+. Giới thiệu Hình 3.2: React React là một framework javascript mã nguồn mở, được sử dụng để xây dựng giao diện người dùng trong các ứng dụng web. Nó được phát triển bở Facebook và được sử dụng rộng rãi trong lập trình web.

@@ -1,0 +1,1 @@
+Nguyên nhân thường là do mô hình quá phức tạp, dữ liệu huấn luyện ít hoặc nhều nhễu. Để khắc phục, ta có một số cách như sau:

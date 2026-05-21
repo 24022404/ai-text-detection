@@ -1,0 +1,1 @@
+Vấn đề đầu tên là xây dựng một phần mềm có thể chạy trên mọi nền tảng. Để đáp ứng yêu cầu này, em sẽ phát triển một trang web với giao diện tương thích với tất cả các thiết bị, giúp người dùng truy cập và sử dụng phần mềm một cách dễ dàng. Người dùng cũng có thể tải xuống trang web và sử dụng nó như một ứng dụng độc lập.

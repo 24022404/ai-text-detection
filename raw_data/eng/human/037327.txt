@@ -1,0 +1,1 @@
+Contextual Menu Contextual menus provide relevant actions based on the user’s current context, streamlining the user experience and reducing unnecessary navigation.

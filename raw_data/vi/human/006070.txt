@@ -1,0 +1,1 @@
+MQTT Broker cúp truyền tn hai chiều giữa hai thiết bị điầu cuối trở nên dễ dàng Khối lượng nhỏ: bản in MQTT có header nhỏ, client yêu cầu rất ít tài nguyên.

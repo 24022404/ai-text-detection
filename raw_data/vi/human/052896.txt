@@ -1,0 +1,1 @@
+GD  Quản lý sản phẩm: xem danh sách sản phẩm, tìm kiếm sản phẩm, tạo, chỉnh sửa, xóa sản phẩm.

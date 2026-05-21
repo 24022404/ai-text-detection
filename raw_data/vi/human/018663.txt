@@ -1,0 +1,1 @@
+Redux: Là một thư viện quản lý trạng thái của ứng dụng, cho phép lập trình viên quản lý trạng thái của toàn bộ ứng dụng trong một vị trí duy nhất. Redux gúp đơn giản hóa quá trình quản lý trạng thái và làm cho ứng dụng dễ bảo trì hơn.

@@ -1,0 +1,1 @@
+Tạ chương 3, em đã trình bày các công nghệ em sử dụng cho phương pháp kiểm thử và trong việc xây dựng website. Ở chương tiếp theo, em sẽ trình bày cho tết về xây dựng website gồm thiết kế kiến trúc, thiết kế cơ sở dữ lệu và kiểm thử.4.1 Thiết kế kiến trúc 4.1.1 Lựa chọn kiến trúc phần mềm Hình 4.1: Mô hình mvc .

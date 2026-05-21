@@ -1,0 +1,1 @@
+With this method, each text will be represented as a numeric vector, with each component of the vector corresponding to the TF-IDF value of the corresponding word in the dictionary. However, this method also has some limitations, such as not preserving information about sentence structure, thereby leading to the problem of loss of characteristic information contained in bytecode.

@@ -1,0 +1,1 @@
+Em tiến hành thí nghiệm theo quy trình như sau: () Thực hiện chuẩn bị dữ liệu, () Chuẩn bị môi trường, () Xử lý dữ liệu, (và) Huấn luyện mô hình PhoBert, (v) Huấn luyện mô hình SVM.

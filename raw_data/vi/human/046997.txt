@@ -1,0 +1,1 @@
+Nguồn dữ lệu tin cậy duy nhất: Status  hay trạng thái, của toàn bộ ứng được chứa trong một object tree, cây đối tượng, nằm trong Store (lưu trữ) duy nhất.

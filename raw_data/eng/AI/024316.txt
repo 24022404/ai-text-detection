@@ -1,0 +1,9 @@
+This paper addresses the challenge of reconstructing detailed 3D shapes from simple 2D sketches, a task that remains intricate due to the inherent ambiguity and lack of depth in sketches. Our goal is to develop a robust model that can infer 3D geometry accurately from limited input drawings.
+
+Methods: We propose a novel approach leveraging multi-view convolutional networks (MVCNs) to transform 2D sketches into 3D meshes. Our method incorporates a unique architecture that simultaneously processes multiple orthogonal views of input sketches, enhancing depth inference and surface reconstruction. We employ a combination of convolutional layers to extract features and a generative module that constructs 3D volumetric representations from these features. 
+
+Results: Our approach demonstrates significant improvements in shape accuracy and structural fidelity over existing methods. Through extensive experimentation on benchmark datasets, our model achieves superior performance in terms of mean Intersection-over-Union (IoU) scores and visual accuracy when compared to traditional techniques and recent deep learning-based models. We highlight several case studies where complex geometries are better captured using our MVCN architecture.
+
+Conclusion: The proposed multi-view convolutional network significantly advances the state of the art in sketch-based 3D reconstruction. By effectively integrating multiple sketch perspectives within a unified framework, our model opens new avenues for applications in computer graphics, virtual reality, and augmented design processes. Potential implications include enhanced design tools for artists and engineers, enabling more intuitive 3D content creation from simple 2D sketches.
+
+Keywords: 3D reconstruction, multi-view networks, convolutional networks, sketches, deep learning, virtual reality, computer graphics.

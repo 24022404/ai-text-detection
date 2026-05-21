@@ -1,0 +1,9 @@
+Truy xuất nguồn gốc dầu tràn không rõ nguyên nhân bằng công cụ trực tuyến WebGIS
+
+Một nhóm nghiên cứu tại Viện đã phát triển một công cụ trực tuyến WebGIS để hỗ trợ truy xuất nguồn gốc dầu tràn không rõ nguyên nhân. Công cụ này sử dụng dữ liệu địa lý và phân tích thống kê để xác định vị trí và nguyên nhân của dầu tràn.
+
+Công cụ WebGIS sử dụng cơ sở dữ liệu địa lý để thu thập thông tin về vị trí, độ sâu và loại dầu tràn. Sau đó, nó sử dụng phân tích thống kê để xác định các yếu tố có thể gây ra dầu tràn, bao gồm cả các yếu tố tự nhiên và con người.
+
+Kết quả của công cụ WebGIS cho thấy rằng dầu tràn không rõ nguyên nhân thường xảy ra ở các khu vực có độ sâu lớn và có sự hiện diện của các loại dầu nặng. Công cụ này cũng cho thấy rằng các yếu tố con người, như hoạt động khai thác dầu khí, cũng có thể đóng góp vào dầu tràn không rõ nguyên nhân.
+
+Công cụ WebGIS được kỳ vọng sẽ giúp các cơ quan chức năng và các công ty dầu khí xác định nguyên nhân và vị trí của dầu tràn không rõ nguyên nhân, từ đó có thể thực hiện các biện pháp phòng ngừa và giảm thiểu tác động của dầu tràn.

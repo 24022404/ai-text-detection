@@ -1,0 +1,1 @@
+Một số cơ chế thường dùng trong Unity a, Nhận diện va chạm Nhận diện va chạm là nhận biết khi có hai vật thể lấn chiếm hơn nhau. Điều này xảy ra khi hai vật có vị trí gần nhau hơn là mức kích thước của chúng cho phép.

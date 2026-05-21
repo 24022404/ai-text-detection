@@ -1,0 +1,1 @@
+Bên cạnh đó Redux cho phép các thành phần (components) của ứng dụng truy cập vào kho một cách dễ dàng. Điều này giúp cho việc truyền dữ liệu giữa các thành phần trở nên dễ dàng và giúp cho việc phát triển ứng dụng trở nên nhanh chóng và hiệu quả.Redux giúp cho việc theo dõi các thay đổi trên trạng thái trở nên dễ dàng hơn.

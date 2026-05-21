@@ -1,0 +1,1 @@
+Vớ những kết quả đã đạt được sau khi tiến hành những thí nghiệm trên, đồ án này có những đóng góp chính như sau 1. Xây dựng bộ dữ liệu chữ viết tay ở mức từ cho tiếng Việt.

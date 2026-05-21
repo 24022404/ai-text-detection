@@ -1,0 +1,1 @@
+sudo apt update sudo apt install nginx Kiểm tra trạng thái dịch vụ Ngnx điã chạy hay chưa sudo systemctl status nginx Nếu chưa, có thể khởi động dịch vụ Nnnx bằng lệnh sudo systemctl start nginx Bước 3: Cấu hình HTTPS:

@@ -1,0 +1,1 @@
+Kh tấn công DDoS được sử dụng làm phương tiện để làm gián đoạn hệ thống, nó cũng có thể làm tăng khả năng cho các cuộc tấn công khác, như các cuộc tấn công mạng xâm nhập hoặc lừa đảo.

@@ -1,0 +1,1 @@
+Sử dụng câu lệnh truy vấn tham số hóa: Sử dụng câu lệnh truy vấn tham số hóa (prepared statement) kh thực hiện các truy vấn đến cơ sở dữ liệu. Thay vì tạo các câu lệnh truy vấn dựa trên các giá trị nhập từ người dùng, các tham số trong câu lệnh được truyền vào trực tiếp từ ứng dụng và được xử lý bởi cơ sở dữ liệu.

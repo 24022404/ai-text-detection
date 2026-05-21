@@ -1,0 +1,1 @@
+Recurrent Neural Networks (RNNs) are trained using a method called backprop agation through time (BPTT). A significant issue with BPTT is that the gradientcalculations can become unstable, leading to “vanishing” or “exploding” gradients.

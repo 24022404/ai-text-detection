@@ -1,0 +1,1 @@
+Như hình bên trên khi chúng ta cần chia sẻ dữ lệu giữa các component với nhau bằng cách sử dụng props thì bắt buộc phải thông qua các component trung gan.

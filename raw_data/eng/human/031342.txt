@@ -1,0 +1,1 @@
+A scalability technique may be necessary to enhance the system’s ability to handle increased traffic and user load. The maintenance would also check the system would handle the load and the effect of response time. In that case, the result would showcase a result of the scalability of the system.

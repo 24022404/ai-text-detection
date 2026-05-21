@@ -1,0 +1,1 @@
+Gữa các phên bản của Laravel thếu sự lền mạch. Ứng dụng có thể sẽ bị hỏng nếu cập nhật code.

@@ -1,0 +1,1 @@
+Security: The app must ensure the confidentiality, integrity, and privacy ofuser data. It should employ robust encryption and secure authentication meth ods to protect sensitive information.

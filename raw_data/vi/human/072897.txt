@@ -1,0 +1,1 @@
+Tính linh hoạt và tùy chỉnh: Magento cung cấp một hệ thống linh hoạt để tùy chỉnh giao diện người dùng, chức năng cửa hàng, và quản lý sản phẩm.

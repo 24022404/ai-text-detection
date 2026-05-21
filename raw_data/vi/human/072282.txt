@@ -1,0 +1,1 @@
+Input : Dữ liệu tiêu thụ sản phẩm thực tế trong quá khứ theo từng tháng được tổng hợp qua các đơn hàng.

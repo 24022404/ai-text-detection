@@ -1,0 +1,1 @@
+Quy trình phân tích dữ liệu gả trình tự NGS Quy trình phân tích dữ liệu NGS điển hình bao gồm các bước sau: kiểm soát chất lượng dữ liệu thô, tiền xử lý dữ liệu, căn chỉnh trình tự, xử lý sau căn chỉnh, gọi tên biến thể và chú thích biến thể. Quy trình đó được mô tả trong hình 2.5 dưới đây.Hình 2.5: Quy trình phân tích dữ liệu NGS.

@@ -1,0 +1,1 @@
+Lớp E Service là lớp thực thể đồng bộ và tương tác trực tiếp với dữ liệu lưu trong cơ sở dữ liệu:

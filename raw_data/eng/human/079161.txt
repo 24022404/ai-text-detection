@@ -1,0 +1,1 @@
+where D is diagonal whose diagonal entries are composed of all eigenvalues of A, and P is orthogonal and has the eigenvectors as its columns.

@@ -1,0 +1,1 @@
+Việc sử dụng thư viện đia ngôn ngữ cũng giúp ứng dụng dễ dàng mở rộng và bổ sung thêm các ngôn ngữ mới trong tương lai. Nếu muốn hỗ trợ một ngôn ngữ mớ, ta chỉ cần thêm các chuỗ văn bản tương ứng vào tệp ngôn ngữ, và ứng dụng sẽ tự động áp dụng thay đổi đó mà không cần phải can thiệp vào mã nguồn.

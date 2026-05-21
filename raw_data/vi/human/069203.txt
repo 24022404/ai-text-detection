@@ -1,0 +1,1 @@
+Từ việc xác định rõ nhiệm vụ cần giải quyết ở phần 1.2, em đã thực hiện () lựa chọn sử dụng công nghệ phù hợp để xây dựng tính năng, () xây dựng, phát triển và triển khai trên mô trường thực tế. Hệ thống website bao gồm hai phần giao diện người dùng (Frontend) và phần xử lý bên trong hệ thống (Backend).

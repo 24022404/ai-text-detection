@@ -1,0 +1,1 @@
+Lớp TaskScreen cần các tham số điầu vào là Task ViewModel điểm bind dữ lệu vào trong các Compose. Và sau đó để hiển thị danh sách công việc lên màn hình, Task Screen sẽ được Task Fragment gọi qua hàm onCreateView() để vẽ UI lên màn hình. Hàm tAng() trong Task Fragment để lấy ra dữ lệu khi chuyển từ một màn hình A đến màn hình Task Fragment.

@@ -1,0 +1,9 @@
+This paper addresses the challenge of rectifying images affected by radial distortion, which is common in wide-angle lenses. The goal is to develop minimal solvers capable of effectively correcting such distortions while accounting for scale changes, enabling accurate and reliable image rectification in computer vision applications.
+
+Methods/Approach: We introduce novel minimal solvers that operate by leveraging the scales of radially distorted features and their changes. These solvers apply algebraic methods within a geometrical framework to minimize computation and maximize rectification accuracy. Our approach is designed to handle minimal sets of input data, allowing for faster and more efficient distortion correction without sacrificing precision.
+
+Results/Findings: Our solvers demonstrate superior performance in rectifying radially distorted images, as evidenced by quantitative and qualitative evaluations. Compared to existing methods, our approach not only reduces computational complexity but also improves rectification accuracy. These results indicate a significant advancement over traditional correction techniques, offering efficient solutions for real-time applications.
+
+Conclusion/Implications: The proposed minimal solvers provide a robust methodology for addressing radial distortions and scale changes, contributing to advancements in image processing and computer vision. This research has significant implications for the development of scalable image correction technologies, particularly in areas where real-time performance is critical, such as autonomous navigation and augmented reality. Future work will explore extending these techniques to more complex distortion models and additional applications.
+
+Keywords: radial distortion, minimal solvers, image rectification, scale changes, computer vision, real-time applications.

@@ -1,0 +1,1 @@
+Stankovic, John A.., Spuri, Marco., Ramamritham, Krithi., Buttazzo, Gior gio C. Dead Scheduling for Real-Time Systems: EDF and Related Algorithms .

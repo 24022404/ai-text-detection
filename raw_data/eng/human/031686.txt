@@ -1,0 +1,1 @@
+Greedy Restrictive Boltzmann Machines yield an fairly low 0.72% error rate on the famous MNIST database of handwritten digits. All that was required to achieve this result was a high number of hidden layers consisting of many neurons, and a graphics card to greatly speed up the rate of learning.

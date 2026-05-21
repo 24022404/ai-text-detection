@@ -1,0 +1,1 @@
+View browsable activities The methodology for identifying browsable activities in an Android application involves scanning the AndroidManifest.xml file to find activities that have intent filters which allow external apps or web content to invoke them.

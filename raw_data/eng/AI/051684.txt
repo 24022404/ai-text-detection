@@ -1,0 +1,1 @@
+A solid grasp of True Positive (TP), False Positive (FP), True Negative (TN), and False Negative (FN) is essential before studying AUC.

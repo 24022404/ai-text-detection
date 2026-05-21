@@ -1,0 +1,1 @@
+Lý do lựa chọn Java là một trong những ngôn ngữ lập trình được sử dụng rộng rãi và là ngôn ngữ chính thức điểm phát triển Android. Android Studio hỗ trợ tốt cho Java. Kh cài đặt thư viện bằng Java, Android Studio làm cho việc cấu hình các thư viện đố trong dự án trở nên đơn giản.

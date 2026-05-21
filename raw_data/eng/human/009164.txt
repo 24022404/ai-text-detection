@@ -1,0 +1,1 @@
+K. Cho, B. van Merri ¨enboer, D. Bahdanau andY. Bengio, “On the properties of neural machine translation: Encoder–decoder approaches,” inProceedings of SSST-8, Eighth Workshop on Syntax, Semantics and Structure in StatisticalTranslation Doha, Qatar: Association for Computational Linguistics, october 2014, pages 103–111. DOI:10.3115/v1/W14- 4012 .url:https:

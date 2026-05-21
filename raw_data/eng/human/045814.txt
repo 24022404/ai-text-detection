@@ -1,0 +1,1 @@
+A. M. Bolger, M. Lohse, and B. Usadel, “Trimmomatic: A flexible trimmer for illumina sequence data,” en, Bioinformatics , vol. 30, no. 15, op. 2114– 2120, Apr. 2014.

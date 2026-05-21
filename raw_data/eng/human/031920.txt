@@ -1,0 +1,1 @@
+Building an on sales website with an integrated recommendation system, I proceed to learn about typical suggestion scenarios from large e-commerce sites.

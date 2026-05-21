@@ -1,0 +1,1 @@
+L. AlSumait, D. Barbará, J. Gentle, and C. Domeniconi, “Topic significance ranking of lda generative models,” in Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2009, Bled, Slovenia, September 7-11, 2009, Proceedings, Part I 20 , Springer, 2009, pp. 67–82.

@@ -1,0 +1,1 @@
+Root: gồm hai thành phần app.js và package.json. app.js chứa các thông tin về cấu hình, khai báo, các định nghĩa,... điểm ứng dụng của chúng ta chạy được.

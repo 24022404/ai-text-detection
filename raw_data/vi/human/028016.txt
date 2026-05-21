@@ -1,0 +1,1 @@
+Người dùng bấm nút thêm mới để thêm sản phẩm 5. Hệ thống kiểm tra thông tin, tạo sản phẩm mới và thông báo thêm mới thành công Luồng sự kiện phát sinh :

@@ -1,0 +1,1 @@
+Staff changing personal information including Name, phone number, and ad dress. Also can change the password when needed. Staff can see everyone in their group.

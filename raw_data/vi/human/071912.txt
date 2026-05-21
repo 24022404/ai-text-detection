@@ -1,0 +1,1 @@
+Mô hình được huấn luyện vớ phương pháp tối ưu AdamW điểm cập nhật trọng số với siêu tham số lr= 0.0005. Em cũng điều chỉnh sêu tham số trong quá trình huấn luyện sử dụng tham số num−warm up −step= 1000 , rúp giảm tác động của việc đi lệch hướng mô hình khi tiếp xúc với những dữ liệu mờ.

@@ -1,0 +1,1 @@
+Các đối tượng được tạo ra từ lớp User kết tập theo quan hệ nhiều trong lớp UserVewPermssons trong gó UserBusness. Lớp UserVewPermssons là 1 thành phần của lớp UserVewSet, chỉ tồn tạ kh lớp UserVewSet điược khở tạo.b, Thết kế cho tết có Workspace  Node Hình 4.5: Thiết kế góc Workspace  Node Hình 4.5 mô tả ch tết thiết kế góc Workspace và gió Node. Trong đó:

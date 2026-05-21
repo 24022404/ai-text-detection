@@ -1,0 +1,7 @@
+Đánh giá chuyển vị mục tiêu nhà cao tầng chịu động đất là một vấn đề quan trọng trong lĩnh vực xây dựng và công trình. Trong bối cảnh ngày càng nhiều công trình nhà cao tầng được xây dựng ở các khu vực có nguy cơ xảy ra động đất, việc đánh giá chuyển vị mục tiêu trở nên cấp thiết hơn bao giờ hết.
+
+Phương pháp tĩnh là một trong những phương pháp được sử dụng rộng rãi để đánh giá chuyển vị mục tiêu nhà cao tầng chịu động đất. Phương pháp này dựa trên giả định rằng công trình chịu tác động của động đất một cách tĩnh, không có biến dạng nền. Tuy nhiên, trong thực tế, biến dạng nền có thể ảnh hưởng đáng kể đến chuyển vị mục tiêu của công trình.
+
+Để đánh giá chuyển vị mục tiêu nhà cao tầng chịu động đất có xét biến dạng nền, cần sử dụng các phương pháp tính toán phức tạp, bao gồm cả phương pháp động và phương pháp tĩnh. Phương pháp động sẽ tính toán chuyển vị mục tiêu của công trình dựa trên các giả định về động đất và biến dạng nền, trong khi phương pháp tĩnh sẽ sử dụng các giả định về chuyển vị mục tiêu và biến dạng nền để tính toán chuyển vị mục tiêu.
+
+Kết quả đánh giá chuyển vị mục tiêu nhà cao tầng chịu động đất có xét biến dạng nền sẽ cung cấp thông tin quan trọng cho các nhà thiết kế và xây dựng công trình. Thông tin này sẽ giúp họ xác định được mức độ an toàn của công trình và đưa ra các biện pháp cần thiết để đảm bảo an toàn cho người và tài sản.

@@ -1,0 +1,1 @@
+Container Lifecycle: When you run a Docker container, the Docker daemon pulls the required image from the registry if it’s not already available locally. The daemon then creates a container from the image, and the application inside the container starts running.

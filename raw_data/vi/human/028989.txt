@@ -1,0 +1,1 @@
+Trước tên, do hiện tại hệ thống phát hiện sao chép có giao diện không thân thiện với người dùng và hệ thống sử dụng công nghệ ReactJS. Nên em sẽ thừa kế và cải thiện nếp gao vện hệ thống giúp cho gao vện trở nên thân thiện với người dùng hơn.

@@ -1,0 +1,1 @@
+() Tên use case: Đăng nhập () Các dòng sự kiện chính: trên giao diện màn hình chính, khách hàng viếng thăm chọn đăng nhập. Hệ thống sẽ hiển thị giao diện đăng nhập và Khách hàng thành viên nhập thông tin vào giao diện điểm kiểm tra tài khoản đã có hay chưa. Kết thúc Use Case .

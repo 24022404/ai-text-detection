@@ -1,0 +1,1 @@
+JavaScript operates on an event-driven model, allowing developers to attach event handlers that respond directly to user actions such as clicks and keypresses. By interacting with the Document Object Model (DOM), JavaScript can dynamically alter the structure and content of web pages, enhancing interactivity and user experience.

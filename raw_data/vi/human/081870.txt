@@ -1,0 +1,1 @@
+Với việc tổ chức cá file code tập trung theo một hoặc một và nghiệp vụ. Vì vậy, các code base và độ phức tạp của chúng điều không cao. Nhờ vậy, nó sẽ giúp mang lại tính gọn nhẹ, dễ bảo trì cũng như mở rộng hơn.

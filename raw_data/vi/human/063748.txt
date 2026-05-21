@@ -1,0 +1,1 @@
+My SQL là một hệ thống quản trị cơ sở dữ liệu mã nguồn mở (Relatonal Database Management System) hoạt động theo mô hình clentserver. Cho phép tạo và quản lý các cơ sở dữ liệu theo hình thức quản lý mố lên hệ gữa chúng.

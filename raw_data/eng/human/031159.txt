@@ -1,0 +1,1 @@
+As the scheduled date approaches, the service provider performs the booked service, and after completion, they provide evidence of the service through the app. The system verifies the evidence and updates the status to "done," sending a notification to the customer app. At this point, the customer has the option to give a rating or leave a comment about the service if they wish.

@@ -1,0 +1,1 @@
+Tạo lệnh tạo/xóa tài khoản: Khi một nhân viên mới vào làm việc hoặc một nhân viên nghỉ việc thì tài khoản của các nhân viên này cần được cập nhật trên hệ thống.

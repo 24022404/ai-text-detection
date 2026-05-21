@@ -1,0 +1,1 @@
+Đơn ký: chỉ việc tài liệu được ký bởi một người dùng Đồng ký: đi với một tài liệu trong một tổ chức cần nhiều chữ ký từ các cá nhân khác nhau. Khi đó từng cá nhân ký vào tài liệu và được thông báo tới các cá nhân khác lên quan. Luồng đi của văn bản sẽ phụ thuộc vào nghiệp vụ của tổ chức, thường thì sẽ phả có một cá nhân ký duyệt cuối cùng.

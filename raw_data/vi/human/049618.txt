@@ -1,0 +1,1 @@
+− ObjectContext đi ạ diện cho một database. ObjectContext có chức năng quản lý các kết nối, định nghĩa mô hình dữ liệu với metadata và thao tác với database. Lớp này cũng có thể thêm vào các phương thức đại diện cho các stored procedure  trong database.tương ứng với một table. Có thể lấy được các điốt tượng này thông qua các property tương ứng của ObjectContext.

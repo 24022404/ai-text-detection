@@ -1,0 +1,1 @@
+Khả năng mở rộng: Magento được thiết kế điển có thể mở rộng, linh hoạt và đáp ứng được các nhu cầu tùy chỉnh của từng doanh nghiệp. Magento cung cấp cho người dùng một loạt các chức năng và tính năng mở rộng, từ chủ đề, plugin, cho điện các tính năng quản lý sản phẩm và khách hàng.

@@ -1,0 +1,1 @@
+Sau đó chọn chức năng muốn xử lý, chọn dòng hình ảnh muốn xử lý và ấn nút yêu cầu. Tiếp theo ứng dụng sẽ gửi yêu cầu đến máy chủ. Nếu thành công, giao diện ứng dụng sẽ hiển thị dòng, nếu thất bại sẽ hiển thị thông báo lỗ. Ch tết luồng hoạt điộng xem tạ hình 2.8.

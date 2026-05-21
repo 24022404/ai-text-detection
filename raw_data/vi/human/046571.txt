@@ -1,0 +1,1 @@
+Cộng đồng phát triển: VS Code được phát triển bởi Microsoft và được hỗ trợ bở cộng đồng nguồn mở lớn, có nhiều trình mở rộng và tiện ích được phát triển bởi cộng đồng.

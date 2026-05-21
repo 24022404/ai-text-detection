@@ -1,0 +1,1 @@
+Chapter 3 : Introduction of technologies used in the study are RFID technol-ogy and technologies used to build warehouse management applications as well as DxClan systems. From there, how these technologies can be closely combined to create an application with good quality, high performance and fully meet the needs of enterprises.

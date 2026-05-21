@@ -1,0 +1,13 @@
+Objective/Purpose:  
+Establishing and validating causal relationships from observational data is a central challenge in data-driven decision-making across domains such as artificial intelligence, healthcare, and social sciences. However, existing tools often fall short in allowing researchers to clearly express, test, and refine causal assumptions, which can lead to erroneous inferences and reduced trust in causal models. This paper introduces DoWhy, an open-source framework designed to systematically address the complexities of expressing and validating causal assumptions in empirical research.
+
+Methods/Approach:  
+DoWhy provides a structured, end-to-end approach to causal inference by integrating formal causal graphs, model specification, identification, estimation, and refutation within a unified interface. It allows users to explicitly articulate their assumptions using intuitive graphical models, translates these into formal mathematical expressions, and applies robust statistical and algorithmic procedures for causal effect estimation. DoWhy further incorporates multiple validation techniques, including placebo tests, data subset analysis, and sensitivity checks, to rigorously assess the credibility of resulting causal claims.
+
+Results/Findings:  
+Empirical evaluations on benchmark datasets demonstrate that DoWhy enables more transparent modeling and yields significant improvements in the identification and correction of invalid or fragile causal assumptions compared to conventional, less systematic methodologies. Quantitative experiments highlight DoWhy’s effectiveness in detecting biases and increasing the reliability of estimated effects, while qualitative case studies showcase its usability and flexibility in varied practical scenarios.
+
+Conclusion/Implications:  
+By unifying causal assumption expression, validation, and inference in an accessible framework, DoWhy advances the state-of-the-art in causal analysis and enhances reproducibility and transparency in research workflows. Its modular design and extensibility make it suitable for a wide range of scientific and industrial applications, promoting sound causal reasoning and evidence-based decision-making.
+
+Keywords: causal inference, causal assumptions, causal graphs, validation, DoWhy, data science, transparency, empirical research

@@ -1,0 +1,1 @@
+Quản lý phòng ban: Giám đốc chi nhánh có toàn quyền quản lý phòng ban trong chi nhánh mà mình đang điều hành.

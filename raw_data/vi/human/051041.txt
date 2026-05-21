@@ -1,0 +1,1 @@
+Có hai phương pháp xây dựng phổ biến là: CBOX (Continuous Bag of Words) (Dự đoán những từ mục tiêu dựa vào từ ngữ cảnh) và Skipgram (Dự đoán từ ngữ cảnh dựa vào từ mục tiêu). Trong phạm vi của đồ án chỉ sử dụng mô hình Skip Gram.

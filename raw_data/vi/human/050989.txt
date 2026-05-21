@@ -1,0 +1,1 @@
+Lớp UploadFleServce UploadFleServce storage Multer: MulterAzure Storage + upload Image(): vod + upload CFm(): vid Bảng 4.2: Lớp Upload File Service Ý nghĩa các phương thức:

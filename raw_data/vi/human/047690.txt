@@ -1,0 +1,1 @@
+Đến Chương 3, tô giới thiệu về các công nghệ được sử dụng để xây dựng nên phân hệ quản lý và lập lịch các trình tính toán chỉ báo. Các công nghệ được điề cậpsẽ phân thành các nhóm lên quan đến chức năng: chức năng lưu trữ, chức năng xử lý, chức năng lập lịch, chức năng tạo mớ file. Các chức năng này điều là một phần trong quá trình xây dựng nên phân hệ.

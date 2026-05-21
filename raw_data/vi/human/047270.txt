@@ -1,0 +1,1 @@
+Người dùng: gồm các thuộc tính user Id (mã người dùng), phoneNumber (số điện thoại), birthday (ngày sinh), dataLog (thờ gan long gần nhất), password (mật khẩu), frends (danh sách bạn bè), frendRequestReceved (danh sách lờ mờ kết bạn đã nhận), avatar (ảnh đại diện), name (tên người dùng).

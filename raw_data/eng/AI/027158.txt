@@ -1,0 +1,1 @@
+API keys and tokens often have distinctive prefixes or specific lengths unique to each provider, like AIzaSy... for Google APIs, aiding quick recognition.

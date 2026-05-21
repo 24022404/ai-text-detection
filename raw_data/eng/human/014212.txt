@@ -1,0 +1,1 @@
+FN – False Negative: The number of predicted data that are not X but they areactually labeled X (in this case the model predicts wrong).

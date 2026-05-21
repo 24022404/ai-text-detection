@@ -1,0 +1,1 @@
+.Màu chủ đạo: sử dụng làm màu chính bao phủ toàn hệ thống, các hành động chính và các yếu tố điều hướng.

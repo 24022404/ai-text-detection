@@ -1,0 +1,9 @@
+Objective: Unsupervised domain adaptation (UDA) for object detection aims to transfer a model trained on a labeled source domain to an unlabeled target domain, but existing methods often overlook prediction uncertainty under domain shift. This paper introduces an uncertainty-aware UDA framework that explicitly models and leverages detection uncertainty to improve cross-domain performance.
+
+Methods: Our approach combines two key components. First, an uncertainty estimation module computes per-detection confidence scores using Monte Carlo dropout during inference. Second, we integrate these uncertainty measures into both adversarial feature alignment and pseudo-label selection. In adversarial training, uncertain features contribute less to the domain discriminator loss, focusing adaptation on reliable regions. For pseudo-labeling, we filter target predictions based on a dynamic uncertainty threshold, reducing the impact of noisy labels. The entire pipeline is implemented in a student–teacher paradigm to stabilize training.
+
+Results: We evaluate our method on standard benchmarks, including Cityscapes→Foggy Cityscapes and Sim10k→Cityscapes. Compared to state-of-the-art UDA detectors, our model achieves relative mAP improvements of 4.1% and 3.3%, respectively. Ablation studies confirm that both uncertainty-guided alignment and pseudo-label filtering contribute significantly to performance gains. Qualitative analysis shows sharper object boundaries and fewer false positives in challenging conditions.
+
+Conclusion: By incorporating predictive uncertainty into UDA for object detection, our framework improves robustness against domain shift and yields more accurate detections in the target domain. This uncertainty-aware strategy can be extended to other vision tasks where reliable adaptation is critical.
+
+Keywords: Unsupervised domain adaptation, object detection, uncertainty estimation, domain shift, pseudo-labeling.

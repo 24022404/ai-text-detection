@@ -1,0 +1,1 @@
+Dựa vào khảo sát trên, em nhận thấy rằng vệc xây dựng hệ thống quản lý tà sản vớ các chức năng đã nêu ở 1 sẽ phù hợp với mô hình doanh nghệp vừa và nhỏ, vớ gao vện và cách trển kha, các chức năng dễ hiểu gúp người dùng dễ dàng hơn trong quản lý tà sản của mình.

@@ -1,0 +1,1 @@
+Hiện nay, mô hình lưu trữ dữ liệu được chia thành 2 loại chính: mô hình dữ liệu quan hệ RDBMS (Relational Database Management System) và mô hình dữ liệu ph quan hệ NoSQL  (Not only SQL).

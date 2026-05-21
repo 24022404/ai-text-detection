@@ -1,0 +1,1 @@
+field ": "long hobbes",  operator ": 6, value": "10", type": 5 Dưới đây là ý nghĩa các trường trong chuỗi json trên:

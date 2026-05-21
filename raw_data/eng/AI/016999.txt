@@ -1,0 +1,14 @@
+Background & Motivation:
+The casual gaming industry has experienced significant growth, with mobile devices becoming the primary platform for entertainment. However, the market is saturated with similar games, leaving room for innovation and creativity. This thesis aims to address the need for a unique and engaging casual game that combines entertainment with education.
+
+Objectives:
+The primary objective of this thesis is to design and develop a casual game, titled "Funny Zoo," using the Unity game engine. The game aims to provide an immersive and interactive experience, teaching players about various zoo animals while promoting fun and relaxation. The specific problems addressed include creating an engaging gameplay mechanism, designing an intuitive user interface, and ensuring a seamless user experience.
+
+Methodology:
+The development of Funny Zoo utilizes the Unity game engine, incorporating 2D and 3D graphics, animations, and sound effects. The game's architecture is designed to be modular, allowing for easy updates and expansions. An iterative development approach is employed, with continuous testing and refinement to ensure a high-quality gaming experience.
+
+Results & Expected Contributions:
+The completed game, Funny Zoo, offers a unique blend of education and entertainment, providing players with an engaging and interactive experience. The game's contributions include promoting learning about zoo animals, demonstrating the potential of Unity in casual game development, and showcasing a modular game architecture.
+
+Conclusion:
+This thesis presents the design and development of Funny Zoo, a casual game built with Unity. The game's innovative approach to combining education and entertainment makes it a significant contribution to the casual gaming industry. Future developments may include expanding the game's content, incorporating virtual reality features, and exploring the potential of Funny Zoo as a tool for educational institutions.

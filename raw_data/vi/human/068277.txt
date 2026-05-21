@@ -1,0 +1,1 @@
+Proximal Policy Optimization Phương pháp Proximal Policy Optimization  (PPO) được phát triển bởi OpenAI và đạt được những kết quả rất ấn tượng, thể hiện được giá trị ứng dụng của học tăng cường trong thực tế. Ý tưởng của phương pháp này là sử dụng importance sampling, nâng cao sự hiệu quả của việc sử dụng dữ liệu.

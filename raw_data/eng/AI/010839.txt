@@ -1,0 +1,1 @@
+Users can utilize ADB or Frida scripts to conduct dynamic analysis, hook into API functions, intercept network communications, and alter app behavior while the application is running.

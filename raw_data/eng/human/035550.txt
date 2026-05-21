@@ -1,0 +1,1 @@
+The core building elements of the Angular framework are Angular components ar ranged into NgModules. NgModules organize related code into functional groups;an Angular application is defined by a collection of NgModules. An application al ways contains at least one root module that facilitates bootstrapping, and it usually has many more feature modules.

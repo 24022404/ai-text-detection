@@ -1,0 +1,1 @@
+Phạm v của điề tà sẽ tập trung vào vệc thết kế và phát trển một giao diện người dùng thân thiện và dễ sử dụng điể phù hợp với nhu cầu của thư vện. Hệ thống sẽ điược thết kế điể gả quyết các vấn điề cụ thể mà các thư vện nhỏ và vừa thường gặp phải, đồng thờ điơn gản hóa quá trình trển kha và sử dụng.

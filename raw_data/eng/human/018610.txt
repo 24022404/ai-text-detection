@@ -1,0 +1,1 @@
+Actors Involved : User – Preconditions : The application must be uploaded, and the system must have started the analysis process to detect the APIs used by the app.

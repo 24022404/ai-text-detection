@@ -1,0 +1,1 @@
+preprocessed Newshead with different tokenizers used on the ViMs dataset, which further supports the analysis of our model’s performance. Based on the results obtained from using different tokenizers, it is evident that the PhoBERT tokenizer yields the best performance compared to the other two tokenizers (34k-vocab tokenizer and ViT5 tokenizer).

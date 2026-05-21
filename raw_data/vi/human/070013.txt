@@ -1,0 +1,1 @@
+Mddle Manager (Quản lý trung gan) quản lý các tác vụ nhập dữ liệu vào cụm, chịu trách nhệm kết nối đến các hệ thống lưu trữ dữ liệu. Mddle Manager sẽchuyển tếp các tác vụ điến thực th tạ các Peon (một tến trình thực th việc nhập dữ liệu). Mỗ Peon chỉ chịu trách nhệm cho một tác vụ, mỗ Mddle Manager có thể quản lý nhều Peons cùng lúc.

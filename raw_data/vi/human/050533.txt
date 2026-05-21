@@ -1,0 +1,1 @@
+Thực tế, chủ ứng dụng cho mỗi ứng dụng được giao nhiệm vụ đàm phán các tài nguyên từ trình quản lý tài nguyên và làm việc với trình quản lý nút để thực thi và giám sát các tác vụ.

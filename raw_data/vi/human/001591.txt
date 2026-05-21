@@ -1,0 +1,1 @@
+uploads CV(): nhận request chứa file CV và file audio từ client rồ gọi điện upload server để lưu file. Sau đó lấy đường dẫn trả về từ upload server để lưu thông tin file vào cơ sở dữ liệu.

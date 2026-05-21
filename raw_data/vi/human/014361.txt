@@ -1,0 +1,1 @@
+Vớ kiến trúc client server, các ứng dụng client (ReactJS và Android app) không cần biết về logic xử lý nghiệp vụ hay cơ sở dữ lệu của hệ thống, mà chỉ tương tác với backend NestJS thông qua các API. Điều này giúp tăng tính linh hoạt của hệ thống, vì có thể thay đổi log xử lý nghiệp vụ hay cơ sở dữ lệu của backend mà không cần thay đổi các ứng dụng client.

@@ -1,0 +1,1 @@
+T. Pissas, C. S. Ravasio, L. D. Cruz, and C. Bergeles, “Multi-scale and crossscale contrastive learning for semantic segmentation,” in European Confer ence on Computer Vision , Springer, 2022, pp. 413–429.

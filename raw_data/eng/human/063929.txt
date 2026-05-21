@@ -1,0 +1,1 @@
+Use case Comment a post Code UC04 Actor User Description An user comments on created post Pre-condition An user has logged into the system.

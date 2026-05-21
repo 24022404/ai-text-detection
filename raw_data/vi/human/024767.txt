@@ -1,0 +1,1 @@
+Dễ dàng học và sử dụng: PHP có cú pháp điơn gản và dễ hiểu, gúp cho các lập trình viên mớ có thể nhanh chóng bắt điầu phát trển ứng dụng web.

@@ -1,0 +1,1 @@
+Khác với cơ chế chú ý của Transformer, CBAM là một môđun thuần CNN, chỉ bao gồm các lớp tích chập. CBAM được thiết kế sao cho số lượng tham số và số phép tính cần tính nhỏ (lightweight network) mà vẫn mang lại hiệu năng cao, đồng thờ có thể dễ dàng tích hợp vào kiến trúc mạng cơ sở nhằm tinh chỉnh đặc trưng được cho ra bởi tầng tích chập bất kỳ (xem Hình 3.11).

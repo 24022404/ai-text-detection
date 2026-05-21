@@ -1,0 +1,1 @@
+Khá nệm Wserialization Serialization là quá trình chuyển đổi trạng thái của một đối tượng sang tập các byte điểm Ulti có thể lưu trữ lạ trong bộ nhớ, trong database hay trong một file.

@@ -1,0 +1,1 @@
+Q. Zhang, M. Zhang, T. Chen, Z. Sun, Y . Ma andB. Yu, “Recent advances in convolutional neural network acceleration,” CoRR ,jourvol abs/1807.08596, 2018. arXiv: 1807.08596 .url:

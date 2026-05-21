@@ -1,0 +1,1 @@
+Flexibility: LSTM networks can be designed with multiple layers and neurons, allowing them to capture intricate patterns and relationships in the data. This flexibility makes them adaptable to various complexities in the price data.

@@ -1,0 +1,1 @@
+Interceptor package: Contains mechanism that allows user to intercept, handle, and transform HTTP requests before they are sent or after receiving responses from the server.•Service package: contains the utility functions that handle logic required in multiple places throughout the project.

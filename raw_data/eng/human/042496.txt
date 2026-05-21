@@ -1,0 +1,1 @@
+ADB (Android Debug Bridge) : Enables communication with Android de vices, supporting tasks like app installation, debugging, and runtime behaviormonitoring.

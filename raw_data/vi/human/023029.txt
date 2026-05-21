@@ -1,0 +1,1 @@
+Khả năng cải thiện nhân vật trong quá trình chơi game thông qua việc tăng các chỉ số của nhân vật (thường là Strength: sức mạnh, Dexterity: độ dẻo da, Intelligence: độ thông minh) hoặc nâng cấp độ của nhân vật họ nhập và.

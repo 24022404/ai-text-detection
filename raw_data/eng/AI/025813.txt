@@ -1,0 +1,1 @@
+Table 2.6 outlines the "Search" use case (UC05), highlighting how a logged-in user can look for a destination, hotel, or another user within the system. If the search request is unsuccessful, the system immediately notifies the user of the failure, ensuring clear feedback.

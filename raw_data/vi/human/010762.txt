@@ -1,0 +1,1 @@
+FILTER ( regex ( u p c a s e ( ? name ) , \ " " " " + v a l u e + " " " \ " ) )  " "3.5 Xây dựng trang web tra cứu thông tin về du lịch Hà Nội Trang web xây dựng dựa trên Ontology đã tạo nhằm trực quan hóa cơ sở tri thức giúp người dùng tìm kiếm thông tin nhanh chóng, dễ dàng.

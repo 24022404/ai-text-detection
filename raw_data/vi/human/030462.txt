@@ -1,0 +1,1 @@
+Elasticsearch cho phép chúng ta lưu trữ, tìm kiếm và phân tích khối lượng dữ liệu khổng lồ một cách nhanh chóng, gần thời gian thực và đưa ra câu trả lời chỉ trong ml gây. Nó có thể đạt được phản hồi tìm kiếm nhanh chóng vì thay vì tìm kiếm văn bản trực tiếp, nó sẽ tìm kiếm một chỉ mục.

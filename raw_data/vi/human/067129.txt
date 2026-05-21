@@ -1,0 +1,1 @@
+Tích hợp hệ thống thành website hoặc app để dễ bề tính toán  Tiếp tục tìm tòi nghiên cứu thêm các model để tìm kiếm kết quả tối ưu  Khảo sát, thu thập dữ lệu từ các nhà máy điện gió ở Việt  Nam  Áp dụng mô hình tố ưu điểm đưa ra được kết quả chính xác nhất, giảm chi phí, gia tăng lợi nhuận cho các nhà máy điện gió…   Convolutional Networks,  , last visited August 2022.

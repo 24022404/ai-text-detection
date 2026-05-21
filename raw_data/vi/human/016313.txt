@@ -1,0 +1,1 @@
+Tách biệt các thành phần của trang web: CSS cho phép lập trình viên tách rời các thành phần của trang web như nội dung, định dạng, hoạt động của trang web và giữ cho chúng sạch sẽ và dễ quản lý.

@@ -1,0 +1,1 @@
+Dễ dàng nhận thấy trong trường hợp có ánh đèn phát ra từ phương tiện giao thông, model sẽ trả về kết quả là bounding box của hai đối tượng: phương tiện và điền tương ứng. Và vùng nhận diện của điện thường sẽ nằm 75100% diện tích trong vùng nhận diện của phương tiện:

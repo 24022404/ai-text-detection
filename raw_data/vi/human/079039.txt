@@ -1,0 +1,1 @@
+Bên cạnh HTML và CSS thì JavaScript chính là một trong 3 ngôn ngữ chính trong lập trình website. JavaScript được phát triển bởi Brendan Ech vớ tiền thân là Mocha. JavaScript được tích hợp đồng thời nhúng vào HTML để hỗ trợ cho website trở nên sống động hơn, giúp tăng trải nghiệm cho người dùng .

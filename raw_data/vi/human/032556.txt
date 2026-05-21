@@ -1,0 +1,1 @@
+Do muốn bảo vệ toàn bộ kiến thức trong khi điều chỉnh các biểu diễn ngữ cảnh cho mô hình phân loại. Nền trong Epoch đầu tiên, em chỉ giữ lại các lớp được kết nối đầy đủ chịu trách nhiệm phân loại chuỗi văn bản và phần RoBERTa bị đóng băng. Đều này cho phép mô hình tìm hiểu một quyết định phù hợp cho nhiệm vụ.

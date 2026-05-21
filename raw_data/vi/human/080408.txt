@@ -1,0 +1,1 @@
+Cho k là trư ờng, 12[ , , , ]n R k x x x là vành đa th ức trên k . Trong bài báo này, chúng tôi trình bày m ột số kết quả về sự phân tích nguyên sơ không rút g ọn được và bao đóng nguyên c ủa iđêan đơn th ức trong R .

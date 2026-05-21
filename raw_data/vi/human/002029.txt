@@ -1,0 +1,1 @@
+1 tensor có thể được bắt nguồn từ dữ lệu input hay kết quả của 1 tính toán. Trong TensorFlow, tất cả các hoạt động được tiến hành bên trong 1  graph  – biểu đồ. Biểu đồ là 1 tập hợp tính toán được diễn ra liên tiếp. Mỗ operation được gọi là 1  of node   (operation node) và được kết nối với nhau.

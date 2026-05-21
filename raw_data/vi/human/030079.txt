@@ -1,0 +1,1 @@
+IDE Intellj Hình 3.8: Intellj IDE (nguồn: Intellij.com)Intellij IDEA  là một trình IDE dùng để lập trình Java (nó cũng được sử dụng để lập trình một số ngôn ngữ khác như Node.js, python. . . ). Trong đồ án tốt nghiệp, tô đã sử dụng IntelliJ IDE để lập trình Java Spring Boot cho phần.

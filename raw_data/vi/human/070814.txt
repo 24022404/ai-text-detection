@@ -1,0 +1,1 @@
+Openvpn Openvz là một framework dựa trên kurento và gió gọn hầu hết các tính năng của nó điểm đơn giản hóa một số trường hợp sử dụng điển hình nhất của WebRTC . Các khái niệm chính trong Openvz Session là một phòng ảo nơ mà người tham gia có thể kết nối tớ để gửi và nhận các dòng audio và video. Chỉ những người kết nối đến cùng một session mới có thể nghe và nhìn thấy nhau.

@@ -1,0 +1,1 @@
+Việc cài đặt localhost được thực hiện bằng XAMPP. XAMPP hoạt động dựa trên sự tích hợp của 5 phần mềm chính là CrossPlatform (X), Apache (A), MariaDB (M), PHP (P) và Perl (P), nên tên gọi XAMPP cũng là viết tắt từ chữ cái điầu của 5 phần mềm này.

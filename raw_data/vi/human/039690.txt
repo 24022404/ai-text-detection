@@ -1,0 +1,1 @@
+Một nút có thể ghm nộ dung điể gữ (và cung cấp) nộ dung đó mã mã hoặc loạ bỏ nộ dung đã lâu không sử dụng điể tết kệm dung lượng. Đều này có nghĩa là mỗ nút trong mạng chỉ lưu trữ nộ dung mà nó quan tâm, cộng với một số thông tin lập chỉ mục giúp tìm ra nút nào đang lưu trữ cá gì.

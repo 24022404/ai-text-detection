@@ -1,0 +1,1 @@
+Nếu tài khoản không đủ số dư để thực hiện giao dịch, hệ thống Thông báo lỗi: Tài khoản không đủ điểm tạo phiếu khuyến mãi.

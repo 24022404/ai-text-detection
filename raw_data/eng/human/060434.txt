@@ -1,0 +1,1 @@
+Input/Ouput Input Takes the checksum of the application, the application path, and the manifest data extracted from the file. The manifest data typically includes information about the app’s permissions, components, and configurations.

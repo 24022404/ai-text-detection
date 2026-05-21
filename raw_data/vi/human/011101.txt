@@ -1,0 +1,1 @@
+Pearson Correlation: Đây là một phương pháp đánh giá độ tương tự dựa trên hệ số tương quan Pearson giữa các vector đánh giá của khách hàng. Nó đo lường mức độ biến thiên tương quan tuyến tính giữa hai vectơ và đánh giá mức độ tương đồng của chúng. Giá trị nằm trong khoảng 1 đến 1, với 1 là tương đồng hoàn toàn, 1 là tương phản hoàn toàn và 0 là không có tương quan tuyến tính.

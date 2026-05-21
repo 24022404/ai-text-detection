@@ -1,0 +1,1 @@
+Kến trúc này được điào tạo từ điầu với hàm mất mát entropy chéo (Cross Entropy Loss) và hàm mất mát Dce (Dce Loss).

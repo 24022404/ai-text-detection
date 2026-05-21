@@ -1,0 +1,1 @@
+Redux: khi xây dựng hệ thống phân loại dữ liệu dưới dạng một website, Redux cho ta một lựa chọn ổn để có thể cập nhật dữ liệu hiển thị mà không cần phải render lại trang web.

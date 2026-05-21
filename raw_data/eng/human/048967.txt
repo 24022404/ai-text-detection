@@ -1,0 +1,1 @@
+It is clear that PCA find 2 principal components that are orthogonal to one another and maximize variance in the space.Figure 3.8: PCA of a multivariate Gaussian distribution centered at (1,3) with a standard deviation of 3 in roughly the (0.866, 0.5) direction and of 1 in the orthogonal direction.

@@ -1,0 +1,1 @@
+The decentralized character of our platform would be jeopardized and its fundamental principles would be undermined by storing the video information in a con ventional database. Exploring alternatives to standard databases in order to safelyand effectively store metadata was necessary in order for us to achieve a truly de centralized solution.

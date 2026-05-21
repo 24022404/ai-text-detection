@@ -1,0 +1,1 @@
+Thiết kế này khá hợp lý tuy nhên sẽ dấn đến vệc khi truy vấn một thư vện hoặc điề xuất, server sẽ phải chạy thêm nhều ap điể lấy ra các custom felds và gá trị tương ứng dẫn đến tốn tà nguyên.

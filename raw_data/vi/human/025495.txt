@@ -1,0 +1,1 @@
+Phân hệ thu thập, tổ chức lưu trữ và cảnh báo chứng khoán: bao gồm 2 thành phần chính là Kafka và Drud. Các dữ liệu của hệ thống được lưu toàn bộ trong Drud. Kafka được sử dụng như một vùng điệm cho dữ liệu, trước khi điẩy vào Drud.

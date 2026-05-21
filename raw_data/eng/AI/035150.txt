@@ -1,0 +1,9 @@
+Objective: Reliable prediction of software defects is critical for improving software quality and reducing maintenance costs. Traditional single-model approaches often struggle with diverse dataset characteristics, leading to suboptimal defect detection. This paper proposes a novel framework of multiple ensemble learning models tailored to different software defect datasets.
+
+Methods: We design three ensemble strategies—bagging-based Random Forest, boosting-based XGBoost, and a stacking ensemble combining heterogeneous base learners (decision tree, support vector machine, and k-nearest neighbor). Each model is trained and tuned on distinct public defect datasets (NASA, PROMISE, and AEEEM) to capture dataset-specific patterns. Feature selection is applied using information gain and correlation analysis to reduce dimensionality and mitigate overfitting. Model hyperparameters are optimized via grid search and cross-validation.
+
+Results: Experimental results show that our dataset-specific ensembles outperform baseline single classifiers and homogeneous ensembles in accuracy, F1-score, and area under the ROC curve (AUC). On average, the stacking ensemble achieves an accuracy improvement of 7.5% and AUC gain of 0.08 over state-of-the-art methods. Moreover, the tailored models demonstrate robust generalization when evaluated on unseen projects, reducing false positive rates by up to 15%.
+
+Conclusion: This study confirms that leveraging multiple, dataset-tailored ensemble learning models significantly enhances software defect prediction. The proposed framework offers practical value for quality assurance teams by providing more accurate and adaptable defect detection. Future work will explore real-time integration and incremental learning for evolving codebases.
+
+Keywords: software defect prediction, ensemble learning, Random Forest, XGBoost, stacking ensemble, dataset tailoring.

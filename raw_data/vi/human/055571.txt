@@ -1,0 +1,1 @@
+Công nghệ FrontEnd  VueJS Vue JS là một framework Javascript được tạo bởi Evan You vớ mục đích xây dựng giao diện người dùng cũng như xây dựng Single Page Application thân thiện với người dùng. Chung xây dựng từ các thư viện, cách triển khai component, các chức năng đặc trưng của nó như SFC (Single File Component).

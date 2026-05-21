@@ -1,0 +1,1 @@
+MySql được chọn sử dụng trong đồ án này vì MySql dễ cài đặt, dễ sử dụng, tính ổn định và tốc độ cao.

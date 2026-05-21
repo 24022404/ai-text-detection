@@ -1,0 +1,1 @@
+MySQL được sử dụng rộng rãi trên các hệ thống web vì tính đơn giản, dễ sử dụng, tốc độ xử lý nhanh và khả năng mở rộng. MySQL được hỗ trợ trên nhiều hệ điều hành khác nhau, bao gồm Windows, macOS và Linux.

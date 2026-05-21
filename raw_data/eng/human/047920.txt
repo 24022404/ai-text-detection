@@ -1,0 +1,1 @@
+By staking GRT tokens, curators highlight particular subgraphs as important, en couraging accurate and worthwhile data indexing. Delegators can participate in the network and gain rewards by delegating their GRT tokens to Indexers.

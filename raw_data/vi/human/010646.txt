@@ -1,0 +1,1 @@
+Nếu thông tin không hợp lệ hoặc thiếu trường bắt buộc, hệ thống hiển thị thông báo lỗ và yêu cầu thành viên nhập lại.

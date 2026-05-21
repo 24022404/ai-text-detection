@@ -1,0 +1,1 @@
+Register Controller, LoginController, Auth Controller là các lớp điều khiển xử lý cho việc đăng nhập, phân quyền của các tác nhân, và đăng ký tài khoản cho đại diện trung tâm.

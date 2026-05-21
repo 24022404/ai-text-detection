@@ -1,0 +1,1 @@
+Điều kiện phân khúc sẽ được lưu thành chuỗi theo định dạng json. Ví dụ về điều kiện khách hàng có sở thích dài hạn về thể loại sách có mã định danh là 10 sẽ được lưu như sau:

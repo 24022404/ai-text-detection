@@ -1,0 +1,1 @@
+Huấn luyện mô hình vớ SVM Trong phần 3.3.1 em đã trình bày là sẽ sử dụng TFIDF cho khố Feature Extraction và sử dụng Kernel Linear cho bộ phân lớp. Ngoài ra có thể thấy các kỹ thuật em sử dụng để huấn luyện mô hình được thể hiện trong Bảng 4.1 .

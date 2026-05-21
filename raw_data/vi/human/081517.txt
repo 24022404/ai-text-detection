@@ -1,0 +1,1 @@
+Vớ những tính năng và ưu điểm vượt trộ kể trên MySQL là gả pháp phùhợp điể sử dụng kết hợp với Laravel Framework trong việc xử lý phần dữ liệu của website.

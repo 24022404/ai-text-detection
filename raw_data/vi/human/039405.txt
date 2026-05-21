@@ -1,0 +1,1 @@
+apply Result (Apply Result): kết quả chấp nhận hoặc từ chố ứng vênExcepton: Không Method : Không Start : Không c, Lớp Apply Job Controller Hình 4.24: Lớp Apply Job Controller Attribute :

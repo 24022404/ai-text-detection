@@ -1,0 +1,1 @@
+Dataset Size: Show the number of documents that were used for training process of the model. Typically in a machine learning problem, larger dataset size would return a better result with the same approach.

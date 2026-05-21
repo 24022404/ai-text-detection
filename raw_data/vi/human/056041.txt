@@ -1,0 +1,1 @@
+STT Tên trường Kiểu dữ lệu Ý nghĩa 1 user integer mã định danh khách hàng 2 segment d integer mã định danh phân khúc 3 update_time Datetime thờ gan cập nhật Bảng 4.3: Bảng cdp_segment_customer_assocaton Bảng cdp_customer_category_assocaton lưu trữ thông tin về những thể loại sách mà khách hàng quan tâm trong thờ gan gần.

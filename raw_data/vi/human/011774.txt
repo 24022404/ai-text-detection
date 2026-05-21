@@ -1,0 +1,1 @@
+Tính tăng dần: Của các phân đoạn, nhóm phát triển thường cho ra các phần nhỏ của sản phẩm cuối cùng. Các phần nhỏ này thường là đầy đủ, có khả năng chạy tốt, được kiểm thử cẩn thận và có thể sử dụng ngay. Theo thờ gan, phân đoạn này tiếp nối phân đoạn ka, các phần chạy được này sẽ được tích lũy, lớn dần lên cho tớ kh toàn bộ yêu cầu khách hàng được thỏa mãn.

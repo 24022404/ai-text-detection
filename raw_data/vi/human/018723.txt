@@ -1,0 +1,1 @@
+Các API này dần dần được quy chuẩn điểm dễ dàng, thuận lợi khi sử dụng trong phát triển các sản phẩm không rêng các sản phẩm xây dựng trên nền tảng web.

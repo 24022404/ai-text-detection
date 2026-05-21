@@ -1,0 +1,1 @@
+All information must be available in the business system and able to report on the current value of all inventory. This will be the new authentication basis that the inventory system will use to record transactions. From here, businesses can make better choices based on what is in stock and what needs to be ordered.

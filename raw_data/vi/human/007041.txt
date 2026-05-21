@@ -1,0 +1,1 @@
+Hệ thống sẽ thực hiện tìm kiếm trong cơ sở dữ liệu khi có yêu cầu với độ đo là độ tương đồng cosine. Nếu độ tương đồng lớn nhất của vector truy vấn lớn hơn giá trị T thì sẽ trả ra danh tính của người đi, nếu không sẽ trả ra kết quả là người lạ.

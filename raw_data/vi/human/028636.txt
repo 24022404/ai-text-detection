@@ -1,0 +1,1 @@
+Từ vấn đề đó, em nhận thấy việc xây dựng một chức năng trao đổi thông tin trực tiếp vớ Host là cần thiết.

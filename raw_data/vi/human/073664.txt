@@ -1,0 +1,1 @@
+Inventory Item Class: lớp quản lý các tem sau kh điã điược điưa vào kho đồ của người chơ. Ta cần lớp này để khởi tạo các giá trị của tem từ các prototype mà lớp ItemS lưu giữ do ItemS là lớp kế thừa từ Scripable Object nên các giá trị muốn được khởi tạo phải khởi tạo từ lớp khác.

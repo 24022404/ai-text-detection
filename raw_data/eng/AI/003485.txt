@@ -1,0 +1,1 @@
+When Remote Config is enabled, the system scans its configurations for any sensitive information and logs a warning-level finding if such data is detected.

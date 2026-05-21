@@ -1,0 +1,1 @@
+TensorFlow is an open-source machine learning framework developed by the Google Brain team in 2015. It is used for building and training machine learn-ing models, including deep neural networks, for a variety of applications, such as computer vision, natural language processing, and time-series analysis.

@@ -1,0 +1,1 @@
+Khi khách  hàng  muốn  mua hàng  trên hệ thống  thì sẽ phải đăng  kí tài khoản  trên hệ thống.  Khách  hàng  sẽ chọn  đăng  kí và nhập  các thông  tin cần thiết mà giao diện yêu cầu nhập.

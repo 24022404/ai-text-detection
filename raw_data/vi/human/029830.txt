@@ -1,0 +1,1 @@
+Giới hạn số lần đăng nhập: Giới hạn số lần đăng nhập để ngăn chặn các cuộc tấn công Brute Force và báo động cho người quản trị kh có nhiều yêu cầu đăng nhập từ cùng một địa chỉ IP.

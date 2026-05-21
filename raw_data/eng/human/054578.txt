@@ -1,0 +1,1 @@
+content-based, item-item based, matrix factorization so that the system gives a list of suggested books.Users can review their personal information in the Profile UI, this screen will contain information such as the customer’s username and email.

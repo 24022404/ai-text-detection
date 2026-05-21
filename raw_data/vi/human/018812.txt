@@ -1,0 +1,1 @@
+Bước 4: Đánh giá Để đánh giá tính đúng đắn của việc áp dụng thuật toán, ta có thể dựa vào việc sản phẩm của một customer bất kỳ xuất hiện trong danh sách gợi ý sản phẩm cũng xuất hiện trong tập test. Số lượng customer hợp lệ cho việc đánh giá theo cách trên là 1955 (customer có đơn hàng trên cả tập trận và tập test).

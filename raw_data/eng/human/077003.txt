@@ -1,0 +1,1 @@
+Results and future development directions We will divide the application into screens, each screen will be a module that manages its state and UI. Each of these modules will export config so that the react-router side can connect between the route and the component. That is shown in the following figure:

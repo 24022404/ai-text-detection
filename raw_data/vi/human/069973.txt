@@ -1,0 +1,1 @@
+Hệ thống đèn giao thông Hệ thống đèn giao thông cho mô trường một ngã tư điwn gản bao gồm 4 đèn giao thông tương ứng với 4 hướng đi của ngã tư, được kiểm soát bởi một vật thể cha đóng vai trò quản lý hoạt động của 4 đèn này.

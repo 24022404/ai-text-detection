@@ -1,0 +1,1 @@
+Tabular data is stored in SQL databases. This data is kept in a preset data model that isn’t very flexible for the modern, rapidly expanding real-world applications.

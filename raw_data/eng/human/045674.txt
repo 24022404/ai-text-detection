@@ -1,0 +1,1 @@
+We participated the Task 1: Lesion Segmentation. The paper describes our algorithm and the final result of validation set for the ISIC Challenge 2018 - Skin Lesion Analysis Towards Melanoma Detection.

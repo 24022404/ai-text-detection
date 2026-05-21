@@ -1,0 +1,1 @@
+Về phía Backend là nơi tiếp nhận các yêu cầu từ Frontend điểm xử lý và trả về kết quả phục vụ nhu cầu sử dụng của người dùng, vì vậy cần yêu cầu cao về xử lý logic, hiệu năng chương trình. Em sử dụng ASP.Net Core cho phát triển phía Backend, đây là một framework hiệu năng cao, miễn phí, mã nguồn mở, có thể chạy trên nhiều môi trường hệ điều hành như Windows, macOS, Linux.

@@ -1,0 +1,1 @@
+the experiments conducted above suggest that nodes with balanced data exhibit similar directions in their local gradients, bringing them closer to the global gradient.

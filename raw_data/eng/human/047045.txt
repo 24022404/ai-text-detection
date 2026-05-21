@@ -1,0 +1,1 @@
+For VGG-19, I kept all layers frozen except for layers 34, 35, and 36. Similar to ResNet152, I added two fully connected layers to reduce the output dimension from 1000 to 20.

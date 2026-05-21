@@ -1,0 +1,1 @@
+However, like any technology, jQuery also has its limitations. For instance, itmay not be suitable for large-scale enterprise applications that require more ad vanced features and capabilities. Additionally, jQuery may not be necessary for simple web pages or projects that do not require much interactivity.

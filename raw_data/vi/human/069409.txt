@@ -1,0 +1,1 @@
+Danh sách sản phẩm gợi ý thu được sau khi sử dụng Item Based Collaborative Filtering được thể hiện ở mục "We found other products you might like". Đây là phần sẽ gợi ý top các sản phẩm tương tự cao nhất với sản phẩm hiện tại mà người dùng đang tương tác.

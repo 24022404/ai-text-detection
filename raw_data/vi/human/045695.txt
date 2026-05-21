@@ -1,0 +1,1 @@
+Hệ thống tự động cập nhật các thông số từ các cảm biến về ứng dụng trên điện thoại theo chương trình điã điược lập trình sẵn. Căn cứ vào các thông số của cảm biến để điều khiển các thiết bị theo cơ cấu chấp hành.

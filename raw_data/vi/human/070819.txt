@@ -1,0 +1,1 @@
+Component: VueJS cha tất cả các thành phần thành component, các hoạt động điều dựa trên các component và sự giao tiếp giữa chúng. Các thành phần này có thể tái sử dụng ở mọi nơ trên hệ thống, giúp hệ thống trở nên linh động, game thiếu việc viết code và tối ưu hóa trong sử dụng và bảo trì.

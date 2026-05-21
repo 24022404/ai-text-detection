@@ -1,0 +1,1 @@
+DUC20041is specifically designed and used for testing purposes. It includes 1 2.2: Newshead length distribution 500 news articles, each paired with four human-written summaries. The dataset comprises 50 clusters of Text Retrieval Conference (TREC) documents from different collections.

@@ -1,0 +1,9 @@
+Objective: Neural networks achieve high predictive performance but often lack transparency, hindering their adoption in critical domains. We introduce LioNets, a novel framework for generating faithful, local interpretations of any feed-forward neural model by decoding activations from its penultimate layer.
+
+Methods: LioNets builds a lightweight decoder that learns to invert penultimate representations back into input space. At explanation time, for a target instance, we sample perturbed latent vectors in its neighborhood, reconstruct corresponding synthetic inputs via the decoder, and query the original network to obtain predictions. A locally weighted linear surrogate is then fitted to these synthetic pairs, yielding human-readable feature attributions that reflect the model’s true decision boundary in the vicinity of the instance.
+
+Results: We evaluate LioNets on image (MNIST, CIFAR-10) and tabular (UCI) classification benchmarks, comparing it against state-of-the-art local explainers (LIME, SHAP). Across datasets, LioNets achieves higher local fidelity (up to 15% reduction in surrogate error) and greater stability under perturbations, while producing more coherent attributions validated by domain experts. Qualitative analyses illustrate that decoded samples faithfully capture relevant feature variations, improving interpretability without impacting the base model.
+
+Conclusion: By leveraging penultimate layer decoding, LioNets delivers transparent, accurate local explanations applicable to diverse neural architectures. Its plug-and-play design makes it a practical tool for practitioners seeking trustworthy model insight in sensitive applications.
+
+Keywords: explainable AI; neural network interpretability; local explanations; penultimate layer decoding; feature attribution.

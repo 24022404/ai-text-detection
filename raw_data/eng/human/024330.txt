@@ -1,0 +1,1 @@
+to maximize variance in the representation space. For example, the direction of the first basis vector ( i.e., the first principal component) is chosen to maximize the variation in the predictor space.

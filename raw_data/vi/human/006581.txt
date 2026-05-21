@@ -1,0 +1,1 @@
+MySQL : Magento sử dụng MySQL, một hệ thống quản lý cơ sở dữ lệu phổ bến điể lưu trữ dữ lệu của các cửa hàng trực tuyến.

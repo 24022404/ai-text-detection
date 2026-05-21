@@ -1,0 +1,1 @@
+Alternate event streamIf the User has forgotten their password, they can click on the "Forgot Password" link, which will prompt them to enter their registered email address.
