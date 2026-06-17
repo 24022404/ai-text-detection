@@ -1,1 +1,0 @@
-Yêu cầu phi chức năng a, Tính dễ dùng (Usability) 1. Các chức năng cần được thiết kế sao cho dễ thao tác. Cần có thông báo cụ thể lỗ sa của người dùng điểm người dùng bết định vị lỗ, bịt lỗ gì và bết cách sửa lỗ.

@@ -1,1 +1,0 @@
-Thiết kế giao diện và chức năng Là một ứng dụng web, giao diện của dự án này hướng tới sự điơn gản, điầy điủ và lnh hoạt cho người dùng. Theo đó, mỗ trang con của web đều bắt điầu bằng một thanh công cụ chứa nút bấm tớ toàn bộ các chức năng của dự án: Đặt phòng, Thống kê, Tra cứu, Thanh toán và Đăng xuất (Hình .

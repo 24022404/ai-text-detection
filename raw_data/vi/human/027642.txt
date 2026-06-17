@@ -1,1 +1,0 @@
-Đố với các tài liệu trong kho ngữ liệu phụ Dc, phương pháp ước tính xác suất phân cụm của chúng bằng cách tổng hợp xác suất phân cụm từ các thuật ngữ liên kết với chúng. Tổng hợp các xác suất của một tài liệu, nhân với trọng số hiện tại của nó, sẽ là trọng số của tài liệu trên cấp bậc tiếp theo.

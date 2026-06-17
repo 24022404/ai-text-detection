@@ -1,1 +1,0 @@
-Chương 2 của đồ án sẽ trình bày bao gồm các khảo sát ch tết về hiện trạng và yêu cầu của hệ thống cũng như phân tích nghiệp vụ, xác định các tác nhân chính, các biểu đồ use case và xây dựng các đặc tả chức năng cũng như ph chức năng của hệ thống.

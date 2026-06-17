@@ -1,1 +1,0 @@
-Connector : là cầu nối liên kết Google Data Studio với nền tảng của người dùng. Một khi kết nối thành công, Google sẽ tạo một nguồn dữ lệu (data source) trong Data Studio.

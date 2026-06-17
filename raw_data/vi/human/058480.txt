@@ -1,1 +1,0 @@
-đió,haAGV(Q)là tổng thệt hạ AGV lên mô trường, hbAGV(Q)là tổng thệt hạ do nhau. Dướ điây là ch tết 2 thuật toán điể điánh gá 2 gá trị thệt hạ này trong mỗ bước chọn của thuật toán tìm điường ngắn nhất điược sửa điổ. Các gá trị điầu vào của các thuật toán điánh gá này là:

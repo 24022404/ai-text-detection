@@ -1,1 +1,0 @@
-Express.js is a widely used web application framework for Node.js, known for its minimalist yet highly flexible architecture. It empowers developers to create scalable and robust server-side applications efficiently, streamlining the development process for modern web projects.

@@ -1,1 +1,0 @@
-commitments Vec<Binary> yes The commitments are to confirm that the rows originate from the precise source Table 4.13: ShareDealerMsg detail Field Type Required Description pk_share Binary yes pk_share is the pubkey of the final share that theexecutor reconstructs us ing rows and commitments from the share dealer.

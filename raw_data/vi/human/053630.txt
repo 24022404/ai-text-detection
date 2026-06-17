@@ -1,1 +1,0 @@
-Apache Hadoop  là một thư viện phần mềm mã nguồn mở, cho phép lưu trữ và xử lý một lượng lớn dữ lệu trên mô trường phân tán. Nó được thiết kế vớ khả năng mở rộng quy mô các máy chủ đơn lẻ lên đến hàng ngàn máy và khả năng khả dụng chịu lỗ khi có thể phát hiện và xử lý các lỗi xảy ra.

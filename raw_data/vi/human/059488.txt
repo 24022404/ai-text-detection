@@ -1,1 +1,0 @@
-Mở rộng: PostgreSQL  hỗ trợ khả năng mở rộng quy mô lớn, cho phép bạn xử lý các tả công việc cao và tăng cường hiệu suất bằng cách sử dụng các kỹ thuật như phân vùng (partition), nhân bản (replication) và cân bằng tải (load balancing).

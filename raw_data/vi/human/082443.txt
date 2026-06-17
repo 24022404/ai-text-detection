@@ -1,1 +1,0 @@
-Mô hình dữ liệu quan hệ (tiêu biểu là hệ quản trị dữ liệu MySQL) có tiêu chí ràng buộc dữ liệu rất mạnh mẽ. Mọi dữ liệu khi truy xuất cơ sở dữ liệu quan hệ đều được kiểm tra ràng buộc chặt chẽ. Điều này sẽ đảm bảo tính toàn vẹn cho dữ liệu.

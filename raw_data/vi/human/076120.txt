@@ -1,1 +1,0 @@
-Yêu cầu quyền truy cập: Đầu tên, bạn cần yêu cầu quyền truy cập vào camera và micro của người dùng thông qua trình duyệt web. Bằng cách sử dụng API MediaDevices.getUserMedia(), bạn có thể gọi hàm navigator.mediaDevices .getUserMedia() và truyền vào các ràng buộc (constraints) điểm chỉ định yêu cầu của bạn, chẳng hạn như yêu cầu truy cập vào video và âm thanh.

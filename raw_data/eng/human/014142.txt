@@ -1,1 +1,0 @@
-The repository classes use DBHelper package, also by using DI, to get the con nection context instance for the databases. In our system, there are contexts for both MongoDB and MySQL.

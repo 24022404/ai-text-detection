@@ -1,1 +1,0 @@
-SQLite3 is an efficient, easy-to-use, file-based database system perfect for managing analysis results, user information, and app settings. Its simplicity and reliability make it an excellent choice for development and small deployments.

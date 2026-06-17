@@ -1,1 +1,0 @@
-–Self-Attention: Self-attention is a mechanism that calculates the importance level of each word in the input sequence based on its relevance to the current context. This allows the model to handle long-range dependencies more effectively by assigning different weights to different words.

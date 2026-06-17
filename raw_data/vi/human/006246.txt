@@ -1,1 +1,0 @@
-Trong khuôn khổ đồ án này, điều tà chỉ dừng lại ở tìm hiểu, nghiên cứu và bước đầu xây dựng ứng dụng với quy mô nhỏ. Trong tương lai, đồ án có thể mở rộng điểm xây dựng hệ thống tra cứu và hỏi đáp thông tin du lịch ở Việt Nam hay thậm chí là toàn thế giới vớ đầy đủ tính năng hơn, đáng tin cậy và thân thiện với người dùng.

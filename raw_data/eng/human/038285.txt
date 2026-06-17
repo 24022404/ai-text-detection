@@ -1,1 +1,0 @@
-This extensive corpus covers 18 different languages, including Vietnamese, and is derived from WikiHow. Specifically, the Vietnamese articles are translations of the original English articles, which have been meticulously reviewed by WikiHow’s international translation team. For the Vietnamese language, this dataset includes a total of 19,600 samples.

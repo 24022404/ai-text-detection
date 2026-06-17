@@ -1,1 +1,0 @@
-Chọn Đăng nhập.  Hệ thống hiển thị thông báo “Tài khoản hoặc mật khẩu không chính xác” và tả lại trang đăng nhập.  Hệ thống hiển thị thông báo “Tài khoản hoặc mật khẩu không chính xác” và tả lại trang đăng nhập.  Đạt TC04  1. Nhập sai tên đăng nhập nhưng nhập đúng mật khẩu.

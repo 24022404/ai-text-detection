@@ -1,1 +1,0 @@
-Provide signatureExecutors communicate with one another via sig natures; if the number of valid signatures exceedsthe threshold, anyone can delegate a key to a spe cific user via a multi-signature mechanism.

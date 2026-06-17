@@ -1,1 +1,0 @@
-Hockey Fights Dataset  consists of 1000 clips including fighting and normal plays captured in hockey matches. We split the dataset into training and test sets containing 800 and 200 samples respectively.

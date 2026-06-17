@@ -1,1 +1,0 @@
-ERP systems such as Odoo are designed with multiple modules to streamline and manage business workflows effectively. Recognizing the importance for organizations to monitor and showcase their progress, Odoo provides several forms of report projections, including PDFs, graphical illustrations, and pivot tables, catering to diverse reporting requirements.

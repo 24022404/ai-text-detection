@@ -1,1 +1,0 @@
-Chương 3 trình bày về các cơ sở thực tiễn và công nghệ được sử dụng để xây dựng ứng dụng ĐATN của em. Đầu tên em sẽ trình bày về các quy định pháp lý và các chu trình, mô hình sử dụng vào ĐATN. Xếp theo trình bày các công nghệ sử dụng và đưa ra điểm nổi bật của từng công nghệ và làm rõ lý do sử dụng công nghệ đốt trong ĐATN.

@@ -1,1 +1,0 @@
-The player controls the character by moving right, left, jumping, and performing a double jump. The player navigates across terrains, avoiding ob stacles, using precise jumps, timing, and coordination to avoid falling, getting hit, or being affected by traps.

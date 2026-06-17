@@ -1,1 +1,0 @@
-Lý do lựa chọn Hiện nay, công nghệ lập trình web còn có nhiều ngôn ngữ có thể thay thế như ruby on rails, C và PHP. Tuy nhiên lý do tôi lựa chọn JavaScript và NodeJS là () có thư viện npm hỗ trợ nhiều chức năng () cộng đồng sử dụng lớn () hiệu suất cao (v) dễ dàng triển khai và sử dụng.

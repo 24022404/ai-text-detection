@@ -1,1 +1,0 @@
-Keras được thiết kế với mục tiêu gúp đơn giản hóa việc xây dựng và thử nghiệm các mô hình học sâu. Cú pháp dễ hiểu và trực quan giúp cho người dùng tập trung vào việc xây dựng mô hình mà không cần lo lắng về cách tết trên kha phức tạp. Đồng thờ, thư viện cung cấp nhiều tối ưu hóa và hàm mất mát giúp đạt được hiệu suất cao kh huấn luyện mô hình trên dữ liệu lớn.

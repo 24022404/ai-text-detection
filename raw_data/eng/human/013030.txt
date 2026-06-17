@@ -1,1 +1,0 @@
-module/  utility‘-- templates/ # Folder containing global templates for the project ‘-- base.html # A base template used across the project Explanation of Components manage.py : This is the main file for managing the Django project. It is used to run the server, create apps, perform migrations, and other tasks.

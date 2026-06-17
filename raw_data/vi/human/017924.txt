@@ -1,1 +1,0 @@
-Hỗ trợ Hot Module Replacement (HMR): Next.js cho phép bạn làm việc trong môi trường phát triển vớ tính năng HMR, nghĩa là các thay đổi trong mã nguồn sẽ được áp dụng ngay lập tức mà không cần tải lại trang, giúp tăng hiệu suất và tiết kệm thờ gan phát triển.

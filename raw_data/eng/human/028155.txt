@@ -1,1 +1,0 @@
-Opcode Based CNNs experiments For opcode features, I also apply 2D CNNs. For each malware sample, I use thefirst 500-5000 opcodes from binary file. The experiment occurs with some param eter such as opcode-length, num-filters, filter-size, embedding-dim, learning-rate, batch-size, and epochs.

@@ -1,1 +1,0 @@
-–AF1: Trường hợp không lấy được bà dịch đã lựa chọn, hiển thị thông báo lỗ Tiền điều kiện : Không có Hậu điều kiện :

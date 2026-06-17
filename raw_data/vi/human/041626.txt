@@ -1,1 +1,0 @@
-Dựa trên những phân tích thiết kế cơ sở dữ liệu và nghiệp vụ nêu trên, em đã triển khai thành công việc tái cấu trúc đối tượng khóa học cũng như toàn bộ nghiệp vụ liên quan của nó trên hệ thống CMS. Dưới đây là hình ảnh minh họa cho gao dện ch tết khóa học sau khi tái cấu trúc:

@@ -1,1 +1,0 @@
-Bài toán phát hiện và sửa lỗi chính tả trước đây đã có nhiều đề xuất giải quyết bằng các phương pháp dựa vào bản chất ngôn ngữ. Tuy nhiên, do sự phức tạp của ngôn ngữ tự nhiên, sự nhập nhằng nghĩa của từ và cụm từ, sự phụ thuộc cú pháp và ngữ nghĩa của các từ vào ngữ cảnh, nên các phương pháp nêu trên còn hạn chế về tính chính xác.

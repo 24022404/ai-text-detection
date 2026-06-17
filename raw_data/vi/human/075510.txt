@@ -1,1 +1,0 @@
-React JS ReactJS là một thư viện mã nguồn mở dựa trên JavaScript, được tạo ra từ Facebook. ReactJS được sử dụng để xây dựng các thành phần giao diện người dùng có thể tái sử dụng và hiển thị thay đổi theo thời gian. ReactJS thường được sử dụng thay thế cho View trong mô hình kiến trúc MVC do hiệu suất và tốc độ nhanh, hiệu quả cao, bên cạnh đó là khả năng xử lý bất đồng bộ.

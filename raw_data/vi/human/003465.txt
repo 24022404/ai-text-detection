@@ -1,1 +1,0 @@
-Đưa website lên hostng, phát trển thêm tính năng cho phép người dùng download phm. Đồng thờ tìm gả pháp để điáp ứng lượng người truy cập cùng thờ điểm lớn. Cho phép người dùng xem phm vớ chất lượng cao nhưng vẫn điảm bảo điộ mượt.

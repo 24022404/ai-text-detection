@@ -1,1 +1,0 @@
-Một kh điã kết nố, Spark có được các executor trên các nút trong cụm, là các tiến trình chạy tính toán và lưu trữ dữ lệu cho ứng dụng. Xếp theo, nó sẽ gửi mã ứng dụng (được xác định bởi các tệp JAR hoặc Python được chuyển đến SparkContext) cho các executor. Cuối cùng, SparkContext gửi các tasks điến những executor để chạy. Hình 2.4 mô tả kiến trúc của Spark ở chế độ cụm.

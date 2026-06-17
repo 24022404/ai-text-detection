@@ -1,1 +1,0 @@
-Thiết kế nút: Sử dụng các con tượng hình. Các con được cung cấp bởi Google và một số con được lấy từ trang Icon8. Tất cả các con điều tuân theo chuẩn Material Design cả về màu sắc lẫn kích thước.

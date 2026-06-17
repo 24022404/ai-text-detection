@@ -1,1 +1,0 @@
-Ngoại lệ 1.1. Hệ thống sẽ hiển thị lỗ với những mục nhập thông tin: Thuế những thông tin cần thiết, nhập sai định dạng và yêu cầu nhập đầy đủ thông tin.

@@ -1,1 +1,0 @@
-Sendgrid Sendgrid là phần mềm tiếp thị qua Email, Sendgrid cung cấp giải pháp Email dựa trên nền tảng đám mây, thay thế cho các Email truyền thống.

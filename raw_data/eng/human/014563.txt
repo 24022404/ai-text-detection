@@ -1,1 +1,0 @@
-Definition 12 (Lyndon words ).A sequence wis a Lyndon word if and only if it’s strictly smaller than all of its rotation.

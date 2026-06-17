@@ -1,1 +1,0 @@
-By using both the union and intersection of proper subsets in example 2.4, it becomes possible to form diverse and compelling classes of sets that all possess universal cycles.

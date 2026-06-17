@@ -1,1 +1,0 @@
-Vòng lặp  A ở thân mạng nơ ron là điểm mấu chốt trong nguyên lý hoạt động của mạng nơ ron truy hồ. Đây là chuỗ sao chép nhiều lần của cùng một kiến trúc nhằm cho phép các thành phần có thể kết nối liền mạch với nhau theo mô hình chuỗi. Đầu ra của vòng lặp trước chính là điầu vào của vòng lặp sau. Nếu trả phẳng thân mạng nơ ron  A ta sẽ thu được một mô hình dạng:

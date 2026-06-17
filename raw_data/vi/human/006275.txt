@@ -1,1 +1,0 @@
-Bộ dữ liệu tổng hợp bao gồm các ảnh điơn lẻ có chứa polyp và ảnh khoanh vùng của chúng. Các ảnh này được cha thành bộ huấn luyện và bộ kểm thử mô hình MAE. Số lượng dữ liệu trong mỗ bộ có sự khác bệt do cách xây dựng, được trình bày ở Bảng 4.2.

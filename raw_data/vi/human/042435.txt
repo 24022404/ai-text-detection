@@ -1,1 +1,0 @@
-Trong mô đun này sẽ có hai tính năng là: tính năng tải lên file điểm kiểm tra và tính năng tải file từ hệ thống xuống máy. Dưới đây là thiết kế và chế tết về hà tính năng.

@@ -1,1 +1,0 @@
-Lớp UserVendorRole: lưu trữ thông tin thể hiện các quyền mà một SAML User sở hữu đối với một phạm vi nào đó.4.2 Thiết kế cho tết 4.2.1 Thiết kế giao diện a, Đặc tả một số thông tin trong gao den Gao vện hệ thống được trên khay trên nền tảng web, với kích thước màn hình cơ bản 1920x1080.

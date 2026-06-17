@@ -1,1 +1,0 @@
-E. Xe, W. Wang, Z. Yu, A. Anandkumar, J. M. Alvarez, and P. Luo, “Se Former: Simple and efficient design for semantic segmentation with transformers,” Advances in Neural Information Processing Systems , vol. 34, pp. 12 077– 12 090, 2021.

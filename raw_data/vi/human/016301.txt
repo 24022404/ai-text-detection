@@ -1,1 +1,0 @@
-WebSocket  điã điược hỗ trợ trong hầu hết các trình duyệt hiện địa và cũng có các thư viện và frameworks hỗ trợ phát triển WebSocket  trên nhiều ngôn ngữ lập trình.

@@ -1,1 +1,0 @@
-The logout sub-use case allows users to securely end their session by choosing the Logout option, which immediately revokes access and ensures their account’s safety. After logging out, users are redirected to the login page, where they must authenticate again to regain access.

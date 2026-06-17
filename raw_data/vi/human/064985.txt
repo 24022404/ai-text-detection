@@ -1,1 +1,0 @@
-Thiết kế cơ sở dữ liệu Bảng 4.2 là bảng liệt kê và mô tả các bảng sẽ có trong cơ sở dữ liệu.

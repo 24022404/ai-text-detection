@@ -1,1 +1,0 @@
-Thiết lập store dễ dàng: Redux Tool đi kèm vớ configureStore, một cách tiện lợi để thiết lập store với các middleware mặc định như redux thunk và các công cụ hỗ trợ khác, giúp cải thiện hiệu suất và đơn giản hóa cấu hình.

@@ -1,1 +1,0 @@
-Ngườ dùng ấn vào thanh thực điơn 1.2. Ngườ dùng ấn vào nút thêm món 1.3. Hệ thống hển thị giao diện thêm món ăn mớ 1.4. Ngườ dùng điền các trường yêu cầu 1.5. Hệ thống kểm tra các trường và tạo món 2. Chỉnh sửa thông tin món ăn:

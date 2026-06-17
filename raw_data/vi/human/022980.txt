@@ -1,1 +1,0 @@
-Thực tế, Spark Streaming hoạt động như sau: nó nhận các luồng dữ lệu điầu vào trực tiếp và phân chia dữ lệu thành các lô, sau đó được xử lý bở Spark Engine để tạo ra luồng kết quả theo đợt.

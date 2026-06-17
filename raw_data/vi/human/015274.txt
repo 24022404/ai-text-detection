@@ -1,1 +1,0 @@
-Kết quả của mô hình điều xuất bao gồm giá trị trung bình và độ lệch chuẩn của 5 lần chạy.

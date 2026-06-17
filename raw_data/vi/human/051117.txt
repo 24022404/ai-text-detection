@@ -1,1 +1,0 @@
-Gó Other: Chứa các thành phần mà trình bên dịch tự động tạo ra hỗ trợ lập trình viên trong quá trình phát trển phần mềm, như kểm thử tự động, kha báo quyền truy cập trên thết bị, vòng điờ của phần mềm,..

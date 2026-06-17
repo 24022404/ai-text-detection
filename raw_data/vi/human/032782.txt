@@ -1,1 +1,0 @@
-Bước 1: Các đối tác đăng ký để có thể tham gia hệ thống. Sau các bước trao đổi và xét duyệt, các đối tác sẽ được cấp tài khoản để tham gia vào hệ thống. Bao gồm tài khoản truy cập vào trang quản lý và các thông tin để có thể sử dụng được hệ thống quản lý người dùng chung.

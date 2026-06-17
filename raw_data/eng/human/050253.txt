@@ -1,1 +1,0 @@
-Independent components: All the services can be deployed and updatedservice has an impact only on a particular service and does not influence theentire application. Also, it is much easier to add new features to a micro service application than a monolithic one.

@@ -1,1 +1,0 @@
-Dung lượng (Volume) : Số lượng dữ lệu được tạo ra và lưu trữ. Kích thước của dữ lệu xác định giá trị và tiềm năng, có thể lên đến hàng terabyte thậm chí là petabyte.

@@ -1,1 +1,0 @@
-Thiết kế và xây dựng kiến trúc tổng quát và chi tiết cho hệ thống điểm có được khả năng tích hợp điểm các hệ thống của đối tác có thể kết nối tớ.

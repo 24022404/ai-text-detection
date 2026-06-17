@@ -1,1 +1,0 @@
-tf(t, d)is the frequency of occurrence of word tin a document d,f(t, d)is the number of occurrences of the word with the highest number of occurrences in text d.

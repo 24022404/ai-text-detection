@@ -1,1 +1,0 @@
-Tất cả các hàm liên tục điều có thể xấp xỉ bởi một mạng MLP 2 tầng sử dụng hàm truyền sigmoid cho các neural tầng ẩn và hàm truyền tuyến tính cho các nơron tầng ra v ớ sa số nhỏ tùy ý.

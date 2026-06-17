@@ -1,1 +1,0 @@
-After successful development, the system was deployed on the network. Its func tions were tested and are now operating according to the original design, providingbuyers with a comprehensive interface and convenient and fast inventory manage ment and order processing capabilities.

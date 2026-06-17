@@ -1,1 +1,0 @@
-Từ cấu trúc chung này, em sẽ thết kế cấu trúc lưu trữ dữ liệu cho bài tập nó như trong hình:

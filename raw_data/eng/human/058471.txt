@@ -1,1 +1,0 @@
-L=−ylog (p) + (1 −y)log(1−p) where L is the cross-entropy loss, y is the true label (0 or 1), p is the predicted probability of the positive class (i.e., the probability of the input belonging to the positive class), and log() is the natural logarithm.

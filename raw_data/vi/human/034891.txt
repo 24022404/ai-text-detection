@@ -1,1 +1,0 @@
-Kiểu dữ liệu DATETIME: Dùng để lưu trữ ngày và thờ gan trong định dạng YYYY MM DD HH:MM:SS, ví dụ như ’20230212 12:30:00’.

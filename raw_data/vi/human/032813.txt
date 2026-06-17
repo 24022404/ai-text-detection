@@ -1,1 +1,0 @@
-Virtualenv là một công cụ tạo môi trường Python ảo bệt lập. Thông qua Virtualenv có thể cài đặt các gói, thư viện và trình thông dịch Python cụ thể trong mô trường này mà không ảnh hưởng đến hệ thống chính. Giúp việc tự do kiểm thử và triển khai thực nghiệm thuật toán NetTaco mà không bị xung đột giữa các phiên bản thư viện, hoặc phiên bản thuật toán.

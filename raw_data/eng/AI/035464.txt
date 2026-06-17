@@ -1,9 +1,0 @@
-This paper introduces DRIFT, an innovative framework utilizing Deep Reinforcement Learning (DRL) to enhance functional software testing. Traditional software testing methods often face challenges in scalability and adaptability, making it crucial to explore advanced techniques that can autonomously adapt to complex software environments.
-
-Methods/Approach: DRIFT leverages the capabilities of DRL algorithms to intelligently generate test cases and explore diverse software behaviors. The framework integrates a neural network-based agent trained on reward functions aimed at maximizing code coverage and fault detection. The DRL model is designed to prioritize high-impact testing paths and dynamically adapt to varying software conditions, ensuring comprehensive evaluation.
-
-Results/Findings: Experimental results demonstrate that DRIFT significantly outperforms conventional testing methodologies in terms of code coverage and defect identification. The framework shows a 20% improvement in detecting critical bugs and accelerates the testing process by up to 30% compared to baseline approaches. Additionally, DRIFT's adaptive nature allows better resource allocation during testing, leading to more efficient testing procedures.
-
-Conclusion/Implications: DRIFT represents a significant advancement in the realm of software testing, offering a robust and scalable solution to the ever-evolving demands of software quality assurance. The study contributes to the field by providing a novel approach that enhances testing efficiency and effectiveness, paving the way for broader applications of DRL in software engineering. Future research may explore DRIFT's adaptability to other testing paradigms and its integration into automated continuous testing pipelines.
-
-Keywords: Deep Reinforcement Learning, DRIFT, software testing, code coverage, autonomous testing, neural network, software quality assurance.

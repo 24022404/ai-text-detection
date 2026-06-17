@@ -1,1 +1,0 @@
-Còn hệ thức (2) sẽ được sử dụng để xây dựng các hệ chữ ký điện tử , trong đió thao tác Ký chính là thực hiện E(ZA) còn kểm định chữ ký là thông qua gọi D(zA).

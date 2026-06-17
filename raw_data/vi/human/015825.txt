@@ -1,1 +1,0 @@
-Vớ các cấu hình khác nhau của mô trường, em đã thực hiện đánh giá và rút ra kết quả các mức hiệu năng khác nhau với từng cấu hình. Đồng thờ, mỗ cấu hình cũng sẽ phù hợp với từng điều kiện thực tế của bài toán như mức hiệu năng yêu cầu, mức chi phí.

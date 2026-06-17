@@ -1,1 +1,0 @@
-Then the feature will be passed through another MLP layer to reduce dimension, this layer will receive an input of 768 and an output is 256. Finally, the multi-label classification layer with the output will correspond to the number of labels included in the training, here we will use the output of 4 because the dataset has 4 labels. So we will have the following model:

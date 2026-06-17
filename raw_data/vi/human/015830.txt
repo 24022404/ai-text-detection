@@ -1,1 +1,0 @@
-Yêu cầu về CSDL: Hệ thống cần sử dụng cơ sở dữ lệu (CSDL) hiệu quả để lưu trữ thông tin về sản phẩm, người dùng, đơn hàng và các thông tin quan trọng khác.

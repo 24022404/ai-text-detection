@@ -1,1 +1,0 @@
-Design Patterns trong Magento giúp tăng tính linh hoạt, sử dụng lạ mã nguồn và bảo trì mã nguồn một cách hiệu quả.4.7 Triển khai 4.7.1 Môi trường triển khai VPS viết tắt của "Virtual Private Server", tức là Máy chủ Ảo Riêng. Đây là một dịch vụ cung cấp mô trường máy chủ ảo cho người dùng mà không yêu cầu họ phả mua hoặc quản lý một máy chủ vật lý.

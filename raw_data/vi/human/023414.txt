@@ -1,1 +1,0 @@
-Mobile V2 là một mạng nơron tích chập tên yến được phát triển nhằm tối ưu hóa hiệu năng và tăng cường tính di động cho việc xử lý hình ảnh. Được giới thiệu bởi nhóm nghiên cứu Google AI vào năm 2018, MobleNetV2 điã nhanh chóng trở thành một trong những kiến trúc nổi tiếng và phổ biến trong lĩnh vực thị giác máy tính và học sâu.

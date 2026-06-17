@@ -1,1 +1,0 @@
-–Get Total Stat Value: phương thức giúp lấy ra giá trị chỉ số của nhân vật như tốc độ di chuyển, sát thương, tốc độ đánh v.v.

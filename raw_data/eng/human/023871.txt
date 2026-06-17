@@ -1,1 +1,0 @@
-Subsequent layers will result from convolutions from the previous layer, so youwill have the best local connections. Thus, each neuron in the next layer gener ated from the resulting filter will be applied to the local image area of an existing neuron. While training the network, the CNN will automatically learn the values through the filter layer based on how the user performs.

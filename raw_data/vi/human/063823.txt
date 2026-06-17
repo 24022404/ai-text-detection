@@ -1,1 +1,0 @@
-Hiện nay, công cụ Google Analytics của Google đang cung cấp dịch vụ miễn phí cho phép tạo ra các bảng thống kê chi tiết về khách đã ghé thăm một trang web.

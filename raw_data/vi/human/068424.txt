@@ -1,1 +1,0 @@
-Tham số MODEL COMPLEXITY là độ phức tạp của mô hình, có giá trị từ 0 đến 1. Giá trị tham số càng gần 1 độ phức tạp của mô hình càng lớn và độ chính xác, độ trễ cũng tăng theo.

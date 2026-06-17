@@ -1,1 +1,0 @@
-Postconditions : The user can view a detailed analysis of the APK, in cluding extracted resources, code structures, APIs, permissions, and any identified security issues.

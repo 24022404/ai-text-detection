@@ -1,1 +1,0 @@
-In deep neural networks, the vanishing gradient problem occurs when gradients in early layers diminish to extremely small values, hindering effective learning. This challenge arises mainly because increasing network depth and certain activation functions push values toward zero.

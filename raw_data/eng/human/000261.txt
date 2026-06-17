@@ -1,1 +1,0 @@
-EUENO encrypts data by default and deploys strong security in each process related to any data. Encryption and decryption are completely on the user side,directly through non-custodial wallet services like OWallet, with a combina tion of AES-GCM symmetric encryption technology and asymmetric Elliptic curve cryptography to ensure security and improve encryption performance.

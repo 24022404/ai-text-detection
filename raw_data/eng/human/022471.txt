@@ -1,1 +1,0 @@
-Reporting: The analysis results are either returned as a JSON object (for API requests) or rendered on a template for web-based display.

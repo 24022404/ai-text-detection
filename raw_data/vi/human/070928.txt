@@ -1,1 +1,0 @@
-Player Inventory Manager Class: lớp này sẽ kiểm tra các ô trang bị và ô kỹ năng của người chơ có vật phẩm nào trong đó không, từ đó sẽ biết được người chơi đang mặc đồ gì, chỉ số như thế nào để cập nhật các chỉ số đói cũng như quần áo đang mặc trên người của nhân vật.

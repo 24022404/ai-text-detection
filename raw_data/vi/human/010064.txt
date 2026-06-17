@@ -1,1 +1,0 @@
-Ở máy chủ Windows, ta sử dụng các file C:\\Windows\\System32\\drivers\\etc\hosts,C:\\Windows\\wn.n. Đây là những tệp hệ thống phổ biến trên hệ điều hành Windows. Ví dụ, tệp "C:\\Windows\\wn.n" là tệp cấu hình của hệ điều hành Windows, và tệp "C:\\Windows\\System32\\drivers\\etc\hosts" là tệp hosts của hệ thống, chứa các thông tin về việc ánh xạ tên miền sang địa chỉ IP.

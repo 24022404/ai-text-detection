@@ -1,1 +1,0 @@
-Phần 2.2 sẽ mô tả các case sử dụng tổng quan của hệ thống, phân ra case sử dụng của người Quản trị viên cũng như Đọc gả. Đặc tả ch tết điược trình bày trong phần 2.3.

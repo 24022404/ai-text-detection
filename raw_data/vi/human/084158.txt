@@ -1,1 +1,0 @@
-mọ class kế thừa từ lớp UnityEngine.Object, nghĩa là các lớp MonoBehaviour, ScriptableObject,... Tuy nhiên có một số lưu ý về những trường có thể serialize:

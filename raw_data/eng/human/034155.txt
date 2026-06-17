@@ -1,1 +1,0 @@
-The return data of each order that belongs to the cart is of type array, but in the cart, there are many products with different quantities. The problem here is that the returned data to be calculated is an array in an array, but only map, reduce, and filter functions can’t be processed with only one function.

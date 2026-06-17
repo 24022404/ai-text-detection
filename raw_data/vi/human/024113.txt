@@ -1,1 +1,0 @@
-Từ các phân tích yêu cầu điã điược trình bày ở Chương 2, trong Chương 3 sẽ trình bày cơ sở lý thuyết, các công nghệ nền tảng để có thể phát triển và xây dựng hệ thống.

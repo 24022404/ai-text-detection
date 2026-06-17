@@ -1,1 +1,0 @@
-CSDL nhập hàng: lưu trữ thông tin nhập hàng (mã đơn nhập, mã nhân viên, ngày nhập, thành tiền).

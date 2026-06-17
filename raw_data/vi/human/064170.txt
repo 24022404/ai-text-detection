@@ -1,1 +1,0 @@
-Phần thứ hai là máy chủ chính, tại đây hệ thống sẽ nhận các dòng video từ thiết bị bên và thực hiện các bài toán khác nhau đối với các dịch vụ chuyên biệt được tích hợp sẵn.

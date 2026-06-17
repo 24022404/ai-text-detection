@@ -1,1 +1,0 @@
-Bước 1: tính tích chập tại một điểm: tại vị trí đầu tên trên cùng của ma trận thước của bộ lọc. Giá trị y11 trên Y là tích chập của Xsub Vớ F, được tính như sau:y11=PF =1PF j=1xjfj(trong đó: chỉ số ma trận được quy ước bắt đầu từ 1, xjϵXsubvàfjϵF).

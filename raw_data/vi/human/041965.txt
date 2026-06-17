@@ -1,1 +1,0 @@
-Huấn luyện mô hình tự mã hóa Về việc huấn luyện mô hình MAE, đồ án sử dụng bộ tham số điã huấn luyện trên tập dữ lệu ImageNet  để nhanh chóng điạt đến điểm hộ tụ của mô hình. Kết quả của hàm mất mát qua từng vòng lặp được trình bày ở Hình 4.2.

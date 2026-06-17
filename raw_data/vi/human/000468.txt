@@ -1,1 +1,0 @@
-CVC Inc DB: bộ dữ liệu được cắt ra từ video lộ số được thu thập từ Hospital Clinic, Barcelona, Tây Ban Nha. Bộ dữ liệu bao gồm 612 ảnh có độ phân gả 384x288 pixels.

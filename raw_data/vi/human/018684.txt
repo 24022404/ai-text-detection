@@ -1,1 +1,0 @@
-Ngoài ra, mô hình này cũng cho phép các ứng dụng khác nhau truy cập vào dữ liệu trên cùng một máy chủ, giúp tăng tính linh hoạt.

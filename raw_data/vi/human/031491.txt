@@ -1,1 +1,0 @@
-∂W2.3.3 Kiến trúc mạng tích chập Dù đã được phát hiện và sử dụng khá là lâu, nhưng cho đến nay, vẫn khó có một kiến trúc nào có thể thay thế được mạng CNN trong việc trích xuất đặc trưng của ảnh trong những bài toán thị giác máy tính. Sức mạnh của mạng nơron tích chập năm ở:

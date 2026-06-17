@@ -1,1 +1,0 @@
-SPARQL được tạo ra là một chuẩn điểm truy cập dữ liệu RDF và được co là một trong những công nghệ chủ chốt của Semantic Web .

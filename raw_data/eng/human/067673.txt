@@ -1,1 +1,0 @@
-A. Krizhevsky, I. Sutskever and SE. Hinton, “Imagenet classification with deep convolutional neural networks,” Advances in neural information processing systems ,journal 25, 2012.

@@ -1,9 +1,0 @@
-Objective: Robust and accurate face retrieval remains challenging due to variations in illumination, expression, pose, and background clutter. This paper introduces a novel descriptor—Local Directional Order Pattern (LDOP)—designed to enhance retrieval performance under such adverse conditions.
-
-Methods: LDOP encodes the ordinal relationships of pixel intensities along multiple predefined directions within a local neighborhood. By ranking directional responses rather than using raw intensity differences, LDOP achieves invariance to monotonic gray-scale changes and partial occlusion. We extract multi-scale LDOP features from face images and aggregate them into compact histograms. Retrieval is performed via a simple nearest-neighbor search with chi-square distance, ensuring low computational overhead.
-
-Results: Comprehensive experiments on four public benchmark datasets (ORL, AR, Yale B, and LFW) demonstrate that LDOP consistently outperforms established descriptors such as Local Binary Patterns (LBP), Local Directional Patterns (LDP), and Weber Local Descriptor (WLD). LDOP achieves up to a 12% improvement in mean average precision (mAP) under challenging illumination and expression variations. Ablation studies confirm the effectiveness of directional ordering and multi-scale fusion.
-
-Conclusion: The proposed LDOP descriptor offers a powerful yet efficient solution for robust face retrieval. Its resilience to common image variations and low computational cost make it suitable for real-time applications in large-scale face databases, video surveillance, and identity management systems.
-
-Keywords: face retrieval, local directional order pattern, ordinal intensity, image descriptor, robustness.

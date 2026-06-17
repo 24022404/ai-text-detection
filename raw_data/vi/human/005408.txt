@@ -1,1 +1,0 @@
-Modular Architecture: Cấu trúc module của ứng dụng extJs giúp tổ chức mã nguồn hiệu quả, tăng tính tái sử dụng và giảm sự phụ thuộc giữa các thành phần trong ứng dụng vớ nhau. Ưu điểm này làm cho Nests là sự lựa chọn tối ưu điểm xây dựng các ứng dụng có cấu trúc phức tạp .

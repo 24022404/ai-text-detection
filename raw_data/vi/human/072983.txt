@@ -1,1 +1,0 @@
-Thành viên có thể đăng nhập tài khoản tạ website, có các chức năng của khách hàng mớ, và một số chức năng khác như điặt sản phẩm, đánh giá và bình luận các sản phẩm sách, xem các thông tin của tài khoản.

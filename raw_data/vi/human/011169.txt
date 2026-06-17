@@ -1,1 +1,0 @@
-Nếu bạn là chủ phòng thì có thể bật, tắt mc của người dùng khác trong phòng, bạn cũng có thể loại bỏ 1 người dùng ra khỏi phòng. Bên dưới trình soạn thảo là phần nhập input, output dành cho người dùng. Người dùng cần nhập input thì chọn tab input, muốn xem output thì chọn tab output. Kh người dùng chạy code thì kết quả sẽ được hiển thị ra tab output.

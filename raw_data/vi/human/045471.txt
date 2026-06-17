@@ -1,1 +1,0 @@
-Tên Use case Mô tả tóm tắt Tạo báo cáo Đại diện trung tâm có thể tạo các báo cáo dựa trên yêu cầu điã điược xác nhận chuyển tiền.

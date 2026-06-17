@@ -1,1 +1,0 @@
-Hiện nay, các nền tảng điặt phòng khách sạn đang ngày càng nhều và ngày càng hoàn thiện hơn, tuy nhên, những nền tảng này chứa điựng hơ nhều thông tin về chỗ nghỉ vốn không cần thiết với những người mô gớ, bở họ đã có sẵn những thông tin tư vấn cho khách hàng. Vì vậy, trang web này sẽ được tạo dựng tố gản, dễ sử dụng, và điảm bảo sử dụng được trên nhều nền tảng.

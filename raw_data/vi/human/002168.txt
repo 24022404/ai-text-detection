@@ -1,1 +1,0 @@
-Chuẩn bị môi trường Mô hình được xây dựng và thực nghiệm trên Google Colab có cấu hình như sau:•Hệ điều hành: Ubuntu 18.04.5.

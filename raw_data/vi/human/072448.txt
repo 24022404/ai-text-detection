@@ -1,1 +1,0 @@
-Dễ sử dụng: VS Code có giao diện người dùng thân thiện, giúp người dùng dễ dàng sử dụng và tùy chỉnh trình bên tập mã theo nhu cầu của mình.

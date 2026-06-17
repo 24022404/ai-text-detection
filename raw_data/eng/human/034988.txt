@@ -1,1 +1,0 @@
-For automated inventory: warehouse personnel perform inventory withRFID devices, with monitoring from accounting personnel and supervi sion from monitoring personnel.

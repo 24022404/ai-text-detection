@@ -1,1 +1,0 @@
-Việc đánh index cho các bảng chứa số lượng bản ghi lớn như dữ liệu biến động của các mã chứng khoán (khoảng 300 triệu bản ghi) giúp cho thời gian truy vấn cả thật rất rõ rệt. Tuy nhiên hiệu quả chỉ với những truy vấn không quá phức tạp, vẫn nên tránh những truy vấn có độ phức tạp cao và phản liên kết nhiều bảng dữ lệu khi thực hiện truy vấn.

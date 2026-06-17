@@ -1,1 +1,0 @@
-– Tanh function : Tanh function is a non-ar function that is S-shaped and the output value ranges from -1 to 1. This function is similar to the Sigmoid function but has a negative output.

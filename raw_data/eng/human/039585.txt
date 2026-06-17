@@ -1,1 +1,0 @@
-Actors Involved : User – Preconditions : The file must be uploaded, and the system must extract the signer certificate from the file.

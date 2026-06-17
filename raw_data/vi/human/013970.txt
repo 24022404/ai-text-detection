@@ -1,1 +1,0 @@
-=> Cần thay thế thuật toán selection search. Gờ người ta nghĩ đến việc dùng deep learning để tạo ra region proposal →Faster RCNN ra đời.

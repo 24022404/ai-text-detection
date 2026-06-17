@@ -1,1 +1,0 @@
-Em sử dụng phương pháp học tăng cường và cụ thể là gả thuật Proximal Policy Garden, tương tác với mô trường đã tạo thông qua các Python API được cung cấp, từ đó xây dựng được một policy hợp lý và tối ưu, giúp cho agent đưa ra được các quyết định về tín hiệu đèn giao thông một cách hợp lý.

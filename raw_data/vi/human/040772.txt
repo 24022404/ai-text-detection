@@ -1,1 +1,0 @@
-Tính bảo trì : Đảm bảo rằng hệ thống dễ dàng bảo trì và nâng cấp mà không làm gán đioạn hoạt động của nó.

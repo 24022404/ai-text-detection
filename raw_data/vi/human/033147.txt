@@ -1,1 +1,0 @@
-Quản lý đơn từ: Nhân viên có thể thực hiện các hoạt động liên quan đến đơn từ như tạo đơn từ, chỉnh sửa đơn từ nếu đơn đang chờ phê duyệt hoặc bị từ chối và xóa đơn từ nếu trạng thái đơn là đang chờ phê duyệt.

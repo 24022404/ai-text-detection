@@ -1,1 +1,0 @@
-Login interface for website The login interface will be designed with the login form on the right. The left side will be the decoration, showing the organization’s logo as well as the message or introduction of the organization, etc.

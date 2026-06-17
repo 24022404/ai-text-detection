@@ -1,1 +1,0 @@
-Bài toán Trong kh quản lý thông tin về đảng viên, có rất nhiều thông tin liên quan khác cần được quản lý, vì vậy việc quản lý các danh mục thông tin này rất quan trọng.

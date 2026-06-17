@@ -1,1 +1,0 @@
-Chương 2 của đồ án sẽ trình bày về vệc phân tích các yêu cầu nghệp vụ của hệ thống bao gồm vệc xác định các tác nhân chính, các điặc tả use case. Tếp đió trong chương này sẽ nêu ra các yêu cầu ph chức năng điược điặt ra cho hệ thống.

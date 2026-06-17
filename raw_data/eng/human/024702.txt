@@ -1,1 +1,0 @@
-ExpressJs is a server-side web framework based on NodeJs, used to build powerful and flexible web applications. It provides a set of features and tools forhandling HTTP requests, managing routing, and creating complex web applica tions (Figure 3.4).

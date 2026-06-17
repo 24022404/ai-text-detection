@@ -1,1 +1,0 @@
-Thư viện socket.o hỗ trợ xây dựng ứng dụng thờ gan thực. Socket.o gúp các máy kết nối và truyền dữ liệu vớ nhau ngay lập tức thông qua server trung gan.

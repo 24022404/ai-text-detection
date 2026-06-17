@@ -1,1 +1,0 @@
-The dataset which was used for testing process has 200,000 data points and were taken randomly from the whole table named “Content” in the database (around 1,000,000 records) Testing Parameters:

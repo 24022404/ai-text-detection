@@ -1,1 +1,0 @@
-Hàm giá trị hành động Vấn đề của hàm giá trị thông thường cho từng trạng thái là với việc tìm ra trạng thái chính xác, đo kh ta vẫn không tìm được các hành động tương ứng dẫn ta tới trạng thái đó. Đặc biệt là ở trong các môi trường mà ta không biết rõ các tính chất, điều là dường như là bất khả th.

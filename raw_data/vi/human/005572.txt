@@ -1,1 +1,0 @@
-Lập trình viên chỉ cần tải lên file mã nguồn của mình và Elastic Beanstalk tự động xử lý việc triển khai, từ cung cấp dung lượng, cân bằng tả, tự động mở rộng quy mô điến theo dõi tình trạng ứng dụng. Đồng thờ, lập trình viên giữ toàn quyền kiểm soát các tài nguyên AWS cung cấp năng lượng cho ứng dụng của mình và có thể truy cập các tài nguyên cơ bản bất kỳ lúc nào.

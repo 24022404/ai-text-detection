@@ -1,1 +1,0 @@
-Phần bóc tách đặc trưng từ ảnh, thành các vectơ đầu vào của phần tiếp theo 2. Phần sử dụng mô hình mạng sequence to sequence được lấy ý tưởng từ bài toán dịch máy.

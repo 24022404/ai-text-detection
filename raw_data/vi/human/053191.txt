@@ -1,1 +1,0 @@
-Ấn vào một bà viết trong danh sách kết quả tìm kiếm.1. Hiển thị giao vện danh sách bài viết tại trang chủ.

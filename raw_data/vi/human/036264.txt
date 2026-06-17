@@ -1,1 +1,0 @@
-Khả năng kểm thử: Laravel cung cấp cách tếp cận lnh hoạt trong việc kểm thử bằng nhều kịch bản kểm thử. Tính năng này giúp lập trình viên luôn bảo trì được mã nguồn điúng theo yêu cầu.

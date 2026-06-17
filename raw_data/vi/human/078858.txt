@@ -1,1 +1,0 @@
-Tếp điến Controller sẽ gửi yêu cầu truy vấn tớ bảng Danh sách điặt phòng để lấy ra những điặt phòng bị trùng vào thờ gan người dùng chọn, được gọi là Danh sách 2.

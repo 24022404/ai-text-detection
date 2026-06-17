@@ -1,1 +1,0 @@
-NAM VU, RabbitMQ – Một message queue phổ biến mà dev nào cũng nên biết. [Online]. Available:  tmqmotmessagequeuephobenmadevnaocungnenb et/ (vsted on 07/05/2022).

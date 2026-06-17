@@ -1,1 +1,0 @@
-First, we need to collect the list of available English words. After researching, we found a free source code from Github, which give us a list of 370101 English words.

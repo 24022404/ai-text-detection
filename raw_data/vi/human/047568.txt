@@ -1,1 +1,0 @@
-CSDL loại hàng: lưu trữ thông tin hàng hóa (mã lo ạ hàng, tên lol lạ hàng, mã mã khách hàng).

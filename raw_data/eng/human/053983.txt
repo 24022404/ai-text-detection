@@ -1,1 +1,0 @@
-client: define API to call between services. For example, we can using @GetMapping("/users"), an anotation imported by org.springframework.cloud.// open feign.FeignClient to call API of user service from another service.

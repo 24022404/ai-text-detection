@@ -1,1 +1,0 @@
-: 2 và 2 : 1. Giống như hình bên phải và tâm ở giữa 3 kích thước ứng với màu da cam, xanh lam, xanh lục và vớ mỗ kích thước có 3 tỉ lệ. →Số lượng anchor box gờ là 938 9 = 8442 anchors. Tuy nhiên sau RPN ta chỉ giữ lại khoảng 1000 anchors box điểm thực hiện như trong Fast RCNN.

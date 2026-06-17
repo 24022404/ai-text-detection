@@ -1,1 +1,0 @@
-Contaner: Là một thực thể của Image (điược tạo ra khi chạy Image). Các contaner hoạt động điộc lập nhau và vớ hệ điều hành chủ. Có thể khở tạo hay gỡ bỏ một contaner rất dễ dàng.

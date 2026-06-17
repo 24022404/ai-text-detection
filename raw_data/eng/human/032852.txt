@@ -1,1 +1,0 @@
-On the header of the conversation details, you can choose to call, video call other user, or delete the current conversation. You can also send text and media message to other user using the input on the bottom of the pages. The message will not be loaded all at one, you can scroll up and the application will load more old messages.

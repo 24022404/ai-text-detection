@@ -1,1 +1,0 @@
-∥uold,j∥ · ∥unew,j∥(2)=⟨uold,j,unew,j⟩, where uold,jis the j-theigenvectors with the j-thlargest eigenvalue in the old featurespace, and similarly for unew,j. Additionally, because ∥uold,j∥=∥unew,j∥= 1, the (2)=is trivial.

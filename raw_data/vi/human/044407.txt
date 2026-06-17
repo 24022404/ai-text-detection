@@ -1,1 +1,0 @@
-API: Là các kết nối với các dịch vụ bên ngoài của ứng dụng, ví dụ như API để lấy dữ lệu từ máy chủ hoặc dịch vụ đăng nhập của bên thứ ba. React Native cung cấp nhiều phương thức để kết nối với các API bên ngoài, ví dụ như fetch hoặc axis.

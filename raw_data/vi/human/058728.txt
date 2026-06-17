@@ -1,1 +1,0 @@
-Mô hình định vị văn bản CRAFT  là một mô hình dùng để phát hiện vùng văn bản trong ảnh. Trong việc phát hiện văn bản do mô hình này thực hiện thì vùng văn bản được tính từ vùng ký tự và vùng kết nối giữa các ký tự thay vì phát hiện bằng phương pháp phát hiện đối tượng thông thường.

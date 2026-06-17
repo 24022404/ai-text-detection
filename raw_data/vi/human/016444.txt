@@ -1,1 +1,0 @@
-Features là package chứa các thành phần của hệ thống gồm các trang và các component chỉ sử dụng trong trang giấy.

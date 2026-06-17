@@ -1,1 +1,0 @@
-Chính vì vậy, qua quá trình tìm hiểu và đánh giá các công nghệ khác nhau, em quyết định sử dụng Laravel điểm phát triển phần mềm quản lý bán hàng hàng này.

@@ -1,1 +1,0 @@
-C. R. Harrs, K. J. Mllman, S. J. van der Walt, et al., “Array programming with NumPy,” Nature , vol. 585, no. 7825, pp. 357–362, Sep. 2020. DOI:

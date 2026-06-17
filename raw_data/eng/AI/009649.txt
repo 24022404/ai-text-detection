@@ -1,1 +1,0 @@
-By selecting a file from the analysis history, the user initiates a rescan and can also modify analysis settings if desired. This process allows for updated results based on any newly adjusted parameters.

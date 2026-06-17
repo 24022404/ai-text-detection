@@ -1,1 +1,0 @@
-Một điầu vào dữ liệu JSON hoàn chỉnh cho việc kha báo chỉ báo cá nhân (ví dụ với RSI) như sau:

@@ -1,1 +1,0 @@
-To display current money value on a label, the UI presenter need to subscribe toMoneyObservable . Listing 2 demonstrates how PlayScreen presents a up-to-date money label on screen. For an overview of the UI layer’s structure, refer to package diagram 4.6 and section c.

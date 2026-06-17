@@ -1,1 +1,0 @@
-Python là ngôn ngữ lập trình phổ biến, được sử dụng rộng rãi trong các ứng dụng web, đặc biệt là trong phát triển các phần mềm khoa học dữ liệu, trí tuệ nhân tạo, tự động hóa. Mục tiêu của Python cung cấp một cú pháp đơn giản, rõ ràng và dễ đọc cho người lập trình, giúp học tập trung vào giải quyết vấn đề thay vì mất thờ gắn vào việc xử lý cách tết kỹ thuật phức tạp.

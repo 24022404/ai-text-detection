@@ -1,9 +1,0 @@
-Objective: Pedestrian detection systems often suffer performance degradation when deployed in complex, scene-specific environments due to variations in lighting, background clutter, and camera viewpoints. This paper introduces a novel framework—Scene-Specific Pedestrian Detection Based on Parallel Vision—to tailor detection models to individual surveillance scenes and overcome domain mismatches.
-
-Methods: We construct a parallel virtual replica of the target scene using 3D modeling and physics-based rendering. Automated scripts generate diverse synthetic pedestrian samples under varying poses, occlusions, and illumination conditions. A convolutional neural network (CNN) is then fine-tuned on this synthetic dataset and adapted to real-world images through a lightweight domain-adaptation module that aligns feature distributions without requiring extensive manual annotation.
-
-Results: Experiments on three surveillance benchmarks demonstrate that our scene-specific pipeline yields an average mAP gain of 7.8% over generic detectors and reduces false positives in high-clutter zones by 15%. Ablation studies confirm the importance of parallel-vision-based data generation and the domain-adaptation module in boosting detection recall to 92.5% under challenging conditions.
-
-Conclusion: By integrating synthetic data from a virtual twin scene with targeted domain adaptation, our approach delivers significant accuracy improvements and operational robustness. The proposed framework generalizes to new camera setups with minimal human effort, offering a scalable solution for real-time pedestrian monitoring in smart cities and intelligent transportation systems.
-
-Keywords: Scene-Specific Pedestrian Detection; Parallel Vision; Synthetic Data; Domain Adaptation; Deep Learning.

@@ -1,1 +1,0 @@
-Thuật toán đã thực hiện xếp hạng cho tất cả thể hiện Otp dựa trên điểm số của mẫu được tính ở công thức trên, và lựa chọn ra tập con các thể hiện đứng đầu Mc trong số các thể hiện được xếp hạng. Tất cả các thể hiện Môtô được xếp hạng trên tất cả mẫu Moto do đi thực tế công việc này có thể được hiểu là loại bỏ các thể hiện Môtô không có nhiều giá trị thông tin.

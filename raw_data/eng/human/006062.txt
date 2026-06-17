@@ -1,1 +1,0 @@
-Optimizing the performance of critical JRPC requests can enhance system responsiveness, reduce latency, and improve the user experience during login and regis tration.

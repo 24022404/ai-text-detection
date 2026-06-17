@@ -1,1 +1,0 @@
-Backend: server xử lý logic được trên kha thành các package Controller Business Model tương tự như mô hình MVC. Tuy nhiên, phần View trong mô hình MVC ở điây điã điược thay thế hoàn toàn bở Frontend, Backend chỉ tập trung vào duy nhất vào xử lý nghiệp vụ và tương tác với cơ sở dữ liệu. Và trò cụ thể của các package trong mô hình như sau:

@@ -1,1 +1,0 @@
-Keeping the height of the screen unchanged, we calculate the new width as follows: NewWidth = 1440 / 0.5625 = 2560. Therefore, the new screen resolution will be 1440 x 2560.

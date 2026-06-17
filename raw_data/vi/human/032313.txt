@@ -1,1 +1,0 @@
-–Thuộc tính website : địa chỉ website của địa điểm du lịch.•Doman: cHo  Các thuộc tính mô tả thông tin về lễ hội gồm –Thuộc tính teLeGo : tên lễ hội.

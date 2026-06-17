@@ -1,1 +1,0 @@
-Hệ thống sử dụng đăng nhập bằng tài khoản Google bắt buộc người dùng phải có access Token, điều này đảm bảo rằng tài khoản người dùng sẽ không bị hack hoặc bị mất.

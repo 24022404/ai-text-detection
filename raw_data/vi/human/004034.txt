@@ -1,1 +1,0 @@
-Vớ tốc độ và tính bảo mật cao, MySQL rất thích hợp cho các ứng dụng có truy cập cơ sở dữ liệu trên nternet. Và đặc biệt với những dữ liệu cần sự lên kết, có quan hệ với nhau thì MySQL là lựa chọn thích hợp.

@@ -1,1 +1,0 @@
-Vớ cấp cao nhất là quản lý, người quản lý có thể quản lý nhân viên, người dùng và kểm tra doanh thu.4.3.3 Mnh họa các chức năng chính Hình 4.13: Gao vện chính  phên bản máy tính Hình 4.14: Gao diện chính  phên bản điện thoạHa hình ảnh trên tương ứng với gao diện trang chủ(chưa đăng nhập) trên ha phên bản máy tính và điện thoạ, thể hiện tính responsve của website.

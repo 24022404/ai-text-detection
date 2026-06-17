@@ -1,1 +1,0 @@
-# Actor Action 1 User Submit the form 2 System Send email include the flowing link 3 Admin Accept request 4 System Send email include account information Table 2.1: Main flow of use case register to be supplier Alternative Flows is shown in table 2.2:

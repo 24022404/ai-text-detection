@@ -1,1 +1,0 @@
-Print shipping slip Search and retrieve goods to be moved Sort goods into new location Confirm job completionStep 4 : The warehouse staff reports the completion of the work to the store keeper and updates the status of the slip.

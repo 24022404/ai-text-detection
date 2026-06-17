@@ -1,1 +1,0 @@
-Laravel phù hợp với việc xây dựng website giới thiệu thông tin của doanh nghệp vì nó hỗ trợ điầy điủ thư viện như: thư viện sesson, phân trang, . . . và nó cũng hỗ trợ MySQL với Bootstrap.

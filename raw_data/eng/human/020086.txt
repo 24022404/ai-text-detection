@@ -1,1 +1,0 @@
-User Interface Test: Test the usability of the app by having users perform common tasks such as selecting a starting point and a destination, following the gener ated path, and using the AR features.

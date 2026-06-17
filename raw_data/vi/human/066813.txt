@@ -1,1 +1,0 @@
-Tăng yếu tố bảo mật: Các hệ thống bên ngoài chỉ có thể giao tiếp với hệ thống Backend qua cổng mặc định của máy chủ Nginx là cổng 80, và không thể biết được số lượng và định danh của các dịch vụ backend đang được chạy trong hệ thống.

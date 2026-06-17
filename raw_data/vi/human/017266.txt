@@ -1,1 +1,0 @@
-Em đặt ra mục tiêu xây dựng được các model đưa ra được Target variable và tiến hành so sánh.

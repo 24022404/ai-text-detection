@@ -1,1 +1,0 @@
-User: serves as a dedicated container for all API-related logic concerning usermanagement within the system. It encapsulates functionalities related to han dling user-related operations, such as searching for users, retrieving user lists, and disabling user accounts.

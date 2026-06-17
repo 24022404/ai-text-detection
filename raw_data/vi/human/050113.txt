@@ -1,1 +1,0 @@
-<ttle> và </ttle>: kha báo têu điề trang, nằm trong thẻ <head> <body> và </body>: đánh dấu phần nộ dung của trang <h1></h1>, <h2></h2>: quy định dữ lệu dạng headng, nộ dung của dữ lệu này được phóng to và n điậm tùy theo cấp điộ <p> và </p>: chứa đioạn văn trong nộ dung của trang Kh mở tệp HTML trên bằng trình duyệt Chrome, ta sẽ thu được kết quả:

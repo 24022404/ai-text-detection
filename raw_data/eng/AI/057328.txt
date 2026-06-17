@@ -1,1 +1,0 @@
-A path from vertex u to a left-unbalanced vertex must include at least s−j edges labeled 0, as demonstrated by the proof. This minimum is necessary because the structure of the graph mandates traversing these 0-labeled edges to reach the left-unbalanced vertex, and such a route can always be constructed accordingly.

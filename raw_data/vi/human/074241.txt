@@ -1,1 +1,0 @@
-Sau khi được đào tạo mô hình học máy có thể phân biệt chó và mèo vớ độ chính xác cao. Với học máy có thể mô tả được rằng cách hoạt động của nó tương tự với cách con người học là dựa vào kinh nghiệm, kiến thức có trước để hoàn thành các công việc mới, nhiệm vụ cụ thể.

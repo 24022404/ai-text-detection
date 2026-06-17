@@ -1,1 +1,0 @@
-Có hai cách để kết nối nhiều slave và master. Nếu master có nhiều chân slave select, các slave có thể được nối dây song song như thế này:

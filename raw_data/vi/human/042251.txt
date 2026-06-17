@@ -1,1 +1,0 @@
-NodeJS Hình 3.5: Nền tảng lập trình NodeJS Node.js là một nền tảng phát triển phía server xây dựng trên mã nguồn mở V8 Engine của Google, cho phép sử dụng JavaScript để lập trình backend. Nodejs cho phép các nhà phát triển xây dựng các ứng dụng tốc độ cao với khả năng mở rộng tốt.

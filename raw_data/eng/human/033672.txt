@@ -1,1 +1,0 @@
-Q. H. Pham, V. A. Nguyen, L. B. Doan, B. B. Tran and. MR. Thanh, “From universal language model to downstream task: Improving RoBERTa based Vietnamese hate speech detection,” n2020 12th International Conference on Knowledge and Systems Engineering (KSE) IEEE, 2020. DOI:10.1109/ kse50997.2020.9287406 .

@@ -1,1 +1,0 @@
-Qua quá trình khảo sát thực tế và phân tích hệ thống hiện có, các chức năng của hệ thống được thể hiện qua biểu đồ use case tổng quan ở Hình 2.1.

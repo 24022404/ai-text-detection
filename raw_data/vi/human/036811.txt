@@ -1,1 +1,0 @@
-database  Chứa ha thư mục mgraton (tạo và thao tác database) và seeds (tạo dữ liệu mẫu), tiện lợi điểm lưu trữ dữ liệu sau này.

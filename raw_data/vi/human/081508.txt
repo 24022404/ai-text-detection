@@ -1,1 +1,0 @@
-Như đã đề cập, sau khi mô hình hoá bài toán bằng MDP, mục tiêu của ta là tìm ra policy mà điểm về cho ta lượng điểm thưởng tố địa:

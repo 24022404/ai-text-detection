@@ -1,1 +1,0 @@
-A. Bochkovskiy, C. Wang and H. M. Liao, “Yolov4: Optimal speed and accuracy of object detection,” CoRR ,jourvol abs/2004.10934, 2020. arXiv:

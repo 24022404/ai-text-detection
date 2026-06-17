@@ -1,1 +1,0 @@
-Tền điều kiện là người dùng đã đăng nhập vào hệ thống, đang ở màn hình home của trang web.

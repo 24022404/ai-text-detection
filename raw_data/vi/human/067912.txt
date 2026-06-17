@@ -1,1 +1,0 @@
-Nodejs được xây dựng dựa vào nền tảng V8 JavaScript Engine  một trình thông dịch thực thi mã JavaScript vết bở C++ nên việc thực thi chương trình rất nhanh.

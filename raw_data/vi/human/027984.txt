@@ -1,1 +1,0 @@
-Virtual DOM cho phép ReactJS xây dựng ứng dụng hiệu suất hơn. Đó là DOM ảo, ReactJS sử dụng bản copy đố để tìm kiếm đúng phần mà LÀM thật cần cập nhật khi có bất kỳ một sự kiện nào đó khiến thành phần trong nó thay đổi.

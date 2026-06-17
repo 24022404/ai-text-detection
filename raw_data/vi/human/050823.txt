@@ -1,1 +1,0 @@
-Gao điện gồm 3 thành phần lớn chính: thanh header chung của ứng dụng CMS, phần bên trái hiển thị thông tin lộ trình học và phần bên phải hiển thị danh sách khóa học nằm trong lộ trình học.

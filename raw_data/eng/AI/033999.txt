@@ -1,1 +1,0 @@
-The Model is responsible for handling the application's data and business logic, covering tasks like data storage, retrieval, manipulation, and enforcement of necessary rules. Within Odoo, models are directly related to database tables and rely on the Object-Relational Mapping (ORM) layer to seamlessly interact with the underlying database system.

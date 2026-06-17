@@ -1,1 +1,0 @@
-Hook: Package này có nhiệm vụ lắng nghe sự thay đổi của các công việc trên Cloud và đồng bộ về.

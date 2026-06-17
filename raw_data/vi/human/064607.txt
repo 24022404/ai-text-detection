@@ -1,1 +1,0 @@
-Tuy nhiên, việc áp dụng học sâu vào nhận diện khuôn mặt đối mặt với nhiều thách thức, đặc biệt khi chỉ có ít dữ liệu.

@@ -1,1 +1,0 @@
-Z. Lu, Y. Lnx. Cao, et al. , “Svn transformer: Hierarchical vson transformer using shifted windows,” n Proceedings of the IEEE/CVF International Conference on Computer Vision , 2021, pp. 10 012–10 022.

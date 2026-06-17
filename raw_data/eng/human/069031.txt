@@ -1,1 +1,0 @@
-LogCat Streaming This function will log real time behaviour, you can click on the Stop Streaming to pause the logging process, and continue by click the Continue Streaming button Here is the contents of a logging line:

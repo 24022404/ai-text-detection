@@ -1,1 +1,0 @@
-Balsamiq mockups là một phần mềm dùng để phác thảo, vẽ Wireframe rất tiện dụng, mạnh mẽ và đặc biệt dễ dàng sử dụng. Giao diện của Balsamiq đơn giản,dễ dàng kéo thả và giúp người dùng thao tác nhanh để phác thảo bố cục hoặc thiết kế wireframe nhanh chóng. Vì vậy, em đã sử dụng Balsamiq mockup 3 điểm thiết kế giao diện cho hệ thống.

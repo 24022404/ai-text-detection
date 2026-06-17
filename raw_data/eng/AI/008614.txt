@@ -1,1 +1,0 @@
-OpenCV enables real-time image processing, making it highly valuable for robotics and autonomous vehicles, where rapid and accurate visual analysis is essential.

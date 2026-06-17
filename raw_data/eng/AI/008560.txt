@@ -1,9 +1,0 @@
-Objective: Declarative process models offer flexibility for knowledge-intensive and exception-prone domains by specifying constraints rather than rigid control flows. However, existing discovery techniques often generate overly complex or imprecise models when faced with noise, incompleteness, and large event logs.
-
-Methods: We present DisCoveR, a novel framework for accurate and efficient discovery of declarative process models. DisCoveR operates in two main phases. First, it preprocesses event logs through trace abstraction and clustering to reduce noise and highlight candidate behaviors. Second, it employs a guided constraint generation algorithm that leverages statistical validation and incremental pruning to identify relevant temporal and resource constraints. To further enhance performance, DisCoveR integrates optimized data structures and parallel evaluation of constraint candidates.
-
-Results: Comprehensive experiments on both synthetic benchmarks and real-world event logs demonstrate that DisCoveR outperforms state-of-the-art declarative mining tools. Specifically, it achieves up to a 20% improvement in F1-score for model quality and reduces runtime by 30–50% on large logs. Case studies in healthcare and financial auditing show that DisCoveR produces more interpretable models with fewer redundant constraints.
-
-Conclusion: DisCoveR advances the field of declarative process discovery by combining robust noise handling, scalable constraint learning, and efficient implementation. Its ability to deliver concise, high-fidelity models makes it a valuable component for process-aware information systems and compliance monitoring.
-
-Keywords: Declarative process modeling; process mining; constraint discovery; event log abstraction; DisCoveR.

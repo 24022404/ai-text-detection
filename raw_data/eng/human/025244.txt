@@ -1,1 +1,0 @@
-The fields used for encoding are : average rating ,work text review count, work rating count, ratings count, ratings 1, ratings 2, ratings 3, ratings 4, ratings 5 ,original publication year ,language code . Where language code uses one-hot-encoding, then apply standard scaler to the above data fields.

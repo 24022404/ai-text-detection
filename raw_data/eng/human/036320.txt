@@ -1,1 +1,0 @@
-function unfollowUser This function handles the request when user click to unfollow other users. It will then update the following and followers field of respective User document in the database.

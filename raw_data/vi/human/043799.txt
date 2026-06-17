@@ -1,1 +1,0 @@
-Javascript : là một ngôn ngữ lập trình được Brendan Ech ra mắt vào năm 1995. Ngôn ngữ giúp một trang web chuyển từ trạng thái động sang trạng thái tĩnh. Javascript có khả năng tạo tương tác để cải thiện hiệu suất của máy chủ, nâng cao trải nghiệm website của người dùng.

@@ -1,1 +1,0 @@
-cân bằng của các lớp trong bộ dữ liệu tiếng Việt. Thật vậy, cách sử dụng hàm mất mát tiêu điểm giúp mô hình có thể tập trung vào những mẩu khó dự đoán, cải thiện tham số đánh giá.

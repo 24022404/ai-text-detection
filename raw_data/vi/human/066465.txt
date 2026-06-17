@@ -1,1 +1,0 @@
-Sử dụng ajax request dữ lệu liên tục sau mổ gây. Ưu điểm là nhanh gọn, dễ dùng. Tuy nhiên, Do phá yêu cầu dữ lệu liên tục như thế sẽ rất tốn tài nguyên sever.

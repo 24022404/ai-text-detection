@@ -1,1 +1,0 @@
-Vì vớ mỗ ảnh ta cần phân loại các class cho 2000 region proposal nên thờ gan tran rất lâu.

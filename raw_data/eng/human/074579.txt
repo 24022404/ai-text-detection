@@ -1,1 +1,0 @@
-Furthermore, one queue can be subscribed by more than one worker. Multiple in stance of the same worker can run at once to speed up the dequeuing process.

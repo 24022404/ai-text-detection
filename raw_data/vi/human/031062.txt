@@ -1,1 +1,0 @@
-Ch tết thông tin khách hàng Hình 4.14: Ch tết thông tin khách hàng Giao diện này là ch tết thông tin của khách mua hàng trong phần quản lý danh sách khách hàng. Gồm các thông tin cơ bản của khách hàng và thông tin quản lý đơn hàng đã mua cũng như công nợ, lịch sử cuộc gọi của khách hàng.

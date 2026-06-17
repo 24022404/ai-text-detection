@@ -1,1 +1,0 @@
-Simple convolutional neural network was able to win ISISPA color constancy competition. Partial reimplementation of (Bianco, 2017) neural architecture would have shown even better results in this setup.

@@ -1,1 +1,0 @@
-This sub-use case enables users to download the decompiled source code or Smali code, providing flexibility for further analysis or review.

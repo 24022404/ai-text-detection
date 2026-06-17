@@ -1,1 +1,0 @@
-A path in a graph consists of a sequence of edges, with each edge’s ending vertex matching the starting vertex of the next edge in the sequence.

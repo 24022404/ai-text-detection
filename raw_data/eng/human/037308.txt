@@ -1,1 +1,0 @@
-Seamless onboarding -Web3Auth uses social login to allow users to sign up for dapps with just a few clicks. This makes it easy for users to get started with dapps, and it also helps to improve the user experience.

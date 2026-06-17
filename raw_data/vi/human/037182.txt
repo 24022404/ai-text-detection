@@ -1,1 +1,0 @@
-Xây dựng giao diện người dùng theo kiến trúc Micro Frontends trong hệ thống Boundless Như đã đề cập ở Chương 4, trong "Hệ thống quản lý mạng không dây công cộng" (Boundless) ở ĐATN này, phần giao diện người dùng sẽ được triển khai tuân theo thiết kế Micro Frontends.

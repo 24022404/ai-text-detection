@@ -1,1 +1,0 @@
-Permissions Check: The tester checks the permissions required to invoke the exported activities, identifying cases where weak or missing permis-sion checks could allow unauthorized access.

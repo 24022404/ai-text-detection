@@ -1,1 +1,0 @@
-Finetuning on Multi-document datasetsIn the Fully Supervised evaluation, we first pretrain our model on the News corpus/Newshead dataset and then fine-tune it on the ViMs, VMDS, and VLSP datasets. This evaluation aims to examine how well the pre-trained model could adapt to new multi-document summarization datasets providing additional training samples.

@@ -1,1 +1,0 @@
-The AOI positioned before the oven can directly detect and correct issues with external components just ahead of the oven.

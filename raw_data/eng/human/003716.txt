@@ -1,1 +1,0 @@
-Powerful integration: Spring Boot integrates well with other popular technologies such as Spring Data, Spring Security and Spring Cloud, helping to develop scalable applications and easily integrate with different services.

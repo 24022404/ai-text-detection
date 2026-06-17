@@ -1,1 +1,0 @@
-Chọn nút tìm kiếm.  Hiển thị danh sách sản phẩm phù hợp với từ khóa.  Hiển thị danh sách sản phẩm phù hợp với từ khóa.  Đạt TC02  1. Nhập từ khóa không có sản phẩm nào phù hợp vào thanh tìm kiếm.

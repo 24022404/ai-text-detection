@@ -1,1 +1,0 @@
-Thiết kế cho tết gó Controller và Model Hình 4.5: Thiết kế cho tết có View dành cho nhà hảo tâm Hình 4.5 là biểu đồ gió Controller và Model, em đã biểu diễn sự liên kết của từng lớp controller tương ứng với các model kh giao tiếp để thao tác dữ liệu.

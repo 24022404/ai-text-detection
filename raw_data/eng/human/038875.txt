@@ -1,1 +1,0 @@
-Completion Logs the successful completion of the manifest analysis andreturns the findings, which include details about permissions, compo nents, and any security risks identified.

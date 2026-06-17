@@ -1,1 +1,0 @@
-Dưới đây là ví dụ kết nối đến emal outlook trong đồ án điã sử dụng để nhận email phản hồi của khách hàng.

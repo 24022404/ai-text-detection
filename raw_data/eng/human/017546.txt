@@ -1,1 +1,0 @@
-In this thesis, I will not cover the derivation for PCA because it is math-heavy. I instead show the steps to find principal components. Formally, given the output of dimension of the representation space. To conduct PCA, the following steps are performed:

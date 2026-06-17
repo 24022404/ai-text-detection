@@ -1,1 +1,0 @@
-Mệnh chuỗi khố công khai: (Public Blockchain) là kiểu mạng chuỗi khố được bếp điện nhiều nhất hiện tại, nó không những mở (open) cho tất cả mọi người có thể tham gia vào mạng mà còn là hệ thống phi tập trung một cách toàn diện nhất.

@@ -1,1 +1,0 @@
-Nest sử dụng mô hình Modules, giúp cho việc phân tách và quản lý mã nguồn dễ dàng hơn. Điều này giúp tăng tốc độ xử lý và tối ưu hoá hiệu suất của ứng dụng.

@@ -1,1 +1,0 @@
-Lập trình MVC trong Nodejs tức là sẽ tạo các chức năng cho website quy ước theo mô hình MVC. Theo đó, các việc xử lý request, hiển thị dữ lệu, xử lý dữ lệu phải tách bạch theo quy định.

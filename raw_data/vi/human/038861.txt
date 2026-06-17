@@ -1,1 +1,0 @@
-Data Source Layer : đóng vai trò là Database, được tối ưu cho mục đích lưu trữ dữ liệu của hệ thống. . Nhiệm vụ chính là nhận yêu cầu thao tác với dữ liệu từ Backend Server và thực thi các tác vụ lưu trữ dữ liệu..

@@ -1,1 +1,0 @@
-Sau khi đã xác định được vấn đề, mục tiêu của dự án, em thực hiện xây dựng định hướng giải pháp cho dự án. Thứ nhất, điểm đáp ứng nhu cầu người dùng có thể trải nghiệm tốt nhất khi sử dụng website, em sẽ sử dụng Client Side Rendering.

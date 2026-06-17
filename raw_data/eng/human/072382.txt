@@ -1,1 +1,0 @@
-Edit data manually: No matter how good the models are, there would be anoma lies or special cases that may affect the rankings. Trendz would also need to keeptrack about news sites’ components UI updates, which may affect the final out puts of the data collecting systems.

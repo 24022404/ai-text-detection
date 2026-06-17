@@ -1,1 +1,0 @@
-N. Dalal andB. Triggs, “Histograms of oriented gradients for human detection,” in2005 IEEE computer society conference on computer vision and pattern recognition (CVPR’05) Ieee, volume 1, 2005, pages 886–893.

@@ -1,1 +1,0 @@
-src_type (bool): A flag indicating whether the source is Android Studio project files ( True ) or an APK file ( False ).

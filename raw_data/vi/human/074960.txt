@@ -1,1 +1,0 @@
-Đố với môi trường thử nghiệm (staging), quá trình CI/CD sẽ tiến hành build các game mở đẩy lên docker hub, sau đó cập nhật file Deployment của K8s Đối với môi trường thực tế, quá trình cũng tương tự tuy nhiên, việc cập nhật file Deployment được thực hiện thủ công.

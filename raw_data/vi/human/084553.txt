@@ -1,1 +1,0 @@
-Thêm vào đó NextJS có chức năng kết hợp SSG và CSR với nhau, các trang rêng biệt có thể sử dụng cách rendering khác nhau. extJS hỗ trợ cho ReactJS nên việc hỗ trợ SPA ( Single Page Application ) là hoàn toàn có thể. Việc người dùng d chuyển giữa các trang web mà không cần tả lại toàn bộ trang web chính là điểm lợi của công nghệ SPA.

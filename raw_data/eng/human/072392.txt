@@ -1,1 +1,0 @@
-Performance: React is designed to provide high performance. The core element of the framework provides a virtual DOM programming and server -side parsing, helping complex applications run faster.

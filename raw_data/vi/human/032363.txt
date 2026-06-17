@@ -1,1 +1,0 @@
-LSTM là 1 kiến trúc đặc biệt của ARN có khả năng học được sự phụ thuộc trong dài hạn, khắc phục được nhiều điểm yếu của RNN .

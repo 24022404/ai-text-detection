@@ -1,1 +1,0 @@
-Redux Redux là một thư viện quản lý trạng thái cho các ứng dụng web và mobile. Nó giúp tách biệt dữ liệu và tương tác của ứng dụng từ các thành phần giao diện người dùng, làm cho việc quản lý trạng thái trở nên dễ dàng và hiệu quả hơn.

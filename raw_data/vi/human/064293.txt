@@ -1,1 +1,0 @@
-Các mô hình được trình bày sau đây sử dụng chung chiến lược huấn luyện như được đề cập trong Mục 4.3. Việc huấn luyện các mô hình được thực hiện 5 lần, kết quả thí nghiệm thu được bằng cách tính trung bình các kết quả quá 5 lần chạy.

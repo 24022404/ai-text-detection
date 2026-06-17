@@ -1,1 +1,0 @@
-Thư viện và công cụ sử dụng Để xây dựng nên phân hệ quản lý và lập lịch trình tính toán chỉ báo, các công cụ được sử dụng như sau:

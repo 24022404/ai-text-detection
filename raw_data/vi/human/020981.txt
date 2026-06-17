@@ -1,1 +1,0 @@
-Chương 4 trình bày về các độ đo đánh giá hiệu năng của mô hình, thông số các bộ dữ liệu sử dụng, phương pháp huấn luyện mô hình đề xuất, các phương pháp thực hiện thí nghiệm và các kết quả thực nghiệm định tính và định lượng.

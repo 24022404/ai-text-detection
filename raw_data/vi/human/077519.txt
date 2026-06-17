@@ -1,1 +1,0 @@
-B1. Nếu nhập sai mã OTP hệ thống sẽ hiển thị thông báo Hậu điều kiện Người dùng tả fle điã điược ký Bảng 3.2: Đặc tả use case đơn ký 3.3.2 Đặc tả use case đồng ký Usecase Đồng ký ID 02 Tác nhân chính Người dùng Phạm vi Người dùng truy cập vào website điểm ký tài liệu.

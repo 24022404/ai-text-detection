@@ -1,9 +1,0 @@
-This paper addresses the pervasive issue of hidden technical debts in the deployment of fair machine learning models within the financial services sector. The study aims to identify, quantify, and propose solutions for these technical debts, which often arise due to biases in data and model implementation, affecting fairness and compliance in financial systems.
-
-Methods/Approach: We employed a comprehensive analytical approach combining statistical analysis, machine learning bias detection algorithms, and a novel heuristic framework designed specifically for the financial services context. This involves extracting potential areas of technical debt from historical data, training machine learning models, and assessing their fairness across various performance metrics, including disparate impact and statistical parity.
-
-Results/Findings: Our findings reveal significant hidden technical debts in existing financial machine learning systems, specifically in areas like credit scoring and risk assessment. The application of our heuristic framework demonstrated a reduction in bias by up to 20% without compromising model accuracy. Comparative analysis with traditional models shows improved fairness metrics, positioning our approach as a viable enhancement for current fair lending practices.
-
-Conclusion/Implications: This research contributes to the growing discourse on ethical AI, highlighting necessary considerations for financial institutions aiming to deploy fair machine learning solutions. The proposed framework offers a scalable and practical approach to addressing technical debts, promoting transparency and accountability. The work has potential applications in regulatory compliance and policy-making, ensuring that financial services better align with equitable and fair practices.
-
-Keywords: Technical debt, Fair machine learning, Financial services, Bias detection, Ethical AI, Fair lending practices.

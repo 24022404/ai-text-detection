@@ -1,1 +1,0 @@
-Tích hợp Chat GPT Em đã thích Chat GPT vào ứng dụng thông qua việc sử dụng API Key. GPT 3.5 là một mô hình ngôn ngữ tên tiến của OpenAI, Chat GPT được xây dựng trên mô hình ngôn ngữ GPT 3.5, với khả năng tạo ra văn bản tự nhiên và logic. Việc tích hợp bao gồm các bước sau:

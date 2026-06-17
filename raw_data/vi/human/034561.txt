@@ -1,1 +1,0 @@
-Cuối cùng, chức năng xoá giai đoạn giúp người quản lý xóa thông tin về ga đoạn không cần thiết.

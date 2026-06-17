@@ -1,1 +1,0 @@
-Algorithm 3 REINFORCE Chọn số lượng tập tô đia N footpriNt forK bộ các tập của môi trường do for mỗ bước trong tập môi trường do Tính giá trị điểm thưởng chiết khấu Gt←PT end for Tính giá trị mất mát policy cho toàn bộ các tập trong bộ các tập mTX Gán N←n+ 1 end for end for Ta có thể sử dụng hàm lợi thế Sống ý tưởng khi sử dụng nó trong Qlearning.

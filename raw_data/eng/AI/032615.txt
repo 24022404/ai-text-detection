@@ -1,1 +1,0 @@
-An APK signed with a certificate containing CN=Android Debug uses a debug certificate, which is not secure and should not be used in production environments.

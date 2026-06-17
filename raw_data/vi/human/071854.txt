@@ -1,1 +1,0 @@
-Hệ thống cần có khả năng mở rộng và dễ bảo trì.2.4.2 Yêu cầu giao diện người dùng Thiết kế bố cục hợp lý, rõ ràng và dễ sử dụng. Đảm bảo các thành phần chính như thanh menu, nút chức năng, nội dung chính, v.v. được bố trí một cách logic và thuận tiện để người dùng có thể truy cập và tương tác một cách dễ dàng.

@@ -1,1 +1,0 @@
-Dựa vào biểu đồ thực thể liên kết, em sẽ trình bày cụ thể bảng dữ lệu tương ứng cùng mô tả các thuộc tính. Các bảng này được khởi tạo trong hệ quản trị cơ sở dữ lệu MySQL.

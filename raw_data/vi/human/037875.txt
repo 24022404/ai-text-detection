@@ -1,1 +1,0 @@
-Tính phân tán: Mô hình client server cho phép phân tán tài nguyên giữa nhiều máy tính, giúp tăng khả năng linh hoạt và dễ dàng mở rộng hệ thống.

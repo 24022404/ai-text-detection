@@ -1,1 +1,0 @@
-Sau đó, Controller sẽ xóa trong Danh sách 1 những mã phòng xuất hiện trong Danhsách 2. Bước cuố cùng, Controller sẽ truy vấn Bảng giá, để tính gá điặt phòng cho những căn hộ thỏa mãn các yêu cầu của người dùng rồ trả về kết quả cho Vew hển thị.

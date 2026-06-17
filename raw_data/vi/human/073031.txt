@@ -1,1 +1,0 @@
-service Chứa các lớp và các phương thức để giao tiếp với các góc hoặc hệ thống bên ngoài như: cái lờ gọi API, các đoạn mã cấu hình xác thực firebase.

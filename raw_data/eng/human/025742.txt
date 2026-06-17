@@ -1,1 +1,0 @@
-The encode process happens at the satellite, where it uses the LFSR algorithmFigure 2.6: High-level satellite Quantum Key Distribution timing and synchronization schematic .

@@ -1,1 +1,0 @@
-Người dùng điền đầy đủ thông tin tên, email, số điện thoại thì người dùng bấm vào nút "Tiếp theo" điểm chuyển sang trang thứ hai.Hiển thị trang thứ hai là một form bao gồm tất cả các câu hỏ mà điã điược quản trị vên cà điặt sẵn.

@@ -1,1 +1,0 @@
-UHF frequency: Passive tags work on UHF and HF frequencies using the same modulation technique as LF (AM) tags but differ in the way they transmit power and antenna design.

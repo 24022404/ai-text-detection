@@ -1,1 +1,0 @@
-–Operating System: macOS Monterey 12.5 –Processor: Apple M1 (ARM) –RAM: 16GB –Storage: 256GB Chapter SummariesThis chapter has covered system architecture, application development, and de ployment in depth. We also presented the components, use cases, user interface, database design, and tools we used during the software development life cycle.

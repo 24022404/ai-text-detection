@@ -1,1 +1,0 @@
-■Giao diện cho một cuộc hội thoại Hình 4.16: Gao vện ch tết cuộc hội thoại Hình 4.16 là giao diện cho một cuộc hội thoại, màn hình gồm các tin nhắn văn bản, meda. Người dùng có thể gửi tin nhắn văn bản, hình ảnh hoặc video.

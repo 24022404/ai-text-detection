@@ -1,1 +1,0 @@
-Ứng dụng trong nghiên cứu và khai thác dữ liệu: Công cụ này có thể được sử dụng trong nhiều lĩnh vực như khai thác dữ liệu, phân tích ngôn ngữ tự nhiên, hay xử lý ngôn ngữ tự động.

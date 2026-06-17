@@ -1,1 +1,0 @@
-Vớ tập dữ liệu người nổ tiếng sẽ gồm một phần của bộ dữ liệu LFW. Tập dữ liệu đánh giá gồm 9148 ảnh của 1680 người nổ tiếng. Trong tập dữ liệu sẽ lấy ra 1000 ảnh của 1000 người nổi tiếng để đưa vào cơ sở dữ liệu. Phần còn lạ làm dữ liệu truy vấn.

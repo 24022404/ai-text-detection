@@ -1,1 +1,0 @@
-Nếu khoảng cách đủ nhỏ và phân loại của vật cản phía trước là phương tiện thì ta chuyển trạng thái thành VEHICLE COLLISION STOP.

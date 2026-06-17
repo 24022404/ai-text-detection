@@ -1,1 +1,0 @@
-R. Nallapati, B. Zhou, C. Gulcehre, B. Xiang andothers , “Abstractive text summarization using sequence-to-sequence rnns and beyond,” arXiv preprint arXiv:1602.06023 , 2016.

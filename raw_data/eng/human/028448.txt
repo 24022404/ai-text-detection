@@ -1,1 +1,0 @@
-The relationships of the entity "Order" can be described as follows:•The entity "Order" have a many-to-one relationship with entity "User", mean ing that a purchase order can only belong to one buyer.

@@ -1,1 +1,0 @@
-Đầu tên, khách hàng viếng thăm là khách hàng chưa có tài khoản trong hệ thống trang web, khách hàng viếng thăm có thể xem danh sách các sản phẩm, tra cứu thông tin sản phẩm, thêm sản phẩm vào giỏ hàng, tuy nhiên nếu muốn đặt mua cần tiến hành đăng ký tài khoản trên hệ thống, lúc này khách hàng viếng thăm trở thành khách hàng thành viên.

@@ -1,1 +1,0 @@
-MethodlogyIdentifying Browsable Activities: Browsable activities are identified by look ing for <intent-filter> elements within the manifest file which is apart of uploaded file that include an <action> tag with the value an droid.intent.action.VIEW . These are the activities that can be launched by external intents, such as web links or external apps.

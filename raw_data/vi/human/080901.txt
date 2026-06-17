@@ -1,1 +1,0 @@
-Sau khi kết thúc quy trình trên thì máy chủ sẽ trả về cho người dùng một đường dẫn để tải file xuống.

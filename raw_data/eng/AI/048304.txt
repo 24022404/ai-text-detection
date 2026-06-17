@@ -1,1 +1,0 @@
-The system checks every found Firebase URL to see if its database can be accessed online without needing authentication, ensuring security.

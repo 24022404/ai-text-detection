@@ -1,1 +1,0 @@
-Trên thực tế, một và website kinh doanh thiết bị mạng được xây dựng còn đơn giản, chưa có tết, chưa nêu rõ được thông tin, thông số kỹ thuật về sản phẩm, thiết bị mạng. Một số website thiết kế giao diện bố cục sản phẩm  chưa rõ ràng , linh hoạt . Khả năng mở rộng còn hạn chế.

@@ -1,1 +1,0 @@
-Bổ sung hỗ trợ RESTful service với định dạng dữ liệu JSON nhẹ hơn SO với dữ liệu XML rất nhiều Cho phép cấu hình tham số WebGet qua URL sử dụng Template Nhược điểm:

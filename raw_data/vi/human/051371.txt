@@ -1,1 +1,0 @@
-Kết nối thiết bị Android với máy tính bằng cáp USB. Một hộp thoại sẽ hiện ra trên thiết bị điểm yêu cầu bạn cho phép gỡ lỗi qua USB.Hình 4.33: Hộp thoại Allow USB debugging Chọn hộp đánh dấu Luôn cho phép từ máy tính này , sau đó nhấn vào OK.

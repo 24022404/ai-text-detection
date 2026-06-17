@@ -1,1 +1,0 @@
-Trong phần này em sẽ trình bày về các công nghệ đã sử dụng cho phần Backend của hệ thống.

@@ -1,1 +1,0 @@
-Lastly, the project has successfully developed a pixel platformer game with nec essary features and functionalities, effectively applying the three aforementioned libraries.

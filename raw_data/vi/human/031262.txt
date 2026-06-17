@@ -1,1 +1,0 @@
-Hệ thống kiểm tra, thống kê nhân sự bán hàng và đơn hàng : cho phép xem thông tin hàng hóa, kiểm tra, thống kê hàng hàng hóa trong nhân sự bán hàng và đơn hàng vào trong kho .

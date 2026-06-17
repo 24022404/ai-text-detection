@@ -1,1 +1,0 @@
-PostgreSQL supports geographic objects so it can be used as a geospatial data store for location-based services and geographic information systems.

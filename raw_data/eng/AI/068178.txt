@@ -1,9 +1,0 @@
-The research addresses the pervasive challenges of catastrophic forgetting and mode collapse in Generative Adversarial Networks (GANs), which compromise the quality and diversity of generated outputs. These phenomena undermine the potential of GANs in applications requiring stable and diverse data generation.
-
-Methods/Approach: We propose a novel approach to mitigate these issues by introducing an advanced multi-task learning architecture and a dynamic memory module designed to enhance GAN's ability to retain previously learned distribution characteristics and improve mode diversity. The architecture employs a dual-discriminator setup, combined with a continuity-aware generator, to better detect and correct mode collapse while preserving learned patterns.
-
-Results/Findings: Experimental results demonstrate significant improvements in both stability and diversity of the generated data, when compared to traditional GAN models. The proposed method outperformed existing benchmarks on standard datasets, achieving higher scores in Fréchet Inception Distance (FID) and Inception Score (IS), indicating enhanced quality and variety of generated images.
-
-Conclusion/Implications: By effectively addressing catastrophic forgetting and mode collapse, our work paves the way for more reliable applications of GANs in real-world tasks such as image synthesis and data augmentation. The proposed framework provides insights into architectural variations that can be employed across different types of generative models, offering potential advancements in areas requiring consistent generation performance.
-
-Keywords: Generative Adversarial Networks (GANs), Catastrophic Forgetting, Mode Collapse, Multi-task Learning, Dynamic Memory Module, Image Synthesis, Data Augmentation.

@@ -1,1 +1,0 @@
-This sub-use case enables users to view essential metadata and file details—including the name, size, hash values, version, and package name—after uploading a file. Access to this information plays a crucial role in verifying the file’s authenticity and understanding its specific properties, which helps users make informed decisions about managing and using the file.

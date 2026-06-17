@@ -1,1 +1,0 @@
-Those requests should restrict accesses from any sources that do not belong to the granted group services. One example is that regular users should not be able to perform a write operation to crawled contents or extracted entities table.

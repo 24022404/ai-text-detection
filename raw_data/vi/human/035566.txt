@@ -1,1 +1,0 @@
-Navigator: Là thành phần quản lý điều hướng trong ứng dụng. Navigation cho phép lập trình viên chuyển đổi giữa các màn hình và xử lý các sự kiện điều hướng.

@@ -1,1 +1,0 @@
-Tự động khởi động lạ: PM2 giúp tự động khởi động lại các ứng dụng Nodejs trong trường hợp xảy ra lỗi hoặc crash. Đều này đảm bảo rằng ứng dụng của bạn luôn hoạt động và sẵn sàng phục vụ các yêu cầu.

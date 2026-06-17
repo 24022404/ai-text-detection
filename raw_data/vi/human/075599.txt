@@ -1,1 +1,0 @@
-Ví dụ về một truy vấn SPARQL lấy ra tên, địa chỉ, vĩ độ, kinh độ của các chợ trong cơ sở tri thức.

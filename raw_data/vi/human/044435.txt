@@ -1,1 +1,0 @@
-Ấn vào bểu tượng X ở món ăn muốn xóa 3. Ấn hủyHển thị thông báo xác nhận xóa Gữ nguyên thông tin món ăn TC005 Kểm tra chức năng chỉnh sửa món ăn1.Ấn vào mục menu trên thanh công cụ.

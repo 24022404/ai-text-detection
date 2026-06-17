@@ -1,1 +1,0 @@
-Tích hợp Redux DevTools mà không cần thiết lập thêm.•Tự cấu hình store, bao gồm thiết lập middleware như redux thunk cho các tác vụ bất đồng bộ.

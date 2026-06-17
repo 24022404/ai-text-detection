@@ -1,1 +1,0 @@
-Redux giúp tạo ra một lớp quản lý các trạng thái của ứng dụng. Redux tạo ra một cây trạng thái duy nhất, không thể thay đổi trực tiếp. Cách duy nhất để thay đổi cây trạng thái này là sử dụng actions và reducers điểm cập nhật lại dữ liệu của ứng dụng dựa trên dữ liệu nhận được.

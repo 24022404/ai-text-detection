@@ -1,1 +1,0 @@
-Độ bảo mật cao, chống lại các cuộc tấn công XSS, mã độc, em đã kiểm thử các lỗ thường gặp.

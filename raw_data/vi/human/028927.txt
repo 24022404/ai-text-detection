@@ -1,1 +1,0 @@
-Nếu người dùng kéo khóa học ra khỏi phạm v d chuyển thông thường và thả tay, khóa học sẽ quay lại vị trí cũ và hệ thống không tiến hành cập nhật gì thêm.

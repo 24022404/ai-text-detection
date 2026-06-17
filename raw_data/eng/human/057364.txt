@@ -1,1 +1,0 @@
-J. Lee, K. Cho andT. Hofmann, “Fully character-level neural machine translation without explicit segmentation.,” Trans. Assoc. Comput. Linguistics ,jourvol 5, pages 365–378, 2017. url:http : / / dblp . uni - trier. de / db / journals/tacl/tacl5.html#LeeCH17 .

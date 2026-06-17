@@ -1,1 +1,0 @@
-Purpose : Provide the admin with a clear overview of all users and their roles,enabling effective user management.This chapter introduces the technologies and platforms utilized in the project management and task management application. Each technology is analyzed in the context of how it addresses the specific problems or requirements identified.

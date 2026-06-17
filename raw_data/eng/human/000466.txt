@@ -1,1 +1,0 @@
-If the necessary dependencies for analysis (e.g., yara-python) are miss ing or if an issue occurs, the process handles the error gracefully and logs the failure.

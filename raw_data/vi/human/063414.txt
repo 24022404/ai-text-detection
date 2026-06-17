@@ -1,1 +1,0 @@
-Thư viện này đáp ứng nhu cầu đa dạng của người dùng với các thuật toán phân loại (classification), hồi quy (regression), phân cụm (clustering), học không gán sát (unsupervised learning) và học tăng cường (renforcement learnng) điã điược tích hợp sẵn.

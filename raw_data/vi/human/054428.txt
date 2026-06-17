@@ -1,1 +1,0 @@
-Ở chương 2 tô sẽ khảo sát hiện trạng, phân tích và thiết kế ứng dụng sao cho phù hợp vớ bà toán.Chương 3, là chương tô trình bày về các công nghệ sử dụng, lý do sử dụng cũng như tô đã sử dụng nó ở đâu trong ứng dụng.

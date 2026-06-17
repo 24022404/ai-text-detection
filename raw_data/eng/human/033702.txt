@@ -1,1 +1,0 @@
-Dynamic Runtime Analysis: Frida enables the inspection of app behavior while it is running. This includes observing dynamically loaded classes, func-tions, and methods, providing valuable insights into how different components interact in real-time. This is crucial for detecting issues that may not be visible through static code analysis.

@@ -1,1 +1,0 @@
-Bước 6: Sao chép các tệp đã build được sang thư mục quản lý thiết lập của của container Nginx.Hình 4.24: Quy trình khởi chạy hệ thống Frontend Bước 7: Khởi tạo docker container.

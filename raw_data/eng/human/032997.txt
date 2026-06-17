@@ -1,1 +1,0 @@
-Authentication package is similar to ApplicationCore, but only process logic related to the authenticating tasks. It contains Validators and Generators classes for JWT authentication.

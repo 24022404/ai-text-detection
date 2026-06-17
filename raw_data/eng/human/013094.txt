@@ -1,1 +1,0 @@
-Spring Framework offers a dependency injection feature that lets objects define their dependencies that the Spring container later injects into them. This enablesdevelopers to create modular applications consisting of loosely coupled compo nents that are ideal for microservices and distributed network applications.

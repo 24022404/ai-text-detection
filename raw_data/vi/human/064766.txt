@@ -1,1 +1,0 @@
-YOLO v4 áp dụng Label Smoothing trong việc classification cho vật thể. Ý tưởng về Label Smoothing lần đầu được giới thiệu trong Incepto Nv2. Việc này làm game sự tự tin thái quá của model kh dự đoán một class, từ đói giảm nhẹ overfitting của model.

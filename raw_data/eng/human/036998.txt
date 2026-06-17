@@ -1,1 +1,0 @@
-Extensions None Alternative scenario ON Actors Actions 1System If the request fails, the system notifies the user.Table 2.6: Description of use case "Search" Use case Search Code UC05 Actor User Description An user search destination, hotel or other user Pre-condition An user has logged into the system.

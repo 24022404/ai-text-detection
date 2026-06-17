@@ -1,1 +1,0 @@
-Mô hình client server dễ dàng mở rộng vì việc thêm các máy chủ mới có thể gả quyết được vấn đề tả và số lượng người dùng lớn hơn. Trong khu đó, mô hình peer to peer đò hỏ sự phố hợp phức tạp hơn giữa các máy khách, đặc biệt kh số lượng người dùng ga tăng.

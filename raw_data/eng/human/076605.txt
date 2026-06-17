@@ -1,1 +1,0 @@
-Reviews and Ratings: Users can read reviews and view ratings given by previ ous clients, helping them make informed decisions when selecting caregivers or service providers.2.1 Functional Overview 2.1.1 General use case diagram Figure 2.3: General Usecase The actors within the system include:

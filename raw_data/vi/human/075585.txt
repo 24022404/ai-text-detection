@@ -1,1 +1,0 @@
-Có khả năng trích xuất các pattern phổ biến, lặp đi lặp lạ thành các thành phần tùy chỉnh, có thể sử dụng lạ trong hầu hết các trường hợp mà không cần viết một dòng CSS tùy chỉnh.Với những ưu điểm trên, Talend CSS là lựa chọn lý tưởng cho các lập trình viên kh muốn xây dựng giao diện ứng dụng một cách nhanh chóng và hiệu quả.

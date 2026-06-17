@@ -1,9 +1,0 @@
-Objective: Sequential Neural Processes (SNPs) extend Neural Processes to model complex temporal data, yet they remain vulnerable to outliers, distribution shifts, and noisy observations. This paper introduces methods to robustify SNPs, enhancing their reliability in real-world sequential tasks.
-
-Methods: We propose Robust Sequential Neural Processes (RSNPs) by integrating heavy-tailed likelihood models, adaptive loss functions, and uncertainty-aware attention mechanisms into the SNP framework. Specifically, we replace the conventional Gaussian observation model with a Student-t distribution to mitigate the impact of anomalous points and introduce a robust Huber-style temporal aggregation to down-weight extreme residuals. In addition, we incorporate a calibrated dropout scheme in the latent encoder to capture aleatoric and epistemic uncertainties more faithfully.
-
-Results: We evaluate RSNPs on synthetic benchmarks and three real-world sequential tasks: time-series imputation, motion-capture prediction, and meta-learning for financial forecasting. Compared to baseline SNPs and state-of-the-art temporal meta-learners, RSNPs achieve up to 25% reduction in worst-case prediction error and demonstrate superior calibration under heavy noise and adversarial perturbations. Ablation studies confirm the complementary benefits of heavy-tailed modeling and robust aggregation.
-
-Conclusion: RSNPs offer a principled approach to hardening sequential neural models against data irregularities, providing more reliable uncertainty estimates and improved generalization. This robustness makes RSNPs particularly well suited for safety-critical and noisy environments. 
-
-Keywords: Sequential Neural Processes, Robustness, Heavy-tailed Likelihood, Time-Series Prediction, Meta-Learning.

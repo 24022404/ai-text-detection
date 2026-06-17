@@ -1,1 +1,0 @@
-CkEditor View: Đối tượng hiển thị giao diện cho người dùng. Nó cho phép người dùng chọn ngôn ngữ lập trình và thực hiện thay đổi mã nguồn.

@@ -1,1 +1,0 @@
-Package controller plays the main role of handling web page navigation requests, display the View corresponding to the URL of the page. When the user requests to transfer the change page via URL or system interaction, Controller will find View respectively to display.

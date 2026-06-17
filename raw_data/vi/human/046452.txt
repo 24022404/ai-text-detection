@@ -1,1 +1,0 @@
-Thiết kế góc tết Hình 4.3: Thiết kế package ch tết Trong kiến trúc modular đã kể trên của NestS, các package cơ bản như user, coupon, auth,... bao gồm 3 thành phần chính là module, service và controller. Các controller sẽ tiếp nhận các request được gửi đến, và sau đó các controller này sử dụng các service điểm thực hiện logic như truy vấn database hay quy trình khác.

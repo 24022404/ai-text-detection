@@ -1,5 +1,0 @@
-Ứng dụng mô hình Mike11 và mô hình Delft3D để đánh giá hiệu quả các giải pháp công trình chỉnh trị đoạn sông đang được triển khai rộng rãi trên toàn thế giới. Mô hình Mike11 là một công cụ tính toán thủy lực được sử dụng để mô hình hóa và phân tích các quá trình thủy lực trong sông, trong khi mô hình Delft3D là một công cụ tính toán thủy lực và môi trường được sử dụng để mô hình hóa và phân tích các quá trình thủy lực và môi trường trong sông.
-
-Các mô hình này được sử dụng để đánh giá hiệu quả của các giải pháp công trình chỉnh trị đoạn sông, bao gồm việc xây dựng đập, xây dựng bờ sông, và cải thiện dòng chảy sông. Kết quả của các mô hình này có thể giúp các nhà quản lý và kỹ sư đánh giá hiệu quả của các giải pháp công trình và đưa ra quyết định sáng suốt về việc triển khai các giải pháp này.
-
-Ứng dụng của mô hình Mike11 và mô hình Delft3D trong đánh giá hiệu quả các giải pháp công trình chỉnh trị đoạn sông đã được chứng minh là hiệu quả và đáng tin cậy. Các mô hình này có thể giúp giảm thiểu tác động tiêu cực của các giải pháp công trình đối với môi trường và xã hội, đồng thời giúp tăng cường hiệu quả của các giải pháp công trình.

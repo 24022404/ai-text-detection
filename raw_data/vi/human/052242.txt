@@ -1,1 +1,0 @@
-Có thể xây dựng thêm chức năng gửi emal cho người dùng theo điơn hàng, chức năng quản lý quỹ lương của nhân viên, tính lương nhân vên theo số lượng ca làm điã nhập, thêm các phương thức thanh toán khác đia dạng hơn (hiện tạ website chỉ hỗ trợ thanh toán bằng tền mặt).

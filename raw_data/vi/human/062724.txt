@@ -1,1 +1,0 @@
-Bước 2: Với mỗ bounding box ta xác định xem nó là đối tượng nào (người, ô tô, xe đạp,. . . )Hình 2.11: Các bước thực hiện thuật toán RCNN  Selective search algorithm: Input của thuật toán là ảnh màu, output là khoảng 2000 bounding box mà có khả năng chứa các đối tượng.

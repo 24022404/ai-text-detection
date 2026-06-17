@@ -1,1 +1,0 @@
-SpringApplication: Đây là class được dùng để khởi chạy ứng dụng từ hàm man(). Vì thế, khi khởi chạy ứng dụng, các lập trình viên chỉ cần gọi method run() là được.

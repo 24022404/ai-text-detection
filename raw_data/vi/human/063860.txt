@@ -1,1 +1,0 @@
-Performance Montorng (Gám sát hiệu suất) Gám sát hiệu suất Frebasecung cấp thông tin chuyên sâu về hiệu suất ứng dụng của họ. Các tổ chức có thể sử dụng Gám sát hiệu suất để theo dõ các số lệu như mức sử dụng CPU, mức sử dụng bộ nhớ và lưu lượng mạng.

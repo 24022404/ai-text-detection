@@ -1,1 +1,0 @@
-JavaScript Overview JavaScript is a high-level, interpreted programming language primarily used for front-end web development. It enables dynamic and interactive web page creationby manipulating HTML and CSS content directly in users’ browsers. As a client side scripting language, JavaScript executes in real-time, responding to user actions and enhancing the user experience.

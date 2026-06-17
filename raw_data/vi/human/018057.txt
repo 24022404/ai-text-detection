@@ -1,1 +1,0 @@
-Ví dụ: nghiêng > nghiêng, ghê > ghê Vết rõ cho các ký tự hay được viết tắt Ví dụ: phả => phả Thay thế các từ teencode Ví dụ: ck > mình, ck > chồng, vợ > vợ 3.3.4 Phương pháp đo độ tương đồng giữa hai từ Phương pháp đo độ tương đồng là phương pháp để đo độ giống nhau giữa hai từ.

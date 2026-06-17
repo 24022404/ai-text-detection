@@ -1,1 +1,0 @@
-Middleware Based: Koa sử dụng mô hình middleware điểm xử lý các yêu cầu HTTP. Bạn có thể sử dụng các middleware điểm thực hiện các chức năng như xác thực, gh log, xử lý lỗ và nhiều hơn nữa. Koa cho phép bạn xây dựng và sắp xếp các middleware theo cách mà bạn muốn, tạo ra một luồng xử lý linh hoạt.

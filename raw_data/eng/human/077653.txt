@@ -1,1 +1,0 @@
-These vectors can be used to calculate the distance between words and find words with similar meanings in the vector space.

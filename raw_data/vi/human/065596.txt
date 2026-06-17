@@ -1,1 +1,0 @@
-Trường hợp 2 thông tin điầu vào chưa đủ Tên Usecase Dữ lệu điầu vào Kết quả mong muốn Kết quả Đăng tin Thông tin bài đăng Báo thuế trường thông tin và yêu cầu nhập thêm Đạt yêu cầu Bảng 4.9: Kiểm thử chức năng đăng tin thuế trường thông tin.

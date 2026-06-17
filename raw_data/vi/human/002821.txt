@@ -1,1 +1,0 @@
-Mô hình được tạo ra bằng cách thu thập dữ liệu quét khuôn mặt 3D cùng với hình ảnh kết cấu tương ứng. Dữ liệu này sau đó được sử dụng để tính toán hình dạng và kết cấu khuôn mặt trung bình, và để nắm bắt cách mà khuôn mặt cá nhân lệch khỏi giá trị trung bình này.

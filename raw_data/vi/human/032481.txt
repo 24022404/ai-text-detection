@@ -1,1 +1,0 @@
-Chương 5 điưa ra kết quả mà đồ án điạt điược. Các ưu điểm và nhược điểm của ứng dụng. Chỉ ra điược hướng phát trển của hệ thống trong tương la.2.1 Khảo sát hiện trạng Để có cá nhìn khách quan cũng như có trả nghệm thực tế điể xây dựng một ứng dụng nhắn tin, gọ điện vdeo trực tuyến trên hệ điều hành OS em đã khảo sát qua một số ứng dụng: Telegram, Messenger, Zalo.

@@ -1,1 +1,0 @@
-Thuật toán Apriori Thuật toán Apriori là một trong những thuật toán phổ biến được sử dụng trong việc khai thác dữ liệu và phân tích hành vi mua sắm. Thuật toán này được áp dụng trong việc tìm kiếm các luật kết hợp từ tập dữ liệu giao dịch.

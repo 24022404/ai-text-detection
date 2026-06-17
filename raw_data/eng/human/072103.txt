@@ -1,1 +1,0 @@
-Modules: contains all the interface components for each function in the system and the redux package is used to call the server-side APIs to get the required data.

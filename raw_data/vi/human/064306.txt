@@ -1,1 +1,0 @@
-Tốc độ cực nhanh do được xây dựng dựa trên engine JavaScript V8 của Google Chrome Lập trình không đồng bộ: Mọ API của Node.JS điều có tính không đồng bộ (nonblocking), do đó một server dựa trên Node.JS không cần phải đợi API trả về dữ liệu.

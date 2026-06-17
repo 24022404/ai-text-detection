@@ -1,1 +1,0 @@
-One of the prominent features of the system is the inclusion of various charts and graphs to support administrators in tracking sales and order numbers. Moreover, these customizable charts allow admins to easily review the desired data they are interested in.

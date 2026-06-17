@@ -1,1 +1,0 @@
-bY Gá trị dự báo tạ gang đoạn  Y Giá trị thực tế tại ga đoạn  n  Số ga đoạn trong dữ liệu quá khứ Yt,Et,Bt,dIt+theo công thức (2) ,(3), (4), (1) Hình 5.6 mô tả kết quả dự báo nhu cầu tiêu thụ tháng 8 của các sản phẩm bằng mô hình Holt Winter vớ dữ liệu đầu vào là số lượng tiêu thụ thực tế của sản phẩm trong quá khứ.

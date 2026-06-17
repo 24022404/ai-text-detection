@@ -1,1 +1,0 @@
-Người dùng có thể tìm kiếm, xem thông tin các sản phẩm của cửa hàng, đăng ký trở thành thành viên của cửa hàng. Sau khi đăng nhập có thể đặt hàng và thanh toán với các phương thức thanh toán được tích hợp vào hệ thống.

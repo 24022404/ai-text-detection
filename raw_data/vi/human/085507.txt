@@ -1,1 +1,0 @@
-Vớ phương pháp đánh giá một nhiều tập, mô hình được đánh giá trên 2 tập dữ liệu. Tập dữ liệu thực tế gồm ảnh của 76 người. Mỗi người gồm 5 ảnh vào 1 ảnh góc chụp chính diện và 4 ảnh với 4 góc mặt lên, xuống, trái, phải tương ứng.

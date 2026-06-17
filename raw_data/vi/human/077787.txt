@@ -1,1 +1,0 @@
-Thờ gan tính toán và phản hồ nhanh là yêu cầu được điặt ra cho phân hệ với va trò tính toán, bên cạnh việc dữ liệu phải chính xác, trung thực. Vớ lượng dữ liệu không quá nhều cho mỗ ngày giao dịch, thờ gan tính toán và phản hồ của hệ thống là nhanh chóng, không chậm trễ.

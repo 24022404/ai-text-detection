@@ -1,1 +1,0 @@
-Để chi tiết hóa quy trình hoạt động của các chức năng trong những use case trên, em sẽ tạo ra các kịch bản hoạt động (Use Case Description) cho từng chức năng tương ứng.

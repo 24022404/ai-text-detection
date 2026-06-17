@@ -1,1 +1,0 @@
-Unity có một thư viện Asset lớn có thể giúp cho những dự án game de kiếm được những Asset mà họ còn thiếu hay không có khả năng thực hiện. Việc này thông qua các Asset về model nhân vật hay các hoạt họa do những Asset này do các 3D artist hay animator đảm nhận chứ không phải game developers.

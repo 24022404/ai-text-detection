@@ -1,9 +1,0 @@
-The COVID-19 pandemic necessitated effective strategies for monitoring social interactions to mitigate virus spread. This paper presents DeepSOCIAL, an innovative framework designed to monitor social distancing and assess infection risk in public spaces, thus contributing to pandemic control efforts.
-
-Methods/Approach: DeepSOCIAL leverages deep learning techniques and computer vision to accurately detect and track social distancing violations using video data from surveillance cameras. The system employs advanced convolutional neural networks (CNNs) for real-time person detection and a custom-developed algorithm to measure interpersonal distances. Additionally, an infection risk assessment model is integrated, considering factors such as crowd density and interaction duration.
-
-Results/Findings: The DeepSOCIAL framework demonstrates high accuracy in detecting social distancing breaches in various environments, including pedestrian streets and public transport stations. It achieves an impressive performance compared to traditional methods, offering real-time alerts and actionable insights. The infection risk assessment model effectively quantifies potential risk levels, allowing for proactive measures in high-risk areas.
-
-Conclusion/Implications: The deployment of DeepSOCIAL provides vital support for maintaining public health during pandemics by offering a scalable and automated solution for monitoring and managing social interactions. This research contributes significantly to the body of knowledge in public health informatics and demonstrates the potential of deep learning in enhancing epidemic control mechanisms. Future applications could extend to other infectious disease contexts or incorporate additional health metrics.
-
-Keywords: Deep learning, social distancing, infection risk assessment, COVID-19, computer vision, public health monitoring, CNNs, surveillance systems.

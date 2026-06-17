@@ -1,1 +1,0 @@
-Hệ thống được xây dựng có những ưu điểm sau. ) Xử lý dữ lệu hành vi của người dùng theo thờ gan thực. ) Thực hiện tạo và xử lý các phân khúc khách hàng theo nhu cầu của người sử dụng. ) Xử lý phân khúc khách hàng kh dữ lệu khách hàng được thay đổi một cách nhanh chóng. và) Dễ dàng mở rộng hệ thống kh có lượng truy cập lớn.

@@ -1,1 +1,0 @@
-Mô hình được lựa chọn điểm phát triển sản phẩm là mô hình client – server với kiến trúc đơn giản như hình.

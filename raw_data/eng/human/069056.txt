@@ -1,1 +1,0 @@
-Data Integration and Automation: Successful integration of the CoinGecko API for acquiring historical and real-time cryptocurrency data and automating data updates through GitHub Actions. This ensures the application remains up-to-date and provides users with real-time insights.

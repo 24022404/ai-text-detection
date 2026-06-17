@@ -1,1 +1,0 @@
-Tính dễ sử dụng: Docker rất dễ để sử dụng điốt và lập trình viên, nó tận dụng lợi thế của container để chạy ứng dụng một cách nhanh chóng.

@@ -1,1 +1,0 @@
-Bước 3 là trích chọn đặc trưng ảnh: với các ảnh khuôn mặt điã điược cắt ở bước 2, thực hiện trăn lạ tập dữ liệu với pretran model FaceNet (sử dụng weght điã điược tran của FaceNet).

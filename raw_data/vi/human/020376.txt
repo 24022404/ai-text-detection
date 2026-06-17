@@ -1,1 +1,0 @@
-CkEditor Source Controller: Đối tượng điều khiển các tương tác giữa người dùng và mã nguồn. Nó nhận lệnh từ CodeEdtorVew và gọ các phương thức tương ứng của các đối tượng khác để thực hiện chức năng tương ứng.4. CodeEdtorSourceServce: Đố tượng quản lý việc lấy và lưu trữ mã nguồn.

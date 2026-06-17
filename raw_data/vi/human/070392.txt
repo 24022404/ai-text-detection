@@ -1,1 +1,0 @@
-Không những thế, mô hình dữ liệu tài liệu của MongoDB ánh xạ tự nhiên đến các đối tượng trong mã ứng dụng, hỗ trợ việc tìm hiểu và sử dụng. Tài liệu cung cấp khả năng tạp khác. MongoDB cũng phép truy vấn ngẫu nhiên, tập hợp theo thờ gan thực và lập chỉ mục phục vụ việc truy cập và phân tích dữ liệu của bất kỳ cấu trúc nào.

@@ -1,1 +1,0 @@
-Problem solving We create one more child component and call that component from the comment component. In that child component, we create two variables isEdit and isReply to determine which comment is edited, and which comment is replied to.

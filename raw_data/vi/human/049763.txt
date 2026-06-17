@@ -1,1 +1,0 @@
-Phân chia các module và chỉ load kh cần; Đóng gói tất cả file nguồn thành một file duy nhất, nhờ vào loader mà có thể bên dịch các loại file khác nhau.

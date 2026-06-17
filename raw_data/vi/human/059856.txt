@@ -1,1 +1,0 @@
-Tạo ra một giao diện khách hàng trên thiết bị di động điểm thuận tiện hơn cho khách hàng khi đặt hàng và theo dõi đơn hàng của mình. J. E. Xn Tan Keng Sau, Design Science Research on Systems Analysis and Design: The Case of UML. Conference: Reaching New Heights. 13th Americas Conference on Information Systems, AMCIS 2007, Keystone, Colorado, USA, 2007.

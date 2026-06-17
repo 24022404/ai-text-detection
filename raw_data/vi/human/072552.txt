@@ -1,1 +1,0 @@
-Framework VueJS Vue JS  là một framework mã nguồn mở của Javascript, được sử dụng để xây dựng giao diện người dùng. Cùng với ReactJS và AngularJS và một và framework khác, VueJS được dựng nên theo nguyên lý khuyến khích phát triển ứng dụng theo từng bước, từng thành phần.

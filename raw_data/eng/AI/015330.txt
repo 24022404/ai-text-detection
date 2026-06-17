@@ -1,1 +1,0 @@
-Claim 2 asserts that, in graph P, each balance vertex possesses an equal number of in-edges and out-edges within set Pe, no matter its position.

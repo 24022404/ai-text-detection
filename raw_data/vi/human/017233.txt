@@ -1,1 +1,0 @@
-Nơ sử dụng Trong đồ án này, tô dùng Firebase Cloud Messaging trong việc gửi và nhận thông báo từ máy chủ chính tớ các ứng dụng người dùng.

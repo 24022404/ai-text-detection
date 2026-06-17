@@ -1,1 +1,0 @@
-Chuỗ thờ gan (Tme Seres): Đây là một chuỗ các gá trị dữ lệu thu thập theo thờ gan theo các điơn vị lên tục và điều điặn (ví dụ: ngày, tháng, năm).

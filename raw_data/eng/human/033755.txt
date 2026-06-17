@@ -1,1 +1,0 @@
-Inverse Document Frequency (IDF): Represents the importance of that word in the data set. The value of IDF is calculated by taking the base e logarithm of the total number of documents in the data set divided by the number of documents containing that word.

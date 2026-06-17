@@ -1,1 +1,0 @@
-RoutesController: Nơ kha báo class điều phố các Controller. Kh có một yêu cầu từ Clent gọ đến, nó sẽ dựa vào điường dẫn và dữ lệu gử tới điể điều phố công vệc cho Controller thích hợp.

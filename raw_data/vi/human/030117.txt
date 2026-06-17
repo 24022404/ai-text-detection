@@ -1,1 +1,0 @@
-Mang lại khả năng debug dễ dàng hơn theo hướng interactively, rất nhiều nhà nghên cứu và engneer điã dùng cả pytorch và tensorflow điều điánh giá cáo pytorch hơn trong vấn đề debug và visualize.

@@ -1,1 +1,0 @@
-Các lớp repository phụ thuộc vào các lớp model. Kết quả trả về của các truy vấn trong lớp JobRepository và Job CategoryRepository.

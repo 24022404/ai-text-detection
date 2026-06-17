@@ -1,1 +1,0 @@
-State feature when using ReactJS, helps to adjust the state for components (child) that receive data from a source component (parent). A developer can change the state for multiple components (child) on the application, but it does not affect the parent component that is in Stateful state. It’s also easier to adjust apps.

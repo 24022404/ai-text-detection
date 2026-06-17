@@ -1,1 +1,0 @@
-Stankovic, Spuri, Ramamritham, and Buttazzo analyze scheduling algorithms for real-time systems, focusing on EDF and similar methods' impact.

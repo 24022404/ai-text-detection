@@ -1,1 +1,0 @@
-Sau các Epoch này, em gả phóng tất cả các lớp và đặt tốc độ học tập khác nhau cho các lớp khác nhau: lớp càng sâu, tỷ lệ học tập càng tăng. Đều này ngăn mô hình quên ý nghĩa toàn cục hữu ích của các từ trong kh buộc nó phải học ngữ cảnh của miền.

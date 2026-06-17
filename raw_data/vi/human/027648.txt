@@ -1,1 +1,0 @@
-Khả năng sử dụng lại: Một component được sử dụng trong một khu vực của ứng dụng có thể được sử dụng lạ trong một khu vực khác. Điều này giúp đẩy nhanh quá trình phát triển.

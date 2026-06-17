@@ -1,1 +1,0 @@
-Cuối cùng, giống với báo cáo thuốc điều trị của Đại học Y cung cấp, hệ thống chưa phát hiện ra thông tin thuốc điều trị lâm sàng với cơ sở dữ liệu COSMIC.

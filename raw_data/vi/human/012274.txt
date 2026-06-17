@@ -1,1 +1,0 @@
-Hệ thống Frontend không thể biết được có bao nhiêu dịch vụ backend đang được khởi chạy và chạy ở những port nào để có thể gửi yêu cầu tớ Lên quan tới vấn đề bảo mật hệ thống vì nếu ta chuyển xử lý sang hệ thống Frontend, Frontend cần biết về số lượng và định danh của các dịch vụ backend đang tồn tại.

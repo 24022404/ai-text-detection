@@ -1,1 +1,0 @@
-Thư viện SciPy là một thư viện mã nguồn mở được vết bằng ngôn ngữ lập trình Python, cung cấp nhiều công cụ và chức năng phục vụ cho nghiên cứu khoa học và tính toán số học. ScPy là một phần mở rộng của NumPy và bao gồm một loạt các module chức năng cao cấp hơn, chẳng hạn như tố ưu hóa, tích hợp số, tối ưu hóa đa chiều, xử lý tín hiệu, và thống kê.

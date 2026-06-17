@@ -1,1 +1,0 @@
-Truyền qua props thì các component không cùng cây thư mục rất khó gao tép (Vấn đề giao tiếp giữa các component).

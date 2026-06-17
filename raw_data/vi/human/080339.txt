@@ -1,1 +1,0 @@
-torch: app install torch Mô hình được huấn luyện trên bộ dữ liệu là 4 lần. Theo như thiết lập cho mô hình thì mỗi lần chạy tối đa số epoch là 20, nhưng mô hình đạt giá trị sớm nên sau khi huấn luyện được từ 5 epoch điến 6 epoch thì mô hình điã dừng lại.

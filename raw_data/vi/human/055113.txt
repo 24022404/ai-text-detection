@@ -1,1 +1,0 @@
-Xác định các tập ứng viên (Candidate Itemsets): Dựa trên tập itemsets phổ biến đã tìm được, xác định các tập ứng cử tiếp theo để tìm kiếm các tập phổ biến lớn hơn.

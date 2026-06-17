@@ -1,1 +1,0 @@
-Tích hợp Smart Contracts để tạo ra Token đơn giản Đa dạng hóa chức năng như: bỏ phiếu, nhận lãi, Stacking Đơn giản hoá quy trình sử dụng, không cần phải mất nhiều bước để bảo mật thông tin mà vẫn giao dịch và thanh toán nhanh chóng 3.1.5 Smart Contract  Smart contract (hay hợp đồng thông minh) là các chương trình chạy trên blockchain.

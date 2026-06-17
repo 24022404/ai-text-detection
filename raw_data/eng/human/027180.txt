@@ -1,1 +1,0 @@
-The Ionic Framework, Asp. NET, PostgreSql data management system, and support libraries for Asp.NET are required technologies for developing job recruitment websites. I’ll describe each technology in this part and explain why it should be used in the system.

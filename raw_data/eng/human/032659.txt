@@ -1,1 +1,0 @@
-K. Cho, B. van Merrienboer, D. Bahdanau andY. Bengio, “On the properties of neural machine translation: Encoder-decoder approaches.,” CoRR ,jourvol abs/1409.1259, 2014. url:

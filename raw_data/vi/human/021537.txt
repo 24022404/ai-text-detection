@@ -1,1 +1,0 @@
-–Phân loại ý định (content classifier): Công cụ phân loại ý định ánh xạ thông tin người dùng yêu cầu và loại hành động được thực hiện bởi phần mềm.

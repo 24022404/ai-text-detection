@@ -1,1 +1,0 @@
-HTML was first created to define the structure and content of web pages through markup, rather than to handle any of the style or design aspects.

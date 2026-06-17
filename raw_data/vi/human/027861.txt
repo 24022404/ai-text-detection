@@ -1,1 +1,0 @@
-Tạo mẫu  Template: Các công cụ tạo khuôn mẫu được Expressjs cung cấp cho phép các nhà xây dựng nội dung động trên các website bằng cách tạo dựng các mẫu HTML ở phía máy chủ.

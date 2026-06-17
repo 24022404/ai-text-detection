@@ -1,1 +1,0 @@
-Minh họa các chức năng chính Hình 4.11 thể hiện giao diện của màn hình Trang chủ cho người mua. Trang chủ hiển thị danh mục các nhà hàng, danh sách các nhà hàng gợi ý cho người mua Hình 4.11: Giao diện màn Trang chủ cho người mua Hình 4.12 thể hiện giao diện của màn hình Xem ch tết quán ăn cho người mua.

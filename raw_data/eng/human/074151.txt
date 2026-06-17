@@ -1,1 +1,0 @@
-The use of a PAT for authentication ensures that only authorized actions, such as automated workflows or scripts, can interact with the repository. The PAT acts as a unique identifier for the virtual machine, granting it the necessary permissions to commit changes to the repository.

@@ -1,1 +1,0 @@
-Tiếp theo là xây dựng một website chia sẻ các bài viết về những cuốn sách để có thể thử nghiệm phương pháp kiểm thử đã xây dựng ở trên. Để xây dựng website này, ta sẽ sử dụng nodejs với framework express và cơ sở dữ lệu mongoDB.

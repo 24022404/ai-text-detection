@@ -1,1 +1,0 @@
-Dữ lệu thô sẽ được chuyển thành định dạng parquet và lưu trữ trên hệ thống HDFS (điã điược cà điặt ở phần trước), cấu trúc các trường mô tả ở bản 4.1 dưới.

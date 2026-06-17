@@ -1,1 +1,0 @@
-Model of the game universe . In the game, players will embark on a journey to explore different regions. The key to unlocking new areas is to complete all the previous ones. Each region will have its own unique monsters and traps, fitting the context of that particular region. When defeating monsters, players have a chance to receive treasure chests containing equipment.

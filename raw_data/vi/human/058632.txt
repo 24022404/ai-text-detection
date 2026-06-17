@@ -1,1 +1,0 @@
-Bên cạnh đó, cũng cần xây dựng giao diện cho những người có quyền quản trị điểm họ có thể thêm tài khoản cho nhân viên mới, quản lý nhân sự cấp dưới, phê duyệt hoặc từ chối các yêu cầu từ cấp dưới gửi lên, đánh giá hiệu suất làm việc của các cá nhân.

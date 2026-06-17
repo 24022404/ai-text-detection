@@ -1,1 +1,0 @@
-Luận văn này chỉ tập trung vào trường hợp q = 2, đơn giản hóa ký hiệu bằng cách bỏ q và viết dãy s = s1s2…sn ∈ Σn một cách rõ ràng.

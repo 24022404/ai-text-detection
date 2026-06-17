@@ -1,1 +1,0 @@
-Firebase Firebase là nền tảng do Google cung cấp, nhằm hỗ trợ việc tạo ra các web application, mobile application vớ chất lượng cao.

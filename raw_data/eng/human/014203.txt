@@ -1,1 +1,0 @@
-B. Dòng, W. Wang, D.P. Fan, J. L, H. Fu, and L. Shao, “Polyp Pvt: Polyp segmentation with pyramid vson transformers,” preprint arXiv:2108.06932 , 2021.

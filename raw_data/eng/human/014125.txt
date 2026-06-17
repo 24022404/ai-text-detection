@@ -1,1 +1,0 @@
-Qweb OverviewQWeb is a templating engine used by odoo. It is an XML language-based tem plating engine and is mainly used for generating reports and pages. Qweb is also known as a report engine. Qweb template used for reporting and also for HTMLfragments and pages. Using Qweb, we can customize reports according to our pur poses like styling, formatting, and many more.

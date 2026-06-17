@@ -1,1 +1,0 @@
-Gả pháp được đưa ra là sử dụng công cụ thẻ thanh toán ảo được cung cấp bởi paypal:  điểm tích hợp thanh toán paypal vào webste, tiến hành chạy thử và kiểm tra. Kết quả đạt được như sau:

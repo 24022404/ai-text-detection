@@ -1,1 +1,0 @@
-The complexity of implementing nodes for key construction in Web3Authen arises from its intricate, multi-layered structural design.

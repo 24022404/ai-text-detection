@@ -1,1 +1,0 @@
-Checkbox Kh clck vào label của opton thì cũng phải co như clck được vào opton, vì diện tích tương tác lớn thì người dùng thuận tiện thao tác hơn Dropdown Các giá trị điặc bệt như "–Select all–" hoặc chỉ dẫn "– Chọn–" trong dropdown thiết kế sao cho dễ phân bệt với các giá trị thật của dropdown. Để tránh người dùng chọn nhầm hoặc không chọn.

@@ -1,1 +1,0 @@
-Y. Bengio, R. Ducharme, P. Vincent andC. Jauvin, “A Neural Probabilistic Language Model,” en, Journal of Machine Learning Research ,jourvol 3, number 2,pages 1137–1155, 2003.

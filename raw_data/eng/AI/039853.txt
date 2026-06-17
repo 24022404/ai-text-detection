@@ -1,9 +1,0 @@
-Objective: Geodesic regression provides a powerful framework for modeling trajectories on Riemannian manifolds, but existing solutions often incur high computational cost due to iterative optimization of geodesic parameters. This paper introduces Fast Predictive Simple Geodesic Regression (FPSGR), a lightweight approach that delivers accurate manifold‐valued curve fitting with substantially reduced runtime.  
-
-Methods: FPSGR replaces traditional iterative solvers with a predictive regression network that directly estimates initial tangent vectors and base points from input data. By encoding observations into a low‐dimensional representation and training a specialized feedforward model, our method infers geodesic parameters in a single forward pass. We integrate a manifold‐aware loss to ensure predictions respect the underlying geometry, and we validate on synthetic and real‐world manifold datasets, including shape trajectories in medical imaging.  
-
-Results: Across multiple benchmarks, FPSGR achieves parameter estimation errors within 5% of conventional geodesic regression while reducing computation time by up to 80%. In large‐scale experiments on 3D brain shape data, FPSGR processes hundreds of samples in minutes rather than hours, enabling near‐real‐time analysis. Comparative studies demonstrate robust performance under noise and irregular sampling, matching or exceeding accuracy of state‐of‐the‐art iterative methods.  
-
-Conclusion: FPSGR offers a novel, efficient paradigm for manifold regression that combines predictive modeling with geometric fidelity. Its speed and accuracy make it well suited for interactive applications and large‐scale studies in computer vision, medical imaging, and other domains involving manifold‐valued data.  
-
-Keywords: geodesic regression, manifold learning, predictive modeling, Riemannian geometry, fast algorithms.

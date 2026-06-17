@@ -1,1 +1,0 @@
-Đồng bộ và bất đồng bộ: Jmp hỗ trợ xử lý đồng bộ và bất đồng bộ, cho phép người dùng xử lý ảnh mà không bị gián đoạn trong luồng xử lý.

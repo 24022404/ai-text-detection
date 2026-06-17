@@ -1,1 +1,0 @@
-Tiếp theo là menu navbar bao gồm các chức năng như chạy code, download mã code, chia sẻ phòng, thay đổi ngôn ngữ, chia sẻ camera, macro, xem danh sách người tham gia, ẩn hiện input, output, cài đặt và chức năng rờ phòng. Phần ở trung tâm là trình soạn thảo mã nguồn, người dùng có thể chỉnh sửa ở đây.

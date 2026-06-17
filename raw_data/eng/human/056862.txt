@@ -1,1 +1,0 @@
-A. Cardace, P. Z. Ramirez, S. Salti, and L. Di Stefano, “Shallow features guide unsupervised domain adaptation for semantic segmentation at classboundaries,” in Proceedings of the IEEE/CVF Winter Conference on Appli cations of Computer Vision , 2022, pp. 1160–1170.

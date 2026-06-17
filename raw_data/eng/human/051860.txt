@@ -1,1 +1,0 @@
-But we need create pseudo labels for target images due to the lack of labels, I suggest two ways to generate pseudo labels. One way is only using pseudo labels with high confidence scores.

@@ -1,1 +1,0 @@
-Hệ thống sẽ hiển thị thông báo thành công và cập nhật thêm thông báo người dùng được thêm trong nội dung cuộc hội thoại.

@@ -1,1 +1,0 @@
-Từ những yêu cầu đặt ra đó, em đề xuất xây dựng một hệ thống có khả năng lưu trữ và tính toán trên dữ lệu lớn, kết hợp với công cụ trực quan hóa dữ lệu phân tích. Các thành phần chính của hệ thống gồm có: () kho lưu trữ, () chương trình phân tích dữ lệu, () báo cáo phân tích.

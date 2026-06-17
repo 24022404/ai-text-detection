@@ -1,1 +1,0 @@
-A. Vaswan, N. Shazeer, N. Parmar and others , “Attention is all you need,” Advances in neural information processing systems ,journal 30, 2017.

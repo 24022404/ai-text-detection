@@ -1,1 +1,0 @@
-Phần sau sẽ trình bày về thuật toán điều xuất thỏa hiệp thờ gan – chi phí bằng cách mô hình và gả bài toán QHTT.Cách tiếp cận của thuật toán này khác với thuật toán tham lam đã trình bày ở trên, kh sẽ xét đến tất cả các đường đi trên đồ thị thay vì chỉ tập trung vào đường găng.

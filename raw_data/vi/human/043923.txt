@@ -1,1 +1,0 @@
-Sammy đã tạo ra một mã độc JavaScript được nhúng vào trang cá nhân của mình trên MySpace. Kh người dùng truy cập vào trang cá nhân của Sammy, mã độc này đã tự động gửi yêu cầu kết bạn đến tài khoản của Sammy, lây lan nhanh chóng trên toàn bộ mạng xã hội MySpace, làm cho nhiều người dùng khác cũng bị tấn công.

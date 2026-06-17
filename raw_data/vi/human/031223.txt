@@ -1,1 +1,0 @@
-Bootstrap  là một framework CSS phổ biến và mạnh mẽ được sử dụng để xây dựng giao diện người dùng đáp ứng và tương thích trên nhiều thiết bị khác nhau.

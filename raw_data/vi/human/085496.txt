@@ -1,1 +1,0 @@
-IoU có độ lớn nằm trong đoạn [0, 1], với 0 có nghĩa nhãn dự đoán và nhãn thực không có vùng chồng lấn, 1 có nghĩa là nhãn dự đoán và nhãn thực chồng lấn hoàn toàn.

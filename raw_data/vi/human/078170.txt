@@ -1,1 +1,0 @@
-Hệ thống điược thết kế đia phần sẽ điều có phần Header và Content chỉ thay đổi việc tồn tại hay không tồn tại Sidebar. Header là thanh tiêu đề của hệ thống gồm logo, menu chức năng. Content sẽ là phần được thay đổi. Sidebar là thanh bên phải của giao diện, chứa các từ sa và từ điã điược lựa chọn điểm sửa.

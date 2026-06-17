@@ -1,1 +1,0 @@
-Hyperparameter configurations for best-performing models : In my model, I use the following values for the hyper-parameters: 1e-5 for the learning rate with the Adam optimizer; 64 for the mini-batch size; 1 layer softmax classifier.

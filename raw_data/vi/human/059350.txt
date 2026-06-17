@@ -1,1 +1,0 @@
-Xác thực thông tin đăng nhập và cho phép khách hàng truy cập các tính năng của hệ thống.Luồng sự kện phát snh 1. Truy cập trang đăng ký tài khoản trên hệ thống.

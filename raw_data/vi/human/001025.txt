@@ -1,1 +1,0 @@
-Tính khả mở là yêu cầu về khả năng mở rộng của nền tảng nó chung và phân hệ nó rêng. Vớ nền tảng dữ lệu, điể có thể mở rộng dễ dàng và không ảnh hưởng đến những thành phần đang có, gả pháp điưa ra bên cạnh vệc cà điặt các thànhTOÁN CHỈ BÁO phần trên các cụm máy tính thì còn có thể sử dụng các công nghệ đióng gó ứng dụng như Docker.

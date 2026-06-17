@@ -1,1 +1,0 @@
-Phương pháp đầu tên là không lên kết với khi và chỉ quản lý thông tin sản phẩm. Khi sử dụng phương pháp này, cửa hàng sẽ không quản lý số lượng sản phẩm, mà chỉ quản lý thông tin về sản phẩm như tên sản phẩm, mô tả ,gá sản phẩm,... Phương pháp này phù hợp cho các cửa hàng có quy mô nhỏ, ít sản phẩm hoặc không có nhu cầu quản lý số lượng sản phẩm.

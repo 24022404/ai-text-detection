@@ -1,1 +1,0 @@
-Bước 4: Thiết kế và xây dựng Chatbot hỏi đáp về du lịch Hà Nội. Tiến hành xác định ý định, trích rút thông tin từ truy vấn của người dùng, sử dụng SPARQL để truy vấn Ontology đã xây dựng ở bước 3 và phản hồi lạ người dùng.

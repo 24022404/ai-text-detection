@@ -1,9 +1,0 @@
-This paper addresses the challenge of evaluating recommendation systems using historical data in an unbiased manner. The primary goal is to improve the accuracy and reliability of off-policy evaluation (OPE) methods, which are crucial for optimizing recommendation algorithms without requiring extensive online testing.
-
-Methods/Approach: We propose a novel debiasing technique integrated into off-policy evaluation frameworks. Our approach incorporates propensity score modeling and inverse propensity scoring to mitigate bias caused by selection mechanisms inherent in logged data. Additionally, we employ a doubly robust estimator to combine the strengths of direct method estimators and inverse propensity weighting, enhancing prediction accuracy.
-
-Results/Findings: The proposed debiased OPE method demonstrates superior performance in terms of evaluation accuracy when compared to traditional OPE techniques. Through extensive experiments on synthetic and real-world datasets, we show that our method significantly reduces bias and variance, leading to more reliable assessments of recommendation system effectiveness. Our results indicate a marked improvement in predicting user engagement and recommendation relevance.
-
-Conclusion/Implications: Our research contributes to the field of recommendation systems by offering a robust solution for debiased off-policy evaluation, facilitating more effective offline testing and model optimization. The approach paves the way for more accurate deployment strategies in personalized content delivery, improving user satisfaction and engagement. This advancement holds significant potential for applications across various domains, including e-commerce, media streaming, and social networks.
-
-Keywords: Debiased Off-Policy Evaluation, Recommendation Systems, Propensity Score, Inverse Propensity Scoring, Doubly Robust Estimator, User Engagement, Offline Testing.

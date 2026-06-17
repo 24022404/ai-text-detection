@@ -1,1 +1,0 @@
-Lý do lựa chọn Đa luồng có thể xử lý nhiều tiến trình hoàn toàn độc lập với nhau, khi một luồng xảy ra ngoại lệ thì các luồng khác điều không bị ảnh hưởng, đảm bảo tính ổn định của chương trình. Mặc dù các luồng chạy độc lập với nhau nhưng hoàn toàn có khả năng chia sẻ tài nguyên, cùng xử lý một vấn đề một lúc nhằm tăng tốc độ xử lý.

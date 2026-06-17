@@ -1,1 +1,0 @@
-To illustrate the testing processes, in this section, we will take a look at test cases of upgrading account and doing exercise functions.

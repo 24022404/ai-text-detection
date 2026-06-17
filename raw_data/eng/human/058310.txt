@@ -1,1 +1,0 @@
-I extracting parameters, such as reinstall andinstall , from the request. The values are obtained using either request.POST for API calls or request.GET for web requests.

@@ -1,1 +1,0 @@
-MySQL MySQL là một hệ quản trị cơ sở dữ lệu mã nguồn mở, điược phát trển bở Oracle Corporaton. Nó là một trong những hệ quản trị cơ sở dữ lệu phổ bến nhất trên thế giới, điược sử dụng điể lưu trữ dữ lệu cho các ứng dụng web và các ứng dụng khác.

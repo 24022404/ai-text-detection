@@ -1,1 +1,0 @@
-The user must wait for the file to be uploaded and the malware analysis to finish before continuing the process.

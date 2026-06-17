@@ -1,1 +1,0 @@
-Chính vì những đặc điểm đó, tô sử dụng Oauth trong dự án của mình. Khi người dùng đăng nhập bằng tài khoản google hoặc facebook, thông tin người dùng được bảo mật tốt hơn, tránh bị ăn cắp tài khoản thông qua cách đăng nhập bằng username và password thông thường.

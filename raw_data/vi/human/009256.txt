@@ -1,1 +1,0 @@
-Mô tả luồng hoạt động nghiệp vụ chuyển đổi token hoặc mua tem Quy trình thực hiện chuyển đổi token hoặc mua tem giữa các đối tác nghiệp vụ có thể được mô tả như sau:

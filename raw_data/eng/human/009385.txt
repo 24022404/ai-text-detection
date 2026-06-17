@@ -1,1 +1,0 @@
-C. J. Mitchell, T. Etzion, and K. G. Paterson, “A method for constructing decodable de bruijn sequences,” IEEE Transactions on Information Theory , vol. 42, no. 5, pp. 1472–1478, 1996.

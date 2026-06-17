@@ -1,1 +1,0 @@
-Do ta không biết được thông tin về cơ sở dữ liệu của hệ thống khách hàng vì vậy cần tạo các trường hợp dữ liệu đa dạng điểm thử nghiệm khả năng xâm nhập vào cơ sở dữ liệu. Lỗ hổng SQL Injection được ngăn chặn bằng cách tạo bộ lọc cho đầu vào tuy nhiên có những trường hợp chưa trệt điểm. Chính vì vậy, em cần một bộ dữ liệu đủ lớn để vượt qua bộ lọc gió.

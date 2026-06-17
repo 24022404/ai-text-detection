@@ -1,1 +1,0 @@
-Bước 2: Xây dựng ma trận tương tự giữa sản phẩm Để tính toán độ tương tự giữa các sản phẩm trong Item Based Collaborative Filtering, có thể sử dụng một số phương pháp như Cosne Smarty hoặc Correlation based Smarty.

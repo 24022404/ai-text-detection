@@ -1,1 +1,0 @@
-UNet UNet là một kiến trúc mạng nơron được phát trển bở Ronneberger và cộng sự (2015) , chủ yếu dùng để xử lý bà toán phân vùng hình ảnh. Tên gọi "UNet" xuất phát từ cấu trúc hình dạng tổng quát gống như chữ "U" của mô hình.

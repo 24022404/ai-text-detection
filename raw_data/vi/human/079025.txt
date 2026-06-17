@@ -1,1 +1,0 @@
-Mô hình CRAFT được huấn luyện bằng ảnh tổng hợp vớ cấp độ ký tự. Tạo bản đồ nhiệt (heatmap) điểm biểu diễn nhãn của sự thật nền tảng (ground truth label) là oregon score và affinity score Có 3 bước để tạo bản đồ nhiệt (heat map):

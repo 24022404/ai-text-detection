@@ -1,1 +1,0 @@
-Mục đích của phần mềm nhằm tạo ra phân hệ quản lý nhân viên cũng như việc vận hành khu vực gửi xe. Nhân viên sẽ đăng ký và quản trị viên của khu vực để có thể được cấp tài khoản hệ thống gửi xe. Quản trị viên sẽ tạo tài khoản và mật khẩu cho nhân viên điểm có thể sử dụng hệ thống.

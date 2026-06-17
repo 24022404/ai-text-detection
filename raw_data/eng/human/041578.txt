@@ -1,1 +1,0 @@
-Information about the product, including an image, name, description, price, and availability, is shown by the system. After reading the details, the user may choose to either add the item to their shopping basket or go back to the search results page.

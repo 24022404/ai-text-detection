@@ -1,1 +1,0 @@
-PyTorch  là một thư viện học máy mã nguồn mở, được tạo ra dựa trên thư viện Torch và được ứng dụng vào các bài toán như thị giác máy tính, xử lý ngôn ngữ tự nhiên. Nó được phát triển bở phòng Nghiên cứu AI Facebook .

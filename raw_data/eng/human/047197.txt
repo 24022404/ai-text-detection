@@ -1,1 +1,0 @@
-To calculate the rate and maximal asymptotic rate of RdB sequence, first, resultson the maximal length of a RdB sequence are presented. After that, efficient al gorithms to generate a longest RdB sequence and locate any sub-sequence in such sequence are also provided.

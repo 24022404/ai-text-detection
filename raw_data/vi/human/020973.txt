@@ -1,1 +1,0 @@
-Sau khi validate dữ liệu, trong trường hợp xuất hiện các lỗ sẽ có thông báo ch tết các lỗ gặp phải ở dòng bao nhiêu. Người dùng có thể tải file excel có chứa thông báo trên điểm thuận tiện cho việc sửa chữa các lỗ khi validate thất bại.

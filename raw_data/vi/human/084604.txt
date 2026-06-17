@@ -1,1 +1,0 @@
-Kh nó về phần phụ trợ, Pusher đóng vai trò như một lớp giữa máy chủ và máy khách để tương tác 2 chiều trong thờ gan thực  .Sau khi giành thờ gần nghiên cứu, tìm hiểu em thấy cách xử lý khả quan nhất là sử dụng Pusher. Lí do em sử dụng Pusher là vì do trong laravel điã điược tích hợp sẵn một số config và thư viện cần thiết để kết nối với Pusher.

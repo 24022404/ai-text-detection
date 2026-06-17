@@ -1,1 +1,0 @@
-Use case request to be distributor Similar to a use case request to the supplier, the distributor who wants to join the system must create a request. And wait for the admin to approve it.

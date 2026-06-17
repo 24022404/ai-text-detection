@@ -1,1 +1,0 @@
-User Interface (Presentaton): Chịu trách nhệm trong việc render và truyền tả thông điệp từ client (người dùng) tớ server.

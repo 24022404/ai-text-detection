@@ -1,1 +1,0 @@
-Nhược điểm Tài lệu chưa đầy đủ: Mặc dù Laravel có một cộng đồng lập trình viên lớn, nhưng vẫn có một số tài lệu chưa đầy đủ và thiếu thông tin chi tiết về một số tính năng.

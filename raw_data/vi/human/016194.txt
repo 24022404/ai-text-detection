@@ -1,1 +1,0 @@
-Từ những nhu cầu thực tế và các hạn chế của những ứng dụng giao đồ ăn trên thị trường, em đã thực hiện điều tà “Xây dựng ứng dụng giao đồ ăn”. Mục đích của điều tà là phát triển hệ thống có thể giúp người mua hàng đặt đồ ăn một cách dễ dàng và nhanh chóng nhất, đồng thờ cho phép người bán theo dõi đơn hàng và thống kê báo cáo doanh thu của cửa hàng một cách chính xác.

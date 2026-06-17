@@ -1,1 +1,0 @@
-Y. Kong, C. Luo, W. Ma and others , “Look closer to supervise better: One shot font generator vs component based discriminator,” Proceedings of the IEEE/CVF conference on computer vision and pattern recognition 2022, pages 13 482–13 491.

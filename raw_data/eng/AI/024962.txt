@@ -1,9 +1,0 @@
-Objective: Articulated shape matching remains challenging due to large non-rigid deformations, partial observations, and the scarcity of labeled correspondences. This paper presents a novel, fully unsupervised framework that leverages Laplacian eigenfunctions to encode intrinsic geometry and a robust point-registration scheme to establish dense correspondences between articulated surfaces.
-
-Methods: We first compute the Laplace–Beltrami operator on each input mesh and extract its leading eigenfunctions to obtain low-dimensional spectral embeddings that capture shape structure independent of pose. We then perform unsupervised registration in this spectral domain by iteratively aligning embeddings using a robust distance metric and enforcing spatial coherence through a geodesic regularization term. No pre-training or manual landmarks are required.
-
-Results: Evaluated on benchmark datasets of human and animal meshes, our method achieves an average correspondence error below 6 mm, outperforming state-of-the-art spectral matching and learning-based approaches by 15–20 %. It remains robust under missing data, noise, and varying mesh resolutions, demonstrating consistent alignment quality across diverse articulated poses.
-
-Conclusion: By integrating Laplacian eigenfunction embeddings with an unsupervised registration pipeline, our approach delivers accurate, scalable non-rigid shape matching without reliance on annotated data. This work advances spectral geometry techniques and has potential applications in 3D reconstruction, motion capture, medical imaging, and computer animation.
-
-Keywords: articulated shape matching, Laplacian eigenfunctions, unsupervised point registration, spectral geometry, non-rigid registration.

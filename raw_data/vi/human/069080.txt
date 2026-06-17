@@ -1,1 +1,0 @@
-Về tập luật được nêu ở trên, em xây dựng tập luật dựa vào những nguyên nhân gây ra lỗi sai chính tả và những lỗi sai thường gặp để tạo một tập các luật để tăng độ chính xác cho việc đưa ra gợi ý sửa lỗ. Phương pháp này sẽ hiệu quả kh đầu vào là một từ đơn.

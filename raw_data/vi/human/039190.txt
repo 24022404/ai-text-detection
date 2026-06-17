@@ -1,1 +1,0 @@
-Nhược điểm của MySQL ➢Gớ hạn: Theo thiết kế, MySQL không có ý định làm tất cả và nó đi kèm với các hạn chế về chức năng mà một vào ứng dụng có thể cần.

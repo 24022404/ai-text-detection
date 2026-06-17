@@ -1,1 +1,0 @@
-– Gradient Descent : Gradient descent is an optimization algorithm used in machine learning to minimize the error or cost function of a model.

@@ -1,1 +1,0 @@
-These machine learning algorithms use different models/techniques to perform the learning process and represent knowledge of what it is being learned. Every machine learning algorithm tries to make the simplest assumptions that can be true for most of the samples in the training data set.

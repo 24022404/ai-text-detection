@@ -1,1 +1,0 @@
-Decomposition of use case "Play offline" Figure 2.2: Play offline use case diagram Figure 2.2 describes all functions that a player can do in an off game session.

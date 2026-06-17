@@ -1,1 +1,0 @@
-Tự động cấu hình : Tự động cấu hình có nghĩa là các ứng dụng được khởi tạo với các cài đặt mặc định mà bạn không phải cấu hình thủ công. Tính năng này gúp ta có thể bắt điầu phát triển ứng dụng dựa trên Spring nhanh chóng và giảm thiểu khả năng lỗ do con người. Các cấu hình mặc định này ta có thể dễ dàng ghi đè sau khi khởi tạo hoàn tất.

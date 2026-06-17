@@ -1,1 +1,0 @@
-Có thể sử dụng ngay: Sự điáng tin cậy cao và tính “m ăn lền” là những têu chuẩn điảm bảo của MySQL. MySQL đưa ra nhều tùy chọn có thể dùng ngay từ cấu hình tá tạo chủ/tớ tốc điộ cao, điể các nhà phân phố thứ 3 đưa ra những gả pháp có thể dùng ngay duy nhất cho server cơ sở dữ lệu MySQL.

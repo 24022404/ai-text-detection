@@ -1,1 +1,0 @@
-config: contain common config of web (page size of list, default page num ber,..), redis, operator with data base( create, read, update, delete).

@@ -1,1 +1,0 @@
-Nếu câu được cấu tạo từ 2 từ đơn trở lên thì em sẽ đưa câu lần lượt qua 2 mô hình là Ngram, BartPho.

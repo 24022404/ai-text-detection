@@ -1,1 +1,0 @@
-Một ví dụ phổ biến của kỹ thuật này là lừa đảo phishing, trong đó kẻ tấn công sử dụng email giả mạo điểm yêu cầu người dùng cung cấp thông tin đăng nhập hoặc thông tin cá nhân. Kh người dùng cung cấp thông tin này, kẻ tấn công sẽ sử dụng nó để truy cập vào các tài khoản của họ hoặc điểm tết lộ thông tin cá nhân của người dùng cho mục đích lừa đảo.

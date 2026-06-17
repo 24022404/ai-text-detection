@@ -1,1 +1,0 @@
-The working principle of RFID is based on electromagnetic theory. In a con ventional system, RFID tags are attached to objects, each with a certain amount ofinternal memory (EEPROM) containing information about the object carrying it.

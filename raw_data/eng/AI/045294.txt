@@ -1,1 +1,0 @@
-To extract certificate data from an APK file, use a tool like apktool or unzip to extract the APK, log any errors, and display a message.

@@ -1,1 +1,0 @@
-Lưu trữ đặc trưng khuôn mặt trong Cơ sở dữ liệu Vector Đồ án sử dụng Elasticsearch như một hệ thống quản lý cơ sở dữ liệu vector.

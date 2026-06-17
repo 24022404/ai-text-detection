@@ -1,1 +1,0 @@
-Các tiến trình selfattenton và encoder decoder attention Trong kiến trúc transformer chúng ta áp dụng dha dạng attention khác nhau tạ từng bước huấn luyện.

@@ -1,1 +1,0 @@
-ReactJS là một thư viện UI được phát triển bở Facebook nhằm hỗ trợ việc xây dựng các thành phần UI tương tác cao, có trạng thái và có thể tái sử dụng. Facebook sử dụng ReactJS trong các ứng dụng của mình, và trang web www.nstagram.com cũng điược vết hoàn toàn bằng ReactJS.

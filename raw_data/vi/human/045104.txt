@@ -1,1 +1,0 @@
-Với Tính năng xác thực các trường bắt buộc trước khi gửi form , hệ thống yêu cầu người dùng phải điền đầy đủ các thông tin cá nhân (như tên, email, số điện thoại), thông tin lớp học đăng ký, trả lời tất cả các câu hỏ mà Quản trị vên điã cà điặt sẵn trên website quản lý và bắt buộc upload file CV cá nhân dưới dạng PDF.

@@ -1,1 +1,0 @@
-FixedUpdate : Hàm được gọi liên tục với một tần suất cố định. Giá trị mặc định cho tần suất này là 50 lần một gây và có thể được thay đổi bởi người dùng. Do đó hàm này có số lần gọi cố định trong một gây, điều này giúp ta có khả năng tính toán một cách chính xác hơn.

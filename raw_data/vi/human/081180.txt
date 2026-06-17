@@ -1,1 +1,0 @@
-Giảm chi phí: Giảm chi phí bảo trì ứng dụng xuống một phần nhỏ vớ quản lý phụ thuộc tự động và quản lý vòng đời ứng dụng toàn diện.

@@ -1,1 +1,0 @@
-Vì vậy các giải pháp đóng góp của tô trong đồ án này là đưa ra một hệ thống giám sát và tưới tiêu đồng thờ xây dựng một app Android trên điện thoại với giao diện dễ nhìn, dễ sử dụng điểm người nông dân có thể theo dõi nhiệt độ, độ ẩm trực tiếp trên điện thoại của chính mình cũng như có thể kiểm soát vườn hoa với các chức năng như:

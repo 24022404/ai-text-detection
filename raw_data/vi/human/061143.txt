@@ -1,1 +1,0 @@
-Rất dễ mở rộng, MongoDB dễ dàng mở rộng hệ thống bằng cách thêm node vào cluster – cụm các node chứa dữ lệu game xếp vớ nhau.

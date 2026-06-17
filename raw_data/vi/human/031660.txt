@@ -1,1 +1,0 @@
-Dựa trên các phân tích và đánh giá ở trên, chúng tôi đặt ra mục tiêu thiết kế và triển khai một ứng dụng Video Conferencing gồm các chức năng điã nó ở trên, điảm bảo trả nghệm tốt (đoạt toàn bộ các yêu cầu phi chức năng được nêu ở phần 2.4).

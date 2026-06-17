@@ -1,1 +1,0 @@
-Nội dung bài báo trình bày kết quả ứng dụng mô hình MIKE11 và mô hình DELFT3D đánh giá hiệu quả các phương án quy hoạch công trình chỉnh trị đoạn cong gấp Hữu Chung trên sông Luộc, kết qủa nghiên cứu đã lựa chọn phương án cắt trong là phù hợp với đoạn sông nghiên cứu phục vục giao thông thủy và khai thác tổng hợp của các ngành kinh tế hữu quan.

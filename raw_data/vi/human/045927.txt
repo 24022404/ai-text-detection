@@ -1,1 +1,0 @@
-model Định nghĩa các đối tượng với các thuộc tính của đối tượng. Sử dụng điểm cung cấp các đối tượng và dữ lệu cho các thành phần gao den trong góc view.

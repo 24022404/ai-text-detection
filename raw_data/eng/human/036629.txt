@@ -1,1 +1,0 @@
-Chat Chatter provides support for communication with customers for each of the individual tickets. With this 2 way support, customers will get convenient in sending up further questions as well as provide helpdesk team additional information to solve problem better SLA Set a resolve timeline for tickets.

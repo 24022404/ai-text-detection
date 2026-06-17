@@ -1,1 +1,0 @@
-Tiếp theo chương 5, trình bày về những đóng góp nổi bật của chúng tôi trong hệ thống, những công nghệ cốt lõi, những gả pháp giải quyết bài toán chỉnh sửa mã nguồn thờ gan thực, truyền nhận âm thanh, hình ảnh khi gọi video. Chương này thể hiện được việc áp dụng các kiến thức thu thập được vào trong ĐATN.

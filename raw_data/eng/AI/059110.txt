@@ -1,1 +1,0 @@
-The standard deviation of requests per second varies from 39.09 to 153.81, reflecting notable fluctuations in processing rates overall.

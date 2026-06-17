@@ -1,1 +1,0 @@
-Actors Involved : User, Static Analysis Tools, Dynamic Analysis Tools – Preconditions : The Android APK file must be uploaded, and the analysis environment (static or dynamic analysis tools) must be set up.

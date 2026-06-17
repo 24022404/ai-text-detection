@@ -1,1 +1,0 @@
-Sau khi giao dịch được xử lý, vé là 1 NFT (không thể transfer) sẽ được gửi về ví của tác nhân.

@@ -1,1 +1,0 @@
-Thêm sản phẩm vào giỏ hàng và cập nhật giỏ hàng User có thể thêm các sản phẩm cần mua vào giỏ hàng và có thể xem lại giỏ hàng của mình. Ở giỏ hàng thì ứng dụng cho phép người thêm dùng có thể sửa và xóa các sản phẩm hiện có trong giỏ, user cũng có thể sử dụng các mã giảm giá ở đây.

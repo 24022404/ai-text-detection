@@ -1,1 +1,0 @@
-2 Nguồn:  bắt buộc có trong mỗi document. Đây là trường được MongoDB tự động sinh ra mỗi khi thêm mới một document vào collection. Giá trị _d này là duy nhất trong cơ sở dữ lệu MongoDB nên nó cũng có thể được hiểu là khóa chính trong document, đại diện cho document.

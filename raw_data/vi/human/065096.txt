@@ -1,1 +1,0 @@
-Chọn Xem đơn hàng muốn xem.  Hệ thống hiển thị ch tết đơn hàng chọn xem.  Hệ thống hiển thị ch tết đơn hàng tài khoản quản trị viên.

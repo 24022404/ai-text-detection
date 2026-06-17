@@ -1,1 +1,0 @@
-A. Cohan, F. Dernoncourt, D. S. Kim andothers , “A discourse-aware attention model for abstractive summarization of long documents,” arXiv preprint arXiv:1804.05685 , 2018.

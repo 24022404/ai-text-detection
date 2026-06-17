@@ -1,1 +1,0 @@
-Trong phạm vi đồ án, em đã hoàn thành cơ bản những chức năng cần có của một hệ thống quản lý dạy học và nhân sự cho Lớp học Cầu Vồng nhưng vì thờ gan còn hạn chế, vẫn còn những chức năng chưa kịp phát triển. Em xin đề xuất hướng phát triển tiếp theo cho bài toán như sau:

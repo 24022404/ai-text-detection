@@ -1,1 +1,0 @@
-swft buld Sau khi bên dịch thành công, chạy lệnh sau điể chạy phần mềm với p và port điược chỉ định:

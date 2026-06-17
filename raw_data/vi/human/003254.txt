@@ -1,1 +1,0 @@
-Trong đó, CLR sẽ thực hiện các tác vụ chính bao gồm xử lý các trường hợp cá biệt và thu gom rác.

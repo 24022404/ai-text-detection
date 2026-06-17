@@ -1,1 +1,0 @@
-Quy trình khởi chạy hệ thống Frontend : Ch tết quy trình khởi chạy hệ thống Frontend được mô tả như trong Hình 4.24 Thiết lập docker điểm thực hiện tạo một docker image chứa hệ thống frontend sẽ được khởi chạy theo các bước dưới đây:

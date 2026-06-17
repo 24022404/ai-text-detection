@@ -1,1 +1,0 @@
-NodeJS is an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside of a web browser. It is built on Google’s V8 JavaScript engine and designed to build fast and scalable network applications.

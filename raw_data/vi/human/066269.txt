@@ -1,1 +1,0 @@
-Trong đió sj(̸=j) thể hiện mức độ tương tự giữa khách hàng thứ vớ khách hàng thứ. Trường hợp =j, giá trị cos của góc của 1 vectơ với chính nó là bằng 1 nên đường chéo chính của ma trận có giá trị bằng 1.

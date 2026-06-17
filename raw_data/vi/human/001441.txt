@@ -1,1 +1,0 @@
-Hệ thống routing mạnh mẽ: Laravel cung cấp hệ thống routing linh hoạt,cho phép dễ dàng định nghĩa các tuyến đường (routes) cho ứng dụng web.

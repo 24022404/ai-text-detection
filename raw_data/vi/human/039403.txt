@@ -1,1 +1,0 @@
-Trong trường hợp dữ lệu Tìm kếm cho người dùng đưa ra không hợp lý (Ngày trả phòng phả ở sau ngày nhận phòng, hoặc Ngày nhận phòng không thể là một ngày trong quá khứ), Controller sẽ không tương tác với cơ sở dữ lệu mà trả ngay về thông báo lỗ để Vew hển thị cho người dùng.

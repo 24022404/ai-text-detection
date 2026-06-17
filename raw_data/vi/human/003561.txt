@@ -1,1 +1,0 @@
-Xác định tập tem đơn (single tems): Đầu tiên, phải xác định tất cả các tem đơn (sản phẩm, mặt hàng, hoặc mục tiêu) xuất hiện trong tập dữ liệu.

@@ -1,1 +1,0 @@
-CkEditor View gọi phương thức load Source() của CodeEdtorSourceServce điể lấy mã nguồn của ngôn ngữ đã chọn từ cơ sở dữ liệu.

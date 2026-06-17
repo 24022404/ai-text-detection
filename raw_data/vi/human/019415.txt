@@ -1,1 +1,0 @@
-– Số lần từ xuất hiện trong văn bản d: Số lần cụ thể từ được tìm thấy trong văn bản d.– Tổng số từ trong văn bản d: Tổng số từ trong toàn bộ văn bản d.

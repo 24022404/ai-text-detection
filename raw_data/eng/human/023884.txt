@@ -1,1 +1,0 @@
-Zt=Concat (head 0, . . . , head n)WO(2.13) To this end, the output multi-head attention goes through a layer normalization andtwo feed-forward layers as:

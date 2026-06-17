@@ -1,1 +1,0 @@
-Tiếp theo, đối với mô đun phát hiện lỗi chính tả thì em lựa chọn mô hình Transformer điển giải quyết vấn đề phát hiện lỗi chính tả.

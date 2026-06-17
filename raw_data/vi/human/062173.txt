@@ -1,1 +1,0 @@
-Quản lý có thể tạo lập, chỉnh sửa, xóa và tìm kiếm các tài khoản khách hàng cũng như thành viên của cửa hàng.2.2.7 Phân rã use case "Thống kê và quản lý lợi nhuận" Hình 2.7: Phân rã use case "Thống kê và quản lý lợi nhuận" Use case này được sử dụng bởi quản trị viên sau khi đăng nhập thành công.

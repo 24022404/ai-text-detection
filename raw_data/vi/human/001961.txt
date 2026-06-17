@@ -1,1 +1,0 @@
-Sau Chương 3 là Chương 4 là ch tết kiến trúc của hệ thống bao gồm các thiết kế tổng quan, các thiết kế cho tết về giao diện, lớp, cơ sở dữ liệu, luồng truyền thông điệp và cuối cùng là các kết quả đặt được kh xây dựng hệ thống, kết quả kiểm thử và triển khai hệ thống.

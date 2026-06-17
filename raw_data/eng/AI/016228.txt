@@ -1,1 +1,0 @@
-A code editor lets you write and edit Python code efficiently by offering handy features such as syntax highlighting and code completion, making your programming experience smoother. When your code is ready, you save the file with a .py extension.

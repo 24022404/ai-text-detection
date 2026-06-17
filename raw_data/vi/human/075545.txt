@@ -1,1 +1,0 @@
-Tầng Nghiệp vụ bao gồm Gó Logic nghiệp vụ, chịu trách nhiệm xử lý logic của ứng dụng. Gó này nhận yêu cầu từ người dùng thông qua giao diện, xử lý yêu cầu bằng cách truy xuất và xử lý dữ liệu thông qua tầng Dữ liệu, sau đó trả kết quả về cho gao vện để hiển thị cho người dùng.

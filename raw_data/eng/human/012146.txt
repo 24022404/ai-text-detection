@@ -1,1 +1,0 @@
-Precision =number of overlapping words total words in the system summary(2.2) Precision is particularly important when generating concise summaries. Therefore, it is recommended to compute both precision and recall and report the F-measure, which combines both values.

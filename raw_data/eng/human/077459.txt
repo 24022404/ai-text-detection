@@ -1,1 +1,0 @@
-D. Downey, C. Bhagavatula andY. Yang, “Efficient methods for inferring large sparse topic hierarchies,” Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) 2015, pages 774–784.

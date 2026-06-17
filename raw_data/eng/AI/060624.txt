@@ -1,1 +1,0 @@
-Kafka stands out as a scalable, distributed system designed for seamless expansion and high reliability. It allows users to increase capacity without causing downtime, making it ideal for businesses that manage massive data volumes efficiently and with low overhead.

@@ -1,1 +1,0 @@
-Thiết kế giao diện a, Yêu cầu giao diện Thông tin về màn hình mà ứng dụng hướng tớ là:

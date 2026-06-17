@@ -1,9 +1,0 @@
-Objective: As deep learning models grow in size and training data, understanding how pretraining scale impacts downstream transfer performance becomes critical for efficient resource allocation. This paper aims to characterize the quantitative relationship—“scaling laws”—between model parameters, pretraining compute/data, and transfer accuracy across diverse target tasks.
-
-Methods: We conduct a large-scale empirical study using transformer-based neural networks ranging from 10 million to 10 billion parameters. For each model size, we vary pretraining dataset volume and compute budget, then fine-tune on a suite of benchmark tasks in vision, language, and speech. We fit power-law and broken‐power‐law functions to capture how transfer performance scales with upstream resources. Statistical analyses identify regime changes and optimal allocation curves.
-
-Results: We find that transfer accuracy follows a robust power-law with respect to both model size (exponent α≈0.25) and pretraining data (exponent β≈0.30) across tasks. Beyond a task-dependent “knee” point, returns diminish, indicating an optimal trade-off between parameters and data. Transfer efficiency—measured as accuracy per unit compute—peaks at intermediate scales, suggesting that maximal pretraining is not always cost-effective for certain downstream applications.
-
-Conclusion: Our confirmed scaling laws provide actionable guidelines for designing future models and budgeting compute/data in transfer learning pipelines. By predicting performance gains before costly training, practitioners can make informed decisions to maximize transfer efficacy.  
-
-Keywords: scaling laws, transfer learning, deep learning, pretraining, transformer models, power law, compute efficiency.

@@ -1,1 +1,0 @@
-Input: Tài khoản: "user1", Mật khẩu: "wrong password" Expected output: Hệ thống thông báo lỗ "Tài khoản hoặc mật khẩu không đúng" và yêu cầu người dùng đăng nhập lạ.

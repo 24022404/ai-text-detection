@@ -1,5 +1,0 @@
-Động đất là một trong những nguyên nhân gây thiệt hại nghiêm trọng cho các công trình xây dựng. Trong đó, các công trình có kết cấu khung liên hợp là những công trình dễ bị ảnh hưởng bởi động đất. Để đảm bảo an toàn cho các công trình này, việc nghiên cứu ứng xử động học phi tuyến của chúng là rất quan trọng.
-
-Ứng xử động học phi tuyến của kết cấu khung liên hợp chịu tải trọng động đất là quá trình biến dạng và phân bố lực trong kết cấu khi chịu tác động của động đất. Quá trình này phức tạp và không thể được mô tả bằng các phương pháp tuyến tính truyền thống. Do đó, việc sử dụng các phương pháp mô phỏng và phân tích động học phi tuyến là cần thiết để đánh giá được độ bền và an toàn của các công trình này.
-
-Các nghiên cứu gần đây đã cho thấy rằng, ứng xử động học phi tuyến của kết cấu khung liên hợp chịu tải trọng động đất phụ thuộc vào nhiều yếu tố như: loại kết cấu, kích thước, vật liệu, và tải trọng động đất. Vì vậy, việc lựa chọn và thiết kế kết cấu phù hợp với điều kiện thực tế là rất quan trọng để đảm bảo an toàn cho các công trình này.

@@ -1,1 +1,0 @@
-(1) Hiển thị danh sách đơn hàng của cửa hàng mà quản trị viên đã truy cập, có thể thực hiện các thao tác thêm, sửa, xóa, lọc, tìm kiếm đơn hàng (2) Người quản lý nhấn vào danh sách đơn hàng điểm xem ch tết thông tin của đơn hàng đó.

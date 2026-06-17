@@ -1,1 +1,0 @@
-Hỗ trợ ACID: MySQL hỗ trợ tính ACID (atomicity, consistency, isolation, durability), giúp bảo đảm tính toàn vẹn của dữ liệu trong quá trình truy vấn và thao tác cơ sở dữ liệu.

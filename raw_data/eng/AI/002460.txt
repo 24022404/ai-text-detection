@@ -1,1 +1,0 @@
-The graph shown in figure 2.2 represents a (d, k)-RLL code, where a sequence w fulfills the (d, k)-RLL constraint exactly when there is a path with edge labeling w in the graph.

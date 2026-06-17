@@ -1,1 +1,0 @@
-Lớp kết nối điầy điủ Trong lớp này, điầu vào từ một ma trận 3 chều sẽ được làm phẳng thành một vector 1 chều. Vector 1 chều này sẽ được lan truyền thuận và lan truyền ngược như trong mạng nơron điã điược trình bày trong phần 2.2.2. Mô hình có khả năng phân bệt các điặc trưng trong hình ảnh và phân loạ chúng bằng cách sử dụng phân loạ Softmax.

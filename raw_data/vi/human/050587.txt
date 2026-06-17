@@ -1,1 +1,0 @@
-Xử lý thông tin về sở thích ngắn hạn Sở thích ngắn hạn trong bài toán này là những thể loại sách được khách hàng quan tâm trong khoảng thờ gan gần nhất thể hiện qua các hành động như xem, bình luận, thêm vào giỏ hàng hay mua những thể loại sách đó.

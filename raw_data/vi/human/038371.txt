@@ -1,1 +1,0 @@
-Kh thao tác không gây khó hểu cho người dùng.Chương 3 này tô xn trình bày về những công nghệ đã sử dụng và phương pháp xây dựng ứng dụng. Dưới đây là hình ảnh tổng quan về mô hình được tô và nhóm đã nghiên cứu và xây dựng điểm giải quyết những mục têu điã điặt ra, trong đió đồ án này tập trung vào hạ khố hình chữ nhật trong hình.

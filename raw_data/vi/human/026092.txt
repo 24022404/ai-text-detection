@@ -1,1 +1,0 @@
-Doanh nghiệp có thẻ upload file mô tả công việc.•Hệ thống sẽ đồng bộ vớ thời khóa biểu của sinh viên điểm có thể cập nhật thời gian rảnh. Spring boot. [On]. Available:  spring boot (vs ted on 06/22/2022).

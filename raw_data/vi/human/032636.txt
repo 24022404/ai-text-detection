@@ -1,1 +1,0 @@
-Trong dự án này, em sử dụng dịch vụ Firebase Cloud Storage để lưu trữ file PDF  file văn bản cần kiểm tra chính tả. Firebase Cloud Storage hỗ trợ việc quản lý, chia sẻ các content người dùng upload lên như ảnh, video; cũng như phục vụ các yêu cầu sử dụng những tài nguyên của ứng dụng.

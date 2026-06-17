@@ -1,1 +1,0 @@
-MTS là phương thức sản xuất truyền thống được doanh nghiệp sử dụng để sản xuất hàng tồn kho phù hợp với dự báo về cầu sản phẩm của người tiêu dùng. Một công ty sử dụng MTS sẽ ước tính sản phẩm của họ có thể thu hút được bao nhiêu đơn đặt hàng, và sau đó cung cấp đủ hàng tồn kho điểm đáp ứng số đơn đặt hàng đó.

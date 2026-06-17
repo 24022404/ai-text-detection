@@ -1,1 +1,0 @@
-a.Màn hình danh sách sản phẩm (danh sách thú cưng) Hình 4.13 là giao diện màn hình danh sách thú cưng của cửa hàng. Mỗ sản phẩm sẽ có tên loại sản phẩm, tên sản phẩm, giá và hình ảnh như phần màu xanh. Phần màu đỏ là chức năng lọc theo loại sản phẩm và giá, phần màu vàng là điểm sắp xếp các sản phẩm theo thứ tự mong muốn. Phần màu hồng là chatbot hỗ trợ khách hàng.

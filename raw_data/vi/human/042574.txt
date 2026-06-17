@@ -1,1 +1,0 @@
-Những ô nhập dữ liệu bắt buộc thì trước yêu điều của ô đó sẽ có biểu tượng dấu hoa thị màu đỏ.

@@ -1,1 +1,0 @@
-Socket.IO cung cấp gao tếp hai chiều giữa client và server, giúp cập nhật thông tin và trạng thái ngay lập tức mà không cần phải làm mới trang. Đều này mang lại trải nghiệm người dùng mượt mà và tương tác hơn.

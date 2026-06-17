@@ -1,1 +1,0 @@
-NodeJs: với hệ thống đang phát triển, việc xây dựng một hệ thống website và đóng gói hệ thống bảo mật dưới dạng một thư viện Javascript thì sử dụng NodeJs sẽ giúp thử nghiệm hệ thống và dễ dàng quản lý hơn.

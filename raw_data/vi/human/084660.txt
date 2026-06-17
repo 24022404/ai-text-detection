@@ -1,1 +1,0 @@
-MongoDB là một quản trị cơ sở dữ liệu đa nền tảng, hướng tài liệu (document oriented database). Các bản ghi trong Mongodb được gọi là Document. Các dữ liệu được lưu trữ trong document kiểu JSON thay vì dạng bảng như CSDL quan hệ nên truy vấn sẽ rất nhanh.

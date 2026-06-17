@@ -1,1 +1,0 @@
-Repository : mục đích chính là cung cấp các phương thức và chức năng điểm tương tác với cơ sở dữ liệu. Gó này đóng vai trò trung gian giữa tầng Logc ứng dụng và tầng Truy cập dữ liệu. Mục đích của gió này là quản lý việc truy xuất, thêm, sửa, xóa dữ liệu từ cơ sở dữ liệu, đồng thời ẩn đi cách tết cụ thể về cơ sở dữ liệu.

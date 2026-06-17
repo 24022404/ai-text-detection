@@ -1,1 +1,0 @@
-Hiện nay, mô hình huấn luyện sẵn BERT có rất nhiều phiên bản khác nhau phụ thuộc theo 3 tham số trong kiến trúc Transformer là số lượng những khó lớp mạng con (block sublayers) (L), kích thước của vectơ nhúng (hidden szeH), Số lượng head trong multihead layer (A). Tên gọi của 2 kiến trúc bao gồm:

@@ -1,1 +1,0 @@
-public  Chứa file index.php giống như cổng cho tất cả các request vào project, bên trong thư mục còn chứa file JavaScript, và CSS.

@@ -1,1 +1,0 @@
-Quản trị viên: tác nhân phụ trách quản lý các thông tin về bà vết, người dùng, danh mục, . . . có trong hệ thống.

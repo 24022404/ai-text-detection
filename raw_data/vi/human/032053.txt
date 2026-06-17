@@ -1,1 +1,0 @@
-Dữ liệu được tổ chức theo một cấu trúc phân cấp cụ thể để tối ưu hoá quá trình huấn luyện và đánh giá. Cụ thể, 9000 ảnh khuôn mặt điã điược phân chia và lưu trữ trong 1000 thư mục riêng biệt. Mỗi thư mục tương ứng với danh tính của một người và chứa 9 ảnh khuôn mặt của họ, mỗ ảnh được chụp từ một góc độ khác nhau.

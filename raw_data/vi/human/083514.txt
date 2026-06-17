@@ -1,1 +1,0 @@
-Vớ PeerJS , bạn có thể xây dựng các ứng dụng web thú vị như trò chơi đưa người chơ, trò chuyện video và chia sẻ tệp tin trực tiếp giữa các người dùng mà không cần sự can thiệp của máy chủ. Nó sử dụng WebRTC (Real Time Communication) điểm thiết lập và duy trì kết nối trực tiếp giữa các máy tính.

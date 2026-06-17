@@ -1,1 +1,0 @@
-Trong chương 5, em sẽ trình bày về quá trình triển khai, kiểm thử và kết quả đạt được cuối cùng của đồ án này.

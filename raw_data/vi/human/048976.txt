@@ -1,1 +1,0 @@
-Một số tính năng nổi bật của MySQL bao gồm:Tốc độ xử lý nhanh: MySQL được thiết kế để xử lý cùng lúc hàng ngàn hoặc hàng triệu truy vấn cơ sở dữ liệu đồng thời. Điều này giúp cho MySQL trở thành một gả pháp lưu trữ cơ sở dữ liệu hiệu quả cho các ứng dụng web với lượng truy cập lớn.

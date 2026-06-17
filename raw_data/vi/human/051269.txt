@@ -1,1 +1,0 @@
-Database sử dụng hệ quản trị cơ sở dữ lệu PostgreSQL. PostgreSQL điược điánh gá cao về tốc điộ và khả năng hoạt động ổn định, phần mềm có giao diện người dùng thân thiện và dễ sử dụng và quan trọng nhất là mễn phí. Ngoà ra, em sẽ sử dụng Prsma như là 11 layer nằm gữa Webserver và Database. Prsma gúp ta gao tếp với cơ sở dữ lệu một cách dễ dàng hơn.

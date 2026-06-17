@@ -1,1 +1,0 @@
-Yêu cầu website có khả năng hoạt động trong mô trường lớn và đáp ứng số lượng người dùng đồng thờ cao.•Responsive design: Yêu cầu trang web hiển thị tốt trên các thiết bị khác nhau, bao gồm cả máy tính bảng và điện thoại di động.

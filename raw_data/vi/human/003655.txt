@@ -1,1 +1,0 @@
-View – phần hiển thị dữ liệu và tương tác với người dùng. Nó được thiết kế để truy xuất dữ liệu từ Model và hiển thị dữ liệu cho người dùng theo cách thức phù hợp.

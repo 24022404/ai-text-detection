@@ -1,1 +1,0 @@
-Yêu cầu về hiệu năng Thờ gan phản hồ chấp nhận điược. Đố với các ap gử và nhận ảnh hoặc vdeo, thờ gan phản hồ trung bình cần phải nhỏ hơn kích thước của dữ lệu tính bằng MB cha cho 1(MB/1s) điược co là chấp nhận điược.

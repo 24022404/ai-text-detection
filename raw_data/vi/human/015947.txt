@@ -1,1 +1,0 @@
-Chương 1: Gớ thiệu về điề tà và điặt vấn điề bà toán Chương 2: Trình bày về khảo sát và phân tích yêu cầu của bà toán, gồm có các sản phẩm tương ứng điã nghên cứu ở trên thị trường, tổng quan chức năng trong hệ thống vớ điặc tả usecase của mỗ chức năng và yêu cầu ph chức năng như tính khả th, hiệu suất, điộ tin cậy.

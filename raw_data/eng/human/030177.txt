@@ -1,1 +1,0 @@
-FitInParent: This sizes the rectangle in such a way that it is fully contained within the parent rectangle, changing both the height and width of the screen(a)Hierarchy of Screen Container (b)Inspector of Ratio Figure 6.2: Screen Container Hierarchy as necessary.

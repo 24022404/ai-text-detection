@@ -1,1 +1,0 @@
-Ngoài ra, HTML còn giúp giải quyết vấn đề liên quan đến khả năng tương thích trên các trình duyệt web khác nhau. HTML được chuẩn hóa và hỗ trợ trên hầu hết các trình duyệt web, đảm bảo tính tương thích và đồng nhất trên các nền tảng khác nhau.

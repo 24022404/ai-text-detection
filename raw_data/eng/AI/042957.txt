@@ -1,1 +1,0 @@
-Enhancing essential JRPC request performance directly boosts system responsiveness, minimizes latency, and provides users with a smoother login and registration experience.

@@ -1,1 +1,0 @@
-Quản lý Nhân sự bán hàng và đơn hàng Bảng 2.6: Đặc tả Usecase Quản lý Nhân sự bán hàng và đơn hàng STT  Trên UC  Quản lý nhân sự bán hàng và đơn hàng 1 Tác nhân  Quản lý 2 Mô tả Nhập hàng hóa mới vào nhân sự bán hàng và đơn hàng vào trong khi , Xem thông tin hàng trong và đơn hàng vào trong khi , xóa hàng khỏi CSDL.

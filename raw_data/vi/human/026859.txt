@@ -1,1 +1,0 @@
-Exponental Smoothng dự báo dựa trên gả định rằng các gá trị trong chuỗ thờ gan có xu hướng lặp lạ theo thờ gan. Phương pháp này sử dụng một hệ số tùy chọn điể tính trọng số cho các gá trị trong chuỗ thờ gan, với các gá trị gần điây hơn điược gán trọng số cao hơn. Trọng số gảm dần theo thờ gan, vì vậy các gá trị cũ hơn có ít ảnh hưởng đến dự báo hơn.

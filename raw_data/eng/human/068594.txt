@@ -1,1 +1,0 @@
-In the VLSP2022 competition, the ROUGE score has still been adopted as the primary metric to facilitate result comparison among participating models. This decision highlights the significance of the ROUGE score in gauging summarization model efficacy in this specific context.

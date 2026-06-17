@@ -1,1 +1,0 @@
-Chapter 3: This chapter focuses on technologies used in the process of building and developing the helpdesk system, including: introduction to the tech nologies, main features, advantages and disadvantages.

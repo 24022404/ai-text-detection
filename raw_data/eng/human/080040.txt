@@ -1,1 +1,0 @@
-J. Salvi, S. Fernandez, T. Pribanic, and X. Llado, “A state of the art in struc tured light patterns for surface profilometry,” Pattern recognition , vol. 43, no. 8, pp. 2666–2680, 2010. R. G. Van Schyndel, A. Z. Tirkel, and C. F. Osborne, “A digital watermark,” inProceedings of 1st international conference on image processing , IEEE, vol. 2, 1994, pp. 86–90.

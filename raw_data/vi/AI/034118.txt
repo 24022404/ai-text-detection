@@ -1,9 +1,0 @@
-Các hệ thống đề xuất ngày càng trở nên phổ biến trong nhiều lĩnh vực, từ thương mại điện tử đến mạng xã hội. Tuy nhiên, chúng thường bị chỉ trích vì không công bằng, ưu tiên những người dùng có ảnh hưởng hoặc có khả năng chi trả cao hơn. Để giải quyết vấn đề này, các nhà nghiên cứu đã đề xuất một cách tiếp cận mới dựa trên tiện ích R (Utility-based approach).
-
-Cách tiếp cận này tập trung vào việc đo lường và tối ưu hóa tiện ích của người dùng, thay vì chỉ dựa vào các yếu tố như giá trị hoặc vị trí. Điều này cho phép hệ thống đề xuất cung cấp cho người dùng những lựa chọn phù hợp với nhu cầu và sở thích của họ.
-
-Một trong những lợi ích chính của cách tiếp cận này là khả năng giảm thiểu sự thiên vị và đảm bảo rằng mọi người dùng đều có cơ hội được đề xuất. Ngoài ra, nó cũng giúp hệ thống đề xuất trở nên linh hoạt và có thể thích nghi với các thay đổi trong nhu cầu và sở thích của người dùng.
-
-Tuy nhiên, cách tiếp cận này cũng có một số hạn chế. Nó đòi hỏi sự có mặt của dữ liệu về tiện ích của người dùng, điều này có thể khó khăn để thu thập và xử lý. Ngoài ra, nó cũng có thể dẫn đến sự phức tạp trong việc tối ưu hóa hệ thống đề xuất.
-
-Tóm lại, cách tiếp cận dựa trên tiện ích R là một giải pháp tiềm năng để cải thiện sự công bằng của các hệ thống đề xuất. Nó cho phép hệ thống đề xuất cung cấp cho người dùng những lựa chọn phù hợp với nhu cầu và sở thích của họ, đồng thời giảm thiểu sự thiên vị và đảm bảo rằng mọi người dùng đều có cơ hội được đề xuất.

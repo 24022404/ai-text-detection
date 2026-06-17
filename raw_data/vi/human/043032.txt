@@ -1,1 +1,0 @@
-Gúp nhà phát trển tránh sự phức tạp bằng cách cha ứng dụng thành ba điơn vị Model, Vew và Controller.

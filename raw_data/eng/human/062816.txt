@@ -1,1 +1,0 @@
-API and Infrastructure packages stand at the outer layer of the architecture. Both packages depend on ApplicationCore. Infrastructure is used for communicating with the database, and it use the DBHelper package for establishing connections.

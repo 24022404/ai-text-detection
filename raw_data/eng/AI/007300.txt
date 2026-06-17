@@ -1,1 +1,0 @@
-If the wrong data format is entered at step 3 of the main scenario, the system notifies the user and prompts them to provide the information correctly.

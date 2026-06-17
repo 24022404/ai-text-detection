@@ -1,1 +1,0 @@
-Kểm thử dựa trên điặc điểm kỹ thuật có thể là cần thiết để điảm bảo chức năng chính xác, nhưng nó không điủ điể bảo vệ chống lạ các tình huống phức tạp hoặc có điộ rủ ro cao.

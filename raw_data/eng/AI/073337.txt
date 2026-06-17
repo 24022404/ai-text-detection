@@ -1,9 +1,0 @@
-This paper addresses the challenge of learning optimal policies in Markov Decision Processes (MDPs) with continuous state and action spaces, a scenario common in real-world decision-making problems. Traditional methods often struggle with the complexity and computational demands associated with these MDPs.
-
-Methods/Approach: We introduce a novel approach called Randomized Policy Learning (RPL), which leverages stochastic elements to efficiently explore the continuous state-action space. RPL employs a combination of probabilistic sampling techniques and policy gradient methods to enhance the exploration-exploitation balance. Our algorithm integrates a randomized learning framework with function approximation for value estimation, improving scalability and performance in complex environments.
-
-Results/Findings: The RPL method was evaluated across a variety of benchmark continuous MDP scenarios, demonstrating significant improvements in learning speed and policy effectiveness compared to conventional reinforcement learning algorithms. Experimental results show that RPL achieves higher cumulative rewards and faster convergence rates. Additionally, it excels in environments where traditional approaches are prone to getting stuck in local optima.
-
-Conclusion/Implications: Our research introduces an effective and scalable solution for continuous state and action MDPs, addressing a key limitation in existing policy learning methodologies. The Randomized Policy Learning approach not only broadens the application of reinforcement learning to more complex systems, but also offers valuable insights into the development of robust decision-making models. The potential applications of this work span various fields, including robotics, finance, and autonomous systems.
-
-Keywords: Randomized Policy Learning, Continuous MDPs, Reinforcement Learning, Policy Gradient, Stochastic Exploration, Function Approximation.

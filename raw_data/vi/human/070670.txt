@@ -1,1 +1,0 @@
-MySQL là một hệ thống quản lý cơ sở dữ liệu nhanh, cho phép xử lý lượng dữ liệu lớn một cách nhanh chóng và hiệu quả.

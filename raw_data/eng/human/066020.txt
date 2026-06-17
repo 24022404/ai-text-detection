@@ -1,1 +1,0 @@
-In some certain situations, a classifier needs to retain memory. For example,when tagging parts of speech in English text (such as nouns and verbs), it is im practical to analyze words in isolation. A recurrent neural network (RNN) offers a solution by incorporating memory (or context) into a feedforward neural network.

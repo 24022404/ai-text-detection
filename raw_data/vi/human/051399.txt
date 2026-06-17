@@ -1,1 +1,0 @@
-Nếu thiếu thông tin hoặc thông tin không hợp lệ sẽ thông báo lỗi Nếu thông tin hợp lệ tiến hành cập nhật thông tin 6.Hệ thống hiển thị thông báo xác nhận rằng thông tn điã điược cập nhật thành công.

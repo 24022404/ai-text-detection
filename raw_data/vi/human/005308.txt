@@ -1,1 +1,0 @@
-Kến trúc bộ gả mã của UNETR được bểu dễn như ở Hình 3.54.1 Tập dữ liệu Để mnh họa và đánh giá phương pháp sử dụng trong đồ án, các thử nghệm trong đồ án điã điược thực hiện trên bộ dữ liệu PolypGen2021 . Đây là bộ dữ liệu ảnh nộ so trong điạ tràng, khoanh vùng tớ cấp điộ pxel các polyp được phát hiện.

@@ -1,1 +1,0 @@
-WebRTC là một tập hợp các hàm lập trình dùng cho vệc lên lạc thờ gan thực bằng vdeo, âm thanh cũng như các loạ dữ lệu khác. WebRTC có thể gúp 2 client gọ điện vdeo ngay trong trình duyệt mà không cần đăng kí tà khoản, cũng không cần cà thêm plugn gì phức tạp, ngoài ra chúng còn điược xà điể phát trển game chơ trực tếp trong trình duyệt và rất nhều loạ ứng dụng khác.

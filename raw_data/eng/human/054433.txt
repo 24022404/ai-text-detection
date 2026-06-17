@@ -1,1 +1,0 @@
-I would like to train a model using Machine Learning and Deep Learning tech niques to detect and classsify malware attacks with a dataset cover as many types of malware as possible.

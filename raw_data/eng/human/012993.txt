@@ -1,1 +1,0 @@
-Alternative flow of event4a. No available staffs to hire. The system notifies that max number of staff has been reached.

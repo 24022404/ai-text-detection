@@ -1,1 +1,0 @@
-Còn đi vớ chiến thuật tăng cường on, em cần phải bổ sung một luồng tăng cường on của mình trong mô hình điểm thực hiện thí nghiệm.

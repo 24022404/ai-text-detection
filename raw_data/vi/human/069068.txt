@@ -1,1 +1,0 @@
-Xử lý dữ liệu: Sau khi thu thập dữ liệu từ các trang web, tiến hành chỉnh sửa các thông tin sa, trích xuất ra các đối tượng cần thiết.

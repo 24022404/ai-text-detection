@@ -1,1 +1,0 @@
-Developers of com.rsksbgdkgcae.fvogspmykjv need to determine the reasons behind the app's permission revocation and implement proper handling for permission loss to prevent errors or unexpected behavior for users.

@@ -1,1 +1,0 @@
-cd /etc/nginx/setenabled Chỉnh sửa hoặc tạo mới tệp cấu hình host sudo nano ehust Chỉnh sửa nội dung tệp cấu hình như sau:Hình 4.30: Cấu hình nginx Lưu tệp cấu hình, sau đó chạy lệnh sau để khởi động lại Nginx sudo systemctl reload nginx Trên kha:

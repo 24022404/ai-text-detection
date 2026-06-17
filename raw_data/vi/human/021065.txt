@@ -1,1 +1,0 @@
-ExpressJs  là một framework web phát triển trên nền tảng NodeJs . Nó cung cấp các công cụ và tính năng giúp xây dựng các ứng dụng web một cách nhanh chóng và dễ dàng. Với ExpressJs , bạn có thể định nghĩa các tuyến đường (routes), xử lý các yêu cầu và phản hồi (request/response), quản lý phiên (session) và middleware, và nhiều hơn nữa.

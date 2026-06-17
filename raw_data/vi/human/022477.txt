@@ -1,1 +1,0 @@
-Trong chương này tô đã giới thiệu về Arduino UNO R3, MCU ESP8266 và trình bày về các thiết bị dùng để đo, điều khiển và xuất thông tin độ ẩm, nhiệt độ lên màn hình LCD.

@@ -1,1 +1,0 @@
-CIFAR-10 Figure 5.8: Test accuracy over communication rounds of FedAdp, FedAvg and FedImpwith different levels of heterogeneous data distribution over participating nodes for CIFAR 10 using 2-layer CNN model.

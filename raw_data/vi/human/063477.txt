@@ -1,1 +1,0 @@
-STT Tên trường Kiểu dữ lệu Mô tả 1 tme String Thời gian truy cập, ví dụ "20220415 14:29:39" 2 gud Long Mã định danh người dùng 3 os Integer Mã hệ điều hành•Đầu ra:

@@ -1,1 +1,0 @@
-//Analyst.java return df.select("date", "loc", "gud") .flter("loc != 1") .groupBy("date", "loc") .agg(count("gud").as("vew"), countDstnct("gud").as("user")) .collectAsLst(); Phân tích lưu lượng truy cập theo điộ tuổi Bà toán: Tính số lượng người dùng, lượt xem báo điện tử theo điộ tuổi.

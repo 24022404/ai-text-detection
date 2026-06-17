@@ -1,1 +1,0 @@
-Ở Hình 4.3, ta thấy bằng cách sử dụng MAE được điào tạo trước vớ tỷ lệ che phủ là 75% nhưng được áp dụng cho các điầu vào có tỷ lệ che phủ cao hơn. Các dự đioán khác bệt một cách hợp lý so với các hình ảnh ban điầu, cho thấy rằng phương pháp này có thể khá quát hóa trên bộ dữ liệu ban điầu.

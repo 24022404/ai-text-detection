@@ -1,1 +1,0 @@
-Các dạng phân vùng ảnh khác nhau Hình 2.15: Ha kiểu phân vùng hình ảnh chính là phân vùng ngữ nghĩa và phân vùng cá thể12 Trong quá trình phân vùng ảnh, mỗ pxel trong bức ảnh được lên kết với mộtloạ điố tượng cụ thể. Có ha kiểu phân vùng chính là phân vùng ngữ nghĩa (se mantc segmentaton) và phân vùng điố tượng (nstance segmentaton).

@@ -1,1 +1,0 @@
-Chọn Đăng ký. Hệ thống hiển thị thông báo “Đăng ký thành công” và đưa người dùng ra giao diện trang chủ.  Hệ thống hiển thị thông báo “Đăng ký thành công” và đưa người dùng ra gao dem trang ký tài khoản.

@@ -1,1 +1,0 @@
-Automatic real-time video-based surveillance system In video processing, aggression detection is critical, and a surveillance system that can operate reliably in an academic environment has become a pressing requirement.

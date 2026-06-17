@@ -1,1 +1,0 @@
-Cuố cùng, phần nộ dung về kết luận và hướng phát trển được trình bày ở chương 6.KHOÁN Ở chương 2, đồ án sẽ trình bày những nộ dung kiến thức chung và cơ bản về thị trường chứng khoán, những ứng dụng hiện có để theo dõ chứng khoán tạ Việt Nam. Tếp sau đió sẽ là nộ dung về tổng quan yêu cầu và thiết kế hệ thống của nền tảng dữ lệu chứng khoán mà nhóm lựa chọn xây dựng.

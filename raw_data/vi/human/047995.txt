@@ -1,1 +1,0 @@
-Mnh họa các chức năng chính Chức năng: Thêm công thức món ăn Bước 1: Tạ trang thêm món ăn bạn sẽ nhập lần lượt từng bước một, nhập điầy điủ thông tin như tên món ăn, mô tả công thức, món ăn thuộc vùng mền, thể loạ món ăn, điộ khó và thờ gan nấu.

@@ -1,1 +1,0 @@
-sim(u1, u2) =uT 1∗u2 ∥u1∥2∗ ∥u2∥2(2.2) Where u1is the vector representing the customer C1’s interest in the features, u2is the vector representing customer C2’s interest in products. If cosu1, u2> threshContent then assume that 2 users C1, C2have roughly similar interest. Then we will predict customer u’s interest in unknown product iby formula awake :

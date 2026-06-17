@@ -1,1 +1,0 @@
-Do hệ thống hướng tới tất cả người dùng gồm cả những người có ít kinh nghiệm về máy tính và công nghệ nên hệ thống xây dựng giao diện một cách đơn giản, dễ dùng, đặc biệt là hạn chế các thao tác không cần thiết. Các ký hiệu sử dụng trong hệ thống là kí hiệu được sử dụng phổ biến, dễ hiểu, dễ dùng.

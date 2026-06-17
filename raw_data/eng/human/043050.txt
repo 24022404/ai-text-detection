@@ -1,1 +1,0 @@
-The first website is a function for the institute administrator, including viewing products, adding products, and creating and editing user access rights. Also, the admin has all user rights.

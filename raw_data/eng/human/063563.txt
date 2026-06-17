@@ -1,1 +1,0 @@
-Beyond frontend development, JavaScript has expanded its scope to include server-side development through platforms like Node.js. This allows developersto use a single language for both client-side and server-side tasks, facilitating full stack development and real-time applications.

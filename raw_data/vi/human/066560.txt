@@ -1,1 +1,0 @@
-Kết quả thu được là một ma trận đối xứng có đường chéo chính bằng 1. Ma trận gồm các hàng và các cột tương ứng với CustomerId. Giá trị trong mỗi ô thể hiện mức độ tương tự giữa hai khách hàng với nhau.

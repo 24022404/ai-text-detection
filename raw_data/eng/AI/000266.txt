@@ -1,9 +1,0 @@
-Objective: This paper investigates the statistical consistency of two widely used graph-based semi-supervised learning (SSL) algorithms—the probit model and the one-hot encoding method—under common assumptions on graph connectivity and label smoothness. Although both approaches have demonstrated strong empirical performance, a rigorous comparison of their convergence properties in the large-data limit has been lacking.
-
-Methods: We derive nonasymptotic error bounds for the probit SSL classifier and the one-hot Laplacian regularizer on weighted graphs. Our analysis leverages spectral graph theory to relate classifier risk to eigenvalue gaps of the graph Laplacian, and employs concentration inequalities to quantify the effect of random sampling of labeled nodes. We further establish sufficient conditions on graph sparsity and label distribution under which each method achieves Bayes-optimal consistency.
-
-Results: Theoretical bounds show that, when the graph satisfies a uniform expansion property, both probit and one-hot methods converge at O(n–½) rates in classification error, with the probit model exhibiting greater robustness to label noise. Empirical experiments on synthetic and real-world network benchmarks confirm these findings: probit consistently outperforms one-hot encoding in high-noise regimes, while both methods match or surpass classical label-propagation baselines in low-noise settings.
-
-Conclusion: Our work provides the first unified consistency analysis of probit and one-hot graph-based SSL, highlighting their respective strengths and guiding practitioners in method selection. These results pave the way for more reliable deployment of semi-supervised algorithms on large and noisy networked data.
-
-Keywords: semi-supervised learning, graph consistency, probit model, one-hot encoding, Laplacian regularization, convergence analysis, label noise robustness.

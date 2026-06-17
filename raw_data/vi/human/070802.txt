@@ -1,1 +1,0 @@
-Tìm hiểu về docker, các ưu điểm và kiến trúc của docker . [On]. Aval able: cagId/27/d/24595/tmheuvedockercacuudem vakentruccuadocker (vsted on 07/25/2022).

@@ -1,1 +1,0 @@
-HTML là một công cụ quan trọng trong việc xây dựng và trình bày nội dung trên trang web. Nó là cầu nối giữa nội dung và trình duyệt, giúp tạo ra một trải nghiệm trực quan và thân thiện cho người dùng.

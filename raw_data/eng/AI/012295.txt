@@ -1,9 +1,0 @@
-Objective: Interpreting deep reinforcement learning policies remains a critical challenge for deploying agents in safety-critical applications. In this work, we introduce Free-Lunch Saliency, a novel method that leverages internal attention mechanisms of transformer-augmented Atari agents to generate state-of-the-art saliency maps without additional training or inference cost.
-
-Methods: We integrate multi-head self-attention modules into the convolutional backbone of a standard Deep Q-Network (DQN) policy and repurpose the resulting attention weights as direct measures of pixel-level importance. Unlike gradient- or perturbation-based methods, Free-Lunch Saliency produces interpretable visual explanations on the fly, requiring no auxiliary loss functions or post-hoc analysis. We evaluate our approach across eight Atari 2600 environments and compare against gradient saliency, occlusion sensitivity, and perturbation-based baselines.
-
-Results: Quantitative metrics—including insertion and deletion scores—demonstrate that Free-Lunch Saliency matches or exceeds existing techniques in fidelity (average deletion area reduced by 12%) while reducing computational overhead by over 30%. Qualitatively, our saliency maps highlight key game objects (e.g., enemies, power-ups) more consistently and sharply than competing methods. Agent performance in game score remains unchanged, confirming that interpretability is gained “for free.”
-
-Conclusion: Free-Lunch Saliency provides an efficient, plug-and-play solution for real-time interpretability in attention-based Atari agents. By harnessing internal attention weights, our method offers reliable and low-cost visual explanations, facilitating debugging, trust, and safer deployment of reinforcement learning systems in interactive environments.
-
-Keywords: reinforcement learning, saliency, attention mechanisms, interpretability, Atari 2600, DQN.

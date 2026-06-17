@@ -1,1 +1,0 @@
-In the context of my project, the application is deployed and hosted using Stream lit’s sharing platform, known as ‘share.streamlit.io‘. This platform allows me toeasily deploy and share my Streamlit app with others without the need for manag ing servers or complex configurations.

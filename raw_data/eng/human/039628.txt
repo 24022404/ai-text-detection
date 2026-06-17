@@ -1,1 +1,0 @@
-In a game, the Model will store information about game objects such as characters, items, terrain and events in the game. It is also responsible for determining the rules of the game and performing actions in the game. It may include data storage files to store information about stages, scores, player levels, and in -game resources.

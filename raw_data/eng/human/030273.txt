@@ -1,1 +1,0 @@
-Beside data-centric methods, model-centric methods focus on adding domain specific parameters to reduce the interference between domains while keeping the total number of parameters small. The simplest approaches use domain tags.

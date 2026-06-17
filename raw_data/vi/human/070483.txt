@@ -1,1 +1,0 @@
-Về hiệu năng, NestJS được xây dựng trên nền tảng Node.js, giúp cải thiện hiệu năng và tố ưu hóa cho các ứng dụng web. extJS cũng hỗ trợ các tính năng như Caching, Compression và Rate Limiting điểm giúp tối ưu hóa hiệu năng của ứng dụng.

@@ -1,1 +1,0 @@
-Coding theory research, as discussed in this thesis, concentrates on creating codes that achieve high rates and enable efficient encoding and decoding to meet the needs of specific applications.

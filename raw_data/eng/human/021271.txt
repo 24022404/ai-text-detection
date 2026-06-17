@@ -1,1 +1,0 @@
-ISO 14443 consists of 4 parts: Hardware specification; Radio frequency energy and signal interface; Initialization and anti-collision and Data Transfer Protocol.

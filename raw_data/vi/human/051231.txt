@@ -1,1 +1,0 @@
-Hỗ trợ việc tìm kiếm bằng việc đặc tả các câu truy vấn phức tạp một cách cụ thể thông qua JSON.

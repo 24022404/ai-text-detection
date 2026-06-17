@@ -1,1 +1,0 @@
-Chương tr ình máy tính bình sai l ưới độ cao đư ợc xây d ựng để xử lý các l ưới độ cao theo nguyên lý s ố bình phương nh ỏ nhất; cho phép bình tính toán các l ưới với số lượng đi ểm mới và s ố chênh cao đo l ớn một cách nhanh chóng, chính xác. Chương tr ình có th ể áp dụng trong các d ự án đo đ ạc cũng nh ư giảng dạy môn Tr ắc địa ở các trường đại học và h ọc viện trong c ả nuớc.

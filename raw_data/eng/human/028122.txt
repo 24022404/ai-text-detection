@@ -1,1 +1,0 @@
-Similarly, it’s essential for this work to decode ck,s. In 2016, Kociumaka, Ra doszewski, and Rytter presented the first sub-ar decoding algorithm DKRR for the minimal de Bruijn sequences. And since ck,sis a substring of a minimal deBruijn sequence, it’s able to modify DKRR to decode ck,sin sub-ar time.

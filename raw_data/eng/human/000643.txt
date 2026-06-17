@@ -1,1 +1,0 @@
-Actors Involved : User, Android Application, Web Service/Server– Preconditions : The Android application must be configured to communicate with web services over TLS/SSL, and the server-side TLS/SSL con figuration must be available for testing.

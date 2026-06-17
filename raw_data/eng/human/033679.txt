@@ -1,1 +1,0 @@
-Subsequently, in the second scenario, additional pairs from the PhoMT sets will be incorporated for training, focusing on specific domains. The evaluation will again be performed on the 2 test sets, as in the first scenario.

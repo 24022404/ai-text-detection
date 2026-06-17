@@ -1,1 +1,0 @@
-D. Tran, L. Bourdev, R. Fergus, L. Torresani andM. Paluri, “Learning spatiotemporal features with 3D convolutional networks,” in2015 IEEE International Conference on Computer Vision (ICCV) Santiago, Chile: IEEE, december 2015.

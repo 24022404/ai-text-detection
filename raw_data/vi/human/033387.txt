@@ -1,1 +1,0 @@
-Chương 5 là phần cà điặt và thực nghệm. Chương này mô tả mô trường cà điặt gả lập, mô trường khảo sát và các kết quả thực nghệm. Cụ thể hơn, các kết quả thực nghệm này là kết quả so sánh về điộ sa lệch so với khoảng thờ gan yêu cầu của gả pháp điược điề xuất so với gả pháp tìm điường ngắn nhất và gả pháp tìm điường đi nhanh nhất.

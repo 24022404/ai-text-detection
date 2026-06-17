@@ -1,1 +1,0 @@
-function getMessages This function is called to show all the messages in a conversation that involved current users. It support pagination, which means the messages will not be loaded at once, but in batch.

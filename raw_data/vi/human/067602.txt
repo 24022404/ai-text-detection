@@ -1,1 +1,0 @@
-STT Tên trường Yêu cầu 1 Organization Bắt buộc 2 Quyền quản lý thiết bị Bắt buộc 3 SAML User Bắt buộc Bảng C7: Dữ liệu đầu vào cho trường hợp kiểm thử "Tạo quyền quản lý truy cập cho Organization" Các ca kiểm thử cho chức năng "Tạo quyền quản lý truy cập cho Organization":

@@ -1,1 +1,0 @@
-Khả năng tích hợp dễ dàng: JWT có thể tích hợp với các thư viện mã nguồn mở phổ biến như Nodejs, Java, Python, PHP, Ruby, và .NET, giúp cho việc triển khai và sử dụng JWT trở nên dễ dàng và linh hoạt hơn.

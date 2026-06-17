@@ -1,1 +1,0 @@
-Bước 1: Xây dựng ma trận đánh giá từ tập trận Ma trận đánh giá được biểu diễn gồm các hàng tương ứng với CustomerId, các cột tương ứng với ProductId. Giá trị trong mỗi ô của ma trận thể hiện số lượng sản phẩm mà khách hàng tương ứng đã mua.

@@ -1,1 +1,0 @@
-Tính chịu lỗi: hệ thống cần lưu trữ dữ lệu hành vi đầy đủ, không gây mất mát dữ lệu.

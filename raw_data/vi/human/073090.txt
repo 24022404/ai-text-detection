@@ -1,1 +1,0 @@
-Tính dễ bảo trì Hệ thống cần thiết kế module hóa các thành phần theo từng vai trò, chức năng phù hợp, đảm bảo dễ dàng, thuận tiện trong quá trình phát triển và bảo trì. Kh các chức năng thay đổi, nâng cấp sẽ không ảnh hưởng đến các chức năng khác. Giao diện cần tối ưu thiết kế theo các component phục vụ mục đích tái sử dụng và thay đổi, phát triển về sau.

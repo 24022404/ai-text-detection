@@ -1,1 +1,0 @@
-Data distribution setting is 5 balanced node + 5 imbalanced node for EMNIST and the ANN model is adopt. N/A indicates that the algorithms cannot achieve the target accuracy, along with the highest test accuracy displayed.

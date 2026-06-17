@@ -1,1 +1,0 @@
-Ở app người tử, đầu tên, khi khởi tạo hàm Main của app , sẽ khởi tạo Socket và Stream Chat Message. Trong đó, Stream Chat Message là một stream của Flutter, có nhiệm vụ truyền dữ liệu nhận được sang Chat Controller của màn hình Chất. Dưới đây là ảnh minh hoạ về khởi tạo Socket và Stream Controller Chart.

@@ -1,1 +1,0 @@
-Hỗ trợ Promise: Jmp hỗ trợ Promise, cho phép người dùng xử lý ảnh một cách dễ dàng và hiệu quả.

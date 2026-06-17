@@ -1,1 +1,0 @@
-P= Σx∗K,∀ (5.8) Vấn đề đặt ra là cần phải thực hiện việc giảm thờ gan trên những công việc như thế nào để chi phí là thấp nhất mà vẫn điểm lạ hiệu quả, hay có nghĩa là tìm giá trị tối ưu cho P.

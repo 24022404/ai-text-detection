@@ -1,1 +1,0 @@
-Tà nguyên (Resources): Tài nguyên là đối tượng mà chúng ta muốn mô tả, mọ tài nguyên điều có URI điểm định danh.

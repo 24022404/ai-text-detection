@@ -1,1 +1,0 @@
-P2P architecture has a number of benefits for streaming video. The first benefit is that it relieves pressure on central servers, enabling effective and scalable content distribution. By utilizing the resources of numerous peers, it enhances video streaming performance and enables quicker and more depend able streaming experiences.

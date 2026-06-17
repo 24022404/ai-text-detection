@@ -1,1 +1,0 @@
-P. Wang, Y. Song, T. Liu andothers , “Learning robust representations for continual relation extraction via adversarial class augmentation,” inProceedings of the 2022 Conference on Empirical Methods in Natural Language Processing Abu Dhabi, United Arab Emirates: Association for Computational Linguistics, december 2022, pages 6264–6278. url:https : / / aclanthology.

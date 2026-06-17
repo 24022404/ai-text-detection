@@ -1,1 +1,0 @@
-Assuming two paths Pu and Pv with their own sequences of nodes, if there exists a shared node between them (eu,t = ev,l), and all the edges in both paths are labeled 0, it necessarily follows that their subsequent nodes will coincide at each step.

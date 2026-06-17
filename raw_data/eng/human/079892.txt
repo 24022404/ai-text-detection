@@ -1,1 +1,0 @@
-S. Gupta and B. B. Gupta, “Cross-site scripting (xss) attacks and defense mechanisms: Classification and state-of-the-art,” International Journal ofSystem Assurance Engineering and Management , vol. 8, pp. 512–530, 2017. IAB, M. J. Handley, and E. Rescorla, Internet Denial-of-Service Considerations, RFC 4732, Dec. 2006. DOI:10.17487/RFC4732 . [On]. Avail able: .

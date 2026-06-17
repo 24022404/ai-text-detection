@@ -1,1 +1,0 @@
-PostgreSQL ensures data integrity and consistency through its ACID-compliant transactions, which let users commit or roll back complex operations, providing a reliable and robust database environment for critical applications.

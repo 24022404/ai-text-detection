@@ -1,9 +1,0 @@
-Objective: Semantic attributes provide interpretable representations for vision and language tasks but require costly manual annotation. This paper addresses the problem of recovering semantic attributes from images using only weak supervision in the form of image-level labels. 
-
-Methods: We introduce a Weakly Supervised Attribute Recovery Network (WSARN) that jointly learns to localize and predict attribute presence without explicit attribute annotations. WSARN leverages a multi-instance learning framework with an attention mechanism to identify attribute-relevant regions and aligns their feature embeddings with semantic prototypes derived from word vectors. A consistency regularizer enforces coherence between image-level predictions and the aggregated region scores, and a graph-based propagation module refines attribute predictions by modeling co-occurrence relationships.
-
-Results: We evaluate WSARN on standard benchmarks (CUB-200-2011 and AWA2) and report up to 15% improvement in mean average precision over existing weakly supervised methods. Furthermore, our approach achieves comparable performance to fully supervised attribute predictors while using only image-level labels. Ablation studies confirm the effectiveness of attention-based localization, semantic prototype alignment, and co-occurrence propagation.
-
-Conclusion: WSARN substantially reduces annotation burden and accurately recovers semantic attributes, enabling downstream applications such as zero-shot learning, interpretable classification, and fine-grained retrieval. 
-
-Keywords: weak supervision, semantic attributes, multi-instance learning, attention mechanism, attribute recovery

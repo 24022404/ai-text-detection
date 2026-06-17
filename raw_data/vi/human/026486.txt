@@ -1,1 +1,0 @@
-TextView : là vew sử dụng để hiển thị test màn hình. TextView được định nghĩa mở thẻ trong xml.

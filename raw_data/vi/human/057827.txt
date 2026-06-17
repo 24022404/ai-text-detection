@@ -1,1 +1,0 @@
-Chức năng cập nhật công vệ cHính 4.30: Chức năng cập nhật công việc Hình 4.30 minh họa cho chức năng cập nhật công việc khi doanh nghiệp cần thay đổi công viên Chức năng quản lý ứng viên Hình 4.31: Chức năng quản lý ứng viên Hình 4.31 minh họa cho chức năng quản lý ứng viên, khi ứng viên ứng tuyển doanh nghiệp có thể chọn chấp nhận hoặc từ chối.

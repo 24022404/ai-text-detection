@@ -1,1 +1,0 @@
-The system can not be integrated with the current software of the customersupport department at ANSV. Because the current software is managing cus tomer requests via email and phone, the integration will help both systems operate more effectively.

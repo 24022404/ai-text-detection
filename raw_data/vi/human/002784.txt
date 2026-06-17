@@ -1,1 +1,0 @@
-Mục 5.3.4 trình bày về phương pháp một phương pháp phổ biến khi đề xuất thỏa hiệp thờ gan  chi phí, đó là sử dụng thuật toán tham lam kết hợp cùng biểu đồ CPM. Cùng với đó, mục 5.3.4 cũng chỉ ra một số hạn chế khi sử dụng phương pháp này.

@@ -1,1 +1,0 @@
-Training data and test data: Dataset will usually be divided into these two sets, training data is used to train the model, test data is used to predict results and evaluate the model. If there is a problem that people will give these two sets, you don’t need to divide anymore, for a problem only for each dataset, you have to split.

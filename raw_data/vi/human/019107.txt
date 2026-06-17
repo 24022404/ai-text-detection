@@ -1,1 +1,0 @@
-Tạo file class chỉ báo mớ Theo thiết kế bểu đồ lớp 4.7, các lớp chỉ báo cụ thể sẽ điều kế thừa lớp cha Mner. Lớp cha Mner điã điược trển kha sẵn các phương thức điọc, gh và xử lý chung cho luồng dữ lệu. Các lớp con cần kha báo thêm ha phương thức get_nputs() và formula() tương ứng với công thức của chỉ báo cần tính toán.

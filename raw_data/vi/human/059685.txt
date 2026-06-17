@@ -1,1 +1,0 @@
-Để đáp ứng được mục tiêu đề ra, phần mềm quản lý bán hàng cần có một cơ sở dữ liệu để lưu trữ thông tin đơn hàng, thông tin khách hàng và các thông tin cần thiết khác. Bên cạnh đó, hệ thống cần có khả năng nhận thông báo qua email, website điểm xử lý các phản hồi của khách hàng lên hệ thống.

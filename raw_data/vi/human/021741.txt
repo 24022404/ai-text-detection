@@ -1,1 +1,0 @@
-Mã nguồn mở nên bạn có thể được sử dụng bởi bất kỳ một client nào hỗ trợ XML, JSON.

@@ -1,1 +1,0 @@
-Click the “Log in” button2. If the input is incorrect, an error message will appear, requesting the user to try again.

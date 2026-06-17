@@ -1,9 +1,0 @@
-This paper addresses the challenge of enhancing ultrasound image analysis by leveraging the visual attention patterns of sonographers. Understanding how expert practitioners focus on specific regions within ultrasound images offers potential improvements in representation learning models for medical imaging applications.
-
-Methods: We propose a novel approach that integrates sonographer visual attention data into the learning process of ultrasound image representation. By employing an attention-based deep learning model, we capture and model the nuances of expert focus during ultrasound evaluations. This method utilizes eye-tracking technology to collect visual attention data, which is then incorporated into the training of our representation learning system.
-
-Results: Our findings demonstrate that incorporating visual attention significantly improves the performance of ultrasound image classification and segmentation tasks. Comparative analyses with traditional deep learning models, which do not consider visual attention, reveal substantial gains in accuracy and interpretability. In particular, our model achieves a marked increase in sensitivity and specificity, highlighting its potential efficacy in clinical settings.
-
-Conclusion: The research offers critical insights into how expert visual attention can be harnessed to enhance the learning capabilities of AI models in medical imaging. By bridging the gap between expert knowledge and machine learning, our approach presents significant contributions to the field of computer-aided diagnostics. The integration of sonographer attention patterns offers a promising direction for future advancements in intelligent ultrasound systems, with potential applications extending to other domains within medical imaging.
-
-Keywords: ultrasound imaging, representation learning, visual attention, sonographer, deep learning, medical imaging, eye-tracking, computer-aided diagnosis.

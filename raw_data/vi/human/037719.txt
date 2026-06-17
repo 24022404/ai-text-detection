@@ -1,1 +1,0 @@
-*Group Controller: xử lý các yêu cầu liên quan đến nhóm như lấy ra danh sách các nhóm, lấy ra danh sách thành viên trong nhóm, lấy ra danh sách bạn bè không ở trong nhóm.

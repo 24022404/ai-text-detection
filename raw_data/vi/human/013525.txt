@@ -1,1 +1,0 @@
-Thông qua các hàm search, add, update, delete ,getter được khởi tạo trong các cấu trúc phần mềm mà Controller lấy dữ liệu từ model và khởi tạo new.

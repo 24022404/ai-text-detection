@@ -1,1 +1,0 @@
-Đều này hữu ích khi xây dựng các ứng dụng thờ gan thực như chat trực tiếp, trò chơi trực tuyến và ứng dụng đia người dùng.

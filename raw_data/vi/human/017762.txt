@@ -1,1 +1,0 @@
-Do đó, việc lấy mẫu được thực hiện trong mạng để học từ đầu đến cuối bằng cách truyền ngược từ mất pixel.

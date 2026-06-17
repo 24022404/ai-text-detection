@@ -1,1 +1,0 @@
-Xoay: Hình ảnh được xoay theo một góc nhất định. Đều này mô phỏng hiệu ứng của việc người đó quay đầu.

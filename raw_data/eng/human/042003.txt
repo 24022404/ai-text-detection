@@ -1,1 +1,0 @@
-Summary, for each vertex in Lsuch that visn’t the end-vertex of the last edge in pathP, there is a path Pvof length s−jsatisfying all of its edges not lying in P and takes vto be its end-vertex. Moreover, all these such paths are edge-disjoint, and there can be only 1end-vertex of the last edge in path ℓ(Gk,s), the total edgesof all such path Puis:

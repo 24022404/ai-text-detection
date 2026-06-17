@@ -1,1 +1,0 @@
-You can use these words to generate the cryptographic keys required to access and control bitcoin funds. By implementing the BIP39 specification, wallets give users a dependable and consistent means to backup and restore their wallets, adding an extra layer of security and usability.

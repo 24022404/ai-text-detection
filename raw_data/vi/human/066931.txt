@@ -1,1 +1,0 @@
-Bản chất của mô hình client server là các máy tính, bao gồm một máy chủ (server) và nhiều máy khách (client) gao tập, trao đổi dữ lệu với nhau thông qua môi trường mạng. Các máy client ko cần thông tin sẽ gửi các yêu cầu đến máy chủ.

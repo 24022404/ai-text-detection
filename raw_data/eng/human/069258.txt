@@ -1,1 +1,0 @@
-Another advantage of jQuery is its extensibility. It provides a wide range of plugins and extensions that can be used to add new features and functionality to web applications. These plugins can be easily integrated into existing projects andcan help save development time and effort.

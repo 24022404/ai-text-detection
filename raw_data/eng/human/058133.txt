@@ -1,1 +1,0 @@
-These systems will keep track of the businesses we visit, the goods we’re interested in, and our past purchases. Then, we will create a list of recommended products, demonstrating how to select the best and related products by category so that we may make better product selections. Additionally, the system can provide supplemental items to help customers complete their purchases.

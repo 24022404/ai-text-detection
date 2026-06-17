@@ -1,1 +1,0 @@
-The next step is to calculate the weight for each floor. This weight could be based on any desired metric, such as the distance between two points on the floor, the time it takes to travel from one point to another, or any other relevant factor.

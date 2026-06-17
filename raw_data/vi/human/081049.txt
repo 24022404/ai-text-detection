@@ -1,1 +1,0 @@
-Thiết kế giao diện Hình 4.3: Gao dện thiết kế trang chủGao diện thiết kế trang chủ của webste đồ án điã thết kế theo trang chủ website bán hàng on chỉ gồm có header body và footer. Trong phần body thì gồm có slde, có sản phẩm ưu điã và bà vết nổ bật còn màu sách em đã chọn là có nhều màu như hình ảnh 4.3.

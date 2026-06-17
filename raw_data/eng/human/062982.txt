@@ -1,1 +1,0 @@
-In the application frontend, I use Bootstrap as the UI library to create and style most of the React components.

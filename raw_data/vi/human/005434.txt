@@ -1,1 +1,0 @@
-Chương 4 cũng là chương quan trọng nhất, đi sâu vào ch tết thiết kế hệ thống, cách thức hệ thống được triển khai và sự áp dụng các công nghệ đã nêu lên ở Chương 3 vào việc thiết kế hệ thống này.

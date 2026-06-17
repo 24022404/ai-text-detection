@@ -1,1 +1,0 @@
-Additional security techniques should be explored and applied to limit theexposure of customer databases on the system and minimize potential vulner abilities.

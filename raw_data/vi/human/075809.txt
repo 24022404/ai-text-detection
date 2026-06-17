@@ -1,1 +1,0 @@
-Công nghệ đầu tiên, không thể thiếu đó chính là HTML. HTML là một ngôn ngữ đánh dấu được sử dụng để tạo ra các trang web. HTML cung cấp khung nhìn cho trang web và định dạng nội dung trên trang web thông qua các thẻ và các thuộc tính.

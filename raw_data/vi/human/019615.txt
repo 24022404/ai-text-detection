@@ -1,1 +1,0 @@
-Role_id = 3 ứng với phân quyền của sinh viên.Có Bảng 4.1: Bảng dữ lệu User Bảng dữ lệu Class Mục đích: Lưu thông tin lớp học.

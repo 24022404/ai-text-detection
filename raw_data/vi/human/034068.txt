@@ -1,1 +1,0 @@
-Sao lưu tự động: Firebase storage tự động sao lưu dữ lệu của bạn, giúp bạn bảo vệ dữ lệu trong trường hợp có sự cố hoặc lỗ.

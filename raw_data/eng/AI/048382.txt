@@ -1,1 +1,0 @@
-Keras leverages GPUs to accelerate training processes and efficiently manage larger datasets, enhancing deep learning performance.

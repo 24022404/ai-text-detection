@@ -1,1 +1,0 @@
-Classfication: A problem is called classification if the labels of the input data are divided into a finite number of groups. For example, Gmail determines if an email is spam; Credit bureaus determine whether a customer is able to pay off a debt. The three examples above fall into this category.

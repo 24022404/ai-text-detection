@@ -1,1 +1,0 @@
-Captcha là một gả pháp bảo mật được sử dụng để xác minh tính hợp pháp của người dùng và ngăn chặn các cuộc tấn công của bot. Captcha sử dụng các thử thách để phân biệt giữa người dùng và các chương trình tự động, bao gồm cả việc yêu cầu người dùng phải nhập các ký tự hoặc hình ảnh được yêu cầu.

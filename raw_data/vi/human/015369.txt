@@ -1,1 +1,0 @@
-Factory Method Pattern: Pattern này được sử dụng rộng rãi trong Magento để tạo ra các đối tượng. Các Factory class chịu trách nhiệm về việc tạo ra đối tượng.

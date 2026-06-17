@@ -1,1 +1,0 @@
-Admin có thể truy cập vào phần Configuration của module gợi ý sản phẩm điểm cập nhật danh sách gợi ý sản phẩm mới nhất. Sau khi truy cập vào phần Configuration của module, người dùng có thể chọn thuật toán, lưu lạ lựa chọn và click nút Submit để tiến hành cập nhật dữ liệu gợi ý mở từ python server.

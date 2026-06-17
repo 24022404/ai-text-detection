@@ -1,5 +1,0 @@
-Thực nghiệm nhận dạng tỉ số cản của kết cấu dầm thép bằng phương pháp phân tách miền tần số (FDD) đã được thực hiện để đánh giá hiệu suất của phương pháp này trong việc phân tích và nhận dạng các đặc tính của kết cấu dầm thép. Kết quả cho thấy phương pháp FDD có thể hiệu quả trong việc phân tích và nhận dạng các đặc tính của kết cấu dầm thép, bao gồm tỉ số cản.
-
-Phương pháp FDD đã được áp dụng để phân tích các tín hiệu đo được từ các dầm thép khác nhau, và kết quả cho thấy phương pháp này có thể hiệu quả trong việc nhận dạng các đặc tính của kết cấu dầm thép. Tỉ số cản của các dầm thép đã được xác định bằng phương pháp FDD, và kết quả cho thấy tỉ số cản của các dầm thép có thể được sử dụng để đánh giá hiệu suất của kết cấu dầm thép.
-
-Kết quả của thực nghiệm này cho thấy phương pháp FDD có thể là một công cụ hiệu quả trong việc phân tích và nhận dạng các đặc tính của kết cấu dầm thép. Tuy nhiên, cần phải thực hiện thêm nhiều nghiên cứu để đánh giá hiệu suất của phương pháp này trong các điều kiện khác nhau.

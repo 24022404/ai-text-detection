@@ -1,1 +1,0 @@
-Đầu tiên, thực hiện truy vấn trên Sparql Endpoint của DBpedia điển trích xuất ra các URL cần thiết. Ví dụ câu truy vấn điểm lấy ra các di tích lịch sử ở Hà Nội.

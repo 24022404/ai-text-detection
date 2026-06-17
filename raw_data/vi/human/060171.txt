@@ -1,1 +1,0 @@
-Ngoài ra, HTML còn hỗ trợ các tính năng tạo liên kết giữa các trang web, cho phép người dùng chuyển đến các trang khác nhau trên cùng một trang web hoặc trang web khác.

@@ -1,1 +1,0 @@
-NewsController lên kết tớ model news và Topcv Controller lên kết tớ model topics điểm thực hiện các chức năng liên quan tới bài viết.

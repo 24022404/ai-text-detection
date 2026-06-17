@@ -1,1 +1,0 @@
-Game Progression and Play Flow Figure 4.7: Gameflow Chart 4.4.3 MechanicsRules : Pixel Platformer Games are created based on several fundamental prin ciples that players must adhere to, including:

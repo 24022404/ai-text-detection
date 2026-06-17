@@ -1,1 +1,0 @@
-Storekeeper and (ii) Warehouse staff. The storekeeper will see the suggestion to rotate the inventory and plan the rotation. Warehouse rotation request will be sent to warehouse staff and this employee is responsible for performing the request.

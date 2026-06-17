@@ -1,1 +1,0 @@
-Service partnership ER diagram of partnership service is figure 4.13Figure 4.13: ER diagram of partner ship serviceA supplier is created from a supplier request. Suppliers save supplier informa tion. Distributors protect distributor information. Suppliers and distributors can have a business attribute. Access table saves users’ access time in the supplier store group by date.

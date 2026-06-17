@@ -1,1 +1,0 @@
-ADB (Android Debug Bridge) is a versatile tool that enables developers to communicate with Android devices for installing apps, debugging, and runtime monitoring.

@@ -1,1 +1,0 @@
-bấm chọn điểm sử dụng chức năng quyên góp vào quỹ chung 2. bấm chọn điểm sử dụng chức năng quyên góp vào quỹ sự kiện 3. bấm chọn điểm sử dụng chức năng yêu cầu quyên góp hiện vật 4. đơn điền thông tin quyên góp 5. ảnh mã QR điã render sau kh điền điủ thông tn và bấm tạo mã QR.

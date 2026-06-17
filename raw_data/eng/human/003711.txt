@@ -1,1 +1,0 @@
-L. Xng, Z. Tan, W. Huang, and M. R. Scott, “Convolutional character net works,” in Proceedings of the IEEE International Conference on Computer Vision (ICCV) , 2019.

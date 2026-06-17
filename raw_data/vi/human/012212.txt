@@ -1,1 +1,0 @@
-Vớ những giải pháp đã nêu ra ở trên, cùng với đó là quy mô hiện tại của dự án, em sử dụng gả pháp yêu cầu mật khẩu mạnh kh người dùng tạo tài khoản hoặc đổi mật khẩu, kết hợp với đó là việc giới hạn số lần đăng nhập vào hệ thống trong một khoảng thờ gan nhất định để ngăn chặn các cuộc tấn công Brute Force.

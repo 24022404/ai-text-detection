@@ -1,1 +1,0 @@
-By configuring the actions to use the PAT for commits, I can ensure a higher level of security for the data in the repository.

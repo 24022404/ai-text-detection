@@ -1,1 +1,0 @@
-Overall, cross-entropy is a useful mathematical concept for measuring the dif ference between probability distributions and is commonly used as a loss function in classification tasks in machine learning.4.1 Training environmentIn this project we use the training environment Kaggle with along with specifi cations:

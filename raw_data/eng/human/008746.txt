@@ -1,1 +1,0 @@
-Attention (Q, K, V ) =softmax QKT ·V (2.7) here, Qrepresents the query, Kdenotes the set of keys, Vrepresents the set of values, and dkrepresents the dimensionality of the keys. The softmax function is applied to the scaled dot product of QandKdivided by the square root of dk.

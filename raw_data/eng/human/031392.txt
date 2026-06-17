@@ -1,1 +1,0 @@
-Data partition To simulate a diverse population across clients nodes, the same approach as in  is used with some modifications. Each client has an associated multinomial distribution over classes, which is drawn from a symmetric Dirichlet distribution, client exclusively possesses examples from a single class chosen at random.

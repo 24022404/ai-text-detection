@@ -1,9 +1,0 @@
-Objective: This paper addresses the problem of establishing reliable correspondences across images and discovering object regions without relying on any ground-truth annotations. Unsupervised image matching and object discovery are formulated jointly as a single optimization task, enabling mutual reinforcement between finding pixel-level matches and segmenting coherent object parts.
-
-Methods: We introduce a unified energy-based framework that models image pairs (or small sets) as graphs of candidate regions. A single optimization variable encodes both assignment weights for matching and binary indicators for objectness. The objective combines appearance affinity—derived from deep feature embeddings—and spatial consistency terms that favor compact, contiguous regions. We solve the resulting non-convex problem via an alternating descent scheme: match weights are updated through a projected gradient step, and object indicators are refined by a graph-cut–inspired thresholding operation. No pretraining on labeled datasets is required.
-
-Results: Experiments on benchmark datasets (PASCAL-VOC, COCO, CUB-200) show that our method outperforms existing unsupervised baselines by 12–18% in matching accuracy and yields object localization IoU gains of up to 20%. Ablation studies confirm the complementary benefits of joint optimization over separate matching or discovery pipelines.
-
-Conclusion: By casting unsupervised image matching and object discovery as a unified optimization, the proposed approach achieves state-of-the-art performance without manual labels. This framework can be extended to multi-view reconstruction, weakly supervised detection, and interactive image editing. 
-
-Keywords: Unsupervised Learning; Image Matching; Object Discovery; Optimization; Graph-based Methods

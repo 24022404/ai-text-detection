@@ -1,1 +1,0 @@
-Application Manager chịu trách nhiệm tiếp nhận các công việc gửi đến, thương lượng vùng chứa điều tên điểm thực thi ApplicationMaster và cung cấp dịch vụ khởi động lạ vùng chứa ApplicationMaster ko bị lỗ. Application Master cho mỗi ứng dụng có trách nhiệm thương lượng các vùng chứa tài nguyên thích hợp từ Scheduler, theo dõi trạng thái của chúng và giám sát tiến trình.

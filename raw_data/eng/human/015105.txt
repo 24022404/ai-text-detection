@@ -1,1 +1,0 @@
-Throughout the domain classification training, I maintained the configuration of distilBert, no conducting hyperparameters search, and for the dataset, I solely utilized the English data from the opus dataset, as previously mentioned. Additionally, I incorporated data from the PhoMT datasets , containing four distinct labels:

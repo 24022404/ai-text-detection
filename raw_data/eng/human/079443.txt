@@ -1,1 +1,0 @@
-This thesis proposed a Multi-BERT model to deal with the limitation of a limited number of tokens of existing language models (e.g., 512, 1024, etc.), enhancing the performance with the lengthy input sequences.

@@ -1,1 +1,0 @@
-Mô hình Mobile NetV2: Cùng với bộ tham số như AscentNet những thay đổi dropout là 0,18 và cài đặt tham số của ở các lớp tranable =false trong 20vòng đầu, thay đổi lạ tranable =true trong những vòng còn lại.

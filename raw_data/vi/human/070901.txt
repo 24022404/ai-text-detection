@@ -1,1 +1,0 @@
-Bên cạnh các yêu cầu về chức năng, hệ thống còn đáp ứng các yêu cầu phi chức năng như sau:

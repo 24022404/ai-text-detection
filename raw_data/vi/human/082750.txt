@@ -1,1 +1,0 @@
-Virtualized là một giải pháp hữu ích để hiển thị danh sách dữ liệu lớn mà đem lại hiệu suất hiển thị cao.

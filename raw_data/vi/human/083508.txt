@@ -1,1 +1,0 @@
-Ga đoạn đầu (19641991) : Nghiên cứu ban đầu tập trung vào việc rút trích các đặc trưng mà con người thường sử dụng để nhận biết khuôn mặt, như khoảng cách giữa các đặc điểm khuôn mặt (mắt, mũi, miệng, vv). Một trong những hệ thống đầu tiên được phát triển vào năm 1964 bở Woodrow Bledsoe, người sử dụng máy tính để xác định các đặc điểm khuôn mặt và sau đó thực hiện so sánh.

@@ -1,1 +1,0 @@
-sendTextMessage: phương thức này gồm 3 tham số là content, conversation Id và token, nhằm gửi tin nhắn văn bản của người dùng có nội dung content vào cuộc hội thoại có mã cuộc hội thoại là conversationId.

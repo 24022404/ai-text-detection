@@ -1,1 +1,0 @@
-Yêu cầu về hiệu năng Hệ thống phải đảm bảo tất cả các tính năng, dịch vụ vận hành ổn định và liên tục.

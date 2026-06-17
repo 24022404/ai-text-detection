@@ -1,1 +1,0 @@
-ReLU, on the other hand, does not face this problem as its slope doesn’t plateau, or “saturate,” when the input gets large. Due to this reason models using ReLU activation function converge faster.

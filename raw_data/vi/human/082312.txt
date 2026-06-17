@@ -1,1 +1,0 @@
-Chương 2 điưa ra khảo sát, phân tích yêu cầu nghệp vụ từ những vấn điề xoay quanh các tác nhân người dùng và quản trị hệ thống. Đây cũng là chương quantrọng nhất điể quyết định hệ thống sẽ có những chức năng gì, phục vụ người dùng như thế nào.

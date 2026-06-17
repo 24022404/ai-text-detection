@@ -1,1 +1,0 @@
-The GOAP library is built with three main components: Data, Logic, and UserInterface. The Data part contains all the fundamental algorithm-related information, including Actions, Goals, Agents, and Sensors. The Logic component re volves around the ability to build graphs and implement pathfinding algorithms.

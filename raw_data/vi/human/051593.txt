@@ -1,1 +1,0 @@
-Hệ thống hiển thị hình ảnh lấy từ camera của người dùng lên màn hình và chia sẻ hình ảnh đó với những người tham gia video call.

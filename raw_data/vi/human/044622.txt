@@ -1,1 +1,0 @@
-request (Job Search Request): các trường tìm kiếm Exception : Không STT Tên Kiểu dữ liệu trả về Mô tả (mục đích) 3 searchJob ServiceResult Tìm kiếm công việc theo các trường filter Parameter:

@@ -1,1 +1,0 @@
-ISO 14443-1 : This part defines the specifications for cards and card readers. It includes size, shape, spacing and battery and voltage parameters. In addition,this section also defines the durability and water resistance requirements for smart card devices.

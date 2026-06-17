@@ -1,1 +1,0 @@
-Bên cạnh đó, cũng cần có một phần cho những người có quyền quản trị để cập nhật thông tin của nhân viên dưới sự quản lý của họ, thêm tài khoản cho nhân viên mới cũng như xóa tài khoản của nhân viên cũ, duyệt hoặc từ chối đơn của nhân viên đưa lên.

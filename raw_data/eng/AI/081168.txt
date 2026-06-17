@@ -1,9 +1,0 @@
-As deep learning models become increasingly complex and computationally demanding, there is a critical need for techniques that can reduce their size and improve efficiency without compromising performance. This paper addresses the problem of deep model compression by exploiting filter correlations within convolutional neural networks (CNNs).
-
-Methods/Approach: We introduce a novel approach to model compression that leverages the inherent correlations between filters in CNNs. By utilizing a correlation-based pruning technique, we effectively identify and remove redundant filters that do not significantly contribute to model performance. The proposed method integrates seamlessly with existing deep models, maintaining accuracy while substantially reducing size and computation overhead.
-
-Results/Findings: Experimental evaluations on benchmark datasets demonstrate that our method achieves significant reductions in model size and computation load—with up to 60% fewer parameters—while maintaining, and in some cases improving, classification accuracy. Comparative analysis with state-of-the-art compression techniques highlights the superior efficacy of our approach in balancing compression and performance.
-
-Conclusion/Implications: Our research presents an innovative solution to the pressing challenge of deep model compression, offering a powerful tool for deploying deep learning models in resource-constrained environments such as mobile and edge computing. This approach not only enhances model efficiency but also extends the applicability of deep learning techniques to a broader range of industries and use cases. Key contributions include the demonstration of filter correlation as a viable metric for pruning, and the significant compression achieved without sacrificing model integrity.
-
-Keywords: deep learning, model compression, filter correlation, convolutional neural networks, pruning, computational efficiency.

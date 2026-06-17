@@ -1,1 +1,0 @@
-Trong mô hình MVC , bạn có thể tạo nhiều View cho chỉ một mô hình. Ngày nay, nhu cầu có thêm nhiều cách mở điểm truy cập ứng dụng và đang ngày càng tăng.

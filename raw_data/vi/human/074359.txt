@@ -1,1 +1,0 @@
-Nest hỗ trợ phát triển các dịch vụ Microservices một cách dễ dàng, giúp cho việc phát triển và quản lý các dịch vụ riêng biệt trở nên dễ dàng hơn.

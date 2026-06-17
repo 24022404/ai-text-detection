@@ -1,1 +1,0 @@
-Luồng sự kiện thay thế Không Luồng xử lý ngoại lệ Không Hậu điều kiện Hệ thống hiển thị kết quả bài làm trắc nghiệm Bảng 2.5: Bảng đặc tả Use Case làm bài trắc nghiệm 2.3.6 Đặc tả Use Case nhận diện loài vật Mã Use Case UC06 Tên Use Case Nhận diện loài vật Tác nhân Người dùng Mô tả Cho phép tác nhân chọn hoặc chụp một bức ảnh và đưa ra thông tin về loài vật trong bức ảnh.

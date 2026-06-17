@@ -1,1 +1,0 @@
-Hybrid Approaches: These methods combine multiple recommendation techniques to overcome the limitations of individual techniques. For example, a hybrid approach might use content-based filtering for longtail items and collaborative filtering for popular items.

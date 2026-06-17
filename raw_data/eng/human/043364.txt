@@ -1,1 +1,0 @@
-Data type: primitives (integers, booleans, numbers, strings); structure (UUID, Range, Array, Date/time); Geometry; Custom; Document.2. Data integrity: Word type constraints, Primary Keys, Foreign Keys, UNIQUE, NOT NULL, Recommendation Locks/ Advisory Locks, Function Locks/ Explicit Locks, etc.

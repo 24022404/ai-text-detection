@@ -1,1 +1,0 @@
-Cast character skill 4This test case is to check the character’s ability to use the fourth skill (Fig ure 4.6).Figure 4.6: Test case for cast character skill 4 4.1.7 Check character and enemy collision This test case is to check the collision between the character and the enemy (Figure 4.7).

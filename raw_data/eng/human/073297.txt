@@ -1,1 +1,0 @@
-Yes, having a dashboard that shows how your system is behaving is cool, having your code deployed on a public server right after your last commit is also very cool,but for a small/canonical span of time (one semester), it would be your nightmare.

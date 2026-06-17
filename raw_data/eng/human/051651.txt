@@ -1,1 +1,0 @@
-Accuracy =1 nnX Exact match ratio: One trivial way around would just be to ignore partially correct (consider them incorrect) and extend the accuracy used in single label case for multi-label prediction.

@@ -1,1 +1,0 @@
-The reason why we could not hit a higher mark is because the 2 chosen dictionaries lack many words. Moreover, the source file for words was not containing compound words, hence could not cover a bigger range of English.

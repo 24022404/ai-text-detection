@@ -1,1 +1,0 @@
-Mô hình Masked Autoencoder được học tự gám sát dựa trên bộ dữ liệu của bà toán điể tạo thành một bộ tham số phù hợp với không gan dữ liệu Bộ gả mã của mô hình MAE được thay thế bằng bộ gả mã UNETR rồ huấn luyện trên tập dữ liệu phân vùng Ch tết về ha bước trên được trình bày ở Mục 3.2.1 và Mục 3.2.2.

@@ -1,1 +1,0 @@
-W. Ling, I. Trancoso, C. Dyer andA. W. Black, “Character-based neural machine translation.,” CoRR ,jourvol abs/1511.04586, 2015. url:http:// dblp.uni-trier.de/db/journals/corr/corr1511.html# LingTDB15 .

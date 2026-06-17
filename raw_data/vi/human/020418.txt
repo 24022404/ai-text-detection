@@ -1,1 +1,0 @@
-Kiểu dữ liệu TIMESTAMP: Tương tự như kiểu DATETIME, nhưng có thể tự động cập nhật giá trị khi có sự thay đổi trong cơ sở dữ liệu.

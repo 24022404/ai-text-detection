@@ -1,1 +1,0 @@
-Controller (App): Là bộ phận xử lý yêu cầu người dùng thao tác trên ứng dụng thông qua thành phần Vi, xử lý dữ liệu nhận được từ Repository va hển thị chúng.

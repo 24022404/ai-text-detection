@@ -1,1 +1,0 @@
-and preprocessed Newshead stands out with strong Rouge scores on ViMs, while viPRIMERA pretrained on translated Newshead excels on VMDS and VLSP datasets.

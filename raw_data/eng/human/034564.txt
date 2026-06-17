@@ -1,1 +1,0 @@
-With its extensibility, Postgres allows users to define custom data types, func tions, and stored procedures, enabling tailored solutions to specific requirements. It provides built-in support for concurrency control, enabling multiple users to access and modify data concurrently.

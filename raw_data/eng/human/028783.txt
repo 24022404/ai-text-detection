@@ -1,1 +1,0 @@
-MongoDB’s distributed architecture and automatic sharding support enable hor izontal scalability, allowing web applications to handle increased traffic and data volume without sacrificing performance. This makes MongoDB well-suited for websites that anticipate future growth and need to accommodate expanding user bases and data requirements while maintaining optimal efficiency.

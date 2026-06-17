@@ -1,1 +1,0 @@
-Tích hợp mở rộng: PostgreSQL  cho phép bạn mở rộng chức năng của nó thông qua các phần mở rộng (extensions) và các ngôn ngữ lập trình như Python, Java, C/C++, và nhiều ngôn ngữ khác.

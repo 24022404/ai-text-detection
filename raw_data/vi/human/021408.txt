@@ -1,1 +1,0 @@
-Phát triển chức năng gợi ý bài viết điểm người dùng không phải đọc những bài viết mà mình không quan tâm.

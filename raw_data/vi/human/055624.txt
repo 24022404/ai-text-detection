@@ -1,1 +1,0 @@
-Cấu trúc tập trung vào modules: Nest JS cho phép xây dựng ứng dụng và cấu trúc tập trung vào modules, giúp tách biệt các chức năng khác nhau trong ứng dụng.

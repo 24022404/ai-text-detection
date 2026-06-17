@@ -1,1 +1,0 @@
-Phương pháp tiếp cận này chủ yếu tập trung vào sự kết hợp giữa Collaborative Filtering User User, Collaborative Filtering Item Item và thuật toán Apriori.

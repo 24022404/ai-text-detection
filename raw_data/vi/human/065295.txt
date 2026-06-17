@@ -1,1 +1,0 @@
-Đều này cho phép chúng ta thiết lập và lấy trường này mà không cần lưu các thay đổi vào cơ sở dữ liệu. Đều này rất hữu ích vì chúng ta sẽ có logc điểm chuyển đổi mật khẩu đó thành một hàm băm, mà chúng ta sẽ lưu vào trường “passwordhash” và sau đó lưu vào cơ sở dữ liệu.

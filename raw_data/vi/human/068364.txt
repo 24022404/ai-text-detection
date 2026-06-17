@@ -1,1 +1,0 @@
-Homes: đây là model để xử lý các thao tác giữa các phương thức với CSDL liên quan đến cấu hình các phần cần hiển thị ở trang chủ.

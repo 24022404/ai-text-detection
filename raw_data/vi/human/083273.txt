@@ -1,1 +1,0 @@
-Để đánh giá hiệu năng của từng phương pháp, xem cấu hình mô trường phù hợp với việc đánh giá. Một số thông số sau được cố định:

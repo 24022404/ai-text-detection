@@ -1,1 +1,0 @@
-Không tạo ra các mô đun quá phức tạp mà nếu cần nên chia nhỏ để không bị chặn luồng.

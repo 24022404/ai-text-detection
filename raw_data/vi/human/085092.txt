@@ -1,1 +1,0 @@
-Phân hệ thu thập, tổ chức lưu trữ và phân tích dữ lệu: sử dụng Snow Plow thực hiện thu thập dữ lệu về hành vi của người dùng, sau đó thực hiện lưu trữ xử lý trên Apache Kafka và Elasticsearch. Sau cùng, dữ lệu sẽ được phân tích trực quan hoá trên Metabase.

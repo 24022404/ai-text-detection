@@ -1,1 +1,0 @@
-Sử dụng các công cụ bảo mật: Sử dụng các công cụ bảo mật như firewall, IDS/IPS điểm giám sát các hoạt động trên hệ thống và phát hiện các hoạt động đáng ngờ, có thể là các cuộc tấn công Brute Force.

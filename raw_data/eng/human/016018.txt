@@ -1,1 +1,0 @@
-FIFO algorithm (First In, First Out): According to this algorithm, goods are arranged in the order they arrive, and are taken out and distributed in the order they arrived. This ensures that goods are distributed in a timely manner and minimizes the risk of expired products staying in the warehouse for too long.

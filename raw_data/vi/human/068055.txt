@@ -1,1 +1,0 @@
-Trên mac OS, Linux: ./gradle build Trên Windows: gradlew.bat bulb Sau khi hoàn tất, tệp thực thi sẽ được lưu tại đường dẫn: ./build/output/ehust 0.0.1 SNAPSHOT.jar Bước 3: Tạo Docker Image và khởi chạy Spring Boot Sao chép tệp thực thi ở bước 2 vào máy ảo Ubuntu, tạo tệp định nghĩa Dockerfile vớ nội dung như sau:

@@ -1,1 +1,0 @@
-They set permissions to:who can view the portal, who can send requests to a service project, who customers can share requests with, Project permissions depend on the portal-only customer access settings, which means you can have different customer permissions for a service project depending on the people who need to access it.

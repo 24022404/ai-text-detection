@@ -1,1 +1,0 @@
-Quy Tắc Kết Hợp (Association Rules): Implement thuật toán Apriori cho việc khai phá các luật kết hợp từ dữ liệu và hỗ trợ xác định các tập phổ biến, tập ứng viên, và xây dựng các luật kết hợp.

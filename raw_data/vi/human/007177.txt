@@ -1,1 +1,0 @@
-Dữ liệu thực nghiệm Đối với dữ liệu thực nghiệm em tạo bộ dữ liệu bằng hai cách là tạo bằng hàm tạo lỗ và xây dựng một trang web để thu thập dữ liệu một cách thực tế. Ch tết như sau:

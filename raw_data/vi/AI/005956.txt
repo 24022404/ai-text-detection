@@ -1,7 +1,0 @@
-Nghiên cứu ứng dụng các mô hình học máy để dự báo chỉ số chất lượng nước mặt vùng bán đảo Cà Mau đang được thực hiện nhằm đánh giá và dự báo tình hình chất lượng nước mặt tại khu vực này. Mục tiêu của nghiên cứu này là xây dựng mô hình dự báo chất lượng nước mặt dựa trên dữ liệu lịch sử và các yếu tố ảnh hưởng đến chất lượng nước.
-
-Các mô hình học máy được sử dụng trong nghiên cứu này bao gồm mô hình hồi quy, mô hình quyết định cây, và mô hình hỗ trợ vector. Dữ liệu được thu thập từ các trạm quan trắc nước mặt tại khu vực Cà Mau và được phân tích để xác định các yếu tố ảnh hưởng đến chất lượng nước.
-
-Kết quả nghiên cứu cho thấy rằng các mô hình học máy có thể dự báo chính xác chỉ số chất lượng nước mặt tại khu vực Cà Mau. Mô hình hồi quy cho thấy rằng các yếu tố như lưu lượng nước, độ pH, và lượng chất rắn trong nước có ảnh hưởng lớn đến chất lượng nước. Mô hình quyết định cây và mô hình hỗ trợ vector cũng cho thấy được hiệu quả trong việc dự báo chất lượng nước.
-
-Nghiên cứu này có ý nghĩa quan trọng trong việc đánh giá và dự báo tình hình chất lượng nước mặt tại khu vực Cà Mau, giúp các cơ quan chức năng và người dân có thể đưa ra quyết định sáng suốt trong việc bảo vệ và quản lý nguồn nước.

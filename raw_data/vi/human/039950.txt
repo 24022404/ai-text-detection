@@ -1,1 +1,0 @@
-Kh này policy gradient trở thành NNX =1TX Bằng cách này, ta cân bằng được các giá trị điểm thưởng và giúp cho việc học của agent được dễ dàng hơn.

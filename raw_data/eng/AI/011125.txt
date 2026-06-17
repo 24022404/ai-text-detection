@@ -1,1 +1,0 @@
-Master-slave synchronization may lead to data delays, and if a host failure occurs before all data is synchronized to the slave, it can result in inconsistencies between the master and slave data.

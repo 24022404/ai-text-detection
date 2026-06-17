@@ -1,1 +1,0 @@
-Các yêu cầu về thứ tự tính toán có thể được bểu dễn thành đồ thị tính toán, vớ điỉnh là các trình tính toán, mỗ cạnh có hướng đi từ chỉ báo cần tính toán trước cho điến chỉ báo được tính toán sau. Khở điầu của đồ thị là phần thu thập dữ liệu giao dịch, và không tồn tạ chu trình trong đồ thị tính toán trên.

@@ -1,9 +1,0 @@
-Objective: Bridging the gap between synthetic training data and real‐world imagery is crucial for reliable monocular depth estimation, yet existing models often suffer performance drops due to domain shift. This paper introduces Domain Decluttering, a novel image-simplification framework designed to reduce scene complexity in synthetic data, thereby improving transfer to real domains.
-
-Methods: We propose a two‐stage pipeline. First, a lightweight decluttering module identifies and attenuates non-informative regions—such as textured backgrounds and spurious objects—using a combination of saliency detection and semantic segmentation. Second, the simplified images are used to train a standard convolutional depth estimation network. By focusing learning on essential geometric cues, the approach requires no architectural changes to downstream estimators and incurs minimal computational overhead.
-
-Results: Experiments on popular benchmarks demonstrate that models trained with Domain Decluttering outperform baseline networks by 12% in mean absolute depth error (MAE) and reduce scale-invariant log error by 9% when evaluated on real‐world datasets (e.g., KITTI, NYU Depth V2). Ablation studies confirm that both the saliency and segmentation components contribute substantially to performance gains, and that our method generalizes across different synthetic data generators.
-
-Conclusion: Domain Decluttering offers a simple yet effective way to mitigate synthetic-to-real domain shift in depth estimation. By removing visual clutter during training, it enhances model robustness and accuracy without complex domain‐adaptation schemes. This work paves the way for more reliable depth sensing in applications ranging from autonomous navigation to augmented reality.
-
-Keywords: domain shift, image simplification, depth estimation, synthetic-to-real transfer, semantic segmentation, saliency detection.

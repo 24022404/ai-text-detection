@@ -1,1 +1,0 @@
-Hệ thống cập nhật trạng thái đơn tuyển dụng của ứng vên: chưa điược tuyển dụng, điã điược tuyển dụng, điang xử lý, bị hủy.6. Hỗ trợ chức năng quản trị chung hệ thống (admin) trong đó người quản trị chung có thể đăng các bài chia sẻ kinh nghiệm, quản lý người dùng, quản lý các địa điểm, quản lý phần quảng cáo ở trang chủ, quản lý các phản hồi từ ứng viên và nhà tuyển dụng.

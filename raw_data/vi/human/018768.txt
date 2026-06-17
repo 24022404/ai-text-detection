@@ -1,1 +1,0 @@
-Phương thức kết xuất: Ở dạng tối thiểu, một component phả xác định một phương thức kết xuất chỉ định cách thành phần kết xuất vớ DOM.

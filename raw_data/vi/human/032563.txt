@@ -1,1 +1,0 @@
-Phương pháp thực nghiệm: Thu thập và xử lý các dữ liệu liên quan đến du lịch Hà Nội. Tiến hành cài đặt hệ thống.

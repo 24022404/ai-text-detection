@@ -1,1 +1,0 @@
-Tên thuộc tính Kiểu dữ liệu Phạm vi truy cập Mô tả Search Keyword Text Public Tên sản phẩm cần tìm kiếm StartIndex Int Public Vị trí bắt đầu khi phân trang sản phẩm Max Record In Public Số lượng sản phẩm tố địa được hiển thị Product List Array Public Danh sách sản phẩm Bảng 4.4: Mô tả ch tết phương thức trong lớp ProductIon.

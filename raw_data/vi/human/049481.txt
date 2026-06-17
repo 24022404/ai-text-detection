@@ -1,1 +1,0 @@
-Quản lý đánh giá Tên ca sử dụng: Quản lý đánh giá ID:14 Tác nhân chính: Quản trị viên Mục điích: Quản lý đánh giá Mô tả: Ca sử dụng này mô tả công việc quản lý đánh giá Kịch hoạt: Quản trị vên chọn quản lý đánh giá Luồng sự kện chính:

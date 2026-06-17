@@ -1,9 +1,0 @@
-Objective: We propose a novel framework for speech-driven facial reenactment that synthesizes realistic talking-head videos directly from audio input. By tightly coupling voice signals with facial motion, our approach addresses the challenge of generating coherent lip movements and expressions in sync with arbitrary speech.
-
-Methods: Our system employs a conditional Generative Adversarial Network (cGAN) composed of an audio encoder, a spatial-temporal face generator, and a multi-scale discriminator. The audio encoder extracts phoneme-level features from raw speech, which are then fed into a recurrent module to capture temporal dynamics. The face generator uses these features to predict dense landmark displacements and texture variations that drive frame-by-frame rendering. A discriminator network enforces both visual fidelity and audio-visual synchronization by evaluating realism at multiple resolutions.
-
-Results: Experiments on two public datasets demonstrate that our cGAN outperforms state-of-the-art baselines in landmark accuracy (average L2 error reduced by 18%), lip-sync quality (measured by the Lip Sync Error rate), and perceptual realism (user preference rate of 85% in A/B tests). Ablation studies confirm the importance of multi-scale discrimination and temporal modeling for stable, artifact-free animation.
-
-Conclusion: This work introduces an end-to-end speech-to-video pipeline that achieves high-quality, real-time facial reenactment without requiring paired video–audio training samples. Our contributions pave the way for applications in virtual avatars, video conferencing, dubbing, and digital content creation.
-
-Keywords: speech-driven animation, facial reenactment, conditional GAN, audio-visual synthesis, talking-head generation.

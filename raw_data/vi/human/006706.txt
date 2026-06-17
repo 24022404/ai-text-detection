@@ -1,1 +1,0 @@
-Hơn nữa, việc sử dụng S3 giúp bạn tiết kệm chi phí lưu trữ, bởi vì bạn chỉ trả tiền cho lượng dữ liệu thực sự sử dụng.

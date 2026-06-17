@@ -1,1 +1,0 @@
-ORM Overview ORM (Object Relational Mapping) is a concept or technique which acts as abridge between your programming language and your database. The Object Rela tional Mapping helps to execute SQL queries without writing them explicitly. Once the ORM is configured in an application, the user can use the OOP concepts like classes and objects to interact with the database.

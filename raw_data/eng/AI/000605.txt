@@ -1,9 +1,0 @@
-This graduation thesis introduces ARNav, an innovative Augmented Reality (AR) indoor navigation mobile application, addressing the growing need for intuitive and accurate navigation systems within complex indoor environments. The increasing complexity of modern buildings and the limitations of traditional navigation methods motivate this research, highlighting the importance of developing a user-friendly and efficient solution.
-
-The primary objectives of ARNav are to design and develop a mobile application that utilizes AR technology to provide users with a seamless and immersive indoor navigation experience, reducing navigation errors and enhancing overall user satisfaction. Specifically, this research aims to solve the problems of wayfinding and orientation within large indoor spaces, such as shopping malls, airports, and museums.
-
-To achieve this, a hybrid approach combining AR, computer vision, and mobile sensing technologies is employed. The system architecture of ARNav incorporates a markerless tracking algorithm, enabling users to navigate through indoor spaces using their mobile device's camera and sensor data.
-
-The results of this research demonstrate the effectiveness of ARNav in improving indoor navigation, with users experiencing reduced navigation time and increased satisfaction. The expected contributions of this research include the development of a novel AR-based indoor navigation system, providing a foundation for future research and real-world applications in various industries.
-
-In conclusion, ARNav offers a significant advancement in indoor navigation, leveraging the potential of AR technology to enhance user experience. Future developments may focus on integrating additional features, such as accessibility support and personalized routing, to further enhance the application's functionality and usability.

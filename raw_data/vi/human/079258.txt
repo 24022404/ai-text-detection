@@ -1,1 +1,0 @@
-File BallSpellBehavour Class: lớp kế thừa lớp SpellBehavour, lớp này định nghĩa một hành vi riêng của một spell, cụ thể spell này sẽ nổ lan ra xung quanh kh phát hiện va chạm hoặc khi hết thờ gan tồn tại, gây sát thương cho toàn bộ kẻ địch trong bán kính nổ.

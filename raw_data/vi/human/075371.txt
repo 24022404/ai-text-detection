@@ -1,1 +1,0 @@
-USB cho phép kết nối với máy tính, thường dùng nạp mã code từ máy tính sang board mạch Arduino.

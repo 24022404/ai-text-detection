@@ -1,1 +1,0 @@
-I. Misra andL. v. d. Maaten, “Self-supervised learning of pretext-invariant representations,” inProceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.

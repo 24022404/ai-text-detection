@@ -1,1 +1,0 @@
-Not every business logic requires real-time execution. Add new tasks for nonreal-time requirements to minimize server response time. For example, after cre ating a lesson, we might wish to make a flashcard collection based on that lesson.

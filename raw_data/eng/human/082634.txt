@@ -1,1 +1,0 @@
-Services: contains functions that handle the application logic, because it is separate from the controller, so the services are highly reusable and easy to access.

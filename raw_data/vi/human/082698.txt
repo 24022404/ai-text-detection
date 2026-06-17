@@ -1,1 +1,0 @@
-Hỗ trợ các công cụ quản lý cơ sở dữ liệu: MySQL cung cấp các công cụ quản lý cơ sở dữ liệu như MySQL Workbench, giúp quản trị viên có thể quản lý cơ sở dữ liệu một cách hiệu quả.

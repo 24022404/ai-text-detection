@@ -1,1 +1,0 @@
-Angular Highcharts is a powerful library that integrates Highcharts, a popular JavaScript charting library, with Angular, a widely-used web application framework. It provides developers with a seamless and convenient way to create interac tive and visually appealing charts and graphs within Angular applications.

@@ -1,1 +1,0 @@
-Giới thiệu MySQL là một hệ quản trị cơ sở dữ lệu mã nguồn mở (RDBMS  Relational Database Management System) được phát triển bởi một công ty tư nhân tại Thụy Điển. Nó là một trong những hệ quản trị cơ sở dữ lệu phổ biến nhất trên thế giới và được sử dụng rộng rãi trong các ứng dụng web và doanh nghiệp. MySQL hỗ trợ nhiều hệ điều hành, bao gồm Windows, macOS và các hệ thống Linux.

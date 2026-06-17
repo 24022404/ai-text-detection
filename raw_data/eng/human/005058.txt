@@ -1,1 +1,0 @@
-Start Figure 2.4 is the sequence diagram of Start gameplay feature. After the playerpresses Play on the Canvas Choose Map and the Loading Manager finishes load ing the data, the GameManager will trigger a few other classes to start the main gameplay.

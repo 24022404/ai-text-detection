@@ -1,1 +1,0 @@
-Mật mã học (cryptography) là một lĩnh vực lên quan đến các kỹ thuật ngôn ngữ học và toán học điể điảm bảo an toàn thông tin, cụ thể là trong thông tin lên lạc.

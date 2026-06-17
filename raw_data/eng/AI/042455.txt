@@ -1,9 +1,0 @@
-Objective: Self-supervised learning (SSL) has emerged as a powerful paradigm for representation learning without manual labels, yet it often lags behind supervised methods in capturing high-level semantic features. This paper introduces a novel framework—Knowledge-Boosted Self-Supervision (KBSS)—that leverages knowledge transfer from a pretrained supervised “teacher” model to enhance SSL pretraining.
-
-Methods: KBSS integrates three core components into existing contrastive SSL pipelines: (1) Feature Alignment, which minimizes the distance between teacher and student embeddings on unlabeled samples; (2) Attention Transfer, which encourages the student’s attention maps to mimic the teacher’s salient regions; and (3) Consistency Regularization, which enforces agreement between teacher and student under input augmentations. This design is model-agnostic and can be applied alongside SimCLR, MoCo, or other contrastive frameworks.
-
-Results: On ImageNet linear evaluation, KBSS achieves a top-1 accuracy of 75.3%, outperforming SimCLR (+3.8%) and MoCo v2 (+2.9%) under similar pretraining budgets. Transfer learning experiments on CIFAR-10, COCO object detection, and PASCAL VOC segmentation demonstrate average improvements of 2–5% in downstream task performance. KBSS also accelerates convergence, reducing required epochs by up to 25%.
-
-Conclusion: By explicitly distilling semantic cues from supervised teachers, KBSS narrows the gap between self- and fully supervised learning, yielding richer representations and faster training. This work highlights the value of knowledge transfer as a general strategy for advancing SSL methods.
-
-Keywords: self-supervised learning, knowledge transfer, knowledge distillation, representation learning, contrastive learning.

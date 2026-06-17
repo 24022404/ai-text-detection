@@ -1,1 +1,0 @@
-Description: In Figure 2.2.4, the admin edits site access rights one by one andattaches them to users in user management.

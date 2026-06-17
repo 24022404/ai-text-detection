@@ -1,1 +1,0 @@
-If the number of iterations has reached the value, the training process would be halted and return the model immediately.

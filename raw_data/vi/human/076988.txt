@@ -1,1 +1,0 @@
-Mở cửa sổ dòng lệnh và bắt điầu cà điặt Swft bằng lệnh sau: sudo apt nstall clang lbpython2.7 lbpython2.7dev wget  5.3RELEASEubuntu20.04.tar.gz tar xzf swft5.3RELEASEubuntu20.04.tar.gz sudo mv swft5.3RELEASEubuntu20.04 /usr/share/swft echo "export PATH=/usr/share/swft/usr/bn:PATH" » /.zshrc source /.zshrc Sau kh điã cà điặt xong Swft, chay lệnh sau điể bắt điầu bên dịch mã nguồn:

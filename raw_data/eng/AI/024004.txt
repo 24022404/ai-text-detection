@@ -1,9 +1,0 @@
-Objective: Traditional resizing operations in convolutional neural networks (CNNs)—such as fixed pooling or interpolation—lack flexibility to adapt feature-map dimensions to task-specific needs. We propose Shape Adaptor, a novel learnable resizing module that dynamically adjusts spatial and channel dimensions within deep architectures to improve representational efficiency and task performance.
-
-Methods: Shape Adaptor embeds differentiable scaling parameters into standard resizing layers. During training, the module jointly optimizes scale factors for height, width, and channel depth via backpropagation, guided by a regularization term that encourages stability and prevents degenerate shapes. It can be seamlessly inserted between convolutional blocks or used in multi-branch network designs without altering existing optimization pipelines.
-
-Results: We evaluate Shape Adaptor on image classification (CIFAR-100, ImageNet), object detection (COCO), and semantic segmentation (Cityscapes). Compared to fixed pooling and interpolation baselines, networks equipped with Shape Adaptor achieve up to 2.5% higher top-1 accuracy on ImageNet and 1.8% mAP improvement on COCO, while maintaining comparable inference cost. Ablation studies demonstrate that learned resizing yields more discriminative feature maps and accelerates convergence by 15% on average.
-
-Conclusion: By transforming resizing from a hand-crafted to a learnable operation, Shape Adaptor enhances model adaptability and performance across diverse vision tasks. Its plug-and-play design and minimal overhead make it a practical tool for network architecture optimization, efficient feature aggregation, and dynamic resource allocation.  
-
-Keywords: Shape Adaptor, learnable resizing, deep learning, convolutional neural network, dynamic scaling.

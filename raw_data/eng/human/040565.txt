@@ -1,1 +1,0 @@
-Executing a smart contract includes interacting with the blockchain network,which calls for consensus among network nodes, transaction verification, and con tract code execution. Data retrieval from smart contracts is comparably slower and more resource-intensive than regular database queries due to the additional delay and overhead introduced by these procedures.

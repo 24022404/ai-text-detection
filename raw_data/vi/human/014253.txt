@@ -1,1 +1,0 @@
-Trong Chương 3, tô giới thiệu chi tiết về các công nghệ sử dụng trong quá trình xây dựng phát triển trang web mạng xã hội video. Bao gồm các nội dung như khá nệm, ưu điểm của các công nghệ. Lý do sử dụng công nghệ đốt trong dự án.

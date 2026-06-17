@@ -1,1 +1,0 @@
-–Config: chứa các file cấu hình –Server: chứa các hàm để xử lý các yêu cầu nghiệp vụ Tầng lưu trữ dữ lệu:

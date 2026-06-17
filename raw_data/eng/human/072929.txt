@@ -1,1 +1,0 @@
-Database design The social network system uses a relational database (SQL) with the advantages mentioned in the previous section. Database using PostgreSQL technology.Description of the tables in the database Users Store information about users participating in the system, including name, username, avatar url,..

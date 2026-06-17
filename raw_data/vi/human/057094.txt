@@ -1,1 +1,0 @@
-Mô hình client server có nhiều ưu điểm như khả năng phân tán hóa, tăng khả năng mở rộng, cải thiện hiệu suất, tăng tính bảo mật và giảm thiểu chi phí. Ngoài ra, mô hình này còn cho phép phát triển ứng dụng trên nhiều nền tảng và thiết bị khác nhau.

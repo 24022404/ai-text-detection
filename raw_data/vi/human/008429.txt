@@ -1,1 +1,0 @@
-Ngoài ra, tạ màn hình mobile và màn hình desktop có một sự khác biệt giữa thanh navigation bar đó là: màn hình desktop có 3 button là “Trang chủ”, “Nộp CV”, “Đăng nhập” trong khi đó ở màn hình mobile chỉ xuất hiện hà button “Trang chủ” và “Nộp CV”.

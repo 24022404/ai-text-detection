@@ -1,1 +1,0 @@
-MoSIFT MoSIFT  is an extension of the popular SIFT  image descriptor for video. The standard SIFT extracts histograms of oriented gradients in the image.

@@ -1,1 +1,0 @@
-Như điã khá quát ở phần 3.3, các tín hiệu hồng ngoại về bản chất là các câu lệnh nhị phân được mã hóa bằng một thuật toán hay giao thức truyền. Mỗ một câu lệnh, hay một "nút bấm", sau khi được gả mã có thể được biểu diễn bằng object như ảnh 4.4 Hình 4.4: Đối tượng mô tả một câu lệnh hồng ngoại Trong đó:

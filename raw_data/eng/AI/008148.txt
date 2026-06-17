@@ -1,1 +1,0 @@
-Convolutional layers commonly use odd-sized filters, such as 3x3 or 5x5, because these sizes provide a distinct central pixel, making it easier to define a focal point and align the feature map with the image. In contrast, even-sized filters can cause ambiguity in pixel positioning within the image.

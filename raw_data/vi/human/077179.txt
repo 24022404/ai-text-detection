@@ -1,1 +1,0 @@
-Trong trường hợp điỉnh điã có trong tập hợp Vthì không có gì điược thêm vào tập hợpV. Tương tự ở trên, thuật toán 1 sẽ tạo điỉnh chế điộ (điỉnh b) và cạnh quyết định điể trả lờ cho câu hỏ ở dòng 10.

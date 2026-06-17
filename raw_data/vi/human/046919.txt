@@ -1,1 +1,0 @@
-Ứng dụng sử dụng thư viện hỗ trợ thiết kế giao diện, với các mục như nút, trường dữ liệu,... do đió tạo được sự nhất quán và đồng điều trong thiết kế.

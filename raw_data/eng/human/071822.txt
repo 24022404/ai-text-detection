@@ -1,1 +1,0 @@
-Sensitive Data Exposure: If the activity allows access to sensitive data, such as user information or system resources, based on the external URL.

@@ -1,1 +1,0 @@
-Làm mở vớ thêm nhạo Tuỳ vào từng máy ảnh và điều kiện môi trường, ảnh có thể có độ mờ, nét khác nhau. Vì vậy em thêm phép này để có thể phủ được những trường hợp đó. Trong phép này em sử dụng ngẫu nhiên sự kết hợp của những phép sau đây:

@@ -1,1 +1,0 @@
-Server Sde Renderng (SSR) : SSR là một cách hển thị các ứng dụng web trên máy chủ và sau đió gử phản hồ và nộ dung lạ cho người dùng. Đều này có nghĩa là kh người dùng mở một ứng dụng web, một yêu cầu điược gử đến máy chủ trả về phản hồ cùng với nộ dung, tức là HTML, CSS, JavaScrpt và các nộ dung kháccần thết điể hển thị trang cho người dùng.

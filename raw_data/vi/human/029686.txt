@@ -1,1 +1,0 @@
-Các màu sắc về trạng thái hoặc kích cỡ phông chữ cũng đều được quy định sẵn, tạo nên sự đồng bộ giữa các màn hình chức năng.

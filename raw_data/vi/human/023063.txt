@@ -1,1 +1,0 @@
-Một ví dụ về ứng dụng tìm kiếm của Semantic Web là Google Knowledge Graph cơ sở tri thức được Google và các dịch vụ của nó sử dụng điểm nâng cao kết quả của công cụ tìm kiếm với thông tin được thu thập từ nhiều nguồn khác nhau.

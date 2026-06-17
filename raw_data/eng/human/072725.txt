@@ -1,1 +1,0 @@
-Postconditions : The selected file is highlighted or marked, enabling the user to proceed with additional operations.2.2.3 Login/Register Use Case Figure 2.4: Use Case Diagram for Task and Project Management ApplicationTheLogin/Register use case allows users to authenticate and manage their ac cess to the system. This use case is decomposed into the following sub-use cases:

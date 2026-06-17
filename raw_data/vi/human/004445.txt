@@ -1,1 +1,0 @@
-Đồng nhất hóa các yếu tố thiết kế như cỡ chữ, màu sắc, phông chữ, hình ảnh và các thành phần khác trong giao diện. Điều này giúp người dùng dễ dàng nhận ra các thành phần và hiểu được cách tương tác với chúng một cách chính xác và thuận tiện.

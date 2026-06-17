@@ -1,1 +1,0 @@
-J. Shang, J. Lu, M. Jang, X. Ren, C. R. Voss and J. Han, “Automated phrase mining from massive text corpora,” IEEE Transactions on Knowledge and Data Engineering ,journal 30,number 10,pages 1825–1837, 2018.

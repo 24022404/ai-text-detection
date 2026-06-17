@@ -1,1 +1,0 @@
-Detailed use case "Upgrade Account" Figure 2.5: "Upgrade Account" detailed use case diagram Similar to 2.4, this use case also require users to be logged in. The use case includes (i)selecting package, (ii)selecting package duration, (iii)making payment, and (iv)redeeming the codes.

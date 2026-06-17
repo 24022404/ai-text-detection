@@ -1,1 +1,0 @@
-Việc lưu trữ chứng thư hay cặp khóa trong Softhsm được đảm bảo bên trong một đơn vị gọi là slot. Quản trị viên cần phải tạo các slot này để có thể chứa được các thông tin trên trong Softhsm Giả thích các thuật ngữ trong ký số từ xa:

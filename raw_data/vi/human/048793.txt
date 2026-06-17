@@ -1,1 +1,0 @@
-Kịch bản: 1.0 Đăng nhập 1. Ngườ dùng nhấp vào nút đăng nhập trong têu điề điể truy cập trang Đăng nhập 2. Nhập tên người dùng và mật khẩu 3. Ngườ dùng ấn vào nút đăng nhập 4. Hệ thống kểm tra tài khoản 5. Ngườ dùng đăng nhập thành công 6. Hển thị trang chứa các chức năng tương ứng với va trò của người dùng.

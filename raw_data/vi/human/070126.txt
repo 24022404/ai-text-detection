@@ -1,1 +1,0 @@
-A.1 Đặc tả use case “Đăng ký” Mã use case UC08 Tên use case Đăng ký Tác nhân Khách Tiền điều kện Trang web ở trạng thái chưa đăng nhập Khách chưa có tài khoản Luồng sự kiện chính (thành công)1. Khách chọn chức năng đăng ký 2. Hệ thống hiển thị giao diện đăng ký 3. Khách nhập thông vào các trường cần thiết trên form đăng ký 4. Khách gửi yêu cầu đăng ký.

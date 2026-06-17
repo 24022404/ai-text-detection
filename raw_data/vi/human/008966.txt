@@ -1,1 +1,0 @@
-Hệ thống điã điược xây dựng và đióng gói thành các file zp. Trong các file zp gồm có source code và một file hướng dẫn cài đặt thực thi source code.

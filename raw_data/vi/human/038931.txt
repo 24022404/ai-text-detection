@@ -1,1 +1,0 @@
-Cryptojs Cryptojs là một dạng thư viện cung cấp hash function thường sử dụng để mã hóa password với mục đích tăng cường bảo mật.

@@ -1,1 +1,0 @@
-Module OS trong Python cung cấp các chức năng được sử dụng điểm tương tác với hệ điều hành và cũng có được thông tin lên quan về nó. OS đi theo các Module tiện ích tiêu chuẩn của Python. Module này cung cấp một cách linh động sử dụng chức năng phụ thuộc vào hệ điều hành.

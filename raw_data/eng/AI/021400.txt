@@ -1,9 +1,0 @@
-Objective: Off-policy temporal-difference (TD) control methods such as Greedy-GQ are powerful for learning optimal policies in reinforcement learning (RL) but suffer from high variance and slow convergence. This paper introduces a variance-reduced Greedy-GQ algorithm and provides the first finite-time performance guarantees with improved complexity over classical approaches.
-
-Methods: We incorporate a popular variance-reduction technique—stochastic variance-reduced gradient (SVRG)—into the Greedy-GQ framework. The resulting algorithm, VR-Greedy-GQ, operates on a single time-scale and alternates between policy evaluation and variance-reduction correction steps. We analyze its convergence under standard Markovian sampling and mixing conditions, leveraging novel Lyapunov function arguments to bound both bias and variance terms.
-
-Results: Our finite-time analysis shows that VR-Greedy-GQ achieves an ε–accurate stationary point of the projected Bellman error in Õ(ε⁻³ᐟ²(1–γ)⁻²) sample complexity, improving upon the Õ(ε⁻²(1–γ)⁻³) rate of classical Greedy-GQ. Empirical evaluations on benchmark control tasks confirm up to 40% faster convergence and reduced variance in gradient estimates compared to baselines.
-
-Conclusion: By integrating variance reduction into Greedy-GQ, this work significantly accelerates off-policy control learning while retaining a simple, single–timescale implementation. The finite-time bounds deepen theoretical understanding of variance-reduced TD methods and suggest promising directions for scalable, sample-efficient RL.
-
-Keywords: Greedy-GQ, variance reduction, reinforcement learning, finite-time analysis, sample complexity, off-policy control.

@@ -1,1 +1,0 @@
-For example, the graph in figure 2.2 represents a (d, k)-RLL code. It can be verified that a sequence wsatisfies the (d, k)-RLL constraint if and only if a path whose edge labeling is wexists in the graph.

@@ -1,1 +1,0 @@
-View : Thành phần này sẽ thực hiện nhiệm vụ hiển thị giao diện và xử lý tương tác với người dùng. Tầng Web trao đổi trực tiếp vớ tầng Controller điểm thực hiện các thao tác với dữ lệu và gửi các yêu cầu xử lý logic nghiệp vụ tương ứng.

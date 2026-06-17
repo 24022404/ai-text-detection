@@ -1,1 +1,0 @@
-X. Zhao, R. Vemulapalli, P. A. Mansfield, et al. , “Contrastive learning forlabel efficient semantic segmentation,” in Proceedings of the IEEE/CVF In ternational Conference on Computer Vision , 2021, pp. 10 623–10 633.

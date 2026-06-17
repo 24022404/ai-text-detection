@@ -1,1 +1,0 @@
-This sub-use case enables users to generate and download comprehensive reports in formats such as PDF or JSON. The reports summarize all monitored API calls, including details of network requests and any suspicious activities, providing valuable insights for analysis or sharing.

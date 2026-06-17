@@ -1,1 +1,0 @@
-MySQL is known for its speed, reliability, and scalability, and it can handlelarge amounts of data efficiently. It supports various data types, including inte gers, decimals, dates, and times, and offers advanced features such as transactions, replication, and security.

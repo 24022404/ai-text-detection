@@ -1,1 +1,0 @@
-Dữ liệu văn bản Text Document.txt: Mỗ dòng trong file là một tài liệu văn bản. Tài liệu này được xử lý trước và sẽ là dữ liệu chính điểm đào tạo word2vec. Với các cụm từ chất lượng được lấy từ AutoPhase ở trên, phải sử dụng cặp thẻ < phrase >< /phrase > điểm đánh dấu lạ.

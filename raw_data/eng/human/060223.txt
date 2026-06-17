@@ -1,1 +1,0 @@
-Z. Islam, M. Rukonuzzaman, R. Ahmed, M. Kabir andM. Farazi, “Efficient two-stream network for violence detection using separable convolutional lstm,” july 2021, pages 1–8. DOI:10 . 1109 / IJCNN52387 . 2021 .

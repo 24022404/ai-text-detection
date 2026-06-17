@@ -1,1 +1,0 @@
-Tuy nhện, ĐEN vẫn còn có hạn chế là chưa có chức năng tạo kế hoạch sản xuất tự động. Thuật toán dự báo được áp dụng chưa đa dạng, chưa có chức năng cải thiện độ chính xác của dự báo.

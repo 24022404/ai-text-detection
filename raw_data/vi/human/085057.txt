@@ -1,1 +1,0 @@
-Hiện nay số lượng các thiết bị di động ngày càng nhiều, hầu như a cũng mang theo một thiết bị di động bên mình. Để mang lại sự tiện lợi nhất cho người dùng, tô chọn phát trên ứng dụng trên nền tảng mobile với android java thay vì website.

@@ -1,1 +1,0 @@
-Our server is based on the simplified version of microservices architecture, in which most of the main business logic will be handled by our main .NET 6.0 server, while specific tasks will be executed by our services (or workers).

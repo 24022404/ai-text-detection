@@ -1,1 +1,0 @@
-Tìm hiểu nghiên cứu về module truyền thông RF và sóng Radio Frequency Để giải quyết bài toán đặt ra (kết nối từ xa giữa Master  ESP8266 với Slave  Arduino và các cơ cấu chấp hành: bơm, điện, quạt).

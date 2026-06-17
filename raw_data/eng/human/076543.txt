@@ -1,1 +1,0 @@
-Every execute message contained within the executor message enumeration pos sesses a distinct structure and data payload, thereby empowering the smart contract to effectively react to a wide array of interactions originating from users or other entities within the blockchain ecosystem.The following tables provide a more comprehensive description of each execute message:

@@ -1,1 +1,0 @@
-Cung cấp cho người dùng một số lượng lớn các chức năng. Những điều này giúp các lập trình viên tạo các ứng dụng mới, quản trị viên bảo vệ tính toàn vẹn của dữ liệu tốt hơn và các nhà phát triển xây dựng các mô trường linh hoạt và an toàn.

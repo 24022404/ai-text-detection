@@ -1,1 +1,0 @@
-Chương 4: Trình bày phân tích về phát trển và trển kha ứng dụng. Trong đió có phần thiết kế kiến trúc, thiết kế ch tết, xây dựng ứng dụng và trển kha.

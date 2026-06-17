@@ -1,1 +1,0 @@
-Trước khi xóa hóa đơn, hệ thống sẽ đưa ra thông báo xác nhận có chắc chắn xóa hay không.

@@ -1,1 +1,0 @@
-Ta có đạo hàm tại lớp vớ tương ứng với trọng số W(l)=(w(l), b(l)), đầu vào z(l) và hàm mất mát Được tính như sau:

@@ -1,1 +1,0 @@
-If the install parameter is set to 1, env.install_apk() will install the APK with the matching checksum onto the specified device.

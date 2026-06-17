@@ -1,1 +1,0 @@
-Model (Mô hình): Đạ diện cho dữ liệu và quy tắc logc lên quan đến xử lý dữ liệu. Model có trách nhệm lấy và cập nhật dữ liệu từ các nguồn dữ liệu (như cơ sở dữ liệu) và cung cấp các phương thức để truy xuất và thao tác dữ liệu.

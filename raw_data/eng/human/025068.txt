@@ -1,1 +1,0 @@
-Participants can transmit digital assets in an open, secure, and intermediary-freemanner by creating transactions on the blockchain. By using cryptographic algo rithms to authenticate and approve transactions, it ensures the system’s integrity and makes the process tamper-proof and fraud-resistant.

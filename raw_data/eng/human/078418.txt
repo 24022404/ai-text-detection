@@ -1,1 +1,0 @@
-SolutionThe proposed solution for filtering available time for individual providers in volves several key steps. When individual providers register or update their profiles, they will be required to specify their daily time range of availability. This includes setting their working hours and any possible breaks or periods of unavailability.

@@ -1,1 +1,0 @@
-Các tên class được đặt dễ hiểu và thân thiện, nhìn vào class đố và có thể biết được class này nó đang style cá gì.

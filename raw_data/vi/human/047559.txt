@@ -1,1 +1,0 @@
-Module mớ phải tương thích với các phên bản của Magento. Hộ vên phải là người dùng Magento điã có tà khoản, các tùy chọn khuyến mã cho hộ vên phải điược tích hợp vào chức năng tạo mã khuyến mã của Magento. Ngoà ra, các công nghệ sử dụng cũng phải tuân theo framework Magento.

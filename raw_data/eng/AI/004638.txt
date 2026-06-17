@@ -1,1 +1,0 @@
-As a monolithic application expands, its code base increases in complexity, making it harder for developers to comprehend, maintain, and effectively manage the system.

@@ -1,1 +1,0 @@
-value) lưu dưới dạng BSON. collection: Nếu cơ sở dữ lệu quan hệ sử dụng các bảng (table) để lưu trữ dữ lệu thì MongoDB sử dụng collection. Collection là nhóm của nhiều document, và ta cũng không cần phải định nghĩa các cột, hàng hay kiểu dữ lệu trước.

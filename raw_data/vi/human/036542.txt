@@ -1,1 +1,0 @@
-Truyền tải dữ liệu: Khi kết nố và kênh truyền thông điã điược thết lập, cácngười dùng có thể truyền tải dữ liệu hình ảnh và âm thanh trực tiếp giữa các người dùng. Dữ liệu sẽ được đóng gói và truyền qua kết nối WebRTC, đi từ nguồn gốc đến đích mà không thông qua máy chủ trung gian. Quá trình này giúp giảm độ trễ và tối ưu hiệu suất truyền tả.

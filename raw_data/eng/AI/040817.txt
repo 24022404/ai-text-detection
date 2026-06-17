@@ -1,1 +1,0 @@
-OpenCV provides robust tools for computer vision and machine learning, enabling efficient solutions for various applications in numerous industries.

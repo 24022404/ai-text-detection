@@ -1,1 +1,0 @@
-MethodologyManifest Inspection: The first step is to parse the app’s AndroidMan ifest.xml file to identify activities with the exported attribute set totrue .

@@ -1,1 +1,0 @@
-Cấu trúc dữ liệu của bà báoNet Tao là thuật toán xây dựng cấu trúc phân loại chủ đề sử dụng dữ liệu "Text arch network". tập dữ liệu đầu vào và dữ liệu văn bản còn cần có các siêu dữ liệu lên kết tương ứng. Các siêu dữ liệu này là thông tin liên quan đến bài báo gồm có:

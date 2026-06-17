@@ -1,1 +1,0 @@
-Performance, convergence: multiple instances concurrency control (MVCC), table partitioning, parallel read queries, advanced cataloging, scheduling, complicatedaccess optimizer, multi-column statistics, index-only scanning, transaction transaction test format, and disaster recovery Replication, Score-ahead Logging (WAL), and Restore Score - Time, Table.

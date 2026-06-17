@@ -1,1 +1,0 @@
-Loại bỏ thành viên 1. Người dùng vào màn hình xem chi tiết thông tin cuộc hội thoại.2. Hệ thống hiển thị thông tin chi tiết cuộc hội thoại, trong đó có thông tin về danh sách thành viên trong cuộc hội thoại.

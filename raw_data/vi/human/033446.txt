@@ -1,1 +1,0 @@
-response Kết quả trả về Bảng 4.10: Mô tả các trường sử dụng trong API của Chat GPT Dưới đây là mẫu một yêu cầu gửi tới Chat GPT POST  Headers:

@@ -1,1 +1,0 @@
-() Tền điều kiện: không yêu cầu điều kiện (và) Hậu điều kiện: sau khi thực hiện Usecase trang chủ sẽ chuyển hướng khách hàng tới trang thông tin sản phẩm và hiển thị các thông tin như hình ảnh, mô tả, giá bán, số lượng.

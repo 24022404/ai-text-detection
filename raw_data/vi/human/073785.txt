@@ -1,1 +1,0 @@
-Thư viện và công cụ sử dụng Dưới đây là bảng liệt kê các công cụ, ngôn ngữ lập trình, thư vện, v.v. điã điược sủ dụng trong quá trình phát triển ứng dụng, kèm mục đích của mỗi công cụ, phiên bản cũng như đường dẫn đến trang chủ để tham chiếu.

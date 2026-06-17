@@ -1,1 +1,0 @@
-Popup đóng lại, hiển thị thông báo và hiển thị danh sách khóa học mới theo như đã chọn.Đạt 4 Kiểm tra tính năng đổi vị trí các khóa học 1. Click chuột trái vào biểu tượng 3 dấu gạch ngang và giữ chuột.

@@ -1,1 +1,0 @@
-Thư viện này được sử dụng điểm có thể chuẩn bị dữ liệu và áp dụng thuật toán Apriori, từ đó tìm ra các mẫu phổ biến (itemsets), điều này rất hữu ích trong việc phân tích hành vi mua sắm, tìm kiếm quy luật kết hợp, và đưa ra các gợi ý sản phẩm mua kèm.

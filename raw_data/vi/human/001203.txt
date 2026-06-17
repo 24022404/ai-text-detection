@@ -1,1 +1,0 @@
-Kiểm thử hộp đen là một phương pháp kiểm thử phần mềm được thực hiện mà không biết được cấu tạo bên trong của phần mềm, là cách mà các tester kiểm tra xem hệ thống như một chiếc hộp điện, không có cách nào nhìn thấy bên trong của cá hộp.

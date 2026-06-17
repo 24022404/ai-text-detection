@@ -1,1 +1,0 @@
-Bộ gả mã được kết nối trực tếp với bộ mã hóa thông qua các kết nối trực tếp (skp connecton) ở các điộ tầng khác nhau, giúp bộ mã hóa gữ được thông tin ở cả các tầng cấp cao và các tầng cấp thấp điể tính toán điầu ra phân vùng ngữnghĩa cuố cùng.

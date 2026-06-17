@@ -1,1 +1,0 @@
-Use case tạo sản phẩm cho phép người dùng tạo một sản phẩm mới trên hệ thống. Kh người dùng truy cập vào use case này, hệ thống sẽ yêu cầu người dùng nhập các thông tin cần thiết cho sản phẩm, bao gồm tên sản phẩm, mô tả, giá bán và số lượng tồn kho. Sau khi nhập điầy đủ thông tin, người dùng có thể lưu sản phẩm hoặc tiến hành cập nhật thông tin.

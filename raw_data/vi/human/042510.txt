@@ -1,1 +1,0 @@
-Single source of truth: Redux có một "stored" trung tâm điểm lưu trữ trạng thái của ứng dụng, giúp đảm bảo rằng các thành phần UI của ứng dụng sẽ được đồng bộ hóa với trạng thái.

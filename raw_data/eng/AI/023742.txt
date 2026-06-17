@@ -1,9 +1,0 @@
-Objective: Interactive fashion image retrieval systems often struggle to incorporate rich, multi-turn user feedback to refine search results. This paper introduces a conversational retrieval framework that leverages natural language feedback over multiple dialogue turns to progressively narrow down user intent.
-
-Methods: We propose CFIR (Conversational Fashion Image Retrieval), a multimodal architecture combining a vision encoder for garment images and a hierarchical language encoder for user utterances and feedback. At each turn, the model fuses visual features of the top-k retrieved items with the cumulative user feedback using a gated attention mechanism. A reinforcement learning–based reranking policy then selects images most aligned with expressed preferences. To support training and evaluation, we construct FashionConv, a large-scale dataset of simulated and human–annotated multi-turn fashion dialogues, each paired with target images.
-
-Results: Experiments on FashionConv show that CFIR achieves a 14.8% relative improvement in top-10 retrieval accuracy over single-turn baselines and a 9.5% gain over recent multi-turn methods. Ablation studies confirm the effectiveness of our hierarchical feedback encoder and reinforcement learning reranker. Qualitative analyses demonstrate CFIR’s ability to handle nuanced feedback, such as “more floral patterns” or “longer hemlines,” across dialogue turns.
-
-Conclusion: By integrating multi-turn natural language feedback and a dynamic multimodal fusion strategy, CFIR offers a more responsive and precise fashion search experience. This approach can be extended to other interactive recommendation and retrieval domains.  
-
-Keywords: conversational fashion image retrieval, multi-turn dialogue, natural language feedback, multimodal fusion, reinforcement learning.

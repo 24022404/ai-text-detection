@@ -1,1 +1,0 @@
-The final button in the header navigation bar, next to the home icon, is the button to the message page. Below is what the message page looks like.

@@ -1,1 +1,0 @@
-Lớp CV Controller:Controller + get LstCV(): Array + getDataById(): CV + updateCVStatus(): vod + getNumber fCV(): Object Bảng 4.8: Lớp CController Ý nghĩa các phương thức:

@@ -1,1 +1,0 @@
-Nhưng nhược điểm của SSR mang lại sẽ là làm cho server bị quá tải, làm nhiều công việc kh phải xử lý data, và render ra HTML tương ứng với các yêu cầu từ phía người dùng. Vậy nên hiện nay đang thịnh hành một dạng render khác đó chính là CSR viết tắt của Client side rendering .

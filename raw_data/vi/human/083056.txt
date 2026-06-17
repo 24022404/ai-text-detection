@@ -1,1 +1,0 @@
-Thư viện asos là một thư viện HTTP Client, được dùng để hỗ trợ cho việc xây dựng các ứng dụng API.

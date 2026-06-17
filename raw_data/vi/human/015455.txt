@@ -1,1 +1,0 @@
-Vấn đề Thông thường, khi tạo mới sản phẩm người dùng có thể sử dụng tính năng thêm mới sản phẩm đơn lẻ. Để phục vụ cho nhu cầu tạo mới sản phẩm hàng loạt hệ thống điã điược xây dựng chức năng import sản phẩm bằng file excel cho phép tạo nhiều sản phẩm chỉ với một lần import file.

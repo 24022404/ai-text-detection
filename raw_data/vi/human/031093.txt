@@ -1,1 +1,0 @@
-Thư viện phong phú: Python có nhiều thư viện và framework khác nhau điểm hỗ trợ việc phát triển ứng dụng, giúp cho việc lập trình trở nên dễ dàng và hiệu quả hơn.

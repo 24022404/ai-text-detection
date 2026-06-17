@@ -1,1 +1,0 @@
-Phương thức –Build Async: phương thức dùng để khởi tạo lớp cũng như khởi tạo tất cả lớp hành vi được gắn với nhân vật.

@@ -1,1 +1,0 @@
-Mô hình hoàn toàn không sử dụng các kiến trúc Recurrent Neural Network của RAN mà chỉ sử dụng các lớp attention điểu nhúng (embedded) các từ trong câu.

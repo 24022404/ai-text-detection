@@ -1,1 +1,0 @@
-Tensorflow a, FrameworkTo understand what Tensorflow is, we must first know the concept of Frame work in the software field. Framework is the English term meaning "framework".

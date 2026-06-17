@@ -1,1 +1,0 @@
-Bên cạnh đó, framework laravel cũng quá nặng cho ứng dụng di động, khến việc tả trang trở nên chậm chạp.

@@ -1,1 +1,0 @@
-Model nắm gữ trạng thá, cấu trúc, các hành v của dữ lệu được thể hiện và tương tác bở người dùng. Model không phụ thuộc và tương tác trực tếp lên các thành phần khác. Thay vì vậy, khi có thay điổ, nó sẽ thông báo cho những thành phần Vew tương ứng thông qua cơ chế là Observer pattern. Model còn cung cấp phương tiện điể các thành phần khác tương tác lên nó.

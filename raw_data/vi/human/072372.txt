@@ -1,1 +1,0 @@
-Trong phần này em xin phép trình bày về một số thuật toán phổ biến liên quan đến bài toán phát hiện đối tượng và những hạn chế của chúng.

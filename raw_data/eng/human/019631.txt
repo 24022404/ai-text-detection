@@ -1,1 +1,0 @@
-For the item-item algorithm, there is no difference, in other words, the RMSE value is quite large, which means that the performance is still poor.

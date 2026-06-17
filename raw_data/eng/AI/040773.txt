@@ -1,1 +1,0 @@
-D. Reis’s 2022 book, Odoo 15 Development Essentials, published by Packt, offers practical advice for improving Odoo skills and building business applications.

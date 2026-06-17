@@ -1,1 +1,0 @@
-Common package: houses shared items of the website, such as the search bar, models, and directives Component package: houses reusable components used across various parts of the project, such as the header, footer, paging, and more.

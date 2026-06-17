@@ -1,1 +1,0 @@
-() Tền điều kiện: khách hàng cần thực hiện đăng nhập với tài khoản hiện thành viên hiện có trên hệ thống.

@@ -1,1 +1,0 @@
-By storing the mnemonic securely in the backend, the executor can access it when required to sign transactions on behalf of the frontend, thereby ensuring a seamless and secure user experience. Executors serve as verifiers and assigners within the Perdesen Distributed Key Generation (DKG) protocol in the context of the thesis.

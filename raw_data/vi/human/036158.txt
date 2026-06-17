@@ -1,1 +1,0 @@
-■Chức năng video call Hình 4.20: Chức năng video call Hình 4.20 là giao diện màn hình video call. Người dùng có thể bật/tắt camera, mc của mình, gửi emoji, đổi camera, record video và sờ cuộc gọi video.

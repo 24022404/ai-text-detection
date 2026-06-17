@@ -1,1 +1,0 @@
-Thờ gan phản hồi trung bình: 16 gây Thờ gan phản hồi nhanh nhất: 6 gây Thờ gan phản hồi chậm nhất: 20 gây Ảnh 4.31: Biểu đồ thờ gan phản hồi với 100 người dùng đồng thời Đánh giá hiệu năng điốt với trường hợp 200 người sử dụng đồng thờ:

@@ -1,1 +1,0 @@
-Bảo mật cao: Framework tập trung vào việc cung cấp các công cụ và các phương pháp bảo mật điểm giúp bảo vệ ứng dụng trước các lỗ hổng bảo mật phổ biến.

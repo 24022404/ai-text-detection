@@ -1,1 +1,0 @@
-Ở chương 4, em đã trình bày về chức năng đăng nhập đối với tác nhân người dùng, người dùng đăng nhập để phân quyền và quyền của quản trị viên hoặc đại diện trung tâm. Chính vì vậy em đã lựa chọn công nghệ JWT dùng để xác thực đăng nhập và phân quyền người dùng.

@@ -1,1 +1,0 @@
-Để thực hiện thuật toán, việc xây dựng bộ dữ liệu đầu vào là điều cốt lõi, chương này cũng trình bày phương pháp để định dạng các dữ liệu kết hợp với siêu dữ liệu tương ứng nhằm tạo ra chuẩn dữ liệu đầu vào cho thuật toán.

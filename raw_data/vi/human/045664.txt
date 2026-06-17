@@ -1,1 +1,0 @@
-Vị trí của sản phẩm được theo dõi theo thờ gan, từ đó tính toán ra vị trí trung bình của sản phẩm. Trong trường hợp sản phẩm bị thay đổi vị trí đột ngột, tô sẽ so sánh vị trí của sản phẩm so với vị trí trung bình của nó, từ đó xác định sản phẩm có bị lấy đi hay không.

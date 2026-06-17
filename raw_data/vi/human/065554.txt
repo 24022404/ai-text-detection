@@ -1,1 +1,0 @@
-Để đưa ra một góc nhìn toàn cảnh về các chức năng cần có khi điặt phòng khách sạn, em sẽ phân tích, đánh giá và học hỏ từ 3 ứng dụng điặt phòng hàng điầu hiện nay: Bookng, Agoda, ArBNB.

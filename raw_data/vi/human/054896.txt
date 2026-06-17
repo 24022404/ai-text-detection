@@ -1,1 +1,0 @@
-Về phía khách hàng: cần đảm bảo chức năng cơ bản: đăng nhập/đăng ký, tìm kiếm sản phẩm, xem thông tin sản phẩm, lựa chọn sản phẩm cần mua vào giỏ hàng, thanh toán trực tuyến.

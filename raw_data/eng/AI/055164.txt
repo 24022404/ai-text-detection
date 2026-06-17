@@ -1,1 +1,0 @@
-There are two methods to unset the proxy on Android devices. One approach is to programmatically use the setHttpProxy method provided by the Android API, allowing developers to modify proxy settings within their applications. Alternatively, on rooted devices or emulators, running the unset command in the terminal removes proxy environment variables.

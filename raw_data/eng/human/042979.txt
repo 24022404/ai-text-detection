@@ -1,1 +1,0 @@
-Denote the (k, s)-RdB graph to be Gk,s= (Vk−1,s, Ek,s), where Vk−1,sis the set of all vertices and Ek,sis the set of all edges. The following lemmas determining the cardinality of Vk−1,sandEk,s Lemma 2 (Number of vertices ).

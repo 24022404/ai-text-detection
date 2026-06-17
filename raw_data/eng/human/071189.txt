@@ -1,1 +1,0 @@
-Redux Package: Redux is a global state management library that stores and manages the application’s global state. Within this package, there are three main stores:

@@ -1,1 +1,0 @@
-Trong đồ án của mình tác giả sử đã xây dựng hệ thống gợi ý sản phẩm cho người dùng dựa trên các sản phẩm mà người dùng đã mua như sau:

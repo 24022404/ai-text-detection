@@ -1,1 +1,0 @@
-biểu đồ biểu diễn tổng lượng tiền mã hóa của các địa chỉ trong danh sách “sở hữu lượng tiền mã hóa lớn nhất” hay “tổng tài sản lớn nhất. Biểu đồ được biểu diễn theo từng ngày trong tháng gần nhất.

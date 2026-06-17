@@ -1,1 +1,0 @@
-Các ứng dụng đa nền tảng Vì NodeJS có thể chạy trên nhiều nền tảng, bao gồm Windows, macOS, Linux điều này giúp cho việc phát triển và triển khai các ứng dụng trên nhiều nền tảng dễ dàng hơn.

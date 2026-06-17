@@ -1,1 +1,0 @@
-When a user selects the Change Password option, they are prompted to en ter their current password for verification, followed by the new password theywish to set. Upon successful validation, the system updates the user’s pass word and confirms the change.

@@ -1,9 +1,0 @@
-Objective: Deep metric learning aims to map data points into a feature space where distances reflect semantic similarity. However, unconstrained embedding norms often lead to uneven feature distributions and suboptimal class separation. This work introduces a spherical embedding framework that enforces normalized representations on a hypersphere, improving angular discrimination and retrieval performance.
-
-Methods: We propose Spherical Embedding Loss (SEL), a unified objective that combines normalized softmax with an angular margin term and a pairwise contrastive component. All feature vectors are explicitly constrained to lie on the unit hypersphere, and class centers are learned as points on the same manifold. During training, SEL encourages inter-class angular separation while maintaining intra-class compactness, without requiring complex sampling strategies.  
-
-Results: We evaluate our approach on standard benchmarks for image retrieval and face recognition, including CUB-200-2011 and Stanford Online Products. Compared to baseline metric losses (triplet, contrastive) and recent angular-margin methods, SEL yields consistent gains of 2–4% in Recall@1 and reduces feature hubness. Visualizations of embedding distributions demonstrate more uniform coverage of the hypersphere and clearer class clusters. Ablation studies confirm the complementary effect of the angular margin and contrastive terms.
-
-Conclusion: Constraining metric embeddings to a spherical manifold with a tailored loss enhances discriminative power and stabilizes training. This approach can be readily integrated into existing convolutional or transformer-based architectures, benefiting a wide range of similarity-based applications such as image retrieval, face verification, and zero-shot learning.
-
-Keywords: deep metric learning; spherical embedding; hypersphere normalization; angular margin; image retrieval.

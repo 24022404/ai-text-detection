@@ -1,1 +1,0 @@
-Trên đây là một và ứng dụng điển hình của thuật toán phân vùng ảnh. Còn rất nhiều các ứng dụng tiềm năng khác của thuật toán này vẫn đang được tiếp tục khai thác.

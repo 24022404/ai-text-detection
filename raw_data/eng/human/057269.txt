@@ -1,1 +1,0 @@
-Term Frequency-Inverse Document Frequency TF-IDF stands for Term Frequency-Inverse Document Frequency, this is a popular method in natural language processing (NLP) to represent texts as numeric vectors.

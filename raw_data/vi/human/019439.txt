@@ -1,1 +1,0 @@
-Linh hoạt và d động: Với Docker, bạn có thể xây dựng các container dễ dàng và triển khai chúng trên nhiều môi trường khác nhau mà không cần thay đổi mã nguồn hoặc cấu hình. Điều này giúp đơn giản hóa quá trình phát triển, kiểm thử và triển khai ứng dụng.

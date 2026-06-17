@@ -1,1 +1,0 @@
-In the absence of an effective ticketing system, IT service desk teams may endup blindsided regarding the context of an incident, its priority, or the person whosubmitted the ticket. This may lead to a drop in help desk productivity and subop timal employee experiences.

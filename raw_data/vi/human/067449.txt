@@ -1,1 +1,0 @@
-Recall: được định nghĩa là tỉ lệ số điểm true positive trong số những điểm thực sự là positive (TP + FN).

@@ -1,1 +1,0 @@
-metadata Object no If the request is made us ing the GET method, the server’s response will be the metadata.

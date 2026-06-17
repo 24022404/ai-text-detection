@@ -1,1 +1,0 @@
-This section provides a comprehensive exploration of the foundational principles underlying FedAvg . The FedAvg algorithm operates on the premise of considering the contributions of all participating nodes as equal, with the weight assigned to each node in the global aggregation being contingent solely upon its training set size. Mathematically, this is expressed as:

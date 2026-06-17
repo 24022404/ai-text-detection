@@ -1,1 +1,0 @@
-Ở loại hình tấn công này, em lựa chọn gả pháp kiểm tra và xử lý dữ liệu đầu vào vì cách thức thực hiện quy đơn giản nhưng điểm lại hiệu quả phòng chống ổn với quy mô hệ thống.

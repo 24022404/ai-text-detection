@@ -1,7 +1,0 @@
-Cường độ chịu nén của bê tông trong kết cấu chịu uốn là một yếu tố quan trọng trong thiết kế và xây dựng các công trình. Trong đó, phương pháp phá hủy và phương pháp không phá hủy là hai phương pháp được sử dụng để đo lường cường độ chịu nén của bê tông.
-
-Phương pháp phá hủy là phương pháp truyền thống, trong đó mẫu bê tông được thử nghiệm bằng cách áp dụng lực nén cho đến khi mẫu bị phá hủy. Kết quả thử nghiệm được sử dụng để xác định cường độ chịu nén của bê tông.
-
-Phương pháp không phá hủy, ngược lại, không yêu cầu mẫu bê tông phải bị phá hủy. Thay vào đó, các phương pháp như siêu âm, điện từ, và hình ảnh X-quang được sử dụng để đo lường cường độ chịu nén của bê tông. Phương pháp này có ưu điểm là không gây hại cho mẫu bê tông và có thể thực hiện nhanh chóng.
-
-Cường độ chịu nén của bê tông trong kết cấu chịu uốn có ảnh hưởng trực tiếp đến độ bền và độ an toàn của công trình. Vì vậy, việc đo lường và xác định cường độ chịu nén của bê tông là rất quan trọng trong thiết kế và xây dựng các công trình.

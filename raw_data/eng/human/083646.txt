@@ -1,1 +1,0 @@
-Appointment: This entity represents the appointments made by customers with providers. It has a one-to-many relationship with both the Provider andUser entities, signifying that each provider and user can have multiple appoint ments, but each appointment is related to only one provider and one user.

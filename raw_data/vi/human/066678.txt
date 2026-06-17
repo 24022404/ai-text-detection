@@ -1,1 +1,0 @@
-Lớp trình diễn là lớp nhận input của người dùng và chuyển dữ liệu cho lớp nghiệp vụ xử lý, kết quả thu được sẽ trả về giao diện cho người dùng. Trong đồ án này, lớp trình diễn chính là các lớp controller.

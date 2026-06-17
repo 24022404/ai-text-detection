@@ -1,1 +1,0 @@
-The business logic layer is a set of class libraries (or just classes and functions)containing domain models and other knowledge around the business, expressed in the current programming language. It contains all the processing logic of the application.

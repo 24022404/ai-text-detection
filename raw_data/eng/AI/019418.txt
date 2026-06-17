@@ -1,1 +1,0 @@
-The security analysis report allows the user to review any detected vulnerabilities or issues found in the file, ensuring greater safety.

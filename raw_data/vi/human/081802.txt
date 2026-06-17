@@ -1,1 +1,0 @@
-Confidence (AB) =Support (ASB) Support (A) Việc kiểm tra support và confidence giúp lọc các luật kết hợp không có ý nghĩa hoặc không quan trọng, nhằm tìm ra các luật có giá trị và ý nghĩa trong việc dự đoán mối quan hệ giữa các sản phẩm hoặc tạo ra các gợi ý sản phẩm hiệu quả.

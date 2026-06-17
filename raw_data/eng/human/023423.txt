@@ -1,1 +1,0 @@
-In this thesis, I propose a multi-label vulnerability detection mechanism using a language model for smart contracts. The main contribution of the work is listed as follows:

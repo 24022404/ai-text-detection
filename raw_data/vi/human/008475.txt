@@ -1,1 +1,0 @@
-*Delete Image From Cloud(Url): Boolean — Xóa hình ảnh khỏ đám mây bằng URL và trả về giá trị boolean thể hiện thành công hoặc thất bại.

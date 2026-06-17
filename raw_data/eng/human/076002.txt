@@ -1,1 +1,0 @@
-Exported Activity Tester : This sub-use case involves identifying and testing exported activities in an Android application to ensure they are secure and do not expose sensitive functionality to unauthorized entities. Exported activities are components of an Android app that can be accessed by other apps, and improper configurations can lead to security vulnerabilities.

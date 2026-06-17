@@ -1,1 +1,0 @@
-Improved accuracy: Feature extraction can help separate important features and eliminate unimportant features, thereby improving the accuracy of machine learning models for detection. security vulnerabilities at a higher rate.

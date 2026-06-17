@@ -1,1 +1,0 @@
-P. Zhang, B. Zhang, T. Zhang, D. Chen, Y. Wang, and F. Wen, “Prototypical pseudo label denoising and target structure learning for domain adap tive semantic segmentation,” in Proceedings of the IEEE/CVF conference on computer vision and pattern recognition , 2021, pp. 12 414–12 424.

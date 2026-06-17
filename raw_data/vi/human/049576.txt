@@ -1,1 +1,0 @@
-Để khắc phục những nhược điểm được nêu ở nên, em không dùng Firebase điểm lưu trữ toàn bộ dữ liệu của trang web mà chỉ dùng để lưu dữ liệu liên quan đến chức năng nhắn tin nhằm giảm chi phí phải bỏ ra và sử dụng MongoDB điểm lưu trữ những dữ liệu khác.

@@ -1,1 +1,0 @@
-Thương mại điện tử là một lĩnh vực mới trong và năm trở lại đây nên các ứng dụng quản lý bán hàng đa kênh hiện nay còn khá hạn chế. Bên cạnh đó, để quản lý tệp khách mua hàng, chăm sóc lại khách đã mua cũng như quản lý tồn kho của sản phẩm trong cùng một ứng dụng hiện nay chưa có nhiều ứng dụng đáp ứng được yêu cầu của doanh nghiệp.

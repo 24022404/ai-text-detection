@@ -1,1 +1,0 @@
-Từ những luận điểm trên, em sẽ xây dựng ứng dụng giao đồ ăn phát huy được các ưu điểm đồng thờ hạn chế và khắc phục những nhược điểm của các sản phẩm đang có trên thị trường. Cụ thể các chức năng đó em sẽ trình bày trong các phần tiếp theo.

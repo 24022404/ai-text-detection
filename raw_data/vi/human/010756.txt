@@ -1,1 +1,0 @@
-Nền tổng hợp (Synthetic Backgrounds) : Thay đổi nền trong khi giữ nguyên khuôn mặt có thể giúp cải thiện sự tập trung của mô hình vào các đặc trưng khuôn mặt.

@@ -1,7 +1,0 @@
-Cộng hưởng từ khuếch tán (Diffusion Weighted Imaging - DWI) đã trở thành một công cụ quan trọng trong chẩn đoán hình ảnh, đặc biệt là trong việc phân biệt giữa các loại u mô mềm cơ xương khớp lành tính và ác tính. Giá trị của DWI nằm ở khả năng phân biệt các loại u dựa trên sự khác biệt về tốc độ di chuyển của proton trong mô.
-
-DWI sử dụng kỹ thuật khuếch tán để đo tốc độ di chuyển của proton trong mô, giúp phân biệt giữa các loại u lành tính và ác tính. Các loại u lành tính thường có tốc độ di chuyển proton cao hơn, trong khi các loại u ác tính thường có tốc độ di chuyển proton thấp hơn.
-
-Trong chẩn đoán phân biệt u mô mềm cơ xương khớp lành tính và ác tính, DWI đã được chứng minh là một công cụ hữu ích. Nó giúp bác sĩ xác định được loại u và mức độ nghiêm trọng của bệnh, từ đó đưa ra quyết định điều trị phù hợp.
-
-Giá trị của DWI trong chẩn đoán hình ảnh không chỉ dừng lại ở việc phân biệt loại u, mà còn giúp bác sĩ theo dõi sự tiến triển của bệnh và đánh giá hiệu quả của điều trị. Với sự phát triển của công nghệ, DWI sẽ tiếp tục trở thành một công cụ quan trọng trong chẩn đoán hình ảnh và điều trị bệnh lý.

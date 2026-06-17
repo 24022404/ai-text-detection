@@ -1,1 +1,0 @@
-Bitcoin BIP-0039, introduced in 2013, proposed a mnemonic code to simplify the generation of deterministic keys. The improvement, developed by several contributors, was accessed online on 2023-06-19.

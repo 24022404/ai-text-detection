@@ -1,1 +1,0 @@
-Catastrophic Forgetting is the fundamental problem in the paradigm of continual learning and most studies in this field are to mitigate it.

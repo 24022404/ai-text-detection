@@ -1,1 +1,0 @@
-Mỗ kh người dùng đăng nhập lần đầu vào website hoặc thêm tài khoản mới thì hệ thống sẽ đăng ký lắng nghe (watch) vớ Google. Vớ mỗ watch sẽ có mã định danh rieng (Ip) mà hệ thống quy định vớ Cloud điểm phân biệt giữa các tài khoản và một hook chung để nhận các thông báo thay đổi trên Google Calendar của tất các các tài khoản Cloud.

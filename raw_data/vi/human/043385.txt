@@ -1,1 +1,0 @@
-Học máy (machine learning) là một lĩnh vực của ngành trí tuệ nhân tạo giúp giải quyết những vấn đề trong mọi lĩnh vực bằng cách cho phép hệ thống tự học từ dữ liệu. Trong học máy, chia thành hai nhánh chính:

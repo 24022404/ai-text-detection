@@ -1,1 +1,0 @@
-Nhằm tìm hiểu quá trình phát triển cũng như có thể tự xây dựng một ứng dụng quản lý công việc trong khuôn khổ phù hợp với sinh viên, giảng viên em đã quyết định lựa chọn điều tà xây dựng "Ứng dụng quản lý đồ án trên nền tảng Android".

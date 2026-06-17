@@ -1,1 +1,0 @@
-Dữ lệu lớn  là một thuật ngữ chỉ các tập dữ lệu khổng lồ có cấu trúc lớn, đa dạng và phức tạp với những khó khăn trong việc lưu trữ, phân tích và trực quan hóa cho các quá trình hoặc kết quả xếp theo. Dữ lệu lớn được mô tả bởi ba đặc trưng:

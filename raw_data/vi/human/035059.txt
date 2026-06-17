@@ -1,1 +1,0 @@
-Tên Kiểu dữ lệu Mô tả Có bắt buộc Có Ràng buộc duser Int Id của người dùng Có Khóa chính t_class Int Id lớp học Có Khóa chính Bảng 4.3: Bảng dữ lệu User_class Bảng dữ lệu News Mục đích: Lưu thông tin thông báo Danh sách thuộc tính:

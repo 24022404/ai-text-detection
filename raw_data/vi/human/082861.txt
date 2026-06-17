@@ -1,1 +1,0 @@
-Hơn nữa, Magento cũng hỗ trợ tính năng đa cửa hàng (multi store), cho phép người dùng quản lý nhiều trang web thương mại điện tử khác nhau từ cùng một bảng điều khiển. Điều này giúp cho các doanh nghiệp có thể quản lý và phát triển nhiều trang web thương mại điện tử khác nhau một cách dễ dàng và tiện lợi.

@@ -1,1 +1,0 @@
-Controller: Các controller gữ vai trò điều khiển chính của chương trình. Một controller có trách nhiệm cho một luồng thực thi của chương trình.

@@ -1,1 +1,0 @@
-Site: Store news sites basic metadata: domain, popular name and elo (derived from their traffic, measured by webrank.vn)SiteElement: Store CSS selector paths of important fields that need to be ex tracted from each site article.

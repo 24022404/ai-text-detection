@@ -1,1 +1,0 @@
-Lack of Comprehensive Analysis Tools Complexity and Resource-Intensiveness Limited Automation and Integration 1.2.3 Objectives and Scope Our graduation thesis aims to develop an Android malware analysis framework, addressing key gaps in existing solutions. The primary objectives of this project are:

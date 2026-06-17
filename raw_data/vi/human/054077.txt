@@ -1,1 +1,0 @@
-Nativelle performance: Ứng dụng được viết bằng React Native có thể đạt được hiệu suất gần giống với các ứng dụng được viết bằng các ngôn ngữ lập trình native.

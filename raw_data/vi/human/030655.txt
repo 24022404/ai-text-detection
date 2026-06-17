@@ -1,1 +1,0 @@
-Phiên bản mới nhất của MVC hỗ trợ trợ thiết kế responsive webste mặc định và các mẫu cho mobi. Chúng ta có thể tạo công cụ View của riêng mình vớ cú pháp đơn giản hơn nhiều so với công cụ truyền thống.

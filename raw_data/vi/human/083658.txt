@@ -1,1 +1,0 @@
-Tá sử dụng code: CSS cho phép lập trình viên tái sử dụng các định dạng trên nhiều trang web mà không cần vết lạ code cho mỗi trang. Đều ngày tết kệm thờ gan và giảm sự tốn kém cho các dự án web.

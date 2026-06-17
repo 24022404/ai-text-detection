@@ -1,1 +1,0 @@
-Dữ liệu đồ án: Thu thập được 1981699 câu từ 1648 file đồ án được lấy trên hệ thống Copy. Được chia ra thành 2 bộ dữ liệu huấn luyện và dữ liệu kiểm thử.

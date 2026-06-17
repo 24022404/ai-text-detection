@@ -1,1 +1,0 @@
-Sending my heartfelt gratitude sumittttttt , for creating an application using Streamlit and LSTM model. I’ve utilized the LSTM model code he provided to enhance a feature within my own application.

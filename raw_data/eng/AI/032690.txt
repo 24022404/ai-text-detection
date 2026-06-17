@@ -1,1 +1,0 @@
-When creating a post and updating feeds, users upload an image, enter their content, and choose where to share it. If all inputs are valid, the system confirms success, updates the user’s posts, and refreshes followers' feeds.

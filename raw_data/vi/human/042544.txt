@@ -1,1 +1,0 @@
-Các bước triển khai cụ thể cho 1 module trong Micro Frontends Hình 4.39: Bước 1  Khởi tạo EC2 instance Bước 1: Đăng ký tài khoản AWS, khởi tạo một EC2 instance và các thông số trên hình 4.39.

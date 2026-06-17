@@ -1,1 +1,0 @@
-Each time a transaction is sent, this value will increase. The nonce is created to prevent replay attacks in Ethereum.

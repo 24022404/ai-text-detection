@@ -1,1 +1,0 @@
-Hệ thống cung cấp chức năng quản lý nhà hàng cho người bán. Họ có thể xem danh sách các đơn hàng của quán. Người bán cũng có chức năng được chỉnh sửa các món ăn trong quán đồng thờ có thể xem thống kê doanh thu nhà hàng theo mốc thời gian cụ thể.

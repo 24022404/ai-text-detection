@@ -1,1 +1,0 @@
-Các khóa học sẽ hển thị dướ dạng ô lướ, thông tin hển thị của các khóa học bao gồm: Ảnh, têu điề, chuyên ngành, số lượng bà gảng, phần trăm đã hoàn thành.

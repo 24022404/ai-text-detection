@@ -1,1 +1,0 @@
-Cung cấp các tính năng sẵn sàng cho sản xuất như chỉ số, kiểm tra tình trạng và cấu hình bên ngoài Hoàn toàn không tạo mã và không yêu cầu cấu hình XML Phiên bản sử dụng là 2.6.5 3.5.2 Mục đích sử dụng Spring Boot được dùng để xây dựng các Restful API , nhận, xử lý các yêu cầu từ phía App.

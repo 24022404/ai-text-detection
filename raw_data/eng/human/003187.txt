@@ -1,1 +1,0 @@
-Step 6 : Run "npm run dev" or "npm run start" on the server, and "npm start" on the client to start the project.

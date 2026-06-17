@@ -1,9 +1,0 @@
-Objective: Training Neural Ordinary Differential Equation (Neural ODE) models with first-order optimizers often suffers from slow convergence and sensitivity to learning‐rate schedules. This work introduces a Second-Order Neural ODE Optimizer (SONO) that leverages curvature information to accelerate and stabilize the training of continuous-depth networks.
-
-Methods: SONO approximates Hessian–vector products using efficient automatic differentiation and combines a damped Newton update with a trust-region strategy tailored for the ODE parameter space. By exploiting the continuous dynamics formulation, the optimizer adaptively scales step sizes along directions of high curvature without incurring the full cost of explicit Hessian computation.
-
-Results: On standard benchmarks—including continuous‐time image classification and dynamics modeling tasks—SONO achieves up to 30% faster convergence in wall-clock time compared to Adam and L-BFGS, with a 15% reduction in final training loss. The proposed method also demonstrates improved robustness to hyperparameter settings and yields smoother learned trajectories in latent space.
-
-Conclusion: By integrating second-order information in a scalable manner, SONO advances the state of the art in training efficiency and stability for Neural ODEs. This optimizer broadens the practical applicability of continuous-depth models in real‐time and resource‐constrained environments.
-
-Keywords: Neural ODE, second‐order optimization, Newton’s method, Hessian–vector product, continuous‐depth networks, deep learning optimizer.

@@ -1,1 +1,0 @@
-The weight calculation is important because it will be used in the later steps to determine the shortest route between two points on the floor.

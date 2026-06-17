@@ -1,1 +1,0 @@
-PostgreSQL hoạt động trên hầu hết các hệ điều hành phổ biến  hầu như tất cả các bản phân phối Linux và Unix, Windows, Mac OS X. Bản chất nguồn mở của nó giúp dễ dàng nâng cấp hoặc mở rộng. Trong PostgreSQL, bạn có thể xác định kiểu dữ liệu của riêng mình, xây dựng các hàm tùy chỉnh và thậm chí viết mã bằng ngôn ngữ lập trình khác mà không cần biên dịch là cơ sở dữ liệu.

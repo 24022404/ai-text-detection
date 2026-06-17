@@ -1,1 +1,0 @@
-E. Moreno's 2004 paper in Advances in Applied Mathematics offers a discussion and analysis of the Fredricksen and Maiorana theorem on de Bruijn sequences.

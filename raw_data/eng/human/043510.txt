@@ -1,1 +1,0 @@
-Momentum can be measured in various ways, based on the book ’Trading Sys tems and Methods,’ I select the following momentum factors:

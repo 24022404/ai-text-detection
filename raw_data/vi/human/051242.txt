@@ -1,1 +1,0 @@
-Đều này làm cho mọi thứ di chuyển nhanh chóng, đặc biệt là khi so sánh với các công nghệ frontend khác phả cập nhật từng đối tượng ngay cả khi chỉ một đối tượng thay đổi trong ứng dụng web.

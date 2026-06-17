@@ -1,1 +1,0 @@
-Tền điều kiện Không Luồng sự kiện chính STT Thực hiện bởi Hành động 1 Người dùng Chọn chức năng truy vấn SPARQL 2 Hệ thống Hiển thị giao diện trang truy vấn 3 Người dùng Nhập vào câu truy vấn và xác nhận 4 Hệ thống Hiển thị kết quả truy vấn Luồng sự kiện thay thế TT Thực hiện bởi Hành động Hậu điều kiện Không Dữ liệu đầu vào gồm các trường dữ liệu sau:

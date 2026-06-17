@@ -1,1 +1,0 @@
-Xóa danh mục Bảng 2.12: Đặc tả use case – Xóa danh mục Tên ca sử dụng: Xóa danh mục ID: 12 Tác nhân chính: Bí thư Mục đích: : Bí thư xóa danh mục Mô tả: Ca sử dụng này mô tả cách bí thư xóa danh mục Kích hoạt: : Bí thư xóa danh mục Luồng sự kiện chính:

@@ -1,1 +1,0 @@
-Chính vì vậy redux sẽ tạo ra 1 store (kho lưu trữ các trạng thái dữ liệu ), mỗ kh thành phần nào cần dữ liệu, sẽ truy cập điến kho và lấy dữ liệu mà không cần qua thành phần cha. Giúp cho việc quản lý diễn ra nhanh chóng, tiết kiệm dung lượng.

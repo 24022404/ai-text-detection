@@ -1,1 +1,0 @@
-The overall accuracy for CNN 1-d case is 0.8664. Agnet, Alureon, DelfInject, Obfuscator, and Rbot family have accuracy below 0.8, accounting for most of the accuracy loss.

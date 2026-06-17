@@ -1,1 +1,0 @@
-Path, VersonPath, Course, VersonCourse, Test, Lesson, Version Lesson, Theory, VersonTheory, Qaz, VersonQuz, Checkpoint, Version Checkpoint. Trong đồ án này, em sẽ tập trung vào 2 đối tượng chính là trọng tâm của đồ án là Path và Course.

@@ -1,1 +1,0 @@
-Trong bài báo tác gả cho bết RoBERTa lặp lại các tác vụ huấn luyện từ mô hình BERT, nhưng có thay đổi đó là huấn luyện mô hình lâu hơn, vớ batch size lớn hơn và trên nhiều dữ liệu hơn.

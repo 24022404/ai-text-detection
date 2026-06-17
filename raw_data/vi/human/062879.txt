@@ -1,1 +1,0 @@
-Mã nguồn của Laravel rất trực quan, điơn gản. Vì vậy những người mớ bắt điầu sẽ thường lựa chọn framework này cho dự án điầu tay của mình.

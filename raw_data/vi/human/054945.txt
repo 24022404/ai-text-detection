@@ -1,1 +1,0 @@
-–Việc phát triển rêng biệt Frontend và Backend giúp cho hệ thống chạy ổn định, tăng khả năng trả nhiệm của người dùng Độ tin cậy:–Qua quá trình kiểm thử, các lỗ phát snh cơ bản của hệ thống điã điược sửa toàn bộ gúp hệ thống có độ tin cậy cao.

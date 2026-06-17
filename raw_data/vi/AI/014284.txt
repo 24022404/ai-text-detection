@@ -1,7 +1,0 @@
-Mô phỏng nghiên cứu về bộ lọc sóng hài thụ động cho tần số biến đổi
-
-Bộ lọc sóng hài thụ động là một công nghệ được sử dụng rộng rãi trong lĩnh vực điện tử và điện lực để giảm thiểu ảnh hưởng của sóng hài trong hệ thống điện. Tuy nhiên, việc thiết kế và ứng dụng bộ lọc sóng hài thụ động cho tần số biến đổi vẫn còn là một vấn đề phức tạp.
-
-Nghiên cứu này tập trung vào việc mô phỏng và đánh giá hiệu suất của bộ lọc sóng hài thụ động cho tần số biến đổi. Kết quả nghiên cứu cho thấy rằng bộ lọc sóng hài thụ động có thể đạt được hiệu suất cao khi được thiết kế và ứng dụng phù hợp cho tần số biến đổi.
-
-Kết quả nghiên cứu này có thể giúp các nhà thiết kế và ứng dụng bộ lọc sóng hài thụ động trong lĩnh vực điện tử và điện lực để giảm thiểu ảnh hưởng của sóng hài và đảm bảo chất lượng điện năng.

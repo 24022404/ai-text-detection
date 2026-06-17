@@ -1,1 +1,0 @@
-M. Honnibal andI. Montani, “Spacy 2: Natural language understanding with bloom embeddings, convolutional neural networks and incremental parsing,” inProceedings of the 18th Conference on Computational Natural Language Learning (CoNLL) 2014, pages 573–578.

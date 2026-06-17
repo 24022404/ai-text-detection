@@ -1,1 +1,0 @@
-Firebase and Domain Check: The app is also analyzed for Firebase us age, and any domains extracted from the app are checked for malware using MalwareDomainCheck .

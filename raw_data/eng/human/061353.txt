@@ -1,1 +1,0 @@
-Based on the points analyzed above, ReactJS has been decided by me as the frontend language to use for this DATN.

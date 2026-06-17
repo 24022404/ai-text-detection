@@ -1,1 +1,0 @@
-Độ tin cậy: Chưa đảm bảo độ tin cậy cao Dung lượng hạn chế: khả năng lưu trữ còn hạn chế 3.4 Bootstraps 3.4.1 Giới thiệu về Bootstrap Bootstrap là một thư viện dành cho việc xây dựng giao diện trở nên đẹp và thuận tiện hơn . Được xây dựng dựa trên CSS, JavaScript.

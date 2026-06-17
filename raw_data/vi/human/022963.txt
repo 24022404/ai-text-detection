@@ -1,1 +1,0 @@
-Chương 2 trình bày về khảo sát các hệ thống hiện tại, cũng như liệt kê các usecase chính của dự án như là use case quản lý thông tin, usecase bổ sung, xin nghỉ công, yêu cầu phi chức năng.

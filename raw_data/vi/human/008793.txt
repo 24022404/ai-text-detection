@@ -1,1 +1,0 @@
-Pyplot là một module của Matplotlib cung cấp các hàm đơn giản để thêm các thành phần plot như s, images, text, v.v. vào các axes trong figure.

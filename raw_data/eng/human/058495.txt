@@ -1,1 +1,0 @@
-Click "Confirm" button to complete the transaction.A popup appears to notify that the purchase was successful, accompanied by the item just bought.The interaction panel is displayed and functions correctly according to the design.

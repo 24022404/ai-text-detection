@@ -1,1 +1,0 @@
-When applying activation functions such as sigmoid or tanh, their derivatives are notable only within the -2 to 2 range and nearly zero outside. As more layers are added, this causes gradients to diminish significantly.

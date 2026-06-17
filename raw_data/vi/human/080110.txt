@@ -1,1 +1,0 @@
-Trung tâm điều khiển sẽ phân phối lại dữ liệu video và âm thanh đã xử lý điến tất cả các người dùng khác trong cuộc gọ, tạo thành một mô hình định tuyến trung tâm.

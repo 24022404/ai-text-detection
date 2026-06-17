@@ -1,1 +1,0 @@
-The option to "Rate Product" is chosen by the User. The user can choose their rating on a scale of 1 to 5 using the system. From the scale, the User chooses their rating.

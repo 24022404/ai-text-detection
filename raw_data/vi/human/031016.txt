@@ -1,1 +1,0 @@
-Extreme Programming XP là một phương pháp phát triển phần mềm hướng đến việc nâng cao chất lượng phần mềm và khả năng đáp ứng với thay đổi yêu cầu người dùng. XP chủ trương đưa ra các bản phát hành thường xuyên thông qua các chu trình phát triển ngắn. Việc này là để nâng cao năng suất và tạo ra những thời điểm điểm tiếp nhận những yêu cầu người dùng mớ.

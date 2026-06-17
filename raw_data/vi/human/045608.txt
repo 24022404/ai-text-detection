@@ -1,1 +1,0 @@
-MySQL là một hệ quản trị cơ sở dữ liệu mã nguồn mở được phát triển bởi Oracle Corporation. Nó là một trong những hệ quản trị cơ sở dữ liệu phổ biến nhất trên thế giới và được sử dụng rộng rãi trong các ứng dụng web, cũng như trong các doanh nghiệp và tổ chức để  quản lý dữ liệu.

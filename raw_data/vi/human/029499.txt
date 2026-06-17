@@ -1,1 +1,0 @@
-Xây dựng hệ thống CMS (Content Management System  Hệ thống quản trị nội dung) hỗ trợ quản lý và điều hành nội dung một cách dễ dàng và hiệu quả, giúp tiết kệm thờ gan của quản trị viên, làm việc vận hành hệ thống trở nên hiệu quả, tiết kệm.

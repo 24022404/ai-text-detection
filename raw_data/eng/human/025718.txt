@@ -1,1 +1,0 @@
-Features vector: is a feature vector, each of which represents a data point in the dataset. Each n-dimensional vector represents the features of the data point, each feature is one-dimensional and must be numeric data. Models can only be trained from these feature vectors, so the dataset needs to be converted to a set of feature vectors.

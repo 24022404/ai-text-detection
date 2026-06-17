@@ -1,1 +1,0 @@
-Dướ điây là sơ đồ thiết kế tổng quan các phân hệ của toàn bộ nền tảng dữ liệu chứng khoán mà nhóm xây dựng:KHOÁN Hình 2.1: Mô hình hệ thống cho nền tảng dữ liệu Mô hình trên là mnh họa cho luồng hoạt động cũng như các thành phần được sử dụng trong hệ thống.

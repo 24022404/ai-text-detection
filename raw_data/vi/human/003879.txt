@@ -1,1 +1,0 @@
-Hệ điều hành: Ubuntu server 22.04 Địa điểm đặt server: Đông Nam Á Địa chỉ Ip: 20.24.50.231 vCPU/s4 RAM: 16Gb, Dựng các service bằng Docker Lần lượt tạo các file Dockerfile and docker compose.yaml. Cụ thể như sau:Hình 4.25: Dockerfile web Hình 4.26: Dockerfile các service backend Hình 4.27: Docker Compose.yaml, Trỏ Ip Gateway Trỏ reverse proxy: Ở đây sử dụng Kông.

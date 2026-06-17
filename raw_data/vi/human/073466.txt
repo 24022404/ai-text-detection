@@ -1,1 +1,0 @@
-Chính vì vậy, nên trong ĐATN này em muốn cải thiện giao diện của chức năng kiểm tra sao chép trở nên thân thiện với người dùng hơn, xây dựng mô đun kiểm tra lỗi chính tả và mô đun sửa lỗi chính tả để nâng cao chất lượng báo cáo khoa học và cuối cùng là xây dựng hệ thống sử dụng ha mô đun để có thể tích hợp được vào hệ thống Coop kiểm tra sao chép.

@@ -1,1 +1,0 @@
-Module: là các phần mã nguồn riêng biệt, được kết hợp với nhau để tạo một chương trình hoàn chỉnh. Lập trình theo hướng module hóa có nghĩa là cha chương trình thanh các module nhỏ nhằm dễ kiểm soát và tái sử dụng.

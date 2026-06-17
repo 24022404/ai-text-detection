@@ -1,1 +1,0 @@
-Dễ nghiên cứu và sử dụng:  PHP được thiết kế điểm dễ nghiên cứu  và sử dụng, đặc biệt là đối với những người mới bắt đầu trong lập trình web.

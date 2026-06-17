@@ -1,1 +1,0 @@
-Mở rộng dễ dàng: MySQL có khả năng mở rộng tốt, có thể mở rộng từ các cấu hình cơ bản điến cấu hình phức tạp hơn điểm đáp ứng nhu cầu của ứng dụng.

@@ -1,1 +1,0 @@
-After searching, I decided to use background job.The framework provide the class HangfireBackgroundWorkerBase so that I can create my worker inherited it. Then register this service to module of partnership host. It is a first time of mine working with it. I faced with simple case so that it is pretty good.

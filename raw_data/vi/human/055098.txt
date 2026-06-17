@@ -1,1 +1,0 @@
-Linh hoạt và dễ mở rộng : Sự phân chia rõ ràng giữa các thành phần trong kiến trúc MVC tạo điều kiện thuận lợi cho việc thêm tính năng mới hoặc mở rộng ứng dụng. Việc chỉnh sửa hoặc thay đổi một thành phần không ảnh hưởng đến các thành phần khác, giúp giảm thiểu rủi ro và ngữ cho ứng dụng luôn linh hoạt.

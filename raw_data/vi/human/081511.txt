@@ -1,1 +1,0 @@
-Bước 2: hai vectơ được tạo bởi GAP và GMP được đưa qua một mạng perceptron đa tầng có chia sẻ trọng số, kết quả đầu ra cũng tạo được hai vector có kích thước [1x1xC].

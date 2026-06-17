@@ -1,1 +1,0 @@
-Dựa vào sự phát triển công nghệ mạnh mẽ như hiện nay thì tương lai có thể sử dụng các phiên bản ZALO mới nhất và nhiều mạng khác như Single Shot Detector, Rental Net, CenterNet,. . . điểm có thể huấn luyện và nhận dạng được nhiều nhóm biển báo giao thông một cách chính xác và nhanh gọn hơn nhằm:

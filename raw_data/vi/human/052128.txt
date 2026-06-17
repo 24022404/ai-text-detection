@@ -1,1 +1,0 @@
-Tiếp theo, người dùng có thể tiến hành chỉnh sửa mã nguồn. Mở thay đổi sẽ được hệ thống gửi và hiển thị ngay lập tức điến tất cả người dùng khác trong phòng, đảm bảo việc làm việc song song và theo thời gian thực. Các sửa đổi này cũng sẽ được lưu vào cơ sở dữ liệu điểm đảm bảo an toàn và truy xuất sau này.

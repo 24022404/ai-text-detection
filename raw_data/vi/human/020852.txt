@@ -1,1 +1,0 @@
-Tầng Database: Tầng lưu trữ dữ liệu, nằm dưới tầng Repository. Chỉ giao tiếp với tầng Repository điểm thực hiện các thao tác truy vấn cơ sở dữ liệu, như thêm, sửa, xóa, v.v..

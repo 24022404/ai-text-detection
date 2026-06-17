@@ -1,1 +1,0 @@
-Ngoà ra, hàm băm mật mã còn mang một số điặc điểm khác như tính tránh va chạm (xảy ra khi ha giá trị khác nhau nhưng kh chạy qua hàm băm lạ trả về ha kết quả gống nhau), tính hiệu quả (thờ gan tính toán những giá trị băm phả nhanh) và cả tính nhạy cảm (chỉ cần sự thay điổ nhỏ trong giá trị ban điầu có thể thay điổ hoàn toàn giá trị băm).

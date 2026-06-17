@@ -1,1 +1,0 @@
-PHP là một công cụ mạnh mẽ cho việc phát triển ứng dụng web đa dạng, từ các trang web cá nhân điển các hệ thống quản lý nội dung lớn. Sự linh hoạt và dễ sử dụng của nó làm cho PHP trở thành một trong những ngôn ngữ phổ biến nhất cho việc phát triển web.

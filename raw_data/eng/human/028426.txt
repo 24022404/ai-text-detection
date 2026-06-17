@@ -1,1 +1,0 @@
-Next, in Chapter 4: Experiment and Evaluation, we will study and develop each system function based on the needs assessed, as well as how to implement the system.

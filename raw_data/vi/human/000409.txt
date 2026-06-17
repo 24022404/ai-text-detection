@@ -1,1 +1,0 @@
-Trong phân hệ này, mỗ Task tương điương với một trình tính toán, mỗ lần tính toán sẽ là một Task Instance. Mố quan hệ về mặt thứ tự gữa các Task được thể hiện trong DAG. Để định nghĩa DAG gồm các Task, cần tạo file scrpt Python điể kha báo các Task và xác định mố quan hệ phụ thuộc gữa các Task.

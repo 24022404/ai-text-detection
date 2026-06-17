@@ -1,1 +1,0 @@
-Although JWTs can be encrypted to offer confidentiality between parties, we will concentrate on signed tokens. Signed tokens can validate the claims contained inside them, whereas encrypted tokens conceal those claims from third parties.

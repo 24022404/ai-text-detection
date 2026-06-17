@@ -1,1 +1,0 @@
-Từ đó bên client sẽ gửi yêu cầu xác thực kèm mã JWT 4. Server xác thực mã JWT và trả lời yêu cầu phía client.

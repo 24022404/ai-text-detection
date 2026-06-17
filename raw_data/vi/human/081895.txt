@@ -1,1 +1,0 @@
-. User gửi lời mời (Invitation) tớ SAML User thông qua email, SAML User chấp nhận lờ mờ và User có thể tạo UserVendorRole điể gán cho SAML User.

@@ -1,1 +1,0 @@
-I used Ionic framework to build the front-end and Asp. NET to build the back end, besides using postgresSQL for data management.

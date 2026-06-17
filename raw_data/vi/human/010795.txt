@@ -1,1 +1,0 @@
-Sau khi vectơ tổng hợp đi qua mạng nơron đồ thị thu được một vectơ đặc trưng đồ thị, em kết hợp cùng vectơ nhúng lúc đầu tạo thành một vectơ tổng hợp làm đầu vào của khối hậu xử lý của mạng đề xuất. Đều này lấy ý tưởng của mạng Resnet giúp cho lớp mạng không quên được đặc trưng của vectơ nhúng văn bản.

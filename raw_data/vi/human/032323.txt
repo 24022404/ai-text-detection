@@ -1,1 +1,0 @@
-Xác định các khách hàng tương tự: Dựa trên ma trận tương tự đỉa tính toán ở bước trước, xác định nhóm khách hàng có độ tương tự cao nhất với khách hàng hiện tại.

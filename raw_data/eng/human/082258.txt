@@ -1,1 +1,0 @@
-Therefore, instead of assigning equal weights to participating nodes as in the FedAvg algorithm, Hongda Wu et al.  proposed an algorithm called Federated Adaptive Weighting (FedAdp) that measures the node contribution for global model aggregation based on the correlation between local gradient and global gradient. Here global gradient is defined as follows:

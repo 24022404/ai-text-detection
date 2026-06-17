@@ -1,5 +1,0 @@
-Một nhóm nghiên cứu đã thực hiện nghiên cứu về trường ứng suất bánh công tác đầu tiên của máy nén động cơ tua bin khí TV3-117 bằng mô phỏng. Kết quả nghiên cứu cho thấy rằng, trường ứng suất bánh công tác có ảnh hưởng đáng kể đến hiệu suất và độ tin cậy của máy nén động cơ tua bin khí.
-
-Nghiên cứu sử dụng mô phỏng để mô tả quá trình làm việc của máy nén động cơ tua bin khí TV3-117, bao gồm cả quá trình nén khí và quá trình làm mát. Kết quả mô phỏng cho thấy rằng, trường ứng suất bánh công tác có thể đạt được đến 10 MPa, gây ra sự mài mòn và hao mòn cho bánh công tác.
-
-Để giảm thiểu ảnh hưởng của trường ứng suất bánh công tác, nghiên cứu đề xuất một số giải pháp, bao gồm cải thiện thiết kế bánh công tác, sử dụng vật liệu có độ bền cao hơn và thực hiện bảo trì định kỳ. Kết quả nghiên cứu này có thể giúp cải thiện hiệu suất và độ tin cậy của máy nén động cơ tua bin khí TV3-117, đồng thời giảm thiểu chi phí bảo trì và sửa chữa.

@@ -1,1 +1,0 @@
-Class-balance Sampling . In order to select pixels from rare classes, we must first determine which images include those pixels. First, we need to determine which classes are rare based the frequency fcof each class cin the source dataset.

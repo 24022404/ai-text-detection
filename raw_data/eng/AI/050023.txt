@@ -1,1 +1,0 @@
-JavaScript employs prototypes to facilitate object inheritance, allowing objects to access and utilize properties and methods defined in other objects.

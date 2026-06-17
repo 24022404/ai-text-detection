@@ -1,1 +1,0 @@
-Tạo cấu trúc trang web: HTML sử dụng các thẻ để xác định các phần khác nhau trong một trang web như yêu điền, đoạn văn bản, hình ảnh, lên kết, v.v.

@@ -1,1 +1,0 @@
-Database Design Implementation Figure 4.19: MySQL Database Design Implementation From ER Diagram in figure 4.18, each entity, is given its own table. Each n-n relationship between entities is corresponding to a mapping table in the database,while other relationships are stored as a attributes in either tables.

@@ -1,1 +1,0 @@
-Quản lý quy trình thực nghiệm: Các nhóm Angle ra các quyết định dựa trên các dữ lệu thực tiễn thay vì tính toàn lý thuyết hay các tiền giả định. Việc phân nhỏ dự án thành các phân đoạn ngắn góp phần gia tăng các điểm mốc để nhóm phát triển thu thập dữ kiện cho phép điều chỉnh các chiến lược phát triển của mình.

@@ -1,1 +1,0 @@
-Lập trình NodeMCU với Arduino IDE sẽ chỉ mất 510 phút. Tất cả những gì bạn cần là Arduino IDE, cáp USB và chính bảng NodeMCU. Bạn có thể xem Hướng dẫn Bắt đầu dành cho NodeMCU này để chuẩn bị IDE Arduino của bạn cho NodeMCU.

@@ -1,1 +1,0 @@
-Controller (Bộ điều khển): Đạ diện cho thành phần điều khển, xử lý sự kện và tương tác gữa Model và Vew. Controller nhận lệnh từ người dùng thông qua giao diện người dùng (Vew), sau đó tương tác với Model để lấy hoặc cập nhật dữ lệu và sau đó cung cấp dữ lệu đã xử lý cho Vew để hển thị. Nó đióng va trò trung gan gữa Model và Vew, không chứa dữ lệu cụ thể của ứng dụng.

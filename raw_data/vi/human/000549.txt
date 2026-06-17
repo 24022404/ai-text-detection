@@ -1,1 +1,0 @@
-Kha thác và sử dụng mã nguồn mở điem lạ lợ ích cho người sử dụng và thúc điẩy mạnh mẽ sự ứng dụng tin học trong hoạt động knh tế và điờ sống xã hộ. Bằng vệc phát trển module Communty trên nền tảng Magento em đã gúp phát trển và mở rộng thêm mã nguồn cho nền tảng này.

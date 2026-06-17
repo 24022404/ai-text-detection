@@ -1,1 +1,0 @@
-Resource Manager (RM) sẽ cấp phát một vùng chứa cần thiết trên một Worker điểm khởi chạy Application Master (AND).

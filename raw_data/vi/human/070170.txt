@@ -1,1 +1,0 @@
-Phần sau đây sẽ trình bày thiết kế chợ tết thuộc tính và phương thức của một số lớp chủ đạo của ứng dụng cũng như thiết kế luồng truyền thông điệp cho một số ca sử dụng nổ bật.

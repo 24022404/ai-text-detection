@@ -1,1 +1,0 @@
-Digitalocean cung cấp một nền tảng đám mây mạnh mẽ, linh hoạt và dễ sử dụng,cho phép người dùng tạo ra các máy chủ ảo (droplets) và triển khai ứng dụng web trong và phút.

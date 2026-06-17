@@ -1,1 +1,0 @@
-Chương 2 trình bày về Cơ sở lý thuyết và các nghiên cứu liên quan. Chương này giới thiệu các kiến thức nền tảng, lý thuyết cơ sở được sử dụng trong bài toán gồm có các lý thuyết về học máy, xử lý ngôn ngữ tự nhiên, các công nghệ sử dụng để trích xuất tạo bộ dữ liệu phục vụ cho quá trình thực nghiệm thuật toán.

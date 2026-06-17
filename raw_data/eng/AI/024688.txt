@@ -1,1 +1,0 @@
-The paragraph defines C1 and C2 as given in Equations 4.12 and 4.13, and explains that the following step is to prove a lemma verifying the optimality of the proposed construction.

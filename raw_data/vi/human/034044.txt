@@ -1,1 +1,0 @@
-Hệ thống được xây dựng là một hệ thống cơ bản và hoàn toàn miễn phí.Hoạt động chính của hệ thống là quản lý và sử dụng. Do đó, phạm vi của hệ thống chỉ ở mức trau dồi kiến thức cho sinh viên, phục vụ hiểu sâu hơn về môn học này. Để có thể hoàn thiện và cạnh tranh với các nền tảng khác thì vẫn còn rất nhiều hạn chế:

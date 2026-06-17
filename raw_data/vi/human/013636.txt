@@ -1,1 +1,0 @@
-Ưu điểm Cú pháp rõ ràng và dễ hiểu: Laravel được thiết kế vớ cú pháp rõ ràng và dễ hiểu, giúp lập trình viên dễ dàng đọc, viết và duy trì mã nguồn. Cú pháp gọn gàng cũng giúp tăng tốc độ phát triển và giảm thiểu số lượng lỗ cú pháp.

@@ -1,1 +1,0 @@
-Currently, the system is unable to integrate with ANSV’s customer support software that handles inquiries through email and phone. Enabling integration, however, would significantly enhance the efficiency and effectiveness of both systems.

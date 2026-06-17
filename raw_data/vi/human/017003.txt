@@ -1,1 +1,0 @@
-Biểu đồ phân bố người dùng theo độ tuổi Biểu đồ cột Biểu đồ gồm có năm cột, mỗi cột tương ứng với một nhóm tuổi (TỪ 4 Bảng 4.1), thể hiện sự phân bố số người dùng theo độ tuổi.

@@ -1,1 +1,0 @@
-Tìm kếm điơn điặt hàng a. Nhập d điơn điặt hàng muốn tìm kếm b. Hển thị danh sách điơn điặt hàng có tên đã nhập 2. Quản lý xem ch tết điơn điặt hàng 3. Cập nhật trạng thá điơn điặt hàng 4. Xuất điơn hàng Luồng sự kện ngoạ lệ/tương điương:

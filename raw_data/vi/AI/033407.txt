@@ -1,7 +1,0 @@
-Ứng dụng phương pháp AHP để chi tiết cấp độ rủi ro do sạt lở ở tỉnh Khánh Hòa là một nghiên cứu quan trọng nhằm đánh giá và phân tích rủi ro sạt lở tại khu vực này. Phương pháp AHP (Analytic Hierarchy Process) là một công cụ phân tích quyết định được sử dụng để đánh giá và so sánh các yếu tố khác nhau.
-
-Nghiên cứu này tập trung vào việc áp dụng phương pháp AHP để phân tích và đánh giá cấp độ rủi ro sạt lở tại tỉnh Khánh Hòa. Kết quả nghiên cứu cho thấy rằng phương pháp AHP là một công cụ hiệu quả để đánh giá và phân tích rủi ro sạt lở, giúp xác định các yếu tố chính gây ra rủi ro và cấp độ rủi ro tại từng khu vực.
-
-Kết quả nghiên cứu cũng cho thấy rằng các yếu tố chính gây ra rủi ro sạt lở tại tỉnh Khánh Hòa bao gồm sự thay đổi khí hậu, hoạt động của con người, và cấu trúc địa chất. Cấp độ rủi ro sạt lở tại khu vực này cũng được xác định dựa trên các yếu tố này.
-
-Tổng kết, nghiên cứu này cho thấy rằng phương pháp AHP là một công cụ hiệu quả để đánh giá và phân tích rủi ro sạt lở, giúp xác định các yếu tố chính gây ra rủi ro và cấp độ rủi ro tại từng khu vực. Kết quả nghiên cứu này có thể được sử dụng để lập kế hoạch và thực hiện các biện pháp phòng ngừa và giảm thiểu rủi ro sạt lở tại tỉnh Khánh Hòa.

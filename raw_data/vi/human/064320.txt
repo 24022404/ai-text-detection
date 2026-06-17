@@ -1,1 +1,0 @@
-Các giá trị điầu vào cần cho việc tính toán theo công thức được trích xuất từ các bảng dữ liệu điầu vào.

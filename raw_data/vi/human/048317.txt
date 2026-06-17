@@ -1,1 +1,0 @@
-Thiết lập siêu tham số cho thuật toán PPO Để huấn luyện mô hình, trước tên em thử một hệ thống siêu tham số cơ bản cho agent và phát triển từ đó đối với các kết quả đạt được khác nhau. Các hệ số cần chú ý gồm có:

@@ -1,1 +1,0 @@
-Odoo, previously known as OpenERP, is a powerful open-source business management software that offers extensive integration and customization capabilities. It serves as an all-in-one solution, enabling businesses to efficiently manage and streamline multiple facets of their eCommerce operations.

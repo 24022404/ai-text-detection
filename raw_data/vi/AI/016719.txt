@@ -1,5 +1,0 @@
-MỘT PHƯƠNG PHÁP TRỊ HIỆU MÔ HÌNH LÀM VIỆC CỦA CON NGƯỜI DỰA VỀ PHÂN TÍCH THÔNG TIN IOT SỬ DỤNG MẠCH MỨC NHỎ CHO TỰ ĐỘNG HÓA
-
-Một phương pháp mới được phát triển để dự đoán và phân tích các mô hình hành vi của con người dựa trên phân tích dữ liệu IoT. Phương pháp này sử dụng mạng thần kinh sâu (Deep Neural Network) để phân tích và dự đoán các hành vi của con người. Mạng thần kinh sâu được đào tạo trên dữ liệu IoT để có thể nhận biết và phân tích các mẫu hành vi của con người.
-
-Phương pháp này có thể được ứng dụng trong nhiều lĩnh vực như quản lý tài nguyên, an ninh mạng, và tự động hóa. Nó có thể giúp các hệ thống tự động hóa có thể nhận biết và phản ứng với các hành vi của con người một cách nhanh chóng và chính xác.

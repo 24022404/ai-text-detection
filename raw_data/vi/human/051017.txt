@@ -1,1 +1,0 @@
-Chương 2 trình bày về thực trạng hiện nay, từ đó đi sâu vào phân tích các yêu cầu cần có và thiết kế ứng dụng.

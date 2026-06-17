@@ -1,1 +1,0 @@
-Thuật toán NetTaco khái quát hóa, mở rộng giả thuyết phân phối, vốn là nền tảng trong mô hình nhúng từ điển đưa vào mạng bằng cách sử dụng thể hiện mẫu Môtô.

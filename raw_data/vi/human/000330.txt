@@ -1,1 +1,0 @@
-Model Graph tận dụng được quan hệ giữa các turban  Model LSTM thì tốt cho dữ lệu time series  Model CNN thì kém hơn Cùng với sự hướng dẫn  của TS. Trịnh Anh Phúc, em đã xây dựng được những model điểm đánh giá được năng lượng gió của 1 trang trại. Trong quá trình xây dựng, em cũng đã tìm hiểu và biết thêm được những model mới, cách tra và đánh giá kết quả.

@@ -1,1 +1,0 @@
-Bến đỗ Photometric : Những bến đổ này bao gồm thay đổi điều kiện ánh sáng, như điều chỉnh độ sáng, độ tương phản và độ bão hòa. Nó cũng có thể bao gồm việc thêm nhiễu (Gaussian, Salt and Pepper) vào các hình ảnh.

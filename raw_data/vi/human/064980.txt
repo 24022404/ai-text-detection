@@ -1,1 +1,0 @@
-Bên Slave sau khi lấy được thờ gan thực tế, dữ liệu thờ gan sẽ được gửi cho bên Master (ESP8266) thông qua mạng RF.

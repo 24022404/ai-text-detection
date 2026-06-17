@@ -1,1 +1,0 @@
-Multiple storage engines, including InnoDB, CSV, and NDB, can be used with MySQL to store and access data. For improved performance and durability, MySQL is also capable of data replication and table partitioning. Users using MySQL do not need to learn any new SQL commands in order to access their data.

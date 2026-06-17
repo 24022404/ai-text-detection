@@ -1,9 +1,0 @@
-This paper addresses the challenge of efficient and effective reasoning over knowledge graphs (KGs) by proposing a novel embedding approach called Query2box. The method aims to improve the ability to reason about complex logical queries within the vector space, leveraging a robust and flexible representation.
-
-Methods/Approach: Query2box utilizes box embeddings to model entities and queries in knowledge graphs as axis-aligned hyper-rectangles in the vector space. This approach captures the inherent uncertainty and range of potential values that entities and queries might represent. The model expands traditional point-based embeddings by defining boxes for each entity and query, accommodating the inclusion of both conjunctive and existential logical operations.
-
-Results/Findings: The empirical evaluation demonstrates that Query2box significantly outperforms existing embedding techniques in handling multi-hop queries, demonstrating superior accuracy and reasoning capabilities. Comparative analyses show advanced performance over baseline models across several benchmark datasets, highlighting its potential to handle the diversity and complexity of queries encountered in real-world knowledge graphs.
-
-Conclusion/Implications: By employing box embeddings for reasoning over KGs, this research presents a significant advancement in the field of knowledge representation and reasoning. Query2box offers a novel approach for capturing and processing complex logical queries, paving the way for more powerful and scalable semantic reasoning systems. The findings from this study have significant implications for applications in AI domains that require advanced comprehension and manipulation of interconnected data, such as semantic web technologies and intelligent information retrieval systems.
-
-Keywords: Query2box, knowledge graphs, box embeddings, reasoning, vector space, logical queries, multi-hop queries, semantic reasoning.

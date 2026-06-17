@@ -1,1 +1,0 @@
-Add new user 1. Click "Add" from page user1. If the input is correct, the dialog success is shown to the user, and close the dialog 2. Input information of user2. If the input is incorrect, an error message will appear, requesting the user to try again.

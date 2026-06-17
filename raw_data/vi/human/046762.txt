@@ -1,1 +1,0 @@
-Quản lý khen thưởng/ kỷ luật: Quản lý nhóm có quyền thêm, chỉnh sửa hoặc xóa các khoản khen thưởng hoặc kỷ luật đối với nhân viên cấp dưới mà họ quản lý.

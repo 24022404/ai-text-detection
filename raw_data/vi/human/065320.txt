@@ -1,1 +1,0 @@
-Vấn đề của các thuật toán Policy Gradient Các phương pháp học tăng cường dựa vào policy gradient được gọi là các liệu không hiệu quả do toàn bộ lượng lớn dữ liệu sẽ chỉ được dùng cho một bước gradient descent duy nhất.

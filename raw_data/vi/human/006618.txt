@@ -1,1 +1,0 @@
-Tuy nhện tô lựa chọn Python Shell vì lý do sau đây () giao tiếp dễ dàng giữa Python và JavaScript () dễ dàng sử dụng () có nhiều hàm phục vụ việc truyền tn (v) có thể sử dụng những công nghệ của Python điểm hỗ trợ nhiều công việc mà JavaScript khó để thực hiện.

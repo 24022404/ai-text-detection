@@ -1,1 +1,0 @@
-Từ các yêu cầu nghệp vụ ở Chương 2 ,Chương 3 sẽ đi vào ch tết các công nghệ điược sử dụng điể xây dựng hệ thống. Vệc lựa chọn các công nghệ cần phù hợp với các yêu cầu bà toán, điặc bệt cần dễ dàng nâng cấp và bảo trì trong tương la.

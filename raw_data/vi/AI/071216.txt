@@ -1,5 +1,0 @@
-Cắt lớp vi tính (CT) là một kỹ thuật hình ảnh không xâm lấn giúp tạo ra hình ảnh chi tiết của các cơ quan trong cơ thể. Khi áp dụng CT để quan sát lao ống tiêu hóa dưới cơ hoành, các bác sĩ có thể nhận biết được các đặc điểm hình ảnh quan trọng.
-
-Trên hình ảnh CT, lao ống tiêu hóa dưới cơ hoành thường xuất hiện dưới dạng một hình dạng bất thường, có thể là một hình oval hoặc hình chữ nhật. Lao ống tiêu hóa có thể có kích thước khác nhau, từ nhỏ đến lớn, và có thể nằm ở vị trí khác nhau trong dạ dày hoặc ruột non.
-
-Các đặc điểm hình ảnh khác của lao ống tiêu hóa dưới cơ hoành bao gồm sự thay đổi hình dạng của ống tiêu hóa, sự hiện diện của các mảnh vỡ hoặc các vật thể lạ trong ống tiêu hóa, và sự thay đổi của các lớp mô xung quanh ống tiêu hóa. Các bác sĩ có thể sử dụng hình ảnh CT để đánh giá mức độ nghiêm trọng của lao ống tiêu hóa và đưa ra quyết định điều trị phù hợp.

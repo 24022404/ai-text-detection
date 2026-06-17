@@ -1,1 +1,0 @@
-Chương 2 trình bày những khảo sát, phân tích hiện trạng. Từ đó, xây dựng các chức năng chính của hệ thống. Thiết kế biểu đồ use case tổng quát. Thực hiện phân rã các use case. Và đặc tả chức năng chính trong hệ thống.

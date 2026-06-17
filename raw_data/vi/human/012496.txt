@@ -1,1 +1,0 @@
-rdfs:subClassOf : Các lớp được lên kết bở quan hệ subClassOf có thể tạo thành một cấu trúc phân cấp.

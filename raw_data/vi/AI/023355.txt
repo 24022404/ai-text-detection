@@ -1,7 +1,0 @@
-Xây dựng quy trình định lượng đồng thời đồng phân cefpodoxim proxetil trong viên nén bằng phương pháp HPLC là một bước quan trọng trong việc đảm bảo chất lượng và an toàn của sản phẩm. Quy trình này sử dụng thiết bị HPLC để phân tích và định lượng đồng thời hai thành phần chính trong viên nén: cefpodoxim proxetil và đồng phân của nó.
-
-Quy trình này bao gồm các bước sau: chuẩn bị mẫu, thiết lập điều kiện phân tích, chạy phân tích và xác định kết quả. Mẫu được chuẩn bị bằng cách nghiền viên nén thành bột mịn và sau đó được hòa tan trong dung dịch phù hợp. Thiết bị HPLC được thiết lập để phân tích đồng thời hai thành phần chính, với cột phân tích được chọn phù hợp với tính chất của các thành phần.
-
-Kết quả phân tích được xác định bằng cách sử dụng phần mềm phân tích HPLC. Kết quả này bao gồm nồng độ của cefpodoxim proxetil và đồng phân của nó trong viên nén. Kết quả này được sử dụng để đánh giá chất lượng và an toàn của sản phẩm.
-
-Quy trình này đảm bảo rằng sản phẩm đáp ứng các tiêu chuẩn chất lượng và an toàn, đồng thời giúp đảm bảo an toàn cho người sử dụng.

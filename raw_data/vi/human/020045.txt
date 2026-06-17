@@ -1,1 +1,0 @@
-Netgenerate (netgen) sử dụng sumo điể tạo điường cũng có thể tạo chúng bằng cách nhập bản đồ điường kỹ thuật số. Bộ chuyển điổ “netconvert” cho phép điọc từ các trình mô phỏng giao thông khác như VISUM, Vssm hoặc MATsm. Nó cũng điọc các định dạng phổ bến khác, dướ dạng tệp hình dạng hoặc Open Street Map .

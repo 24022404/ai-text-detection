@@ -1,1 +1,0 @@
-Phương thức –Set Target: phương thức giúp xác định mục tiêu tấn công cho nhân vật, là 1 thực thể quá hoặc hero trên bản đồ.

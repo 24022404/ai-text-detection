@@ -1,1 +1,0 @@
-Sửa thông tin hàng nhập Thủ nhân sự bán hàng và đơn hàng vào trong kho  có thể sửa các thông tin của sản phẩm nếu như có sai sót trong khi nhập hàng thông tin.

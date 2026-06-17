@@ -1,9 +1,0 @@
-This study addresses the challenge of reconstructing seismic data, which is crucial for accurate subsurface imaging in geophysical exploration. Traditional methods often struggle with noise and incomplete data, leading to suboptimal results. Our research introduces a novel approach leveraging deep-seismic priors and convolutional neural networks (CNNs) for enhanced seismic data reconstruction.
-
-Methods: We propose a deep-seismic-prior-based framework utilizing CNNs to model the complex relationships within seismic datasets. The approach involves training the CNN model on a comprehensive set of prior seismic data to learn intrinsic patterns and structures. This deep learning methodology enables the effective reconstruction of seismic data, even in the presence of missing or noisy data points.
-
-Results: The proposed method demonstrated superior performance in reconstructing seismic datasets compared to traditional reconstruction techniques. Our CNN model outperformed existing methods in terms of accuracy and computational efficiency, leading to clearer subsurface images. The evaluation metrics indicated a significant enhancement in data fidelity and noise reduction, proving the robustness of our model against diverse geological scenarios.
-
-Conclusion: This research contributes a compelling deep-learning-based solution for seismic data reconstruction, emphasizing the integration of deep-seismic priors to harness the power of convolutional neural networks. The findings suggest promising applications in geophysical exploration, offering improved imaging capabilities and aiding in more informed decision-making processes. The novelty of incorporating deep-seismic priors into CNN architecture sets a new benchmark for future developments in seismic data analysis.
-
-Keywords: seismic data reconstruction, deep-seismic prior, convolutional neural network, CNN, geophysical exploration, subsurface imaging, deep learning.

@@ -1,1 +1,0 @@
-là policy cuối cùng gần nhất mà ta dùng để thu được các chuỗi dữ liệu mà MDP trả về. Sử dụng importance sampling, ta tố ưu hoá policy mớ bằng dữ liệu thu được từ policy cũ.

@@ -1,1 +1,0 @@
-Và sau khi có được file 3D, trong trường hợp muốn muốn thay điổ, chỉnh sửa thông tin của vật thể (bề mặt, hình dạng,...) thì cũng yêu cầu người thiết kế phả dùng điến một phần mềm chuyên dụng cho việc thiết kế 3D (AutoCAD, Blender, Autodesk 3DS Max,...).

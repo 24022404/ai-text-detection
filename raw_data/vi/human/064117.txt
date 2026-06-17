@@ -1,1 +1,0 @@
-List[Organization]List[Object]Lấy tất cả các thông tin liên quan đến các Organization Bảng 4.2: Bảng điặc tả ch tết lớp OrganzatonVewSetc, Thết kế lớp trong gó Device Hình 4.19: Thiết kế chợ tết lớp trong gói Device Đặc tả lớp Device Set:

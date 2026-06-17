@@ -1,1 +1,0 @@
-Cả thiện thành phần phát hồng ngoại: thành phần phần cứng hiện nay chỉ gồm 1 diode LED chỉ có khả năng truyền điểm điểm, hiệu năng còn rất thấp so với mong đợi của hệ thống.

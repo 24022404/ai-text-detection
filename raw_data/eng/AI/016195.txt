@@ -1,1 +1,0 @@
-Python is generally interpreted, eliminating the need for manual compilation. However, during execution, the interpreter often compiles code into bytecode, resulting in the creation of .pyc files. This process allows Python programs to run efficiently while maintaining their interpreted nature.

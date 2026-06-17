@@ -1,1 +1,0 @@
-Tỷ lệ ảnh GAN vớ ảnh thật Thấy rằng kết quả của tập GAN không được tốt nếu trộn lẫn ảnh GAN vớ ảnh thật, em thử nghiệm huấn luyện ảnh GẮN với ảnh thật trên nhiều tỷ lệ khác nhau (Bảng 3.2). Trong đó vớ thí nghiệm chọn ngẫu nhiên tỉ lệ ảnh GẮN với ảnh thật là việc trộn lẫn toàn bộ ảnh GAN và ảnh thật lạ với nhau trong quá trình huấn luyện.

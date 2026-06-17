@@ -1,1 +1,0 @@
-Table 4.2 details the available views in the module, indicating that ticket_view.xml contains list, kanban, activity, and form views for the Ticket model; sla_view.xml provides list and form views for the SLA model; and stages_view.xml does so for Stages.

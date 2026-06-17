@@ -1,1 +1,0 @@
-Dựa vào nhu cầu và khả năng thực tế, mục yêu em đặt ra là lựa chọn xây dựng một trang web loại 1: bán nội thất cung cấp thông tin sản phẩm nội thất có sẵn tại cửa hàng, hỗ trợ khách hàng tìm kiếm, xem thông tin sản phẩm, đặt mua và thanh toán trực tuyến qua trang web.

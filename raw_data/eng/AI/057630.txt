@@ -1,1 +1,0 @@
-Chaisson, Brinza, and Pevzner (2009) explore how the length of short mate-paired reads influences de novo genome assembly, specifically assessing its impact on the quality of fragment assembly.

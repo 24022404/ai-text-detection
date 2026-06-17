@@ -1,1 +1,0 @@
-Backend được trên kha trên Azure Virtual Machine Ubuntu 18.04.6 LTS, back end có thể được sử dụng ở mọi nơ, không cần mất công sức để chạy backend mổ lần muốn gọi API. Dưới đây là các bước cài đặt và triển khai:

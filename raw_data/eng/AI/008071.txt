@@ -1,1 +1,0 @@
-The HdB sequence features a rate of 0.5, which ideally should be maximized. The precise definition of this rate can be found in section 4.2 of the document.

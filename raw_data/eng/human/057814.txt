@@ -1,1 +1,0 @@
-In the front-end registration process, new providers will be presented with a default checkbox where they can indicate whether they are an individual freelancer or part of a company. After registration, providers can update their personal details, and a dedicated tab will be available to change their provider type or add additional members if they are part of a company.

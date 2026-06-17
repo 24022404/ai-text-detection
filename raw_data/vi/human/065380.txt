@@ -1,1 +1,0 @@
-Sau khi các bảng dữ liệu điầu vào được điọc từ Drud, việc tính toán dữ liệu được thực hiện thông qua các vòng lặp trên từng dòng dữ liệu.

@@ -1,1 +1,0 @@
-To successfully execute projects, various infrastructure components must beoperational, with particular emphasis on the node’s involvement in registeringand creating encryption keys. Scaling out can result in significant infrastruc ture costs.

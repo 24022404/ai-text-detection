@@ -1,1 +1,0 @@
-Y. Zhang, V. Zhong, D. Chen, G. Angeli andC. D. Manning, “Position aware attention and supervised data improve slot filling,” inProceedings of the 2017 Conference on Empirical Methods in Natural Language Processing Copenhagen, Denmark: Association for Computational Linguistics, september 2017, pages 35–45. DOI:10 . 18653 / v1 / D17 - 1004 .url:https :

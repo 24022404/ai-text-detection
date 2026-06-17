@@ -1,9 +1,0 @@
-The increasing use of robotic-assisted surgeries necessitates precise real-time segmentation of surgical instruments within the operative field. This paper presents a novel attention-guided lightweight network tailored for the efficient and accurate segmentation of robotic surgical instruments.
-
-Methods/Approach: We propose a specialized neural network architecture that integrates attention mechanisms to enhance feature learning, thereby improving segmentation accuracy in challenging visual conditions inherent to surgical environments. The network design prioritizes computational efficiency, enabling real-time processing with reduced latency. Extensive adaptations were made to ensure the model's capability in handling varying instrument scales and complex anatomical backgrounds.
-
-Results/Findings: Our model was evaluated on a diverse set of robotic surgery datasets, demonstrating superior performance in both segmentation accuracy and processing speed compared to existing methods. The proposed network achieves notable improvements in segmentation precision, while maintaining a lightweight structure suitable for deployment in constrained hardware environments typical of robotic surgical systems.
-
-Conclusion/Implications: The attention-guided lightweight network introduced in this study represents a significant advancement for real-time image processing in robotic surgery. By balancing high accuracy and low computational demand, this approach has the potential to enhance surgical precision and operational efficiency. The research contributes to the wider adoption of AI-driven robotic systems in healthcare, paving the way for more advanced surgical automation and improved patient outcomes.
-
-Keywords: real-time segmentation, robotic surgery, attention mechanisms, lightweight network, surgical instruments, neural network, medical image processing.

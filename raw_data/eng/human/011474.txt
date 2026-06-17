@@ -1,1 +1,0 @@
-Content Management Systems (CMS): PostgreSQL is often used as the back end database for content management systems due to its reliability, scalability, and ability to handle complex data structures. It can efficiently store and re-trieve content-related data, such as articles, images, user profiles, and more.

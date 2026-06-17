@@ -1,1 +1,0 @@
-Tăng tốc độ xử lý của ứng dụng: Vì token JWT được lưu trữ trên máy khách (client), điều này giúp giảm tả cho máy chủ (server) của ứng dụng và giúp cho ứng dụng xử lý các yêu cầu của người dùng nhanh hơn.

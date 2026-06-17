@@ -1,1 +1,0 @@
-Cải thiện giao diện chính Đối với giao vện khảo sát hiện tại em đã thay đổi màu từ đỏ sang xanh, cùng với việc thêm menu chứa các icon dễ hiểu và có gợi ý khi trỏ chuột vào sẽ hiện lên như "Toàn bộ tài liệu". Trên header có thêm tên của tài liệu, logo của hệ thống, ngoài ra có cả nút tải file xuống máy. Ta có thể thấy rõ theo Hình 5.2 bên dưới:

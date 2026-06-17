@@ -1,1 +1,0 @@
-Cửa sổ bên phải sẽ hiển thị đồ đang mặc ở bên trên và đồ trong hành trang ở bên dưới.

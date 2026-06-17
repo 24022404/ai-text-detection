@@ -1,1 +1,0 @@
-Framework Freedom: cho phép sử dụng nhiều framework khác nhau trong một single page application, cha mã nguồn theo tính năng. Ví dụ: các ứng dụng con được phát triển bằng các framework khác nhau (Vue JS, AngularJS, ReactJS,...).

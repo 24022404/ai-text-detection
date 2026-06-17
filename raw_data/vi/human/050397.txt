@@ -1,1 +1,0 @@
-Đầu ra của môđun RA là đặc trưng chứa thông tin còn thiếu nhằm bổ sung cho đầu ra dự đoán của bước trước. Do đó ta cần một kết nối phần dư kết hợp đầu ra của môđun RA và đầu ra của bước trước thông qua toán tử cộng tương ứng từng phần tử để thu điược kết quả cuố cùng điã điược tnh chỉnh (xem Hình 3.17).

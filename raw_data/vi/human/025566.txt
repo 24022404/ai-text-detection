@@ -1,1 +1,0 @@
-Ngườ dùng nhấp vào nút tìm kếm bên cạnh thanh tìm kếm 7.Hệ thống hển thị danh sách các bà đăng thỏa mãn tùy chọn bộ lọc và từ khóa tìm kếm đó.

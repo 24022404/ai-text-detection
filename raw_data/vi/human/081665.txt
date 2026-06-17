@@ -1,1 +1,0 @@
-Thỏa mãn tất cả các điều kiện hoặc thỏa mãn 1 trong các điều kiện mà người dùng đã nhập.

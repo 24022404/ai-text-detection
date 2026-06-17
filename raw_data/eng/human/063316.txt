@@ -1,1 +1,0 @@
-Main API Server Acting as a buffer between database and other actors, including microservices and users, API server handles most of the workloads on a regular basic.

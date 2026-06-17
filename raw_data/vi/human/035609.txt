@@ -1,1 +1,0 @@
-Chương 5, em sẽ trình bày tất cả những nội dung đóng góp mà mình thấy tâm đắc nhất trong suốt quá trình làm ĐATN. Cụ thể là phân tích các chức năng được cả tên và hệ thống hóa một số quy trình nghiệp vụ, giúp người dùng bỏ qua những bước lặp lại thường xuyên, tiết kiệm thờ gan và tối ưu hóa công việc quản lý.

@@ -1,1 +1,0 @@
-Kh 2 người điều thực hiện chức năng follow nhau thì hệ thống mới hiển thị các bạn bè. Người dùng ấn chọn vào bạn bè muốn nhắn tin, hệ thống hiển thị giao diện tin nhắn của 2 người. Và người dùng nhập tin nhắn sau đó gửi. Các tin nhắn sẽ được hiển thị trên màn hình.

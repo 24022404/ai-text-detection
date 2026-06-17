@@ -1,1 +1,0 @@
-First I check the validity of the provided checksum (MD5 hash) and whether the file exists in the database ( RecentScanResult ).

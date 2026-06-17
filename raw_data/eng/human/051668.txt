@@ -1,1 +1,0 @@
-API package handle incoming requests from the client. Beside using Application Core for executing business logic, API package also use the Authentication package to authenticate.

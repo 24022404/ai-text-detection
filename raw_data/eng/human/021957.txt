@@ -1,1 +1,0 @@
-However, if the width and height of candidate boxes do not ensure longer than one of containing boxes, the width and height of containing boxes will be selected to not ignore important information about humans.

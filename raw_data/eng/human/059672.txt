@@ -1,1 +1,0 @@
-Ticket Overflow Helpdesk applications usually support a ticket workflow that allows users to move tickets through different stages, suchas "Open," "In Progress," Solved" and "Closed." Workflow related actions and buttons may be integrated into the ticket interface.

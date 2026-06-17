@@ -1,1 +1,0 @@
-Identify the principal components: It is trivial that Covis symmetric and positive definite so we apply the spectral decomposition on it.

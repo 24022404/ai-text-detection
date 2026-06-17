@@ -1,1 +1,0 @@
-LSTMs: Before the Transformer era, many variants of the classic RNN have been proposed, of which the Long Short-Term Memory (LSTM) is one of the most prominent ones . In these architectures, several gates are used to regulate the flow, i.e.rather than passing the entire hidden state, it partially processes the previous state as well as new inputs.

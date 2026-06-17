@@ -1,1 +1,0 @@
-Alternative Flow 2a. User navigates to list services screen3a.User chooses a service and applies filters for refine ment.Exception Flow 1. System error during creation process 2. Transaction encountered an error while processing with a third party.

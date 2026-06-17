@@ -1,1 +1,0 @@
-B. Xie, M. Li, and S. Li, “Spcl: A new framework for domain adaptive semantic segmentation via semantic prototype-based contrastive learning,” arXiv preprint arXiv:2111.12358 , 2021.

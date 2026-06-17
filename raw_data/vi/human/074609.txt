@@ -1,1 +1,0 @@
-Mô hình này giúp hệ thống có khả năng phát triển trên nhiều nền tảng khác trong tương lai, ví dụ như Mobile App. Kh đió, Mobile app sẽ trở thành một phần frontend khác, gạo nếp vớ backend qua các API điã điịnh nghĩa sẵn.

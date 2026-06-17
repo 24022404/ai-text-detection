@@ -1,9 +1,0 @@
-This paper addresses the computational challenges associated with large-scale optimal transport (OT), a mathematical framework with widespread applications in various fields such as machine learning, economics, and computer graphics. Standard OT approaches can be computationally intensive, especially when dealing with large datasets.
-
-Methods/Approach: We propose a novel adversarial training framework that leverages cycle-consistency to efficiently compute optimal transport plans at scale. Our approach integrates the strengths of adversarial learning methods with a cycle-consistent loss, ensuring that transport plans maintain structural integrity across domains. The method utilizes neural networks to approximate transport maps, reducing the dimensional complexity typically encountered in traditional implementations.
-
-Results/Findings: Our experiments demonstrate significant improvements in computational efficiency while maintaining high accuracy in transport plan estimation compared to conventional OT techniques. The proposed method is validated on large-scale benchmark datasets, illustrating superior performance in terms of both speed and precision. Additionally, comparisons with existing adversarial methods confirm the robustness and consistency of our approach.
-
-Conclusion/Implications: This research presents a scalable solution to optimal transport problems by introducing an innovative adversarial framework with cycle-consistency. Our contributions offer a viable pathway for efficiently handling large datasets in various applications, ranging from image and text processing to economic modeling. This advancement opens doors for new applications of OT in domains that require quick and reliable transport computations, encouraging further exploration in adversarial training paradigms.
-
-Keywords: optimal transport, adversarial training, cycle-consistency, neural networks, large-scale computation, machine learning.

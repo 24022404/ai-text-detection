@@ -1,1 +1,0 @@
-Gần nhất, nhều lượt xem, chưa có câu trả lờGần nhất Bảng 2.5: Thông tin dữ lệu truy vấn Kết quả truy vấn điược hển thị dướ dạng danh sách các bà đăng và phả hển thị các thông tin sau của mỗ bà điăng: Tên bà đăng, tên nhóm, phần điầu nộ dung, comment gần nhất và số lượng tương tác.

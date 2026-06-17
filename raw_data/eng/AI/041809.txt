@@ -1,1 +1,0 @@
-Y.-C. Hsieh’s 2001 paper introduces a decoding method for structured light patterns aimed at enhancing the accuracy of 3D imaging systems.

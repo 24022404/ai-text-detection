@@ -1,1 +1,0 @@
-Ngoài WebSocket , một phương pháp khác để đồng bộ dữ liệu thời gian thực trong lập trình web là Long Polling. Long Polling là một kỹ thuật truyền dữ liệu mà được sử dụng kh WebSocket  không khả dụng hoặc không được hỗ trợ trên trình duyệt đang sử dụng.

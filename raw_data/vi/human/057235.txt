@@ -1,1 +1,0 @@
-Google API sử dụng giao thức OAuth 2.0 để xác thực và ủy quyền. Để sử dụng được Google API, trước tiên ta cần lấy thông tin xác thực OAuth 2.0 từ Google API Console bao gồm mã ứng dụng khách và thông tin mật khẩu ứng dụng.

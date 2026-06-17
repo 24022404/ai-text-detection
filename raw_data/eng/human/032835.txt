@@ -1,1 +1,0 @@
-Overall design One advantage of using Unity engine as the primary developing environment is that the entire code base is generally enclosed in a single project. The overall code structure is depicted in package diagram 4.4.

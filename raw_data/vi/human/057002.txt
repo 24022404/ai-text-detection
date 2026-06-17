@@ -1,1 +1,0 @@
-Tuy nhiên facebook yêu cầu máy chủ có thể truy cập web và có hỗ trợ HTTPS cho webhook của facebook. Qua quá trình tìm hiểu, em quyết định sử dụng heroku  làm nền tảng triển khai server chat điể call API gửi tin nhắn của facebook do heroku có một số ưu điểm như hỗ trợ nhiều ngôn ngữ lập trình, cung cấp cơ sở dữ liệu và đặc biệt là hỗ trợ triển khai code miễn phí.

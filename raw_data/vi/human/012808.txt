@@ -1,1 +1,0 @@
-Ví dụ về dữ liệu như hình 3.6, muốn loại bỏ các base ở cuối read có qualty < 25, thì theo câu lệnh tương ứng sẽ là:

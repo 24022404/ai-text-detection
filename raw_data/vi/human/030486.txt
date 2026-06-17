@@ -1,1 +1,0 @@
-Controller vớ nhiệm vụ tiếp nhận và xử lý yêu cầu. Yêu cầu từ người dùng sẽ được xử lý và lấy dữ liệu từ bộ Model tùy theo yêu cầu và trả lại dữ liệu cho phía View một cách hợp lý và chính xác nhất.

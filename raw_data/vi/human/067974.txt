@@ -1,1 +1,0 @@
-STT Tên Kiểu dữ liệu trả về Mô tả (mục điích) 1 getLstApplcant ServceResult Lấy danh sách ứng vên Parameter: Không Exception: Không STT Tên Kiểu dữ liệu trả về Mô tả (mục đích) 2 get Apply Result Service Result Lưu kết quả chấp nhận hoặc từ chối ứng viên Parameter:

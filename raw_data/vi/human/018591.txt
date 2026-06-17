@@ -1,1 +1,0 @@
-Bằng việc tạo ra và kiểm soát, thay đổi các thông số trên liên tục, ta có thể tạo ra một bộ mô phỏng hoàn thiện, ứng với môi trường đề ra. Tương ứng với mỗi tập của mô trường học, hiện tại đang là 5 phút, các thông số trên sẽ được thay đổi sao cho vừa đủ điểm có thể hoàn thành được một bộ trạng thái. Cụ thể, với mỗi tập của mô trường:

@@ -1,1 +1,0 @@
-Cuối cùng, Blogs Controller goSave Blog(Blog) trên Blogger điểm lưu thông tin bài viết vào cơ sở dữ liệu. Nếu lưu trữ thành công, Blogs trả về giá trị true . Nếu tất cả các bước trên thành công, FormCreate Blog sẽ nhận được phản hồi true từ Blogs Controller và ngọ Create Success Dialog() điểm thông báo thành công.

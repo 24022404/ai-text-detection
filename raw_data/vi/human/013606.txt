@@ -1,1 +1,0 @@
-Trong vài năm trở lại đây, có thêm hoa đặc trưng của dữ lệu lớn mà người ta quan tâm đến là giá trị (value) và tính xác thực (veracity) . Dữ lệu luôn có giá trị nhưng sẽ vô dụng nếu nó không được khám phá, đồng thờ dữ lệu cũng phải đảm bảo độ tin cậy mới có thể tạo ra giá trị thật sự.

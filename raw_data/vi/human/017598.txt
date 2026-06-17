@@ -1,1 +1,0 @@
-Vậy mục tiêu của hầu hết các nhà phát triển sẽ là giúp trả nhiệm người dùng tốt và quảng bá được trang web của họ trên công cụ tìm kiếm, ví dụ điển hình là Google. Vì vậy các website truyền thống sử dụng một cách rendering website có tên gọi là server side rendering viết tắt là SSR.

@@ -1,1 +1,0 @@
-R. C. Staudenmeyer and E. R. Morris, “Understanding lstm–a tutorial to long short term memory recurrent neural networks,” arXiv preprint arXiv:1909.09586 , 2019.

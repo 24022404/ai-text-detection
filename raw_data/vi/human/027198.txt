@@ -1,1 +1,0 @@
-là giá trị mục tiêu và ta có thể dùng các phương pháp như Monte Carlo , Temporal Difference  để tính toán.

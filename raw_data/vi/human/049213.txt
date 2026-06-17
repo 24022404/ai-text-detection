@@ -1,1 +1,0 @@
-Biểu đồ use case tổng quát Hệ thống  website  có ba tác nhân chính là: Khách vãng lai, Tài khoản thành viên và Quản trị viên, trong đó tác nhân người dùng là tác nhân được phục vụ chủ yếu.• Khách vãng lai:  Xem sản phẩm, tìm kiếm sản phẩm, đăng ký tài khoản.

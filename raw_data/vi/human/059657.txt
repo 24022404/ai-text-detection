@@ -1,1 +1,0 @@
-Biểu đồ lưu lượng truy cập theo trình duyệt Bảng Bảng gồm có ba cột: tên trình duyệt, tỷ lệ người dùng, số lượt xem. Biểu đồ cho bết các trình duyệt mà người dùng sử dụng điểm đọc báo điện tử và phân bố lượng người dùng/lượt xem trên các trình duyệt đố.

@@ -1,1 +1,0 @@
-Gó JS chứa các tệp tin xử lý sự kiện, kiểm tra và điều khiển dữ liệu nhập vào từ người dùng. Tạo hiệu ứng động, hoạt hình, giao tiếp với máy chủ và thay đổi nội dung trang web mà không cần tải lại trang.

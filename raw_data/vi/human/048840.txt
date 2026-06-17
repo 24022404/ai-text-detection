@@ -1,1 +1,0 @@
-Factory Method  một mẫu thiết kế sáng tạo (creational design pattern) cung cấp một giao diện để tạo ra các đối tượng trong một lớp cha (superclass), nhưng cho phép các lớp con (subclasses) thay đổi loại đối tượng sẽ được tạo ra .

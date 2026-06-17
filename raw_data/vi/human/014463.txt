@@ -1,1 +1,0 @@
-Điều khiển của trò chơi được thể hiện trong hình 3.3 Ngoài những phím cơ bản điều điều khiển nhân vật sẽ có một và phím sử dụng điể d chuyển trong hệ thống UI, sẽ được hướng dẫn chi tiết trên màn hình chơi game ví dụ nút Tab để mở kho đồ Hình 3.3: Hướng dẫn điều khiển trong SmpleRogue trong quá trình chơ.

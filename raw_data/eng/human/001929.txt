@@ -1,1 +1,0 @@
-Chapter 3: Methodology In this chapter, we present the methodology adopted in the development of our task and project management application. The chapter discusses the agile principles and modern web development technologies utilized in our approach, outlining the rationale behind their selection and implementation.

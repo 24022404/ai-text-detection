@@ -1,1 +1,0 @@
-Xem báo cáo thu, chi: Thống kê doanh thu chi tết, tổng hợp theo từng khách hàng trong hệ thống. Cho phép tìm kiếm theo tên khách hàng, mã khách hàng, thờ gan và có thể export ra file excel các báo cáo thống kê này.

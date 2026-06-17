@@ -1,1 +1,0 @@
-The accuracy of Matrix Factorization algorithm will be shown in the following section when comparing with other algorithms with the same purpose.5.1 User Interface When launching the application, the browser will display the Login UI. User enters required information to access such as email and password.

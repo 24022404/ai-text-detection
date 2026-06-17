@@ -1,1 +1,0 @@
-Kết quả đạt được Sau quá trình thực hiện đồ án, kết quả tô đã xây dựng được một phương pháp để phát hiện hành động lấy đồ và mô hình phát hiện sản phẩm trong cửa hàng tiện lợi.

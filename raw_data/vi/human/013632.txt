@@ -1,1 +1,0 @@
-Phần backend sẽ sử dụng Firebase  – là một dịch vụ backend của Google cung cấp các API đơn giản. Với ưu điểm dễ dàng sử dụng giúp chúng ta trong việc phát triển ứng dụng một cách rất nhanh chóng.

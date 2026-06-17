@@ -1,1 +1,0 @@
-NIAP Scan Findings: Security compliance findings based on the NIAP (National Information Assurance Partnership) guides.*URLs and Emails Extracted: A list of extracted URLs and emailaddresses found in the code, which may pose security risks if hard coded.

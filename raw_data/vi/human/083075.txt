@@ -1,1 +1,0 @@
-Gó Applcaton Layer: chứa 2 gó controller object và model object. Gó con troller object chịu trách nhệm điều khển sự tương tác của ap và model object.

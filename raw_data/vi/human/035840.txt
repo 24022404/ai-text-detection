@@ -1,1 +1,0 @@
-Gao dệt được chia ra làm 2 phần rõ ràng gồm: bên trái là danh sách các bộ sưu tập người dùng đã tạo, bên phả hiển thị danh sách các bài viết của một bộ sưu tập.

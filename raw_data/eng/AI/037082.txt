@@ -1,1 +1,0 @@
-Operations apply timeout settings, such as settings.SAST_TIMEOUT, to prevent excessive resource consumption. These configurations also enable efficient asynchronous workflows by utilizing tools like run_with_timeout for process control.

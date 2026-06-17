@@ -1,1 +1,0 @@
-Chính vì lý do đió, ta sẽ lưu trữ đồng thờ 2 định dạng điố với mỗ vật thể gồm có: định dạng .USDZ và định dạng .glb. Bảng products trong cơ sở dữ lệu vì vậy sẽ có 2 trường:

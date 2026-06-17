@@ -1,1 +1,0 @@
-Finally, the Controller layer returns the formatted data in the form of an HTTPresponse to the client. This architecture is designed to promote separation of con cerns and improve maintainability and scalability of the application.

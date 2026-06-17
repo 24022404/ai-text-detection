@@ -1,9 +1,0 @@
-Objective: Safe and efficient autonomous driving requires models that mimic human visual processing, balancing global scene awareness with focused attention on critical regions. This paper introduces a Periphery-Fovea Multi-Resolution Driving Model guided by human attention, aiming to improve decision making in complex traffic scenarios.
-
-Methods: Our approach employs a dual-stream convolutional neural architecture. The peripheral stream processes downsampled full-frame inputs to capture scene context, while the foveal stream dynamically extracts high-resolution patches centered on regions of interest predicted by a learned human gaze estimator. We integrate these streams via an attention-based fusion module that weights peripheral and foveal feature maps according to task relevance. The model is trained end-to-end on a large-scale driving dataset annotated with steering angles, braking events, and driver gaze trajectories.
-
-Results: Compared to single-resolution baselines, our periphery-fovea model reduces steering prediction error by 18% and false braking instances by 22% on held-out test tracks. Ablation studies confirm that gaze-guided foveal sampling yields a 12% performance gain over uniform high-resolution cropping. Real-time inference is maintained at 25 fps, demonstrating feasibility for onboard deployment.
-
-Conclusion: By emulating human attention with a multi-resolution design, the proposed model achieves superior driving performance and interpretability. This work underscores the value of human-guided attention mechanisms in autonomous vehicle perception and paves the way for more robust, cognitively inspired driving systems.  
-
-Keywords: autonomous driving, human attention, multi-resolution, periphery-fovea model, gaze estimation, attention fusion.

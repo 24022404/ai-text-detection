@@ -1,1 +1,0 @@
-Another test case of the library has been conducted in a project  to build a city with five types of agents, including lazy students, diligent students, chefs, police officers, and office workers. Each agent is designed with specific scenarios.

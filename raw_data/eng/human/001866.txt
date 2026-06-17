@@ -1,1 +1,0 @@
-Jozsef Vass, How discord handles two and half million concurrent voice users using webrtc . [On]. Available: https : / / discord . com / blog /howdscordhandlestwoandhalfmllonconcurrent voceusersusngwebrtc (wasted on 09/30/2010).

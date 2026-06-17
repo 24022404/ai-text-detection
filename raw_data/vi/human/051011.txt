@@ -1,1 +1,0 @@
-năng được chọn cao hơn nhiều so với policy trước. Đây là điều tốt, tuy nhiên, vì ngày thời điểm này nó điã điang làm khá tốt rồ, ta không muốn model tiếp tục học theo hướng này quá nhiều vì điều đó có khả năng dẫn điện vệc bước quá xa và dễ dẫn đến một bước cập nhật policy quá mức, dẫn đến hỏng quá trình huấn luyện. Do đó ta giới hạn giá trị này lạ ở mức (1 +ϵ).

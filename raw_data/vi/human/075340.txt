@@ -1,1 +1,0 @@
-Xử lý dữ lệu mất mát theo ý người dùng mong muốn: bỏ qua hoặc chuyển sang 0  Xử lý, phân tích dữ lệu tốt như mô hình hoá và thống kê  Tích hợp  tốt với các thư viện khác của python  Cung cấp hiệu suất tốt  4.3.4 Numpy  Hình 4. 6.Numpy  Numpy là là một thư viện toán học rât phổ biến và mạnh mẽ của Python.

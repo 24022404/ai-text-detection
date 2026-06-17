@@ -1,1 +1,0 @@
-Quản lý sản phẩm: quản lý thông tin chi tiết về các sản phẩm có trong cửa hàng. Ngoài ra cũng cần quản lý thông tin về các danh mục sản phẩm.

@@ -1,1 +1,0 @@
-Kh dữ liệu trả về bị đánh cắp, kẻ tấn công có thể truy cập và đọc được các thông tin nhạy cảm của người dùng, bao gồm tên đăng nhập, mật khẩu, thông tin thẻ tín dụng và các thông tin khác. Kh kẻ tấn công có được các thông tin này, họ có thể sử dụng chúng để thực hiện các cuộc tấn công khác như đánh cắp tài khoản, lừa đảo hoặc chiếm quyền điều khiển các tài khoản trực tuyến.

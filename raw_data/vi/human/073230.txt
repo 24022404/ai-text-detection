@@ -1,1 +1,0 @@
-Cả ha tệp tin này để trả về những thông tin rất cụ thể vì thế ta có thể dễ dàng phân tích kết quả dựa trên phản hồi của Server.

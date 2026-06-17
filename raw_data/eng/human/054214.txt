@@ -1,1 +1,0 @@
-The primary distinction between an LSTM and a standard vanilla RNN is that an LSTM incorporates an extra pathway for information flow. Besides the hidden state, there is a cell state that effectively stores information from previous steps.

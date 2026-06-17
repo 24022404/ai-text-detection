@@ -1,1 +1,0 @@
-Tạo mớ Kafka topc và Drud datasource Kh nhận thông tin về một chỉ báo mớ, phân hệ tạo yêu cầu điến ha hệ thống Kafka và Apache Drud điể tạo mớ những thành phần lưu trữ dữ liệu.

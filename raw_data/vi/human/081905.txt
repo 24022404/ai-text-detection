@@ -1,1 +1,0 @@
-Order : Thực thể "Order" mô tả gỏ sách trong hệ thống có thể. Mỗ "User" có Role" là User có thể thêm mớ Order. "User" có "Role" là Admn có thể xác nhận người dùng đã nhận hoặc đã trả sách.

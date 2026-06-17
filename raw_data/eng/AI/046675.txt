@@ -1,1 +1,0 @@
-TensorFlow provides a low-level API, enabling users to tailor the framework’s operations, making it highly adaptable for specialized use cases.

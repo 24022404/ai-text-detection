@@ -1,1 +1,0 @@
-Đố vớ kiểm thử các chức năng đăng ký tài khoản, xem ch tết và vết, chỉnh sửa bài viết, xóa bài viết,... cũng tương tự với kiểm thử các chức năng đăng nhập tài khoản, tìm kiếm bài viết, tạo bài viết và bình luận vào bài viết được trình bày ở trên.

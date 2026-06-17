@@ -1,1 +1,0 @@
-Problem description Each time a user searches for a product, he can only search by product type, product name, or unique attribute, and cannot perform multiple search filters at the same time. If the user searches for more than one filter, an error occurs or no products are displayed even though there are products that satisfy the search criteria.

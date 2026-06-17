@@ -1,1 +1,0 @@
-Gả pháp Từ vấn đề trên, tô đã tìm hiểu và bếp điện WebSocket. WebSocket là công nghệ hỗ trợ giao tiếp hai chiều giữa client và server bằng cách sử dụng một TCP socket để tạo một kết nối hiệu quả và ít tốn kém. Ch tết công nghệ điã điược gớ thiệu ở chương 3. Trong phần này, tôi sẽ đi sâu vào việc xử lý gả quyết vấn đề.

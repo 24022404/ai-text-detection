@@ -1,1 +1,0 @@
-Identifying and testing exported activities in an Android app is crucial for maintaining app security. Since exported activities can be accessed by other apps, improper configuration or lack of proper security measures can lead to serious vulnerabilities. Developers must thoroughly review these components to prevent unauthorized access and potential exploitation.

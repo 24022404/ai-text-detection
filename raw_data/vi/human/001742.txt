@@ -1,1 +1,0 @@
-Đa ngôn ngữ và đia kênh bán hàng : Magento cho phép người dùng cấu hình trang web của mình với nhều ngôn ngữ khác nhau và kết nố với nhều kênh bán hàng khác nhau.

@@ -1,1 +1,0 @@
-MethodologyRetrieve Manifest File: The manifest file is extracted from the file uploaded. This involves parsing the APK structure to locate the MANI FEST.MF file, which holds crucial metadata about the app.

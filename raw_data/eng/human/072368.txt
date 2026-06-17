@@ -1,1 +1,0 @@
-Evaluation metrics Multilabel classification refers to the case where a data point can be assigned to more than one class, and there are many classes available. Unlike in multi-class classification, in multilabel classification, the classes aren’t mutually exclusive.

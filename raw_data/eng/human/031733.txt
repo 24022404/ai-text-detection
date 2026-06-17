@@ -1,1 +1,0 @@
-A screenshot of the device/emulator screen is captured and saved as an image file on the analysis system.*The user can view and analyze the screenshot for documentation or further investigation.

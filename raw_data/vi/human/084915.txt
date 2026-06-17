@@ -1,1 +1,0 @@
-Thư viện Scrapy Playwright Để khắc phục những hạn chế của Scrapy trong việc trích xuất dữ liệu các bà báo từ các trang web có sử dụng Javascript, cần có sự hỗ trợ của framework Playwright.

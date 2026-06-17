@@ -1,1 +1,0 @@
-MongoDB is used for high-volume data storage, helping organizations storelarge amounts of data while still performing rapidly. Organizations also use Mon goDB for its ad-hoc queries, indexing, load balancing, aggregation, server-side JavaScript execution and other features.

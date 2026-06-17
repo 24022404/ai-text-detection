@@ -1,1 +1,0 @@
-Nếu sản phẩm không có mã sản phẩm để quét, người bán hàng có thể chọn sản phẩm từ menu sản phẩm trên hệ thống bán hàng. Sau khi chọn sản phẩm, hệ thống sẽ tự động thêm sản phẩm vào hoá đơn bán hàng.

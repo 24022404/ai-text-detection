@@ -1,1 +1,0 @@
-Đặt vấn đề Khi sử dụng cơ sở dữ liệu với các bảng lớn, việc truy xuất dữ liệu trở nên chậm và tốn nhiều thời gian. Đều này có thể xảy ra khi hệ thống phả tìm kiếm thông tin trong toàn bộ bảng hoặc trong một phạm vi lớn của bảng. Việc sử dụng index có thể giúp giải quyết vấn đề này.

@@ -1,1 +1,0 @@
-When a client application sends a query to PostgreSQL, the query is first parsed and analyzed by the query parser. The query is then passed to the query optimizer, which generates an efficient execution plan based on indexes, statistics, and cost estimates. This plan is then executed by the query executor.

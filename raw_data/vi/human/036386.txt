@@ -1,1 +1,0 @@
-k(x, z) =x.z (3.3) 3.3.3 Hàm mất mát của Multiclass Support Vector Machine Hàm mất mát cho bài toán phân loại nhiều lớp bằng SVM như sau:

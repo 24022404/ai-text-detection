@@ -1,1 +1,0 @@
-Admin có thể thông kế các chỉ số của ứng dụng nhằm mục đích quản lý chương trình tốt hơn. Bên cạnh đó có thể xuất các báo cáo liên quan đến thống kê.

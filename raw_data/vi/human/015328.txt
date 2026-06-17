@@ -1,1 +1,0 @@
-Hỗ trợ MVC (Model View Controller): Laravel triển khai mô hình kiến trúc MVC, giúp phân chia logic ứng dụng thành các phần riêng biệt, từ đó dễ dàng quản lý và phát triển mã nguồn. Mô hình MVC cũng giúp cải thiện tính tái sử dụng mã và tách biệt giao diện người dùng và xử lý dữ lệu.

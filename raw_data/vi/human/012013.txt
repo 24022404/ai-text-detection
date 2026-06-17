@@ -1,1 +1,0 @@
-Model: Các Model gữ vai trò dữ liệu chính của chương trình như thông tin từ các đối tượng của cơ sở dữ liệu và các câu truy vấn SQL. Tất cả dữ liệu thu được từ các model; tuy nhiên các module không thể được gọi trực tiếp mà controller phả yêu cầu model cho đặc tả dữ liệu và rồ model thực thi các truy vấn và trả về dữ liệu cho controller.

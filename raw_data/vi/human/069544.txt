@@ -1,1 +1,0 @@
-Cuối cùng, tọa độ của các hộp ký tự sẽ được chuyển lạ về tạo độ trong ảnh thực. Pseudo Ground truth choragon score và affinity score sẽ được tạo ra giống như ở bước trên.

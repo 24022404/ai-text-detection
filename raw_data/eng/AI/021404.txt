@@ -1,1 +1,0 @@
-The modular architecture supports seamless scalability, making it simple to add new analysis types or enhance current functions as needed.

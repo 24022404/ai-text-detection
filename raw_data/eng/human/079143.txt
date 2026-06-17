@@ -1,1 +1,0 @@
-Y. Liu, L. Zhang, N. Ge andG. Li, “A systematic literature review on federated learning: From a model quality perspective,” arXiv preprint arXiv:2012.01973 , 2020.

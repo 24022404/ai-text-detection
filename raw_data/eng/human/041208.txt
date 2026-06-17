@@ -1,1 +1,0 @@
-To calculate the BLEU score, the first step involves computing the precision score for 1-gram through 4-gram sequences. The precision of an n-gram is determined by the ratio of the number of correctly predicted n-grams to the total number of predicted n-grams.

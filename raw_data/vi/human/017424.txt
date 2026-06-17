@@ -1,1 +1,0 @@
-Kiểu dữ liệu Date và Time trong MySQL Trong MySQL, kiểu dữ liệu Date và Time được sử dụng để lưu trữ các giá trị liên quan đến ngày và thờ gan.

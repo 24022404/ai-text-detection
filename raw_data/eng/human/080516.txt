@@ -1,1 +1,0 @@
-In a poorly supervised way, the proposed RIMOC feature is utilized to develop statistical models of normal coherent movements. Events with irregular mobility may be identified in space and time using a multi-scale approach combined with an inference-based method, making them ideal candidates for aggressive events.

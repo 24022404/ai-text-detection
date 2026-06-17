@@ -1,1 +1,0 @@
-Bên cạnh thông tin về tên, các thông tin khác của DAG cũng được cung cấp trên giao diện như: owner (chủ nhân) của DAG, lịch sử những lần chạy, thông tin lập lịch, thờ gan lần chạy gần nhất, thờ gan lần chạy tếp theo và các thông tin khác.

@@ -1,1 +1,0 @@
-All the above-mentioned components, i.e. HandlerMapping, Controller, and ViewResolver are parts of WebApplicationContext which is an extension of the plainAp plicationContext with some extra features necessary for web applications.

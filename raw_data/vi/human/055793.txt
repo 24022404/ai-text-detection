@@ -1,1 +1,0 @@
-Được cập nhật thường xuyên: CryptoJS là một thư viện mã nguồn mở và được cập nhật thường xuyên để cải thiện hiệu suất và bảo mật.

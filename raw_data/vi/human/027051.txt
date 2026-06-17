@@ -1,1 +1,0 @@
-Nếu người dùng muốn chia sẻ phòng với người dùng mớ, hệ thống sẽ hiển thị một biểu mẫu để thêm người dùng mới vào danh sách. Tạ đây, người dùng có thể chọn người dùng cần thêm vào phòng và cũng có thể điều chỉnh quyền truy cập của họ.

@@ -1,1 +1,0 @@
-Quản trị viên: Tài khoản quản trị có vai trò như một người dùng, ngoài ra còn có chức năng thống kê các thông tin khóa học, người dùng trên hệ thống.

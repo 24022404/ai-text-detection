@@ -1,1 +1,0 @@
-Generally speaking, relation extraction is a multi-classification problem where learners are trained to predict the relationship between two given entities in a context. For example, given the entity pair [James Cameron, Titanic] in the sentence “Titanic is an epic romance film directed by James Cameron”, the classifier is expected to predict the relation the-director-of .

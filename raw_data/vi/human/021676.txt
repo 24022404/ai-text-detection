@@ -1,1 +1,0 @@
-Mã nguồn của ứng dụng sẽ chia làm ba phần: smart contract  xử lý các nghiệp vụ có kết nối điện blockchain, backend – xử lý các nghiệp vụ logic, kết nối với dữ liệu điểm thực hiện các tính năng; và frontend – hiển thị dữ liệu, tương tác với người dùng.

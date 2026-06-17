@@ -1,1 +1,0 @@
-Bước 1: Đăng ký và lấy API Key: Truy cập vào trang web của OpenAI và đăng ký tài khoản để lấy API Key. API Key này sẽ được sử dụng điểm truy cập dịch vụ Chat GPT từ ứng dụng.

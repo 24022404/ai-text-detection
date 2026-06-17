@@ -1,1 +1,0 @@
-By leveraging image segmentation and computer vision, it becomes possible to automatically detect errors like the too much tin issue shown in Figure 3.7. Excess tin on component pins can form redundant points that may touch and create short circuits, risking device failure.

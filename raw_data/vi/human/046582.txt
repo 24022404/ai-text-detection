@@ -1,1 +1,0 @@
-Yêu cầu về công nghệ Sử dụng giao thức HTTP trong việc truyền các dữ liệu giữa client và server.

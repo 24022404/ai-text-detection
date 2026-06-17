@@ -1,1 +1,0 @@
-Tên thuộc tính Kiểu dữ liệu Phạm vi truy cập Mô tả Product Product Public Sản phẩm cần thêm hoặc chỉnh sửa Image Image Public Các ảnh minh họa cho sản phẩm Bảng 4.6: Mô tả ch tết phương thức trong lớp ProductIon.

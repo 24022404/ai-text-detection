@@ -1,5 +1,0 @@
-Các nhà khoa học đã thực hiện thử nghiệm tích hợp mô hình Marine và mô hình sóng động học một chiều trên lưu vực sông Cái Nha Trang. Mục tiêu của nghiên cứu này là đánh giá hiệu quả của mô hình tích hợp trong việc mô phỏng và dự đoán các quá trình thủy văn trên lưu vực sông.
-
-Kết quả thử nghiệm cho thấy mô hình tích hợp đã thể hiện được khả năng mô phỏng chính xác các quá trình thủy văn trên lưu vực sông, bao gồm cả quá trình lũ lụt và quá trình khô hạn. Mô hình cũng đã thể hiện được khả năng dự đoán các biến đổi khí hậu và biến đổi môi trường trên lưu vực sông.
-
-Nghiên cứu này có ý nghĩa quan trọng trong việc hỗ trợ công tác quản lý và bảo vệ tài nguyên nước trên lưu vực sông Cái Nha Trang. Kết quả của nghiên cứu này sẽ được sử dụng để xây dựng các mô hình dự báo và cảnh báo lũ lụt, giúp người dân và các cơ quan chức năng có thể chuẩn bị và ứng phó kịp thời với các tình huống khẩn cấp.

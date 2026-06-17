@@ -1,1 +1,0 @@
-STT Tên trường Kiểu dữ lệu Khóa Mô tả 1 time date RPG Thờ gan 2 loc d nt PRI Mã vị trí 3 user nt Số người dùng 4 vent Số lượt xem Bảng 3.5: Bảng locaton_analyss Bảng age_analyss lưu trữ dữ lệu phân tích lưu lượng truy cập theo độ tuổi, là nguồn dữ lệu cho biểu đồ 6 (bảng 3.1).

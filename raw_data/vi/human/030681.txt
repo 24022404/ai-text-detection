@@ -1,1 +1,0 @@
-Trong thuật toán Apriori, hỗ trợ (support) và độ tin cậy (confidence) của các luật là các bước quan trọng điểm đánh giá tính hiệu quả và ý nghĩa của các luật kết hợp.•Support (Hỗ trợ): Đây là tỷ lệ hoặc phần trăm của số lần xuất hiện của một tập temset trong tập dữ liệu. Nó đo lường mức độ phổ biến của một tập temset.

@@ -1,1 +1,0 @@
-Biểu đồ use case phân rã quản lý ví Hình 2.3: Biểu đồ use case phân rã quản lý ví Use case "Quản lý ví" được phân rã thành các use case nhỏ hơn như sau: () thêm ví, () xem thông tin ví, () xóa ví.

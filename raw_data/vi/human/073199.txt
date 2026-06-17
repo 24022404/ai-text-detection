@@ -1,1 +1,0 @@
-Phương pháp lý thuyết: Nghiên cứu tìm hiểu về web ngữ nghĩa cũng như các công cụ để có thể xây dựng và truy vấn cơ sở tri thức ngữ nghĩa. Tìm hiểu các công nghệ điểm xây dựng chatbot.

@@ -1,1 +1,0 @@
-It iteratively adjusts the model’s parameters by calculating the gradient of the cost function and updating the parameters in the direction of the steepest descent. The process continues until a minimum is reached. Gradient descent is crucial for training machine learning models.

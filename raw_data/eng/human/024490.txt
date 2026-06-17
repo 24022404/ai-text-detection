@@ -1,1 +1,0 @@
-Backend API Development Firstly, we start with the database, which contains tables that stores all the paths in each specific building. Each table should have three columns:

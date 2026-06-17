@@ -1,1 +1,0 @@
-Ràng buộc phẳng này giúp đảm bảo màu da nhất quán trên các vùng khác nhau của mô hình khuôn mặt 3D được dựng lên bằng cách giảm thiểu sự biến đổi do hiệu ứng ánh sáng tự nhiên có trong các tập dữ liệu như Basel 2009 3DMM.

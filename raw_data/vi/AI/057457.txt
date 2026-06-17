@@ -1,5 +1,0 @@
-Mô hình hóa sự làm việc của dầu bê tông cốt phi kim liên quan đến việc mô tả và phân tích quá trình dầu di chuyển trong các cấu trúc bê tông cốt phi kim. Dầu bê tông cốt phi kim là một loại dầu được sử dụng để bảo vệ và làm sạch các cấu trúc bê tông cốt phi kim, giúp ngăn chặn sự ăn mòn và hư hỏng.
-
-Mô hình hóa này được thực hiện bằng cách sử dụng các phương pháp toán học và kỹ thuật số, chẳng hạn như mô hình hóa tính chất vật lý của dầu và bê tông cốt phi kim, cũng như mô hình hóa quá trình di chuyển của dầu trong các cấu trúc bê tông cốt phi kim.
-
-Mô hình hóa này có thể giúp các kỹ sư và nhà xây dựng dự đoán và ngăn chặn sự hư hỏng của các cấu trúc bê tông cốt phi kim, cũng như giúp giảm thiểu chi phí bảo trì và sửa chữa.

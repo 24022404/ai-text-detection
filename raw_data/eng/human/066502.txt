@@ -1,1 +1,0 @@
-The proxy might be altering network traffic in ways that are undesirable, such as injecting additional data or modifying request headers.

@@ -1,1 +1,0 @@
-Security researchers dedicate significant effort to reverse-engineering malware, aiming to thoroughly analyze and understand how it behaves in systems.

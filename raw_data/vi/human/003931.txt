@@ -1,1 +1,0 @@
-Mã khách hàng, tên khách hàng, giá trị đơn hàng, giá trị thanh toán và xuất file excel theo điều kiện đã sắp xếp, tìm kiếm.

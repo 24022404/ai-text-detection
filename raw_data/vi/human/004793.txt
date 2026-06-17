@@ -1,1 +1,0 @@
-Với bộ mã hóa nhận đầu vào là đầu ra của mạng VGG sau đó được đi qua lớp LSTM. BLSTM giúp các vectơ đầu ra có được thông tin ngữ cảnh. Đầu ra của mạng BLSTM được cho đi qua lớp mạng tầng kết nối đầy đủ (fully connected layer) trở thành đầu ra của bộ mã hóa.

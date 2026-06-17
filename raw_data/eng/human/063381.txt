@@ -1,1 +1,0 @@
-A. M. Alhakim, “A simple combinatorial algorithm for de bruijn sequences,” The American Mathematical Monthly , vol. 117, no. 8, pp. 728–732, 2010.

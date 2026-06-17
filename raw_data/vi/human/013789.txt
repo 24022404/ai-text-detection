@@ -1,1 +1,0 @@
-ViewModel: có nhiệm vụ xử lý logic của ứng dụng. Giao tiếp với tầng Model Nhận dữ lệu tử đây và bến đỗ trả về cho View. ViewModel lưu giữ trạng thái của Vill và điều khiển việc hiển thị dữ lệu.

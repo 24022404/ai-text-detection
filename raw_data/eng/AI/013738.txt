@@ -1,9 +1,0 @@
-The rapid growth of automotive cyber-physical systems has necessitated efficient scene understanding to enhance safety and functionality in autonomous vehicles. This paper addresses the challenge of accelerating deep neural networks to improve processing efficiency without compromising accuracy in scene understanding tasks.
-
-Methods: We propose an optimized framework that leverages model compression techniques and hardware acceleration. The approach incorporates quantization and pruning strategies to reduce computational overhead while maintaining model fidelity. Additionally, we employ TensorRT optimization on GPU-based platforms to further enhance real-time processing of neural networks.
-
-Results: Experimental evaluations on benchmark datasets demonstrate that our framework achieves a significant reduction in inference time, with up to a 40% improvement in processing speed compared to standard models. Our method maintains competitive accuracy levels, with only a marginal performance reduction of less than 2% in scene understanding tasks. Comparative analysis with existing acceleration techniques highlights our method's superior efficiency and applicability in real-world scenarios.
-
-Conclusion: This study contributes to the field of automotive cyber-physical systems by providing a robust solution for accelerating deep neural networks, facilitating efficient and real-time scene understanding. Our framework's ability to optimize computational requirements without substantial loss in accuracy makes it a valuable tool for enhancing the performance of autonomous vehicles. Future work will explore further enhancements, including integration with evolving neural architecture search techniques to continue improving efficiency.
-
-Keywords: Deep Neural Networks, Scene Understanding, Model Compression, Hardware Acceleration, Autonomous Vehicles, Cyber-Physical Systems, Real-Time Processing, TensorRT.

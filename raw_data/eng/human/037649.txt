@@ -1,1 +1,0 @@
-Manipulate Application Inputs and Outputs: Analysts can modify or inject inputs into the application to test its response to specific scenarios. This is particularly useful for identifying vulnerabilities related to input validation, such as buffer overflows or improper error handling.

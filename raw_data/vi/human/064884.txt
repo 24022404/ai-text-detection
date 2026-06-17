@@ -1,1 +1,0 @@
-Một phần mềm quản lý kinh doanh không chỉ dừng lại ở các tính năng quản lý cơ bản. Nó cần đáp ứng được nhiều yêu cầu hơn thế nữa. Ví dụ như tích hợp phương thức thanh toán thông minh, hình thức vận chuyển đa dạng hay khả năng kết nối với các thiết bị khác để tố địa hóa hiệu quả bán hàng tại chỗ.

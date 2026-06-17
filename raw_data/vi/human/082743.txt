@@ -1,1 +1,0 @@
-Là người dùng chưa đăng nhập hệ thống tôi muốn có chức năng đăng nhập để có thể thực hiện các quyền dành cho người dùng 1. Acceptance Criteria 1:

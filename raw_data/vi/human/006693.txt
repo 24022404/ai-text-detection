@@ -1,1 +1,0 @@
-Dựa trên những phân tích ở phía trên, em đề xuất 4 chức năng chính cho công cụ kiểm thử và quản lý lỗ hổng an toàn bảo mật web như sau:

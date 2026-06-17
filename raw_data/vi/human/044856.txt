@@ -1,1 +1,0 @@
-IoT Core : cung cấp các hoạt động về kết nối, kiểm thử và quản lý các thiết bị IoT với đám mây. Các thiết bị muốn kết nối được với IoT Core đều được định danh và phá được chứng thực. AWS cũng sử dụng hệ thống các chính sách (policies) điểm quản lý truy cập của từng thiết bị (thông) vào các tài nguyên của mình. MQTT Broker là một trong các thành phần kết nối của IoT Core.

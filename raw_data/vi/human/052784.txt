@@ -1,1 +1,0 @@
-Firebase: Đây là package điểm quản lý kết nối đến CSDL restore. Nó sẽ tham chiếu các tập collections trong CSDL điện một model cụ thể.

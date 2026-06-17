@@ -1,1 +1,0 @@
-Vớ dữ liệu, kích thước ảnh đầu vào là 416. Các kỹ thuật tăng cường ảnh đầu vào gồm có: Xoay ảnh, lật ảnh và cắt ảnh.

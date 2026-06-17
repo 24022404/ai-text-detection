@@ -1,7 +1,0 @@
-Kết cấu khung phẳng là một trong những loại kết cấu được sử dụng rộng rãi trong xây dựng, đặc biệt là trong các công trình dân dụng và công nghiệp. Tuy nhiên, khi chịu tải trọng động, kết cấu khung phẳng có thể gặp phải các vấn đề về độ tin cậy mờ theo thời gian.
-
-Độ tin cậy mờ là một khái niệm được sử dụng để mô tả khả năng xảy ra sự cố hoặc hư hỏng của kết cấu trong quá trình sử dụng. Khi kết cấu khung phẳng chịu tải trọng động, độ tin cậy mờ có thể thay đổi theo thời gian do các yếu tố như tải trọng, điều kiện môi trường và độ bền của kết cấu.
-
-Để đánh giá độ tin cậy mờ theo thời gian của kết cấu khung phẳng chịu tải trọng động, các nhà nghiên cứu đã sử dụng các phương pháp tính toán và mô hình hóa phức tạp. Các phương pháp này bao gồm việc sử dụng các mô hình động lực học để mô tả sự tương tác giữa kết cấu và tải trọng động, cũng như việc sử dụng các phương pháp thống kê để đánh giá khả năng xảy ra sự cố.
-
-Kết quả nghiên cứu cho thấy rằng độ tin cậy mờ của kết cấu khung phẳng chịu tải trọng động có thể thay đổi đáng kể theo thời gian. Các yếu tố như tải trọng, điều kiện môi trường và độ bền của kết cấu có thể ảnh hưởng đến độ tin cậy mờ của kết cấu. Vì vậy, việc đánh giá độ tin cậy mờ theo thời gian của kết cấu khung phẳng chịu tải trọng động là rất quan trọng để đảm bảo an toàn và độ bền của kết cấu.

@@ -1,1 +1,0 @@
-Thư mục Bootstrap chứa tệp tin app.php sẽ trển kha framework này. Trong thư mục này còn có thư mục “cache” để chứa những tập tin được tạo ra điể tố ưu hóa hiệu suất, ví dụ như tập tin cache của route và servce. Lập trình viên không nên thay điổ bất kì tập tin nào trong thư mục này.

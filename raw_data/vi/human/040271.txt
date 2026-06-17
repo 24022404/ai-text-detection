@@ -1,1 +1,0 @@
-Ca sử dụng "Mnt NFT có thể giao dịch" Hình 4.8: Biểu đồ lớp cho ca sử dụng "Mnt NFS có thể gao gao dịch" Lớp BMnt NFT là lớp bên tương tác với tác nhân Người dùng, cho phép tác nhân này thực hiện hành động Mnt NFT có thể giao dịch:

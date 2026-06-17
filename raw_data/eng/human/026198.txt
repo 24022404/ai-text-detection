@@ -1,1 +1,0 @@
-A. H. Chan, R. A. Games, and E. L. Key, “On the complexities of de bruijn sequences,” Journal of Combinatorial Theory, Series A , vol. 33, no. 3, pp. 233– 246, 1982. R. Games and A. Chan, “A fast algorithm for determining the complexity ofa binary sequence with period 2ˆ n (corresp.),” IEEE Transactions on Infor mation Theory , vol. 29, no. 1, pp. 144–146, 1983.

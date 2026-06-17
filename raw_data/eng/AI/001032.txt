@@ -1,1 +1,0 @@
-Machine learning encompasses a range of models, not just a single algorithm, for transforming input into desired output. Algorithms like Support Vector Machine, Naive Bayes, Decision Trees, and Deep learning each contribute unique approaches to this process.

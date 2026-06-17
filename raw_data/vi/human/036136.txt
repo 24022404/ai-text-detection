@@ -1,1 +1,0 @@
-Tự động chuyển đổi các yêu cầu và phản hồi dữ liệu sang JSON, gúp đơn giản hóa xử lý dữ liệu.

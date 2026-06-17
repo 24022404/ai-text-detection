@@ -1,1 +1,0 @@
-Reliability: The app must be dependable and function correctly under a wide range of conditions. It should also have backup systems in place to prevent data loss or system crashes.

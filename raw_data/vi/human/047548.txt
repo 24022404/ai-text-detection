@@ -1,1 +1,0 @@
-Đầu vào của mô hình là một văn bản và đầu ra là danh sách các câu điã điược điánh vị trí sa và danh sách các từ gợi ý tương ứng với từng vị trí sa.

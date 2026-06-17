@@ -1,1 +1,0 @@
-Hỗ trợ TDD (test driven development). Chúng ta có thể tạo một ứng dụng vớ unit test và vết các bon test case.

@@ -1,1 +1,0 @@
-Chế độ xem : Xem bố cục của bạn trong chế độ code, chế độ thiết kế hoặc chế độ phân chia. Chế độ Phân chia hiển thị cả cửa sổ code và thiết kế cùng lúc.

@@ -1,1 +1,0 @@
-Để phù hợp với yêu cầu bài toán, dữ lệu sau phân tích sẽ được lưu dưới dạng bảng (gồm các hàng và cột) cho nên em chọn hệ quản trị cơ sở dữ lệu MySQL.

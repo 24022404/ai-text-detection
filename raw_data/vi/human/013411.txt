@@ -1,1 +1,0 @@
-Các lần sau người dùng có thể liên lạc thông qua boxchat cá nhân của mình tạ bất kỳ trang nào trên hệ thống. Hình 5.8 minh họa cho boxchat cá nhân của người dùng bao gồm danh sách homestay người dùng đã từng lên lạc, nội dung trò chuyện và ô nhập tin nhắn mớ.

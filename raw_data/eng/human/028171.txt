@@ -1,1 +1,0 @@
-It’s easy to see that conjecture 2 is true for k= 1,2. Effort on this question has just cracked completely the cases k= 3,4,5(with some aid of a computer), and k= 6whenever nandkare relatively prime( , ). For k⩾7, and k= 6 when nandkare not relatively prime, conjecture 2 remains open.

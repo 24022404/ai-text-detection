@@ -1,1 +1,0 @@
-Mục tiêu của đồ án là xây dựng một mô hình mạng nơron nhân tạo có khả năng phân vùng polyp tự động từ ảnh nội soi đại tràng với độ chính xác cao, có khả năng tổng quát hóa tốt trên các bộ dữ liệu đa dạng, đồng thờ có kích thước lưu trữ nhỏ và độ phức tạp tính toán thấp.

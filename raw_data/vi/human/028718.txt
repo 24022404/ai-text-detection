@@ -1,1 +1,0 @@
-Quản lý thông tin sản phẩm: quản trị viên có thể thực hiện các thao tác thêm, sửa, xóa, thay đổi thông tin của danh mục sản phẩm, hoặc thông tin của một sản phẩm cụ thể.

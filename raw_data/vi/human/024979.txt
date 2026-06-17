@@ -1,1 +1,0 @@
-Server program phả lắng nghe và tiếp nhận các kết nối điện từ các executor của nó trong suốt thờ gan tồn tại. Như vậy, driver program phả có địa chỉ mạng từ các worker node.

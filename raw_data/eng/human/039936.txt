@@ -1,1 +1,0 @@
-SmartCheck  - an extensible static analysis tool proposed by Sergei Tikhomirov et al. SmartCheck checks Solidity source code against XPath patterns after converting them to an intermediate XML-based representation.

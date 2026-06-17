@@ -1,1 +1,0 @@
-T. H. Quoc, K. V. Nguyen, N. Luu-Thuy andN. A. Gia-Tuan, “Monolingual vs multilingual BERTology for vietnamese extractive multi-document summarization,” inProceedings of the 35th Pacific Asia Conference on Language, Information and Computation Shanghai, China: Association for Computational Lingustics, november 2021, pages 692–699. url:

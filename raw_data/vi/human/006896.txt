@@ -1,1 +1,0 @@
-Trang web sẽ không cần phải load mỗi khi chúng ta thực hiện một hành động trên điốt, điều này sẽ giúp website hoạt động trơn tru hơn. Cụ thể, em sẽ sử dụng thư viện ReactJS điểm xây dựng Frontend cho trang web, về phía Backend em sẽ sử dụng Framework Laravel. Phía Backend sẽ trả về API, sau đó em thực hiện call API lấy dữ liệu ra giao diện.

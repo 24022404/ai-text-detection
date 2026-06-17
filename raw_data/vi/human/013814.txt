@@ -1,1 +1,0 @@
-Biểu đồ use case phân rã quản lý đơn hàng Hình 2.5: Biểu đồ use case phân rã quản lý đơn hàng Tính năng quản lý đơn hàng sẽ giúp cho quản trị có thể quản lý dễ dàng hơn với các đơn hàng được tạo trên ứng dụng di động. Quản trị viên có thể tạo đơn hàng, xem đơn hàng, sửa đơn hàng và xóa đơn hàng.

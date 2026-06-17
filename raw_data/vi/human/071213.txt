@@ -1,1 +1,0 @@
-Documentation and Community: NestS có tài liệu điầy đủ cung cấp các giả thích, hướng dẫn và ví dụ một cách toàn diện. framework này cũng có một cộng đồng tích cực và đang phát triển, cung cấp hỗ trợ, plugin và tiện ích mở rộng, có thể giúp đẩy nhanh quá trình phát triển ứng dụng .

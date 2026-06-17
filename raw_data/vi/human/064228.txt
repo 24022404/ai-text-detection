@@ -1,1 +1,0 @@
-Có tốc độ tính toán rất nhanh, có thể sử dụng vớ các ứng dụng liên quan đến thời gian thực.

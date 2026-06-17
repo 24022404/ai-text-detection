@@ -1,9 +1,0 @@
-Objective: Point-set registration—the process of aligning two sets of points in space—is a core task in areas such as computer vision, medical imaging, and robotics. Existing methods often rely on supervision, restrictive assumptions, or are limited to low-dimensional data. We present an unsupervised, iterative algorithm that generalizes to N-dimensional point sets without requiring labeled correspondences or predefined models.
-
-Methods: Our approach alternates between estimating soft correspondences via a robust distance metric and updating the transformation parameters using a weighted least-squares fit. To handle noise and outliers, we integrate a trimmed correspondence strategy and adaptively adjust point-set weights. The method supports rigid, affine, and nonrigid transformations in arbitrary dimensions, and it converges under mild conditions without manual parameter tuning.
-
-Results: We evaluate the algorithm on synthetic benchmarks and real-world datasets—including 2D shape alignment, 3D surface registration, and 4D spatiotemporal data. Compared to standard ICP, Coherent Point Drift (CPD), and a recent learning-based baseline, our method achieves up to 30% lower mean registration error and demonstrates faster convergence. It also maintains high accuracy when up to 20% of points are corrupted or missing.
-
-Conclusion: The proposed unsupervised, iterative N-dimensional registration framework offers a versatile, robust solution for aligning point sets across diverse applications. Its model-agnostic design and minimal supervision make it especially suited for emerging domains such as high-dimensional biology, multiview sensor fusion, and dynamic scene reconstruction.
-
-Keywords: point-set registration, unsupervised learning, iterative alignment, N-dimensional data, robust correspondence, transformation estimation.

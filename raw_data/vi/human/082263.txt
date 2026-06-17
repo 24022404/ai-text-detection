@@ -1,1 +1,0 @@
-cn1cn2. . . c nj. . . c nm  Trong ma trận trên, mỗ giá trị ở hàng thứ và cột thứ thể hiện số lượng sản phẩm mà khách hàng thứ đã mua sản phẩm thứ j. Các giá trị là số lượng cụ thể, hoặc 0 nếu khách hàng không mua sản phẩm đó.

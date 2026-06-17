@@ -1,1 +1,0 @@
-Exception Flow 5a. System error during get process 5a1. User not allowed to use location2.2.2 Description of use case Add/Update new service ID and Name UC02 - Add/Update new service Description This use case outs the register function performed by a service provider to manage services offered through the application.

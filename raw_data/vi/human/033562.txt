@@ -1,1 +1,0 @@
-Biểu đồ use case phân rã nhóm tác nhân Quản trị hệ thống Quản lý tổ chức Quản trị hệ thống Tạo mới tổ chức Sửa thông tin tổ chức Use Use Hệ thống Xóa tổ chức Used Hình 2.9: Biểu đồ use case nhóm tác nhân Quản trị hệ thống Quản trị hệ thống là tác nhân có quyền cao nhất, vì vậy tác nhân này có đủ các use case của các tác nhân khác.

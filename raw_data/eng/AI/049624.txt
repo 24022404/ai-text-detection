@@ -1,1 +1,0 @@
-The properties of a longest simple path P in the graph Gk,s are considered, with P having length ℓ(Gk,s) and further observations addressed next.

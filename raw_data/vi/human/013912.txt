@@ -1,1 +1,0 @@
-Trong khi đó, hiện nay những mô hình về thị giác máy tính như cử chỉ tay cũng rất phát triển, nhiều mô hình dự đoán cử chỉ tay vớ độ chính xác cao được ra đời. Theo như nghiên cứu và tìm hiểu của tô, tô chưa thấy tổ chức lớn nào áp dụng những mô hình nhận diện cử chỉ tay để hỗ trợ người dùng trong việc điều khiển các chức năng của camera một hệ thống trí tuệ nhân tạo.

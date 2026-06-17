@@ -1,1 +1,0 @@
-Deep learning is a very powerful field in machine learning, however, it also faces some difficulties and challenges when used. Here are some of the main difficulties when using deep learning:

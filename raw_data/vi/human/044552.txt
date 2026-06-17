@@ -1,1 +1,0 @@
-tính năng tải file lên điểm kiểm tra Hình 5.10: Thiết kế tính năng tải lên file điểm kiểm tra chính tả Hình 5.10 mô tả kiến trúc của tính năng tải file lên điểm kiểm tra lỗi chính tả.

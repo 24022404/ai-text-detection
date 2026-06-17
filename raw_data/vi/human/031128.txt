@@ -1,1 +1,0 @@
-Khả năng tái sử dụng. Chế độ xem giống nhau (hoặc tương tự) cho một ứng dụng có thể được cấu trúc lạ cho một ứng dụng khác với dữ liệu khác vì chế độ xem chỉ đơn giản là xử lý cách dữ liệu được hiển thị cho người dùng.

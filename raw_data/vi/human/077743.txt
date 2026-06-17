@@ -1,1 +1,0 @@
-Training set: là tập dùng để huấn luyện thuật toán hiểu cách áp dụng các khái niệm như mạng nơron, điển học và tạo ra kết quả. Nó bao gồm cả dữ lệu điầu vào và điầu ra dự kiến.  Tập hợp đào tạo chiếm phần lớn trong tổng số dữ lệu, khoảng 60%. Trong thử nghiệm, các mô hình phù hợp với các thông số trong một quá trình được gọi là điều chỉnh trọng lượng (adjusting weights) .

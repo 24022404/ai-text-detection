@@ -1,1 +1,0 @@
-N. Szabo’s article explores how digital contracts and cryptographic techniques can formalize and secure agreements between parties on public networks.

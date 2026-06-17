@@ -1,1 +1,0 @@
-This approach involves using the smartphone camera to continuously detect the current frame, and placing virtual navigation elements (e.g., anchors) in the correct location. While this approach can provide high accuracy, it also requires the app to continuously detect the frame, which can cause significant lag and impact the overall performance of the app.

@@ -1,1 +1,0 @@
-Nhận thấy, phương pháp này rất phù hợp với những tài liệu gầu thông tin về văn bản, bởi vì nếu tài liệu thỏa mãn điều đó sẽ có số lượng điểm đủ lớn, dẫn đến việc tìm bao lồi và hình chữ nhật có diện tích nhỏ nhất bao quanh bao lồ có tính hiệu quả và độ chính xác cao.

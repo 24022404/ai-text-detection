@@ -1,1 +1,0 @@
-Đối với việc lựa chọn cơ sở dữ liệu, hệ thống lựa chọn Postgres làm cơ sở dữ liệu chính vì một số ưu điểm sau:

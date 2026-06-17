@@ -1,7 +1,0 @@
-Abstract:
-
-In this paper, we address the challenge of efficiently detecting arbitrarily-shaped text in images, which is crucial for various applications in document analysis and computer vision. Our objective is to develop a robust detection framework that brings together context-aware features through a multi-task learning approach. We propose a novel single-shot text detection model that integrates contextual information to enhance spatial recognition and segmentation accuracy. By leveraging a combination of convolutional neural networks and attention mechanisms, our approach distinguishes between text regions and background noise, leading to improved detection performance. 
-
-Experimental evaluations on benchmark datasets demonstrate that our model significantly outperforms existing state-of-the-art methods in terms of precision, recall, and F1-score. The results highlight the effectiveness of our multi-task learning paradigm in addressing the complexities of text detection in unconstrained environments. This research contributes to the field by providing a solid foundation for future advancements in text recognition technologies, expanding the applicability of AI-driven solutions in real-world scenarios. 
-
-Key keywords: text detection, multi-task learning, single-shot model, context-aware features, convolutional neural networks.

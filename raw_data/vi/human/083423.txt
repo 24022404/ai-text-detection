@@ -1,1 +1,0 @@
-Nodejs vớ tính năng xử lý bất đồng bộ(asynchronous) mạnh mẽ, cho phép xử lý nhiều request cùng một lúc mà không phụ thuộc vào luồng chính(man thread).

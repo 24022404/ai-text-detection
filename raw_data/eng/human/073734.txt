@@ -1,1 +1,0 @@
-However, using a short life-span token alone will cause the client application to be unauthorized constantly, and the user will have to re-login over and over again to get new access token.

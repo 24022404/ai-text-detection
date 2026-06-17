@@ -1,1 +1,0 @@
-Bên cạnh đó, Xskt Learn cung cấp những công cụ mạnh mẽ góp tiền xử lý dữ liệu như chuẩn hóa, cha tập dữ liệu thành tập huấn luyện và tập kiểm tra, xử lý giá trị thuế và trích xuất đặc trưng (feature extraction). Điều này giúp tối ưu quá trình chuẩn bị dữ liệu trước khi đưa vào huấn luyện mô hình.

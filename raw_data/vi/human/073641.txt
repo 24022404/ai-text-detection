@@ -1,1 +1,0 @@
-Các RDD hỗ trợ hai kiểu hoạt động: transformations (phép bến đỗ), tạo tập dữ lệu mới từ tập dữ lệu hiện có và actions (hành động) trả về giá trị cho chương trình trình điều khiển sau khi chạy tính toán trên tập dữ lệu.

@@ -1,1 +1,0 @@
-Kỹ năng cài đặt, sử dụng các công nghệ Hadoop và Spark điểm lưu trữ và tính toán trên dữ lệu lớn.

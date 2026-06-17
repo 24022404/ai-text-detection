@@ -1,1 +1,0 @@
-Ứng dụng điược xây dựng dựa trên mô hình MVC điược chia làm 3 phần: Model, Vew, Controller. Mỗ thành phần là điộc lập với nhau và có va trò rêng:

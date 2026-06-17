@@ -1,1 +1,0 @@
-Tính dễ bảo trì Các chức năng, các thành phần được phân chia riêng biệt, độc lập với nhau để có thể dễ dàng bảo trì chức năng, thành phần mà không ảnh hưởng đến toàn bộ hệ thống.

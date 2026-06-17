@@ -1,1 +1,0 @@
-Y. Zhang, H. Lu, and Q. Hu, “Transfuse: Fusing transformers and cnn's formed call image segmentation,” n International Conference on Medical Image Computing and Computer Based Intervention , Springer, 2021, pp. 14– 24.

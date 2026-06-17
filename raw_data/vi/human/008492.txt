@@ -1,1 +1,0 @@
-Laravel là một framework PHP điễ học, dễ cà điặt, có nhều đồng hỗ trợ, phát trển nhanh. . .

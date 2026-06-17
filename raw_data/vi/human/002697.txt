@@ -1,1 +1,0 @@
-Các tến trình của Arflow được định nghĩa trong file dockercompose.yml và tến hành cà điặt theo hướng dẫn tạ . Các container được khở chạy thành côngnhư dưới điây:

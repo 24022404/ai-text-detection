@@ -1,1 +1,0 @@
-Use case view reports The supplier can view the report of the product and order. The supplier can export a file report in excel with the defined template in this use case.

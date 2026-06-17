@@ -1,1 +1,0 @@
-Like mentioned before, HTML was never intended to use style elements, only the markup of the page. It was created to merely describe the content.

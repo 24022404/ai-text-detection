@@ -1,1 +1,0 @@
-Digital I/O pns là những chân có giá trị nhị phân: HIGH (1) hoặc LOW (0). Có các chân từ D0 điến D13. Một số chân có thể xuất xung PWM là D3, D5, D6, D9, D10, D11.

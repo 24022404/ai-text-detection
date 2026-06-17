@@ -1,1 +1,0 @@
-Top Malware Permissions: TOP_MALWARE_PERMISSIONS is a list of permissions that are often abused by malware. These permissions can grant access to sensitive data or allow potentially harmful actions. Some of these permissions include:

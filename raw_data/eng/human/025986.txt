@@ -1,1 +1,0 @@
-This chart will serve as a central component of the provider dashboard, allowing them to access crucial performance data at a glance.

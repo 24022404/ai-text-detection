@@ -1,1 +1,0 @@
-H. A. Jarjarguar, G. R. Solanke, A. K. AR, G. Shravan, and S. Dalal, “React apps with server side rendering: Extjs,” Journal of Telecommunication, Electronic and Computer Engineering (JTEC) , vol. 14, no. 4, pp. 25–29, 2022.

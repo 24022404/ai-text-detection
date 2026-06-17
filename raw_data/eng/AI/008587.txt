@@ -1,1 +1,0 @@
-The analysis concludes with a thorough permission review, successfully documenting outcomes and generating a comprehensive report that highlights all identified risky permissions.

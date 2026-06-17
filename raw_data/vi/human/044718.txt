@@ -1,1 +1,0 @@
-Xem danh sách sản phẩm: khách hàng viếng thăm truy cập vào trang web thì hệ thống sẽ tự động hiển thị các danh mục sản phẩm và một số sản phẩm hiện có. Kh khách hàng chọn vào một danh mục cụ thể thì tất cả sản phẩm thuộc danh mục đó sẽ hiển thị lên giao diện.

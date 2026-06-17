@@ -1,1 +1,0 @@
-V. Ngam, “Understandng neural networks. from neuron to rnn, cnn, anddeep learnng (2018),” URL:  com/understandng neuralnetworksfromneurontornncnnanddeeplearnngcd88e90e0a90 ,  J. A. Hartgan andM. A. Wong, “Algorthm as 136: A kmeans clusterng algorthm,” Journal of the royal statstcal socety. seres c (appled statstcs) , jourvol 28,number 1,pages 100–108, 1979.

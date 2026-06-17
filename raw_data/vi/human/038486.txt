@@ -1,1 +1,0 @@
-Đặc tả use case đăng ký tài khoản Mã use case: UC01 Tên use case: Đăng ký Tác nhân chính: Khách hàng Luồng sự kiện chính :Luồng sự kiện chính:

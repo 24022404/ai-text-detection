@@ -1,1 +1,0 @@
-Các modal xác nhận kh thực hiện thao tác xóa dữ liệu nằm ở giữa màn hình với background màu trắng (mã màu FFF). Nút xác nhận xóa có chữ màu trắng (mã màu FFF), background màu đỏ (mã màu FE4C50) và border radius là 4px. Nút hủy thao tác xóa có chữ màu đỏ (mã màu fe4c50), background màu trắng (mã màu FFF), border có độ dày là 1px, màu đỏ (mã màu FE4C50) và border radius là 4px.

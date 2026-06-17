@@ -1,1 +1,0 @@
-Postgres supports a wide range of SQL functionalities, including complex queries, advanced indexing, and transaction management. It also offers additional features such as support for JSON and other semi-structured data types, making it flexible for modern application development.

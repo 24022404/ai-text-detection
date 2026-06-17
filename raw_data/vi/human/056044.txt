@@ -1,1 +1,0 @@
-Sau đây là thiết kế cho tết các bảng có trong cơ sở dữ lệu phân tích.Bảng overview lưu trữ dữ lệu phân tích lưu lượng truy cập theo thờ gan và loại thiết bị, là nguồn dữ lệu cho biểu đồ 1 và biểu đồ 4 (bảng 3.1).

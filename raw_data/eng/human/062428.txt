@@ -1,1 +1,0 @@
-Category: serves as a dedicated container for all API-related logic concerning product categories within the system. It encompasses functionalities related to handling category-related operations, such as adding new product categories, managing their technical specifications, and searching for specifications when creating products.

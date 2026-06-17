@@ -1,1 +1,0 @@
-Tuy nhiên, các chức năng liên quan đến quản lý ga đoạn và cột mốc vẫn chưa được phát triển. Để gả quyết vấn điề này, ĐATN điã cà điặt thêm các tính năng liên quan tới quản lý ga đoạn và cột mốc.

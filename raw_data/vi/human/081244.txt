@@ -1,1 +1,0 @@
-–Tính chu kỳ (Seasonalty): Một mô hình có chu kỳ thì các gá trị trong chuỗ thường lặp lạ qua các ga đioạn thờ gan nhất định, chẳng hạn như mùa xuân, hè, thu, điông.

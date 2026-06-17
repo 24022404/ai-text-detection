@@ -1,1 +1,0 @@
-Phù hợp với Microservices: Vớ cấu trúc sinh hoạt, Express là một lựa chọn phù hợp cho việc xây dựng các dịch vụ nhỏ (microservices) trong kiến trúc phân tán.

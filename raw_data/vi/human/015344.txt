@@ -1,1 +1,0 @@
-Gó Core: Gó chứa các class có thể tá sử dụng trong ứng dụng, như điều khển phản hồ rung của thết bị, màn hình loadng. Ngoà ra gó chứa các kha bao mở rộng phương thức cho các class, các kểu dữ lệu có sẵn.

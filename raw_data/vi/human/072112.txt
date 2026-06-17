@@ -1,1 +1,0 @@
-Kích thước dữ lệu: là 1 file csv khoảng  hơn 300MB  Tiền xử lý dữ lệu là một bước rất quan trọng trong việc giải quyết bất kỳ vấn đề nào trong lĩnh vực Học Máy. Hầu hết các bộ dữ lệu đi được sử dụng trong các vấn đề liên quan đến Học Máy cần được xử lý, làm sạch và bến đỗ trước khi một thuật toán Học Máy có thể được huấn luyện trên những bộ dữ lệu này .

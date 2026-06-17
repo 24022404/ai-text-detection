@@ -1,1 +1,0 @@
-Nhiệt độ môi trường Độ ẩm 2. Các chế độ hoạt động Chế độ tự động (Auto): Hệ thống giám sát các thông số môi trường và tự động điều khiển các cơ cấu chấp hành (bật/tắt bơm, điện, quạt) sao cho các thông số luôn ở trong ngưỡng cho phép.

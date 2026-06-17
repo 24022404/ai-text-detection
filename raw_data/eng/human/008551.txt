@@ -1,1 +1,0 @@
-Kafka is highly reliable. Kafka replicates data and can support multiple subscribers. Additionally, it automatically balances consumers in the event of failure. That means that it’s more reliable than similar messaging services avail able.

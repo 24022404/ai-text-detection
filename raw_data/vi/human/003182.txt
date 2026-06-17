@@ -1,1 +1,0 @@
-Mongoose là một Object Document Mapper (ORM). Mongoose cho phép định nghĩa các Object vớ một scheme được định nghĩa rõ ràng, được ánh xạ tớ một MongoDB document. Mongoose cung cấp một số lượng đáng kinh ngạc các chức năng cho việc tạo ra và làm việc với các schema.

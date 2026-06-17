@@ -1,7 +1,0 @@
-Nghiên cứu mới đây đã tập trung vào việc tính toán các hệ số vận chuyển điện tử và hệ số tốc độ trong hỗn hợp C2H4-N2 để xây dựng mô hình lỏng. Kết quả cho thấy hệ số vận chuyển điện tử và hệ số tốc độ có ảnh hưởng đáng kể đến quá trình cháy và tính chất của hỗn hợp.
-
-Hệ số vận chuyển điện tử được tính toán dựa trên các phương trình động lực học và được xác định bởi các yếu tố như nhiệt độ, áp suất và thành phần hóa học của hỗn hợp. Kết quả cho thấy hệ số vận chuyển điện tử tăng lên khi nhiệt độ và áp suất tăng, đồng thời giảm xuống khi thành phần hóa học của hỗn hợp thay đổi.
-
-Hệ số tốc độ được tính toán dựa trên các phương trình động lực học và được xác định bởi các yếu tố như nhiệt độ, áp suất và thành phần hóa học của hỗn hợp. Kết quả cho thấy hệ số tốc độ tăng lên khi nhiệt độ và áp suất tăng, đồng thời giảm xuống khi thành phần hóa học của hỗn hợp thay đổi.
-
-Kết quả nghiên cứu này có thể được ứng dụng để xây dựng mô hình lỏng và dự đoán tính chất của hỗn hợp C2H4-N2 trong các quá trình cháy và phản ứng hóa học.

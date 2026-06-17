@@ -1,1 +1,0 @@
-Hơn nữa, nhờ sử dụng Docker, việc thiết lập mô trường phát triển sẽ trở nên dễ dàng. Chỉ cần thiết lập một lần duy nhất và không bao giờ phải cài đặt lại các thư viện môi trường lạ. Vì vậy, tô đã lựa chọn Docker là công cụ chính điểm thiết lập và triển khai hệ thống lên server thực tế.

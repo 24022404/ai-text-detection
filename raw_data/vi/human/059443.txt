@@ -1,1 +1,0 @@
-Tài khoản thành viên:  Xem sản phẩm, tìm kiếm sản phẩm, đăng nhập hệ thống, quản lý thông tin cá nhân, mua sản phẩm.

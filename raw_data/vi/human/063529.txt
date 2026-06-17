@@ -1,1 +1,0 @@
-–Hệ thống cung cấp giao diện responsive tương thích với mọi màn hình có độ rộng khác nhau của mọi thiết bị Trong chương này, đồ án điã trình bày về quá trình tìm hiểu và rút ra các yêu cầu cần thiết cho hệ thống. Các chức năng của trang web cũng được biểu diễn qua biểu đồ use case với các tác nhân.

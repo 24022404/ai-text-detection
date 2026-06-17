@@ -1,1 +1,0 @@
-Underfitting Underfitting occurs when a model is too simplistic or cannot capture the underlying patterns in the training data. In such cases, the model fails to learn the relevant relationships, resulting in poor performance on both the training and test data.

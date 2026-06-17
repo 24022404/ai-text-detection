@@ -1,9 +1,0 @@
-Objective: Video-based person re-identification (ReID) demands accurate modeling of both spatial details and temporal dynamics to distinguish individuals across camera views. Existing methods often suffer from high computational cost or limited ability to capture long-range dependencies. This paper introduces a Spatially and Temporally Efficient Non-local Attention Network (STENet) designed to address these challenges.
-
-Methods: STENet integrates lightweight non-local attention modules that jointly process spatial and temporal cues with minimal overhead. A spatial attention branch emphasizes discriminative body regions by generating region-aware feature maps, while a temporal attention branch adaptively weighs frame contributions to highlight motion-consistent patterns. We further propose an efficiency-driven factorization strategy that splits high-dimensional affinity computations into two lower-dimensional operations, reducing both memory footprint and inference time.
-
-Results: We evaluate STENet on two large-scale video ReID benchmarks, MARS and iLIDS-VID. On MARS, STENet achieves 84.3% mean average precision (mAP) and 89.1% Rank-1 accuracy, outperforming state-of-the-art approaches by 3.2% and 2.8%, respectively. On iLIDS-VID, it delivers a 5.1% gain in Rank-1 accuracy. Moreover, STENet requires 30% fewer parameters and runs 25% faster than comparable non-local attention architectures.
-
-Conclusion: By effectively capturing non-local spatial–temporal dependencies with a resource-efficient design, STENet advances video-based ReID performance and enables real-time deployment in surveillance and smart-city applications. Its modular attention blocks can be readily extended to other video analysis tasks.  
-
-Keywords: video-based person re-identification, non-local attention, spatiotemporal modeling, deep learning, efficiency.

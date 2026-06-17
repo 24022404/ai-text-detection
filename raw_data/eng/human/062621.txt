@@ -1,1 +1,0 @@
-M. J. Chaisson, D. Brinza, and P. A. Pevzner, “De novo fragment assem bly with short mate-paired reads: Does the read length matter?” Genome research , vol. 19, no. 2, pp. 336–346, 2009.

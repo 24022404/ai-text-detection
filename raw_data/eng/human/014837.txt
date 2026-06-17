@@ -1,1 +1,0 @@
-TensorFlow provides a comprehensive set of tools and libraries for develop ing and deploying machine learning models, including data preprocessing, model building, training, evaluation, and deployment. It also supports distributed training across multiple CPUs and GPUs, as well as deployment on a variety of platforms, such as mobile devices and the cloud.

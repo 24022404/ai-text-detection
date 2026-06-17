@@ -1,1 +1,0 @@
-The pyramid method,” inProceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics 2004, pages 145–152.

@@ -1,1 +1,0 @@
-Trong phần này em sẽ giới thiệu ch tết thết kế của website bao gồm các thết kế API, thết kế giao diện, thết kế lớp và thết kế cơ sở dữ lệu.

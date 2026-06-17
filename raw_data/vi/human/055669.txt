@@ -1,1 +1,0 @@
-Cơ chế transport chịu trách nhiệm đảm bảo tính an toàn khi truyền tải thời gian thực bằng SRTP (Secure Real Time Transport Protocol) và thiết lập kết nối tương tác P2P và ICE . P2P và ICE vớ STUN và TURN server sẽ được gả thích ở phần 5.2.

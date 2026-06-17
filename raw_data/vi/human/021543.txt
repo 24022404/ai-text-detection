@@ -1,1 +1,0 @@
-Hộ vên thu thập điểm qua các hoạt động: đăng bà, bình luận, ...Quản trị viên có thể cấu hình điểm thu điược theo các hoạt động của hộ vên Bảng 2.1: Từ điển thuật ngữ 2.2.1 Bểu đồ use case tổng quan Hình 2.1 mô tả tổng quan chức năng của CĐTH trực tuyến trên nền tảng forum.

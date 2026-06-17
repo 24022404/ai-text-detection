@@ -1,1 +1,0 @@
-Apart from robust built-in architecture and tooling, Unity also features its large asset store that comes with a variety of paid and free assets ready for any game project. While Unity does develop some of these, many of them are also made by the community, meaning developers have numerous options to choose from.

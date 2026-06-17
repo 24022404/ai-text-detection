@@ -1,1 +1,0 @@
-Về bản chất, Smart contract chỉ là một đoạn mã chạy trên hệ thống phân tán (blockchain), cho phép tạo ra các giao thức Permissionless (tức là không cần trao quyền). Điều đó có nghĩa là:

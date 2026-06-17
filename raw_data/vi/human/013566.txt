@@ -1,1 +1,0 @@
-Cách cài đặt selenium : pip install selenium Thiết lập selenium trên chrome drver Dưới đây là đoạn code thiết lập selenium cho chrome driver nhằm thiết lập cho việc thu thập dữ liệu:Hình 4.2: Code thiết lập để lấy dữ liệu bình luận trên trang thế giới di động Một số ví dụ trong dữ liệu thu thập được:

@@ -1,1 +1,0 @@
-Magento là một trong những nền tảng thương mại điện tử mạnh mẽ, đã thu hút sự chú ý các doanh nghiệp từ nhỏ đến lớn vớ tính linh hoạt và đa dạng của nó. Tuy nhiên, việc sử dụng phiên bản Magento Commerce điểm có được các tính năng cao cấp, bao gồm tính năng gợi ý sản phẩm dựa trên hành vi người dùng, thường đò hỏ chi phí đầu tư lớn, đặc biệt đối với các doanh nghiệp nhỏ và vừa.

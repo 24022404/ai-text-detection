@@ -1,1 +1,0 @@
-Quản trị viên sẽ có chức năng quản lý người dùng, quản lý đơn hàng, quản lý quán ăn và chăm sóc khách hàng.2.2.2 Biểu đồ use case phân rã chức năng Theo dõi đơn hàng Usecase Theo dõi đơn hàng được thực hiện bởi người bán, bao gồm xem đơn hàng, cập nhật tình trạng đơn hàng và tìm kiếm đơn hàng. Ch tết usecase được miêu tả qua Hình 2.2.

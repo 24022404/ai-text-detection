@@ -1,1 +1,0 @@
-Adenine (A), Guanine (G), Thymine (T), Cytosine (C) và chúng được bắt cặp tương ứng với nhau theo nguyên tắc bổ sung, A bắt cặp với T, C bắt cặp với G thông qua liên kết Hidro điểm hình thành những đơn vị gọi là các cặp nucleotit. Các nucleotit được sắp xếp trong ha mạch đà thành một dạng xoắn ốc gọi là chuỗi xoắn kép.

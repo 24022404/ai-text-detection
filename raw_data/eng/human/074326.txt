@@ -1,1 +1,0 @@
-There is a coding example of message queue integrations in figure 5.13.5.1.4 Realtime API Server and Internal Standardizer a, Requirements Most of the visible features on Trendz are results of aggregated queries. Since those queries are expensive for database servers, it is a requirement to offload those results using other mechanisms including caching and aggregated tables.

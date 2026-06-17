@@ -1,9 +1,0 @@
-This research aims to enhance the efficiency of reinforcement learning (RL) in neural network auto-pruning by leveraging historical data, addressing the prolonged convergence times of traditional RL methods in model optimization tasks.
-
-Methods/Approach: We present a novel framework that integrates historical data into the RL-based auto-pruning process. Our approach employs a strategic initialization of the RL agent informed by past experiences and established pruning strategies, thereby expediting the learning phase. The model adopts an advanced algorithm that adapts action selections based on historical patterns, optimizing the convergence speed while maintaining model accuracy and integrity.
-
-Results/Findings: Experimental evaluations demonstrate that the proposed method significantly reduces convergence times compared to conventional RL-based pruning methods. Our approach achieves notable improvements in efficiency, with convergence times decreasing by up to 40% on average across multiple datasets and architectures. The enhanced framework maintains competitive model performance, with minimal degradation in accuracy post-pruning.
-
-Conclusion/Implications: This study introduces a pioneering technique that augments RL-based auto-pruning processes by incorporating historical data, contributing a substantial advancement in neural network efficiency optimization. The framework offers valuable insights and practical solutions for real-world applications, where rapid model deployment is critical. Future work may explore the adaptability of this method to various types of neural networks and its integration with automated machine learning pipelines.
-
-Keywords: Reinforcement Learning, Auto-pruning, Neural Networks, Convergence Acceleration, Historical Data, Model Optimization.

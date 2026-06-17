@@ -1,9 +1,0 @@
-The growing complexity of urban environments and energy systems necessitates innovative frameworks that can effectively manage demand response. This paper introduces CityLearn, a standardized framework focusing on the application of multi-agent reinforcement learning (MARL) to enhance urban energy management and demand response strategies. 
-
-Methods/Approach: CityLearn is designed to facilitate research by providing a unified platform that simulates various urban energy scenarios, enabling the development and evaluation of MARL algorithms. The framework incorporates realistic urban environment models and integrates multiple interacting agents that represent diverse energy stakeholders. These agents utilize reinforcement learning techniques to optimize energy consumption and distribution dynamically.
-
-Results/Findings: In experimental evaluations, CityLearn demonstrated significant promise in optimizing energy utilization and reducing peak demand through effective cooperation between heterogeneous agents. Our findings reveal that the framework not only facilitates comparisons between different MARL strategies but also enables the discovery of novel interactions and emergent behaviors among energy agents, proving its utility in standardizing research efforts in this domain.
-
-Conclusion/Implications: CityLearn addresses the need for a benchmark in the domain of urban energy management, presenting a substantial contribution by standardizing the methodologies for evaluating MARL algorithms. Its potential applications include aiding policymakers and researchers in developing smarter energy systems that are crucial for sustainable urban development. By offering a shared research foundation, CityLearn paves the way for future advancements in intelligent demand response and energy efficiency strategies.
-
-Keywords: CityLearn, multi-agent reinforcement learning, energy management, demand response, urban energy systems, MARL, smart cities.

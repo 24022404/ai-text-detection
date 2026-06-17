@@ -1,1 +1,0 @@
-Dự báo chuỗ thờ gan (Tme Seres Forecastng) là một phương pháp phân tích dữ lệu thống kê mạnh mẽ và phổ bến, điược sử dụng điể dự đioán gá trị của một bến theo thờ gan. Được ứng dụng rộng rã trong nhều lĩnh vực như knh tế, tà chính, tếp thị, sản xuất, y tế và hậu cần, dự báo chuỗ thờ gan đióng va trò quan trọng trong vệc điưa ra các quyết định chến lược và kế hoạch hoạt động.

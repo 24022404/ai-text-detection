@@ -1,1 +1,0 @@
-Thiết lập môi trường phát triển: Để phát triển ứng dụng React Native, chúng ta cần thiết lập mô trường phát triển trên máy tính của mình. Chúng ta cần cài đặt Nodejs, React Native CLI, Xcode (nếu đang phát triển trên IOS) hoặc Android Studio (nếu đang phát triển trên Android).

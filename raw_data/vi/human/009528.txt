@@ -1,1 +1,0 @@
-Trong suốt quá trình thực hiện ĐATN, em đã hoàn thành trang web đặt phòng, thuê homestay đơn giản với những chức năng cơ bản của người dùng. Mặc dù chỉ mới là sản phẩm còn đơn sơ nhưng thông qua quá trình vừa làm vừa tìm hểu em đã học hỏi và hoàn thiện được các kỹ năng như:

@@ -1,1 +1,0 @@
-Kh điã điăng nhập vào trang web, ở giao diện Thông tin cá nhân chọn chức năng Chỉnh sửa thông tin cá nhân Khi đó, người dùng điểm trống trường Tên đăng nhập Sau đó, hiển thị thông báo lỗi "Tên đăng nhập không được để trống" Bảng 2.3: User story cập nhật tài khoản 4. Vòng lặp 4:

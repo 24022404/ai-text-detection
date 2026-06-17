@@ -1,1 +1,0 @@
-The View is responsible for rendering the user interface and interacting with users. In this project, Angular components are employed to create user interfaces.

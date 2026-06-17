@@ -1,1 +1,0 @@
-Tham số đánh gá Để đánh giá sự hiệu quả của mô hình trích xuất thông tin văn bản từ ảnh, tham số đánh giá F1 Score, precision, recall phù hợp hơn so với tham số đánh giá độ chính xác. Do đó, trong phạm vi đồ án này, em xin được sử dụng độ đo F1 Score điểm đánh giá mô hình điều xuất cũng như so sánh kết quả vớ mô hình khác trong bài toán.

@@ -1,1 +1,0 @@
-Tính mở rộng và linh hoạt: Mô hình client server cho phép mở rộng hệ thống một cách dễ dàng, bằng cách thêm các máy chủ hoặc máy khách mới để xử lý tả.

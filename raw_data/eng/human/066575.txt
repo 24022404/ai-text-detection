@@ -1,1 +1,0 @@
-Secondly,Given that it may reload instantly after saving the code, vuejs is a simple language to learn and use and has the capacity to minimize page refresh times as much as feasible. I took a lot of effort to identify and correct those problems because I don’t know what caused them.

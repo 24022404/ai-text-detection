@@ -1,1 +1,0 @@
-PostgreSQL là một hệ quản trị cơ sở dữ liệu quan hệ mã nguồn mở được phát triển bởi cộng đồng và được sử dụng rộng rãi trên toàn thế giới. PostgreSQL hỗ trợ nhiều tính năng mạnh mẽ như truy vấn đa luồng, hỗ trợ định dạng JSON và các dữ liệu không quan hệ khác, hỗ trợ truy vấn và đánh chỉ mục toàn văn bản, và nhiều tính năng khác.

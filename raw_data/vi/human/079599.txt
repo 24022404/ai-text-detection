@@ -1,1 +1,0 @@
-Tên Kiểu dữ lệu Mô tả order_date nt Ngày tạo đơn hàng percent Tổng tiền của đơn hàng status t Trạng thái của đơn hàng restaurant d String Id của nhà hàng user_id String Id của người mua đặt đơn hàng Phương thức:

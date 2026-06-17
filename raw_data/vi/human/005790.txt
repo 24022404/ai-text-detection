@@ -1,1 +1,0 @@
-Về phía chủ cửa hàng: cung cấp thông tin về sản phẩm (hình ảnh, màu sắc, kích thước, giá bán, số lượng), chỉnh sửa giao diện trang web, quản lý các đơn hàng và tình trạng mặt hàng (đang xử lý, đang giao hàng, đã giao hàng và nhận thanh toán).

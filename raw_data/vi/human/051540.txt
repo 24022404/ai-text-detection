@@ -1,1 +1,0 @@
-Service : Gồm các lớp xử lý logic các yêu cầu từ controller gửi xuống, sử dụng các phương thức được cung cấp bơ repository để truy vấn đến cơ sở dữ liệu.

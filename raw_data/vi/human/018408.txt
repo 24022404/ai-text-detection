@@ -1,1 +1,0 @@
-NodeJS là Javascript, tức là vớ NodeJS thì lập trình viên full stack chỉ cần làm việc với một ngôn ngữ. Hơn nữa, tính ổn định của Javascript qua các phiên bản ES5, ES6, ES7, ES8 ngày càng hoàn thiện, ổn định và mang lại nhiều tính năng hơn cho lập trình viên.

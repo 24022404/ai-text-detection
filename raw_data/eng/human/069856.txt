@@ -1,1 +1,0 @@
-One of the main classes in this package is the DBConnector class, responsible for initializing the connection with the server and processing user requests. This class depends on the NavAPI interface to communicate with the server and retrieve data. Additionally, the DBConnector class utilizes the TaskDelegate interface to mount the results of server requests to the UI package.

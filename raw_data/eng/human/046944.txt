@@ -1,1 +1,0 @@
-Multi-BERT Using pre-train models based on the Transformers architecture will get us into trouble with input size because most of them were trained with 512 input tokens.

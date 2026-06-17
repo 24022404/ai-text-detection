@@ -1,1 +1,0 @@
-Đề xuất phương pháp xử lý tài liệu nghiêng dựa trên thuật toán tìm bao lồi và hình chữ nhật có diện tích nhỏ nhất bao quanh bao lồ.

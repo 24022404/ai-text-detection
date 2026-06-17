@@ -1,1 +1,0 @@
-Đồng thờ, mã TypeScript chuyển đổi sang JavaScript và cung cấp tất cả các lợi ích tương tự như ở JavaScript. TypeScript cũng chạy trong các ứng dụng và vớ các khung và thư viện JavaScript.

@@ -1,1 +1,0 @@
-Việc nhận diện những cử chỉ tay đối với con người là không khó, nhưng đối với máy tính thì cần phải từ chuỗi hình ảnh đầu vào tính toán hợp lý để dự đoán. Hơn nữa, đối với các góc quay, độ sáng khác nhau có thể ảnh hưởng đến kết quả nhận diện của mô hình.

@@ -1,9 +1,0 @@
-This paper addresses the challenge of obtaining reliable image labels for training robust classification models, which are essential in fields like computer vision and artificial intelligence. Traditional methods often rely on pre-annotated data, which can be both costly and prone to errors.
-
-Methods/Approach: We propose an innovative approach that learns image labels on-the-fly using a dynamic labeling mechanism integrated within the training process of classification models. Our method leverages a semi-supervised learning framework, combining a baseline Convolutional Neural Network (CNN) architecture with an adaptive scheme for label refinement, enhanced by self-learning techniques and confidence scoring mechanisms.
-
-Results/Findings: The proposed approach significantly improves the robustness and accuracy of image classification models by dynamically correcting initial label inaccuracies during training. Our experiments demonstrate a notable enhancement in model performance compared to traditional static labeling methods, especially when working with large datasets containing noisy or incomplete labels. Comparison metrics with state-of-the-art methods show improvement in classification accuracy by up to 15% across multiple benchmark datasets, thereby validating the efficacy of our approach.
-
-Conclusion/Implications: The research contributes a novel methodology for on-the-fly label learning, reducing reliance on extensive labeled datasets and enhancing the adaptability of classification models to real-world scenarios where label noise is prevalent. This approach has the potential to streamline the model training pipeline across various applications, such as autonomous driving, medical imaging, and real-time video analysis, where rapid adaptation and high accuracy are crucial.
-
-Keywords: image classification, label learning, robust models, semi-supervised learning, CNN, adaptive label refinement, self-learning.

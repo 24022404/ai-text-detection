@@ -1,1 +1,0 @@
-C.H. Wan and M.C. Huang, “Value Based deep reinforcement learning for adaptive isolated intersection signal control,” IET Intelligent Transport Systems , vol. 12, no. 9, pp. 1005–1010, 2018.

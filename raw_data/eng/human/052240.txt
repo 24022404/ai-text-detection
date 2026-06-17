@@ -1,1 +1,0 @@
-OpenCV provides a wide range of computer vision functions and algorithms,including image and video processing, feature detection and extraction, object de tection and tracking, camera calibration, and machine learning. It also includes areal-time computer vision module that can process live video streams from web cams, video files, or network cameras.

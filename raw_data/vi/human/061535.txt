@@ -1,1 +1,0 @@
-Ngoài ra, quản trị viên hệ thống có thể tùy chỉnh cấu hình cho hệ thống như cập nhật sản phẩm, phân quyền hoặc quản lý người dùng.

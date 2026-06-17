@@ -1,1 +1,0 @@
-Giá thành rẻ: Một điều làm nên sự phổ biến của Arduino chính là mức giá rất thấp cho một board mạch Arduino.

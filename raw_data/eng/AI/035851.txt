@@ -1,9 +1,0 @@
-Objective: Accurate and efficient labelling of markers in optical motion capture (MoCap) is critical for downstream biomechanics, animation, and robotics applications. Manual or heuristic-based assignment of unlabeled marker trajectories to anatomical landmarks remains labor-intensive and error-prone, especially under occlusions and marker dropouts. This paper introduces a novel permutation learning framework to automate marker labelling in optical MoCap sequences.
-
-Methods: We formulate the labelling task as a permutation prediction problem and design a lightweight neural network that ingests time‐series features of unlabeled marker trajectories and outputs a soft permutation matrix representing assignment probabilities. During training, a differentiable Sinkhorn layer enforces doubly stochastic constraints, encouraging one-to-one correspondences. The model is trained end-to-end on synthetic and real-world MoCap datasets with known ground-truth assignments. At inference, the highest‐probability permutation yields the final label mapping.
-
-Results: Experiments on benchmark MoCap sequences demonstrate that our approach achieves over 98% labelling accuracy, reducing annotation time by more than 90% compared to manual workflows. The method remains robust to up to 30% random marker dropout and outperforms classical combinatorial solvers (e.g., Hungarian algorithm) by 5–10% in challenging scenarios with severe occlusions.
-
-Conclusion: By leveraging permutation learning and differentiable assignment layers, our system provides a scalable, accurate, and fully automated solution for marker labelling in optical motion capture. This advance accelerates data preparation for biomechanical analysis, character animation, and human‐robot interaction research.  
-
-Keywords: optical motion capture, marker labelling, permutation learning, neural networks, data association.

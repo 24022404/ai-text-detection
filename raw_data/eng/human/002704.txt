@@ -1,1 +1,0 @@
-Unified, real time object detection,” in Proceedings of the IEEE conference on computer vision and pattern recognition , 2016, pp. 779–788.

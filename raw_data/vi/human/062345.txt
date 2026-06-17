@@ -1,1 +1,0 @@
-Trong quá trình khởi tạo và xây dựng đồ án môn học, ngoài các chức năng của hệ thống cần được đảm bảo, em đã rất chú tâm vào trải nghiệm của người dùng, sự tương tác của người dùng vớ website, màu sắc của hệ thống và các hình ảnh trên hệ thống.

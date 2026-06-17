@@ -1,1 +1,0 @@
-Clustering Clustering is a data mining technique for grouping unlabelled data based on their similarities or differences. In simple words, the aim is to segregate groups with similar traits and assign them into clusters. This technique is helpful for market segmentation, image compression, etc.

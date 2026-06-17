@@ -1,1 +1,0 @@
-Behavioral analysis examines an application’s actions while it runs in a secure, controlled environment in order to identify suspicious activities, including unauthorized transmission of data or improper access to system resources. This approach helps uncover threats that evade traditional detection methods.

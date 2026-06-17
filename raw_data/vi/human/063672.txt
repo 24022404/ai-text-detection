@@ -1,1 +1,0 @@
-Kết quả điạt được Sau thờ gan lập trình và trển kha các hệ thống, phân hệ quản lý và lập lịch chỉ báo điã điược xây dựng vớ hệ thống Arflow lập lịch tính toán chỉ báo, cũng như tích hợp thêm mã nguồn cho chức năng tạo mớ chỉ báo cá nhân.

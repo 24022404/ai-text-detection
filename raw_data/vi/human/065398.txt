@@ -1,1 +1,0 @@
-Bài toán Trong quản lý đảng, việc thông báo các thông tin điểm đảng viên là cần thiết, để các đảng viên có thể nắm bắt thông tin dễ dàng và kịp thời, việc xây dựng chức năng thông báo điểm đảng viên là cần thiết, tốt hơn so với việc phát thông báo bên ngoài.

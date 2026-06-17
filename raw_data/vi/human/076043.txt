@@ -1,1 +1,0 @@
-Vệc này được thực hiện rất điơn gản, ta chỉ cần bổ xung thêm các texture, bổ xung thêm trường texture cho bảng products trên cơ sở dữ lệu. Và kh điem vật thể ra mô trường thực tế, người dùng có thể tuỳ chọn các mẫu texture khác nhau, các thư viện ARCore hay SceneKt điều đã hỗ trợ rất tốt tính năng này.

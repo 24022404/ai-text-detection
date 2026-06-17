@@ -1,1 +1,0 @@
-Google Form Google Form là một công cụ tạo và quản lý biểu mẫu khảo sát cực kỳ hữu ích được phát triển bởi Google. Được sử dụng với mục đích thu thập dữ liệu. Dữ liệu thu thập được thông qua Google Forms sẽ được lưu trữ dưới dạng một bảng tính.

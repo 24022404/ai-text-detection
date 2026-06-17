@@ -1,1 +1,0 @@
-Để xây dựng nên phân hệ quản lý và lập lịch các trình tính toán chỉ báo vớ phạm v và mục têu đã nêu ở phần 1.2, tô điề xuất gả pháp trển kha như sau:

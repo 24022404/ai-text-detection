@@ -1,1 +1,0 @@
-//Analyst.java return df.select(substrng(col("tme"), 1, 13).as("hour"), col("gud")) .group By("hour") .agg(count("gud").as("view"), count Distinct("good").as("user")) .collectAbLes(); Phân tích lưu lượng truy cập theo trình duyệt Bài toán: Tính số lượng người dùng, lượt xem báo điện tử theo trình duyệt hàng ngày.

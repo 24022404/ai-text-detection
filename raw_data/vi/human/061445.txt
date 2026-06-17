@@ -1,1 +1,0 @@
-Để train tất cả tuabin cùng 1 lúc, ta sẽ sử dụng model Graph Vớ việc trần mỗ tuan 1 model,ta sẽ sử dụng các model khác như CNN, LSTM..

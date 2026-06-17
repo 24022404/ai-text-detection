@@ -1,1 +1,0 @@
-During step 3, users are required to input their password twice to ensure accuracy. If the entered passwords do not match, or if the provided details correspond to an existing account—such as a duplicate primary key field—the system will notify the user with an error message, prompting correction before proceeding further.

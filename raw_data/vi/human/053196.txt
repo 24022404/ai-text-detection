@@ -1,1 +1,0 @@
-Do dữ liệu còn hạn chế, chỉ có dữ liệu đơn hàng nên chưa thể khai thác tốt hơn cho việc gợi ý sản phẩm phù hợp. Vì vậy module hiện tại tuy đầy đủ chức năng chính nhưng vẫn còn ít hơn so với module recommendaton của Magento Commerce.

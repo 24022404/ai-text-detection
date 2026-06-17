@@ -1,1 +1,0 @@
-Sau khi yêu cầu được xác nhận hoặc từ chối thì bên đại diện trung tâm sẽ nhận được thông báo.

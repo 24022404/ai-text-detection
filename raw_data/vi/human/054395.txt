@@ -1,1 +1,0 @@
-Từ những nhu cầu thực tế kể trên, em đã thực hiện điề tà "Ứng dụng NFT vào game Flappy brd”. Mục đích của điều tài là để nghên cứu cách xây dựng một GameF và nghên cứu nền knh tế trong game NFT.

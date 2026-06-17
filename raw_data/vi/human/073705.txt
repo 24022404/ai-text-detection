@@ -1,1 +1,0 @@
-Trên Ethereum , các Smart Contract chịu trách nhiệm thực thu và quản lý các hoạt động diễn ra trên blockchain khi những người dùng tương tác với nhau. Bất kỳ địa chỉ nào không phải là smart contract điều được là Tài khoản độc lập (Externally Owned Account  TOA). Do đó, smart contract sẽ do máy tính kiểm soát và ÉOA do người dùng kiểm soát.

@@ -1,9 +1,0 @@
-This paper addresses the challenge of realistic facial reenactment driven solely by audio inputs, an important task for applications such as virtual avatars and human-computer interaction. By exploring the dynamic relationship between speech and facial expressions, we aim to generate convincing facial animations that accurately reflect spoken words.
-
-Methods/Approach: We propose a novel approach utilizing Conditional Generative Adversarial Networks (cGANs) to achieve speech-driven facial reenactment. Our model leverages audio features as input conditions and generates corresponding facial expressions. The cGAN framework consists of a generator that synthesizes facial images and a discriminator that evaluates their realism, guided by the audio conditions.
-
-Results/Findings: The proposed approach is evaluated on a publicly available benchmark dataset, demonstrating its superiority over existing methods in terms of realism and synchronization between speech and facial movements. Quantitative metrics show significant improvement in generated facial consistency and expression accuracy. Our system achieves state-of-the-art performance in creating lifelike facial animations from speech inputs.
-
-Conclusion/Implications: This research contributes to the field by introducing a robust methodology for speech-driven facial reenactment using cGANs, offering significant advancements over previous techniques. The implications of this work extend to various applications, including virtual reality, gaming, and animation industries, where realistic and synchronized facial animations are crucial. Our model opens avenues for further exploration in multimodal human-computer interaction and speech recognition technologies.
-
-Keywords: speech-driven facial reenactment, Conditional Generative Adversarial Networks, cGANs, audio-visual synchronization, virtual avatars, facial animation.

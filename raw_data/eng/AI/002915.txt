@@ -1,1 +1,0 @@
-Odoo offers an extensive suite of features and modules that cater to various business needs, from fundamental functions such as sales and marketing to more complex areas like customer support, accounting, inventory, and manufacturing, enabling businesses to manage operations efficiently.

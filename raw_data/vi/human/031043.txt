@@ -1,1 +1,0 @@
-Kết luận Thành công Bảng 4.12: Test case: Mnt NFS có thể giao dịch Test case Mua NFT Tác nhân thực hiện Người dùng Bền điều kiện Đã có vé và số dư trong ví đủ trả phí Trình tự 1. Tác nhân vào trang Ch tết Collection hoặc trang Explorer.

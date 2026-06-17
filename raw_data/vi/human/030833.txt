@@ -1,1 +1,0 @@
-Laravel cung cấp () blade template engine để phát triển giao diện, () framework package Viewer để tăng trả nhiệm của người dùng, () package mal, map để gửi nhận email và rất nhiều các package tiện lợi khác giúp cho việc phát triển sản phẩm trở nên dễ dàng và nhanh chóng.

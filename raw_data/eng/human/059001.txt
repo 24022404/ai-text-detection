@@ -1,1 +1,0 @@
-A software system designed with scalable internet applications in mind. The program is written in Javascript, using event-driven, input/output/asynchronous technology. Node JS is written server-side to convey APIs to other applications.

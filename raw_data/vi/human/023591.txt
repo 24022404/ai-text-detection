@@ -1,1 +1,0 @@
-Model: Là bộ phận thực hiện các chức năng liên quan đến cơ sở dữ liệu như đọc, ghi ,sửa , xóa.b, Mô tả kiến trúc ứng dụng Hình 4.2: Biểu đồ mô hình kiến trúc ứng dụng Web (App) : Phần này có nhiệm vụ hiển thị thông tin, nhận các tương tác của người dùng và gửi đến Controller.

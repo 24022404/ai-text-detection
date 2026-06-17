@@ -1,1 +1,0 @@
-D that contain word t. The logarithmic base in this formula does not change the idf value of the word but only narrows the range of that word’s value.

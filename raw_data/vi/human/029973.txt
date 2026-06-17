@@ -1,1 +1,0 @@
-Hierarchy view Hierarchy view cho phép ta theo dõi toàn bộ các vật thể đang hiện hữu trong môi trường theo dạng danh sách. Ở đây các vật thể được tạo ra sẽ có dạng cha và con. Các vật thể con sẽ được nằm trong cha và có thể được mở đóng thông qua cha.

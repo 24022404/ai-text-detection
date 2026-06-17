@@ -1,1 +1,0 @@
-Vấn đề của RoBert là mô hình chỉ cho phép gợi ý 1 vị trí mask trong câu. Tức là 1 câu chỉ có thể gợi ý cho 1 vị trí. Chính vì vậy, đối với những câu sa nhiều hơn 2 lỗ chính tả, tức là cần gợi ý cho từ 2 vị trí trở lên thì các mô hình này chưa đáp ứng được.

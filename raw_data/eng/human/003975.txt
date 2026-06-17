@@ -1,1 +1,0 @@
-Overall design The UML package diagram of subsystem is shown in figure 4.1 Figure 4.1: UML package diagram of subsystem Package web has 1 package publishing web which contain the project of user interface application. Publishing web dependence with webbff package in gatewayand report package in services.

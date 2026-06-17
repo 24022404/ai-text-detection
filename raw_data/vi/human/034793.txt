@@ -1,1 +1,0 @@
-Localization Chứa những lớp phục vụ xử lý hiển thị đa ngôn ngữ Conf Chứa những lớp lưu trữ dữ liệu trong available

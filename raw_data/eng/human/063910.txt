@@ -1,1 +1,0 @@
-A user-friendly self-service portal for end users to log and track tickets, browse knowledge articles, and use other self-service capabilities.

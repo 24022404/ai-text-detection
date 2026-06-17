@@ -1,1 +1,0 @@
-Consistency in expression of alphanumeric numbers: comma for separator of thousand while strings only consist of characters, digits, commas, dots, spaces, underscores, and hyphen symbol Control Size of the text: medium size (mostly 16px). Font: Averta,Regular. Color:

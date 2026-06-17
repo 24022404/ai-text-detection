@@ -1,1 +1,0 @@
-Tính đồng thời (Concurrency). Elxr sử dụng các luồng thực thi nhẹ. Chúng được tách bệt, chạy trên tất cả các CPU và giao tiếp thông qua các tin nhắn. Cùng vớ tính bất biến của dữ liệu điện từ bản chất chức năng của ngôn ngữ, điều này làm cho việc vết các chương trình đồng thờ trong Elxr trở nên bớt khó khăn hơn.

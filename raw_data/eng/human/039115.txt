@@ -1,1 +1,0 @@
-For each Firebase URL found, the system checks whether the Firebasedatabase is open and accessible over the internet without authentica tion.

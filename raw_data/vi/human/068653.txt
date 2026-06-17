@@ -1,1 +1,0 @@
-Kh người dùng sử dụng dịch vụ Single Sign On tức là người dùng đồng ý việc thông tin tài khoản sẽ bị lưu vào Cookie trong Domain của các hệ thống. Các trang web trên khai SAO cần phải trao đổi thông tin Cooke giữa các Domain với nhau, mỗ giao thức SSO sẽ định nghĩa một cơ chế khác nhau.

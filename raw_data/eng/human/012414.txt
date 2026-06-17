@@ -1,1 +1,0 @@
-Difficulty in defining neural network architecture: deep learning has many different neural network architectures, such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Gated Recurrent Units (GRUs).

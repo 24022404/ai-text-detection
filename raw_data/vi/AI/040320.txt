@@ -1,5 +1,0 @@
-Dự báo khả năng chịu nén đúng tâm của cột bê tông cốt thanh sợi polymer đang trở thành một chủ đề quan trọng trong lĩnh vực xây dựng và vật liệu xây dựng. Mới đây, một nghiên cứu mới đã được thực hiện để đánh giá khả năng chịu nén của cột bê tông cốt thanh sợi polymer dựa trên mô hình cây hồi quy.
-
-Kết quả nghiên cứu cho thấy rằng khả năng chịu nén của cột bê tông cốt thanh sợi polymer phụ thuộc vào nhiều yếu tố, bao gồm độ dài thanh sợi, tỷ lệ thanh sợi, và cường độ bê tông. Mô hình cây hồi quy đã được sử dụng để dự báo khả năng chịu nén của cột bê tông cốt thanh sợi polymer dựa trên các yếu tố này.
-
-Nghiên cứu này có thể giúp các kỹ sư và nhà xây dựng dự báo khả năng chịu nén của cột bê tông cốt thanh sợi polymer một cách chính xác hơn, từ đó có thể lựa chọn vật liệu và thiết kế cột bê tông phù hợp với yêu cầu của dự án. Điều này sẽ giúp giảm thiểu rủi ro và tăng cường độ an toàn cho các công trình xây dựng.

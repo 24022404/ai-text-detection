@@ -1,1 +1,0 @@
-Xem danh sách sinh vênHình 4.18: Màn hình danh sách sinh viên Tạ điây doanh nghệp có thể xem được thông tin của những sinh viên công kha bảng điểm cá nhân, xem bằng tốt nghệp, đồng thờ có thể xem giao dịch onchan cũng như xác thực văn bản.

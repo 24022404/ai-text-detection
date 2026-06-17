@@ -1,1 +1,0 @@
-Ngôn ngữ Python và thư vện pandas điã điược lựa chọn cho các bước xử lý dữ liệu và tính toán giá trị của các chỉ báo. Ngoà ra, điể lập lịch cho các trình tính toán chỉ báo thực hiện theo điúng tần suất và thứ tự, phân hệ sử dụng công nghệ Apache Arflow.

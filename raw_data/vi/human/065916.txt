@@ -1,1 +1,0 @@
-Pitch : Đây là bộ phận giữ cho rotor có thể tạo ra điện khi chúng quay trong gió ..3.1.Multi layer Perceptron (MLP) Perceptron cơ bản : một mạng Neural được cấu thành bởi các neural đơn lẻ được gọi là các perceptron.  Neural nhân tạo được lấy cảm hứng từ Neural sinh học như hình sau:

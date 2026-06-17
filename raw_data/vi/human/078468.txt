@@ -1,1 +1,0 @@
-Tà lệu tuyết vờ : Tà lệu của Laravel rất thân thiện với nhà phát trển. Tất cả các phên bản của Laravel được phát hành cùng với các tài lệu phù hợp.

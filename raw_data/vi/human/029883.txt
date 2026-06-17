@@ -1,1 +1,0 @@
-Xos Axos là một thư viện HTTP mã nguồn mở cho JavaScript rất phổ biến trong cộng đồng phát triển web và được sử dụng rộng rãi trong các dự án phát triển web và d động. Thư viện này cho phép gửi các yêu cầu HTTP từ một ứng dụng web hoặc di động điện một máy chủ web hoặc API.Các tính năng chính của Axos bao gồm:

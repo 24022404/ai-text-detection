@@ -1,7 +1,0 @@
-Single-image 3D photography aims to generate realistic depth-aware 3D effects from a single 2D image, enabling applications in VR, AR, and computational photography. However, existing methods often suffer from depth inconsistencies, occlusion artifacts, and unnatural layer transitions. To address these challenges, we propose SLIDE (Single Image 3D Photography with Soft Layering and Depth-aware Inpainting), a novel framework that reconstructs high-quality 3D views with improved occlusion handling and depth perception.
-
-SLIDE introduces a soft layering mechanism that decomposes an image into multiple depth-ordered layers with smooth transitions, reducing artifacts in synthesized novel views. Additionally, we employ a depth-aware inpainting module that predicts and fills occluded regions by leveraging context from surrounding depth and texture features. Our approach is trained in a self-supervised manner, ensuring generalization across diverse scenes without requiring ground-truth multi-view data.
-
-Experiments on benchmark datasets demonstrate that SLIDE achieves state-of-the-art performance in single-image 3D view synthesis, outperforming existing methods in terms of depth consistency, visual realism, and occlusion handling. These results highlight the potential of soft layering and depth-aware inpainting for advancing 3D photography from monocular images.
-
-Keywords: 3D Photography, Single-Image 3D Reconstruction, Depth-aware Inpainting, Soft Layering, Novel View Synthesis, Computational Photography.

@@ -1,1 +1,0 @@
-Làm mờ Gaussian: Sử dụng một bộ lọc Gaussian điểm làm mịn ảnh và giảm thiểu những lỗ trong ảnh. Do kích thước của các ảnh có thể khá là nhỏ, nên em chọn độ lớn của bộ lọc Gaussian chỉ là 3x3 để tránh việc làm mờ toàn bộ bức ảnh mà không thấy được chữ.

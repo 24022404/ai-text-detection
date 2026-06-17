@@ -1,1 +1,0 @@
-Ngoài ra, hệ thống còn có thêm biểu đồ so sánh doanh thu, tiền hàng (giá vốn) để người dùng có cá nhìn trực quan về tình trạng kinh doanh của cửa hàng.

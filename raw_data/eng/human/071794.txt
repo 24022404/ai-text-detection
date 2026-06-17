@@ -1,1 +1,0 @@
-Firstly, the ’src’ and ’tgt’ ids are decoded using PRIMERA tokenizer Secondly, the input documents and summaries from Newshead step 2 are translated using the Google Translate API. Prior to translation, the data in English had already undergone preprocessing steps, including entity identification using Spacy  and Rouge score calculation.

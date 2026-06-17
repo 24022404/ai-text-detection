@@ -1,1 +1,0 @@
-Tính dễ bảo trì (Maintainability) Hệ thống phả dễ bảo trì các thành phần mà không ảnh hưởng đến hoạt động của toàn hệ thống. Các chức năng, thành phần phải được phân chia riêng biệt. Độc lập với nhau để có thể dễ dàng bảo trì chức năng, thành phần này mà không ảnh hưởng đến toàn bộ hệ thống.

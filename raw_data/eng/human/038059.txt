@@ -1,1 +1,0 @@
-The Advantages of Clean Architecture Database and framework independence Unrelated to the presentation layer. We may alter the UI at any moment without affecting the rest of the system or business logic. Highly testable, particularly the fundamental domain model and associated business rules.

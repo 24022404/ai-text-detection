@@ -1,1 +1,0 @@
-The CSS syntax structure is pretty simple. It has a selector and a declaration block. An element is selected and then declared what to do with it. The selector points to the HTML elements with a style. The declaration block contains one or more declarations separated by semicolons.

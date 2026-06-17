@@ -1,1 +1,0 @@
-After updating the appointment status, the app notifies both the provider and the customer about the change that has just been made. This ensures that both parties are informed about any updates or modifications to the appointment status.4.2.3 Database design The entity-relationship diagram is represented as follows:

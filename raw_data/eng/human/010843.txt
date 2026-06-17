@@ -1,1 +1,0 @@
-pfeat c←−pfeat cnfeat c+ ˜pfeat c˜nfeat c nfeat c+ ˜nfeat c where nfeat crepresents the total number of category c-related pixels since the last update, ˜nfeatcrepresents the total number of category cpixels from a training mini batch that was just added.

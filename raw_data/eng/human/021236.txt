@@ -1,1 +1,0 @@
-The exported activities, regular activities, and deeplinks are retrieved from the database, if available. If no static analysis data is found, a warning is logged.

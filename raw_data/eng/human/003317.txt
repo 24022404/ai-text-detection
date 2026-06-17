@@ -1,1 +1,0 @@
-J. Ramos and others , “Using tfdf to determine word relevance in document queries,” Proceedings of the first instructional conference on machine learning Citeseer, volume 242, 2003, pages 29–48.

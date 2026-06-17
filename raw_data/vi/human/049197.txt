@@ -1,1 +1,0 @@
-Webserver là một server được phát trểng bằng Fast và Guncorn để hển thị thông tin giao diện web cho người sử dụng.

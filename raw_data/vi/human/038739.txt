@@ -1,1 +1,0 @@
-docker network create eastnet docker network connect ehustnet mysqlns Bước 2: Tạo tệp thực thi Spring Boot: Tại máy local, thực hiện lệnh sau trên cửa sổ lệnh tạo thư mục gốc của project:

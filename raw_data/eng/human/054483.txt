@@ -1,1 +1,0 @@
-Some popular algorithms for password hashing include bcrypt and SHA. In this article, we’ll focus on using bycrypt to hash passwords in Node.js. Here’s an example of hashing plain text:

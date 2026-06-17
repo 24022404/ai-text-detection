@@ -1,1 +1,0 @@
-Cột thuộc kiểu Dmenson lưu trữ thông tin trạng thá của dữ liệu. Những cột này có thể áp dụng những thao tác groupby, flter.

@@ -1,1 +1,0 @@
-Trong đồ án này em sử dụng CSS3 là phiên bản thay thế cho CSS2, mở rộng các tính năng đã có .Và đặc biệt CSS3 mang đến các bộ chọn (selectors) và thuộc tính (properties) mớ cho phép linh hoạt hơn với bố cục và trình bày trang.

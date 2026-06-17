@@ -1,1 +1,0 @@
-Package Controller takes care of receiving request data, first checking it using the service in Service package, then processing it in conjunction with getting orupdating data by working with Model package, and returning results to the front end.

@@ -1,9 +1,0 @@
-This research aims to advance the understanding of affective states by analyzing multi-modal data collected in unconstrained, real-world environments. By focusing on standardized data within subjects, we seek to improve the reliability and accuracy of affect analysis across diverse scenarios.
-
-Methods/Approach: We utilize a combination of video, audio, and physiological signals to capture affective expressions from participants in natural settings. Our approach leverages state-of-the-art multi-modal fusion techniques to integrate data streams, enhancing the robustness of affect recognition. This study employs machine learning models, including neural networks specifically designed for multi-modal data processing, to analyze affective patterns within subjects consistently.
-
-Results/Findings: The proposed framework demonstrated superior performance in affect detection compared to traditional uni-modal methods. Our system achieved significant improvements in accuracy and consistency across subjects, highlighting the effectiveness of standardized data collection in real-world environments. Comparative evaluations showed that our multi-modal approach outperforms existing models, with notable enhancements in detecting subtle affective cues.
-
-Conclusion/Implications: This research contributes to the field of affective computing by introducing a novel methodology for analyzing affect in the wild, emphasizing the use of standardized within-subject data. Our findings have potential applications in areas such as human-computer interaction, personalized user experiences, and mental health monitoring. The study underscores the importance of multi-modal integration in capturing the complexity of human emotions, providing a foundation for future research in dynamic and varied environments.
-
-Keywords: multi-modal affect analysis, standardized data, real-world environments, machine learning, human-computer interaction, affective computing, neural networks.

@@ -1,1 +1,0 @@
-function suggestUsers This function handles the suggestion users function of the application. It will try to find at most 10 users which the current user is not following.

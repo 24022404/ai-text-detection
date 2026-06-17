@@ -1,1 +1,0 @@
-Today, most of the websites are built using MVC (model view controller) archi tecture. In MVC architecture, React is the ’V’ which stands for view, whereas the architecture is provided by the Redux or Flux.

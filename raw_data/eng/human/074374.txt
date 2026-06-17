@@ -1,1 +1,0 @@
-User: contains pages that require customers to have an account within the system and be logged in to access them. Only authenticated users with valid credentials can access these pages.

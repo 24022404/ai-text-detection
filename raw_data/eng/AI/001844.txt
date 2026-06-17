@@ -1,1 +1,0 @@
-Adaptive Moment Estimation is a powerful optimization algorithm designed to accelerate gradient descent, particularly in large-scale problems involving substantial data or numerous parameters. By integrating aspects of momentum and RMSProp algorithms, it offers improved efficiency and memory savings.

@@ -1,1 +1,0 @@
-ReactJS cũng cho phép tích hợp với các thư viện và công nghệ khác như Redux điểm quản lý trạng thái của ứng dụng, hoặc React Native điểm phát triển ứng dụng di động cho cả hệ điều hành OS và Android.

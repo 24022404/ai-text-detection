@@ -1,1 +1,0 @@
-The data is generated using the open source CC-Net repository. CC100 corpus contains more diverse and general representation of the Vietnamese language than news data. Both of above two datasets above are single-document datasets.

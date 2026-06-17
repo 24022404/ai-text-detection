@@ -1,1 +1,0 @@
-Người dùng click vào video mà mình muốn xem chợ tết. Sau đó màn hình sẽ hiển thị màn hình cho tết video như số lượt lke, số lượt comment, số lượt chia sẻ, danh sách comment, ... được minh họa như hình 4.15.

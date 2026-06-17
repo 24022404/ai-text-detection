@@ -1,1 +1,0 @@
-Vulnerabilities: If the activity could be exploited for injection or other attacks due to improper input handling, it is considered a high-risk activity.

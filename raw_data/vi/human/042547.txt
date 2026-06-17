@@ -1,1 +1,0 @@
-onLongClick() : Thuộc View.OnLongClickListener. Nó được gọi khi người dùng chạm và giữ tem (kh ở chế độ cảm ứng), hoặc lựa chọn vào tem vỡ các phím điều hướng sau đó nhấn và giữ phím "enter".

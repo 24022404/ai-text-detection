@@ -1,1 +1,0 @@
-Thêm danh mục Bảng 2.10: Đặc tả usecase – Thêm danh mục Tên ca sử dụng: Thêm danh mục ICD: 10 Tác nhân chính: Bí thư Mục đích: : Bí thư thêm danh mục Mô tả: Ca sử dụng này mô tả cách bí thư thêm danh mục Kích hoạt: : Bí thư thêm danh mục Luồng sự kiện chính:

@@ -1,1 +1,0 @@
-Chương 3: Giới thiệu về các công nghệ sử dụng để xây dựng phần mềm quản lý sản xuất, đồng thời đưa ra các ưu điểm khi sử dụng các công nghệ này.

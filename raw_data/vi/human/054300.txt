@@ -1,1 +1,0 @@
-Trong điều kiện ánh sáng yếu và ánh sáng mạnh, khoảng cách tố đia có thể nhận diện được cử chỉ tay là 2,5mđiố vớ ứng dụng máy tính và 2m đối với thiết bị bên Jetson Nano.

@@ -1,9 +1,0 @@
-Objective: Functional data, comprising observations over a continuum such as curves or time series, pose challenges for standard tree-based models due to their infinite-dimensional nature. This paper introduces Measure Inducing Classification and Regression Trees (MI-CRT), a novel framework for constructing decision trees that directly leverage measures derived from functional predictors.  
-
-Methods: MI-CRT first defines a family of measure operators—such as integral projections, variance measures, or distance-based kernels—that map functional inputs to scalar summaries. During tree construction, splits are chosen by optimizing a measure-aware impurity criterion, ensuring that each node partition captures relevant functional characteristics. A greedy recursive algorithm builds the tree, allowing both categorical outcomes (classification) and continuous targets (regression).  
-
-Results: In simulation studies and real-world benchmarks—including spectrometric curves and electrocardiogram recordings—MI-CRT consistently outperforms traditional functional decision trees and scalar-feature baselines. Classification accuracy improves by up to 8 %, and regression mean squared error decreases by 15 % on average. The induced splits correspond to interpretable regions of the functional domain, facilitating insight into the most discriminative intervals or shape features.  
-
-Conclusion: By integrating measure operators into the tree-induction process, MI-CRT offers a unified, interpretable approach for analyzing functional data. Its flexibility permits customization of measure families to domain-specific phenomena and supports transparent decision-making in applications ranging from biomedical signal analysis to environmental monitoring.  
-
-Keywords: functional data analysis, classification and regression trees, measure induction, interpretability, tree-based models.

@@ -1,1 +1,0 @@
-By enhancing PRIMERA and generating Vietnamese-specific datasets, this research contributes to improving the accuracy and performance of summarizing Vietnamese text across multiple documents.

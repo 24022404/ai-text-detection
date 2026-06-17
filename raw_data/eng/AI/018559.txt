@@ -1,1 +1,0 @@
-File paths are simplified by removing extraneous details like ‘!’ to retain only essential filenames, while references to images, figures, or data (such as 'Table 3.5' or 'Figure 4.1') are maintained as part of the summarized content.

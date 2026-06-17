@@ -1,1 +1,0 @@
-Funny Zoo, being a real-time fighting game, incorporates ideas borrowed from both networking techniques. To synchronize players’ movement under real-time constraints, we build a predictor component similar to what rollback netcode has.

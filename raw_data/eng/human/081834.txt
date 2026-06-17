@@ -1,1 +1,0 @@
-MySQL can be installed on various operating systems, including Windows, Linux, and macOS. It also integrates well with other web development tools, such as Apache and PHPMyAdmin, which makes it even more convenient to use.

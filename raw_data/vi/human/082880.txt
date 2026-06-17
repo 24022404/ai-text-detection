@@ -1,1 +1,0 @@
-Điểm cộng lớn của Lazy Loading là sự ảnh hưởng đến hiệu suất ứng dụng mở chức năng chỉ tải những dữ lệu cần thiết và trong tầm nhìn của users.

@@ -1,1 +1,0 @@
-Controller: là thành phần nhận và xử lý các yêu cầu của người dùng, có thể tương tác với Model để lấy dữ liệu và hiển thị thông qua View.

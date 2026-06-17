@@ -1,1 +1,0 @@
-Thể hiện (Individuals): Các thể hiện là các thành phần cơ bản nền tảng của một Ontology, là đối tượng đại diện cho lớp.

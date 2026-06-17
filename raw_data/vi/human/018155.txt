@@ -1,1 +1,0 @@
-Quản lý sản phẩm: Cho phép người sử dụng thêm, sửa, xóa và xem chi tiết sản phẩm. Tìm kiếm danh sách sản phẩm theo một số trường như: Tên sản phẩm, mã sản phẩm, loại sản phẩm. Ngoài ra, cần có thêm tính năng import file giúp tạo sản phẩm nhanh hơn.

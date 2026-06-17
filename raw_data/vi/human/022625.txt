@@ -1,1 +1,0 @@
-Ở bản 4.5, sử dụng quá ID 2001 điển địa vện kiểm tra tính năng gây sát thương cho nhân vật và nhận sát thương từ nhân vật.

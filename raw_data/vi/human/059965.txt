@@ -1,1 +1,0 @@
-Để đáp ứng được nhu cầu của người dùng được đề cập ở mục 1.1, tạo ra một marketplace nơ người dùng có thể giao dịch, mua bán, trao đổi các tả sản số (NFT, ERC20 token) chính là các vật phẩm, tài sản trong trò chơi điện tử, đồ án hướng đến xây dựng một hệ thống quản lý và marketplace có các mục tiêu chính như sau:

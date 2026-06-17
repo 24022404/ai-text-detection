@@ -1,1 +1,0 @@
-Nâng cao trải nghiệm người dùng: Khi sử dụng JavaScript, trang web có thể tương tác với người dùng, cải thiện trải nghiệm duyệt web và điểm lại sự hứng thú.

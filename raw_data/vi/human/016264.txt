@@ -1,1 +1,0 @@
-Luồng sự kiện phát sinh 1. Nhân viên quản lý kho hàng truy cập tính năng tạo phiếu nhập hàng trên hệ thống.

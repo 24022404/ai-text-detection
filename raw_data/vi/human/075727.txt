@@ -1,1 +1,0 @@
-addMember: phương thức này gồm 3 tham số là phoneNumber, conversation Id và token, nhằm tạo thêm người dùng có số điện thoại là phoneNumber vào cuộc hội thoại có mã cuộc hội thoại là conversationId.

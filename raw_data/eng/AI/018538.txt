@@ -1,9 +1,0 @@
-Objective: Sparse reward signals pose significant challenges for sample-efficient reinforcement learning, particularly in goal-conditioned tasks. This paper introduces MHER (Model-based Hindsight Experience Replay), a novel framework that combines learned environment dynamics with hindsight goal relabeling to accelerate policy learning.  
-
-Methods: MHER trains a predictive dynamics model alongside the policy and value networks. During training, the model generates imagined trajectories from real state–action pairs. These synthetic rollouts are then processed with hindsight goal relabeling, in which achieved states are retrospectively treated as training goals. By blending real and imagined experiences in the replay buffer, MHER leverages both model-based planning and model-free hindsight updates.  
-
-Results: We evaluate MHER on a suite of continuous control benchmarks, including point-mass navigation, block stacking, and robotic arm manipulation tasks with sparse rewards. Compared to standard Hindsight Experience Replay (HER) and state-of-the-art model-based baselines, MHER achieves up to 2× faster convergence and improves final task success rates by 15–25%. Ablation studies show that the synergy between model-generated rollouts and goal relabeling is critical to performance gains.  
-
-Conclusion: MHER demonstrates that integrating a predictive model with hindsight experience replay significantly enhances sample efficiency in sparse-reward environments. This hybrid approach reduces reliance on extensive real-world interactions, making it well suited for robotics and other resource-constrained domains. Future work will explore adaptive rollout lengths and uncertainty-aware model updates.  
-
-Keywords: reinforcement learning; model-based RL; hindsight experience replay; sample efficiency; robotic manipulation.

@@ -1,1 +1,0 @@
-Vapor điược vết bằng ngôn ngữ Swft nên cú pháp ngắn gọn và dễ hiểu, tốc điộ xử lý nhanh.•Từ phên bản Swft 5.7 điược Apple hỗ trợ cú pháp bất đồng bộ nên Vapor càng trở nên mạnh mẽ kh phát trển backend.

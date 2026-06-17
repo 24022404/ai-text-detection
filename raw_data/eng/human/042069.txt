@@ -1,1 +1,0 @@
-–Color-based: Color-based  develops a color representation for translating the bytecode of solidity into RGB color code and transforming them to a fixed-sized encoded image. After that, the encoded image is fed to a convolutional neural network for automatic feature extraction and learning (without extracting features from the solidity source code manually.

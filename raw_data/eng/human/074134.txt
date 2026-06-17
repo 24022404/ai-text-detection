@@ -1,1 +1,0 @@
-kubectl get services It can take up to 60 seconds to allocate the IP address. The external IP address is listed under the column EXTERNAL-IP for the Service.

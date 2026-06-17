@@ -1,1 +1,0 @@
-Proof. First, it’s necessary to show that each substring of length kappears at most once in ck,s. Note that the granddaddy sequence xobtained from Lemma 6 is a cyclic de Bruijn sequence, and ck,sis actually a substring of x. Hence, ck,sjust contains each substring of size kat most once.

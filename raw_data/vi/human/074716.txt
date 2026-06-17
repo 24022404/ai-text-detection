@@ -1,1 +1,0 @@
-Ở đây package maatwebsite/excel của Laravel (được trình bày ở phần 6.2.2) tiếp tục được sử dụng để xử lý do nó tương đối dễ sử dụng và cung cấp 1 số function điểm có thể format file excel đẹp hơn giúp tăng trả nhiệm của người dùng.

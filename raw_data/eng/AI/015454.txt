@@ -1,9 +1,0 @@
-Objective: Change-point detection in time series is critical for timely identification of structural shifts in domains such as finance, network security, and industrial monitoring. Traditional approaches based on direct density ratio estimation often assume single change points or univariate data, limiting their applicability in complex, real-world scenarios. 
-
-Methods: We propose a generalized framework for detecting multiple change points in both univariate and multivariate time series without explicit density estimation. Our method employs a sliding‐window scheme combined with direct density ratio estimation using a kernel‐based probabilistic classifier. A novel regularization term is introduced to enforce smoothness across adjacent windows, improving robustness against noise and temporal correlation. The detection algorithm operates in an offline and online mode, enabling both batch analysis and real‐time monitoring.
-
-Results: Extensive experiments on synthetic benchmarks and real‐world datasets—including financial market indices, network traffic logs, and wearable sensor recordings—demonstrate that our approach achieves up to 15% higher F1 scores and reduces detection delay by 20% compared to current state‐of‐the‐art methods. Sensitivity analysis confirms consistent performance across varying signal‐to‐noise ratios and multiple change‐point settings.
-
-Conclusion: By generalizing direct density ratio estimation for multi‐point and multivariate detection, our framework delivers enhanced accuracy, adaptability, and computational efficiency. This approach facilitates early anomaly detection in diverse applications and lays the groundwork for future extensions to streaming data environments.
-
-Keywords: change‐point detection; direct density ratio estimation; time series analysis; anomaly detection; multivariate data.

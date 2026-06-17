@@ -1,1 +1,0 @@
-For every pair (k, s), the maximum rate among all (k, s)-RdB sequences is determined, with a preference for sequences exhibiting higher rates.

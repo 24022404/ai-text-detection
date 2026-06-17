@@ -1,1 +1,0 @@
-Chương 6 nói về các giải pháp xây dựng phần mềm em sử dụng trong dự án, những thành kết quả từ những gả pháp đó.

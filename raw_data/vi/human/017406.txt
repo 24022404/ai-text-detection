@@ -1,1 +1,0 @@
-Node.js là một môi trường runtime (RTE) đa nền tảng, mã nguồn mở, được thiết kế điển xây dựng các ứng dụng một cách nhanh chóng và dễ dàng mở rộng.

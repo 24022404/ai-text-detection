@@ -1,1 +1,0 @@
-Reds phù hợp cho việc lưu trữ dữ liệu cache cũng như các dữ liệu tạm thời của ứng dụng.

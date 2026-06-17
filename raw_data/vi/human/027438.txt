@@ -1,1 +1,0 @@
-Cho phép người dùng trở thành giảng viên.Nội dung giảng dạy chất lượng cao, phù hợp với mọi người mong muốn học lập trình từ cơ bản đến nâng cao. Chức năng trò chuyện trong các bài giảng giúp người dễ trao đổi cùng nhau. Có bài kiểm tra kiến thức sau mỗi bài học.

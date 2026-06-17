@@ -1,1 +1,0 @@
-Frida allows for comprehensive monitoring of data exchanges between an application and various external sources, such as databases, APIs, or cloud services. This capability helps identify data leaks, unauthorized transmissions, and potentially harmful connections to malicious servers.

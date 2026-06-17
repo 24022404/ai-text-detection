@@ -1,1 +1,0 @@
-Quản trị viên có nhiệm vụ quản lý Cơ sở dữ lệu chứa các tín hiệu mẫu của các thiết bị điều khiển. Tác nhân này sẽ đăng nhập và làm việc trực tiếp trên AWS client.

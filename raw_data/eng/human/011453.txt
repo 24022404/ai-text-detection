@@ -1,1 +1,0 @@
-By transferring the responsibility of constructing encKey and assignKey to the smart contract, the need for implementing intricate nodes to handle consensus between nodes, such as Web3Auth, is eliminated.

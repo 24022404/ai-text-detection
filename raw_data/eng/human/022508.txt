@@ -1,1 +1,0 @@
-It can be shown that for each u, v∈Lsuch that neither unorvis the end vertex of the last edge of P, paths PuandPvare edge-disjoint.

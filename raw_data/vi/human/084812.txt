@@ -1,1 +1,0 @@
-Trong chương 3 trình bày các khá nệm chính về đồ án, bao gồm cơ bản về mật mã và công nghệ chuỗ khối. Chương này em xn trình bày đióng góp chính của đồ án, đó là những nền tảng lý thuyết về các công nghệ mà em sẽ áp dụng trong đồ án này.

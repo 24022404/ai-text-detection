@@ -1,1 +1,0 @@
-kh là η, chỉ ra tốc độ mà trọng số được cập nhật. Thông số này có thể là cố định hoặc được thay đổi tuỳ bến. Phương thức phổ biến nhất hiện tại là Adam, trong đó phương thức thay đổi tốc độ học một cách phù hợp nhất có thể.

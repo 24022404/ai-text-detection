@@ -1,1 +1,0 @@
-Use case diagramFigure 2.1: Overall use case diagram Player is an actor that directly plays the game. The people who play the game first need to choose a playing mode, off or on mode.

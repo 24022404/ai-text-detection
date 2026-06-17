@@ -1,1 +1,0 @@
-Sau đó các đặc trưng sẽ được lưu trong Vector Database (Elasticsearch) điểm có thể truy vấn và tìm kiếm phục vụ cho tác vụ xác định danh tính. Elasticsearch sẽ hoạt động như một bộ phân lớp ở tầng dưới cùng của mô hình.

@@ -1,1 +1,0 @@
-True Reputation Rate là tỷ lệ dự đoán chính xác là người lạ trên tất cả các yêu cầu nhận diện là người không có mặt trong hệ thống.Accuracy là tỉ lệ nhận diện chính xác của hệ thống.

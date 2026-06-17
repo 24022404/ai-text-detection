@@ -1,1 +1,0 @@
-The model was trained for 120 epochs on the dataset with a batch size of 16, using a 1e-3 learning rate, Adam optimizer, and categorical cross entropy as the loss function.

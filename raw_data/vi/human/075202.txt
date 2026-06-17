@@ -1,1 +1,0 @@
-Kh nghên cứu các bà toán lên quan đến học máy, người ta thường quan tâm đến 3 thành phần chính: (T) các nhệm vụ hoặc bà toán cần gả quyết, (E) dữ liệu cần thu thập và (P) phương pháp đánh giá. Mô hình học máy sẽ thu thập knh nghệm từ dữ liệu E để hoàn thành nhệm vụ T. Mô hình được cho là tốt nếu hiệu suất của nó đánh giá theo P trên T được cả thiện vớ E.

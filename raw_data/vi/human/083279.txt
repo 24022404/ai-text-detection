@@ -1,1 +1,0 @@
-Để phục vụ cho thao tác điọc gh dữ liệu từ các hệ thống lưu trữ, class DrudConnecton và KafkaConnecton được xây dựng gồm các phương thức kết nối điến ha hệ thống Apache Drud và Apache Kafka.

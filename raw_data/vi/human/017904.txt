@@ -1,1 +1,0 @@
-ngôn ngữ lập trình client javascript (js) vớ framework vuejs, ngôn ngữ lập trình server java với framework java spring boot, hệ quản trị cơ sở dữ liệu mysql.

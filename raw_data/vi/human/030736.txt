@@ -1,1 +1,0 @@
-Metamask Wallet Extension: hỗ trợ người dùng lưu trữ khóa bí mật, cũng như thực hiện các giao dịch trên mạng chuỗi khố.

@@ -1,1 +1,0 @@
-Thư viện glpk.js4là một phiên bản của GLPK được vết trên JavaScript. Thay vì chuyển toàn bộ thư viện GLPK, dự án glpk.js hướng tới việc tạo một giao diện JSON đơn giản để thiết lập và giải quyết các bài toán LỚP / MILP bằng JavaScript.

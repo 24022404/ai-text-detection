@@ -1,1 +1,0 @@
-Người dùng sẽ thêm một danh mục mớ (nếu chưa có) và thêm lịch sử giao dịch bằng cách nhập vào file excel và gửi lên hệ thống.

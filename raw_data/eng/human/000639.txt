@@ -1,1 +1,0 @@
-Automated testing is integrated directly into the build process. Unity provides callbacks into the build pipe and executes pre-build and post-build scripts.

@@ -1,1 +1,0 @@
-Angular is a popular and powerful front-end framework for building web applications. It utilizes TypeScript, a statically typed superset of JavaScript, and follows the component-based architecture.

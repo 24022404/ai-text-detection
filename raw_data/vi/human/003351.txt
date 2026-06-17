@@ -1,1 +1,0 @@
-Mục tiêu của đồ án này là nghiên cứu và phát triển được một hệ thống giúp nhân viên phân loại dữ liệu, từ đó gợi ý, cung cấp những điều th và tài liệu theo dữ liệu của người dùng và tích hợp một số giải pháp bảo mật cho hệ thống học và thi trực tuyến Worksheet Zone.

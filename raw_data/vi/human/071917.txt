@@ -1,1 +1,0 @@
-Quản lý tài khoản: Quản lý nhóm có quyền tạo tài khoản hoặc xóa tài khoản của nhân viên trong nhóm mà họ quản lý.

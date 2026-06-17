@@ -1,1 +1,0 @@
-Nataraj, S. Karthikeyan, G. Jacob, and B. S. Manjunath’s research result in Deeplearning versus gist descriptors for image-based malware classification. In Pro ceedings of the 4th International Conference on Information Systems Security and Privacy, ICISSP 2018, pages 553–561, 2018.

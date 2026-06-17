@@ -1,1 +1,0 @@
-Automotive industry: OpenCV is used in the automotive industry for tasks such as lane detection, traffic sign recognition, and object detection.

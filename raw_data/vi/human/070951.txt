@@ -1,1 +1,0 @@
-Bên cạnh các chức năng trên, hệ thống cũng cần đảm bảo các yêu cầu về ph chức năng như tính thuận tiện, dễ sử dụng, toàn vẹn dữ liệu, tin cậy và bảo mật.

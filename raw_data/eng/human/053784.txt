@@ -1,1 +1,0 @@
-An illustration is a convenient way to begin understanding things. In constrained code, a graph, usually called a labeled graph, is a helpful visualization technique.

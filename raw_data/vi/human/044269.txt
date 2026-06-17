@@ -1,1 +1,0 @@
-Cung cấp nhiều tính năng cho hiệu suất bằng độ tin cậy, bao gồm tính bền bỉ, xác nhận giao hàng, xác nhận của người phát hành và tính khả dụng cao.

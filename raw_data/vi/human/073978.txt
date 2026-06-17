@@ -1,1 +1,0 @@
-Đều này giúp cho người phát triển có thể tập trung vào từng phần của ứng dụng một cách riêng biệt và dễ dàng bảo trì, nâng cấp hoặc thay đổi từng phần mà không ảnh hưởng đến các phần khác.

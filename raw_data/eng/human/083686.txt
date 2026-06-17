@@ -1,1 +1,0 @@
-First, to verify the effectiveness of mixing strategies, we sequentially perform them with the base model DACS. With the RCutMix method, we cut a region on source images, which have an area equal to 40 %the area of an image. Then, we conduct some investigations to check the success of 2 ways to update prototypes:

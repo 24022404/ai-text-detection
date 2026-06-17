@@ -1,1 +1,0 @@
-Graphical User Interface (GUI) Manager is a library implementation designed for programmers to offers a powerful API allowing to easily manage GUI in game.

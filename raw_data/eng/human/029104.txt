@@ -1,1 +1,0 @@
-The database used for the system is MongoDB, an open-source, distributed database management system designed to serve complex web applications with large amounts of data.

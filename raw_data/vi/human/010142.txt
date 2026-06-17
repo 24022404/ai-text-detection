@@ -1,1 +1,0 @@
-nput_tables : lệt kê danh sách các bảng dữ liệu điầu vào để tính toán chỉ báo mớ. Trường thông tin này có dạng keyvalue, vớ key là tên các bảng dữ liệu như tcker_data, obv_data còn value sẻ là số chu kì thờ gan hồ quy mà dữ liệu trong bảng đió được sử dụng. Ví dụ để tính toán chỉ báo RS, ta cần dữ liệu về giá đióng cửa của14phên giao dịch gần nhất, trường thông tin sẽ có dạng:

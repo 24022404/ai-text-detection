@@ -1,1 +1,0 @@
-Chương 2 trình bày về yêu cầu và tổng quan hệ thống, các chức năng cốt lõi.Chương này sẽ giúp hiểu rõ hơn về các thành phần cơ bản của hệ thống, phương hướng tiếp cận và giải quyết vấn đề.

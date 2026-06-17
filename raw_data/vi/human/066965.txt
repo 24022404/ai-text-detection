@@ -1,1 +1,0 @@
-HomeAd viewModel: Nơ nắm giữ dữ lệu về danh sách đồ án, danh sách sinh viên đăng ký từng môn đồ án, danh sách giảng viên, con số thống kê cần có để hiển thị lên màn hình DashBoard.

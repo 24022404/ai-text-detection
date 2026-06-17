@@ -1,1 +1,0 @@
-JavaScript empowers developers to alter a web page’s content, styles, and interactions on the fly by manipulating the Document Object Model (DOM) dynamically.

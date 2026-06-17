@@ -1,1 +1,0 @@
-Do server được chạy trên localhost nên trong khuôn khổ đồ án này sẽ chỉ thử nghệm trên các thiết bị trong cùng một hệ thống mạng nộ bộ.Phần cứng server: CPU Apple M1 Pro, RAM 16GB, SSD 512GB Thử nghệm webste điố với trường hợp quản trị viên hoặc người bán hàng trên các trình duyệt Chrome, Safar, Edge điều hoạt động ổn định, không có hiện tượng quá tả, têu tốn phần cứng thiết bị.

@@ -1,1 +1,0 @@
-Tập thực thể reports bao gồm thuộc tính value, process. Tập thực thể reports có mối quan hệ has vớ tập thực thể vdeos, tập thực thể users. Một người dùng có thể thực hiện báo cáo nhiều video nhiều lần. Một báo cáo của một video thuộc sở hữu của một người dùng.

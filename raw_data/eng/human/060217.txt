@@ -1,1 +1,0 @@
-MongoDBThe most well-known NoSQL database, MongoDB, is a free, documentoriented database. Non-relational is what "NoSQL" refers to. It means that Mon goDB offers a completely alternative mechanism for data storage and retrieval and is not based on the relational database structure that resembles a table. The name of this storage format is BSON ( similar to JSON format).

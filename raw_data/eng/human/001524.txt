@@ -1,1 +1,0 @@
-Use image segmentation combined with computer vision to find errors auto matically.c, Too much tin error Figure 3.7: The too much tin error Concept: Excess tin is a phenomenon where the component pins are redundant when printed, which can lead to a short circuit when the excess points touch each other. Reason:

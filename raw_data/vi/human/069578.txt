@@ -1,1 +1,0 @@
-Giả sử một lớp mạng y=Ax+b, đạo hàm của đầu ra theo trọng số Bị ảnh hưởng bởi đầu vào x. Nếu đầu vào có độ lớn không ổn định thì mô hình sẽ không ổn định. Batch Normalization có thể tăng độ ổn định kh huấn luyện mô hình mạng nơron.

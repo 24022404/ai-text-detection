@@ -1,1 +1,0 @@
-Data Fetching: Đơn giản hóa việc xử lý dữ liệu vớ hỗ trợ của các chức năng trong React   thư viện JavaScript mã nguồn mở để xây dựng giao diện.

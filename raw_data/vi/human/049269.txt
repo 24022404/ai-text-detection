@@ -1,1 +1,0 @@
-Popup đóng lại, hiển thị thông báo và khóa học mớ tạo hiển thị ở cuối danh sách khóa học.Đạt 3Kểm tra tính năng chọn khóa học điã tạo1. Bấm vào bểu tượng dấu cộng.

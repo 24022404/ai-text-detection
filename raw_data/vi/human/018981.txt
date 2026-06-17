@@ -1,1 +1,0 @@
-Ngoà ra, thiết kế của dự án này cũng khá tương đồng với hầu hết các web khác về mặt vị trí nút bấm, vì thế, người dùng sẽ không mất nhều thờ gan để tìm các chức năng cần thiết.

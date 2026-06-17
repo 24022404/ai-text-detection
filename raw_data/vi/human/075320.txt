@@ -1,1 +1,0 @@
-Hệ thống không cho phép nhân viên mới có thể tạo tài khoản. Nếu nhân viên mới chưa có tài khoản, thì khi bắt đầu làm việc, Manager gửi yêu cầu System admin tạo tài khoản mới cho nhân viên dưới trạng thái chưa active, và nhân viên sử dụng tài khoản đió điểm đăng nhập và thao tác hệ thống.

@@ -1,1 +1,0 @@
-Danh sách các thuật toán nổ bật được hỗ trợ bở tensorflow. Tính tới thời điểm phiên bản ra mắt TensorFlow 1.10, nó đã sở hữu built in API cho:

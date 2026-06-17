@@ -1,1 +1,0 @@
-Qua quá trình thiết kế, em chú trọng đến việc sắp xếp hợp lý các thành phần giao diện, tạo sự tương tác dễ dàng và tối ưu hóa trải nghiệm người dùng. Sử dụng HTML, CSS và JavaScript cùng vớ framework Bootstrap, em đã tạo ra một giao diện đơn giản, dễ sử dụng và thân thiện với người dùng.

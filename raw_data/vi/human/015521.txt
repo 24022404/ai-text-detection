@@ -1,1 +1,0 @@
-EditText : là view dùng để lấy giá trị từ người dùng nhập vào. EditText được định nghĩa mở thẻ trong xml.

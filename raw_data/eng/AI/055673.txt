@@ -1,9 +1,0 @@
-This paper presents a novel approach for predicting genetic inheritance patterns with an emphasis on explainability, addressing the need for transparent models in genomic data analysis. Our research aims to enhance the understanding of genetic trait transmission and improve the interpretability of predictive models used in hereditary studies.
-
-Methods/Approach: We developed an advanced machine learning framework that integrates explainable AI techniques into genetic pattern prediction. The model leverages decision trees and Shapley values to provide insight into how specific genetic variations contribute to the inheritance of particular traits. Our approach ensures that predictions are not only accurate but also interpretable for researchers and healthcare professionals.
-
-Results/Findings: The proposed model outperformed traditional predictive models in both accuracy and interpretability on a benchmark dataset of genetic sequences. Key genetic markers were identified, offering valuable insights into their roles in specific inheritance patterns. The inclusion of explainability metrics demonstrated a significant improvement in users' confidence and understanding of model predictions compared to black-box models.
-
-Conclusion/Implications: This research contributes a significant advancement in predictive modeling of genetic inheritance by combining high-performance machine learning with explainability features. The findings have potential applications in personalized medicine, where understanding the genetic basis of disease risk can lead to improved patient care and risk assessment strategies. Our approach sets a precedent for future studies aiming to balance accuracy with transparency in genetic data analysis.
-
-Keywords: Explainable AI, genetic inheritance, prediction model, Shapley values, interpretable machine learning, genomic data.

@@ -1,1 +1,0 @@
-Every active servers in the system has a docker container built from nodeexporter image, which provides overall metrics, including CPU, memory, IO usages. To integrate microservices monitoring, each of them needs to public an end point so that Prometheus can collect necessary metrics from.

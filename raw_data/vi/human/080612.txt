@@ -1,1 +1,0 @@
-Thiết kế tổng quan Hình 4.1 là biểu đồ phụ thuộc góc giữa các phần của hệ thống. Từ đó ta có thể hình dung cơ bản ra mố lên hệ giữa các thành phần trong hệ thống Hình 4.1: Ví dụ biểu đồ phụ thuộc góc 4.1.3 Thiết kế cho tết có Từ biểu đồ phụ thuộc góc, ta có định nghĩa các tầng như sau:

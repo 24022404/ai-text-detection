@@ -1,1 +1,0 @@
-Phần mềm quản lý bán hàng là hệ thống các công cụ được lập trình với những tính năng thông minh ưu việt, có khả năng hỗ trợ doanh nghiệp thực hiện toàn bộ các công đoạn của quá trình bán hàng và quản lý bán hàng một cách hiệu quả, toàn diện và nhanh chóng nhất. Bao gồm:

@@ -1,1 +1,0 @@
-Biểu đồ use case phân rã nhóm tác nhân Trưởng phòng Quản lý nhóm Trưởng phòng Tạo nhóm Chỉnh sửa thông tin nhóm Use Use Hệ thống Xóa nhóm mUse Hình 2.6: Biểu đồ use case nhóm tác nhân Trưởng phòng Trưởng phòng là tác nhân implement từ Quản lý nhóm, vì vậy tác nhân này có đủ các use case của tác nhân Quản lý nhóm.

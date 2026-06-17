@@ -1,1 +1,0 @@
-Chương 2 trình bày các bước và kết quả khảo sát  phân tích yêu cầu bài toán, từ đó bước đầu xác định cụ thể được các yêu cầu chức năng và ph chức năng của toàn bộ hệ thống.

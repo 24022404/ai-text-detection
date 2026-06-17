@@ -1,1 +1,0 @@
-Package DTO: contains classes that play the role of data storage, and data transport between packages. With these classes, the data sent and returned is minimized, eliminating unnecessary fields, and increasing the performance ofthe application.

@@ -1,1 +1,0 @@
-Ngoài ra, việc lựa chọn ngôn ngữ lập trình phù hợp, phần mềm quản lý source code cũng là những yếu tố quan trọng trong quá trình xây dựng phần mềm của đội ngũ chúng tôi. Ngôn ngữ lập trình được chọn xây dựng và biên dịch dựa trên nền tảng máy ảo để tối ưu tốc độ và đáp ứng khả năng xử lý lỗ của hệ thống.

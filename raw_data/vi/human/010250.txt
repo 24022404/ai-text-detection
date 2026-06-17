@@ -1,1 +1,0 @@
-Tuy nhiên, việc tự xây dựng một hệ thống websocket là rất khó khăn nên em dùng một bên thứ ba là Pusher.

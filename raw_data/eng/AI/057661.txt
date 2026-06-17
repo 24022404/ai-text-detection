@@ -1,1 +1,0 @@
-In convolutional neural networks (CNNs), each layer builds strong local connections by applying convolutions to the outputs of the previous layer, allowing each neuron to focus on a specific region of the input image. As the model trains, it automatically adjusts the filter values, learning which features to detect in order to improve performance without manual intervention.

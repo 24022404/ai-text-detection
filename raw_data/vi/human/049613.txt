@@ -1,1 +1,0 @@
-Chương 5 sẽ trình bày về quá trình trển kha thực tế phân hệ. Những nộ dung được nêu bao gồm: công cụ sử dụng, thông tin đióng gó phân hệ, mnh họa trển kha những chức năng chính của phân hệ, thông tin cấu hình và kểm thử phân hệ.

@@ -1,1 +1,0 @@
-Debug Certificate: Check if the certificate contains CN=Android De bug. If true, the APK is using a debug certificate, which is insecure for production.

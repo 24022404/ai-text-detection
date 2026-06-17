@@ -1,1 +1,0 @@
-X. Shi, Z. Chen, H. Wang, D.-Y . Yeung, W. K. Wong and W.-c. WOO, “Convolutional lstm network: A machine learning approach for precipitation nowcasting,” june 2015.

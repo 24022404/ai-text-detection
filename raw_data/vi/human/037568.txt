@@ -1,1 +1,0 @@
-User Interface Layer : đóng vai trò là Client, là những chương trình chạy trên desktop / CLI hoặc các webpage. Các chương trình client lúc này thường là các rch client (nơ luồng công việc và kiểm tra input đầu vào đặt ở client). Client ở đây là hệ thống Frontend application chạy trên Web Browser, làm nhiệm vụ render gao vện và gửi / nhận request tới Server.

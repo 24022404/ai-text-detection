@@ -1,1 +1,0 @@
-Term Frequency (TF): Represents the frequency of occurrence of words in the text. The value of TF is calculated by counting the number of occurrences of the word in the text and dividing by the total number of words in the text.

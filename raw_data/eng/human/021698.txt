@@ -1,1 +1,0 @@
-LangCheh Chen et al. “Deeplab: Semantc mage segmentaton wth deep convolutonal nets, atrous convoluton, and fully connected crfs”. In: IEEE transactons on pattern analyss and machne ntellgence 40.4 (2017), pp. 834– 848.

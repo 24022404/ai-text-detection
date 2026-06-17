@@ -1,1 +1,0 @@
-StaticAnalysis_staticanalyzer: I only want to know the components of an ap plication (e.g., activities, services, libraries, etc.) without needing to combine this with scan results or suppressed findings.

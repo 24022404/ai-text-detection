@@ -1,1 +1,0 @@
-Kết quả thu được Trong điều kiện ánh sáng bình thường, ứng dụng máy tính nhận diện và thiết bị Jetson Nano và phân biệt được các cử chỉ tay, khoảng cách nhận diện tố địa là 4m đối với máy tính và 3m đối với thiết bị Jetson Nano.

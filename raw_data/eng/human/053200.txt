@@ -1,1 +1,0 @@
-// When an image is in PAUSED state, but the camera is not PAUSED, it has been detected, but not yet tracked.

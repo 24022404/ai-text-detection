@@ -1,1 +1,0 @@
-Do những vai trò của giai đoạn và cột mốc trong dự án đã nêu ở trên, vấn đề Hình 5.1: Gao vện danh sách cột mốc được đặt ra cho ĐATN là phát triển các chức năng về quản lý ga đoạn và quản lý các cột mốc trong dự án.

@@ -1,9 +1,0 @@
-Objective: Reinforcement learning agents rely on a discount factor (γ) to balance immediate and future rewards, yet its role beyond temporal credit assignment remains underexplored. This work investigates γ as an implicit regularizer that shapes value estimates, stabilizes training, and improves policy generalization.
-
-Methods: We present a unified framework treating γ as a tunable regularization parameter. First, we derive theoretical bounds linking the discount factor to value-function smoothness and variance control. Next, we integrate γ-adjusted targets into common algorithms (Q-learning and actor-critic) without modifying network architectures. Finally, we perform systematic experiments on classic control (CartPole, MountainCar) and continuous-control benchmarks (MuJoCo environments) to evaluate convergence speed, sample efficiency, and robustness under domain shifts.
-
-Results: Our analysis shows that lower γ values effectively penalize high-variance estimates, reducing overfitting to spurious reward sequences. Empirically, γ-regularized agents converge up to 30% faster and exhibit 15% lower policy variance compared to standard settings. In transfer tests with altered dynamics, models trained with optimized γ maintain or improve performance, while fixed high-discount baselines degrade significantly.
-
-Conclusion: Viewing the discount factor as a regularizer offers a simple yet powerful mechanism to enhance stability and generalization in reinforcement learning. By adjusting γ, practitioners gain fine-grained control over bias–variance trade-offs without additional hyperparameters or architectural changes. Future work may extend this perspective to multi-agent and hierarchical settings.
-
-Keywords: reinforcement learning; discount factor; regularization; value-function smoothness; sample efficiency; policy generalization.

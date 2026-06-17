@@ -1,1 +1,0 @@
-Chọn Đăng nhập.  Hệ thống hiển thị thông báo “Đền tên đăng nhập và mật khẩu” và tả lại trang đăng nhập.  Hệ thống hiển thị thông báo “Đền tên đăng nhập và mật khẩu” và tả lại trang đăng nhập.  Đạt TC03  1. Nhập đúng tên đăng nhập nhưng nhập sai mật khẩu.

@@ -1,1 +1,0 @@
-Hiện nay, các trang mạng thường chỉ sử dụng điện thang điểm mà người dùng đánh giá về sản phẩm đó để phân tích các phản hồi của người dùng. Tuy nhiên, việc dùng thang điểm thì sẽ không khách quan mức độ hài lòng của người dùng bằng những câu văn hay những đoạn bình luận.

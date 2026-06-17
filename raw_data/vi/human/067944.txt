@@ -1,1 +1,0 @@
-Có thể cache các nội dung được yêu cầu thường xuyên, cảm tả cho server và cải thiện thờ gan phản hồi người dùng.

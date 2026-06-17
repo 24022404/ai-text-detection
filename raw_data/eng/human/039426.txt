@@ -1,1 +1,0 @@
-Problem solving A better approach is to execute a single query to get all the required data, and then use this data in the for loop. This will help reduce the load on the database and improve system performance.

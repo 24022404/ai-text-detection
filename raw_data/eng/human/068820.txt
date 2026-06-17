@@ -1,1 +1,0 @@
-Postconditions : The user can view a detailed list of permissions, including their purpose, criticality, and potential security or privacy implica tions.

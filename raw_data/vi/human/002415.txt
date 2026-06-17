@@ -1,1 +1,0 @@
-Chỉ có 1 cách duy nhất để thay đổi trạng thái (state) đó là tạo ra một acton (là 1 object mô tả những gì xảy ra).

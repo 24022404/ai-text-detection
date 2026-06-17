@@ -1,1 +1,0 @@
-The src_type flag determines whether the source is Android Studio project files (True) or an APK file (False).

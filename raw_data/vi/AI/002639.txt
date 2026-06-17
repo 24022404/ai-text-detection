@@ -1,5 +1,0 @@
-Giám sát sự thay đổi không gian xanh đô thị là một phần quan trọng trong việc bảo vệ môi trường và phát triển bền vững. Tại tỉnh Thái Bình, việc sử dụng dữ liệu Sentinel-2 MSI đa thời gian đã giúp các nhà quản lý và nghiên cứu viên theo dõi và phân tích sự thay đổi không gian xanh đô thị một cách hiệu quả.
-
-Dữ liệu Sentinel-2 MSI đa thời gian cung cấp thông tin về tình trạng không gian xanh đô thị tại tỉnh Thái Bình trong nhiều năm. Thông tin này giúp các nhà quản lý và nghiên cứu viên xác định được khu vực cần được bảo vệ và phát triển, cũng như đánh giá được hiệu quả của các biện pháp bảo vệ môi trường đã được thực hiện.
-
-Qua việc phân tích dữ liệu, các nhà nghiên cứu đã phát hiện ra rằng sự thay đổi không gian xanh đô thị tại tỉnh Thái Bình chủ yếu do các yếu tố như biến đổi khí hậu, hoạt động xây dựng và phát triển kinh tế. Kết quả này cho thấy tầm quan trọng của việc giám sát và bảo vệ không gian xanh đô thị để đảm bảo sự phát triển bền vững và bảo vệ môi trường.

@@ -1,1 +1,0 @@
-Definition 6. A sequence s= (s1, s2, . . . , s n)is called a s-run length limited (RLL) sequence of length nif each run of 0’s in the sequence shas length at most s, or in other words, the sequence sdoes not contain s+ 1consecutive 0’s as a substring.

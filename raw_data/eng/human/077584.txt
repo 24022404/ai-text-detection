@@ -1,1 +1,0 @@
-It was tested with 6 different parameters sets. Due to hardware limitations, only learning rate and dropout rate would be changed during the experiments.

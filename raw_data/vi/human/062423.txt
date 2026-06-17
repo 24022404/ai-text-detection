@@ -1,1 +1,0 @@
-Bước 1: các đặc trưng ở nhiều tỉ lệ khác nhau Được cho ra bở môđun mã hóa MT lần lượt được đưa qua môđun CBAM để tinh chỉnh đặc trưng và perceptron đa tầng điển đồng nhất số chiều sâu. Trong đồ án này, các đặc trưng được đồng nhất về chiều sâu có độ lớn 256.

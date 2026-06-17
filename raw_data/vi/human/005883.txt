@@ -1,1 +1,0 @@
-Về công nghệ, tôi chọn sử dụng Outsystems điểm xây dựng website. Đây là một nền tảng flowcode được định nghĩa bở OutSystems là phương pháp phát triển phần mềm cho phép quá trình triển khai phần mềm diễn ra nhanh hơn, từ đó rút ngắn thời gian quảng cáo và tiếp thị cho sản phẩm.1.4 Bố cục đồ án Phần còn lại của báo cáo đồ án tốt nghiệp này được tổ chức như sau.

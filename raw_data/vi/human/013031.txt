@@ -1,1 +1,0 @@
-Cuối cùng, tính gọn nhẹ và đơn giản của SQLite3 cũng giúp cho việc sao lưu và d chuyển dữ liệu dễ dàng hơn. Trong quá trình phát triển và triển khai đồ án tốt nghiệp, việc dự phòng và chuyển đổi dữ liệu giữa các môi trường thử nghiệm và triển khai thực tế là điều quan trọng, và SQLite3 giúp thực hiện điều này một cách hiệu quả.

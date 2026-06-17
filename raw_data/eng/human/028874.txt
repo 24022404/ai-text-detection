@@ -1,1 +1,0 @@
-The behavior rules file is located and the relevant Android source di rectory is identified using the provided application directory.

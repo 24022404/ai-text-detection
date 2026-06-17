@@ -1,1 +1,0 @@
-Document là đối tượng Json, tùy biến theo người thiết kế.4.1 Thiết kế kiến trúc 4.1.1 Lựa chọn kiến trúc phần mềm Trong hệ thống này em chọn sử dụng mô hình Client Server.

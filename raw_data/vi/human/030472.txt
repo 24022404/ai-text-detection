@@ -1,1 +1,0 @@
-Trong mô hình MVC, request sẽ được gửi đến controller thông qua biểu mẫu http, controller sẽ lấy dữ liệu từ model và đưa dữ liệu điện vewvew sẽ render trả về response cho người dùng chứa gao vện và dữ liệu. Sự tương tác giữa view và model sẽ được xử lý bở controller.

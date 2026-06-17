@@ -1,1 +1,0 @@
-bố cảnh học máy , Gradent descent là một phương pháp điể gảm thểu các tham số theo hướng điố nghịch với gradent (gradent âm) của hàm mục têu tố thểu cục bộ. Hình 2.6 mnh họa cách hoạt động của thuật toán GD.

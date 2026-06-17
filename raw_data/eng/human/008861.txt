@@ -1,1 +1,0 @@
-The RESTful API (Representational State Transfer API) is a web service that follows the REST architectural style, which provides a way for web services to communicate and exchange information. RESTful API is designed to be lightweight, fast, and scalable, making it a popular choice for web developers to build APIs for various applications.

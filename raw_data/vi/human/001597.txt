@@ -1,1 +1,0 @@
-Accuracy : Cách đánh giá này đơn giản tính tỉ lệ giữa số điểm được dự đoán đúng và tổng số điểm trong tập dữ liệu kiểm thử. Bên dưới là công thức tính của Accuracy:

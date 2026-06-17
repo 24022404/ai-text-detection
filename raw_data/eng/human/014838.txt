@@ -1,1 +1,0 @@
-K. He, H. Fan, Y. Wu, S. Xie andR. Girshick, “Momentum contrast for unsupervised visual representation learning,” in2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020, pages 9726–9735.

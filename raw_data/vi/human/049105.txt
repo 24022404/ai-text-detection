@@ -1,1 +1,0 @@
-Ngoài ra, có thể sử dụng biểu đồ này để thực hiện việc phân chia công việc trong mỗi vòng lặp. Hơn thế nữa, việc sử dụng biểu đồ này, đối với các kiểm thử viên sẽ biết được trong gta đoạn này sẽ thực hiện yêu cầu nào của người dùng và chức năng nào cần kiểm tra trong mỗi vòng lặp.

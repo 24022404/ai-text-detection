@@ -1,1 +1,0 @@
-Word2Vec Word to vector (Word2Vec) is a word representation method in natural language processing (NLP), in which words are represented as a numeric vector. This methodwas developed by Thomas Mikolov and colleagues at Google in 2013 and has been widely used in NLP applications.

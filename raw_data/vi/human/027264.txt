@@ -1,1 +1,0 @@
-Đều này sẽ giúp cho việc phát triển ứng dụng dễ dàng hơn.3.1 Tổng quan về React Native React Native  là một framework mã nguồn mở được sử dụng điểm phát triển ứng dụng di động cho IOS và Android bằng ngôn ngữ lập trình JavaScript. Nó được phát triển bỏ Facebook và ra mắt lần điầu vào năm 2015.

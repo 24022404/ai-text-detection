@@ -1,1 +1,0 @@
-Tích hợp Gt: VS Code tích hợp sẵn Gt, cho phép bạn quản lý mã nguồn của mình một cách dễ dàng.

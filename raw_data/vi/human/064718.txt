@@ -1,1 +1,0 @@
-Giới thiệu tập dữ liệu thử nghiệm Tập dữ liệu thử nghiệm được chia sẻ trên trang web Kaggle bở một cửa hàng bán lẻ trực tuyến không có cửa hàng vật lý chứa tất cả các giao dịch xảy ra từ ngày 12/01/2010 điến ngày 12/09/2011. Công ty chủ yếu bán quà tặng độc đáo cho mọi dịp.

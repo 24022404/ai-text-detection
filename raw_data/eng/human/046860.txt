@@ -1,1 +1,0 @@
-J. Tuliani, “De bruijn sequences with efficient decoding algorithms,” Dis crete Mathematics , vol. 226, no. 1-3, pp. 313–336, 2001.

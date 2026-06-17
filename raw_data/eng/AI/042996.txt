@@ -1,9 +1,0 @@
-Objective: Eye tracking has traditionally been confined to specialized labs by high-cost, closed‐source systems, limiting its adoption in ubiquitous and mobile applications. This paper introduces Pupil, an open‐source hardware and software platform designed to democratize pervasive eye tracking and gaze‐based interaction.
-
-Methods: Pupil combines a lightweight, 3D‐printed headset with commodity cameras and a cross‐platform software suite. The software employs a modular, plugin‐based architecture for real‐time pupil detection, gaze mapping, calibration, and scene annotation. Support for Linux, macOS, Windows, and mobile devices enables on‐device or streamed processing. Standard computer vision techniques are optimized for 60 Hz operation under varying lighting conditions.
-
-Results: Empirical evaluation demonstrates average gaze estimation accuracy of 0.6° of visual angle and precision of 0.2° at 60 Hz with end‐to‐end latency below 50 ms. The system maintains robust performance indoors and outdoors, and integrates seamlessly with AR/VR headsets and smartphones. A community‐driven plugin ecosystem has already yielded novel applications in assistive technology, behavioral research, and interactive gaming.
-
-Conclusion: By offering a low‐cost, extensible, and transparent platform, Pupil lowers barriers to eye‐tracking research and enables new mobile and pervasive applications. Its open‐source nature fosters collaboration, rapid prototyping, and educational use, positioning Pupil as a foundational tool for the next generation of gaze‐based human–computer interaction.
-
-Keywords: Eye tracking, Open source, Gaze interaction, Human–computer interaction, Mobile computing, Pupil.

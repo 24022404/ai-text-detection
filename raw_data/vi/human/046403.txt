@@ -1,1 +1,0 @@
-UI Chứa tất cả các lớp giúp hiển thị nội dung lên màn hình cho người chơ Bảng 4.1: Giả thích sơ lược về mục đích có Hình 4.2: Thiết kế cho tết gó Gameplay gồm gó con AntiSystem và Collision System lớp MonoSingleton tồn tại).

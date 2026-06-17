@@ -1,1 +1,0 @@
-Aside from successfully delivering the final product, we gained some valu able experiences in the process of doing Graduation Thesis. The project openeda chance to come into contact with game design inside and out. Developing mul tiplayer functionality also gives us a deeper understanding of network architecture in the context of a real-time fighting game.

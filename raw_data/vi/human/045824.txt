@@ -1,1 +1,0 @@
-Mô hình điều xuất Hình 3.3: Mô đun gợi ý sửa lỗ Từ một câu input đầu vào, đầu tên em sẽ lấy ra các từ sa và cho đi qua rule.

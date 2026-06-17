@@ -1,1 +1,0 @@
-The "rows" field, a required Vec<Binary>, holds the shares distributed to each participant during the DKG protocol, enabling them to construct their final encKey share.

@@ -1,1 +1,0 @@
-The navigation bar features links to "SCANS", "DYNAMIC ANALYZER", and user account options, offering a dropdown menu displaying user details and management functions for authenticated users to manage their profiles efficiently.

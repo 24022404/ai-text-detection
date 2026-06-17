@@ -1,1 +1,0 @@
-Khách hàng thực hiện thanh toán tổng đơn hàng Thông báo thanh toán thành công, sau đó điều hướng về trang quản lý đơn hàng Đặt Đăng nhập thành công, chọn mua hàng, sau đó nhấn vào nút "Thanh toán qua tài khoản ngân hàng".

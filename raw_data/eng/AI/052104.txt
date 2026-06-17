@@ -1,1 +1,0 @@
-The project's model evaluation was impacted because its training and testing data lacked sufficient diversity, leading to concerns about the accuracy of its results.

@@ -1,1 +1,0 @@
-Flexibility and Compatibility: PostgreSQL supports a variety of data types, including JSON, arrays, and custom types. It also offers compatibility withSQL standards and provides extensions for specialized data types and func tionalities.

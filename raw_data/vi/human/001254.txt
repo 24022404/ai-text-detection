@@ -1,1 +1,0 @@
-Cải thiện tốc độ xử lý và thêm các cử chỉ mới vào mô hình nhận diện cử chỉ tay giúp tăng trải nghiệm của người dùng.

@@ -1,1 +1,0 @@
-Ha thành phần quan trọng nhất của pandas làSeres vàDataFrame . Trong kh Seres là lớp điố tượng dữ lệu dạng cột, thì DataFrame là cấu trúc dữ lệu đia chều dạng bảng gồm các hàng và cột. Hay nó cách khác, một điố tượng DataFrame là tập hợp của các điố tượng Seres.

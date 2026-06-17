@@ -1,1 +1,0 @@
-Matplotlib ban điầu được vết bở John D. Hunter vào năm 2003.  Phiên bản ổn định hiện tại là 2.2.0 được phát hành vào tháng 1 năm 2018.

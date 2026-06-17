@@ -1,1 +1,0 @@
-The most recent PHP features 2. The MVC design pattern (Model - View - Controller) 3. Outstanding Authentication and Authorization System 4. Possesses a thorough and understandable documentation system 5. Massive community of supporters 6. Command  management tool integrated with artisan tool 7. To control PHP packages, use composer.

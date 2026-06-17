@@ -1,1 +1,0 @@
-MethodlogyPattern Recognition: The method uses predefined patterns (regular expres sions) to identify potentially sensitive data within the file uploaded. Thesepatterns can include:

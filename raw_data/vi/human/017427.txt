@@ -1,1 +1,0 @@
-Khả năng suy diễn: Ontology có lợi thế là các khái niệm được kết nối với nhau thành một biểu đồ, cho phép máy tính tìm kiếm và sử dụng các quy tắc lập luận hay thậm chí là suy diễn để tìm ra các lập luận mớ. Nhờ vậy, chatbot có thể khám phá các đường dẫn hội thoại một cách linh hoạt hơn, tăng khả năng suy diễn ngữ nghĩa cho Chatbot.

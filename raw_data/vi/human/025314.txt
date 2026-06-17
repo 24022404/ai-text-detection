@@ -1,1 +1,0 @@
-Thu phát sóng tín hiệu không phải là khả năng duy nhất, module có thể giao tiếp với tổng cộng 6 module NRF24L01 khác cùng một lúc.

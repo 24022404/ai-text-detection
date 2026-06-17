@@ -1,1 +1,0 @@
-gTTS a, Giới thiệu gTTS  là dịch vụ của google giúp chuyển văn bản thành giọng nói bằng nhiều ngôn ngữ khác nhau. gTTS có tốc độ xử lý nhanh, có hỗ trợ lưu tệp âm thanh.

@@ -1,1 +1,0 @@
-Magento là một nền tảng thương mại điện tử mạnh mẽ và phổ biến, được xây dựng để tạo ra và quản lý các cửa hàng trực tuyến chuyên nghiệp. Được phát triển bở Magento Inc (một phần của Adobe từ năm 2018), nền tảng này cung cấp một loạt các tính năng mạnh mẽ để xây dựng và quản lý cửa hàng trực tuyến một cách linh hoạt và hiệu quả.

@@ -1,9 +1,0 @@
-Objective: Generative Adversarial Networks (GANs) have achieved remarkable success in realistic image synthesis, yet their training often suffers from instability and mode collapse. This work introduces a unified GAN training framework that leverages self-labeling and self-attention to enhance learning dynamics and representation quality without requiring external labels.
-
-Methods: We propose SL-SA-GAN, a single architecture combining a pseudo-label generator and an attention-augmented discriminator. The pseudo-label generator assigns soft, data-driven labels to unlabeled samples, guiding the discriminator with richer supervisory signals. Concurrently, self-attention layers enable the model to capture long-range dependencies and fine-grained features in both generator and discriminator. Our end-to-end training pipeline alternates between updating pseudo-labels and refining attention weights, fostering mutual improvement.
-
-Results: Extensive experiments on CIFAR-10, STL-10, and CelebA demonstrate that SL-SA-GAN outperforms baseline GANs in both quantitative and qualitative metrics. We observe up to a 25% reduction in Fréchet Inception Distance (FID) and consistent gains in Inception Score (IS). Training curves exhibit faster convergence and reduced sensitivity to hyperparameter tuning, confirming enhanced stability and mode diversity.
-
-Conclusion: By integrating self-labeling with self-attention under a unified framework, SL-SA-GAN delivers more robust and expressive generative models. This approach generalizes across datasets and can be extended to conditional and high-resolution synthesis tasks, offering a versatile tool for future GAN research.
-
-Keywords: generative adversarial network, self-labeling, self-attention, image synthesis, stable training, representation learning.

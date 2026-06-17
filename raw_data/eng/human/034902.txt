@@ -1,1 +1,0 @@
-The actor can also change package information of each account, which related to contents and features unlocking or limitation.2.3 Functional description 2.3.1 Description of use case "Login" Brief Description: As a user, I want to login to the system to access more features and contents.

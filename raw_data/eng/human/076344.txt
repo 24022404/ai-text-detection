@@ -1,1 +1,0 @@
-CeeInject : can hide from antivirus software by using advanced obfuscation Cycbot.G : connects remotely to a server, exploits the vulnerabilities, and using a backdoor to attackDelfInject : steals and sends usernames, passwords, and other important personal information to attackers.

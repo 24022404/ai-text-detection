@@ -1,1 +1,0 @@
-Determine the weights of the indicators using and then obtain the priorityFigure 5.3: Hierarchical structure model diagram of the tickets Pi. three indicators were introduced: ticket running time, ticket value, and ticket energy consumption.

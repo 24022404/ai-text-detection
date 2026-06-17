@@ -1,1 +1,0 @@
-Average runtime : Training each task on average takes 54 minutes for FewRel dataset and 18 minutes for TACRED dataset. For each task, in both phase 1 (Initial training for new task) and phase 3 (Consistent representation learning) I train the model for 10 epochs following the experiments by . The best epoch is chosen based on F1 score over validation data.

@@ -1,1 +1,0 @@
-Mỗ Connection đại diện cho một người tham gia của session. Chúng phải được khởi tạo từ application server và token của chúng phải được gửi tớ ap platon client điểm kết nối với session. Đều này cung cấp tính bảo mật cho session. Do đó, một connection cũng có thể được co như một "slot" dành cho client kết nối với session.

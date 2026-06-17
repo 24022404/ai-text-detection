@@ -1,1 +1,0 @@
-The apps/ folder organizes distinct Django app modules, each featuring its own models, views, URLs, and migrations for modular development.

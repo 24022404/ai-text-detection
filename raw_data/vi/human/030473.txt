@@ -1,1 +1,0 @@
-User đã có tài khoản mà chưa đăng nhập thì sẽ dẫn user tớ màn đăng nhập và sau đó sẽ cho phép người dùng vào màn thanh toán.

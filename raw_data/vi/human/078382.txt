@@ -1,1 +1,0 @@
-Đầu tên, kh người dùng tham gia vào phòng code, họ thiết lập một kết nối điện WebSocket Server để lắng nghe các sự kiện và tương tác với các người dùng khác.

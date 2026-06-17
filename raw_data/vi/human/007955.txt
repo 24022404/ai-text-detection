@@ -1,1 +1,0 @@
-Test case Mnt NFS không thể giao dịch Tác nhân thực hiện Khách Tiền điều kiện Số dư trong ví đủ trả phí Trình tự 1. Tác nhân ấn "Mnt NFT" ở thanh toolbar.

@@ -1,1 +1,0 @@
-The Pool Manager library is built with an object that manages all the pools used in the game, including objects that follow Unity’s lifecycle and memory pools that store temporary variables generated during the game’s code execution. Pools are created to optimize the game’s performance and minimize the impact of garbage collection (GC).

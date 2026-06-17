@@ -1,1 +1,0 @@
-I have carefully selected a trustworthy statistic in light of the complexities in volved in determining response time for video playing. The accurate measurement of the time elapsed between the user starting video playing and the point at which the watch video page has fully loaded will be used to determine the reaction time.

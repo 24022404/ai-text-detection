@@ -1,1 +1,0 @@
-Mất mát của hàm giá trị được tính toán dựa trên mục tiêu là gá trị điểm thưởng điã điược chuẩn hoá (nhận điược từ Monte Carlo).

@@ -1,1 +1,0 @@
-Không thể thay đổi: Một kh JWT điã điược phát hành và ký, nó không thể thay đổi. Do đó, nếu các thông tin trong JWT thay đổi, người sử dụng phải đăng nhập lại để cập nhật thông tin mới.

@@ -1,1 +1,0 @@
-Chapter 5 discusses the achievements of the project, the knowledge acquired, aswell as the strengths and weaknesses of the application. Additionally, it outs the future development direction of the system.After chapter 1, which introduces motivation, objectives, and the scope of the topic, as well as the tentative solution, chapter 2 will carry out the practical survey.

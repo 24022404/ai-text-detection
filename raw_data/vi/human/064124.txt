@@ -1,1 +1,0 @@
-–Cơ chế phản hồi (feedback mechanism): Hệ thống nhận phản hồi từ người dùng điểm đánh giá xem bot có hoạt động hiệu quả trong cuộc trò chuyện hay không và người dùng có hài lòng với phản hồi của bột hay không.

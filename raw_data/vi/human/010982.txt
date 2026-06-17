@@ -1,1 +1,0 @@
-Công thức 5.5 Công thức MSE Đây là hàm đánh giá thường dùng cho mô hình hồi quy. MSE dùng điểm đánh giá độ sai lệch trung bình của mô hình so với thực tế.

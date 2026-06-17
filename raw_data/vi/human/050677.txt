@@ -1,1 +1,0 @@
-Tên Kiểu dữ lệu Mô tả Có bắt buộc Có Ràng buộc code class Int Mã môn học Có Khóa chính date_study Varchar(255)Ngày học môn học này trong tuần: Thứ hai, hay ba...Có flash tme Tme Giờ kết thúc môn học Có #start time Time Giờ bắt điầu môn học Có study_form Varchar(255)Hình thức học:

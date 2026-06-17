@@ -1,1 +1,0 @@
-Một số lựa chọn có thể thay thế cho NodeJS như ASP.NET, Go, Ruby. ĐATN sử dụng NodeJS do NodeJS có thư viện tài nguyên lớn, cùng với đó là hiệu suất xử lý cao nhờ V8 Engine.

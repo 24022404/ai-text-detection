@@ -1,1 +1,0 @@
-Admin có thể quản lý các yêu cầu liên quan đến việc chứng thư và cặp khóa. Các API của dịch vụ ký và xác thực có thể dễ dàng được tích hợp với dịch vụ của các bên thứ 3 ví dụ như hệ thống quản lý công việc nội bộ của nhà trường. Đã có sự tích hợp với API kí của VNPT để có thể sử dụng chứng thư nội bộ điốt với những cá nhân có nhu cầu.

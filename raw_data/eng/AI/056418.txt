@@ -1,9 +1,0 @@
-This paper addresses the challenge of fine-grained visual recognition using web-sourced images, which often include both high-value and noisy samples. The aim is to enhance recognition performance by effectively distinguishing and leveraging these samples for improved model training.
-
-Methods/Approach: We propose a novel framework that incorporates a dual-phase strategy: firstly, identifying and eliminating noisy samples that hinder model accuracy, and secondly, focusing on the utilization of hard samples that can provide informative cues for model fine-tuning. The methodology involves robust noise detection algorithms and an optimized learning process that scales with the number of hard positives.
-
-Results/Findings: Experimental results demonstrate that our approach significantly improves recognition accuracy compared to traditional methods lacking noise filtering. The proposed method effectively reduces the impact of noise while enhancing the model's ability to learn from challenging images, leading to higher precision in task-specific scenarios. Comparative analysis shows superior performance over existing fine-grained recognition models.
-
-Conclusion/Implications: The research introduces a novel technique for enhancing fine-grained visual recognition by intelligently managing sample quality. This contribution not only advances the capabilities of recognition systems but also suggests potential applications in areas requiring high-precision image analysis. Our findings offer valuable insights for improving model robustness and accuracy in real-world scenarios utilizing large-scale web image datasets.
-
-Keywords: fine-grained visual recognition, noisy samples, hard samples, web images, noise detection, image analysis, model robustness.

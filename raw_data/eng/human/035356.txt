@@ -1,1 +1,0 @@
-H. Fredricksen, “A survey of full length nonar shift register cycle algo rithms,” SIAM review , vol. 24, no. 2, pp. 195–221, 1982. A. Lempel, “On a homomorphism of the de bruijn graph and its applications to the design of feedback shift registers,” IEEE Transactions on Computers , vol. 100, no. 12, pp. 1204–1209, 1970.

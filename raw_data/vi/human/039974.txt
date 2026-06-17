@@ -1,1 +1,0 @@
-Tếp theo, gao dện phả tương thích với nhều loạ thết bị và kích thước màn hình khác nhau, từ máy tính điể bàn đến điện thoạ d động và máy tính bảng. Ngoà ra, tính responsve là điều cần thết điể giao diện tự động điều chỉnh và thích ứng với kích thước màn hình, gúp cả thiện trả nghệm người dùng trên các thết bị dđiộng.

@@ -1,1 +1,0 @@
-To accomplish the objectives set forth in section 1.2, this thesis involves con structing a responsive website that fulfills functional requirements for inventory management, order tracking, and provides a user-friendly interface for seamlessshopping experiences.

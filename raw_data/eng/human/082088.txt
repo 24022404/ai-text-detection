@@ -1,1 +1,0 @@
-Path : Apath in the graph is a sequence of edges: e0, e1, . . . , e nsuch that the terminal vertex of edge eiis the the initial vertex of edge ei+1for all 0⩽i⩽n−1.

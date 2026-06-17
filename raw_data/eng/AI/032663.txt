@@ -1,1 +1,0 @@
-M. H. Martin’s 1934 paper explores a combinatorial mathematics problem, analyzing ways elements can be arranged with constraints.

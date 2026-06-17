@@ -1,1 +1,0 @@
-Odoo is considered the best open ERP platform in the market. Odoo is known for its managerial capacity and intuitiveness to perform determined actions of thebusiness. Being open-source, a large community of developers works on the Odooframework at a time. And for this reason, it is important that you have a well structured ORM to make SQL operations.

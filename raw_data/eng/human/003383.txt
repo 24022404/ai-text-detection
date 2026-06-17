@@ -1,1 +1,0 @@
-Realtime: NodeJs’ most crucial feature is realtime. Thus, "realtime" refers to the fact that the server will accept requests from clients and carry out such requests immediately. For instance, the author of the article and others who are interested will be notified right away when leaving a comment or engaging on Facebook.

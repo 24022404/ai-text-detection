@@ -1,9 +1,0 @@
-Objective: Generative adversarial networks (GANs) excel at producing visually compelling images but often overlook frequency characteristics that underpin texture realism and structural coherence. This paper presents SSD-GAN, a novel framework that explicitly measures and enforces “realness” in both spatial and spectral domains.
-
-Methods/Approach: SSD-GAN introduces a dual-domain discriminator composed of (1) a spatial branch that evaluates local textures and global structural consistency, and (2) a spectral branch that examines frequency components to ensure authentic harmonic distributions. We design a unified loss function combining adversarial, spectral, and reconstruction objectives, guiding the generator toward outputs that satisfy both visual and frequency-domain fidelity.
-
-Results/Findings: We validate SSD-GAN on standard benchmarks—CIFAR-10, CelebA—and a hyperspectral remote-sensing dataset. Compared to leading GAN variants, SSD-GAN achieves lower Fréchet Inception Distance (FID) scores, reduced spectral distortion measures, and higher preference rates in user studies. Synthesized images exhibit sharper details, more natural textures, and minimized spectral artifacts.
-
-Conclusion/Implications: By integrating spectral analysis into adversarial training, SSD-GAN advances the state of the art in image synthesis, delivering images that are simultaneously spatially coherent and spectrally faithful. This dual-domain approach holds promise for applications in medical imaging, remote sensing, and computer graphics, where preserving both spatial detail and frequency integrity is essential.
-
-Keywords: generative adversarial network, spatial domain, spectral domain, dual-domain discriminator, image synthesis

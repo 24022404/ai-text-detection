@@ -1,1 +1,0 @@
-MT được thiết kế gồm 6 phiên bản ký hiệu từ B0 điến B5, các phiên bản này có kiến trúc giống nhau, chỉ khác nhau về siêu tham số (xem Hình 3.7). Trong đó:

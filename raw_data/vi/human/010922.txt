@@ -1,1 +1,0 @@
-Kích thước màn hình: ứng dụng được thiết kế phù hợp với tất cả các loại điện thoại thông minh và phổ biến hiện nay. Không thực hiện fx cứng các thống số trên màn hình. Giao diện được thiết kế trên điện thoại Galaxy S10+(1440 x 3040).

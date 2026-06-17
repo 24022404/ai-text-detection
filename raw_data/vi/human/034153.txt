@@ -1,1 +1,0 @@
-Thuật toán YOLO v5 về cơ bản cũng thừa kế các phương pháp cơ bản của các YOLO, tuy nhiên YOLO v5 áp dụng một số thuật toán phát hiện vật thể nhanh, tối ưu hóa các phép toán thực hiện song song giúp tăng tốc độ nhận diện và cảm thờ gan huấn luyện một cách tối ưu.

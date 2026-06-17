@@ -1,1 +1,0 @@
-Lợ ích khi sử dụng frebase là gì? Chức năng chính của nó chính là giúp cho việc lập trình các ứng dụng một cách điơn gản hóa, bằng các thao tác với cơ sở dữ liệu. Điều đó giúp cho nó có khả năng code nhanh chóng và tết kệm thờ gan trển kha cũng như quy mô mở rộng các ứng dụng đang thiết kế.

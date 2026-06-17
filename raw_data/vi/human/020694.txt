@@ -1,1 +1,0 @@
-Đảm bảo thành công Công việc được hiển thị trên hệ thống Chuỗi sự kiện chính 1. Nhà tuyển dụng chọn chức năng "Tạo công việc mới".

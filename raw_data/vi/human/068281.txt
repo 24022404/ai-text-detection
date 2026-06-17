@@ -1,1 +1,0 @@
-Thông tin quan trọng của người dùng được mã hóa trước khi gửi đi.3.1 Công nghệ sử dụng cho phần Frontend Ở trong phần này em sẽ trình bày về các công nghệ sử dụng cho phần Frontend của hệ thống, bao gồm cả trang cho Người dùng và trang dành cho Quản trị viên hệ thống.

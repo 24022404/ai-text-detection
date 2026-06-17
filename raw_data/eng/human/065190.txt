@@ -1,1 +1,0 @@
-This website will have some key features, including product search; suggestedproduct list; product information, etc. This topic’s key idea is how to include a recommender system into an on store to boost sales effectiveness.

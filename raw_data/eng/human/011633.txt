@@ -1,1 +1,0 @@
-How HTML worksHTML is usually stored in files that use the .htm or .html extension. A web site can include hundreds or even thousands of these HTML files kept in various directories.

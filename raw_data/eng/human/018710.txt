@@ -1,1 +1,0 @@
-Results on GTAV to CityscapesThe table 4.1 illustrates our results, and for all of our comparisons, we have cho sen to include their best performance. In the table, DACS (with ClassMix mixing method) serves as our base, and RCutMix and RClassMix refer to the results of our proposed mixing strategies.

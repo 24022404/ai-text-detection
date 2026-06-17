@@ -1,1 +1,0 @@
-Chương 4 trình bày về quá trình thiết kế trang web: thiết kế kiến trúc trang web, thiết kế tổng quan, thiết kế cho tết giao diện, cơ sở dữ liệu,..

@@ -1,1 +1,0 @@
-Arflow hiện chưa cung cấp API cho phép thay điổ nộ dung mã nguồn qua HTTP request. Vì vậy, các bước thực hiện cập nhật file DAG như sau:TOÁN CHỈ BÁO Hình 4.15: Các bước cập nhật DAG trên Arflow – Lấy danh sách DAG của hệ thống Arflow Trước tên, cần kểm tra các DAG của Arflow đang hoạt động. Ở quy mô hiện tạ của nền tảng chỉ có duy nhât 1 DAG vớ d = "ndcator_dag".

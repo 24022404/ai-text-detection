@@ -1,1 +1,0 @@
-Ngoà ra, Laravel cũng cung cấp các tính năng bảo mật, để lập trình viên chỉ cần tập trung phát trển ý tưởng sản phẩm của bản thân.

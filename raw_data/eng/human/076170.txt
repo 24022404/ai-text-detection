@@ -1,1 +1,0 @@
-Besides, as depicted in Table 4.2, hyper-parameters (such as batch size, epoch, and learning rate) are selected to balance the capacity of our GPU (depicted in 4.2.3 and the convergence of models.

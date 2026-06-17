@@ -1,1 +1,0 @@
-Sidebar là thanh bên trái của giao diện, chứa nhiều thành phần nhỏ, mỗ thành phần có một ý nghĩa khác nhau.5.5 Thiết kế cho tết server 5.5.1 Thiết kế kiến trúc backend Hình 5.6: Thiết kế kiến trúc backend Hình 5.6 mô tả kiến trúc backend của hệ thống website. Phần backend được xây dựng bằng thư vện Express của NodeJS và Flask, điược cha thành các phần:

@@ -1,1 +1,0 @@
-Đóng góp chính của đồ án là phát triển một hệ thống trực tuyến toàn diện cho việc kinh doanh thú cưng và các sản phẩm cho thú cưng, giúp cải thiện trải nghiệm mua sắm của người dùng, nâng cao hiệu quả quản lý thông tin và hỗ trợ khách hàng một cách tốt nhất. Kết quả đạt được sẽ bao gồm một trang web hoàn chỉnh, dễ sử dụng, an toàn và có thể mở rộng trong tương la.

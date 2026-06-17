@@ -1,1 +1,0 @@
-Thiết kế cơ sở dữ liệu Từ yêu cầu về chức năng của công cụ, em sẽ phân tích kỹ hơn về cơ sở dữ liệu của hệ thống. Dưới đây là mô tả về các bảng trong cơ sở dữ liệu và ý nghĩa của chúng.

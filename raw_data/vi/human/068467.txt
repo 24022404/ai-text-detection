@@ -1,1 +1,0 @@
-Chương này sẽ trình bày cho tết về các công nghệ chính, làm rõ các điểm nổ bật và lý do chọn lựa các công nghệ này cho hệ thống. Đặc biệt, chương này sẽ phân tích sâu về công nghệ như: Node.js, MySQL, ReactJS, v.v.

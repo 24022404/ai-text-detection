@@ -1,1 +1,0 @@
-Tốc độ tính toán nhanh là ưu điểm của Nodejs , ngay cả khi thực hiện tính toán dữ lệu giao dịch của người dùng kết hợp với lấy số lệu thực tế từ các mã chứng khoán vẫn cho ra phản hồi rất nhanh chóng.

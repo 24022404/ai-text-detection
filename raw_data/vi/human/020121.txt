@@ -1,1 +1,0 @@
-Sử dụng một mô hình phát hiện điã điược huấn luyện điể phát hiện (YOLO, RCNN, SSD. . . ) và trả về kết quả bao gồm hộp giới hạn và đối tượng xuất hiện trong các hộp giới hạn đó.

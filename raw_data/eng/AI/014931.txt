@@ -1,1 +1,0 @@
-The paragraph outlines several key functions for file analysis, including rescanning to detect previously unexplored fields, managing or viewing file suppression status, initiating dynamic analysis to observe behavior, accessing detailed scan logs, and examining signer certificate details such as signature and hash information. These features aid thorough examination.

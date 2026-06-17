@@ -1,1 +1,0 @@
-Actors Involved : User, ADB/Frida Tools, Android Device/Emulator – Preconditions : The Android device or emulator must be connected, thetarget application must be running or available for analysis, and the re quired ADB or Frida scripts must be prepared.

@@ -1,1 +1,0 @@
-Chương 5 tập trung vào các giải pháp được áp dụng và đóng góp đáng kể của đồ án trong quá trình xây dựng và phát triển ứng dụng, bao gồm () Tăng cường bảo mật hệ thống đia bước xác thực () Trên khay hệ thống trên nền tảng Digital Ocean.

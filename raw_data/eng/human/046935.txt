@@ -1,1 +1,0 @@
-This technique is used to estimate the importance of a word in a document or a set of documents. This method uses two main components: the frequency of a word in the text (term frequency - TF) and the importance of that word in the data set(inverse document frequency - IDF).

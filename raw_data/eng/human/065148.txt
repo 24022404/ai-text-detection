@@ -1,1 +1,0 @@
-Cross-platform Design: Designing a responsive interface that ensures it dis plays well on various devices with different screen sizes, including desktops, mobile devices, and tablets.

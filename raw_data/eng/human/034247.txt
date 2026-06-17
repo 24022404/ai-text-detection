@@ -1,1 +1,0 @@
-J. Chung, K. Cho andY. Bengio, “A character-level decoder without explicit segmentation for neural machine translation.,” CoRR ,jourvol abs/1603.06147,2016. url:

@@ -1,1 +1,0 @@
-Cuối cùng, hậu regex là các ký tự comment được sử dụng để chú thích hoặc ghi chú trong câu truy vấn. Mọ nội dung sau các ký tự comment sẽ không được thực thi. Các dấu comment phổ biến bao gồm.Trong MariaDB, SQL Server là Dấu ha gạch ngang (–). Trong PostgreSQL là dấu thăng (#). Còn Mysql và Sqlite có thể sử dụng cả hai dấu đố.

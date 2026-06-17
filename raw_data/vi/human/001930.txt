@@ -1,1 +1,0 @@
-Chức năng quản lý nhân viên cung cấp cho người dùng thông tin về nhân viên trong các cửa hàng. Người dùng có thể dễ dàng thêm, sửa và xóa thông tin nhân viên một cách nhanh chóng và thuận tiện. Điều này giúp cho việc quản lý nhân viên trở nên dễ dàng hơn, giúp người quản lý có thể cập nhật thông tin mới nhất về nhân viên điểm đáp ứng nhu cầu của cửa hàng.

@@ -1,1 +1,0 @@
-Để cân bằng giữa độ chính xác và thờ gan suy luận, trong kiến trúc đề xuất sử dụng Mx Transformer phiên bản MTB3, phiên bản này có 44.725.696 tham số và số lượng phép tính dấu phẩy động là 17.884 GFLOPs. Trọng số khởi tạo của mạng sử dụng trọng số được tiền huấn luyện trên bộ dữ liệu ImageNet.

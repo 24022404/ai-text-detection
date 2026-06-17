@@ -1,1 +1,0 @@
-Thông thường, một Website sẽ có nhều HTML document (ví dụ: trang chủ, trang blog, trang lên hệ,. . . ) và mỗ trang con như vậy sẽ có một tệp HTML rêng.

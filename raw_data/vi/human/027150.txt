@@ -1,1 +1,0 @@
-Một hạn chế của ứng dụng đó là việc thanh toán của người dùng chưa được tự động, quản trị viên phải tự xác nhận những giao dịch và việc này sẽ gây mất thờ gan nếu lượng giao dịch trở nên quá nhiều. Đồng thờ hiện tại chưa có tính năng thông báo giao dịch mới cho quản trị vên.

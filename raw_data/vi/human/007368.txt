@@ -1,1 +1,0 @@
-Anchors là sự sắp xếp độ ưu tiên bounding box, mà chúng ta tính toán trên tập dữ liệu sử dụng kmean. Chúng ta sẽ dự đoán độ rộng và chiều cao của hộp từ cụm trung tâm. Tọa độ điểm trung tâm của hộp lên quan tới vị trí của phần lọc điã điược dự đioán sử dụng hàm sigmod.Theo công thức mô tả các đầu ra mạng được bến đỗ điểm bắt buộc dự đoán bounding box:

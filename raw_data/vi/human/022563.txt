@@ -1,1 +1,0 @@
-Tích chập thông thường Tích chập thông dụng nhất là tích chập hai chiều, được áp dụng trên ma trận đầu vào và ma trận bộ lọc ha chều (xem hình minh họa 2.3). Kết quả của phép tích sẽ trả qua những bước sau:

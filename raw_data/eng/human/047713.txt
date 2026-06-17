@@ -1,1 +1,0 @@
-Analyze and compare the ARNav app with existing indoor navigation solu tions, including traditional methods such as paper maps and directories, as well as other AR-based apps.

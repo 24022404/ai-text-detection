@@ -1,1 +1,0 @@
-Design and develop an AR-based indoor navigation app that utilizes AR tech nology to display virtual information on the real environment.

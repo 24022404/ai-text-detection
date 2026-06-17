@@ -1,1 +1,0 @@
-NumPy được phát triển bởi Jm Gunny. Phiên bản ban điầu là Numarray được phát triển, có một số chức năng bổ sung. Năm 2005, Travis Oliphant đã tạo ra gió NumPy bằng cách kết hợp các tính năng của Numarray và gió Numeric.

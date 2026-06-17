@@ -1,1 +1,0 @@
-Thuật toán Apriori được lặp lạ qua các bước trên cho đến khi không còn tạo thêm các tập phổ biến mớ hoặc luật kết hợp có thể được tạo ra từ tập dữ liệu ban đầu.

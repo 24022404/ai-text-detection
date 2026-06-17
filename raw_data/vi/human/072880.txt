@@ -1,1 +1,0 @@
-Tính toán giá trị lợi thế tạ từng bước thờ gan bằng cách lấy gá trị điểm thưởng điã điược chuẩn hoá (thông qua Monte Carlo) trừ đi giá trị của trạng thái được tính từ hàm giá trị.

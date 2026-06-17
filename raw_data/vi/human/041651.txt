@@ -1,1 +1,0 @@
-status ENUM Xác định trạng thái của người dùng là hoạt động hay bị block Bảng 4.1: Ch tết bảng users Bảng 4.2 mô tả chợ tết bảng profiles:

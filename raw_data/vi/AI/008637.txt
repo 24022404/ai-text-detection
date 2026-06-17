@@ -1,5 +1,0 @@
-Ứng dụng lý thuyết độ tin cậy đánh giá an toàn công trình kè bờ sông Sài Gòn đoạn thành phố Thủ Đức đang được triển khai nhằm đảm bảo an toàn cho người dân và tài sản. Lý thuyết độ tin cậy được áp dụng để đánh giá khả năng chịu tải của công trình kè, giúp xác định mức độ an toàn và cần thiết phải thực hiện các biện pháp sửa chữa, nâng cấp.
-
-Công trình kè bờ sông Sài Gòn đoạn thành phố Thủ Đức là một phần quan trọng của hệ thống giao thông và đô thị hóa của thành phố. Tuy nhiên, do tác động của thời tiết, lũ lụt và các yếu tố khác, công trình kè có thể bị hư hỏng, ảnh hưởng đến an toàn của người dân và tài sản.
-
-Ứng dụng lý thuyết độ tin cậy trong đánh giá an toàn công trình kè sẽ giúp xác định mức độ hư hỏng và cần thiết phải thực hiện các biện pháp sửa chữa, nâng cấp. Điều này sẽ giúp đảm bảo an toàn cho người dân và tài sản, đồng thời giảm thiểu rủi ro và chi phí cho các hoạt động sửa chữa, nâng cấp.

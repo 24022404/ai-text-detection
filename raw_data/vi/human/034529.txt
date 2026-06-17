@@ -1,1 +1,0 @@
-Các giá trị cấu hình được đọc từ tập tin env có thể được sử dụng để cấu hình các thư viện khác hoặc điểm quyết định các hành động khác trong ứng dụng của chúng ta.

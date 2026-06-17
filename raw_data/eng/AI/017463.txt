@@ -1,9 +1,0 @@
-This paper addresses the challenge of developing effective goal-oriented visual dialog systems that can anticipate an answerer's responses by effectively modeling the questioner's perspective. Such systems are crucial for applications in human-computer interaction, enhancing user experience through more intelligent and responsive dialogs.
-
-Methods: We propose an innovative information-theoretic framework that models the interdependence between a questioner's and an answerer's mind. Our approach integrates a visual understanding module with an information-theoretic measure to predict the most relevant answerer's responses. By leveraging mutual information, the framework captures the dependency and relevant context shared between dialog participants, facilitating a more intuitive dialog flow.
-
-Results: Experimental evaluations were conducted on several benchmark visual dialog datasets to validate the effectiveness of our approach. The proposed model demonstrated superior performance compared to existing methods, achieving notable improvements in accuracy and relevance of dialog responses. Our model's integration of visual context and dialog dynamics allows it to outperform state-of-the-art models in terms of predictive accuracy and meaningful engagement.
-
-Conclusion: The information-theoretic approach proposed in this research presents a significant advancement in goal-oriented visual dialog systems by fostering a deeper comprehension of dialog dynamics from the questioner's perspective. This novel modeling of cognitive alignment between dialog partners not only enhances the naturalness of interaction but also sets a foundation for future innovations in human-computer dialogue systems. Potential applications of our findings extend beyond dialog systems to other AI domains that harness interactive engagement.
-
-Keywords: visual dialog, information theory, goal-oriented interaction, mutual information, human-computer interaction, dialog systems.

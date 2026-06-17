@@ -1,1 +1,0 @@
-Therefore, to automate the inventory check process and ensure accurate inven tory check results, this research proposes a solution to automate the inventory check process using RFID. The process of using RFID in inventory checks is described in 5.2:

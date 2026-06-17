@@ -1,1 +1,0 @@
-Tên Kiểu dữ lệu Mô tả Có bắt buộc Có Ràng buộc d Int Id thông báo Có Khóa chính title Text Tên thông báo Có content Varchar(255)Nội dung thông báo Có date_post Varchar(255)Ngày đăng thông báo Có status In Trạng thái thông báo: 0: Chưa đọc 1: Đã đọC type Int Loa thông báo:

@@ -1,7 +1,0 @@
-Phân tích đồng thời chloramphenicol, amoxicillin và enrofloxacin sử dụng cảm biến điện hóa với điện cực cảm ứng
-
-Một nhóm nghiên cứu gần đây đã phát triển một phương pháp phân tích đồng thời chloramphenicol, amoxicillin và enrofloxacin sử dụng cảm biến điện hóa với điện cực cảm ứng. Phương pháp này cho phép phân tích đồng thời ba loại kháng sinh này trong một mẫu xét nghiệm, giúp tăng cường độ chính xác và giảm thiểu thời gian phân tích.
-
-Cảm biến điện hóa được thiết kế để phát hiện các tín hiệu điện từ các điện cực cảm ứng, giúp xác định nồng độ của từng loại kháng sinh. Phương pháp này sử dụng kỹ thuật điện hóa để phân tích các mẫu xét nghiệm, giúp tăng cường độ chính xác và giảm thiểu thời gian phân tích.
-
-Phương pháp này có thể được ứng dụng trong các lĩnh vực như y tế, nông nghiệp và môi trường, giúp tăng cường độ chính xác và giảm thiểu thời gian phân tích. Ngoài ra, phương pháp này cũng có thể được sử dụng để phát hiện và phân tích các loại kháng sinh khác trong tương lai.

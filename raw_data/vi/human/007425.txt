@@ -1,1 +1,0 @@
-Đồ án tập trung nghiên cứu thông tin các địa điểm du lịch ở Hà Nội, cơ sở lý thuyết về web ngữ nghĩa, cơ sở lý thuyết chatbot và cách xây dựng chatbot.

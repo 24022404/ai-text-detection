@@ -1,1 +1,0 @@
-Usability: The user interface should be simple, user-friendly, and logically or ganized to facilitate easy navigation.Maintainability: The system should be easy to maintain and upgrade, with clear codebase and documentation.

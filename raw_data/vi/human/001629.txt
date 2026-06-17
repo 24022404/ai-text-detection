@@ -1,1 +1,0 @@
-Trong dự án của tô có chức năng so sánh 2 dịch vụ (nhà cung cấp) bất kỳ. Để hiển thị thông tin so sánh được trực quan và dễ hiểu nhất, tô sử dụng thư viện, hỗ trợ xây dựng biểu đồ cột thể hiện điểm số trung bình điã điược người dùng điánh gá theo từng tiêu chí của dịch vụ được chọn so sánh.

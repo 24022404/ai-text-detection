@@ -1,1 +1,0 @@
-In summary, ARNav addresses the limitations of traditional indoor navigation solutions and existing AR-based indoor navigation apps by combining the benefitsof AR technology with a graph-based approach to indoor navigation. This unique combination of AR and graph-based navigation provides a more efficient, accurate, and user-friendly solution to indoor navigation.

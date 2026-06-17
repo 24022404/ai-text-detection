@@ -1,1 +1,0 @@
-Download PDF Report : This sub-use case enables the user to download a PDF report that summarizes the results of the analysis. The report includes details from the security analysis, malware analysis, general file information, and reconnaissance data. The user can download the PDF for documentation or further examination.

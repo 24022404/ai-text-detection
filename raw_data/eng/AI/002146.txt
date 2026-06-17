@@ -1,9 +1,0 @@
-This research addresses the problem of unsupervised skeleton-based action recognition, a pivotal task in computer vision and machine learning domains, aimed at recognizing human actions from skeletal data without labeled samples. Current methods often lack robustness and adaptability due to reliance on supervised learning techniques.
-
-Methods/Approach: We propose a novel framework integrating Prototypical Contrast and Reverse Prediction to enhance feature representation and self-supervision for skeleton-based action recognition. The Prototypical Contrast mechanism constructs and contrasts different action prototypes to improve inter-class separability and intra-class compactness. The Reverse Prediction module predicts skeletal data for preceding and succeeding frames, encouraging temporal coherence and the learning of meaningful representations.
-
-Results/Findings: Extensive experiments demonstrate that our method surpasses existing unsupervised approaches in terms of accuracy and robustness across multiple benchmark datasets. Specifically, our model achieves substantial improvements in action classification rates, showcasing its effectiveness in learning discriminative features without the need for labeled data.
-
-Conclusion/Implications: The introduction of Prototypical Contrast and Reverse Prediction significantly advances the state of unsupervised action recognition methods by fostering enhanced feature learning from skeleton sequences. This approach not only contributes to the theoretical understanding of self-supervised learning but also presents practical implications for applications in surveillance, human-computer interaction, and autonomous systems, where labeled data is scarce. 
-
-Keywords: unsupervised learning, skeleton-based action recognition, prototypical contrast, reverse prediction, self-supervised learning, human action recognition.

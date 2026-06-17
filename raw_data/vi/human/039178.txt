@@ -1,1 +1,0 @@
-Vớ mỗ dòng dữ liệu cần tính toán, ha phương thức get_nputs() và for mula() được gọi đến điể áp dụng công thức chỉ báo.

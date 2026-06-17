@@ -1,1 +1,0 @@
-Hiện tại, và vai trò là một nhân viên kiểm thử của công ty TNHH phần mềm FPT em nhận thấy rằng, việc kiểm thử và quản lý lỗ hổng của dự án là rất cần thiết cho quá trình phát triển phần mềm với các lý do sau:

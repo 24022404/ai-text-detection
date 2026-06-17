@@ -1,1 +1,0 @@
-Cross-entropy loss quantifies the gap between predicted and actual probability distributions, serving as a crucial objective in training classification models. By minimizing this loss function, models can better align their predictions with true labels, ultimately resulting in improved accuracy and performance across various tasks in machine learning.

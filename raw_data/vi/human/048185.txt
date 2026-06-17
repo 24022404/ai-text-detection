@@ -1,1 +1,0 @@
-Giao diện Admin Trong giao diện trang admin, có thể thấy những tính năng mà admin có thể thực hiện.

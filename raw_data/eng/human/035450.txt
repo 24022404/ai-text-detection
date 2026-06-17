@@ -1,1 +1,0 @@
-Interoperability: JWTs are a widely adopted standard, which means they can be used with a variety of programming languages, platforms, and frameworks. This makes it easy to integrate different components of an application or share data between different systems.

@@ -1,1 +1,0 @@
-Zend Framework : Magento sử dụng Zend Framework, một framework PHP mã nguồn mở gúp xây dựng các ứng dụng web một cách nhanh chóng và dễ dàng.

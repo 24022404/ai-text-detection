@@ -1,1 +1,0 @@
-High False Positives: Some malware families, like ’vundo’ and ’zeroaccess’, have a high number of false positives, meaning they are often misclassified asother families. This might suggest that these families share some characteris tics with other malware, making it difficult for the model to distinguish them accurately.

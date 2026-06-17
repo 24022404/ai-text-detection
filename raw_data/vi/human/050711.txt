@@ -1,1 +1,0 @@
-Sơ đồ 4.1 mnh họa các thành phần và hển thị các lớp của framework Magento.Hình 4.1: Kến trúc tổng quan của magento Các lớp chính của Magento bao gồm:

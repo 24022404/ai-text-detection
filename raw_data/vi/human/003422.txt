@@ -1,1 +1,0 @@
-Spring Boot là một framework tỏ ra những lợi thế vượt trội. Khi sử dụng Spring Boot, rất nhiều thứ được cải tiến hỗ trợ lập trình viên như:

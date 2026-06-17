@@ -1,1 +1,0 @@
-Thuật toán Q Learning Vớ những mô trường mà không gian trạng thái và hành động nhỏ, ta có thể lưu tất cả các giá trị Cho từng cặp trạng thái và hành động và từ đó tạo ra một bảng Q table lưu các giá trị này. Khi đó, ta sử dụng thuật toán Q Learning  đơn giản vớI table để tính toán các giá trị Q, thuật toán được trình bày trong mục thuật toán 1.

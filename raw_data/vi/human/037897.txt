@@ -1,1 +1,0 @@
-Hệ thống Nếu chưa có thông tin thì báo lỗ 6 Hệ thống Nếu đã có thông tin, thực hiện rà quét URL trên hệ thống dựa trên bộ rà quét cung cấp.

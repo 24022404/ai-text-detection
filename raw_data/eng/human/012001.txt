@@ -1,1 +1,0 @@
-One thing to keep in mind is that both BARTPho and ViT5 has already been pretrained on a large amount of data, 20GB and 70GB respectively.

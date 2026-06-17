@@ -1,1 +1,0 @@
-Đều này là do kích thước mô hình quá nhỏ dẫn tớ không thể học được đủ các đặc tính của môi trường. Từ đó, trong một số trường hợp không hiểu rõ, hệ thống có thể đưa ra một số hành động không tối ưu nhất.

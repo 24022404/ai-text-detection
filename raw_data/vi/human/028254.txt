@@ -1,1 +1,0 @@
-Tính bảo mật: Mô hình client server cung cấp các cơ chế bảo mật điểm giảm thiểu các rủi ro liên quan đến việc truy cập tài nguyên từ xa.

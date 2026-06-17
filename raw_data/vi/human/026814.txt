@@ -1,1 +1,0 @@
-Sau khi submit thì không thể thay đổi trạng thái, người đăng ký nhận được email thông báo trượt 2 Chuyển đổi trạng thái CỦA từ “chờ duyệt” thành “Chờ phỏng vấn”:

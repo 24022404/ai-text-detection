@@ -1,1 +1,0 @@
-Không cần lưu trữ trạng thái: JWT là dạng token độc lập, do đó không cần lưu trữ trạng thái trên máy chủ.

@@ -1,1 +1,0 @@
-Initially, a local model update is computed on the basis of the distinct data repository that resides on the individual device. This local update encapsulates the local patterns and characteristics, reflecting the unique informational context of each device.

@@ -1,1 +1,0 @@
-Head: Phần header được sử dụng để tăng khả năng phân biệt đặc trưng điểm dự đoán class và boundingbox. Ở phần header có thể áp dụng 1 tầng hoặc 2 tầng:

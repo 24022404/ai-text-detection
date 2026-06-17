@@ -1,1 +1,0 @@
-For each book_id, T_book_id is the set of user_ids that rate that book then for each book_id, y[book_id] = 1 if and only if the sum of x[user_id][book_id] with user_id of T_book_id must be less than size T_book_id.

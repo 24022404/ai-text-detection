@@ -1,9 +1,0 @@
-Sleep staging is a crucial component in diagnosing and managing sleep disorders. However, current automated systems often lack interpretability, posing challenges for medical practitioners who rely on expert guidelines. This research introduces SLEEPER, an innovative framework designed to enhance interpretability in sleep staging by leveraging prototypes derived from expert rules.
-
-Methods/Approach: SLEEPER employs a hybrid model combining machine learning techniques with domain-specific knowledge encapsulated in expert-drafted rules. The framework develops representative prototypes that align with traditional sleep staging criteria, facilitating a transparent decision-making process. These prototypes act as reference points that correspond to well-defined sleep stages, ensuring alignment with medical expert expectations.
-
-Results/Findings: Our evaluations demonstrate that SLEEPER achieves a significant balance between accuracy and interpretability, matching the performance of state-of-the-art machine learning models while providing clear insights into its decision processes. Comparative studies show that SLEEPER's ability to explain its predictions outperforms existing black-box algorithms, making it a superior choice for clinical applications.
-
-Conclusion/Implications: SLEEPER advances the field of automated sleep staging by integrating interpretability at its core, providing a viable solution for healthcare providers who require transparent models. The framework's prototype-based approach ensures that its decisions remain traceable and in accordance with established medical guidelines, fostering trust and facilitating its implementation in clinical settings. Future work could expand SLEEPER's adaptability to other domains requiring interpretable artificial intelligence solutions.
-
-Keywords: Sleep staging, interpretable machine learning, expert rules, prototypes, automated diagnosis, healthcare AI.

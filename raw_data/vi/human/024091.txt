@@ -1,1 +1,0 @@
-() Nhân viên bộ phận sản xuất: có thể quản lý kế hoạch sản xuất, lệnh sản xuất, lô hàng sản xuất, phiếu đề nghị mua nguyên vật liệu, lịch sản xuất, đơn hàng sản xuất và có thể xem bảng tn gợi ý sản xuất để tồn kho.

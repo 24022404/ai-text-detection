@@ -1,1 +1,0 @@
-Khả năng truy vấn sâu hơn. MongoDB hỗ trợ các truy vấn động trên các Document bở sử dụng một ngôn ngữ truy vấn dựa trên Document mà mạnh mẽ như SQL.

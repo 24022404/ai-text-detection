@@ -1,1 +1,0 @@
-Bước 2: các đặc trưng được chỉnh lại kích thước sử dụng toán tử nội suy song tuyến (bar interpolation) sao cho kích thước chiều không gian bằng 1 4 so với kích thước ảnh huấn luyện, tiếp đi có 4 đặc trưng được nối với nhau theo chiều sâu.Bước 3: sử dụng một tầng tích chập điểm hợp nhất đặc trưng vừa được nói với nhau.

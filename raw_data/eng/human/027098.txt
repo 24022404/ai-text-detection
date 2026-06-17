@@ -1,1 +1,0 @@
-Gender  introduction A database is a system of structured information, stored on storage devices to satisfy the simultaneous information exploitation requirements of many people.

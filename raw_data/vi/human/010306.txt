@@ -1,1 +1,0 @@
-Controller: Là bộ phận xử lý yêu cầu của người dùng thông qua view. Controller sẽ truy xuất biến modem và trả về dữ liệu cần thiết cho người dùng.

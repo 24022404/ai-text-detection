@@ -1,1 +1,0 @@
-Z. Chang, J. Chrisnata, M. F. Ezerman, and H. M. Kiah, “Rates of dna se quence profiles for practical values of read lengths,” IEEE Transactions on Information Theory , vol. 63, no. 11, pp. 7166–7177, 2017.

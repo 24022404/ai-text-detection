@@ -1,1 +1,0 @@
-CollectObservatons : Cho phép ta thiết lập các thông tin mà agent nhận được trong mổ lần yêu cầu hành động, ở đây ta có thể hiểu là tương ứng với trạng thái s.

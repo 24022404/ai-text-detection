@@ -1,1 +1,0 @@
-Các chức năng quản lý đơn hàng: Cho phép tìm kiếm, xem thông tin đơn hàng, cập nhật trạng thái đơn hàng.

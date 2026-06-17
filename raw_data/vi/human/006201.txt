@@ -1,1 +1,0 @@
-Bểu đồ usecase phân rã cho chức năng Khách hàng xem gỏ hàng Hình 2.11: Bểu đồ usecase phân rã cho chức năng Khách hàng xem gỏ hàng ➢Mô tả usecase phân rã cho chức năng Khách hàng xem gỏ hàng:–Khách hàng có thể xem danh sach sản phẩm.

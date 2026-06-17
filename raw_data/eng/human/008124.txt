@@ -1,1 +1,0 @@
-Flashcard Collection might be created manually by the User or automatically created when creating a Lesson. User learning Flashcard Collection is n-n relation, with the information of progress status.

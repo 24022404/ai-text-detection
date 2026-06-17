@@ -1,1 +1,0 @@
-Đánh giá kết quả nhận diện gương mặt Thực hiện phát hiện khuôn mặt có trong ảnh, đầu ra là boundingbox Hình 5.1: Tọa độ Bounding Box chứa khuôn mặt có trong ảnh Độ chính xác:

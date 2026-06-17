@@ -1,1 +1,0 @@
-Chức năng điính kèm ảnh thanh toán sẽ được phát trển trong tương la. Chủ nhà có thể dựa vào ảnh để tra cứu lạ các khoản tền nhanh chóng hơn.Hình 4.14: Màn hình bước tếp theo của Thanh toán Sau Thanh toán, ha mã điặt phòng 23 và 34 sẽ được chuyển vào phần đang chờ duyệt cùng mã thanh toán được hển thị trong bảng là 24 như trong hình 4.15.

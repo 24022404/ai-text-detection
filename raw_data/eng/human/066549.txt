@@ -1,1 +1,0 @@
-The next section will present another method called Matrix factorization collaborative filtering that is also in the series of Neighborhood-based methods.

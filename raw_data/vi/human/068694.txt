@@ -1,1 +1,0 @@
-Kh đưa vào vận hành phải đảm bảo hoạt động hiệu quả khi có nhiều người dùng hoạt động cùng tạ cùng một thời điểm.

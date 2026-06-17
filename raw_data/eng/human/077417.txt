@@ -1,1 +1,0 @@
-One of the main benefits of server-side processing is that it allows me to make use of powerful hardware to process the data. Mobile devices typically have limited processing power, which can make finding the path a slow and resource-intensive task. By using a server, I can take advantage of more powerful hardware, which can process the data more quickly and efficiently.

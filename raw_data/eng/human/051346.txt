@@ -1,1 +1,0 @@
-No support for windows: There are more users who are comfortable in a windows environment than Linux, and TensorFlow does not satisfy these users. But we don’t need to worry about that if we are windows user, we can also install it through conda or python package library (pip).

@@ -1,1 +1,0 @@
-Regular expressions are utilized to identify sensitive information such as email addresses, API keys, authentication tokens, and passwords within data sources.

@@ -1,1 +1,0 @@
-T. Etzion’s 1988 paper introduces new methods for constructing perfect maps and pseudorandom arrays, with analyses and applications in coding.

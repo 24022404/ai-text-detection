@@ -1,1 +1,0 @@
-Content-Based Filtering For each customer, this method will give product recommendations based on the items they buy. Specifically, Content-based will find products that are similar to those that customers have purchased based on the features (features) of the product.

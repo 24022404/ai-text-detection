@@ -1,1 +1,0 @@
-Thuật toán tiếp cận việc lựa chọn thuật ngữ neo như một vấn đề xếp hạng thuật ngữ không giám sát và định nghĩa các tiêu chí để xác định thuật ngữ gốc tạo một nút phân loại cụ thể như sau:

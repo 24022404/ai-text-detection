@@ -1,1 +1,0 @@
-Hiệu suất: Reactjs được thiết kế điểm cung cấp hiệu suất cao. Cốt lõi của khung cung cấp chương trình DOM ảo và kết xuất phía máy chủ, gộp các ứng dụng phức tạp chạy cực nhanh.

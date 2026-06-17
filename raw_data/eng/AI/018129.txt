@@ -1,9 +1,0 @@
-Objective: Accurate assessment of root canal therapy (RCT) from dental radiographs is critical for patient outcomes but remains challenging due to anatomical variability and image artifacts. This paper introduces an Anatomy-Guided Parallel Bottleneck Transformer Network (AG-PBTNet) designed to automate and standardize RCT evaluation.  
-
-Methods: AG-PBTNet integrates two key innovations: (1) an anatomy-guided attention module that incorporates tooth and root canal landmark priors to focus the model on clinically relevant structures, and (2) a parallel bottleneck transformer architecture that combines local convolutional features with long-range self-attention in a lightweight design. Radiographic scans from a multi-center dataset (n = 1,800) were split into training, validation, and test sets. Preprocessing included contrast enhancement and tooth alignment. Performance was compared against U-Net and ResNet-based baselines on metrics of classification accuracy, IoU segmentation, and inference speed.  
-
-Results: On the held-out test set, AG-PBTNet achieved a classification accuracy of 93.7% for detecting under- or over-filled canals (versus 87.4% for U-Net) and a mean Intersection-over-Union (IoU) of 0.82 for canal segmentation (versus 0.74). Inference time per image was 45 ms on a single GPU, outperforming baselines by 30%. Qualitative evaluation by endodontists confirmed improved delineation of canal boundaries and reduced false positives in adjacent anatomical regions.  
-
-Conclusion: AG-PBTNet offers a novel, anatomy-informed deep learning framework for automated RCT evaluation, combining high accuracy, interpretability, and real-time performance. This approach has potential for clinical deployment in dental imaging systems to support decision-making and improve treatment quality.  
-
-Keywords: Anatomy-Guided Attention, Parallel Bottleneck Transformer, Root Canal Therapy, Dental Radiography, Automated Evaluation, Deep Learning.

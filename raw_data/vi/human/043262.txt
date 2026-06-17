@@ -1,1 +1,0 @@
-JSX  Cú pháp mở rộng JavaScript React sử dụng JS để tạo các thành phần giao diện. JSX là một cú pháp mở rộng của JavaScript, cho phép người lập trình kết hợp HTML và CSS trong mã JavaScript. JSX giúp giảm đáng kể việc tạo ra các thành phần giao diện phức tạp bằng cách cho phép sử dụng các thành phần nhỏ hơn điểm xây dựng các thành phần lớn hơn.

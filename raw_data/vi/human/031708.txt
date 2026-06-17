@@ -1,1 +1,0 @@
-User Module xử lý các chức năng liên quan đến xác thực, phân quyền cũng như quản lý tài khoản của người dùng  sử dụng các API được cung cấp vở hệ thống Quản lý người dùng.

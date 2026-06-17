@@ -1,1 +1,0 @@
-–Tầng 2: Sparse Prediction dự đoán vớ từng mảng được dự đoán có vật thể với các mô hình RC series,..

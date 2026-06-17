@@ -1,1 +1,0 @@
-Cùng với các ưu điểm chính trên và các ưu điểm khách đi kèm của Nests, em quyết định sử dụng framework này để xây dựng backend cho hệ thống nhằm đáp ứng được vấn đề hiệu năng, độ phức tạp của dự án cũng như khả năng mở rộng sau này.

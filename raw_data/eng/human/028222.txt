@@ -1,1 +1,0 @@
-User interface designWith desktop interface for web application, the system is capable of support ing screen sizes such as 1360x768 (HD screen), 1440x900 (Macbook screen), 1920x1200 (Full HD wide-screen).

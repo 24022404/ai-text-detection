@@ -1,1 +1,0 @@
-Module OS trong  python cho phép chúng ta làm việc với các tập tin và thư mục. Sau đây là 1 và phương thức:

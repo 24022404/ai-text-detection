@@ -1,1 +1,0 @@
-Sử dụng Laravel bạn sẽ sở hữu một số tính năng mớ nhất mà PHP cung cấp, điặc bệt là trong namespaces, Interfaces, Overloadng, Anonymous functons và shorter array syntax. Đã có rất nhều bộ CMS nổ bật được vết trên nền tảng Laravel framework ra điờ, từ những bộ CMS điơn gản nhất điến những bộ “sêu mạnh”, từ mã nguồn mở đến thương mạ.

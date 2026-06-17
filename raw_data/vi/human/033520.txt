@@ -1,1 +1,0 @@
-Bên cạnh đó, việc quản lý trạng thái trên Redux cũng giúp cho ứng dụng trở nên dễ bảo trì và có thể mở rộng dễ dàng hơn.

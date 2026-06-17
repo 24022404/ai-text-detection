@@ -1,1 +1,0 @@
-Sau đó, ta tiến hành cập nhật policy dựa vào các thông tn điã có. Ở đây, vì ta sử dụng phương pháp PO, ta có thể thực hiện nhiều lần cập nhật với bộ dữ liệu.

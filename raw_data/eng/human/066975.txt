@@ -1,1 +1,0 @@
-Component package: Contains jsx files to display the interface on the browser•Redux package: Save data returned from the server into state variables to be accessible in the system.

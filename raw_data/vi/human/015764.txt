@@ -1,1 +1,0 @@
-Batch Normalization Batch Normalization là một kỹ thuật huấn luyện mạng nơron bằng cách chuẩn hóa các đầu vào thành một lớp mạng theo từng lô nhỏ. Phương pháp chuẩn hóa này giúp chuẩn hóa các vectơ đặc trưng (đầu ra của một lớp mạng sau khi qua các hàm kích hoạt) về phân phối chuẩn (giá trị trung bình bằng 0 và độ lệch chuẩn bằng 1).

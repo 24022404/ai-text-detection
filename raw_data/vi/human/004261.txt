@@ -1,1 +1,0 @@
-Anemometer : Bộ đo lường tốc độ gió. Chúng có trách nhiệm truyền dữ lệu của tốc độ gió đi tới bộ phận điều khiển.

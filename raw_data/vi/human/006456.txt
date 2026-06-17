@@ -1,1 +1,0 @@
-Entity Holder Mô tả : Là lớp đại diện cho một thực thể nhân vật, chứa dữ liệu, hành vi của nhân vật. Nhân vật thông qua lớp này để tương tác với môi trường thông qua các hành vi mà nó nắm giữ.

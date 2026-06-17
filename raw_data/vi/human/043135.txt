@@ -1,1 +1,0 @@
-Thông số của mô hình ABInet  được trình bày ở bảng 3.1 Bảng 3.1: Thông số mô hình CABInet  Setting mô hình Giá trị Batch size 32 Backbone Reset 31 3.2.1 Các phép sinh dữ liệu nhân tạo Dữ liệu nhân tạo mà em dùng để thực hiện các thí nghiệm gồm có 2 loại sau đây:

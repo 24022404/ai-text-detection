@@ -1,1 +1,0 @@
-Về phần Controller : em tạo ra các hàm và nhiệm vụ tiếp nhận các yêu cầu từ phía client thông qua phương thức truyền tin HTTP. Các hàm sẽ xử lý yêu cầu và gọi tớ phần Model và lấy dữ liệu từ cơ sở dữ liệu, sau khi xử lý xong phần dữ liệu sẽ gửi dữ liệu tới client. Bộ Controller luôn là nơi kết nối View tớ Model, đảm bảo sự trực quan, đúng đắn khi áp dụng mô hình MVC.

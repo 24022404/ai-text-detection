@@ -1,1 +1,0 @@
-Khách hàng tìm chỗ mà chức năng xác thực người dùng được trên khu ; 2. Khách hàng gửi thông tin của người dùng về hệ thống kh người dùng đăng nhập ; Kết quả mong đợi Thông tin của người dùng được thống nhất và hiển thị đầy đủ .

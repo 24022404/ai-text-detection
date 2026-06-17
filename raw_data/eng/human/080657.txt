@@ -1,1 +1,0 @@
-The goal of this project is to provide a practical tool that contributes to enhanc ing Android application security while also supporting the broader effort to create a safer mobile ecosystem.

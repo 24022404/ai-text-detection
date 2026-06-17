@@ -1,1 +1,0 @@
-Đường dẫn trang web thu thập dữ liệu thực tế:  4.2.2 Chuẩn bị môi trường Mô hình được xây dựng và thực nghiệm trên Google Colab có cấu hình như sau:

@@ -1,1 +1,0 @@
-The JSON file was then used as the foundation for the graph that was later used in the Path Finding task.

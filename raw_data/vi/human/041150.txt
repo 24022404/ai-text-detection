@@ -1,1 +1,0 @@
-Từ đó em rút ra mô hình thực thể liên kết cho hệ thống như hình sau:Hình 4.17: Mô hình thực thể liên kết của hệ thống Từ mô hình thực thể liên kết trên và áp dụng mô hình dữ liệu quan hệ ta có được biểu đồ cơ sở dữ liệu:

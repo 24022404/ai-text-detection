@@ -1,1 +1,0 @@
-Following , I adopted a completely random sampling strategy on relation level in my experiments. In detail, relations are randomly divided into 10 clusters to simulate 10 tasks. In terms of environment and configuration, I train all models on the same task sequence used in ,  by setting exactly the same random seed.

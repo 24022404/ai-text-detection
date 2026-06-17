@@ -1,1 +1,0 @@
-Đặc tả use case Đặt mua Khách hàng thành viên sử dụng use case “Đặt mua” điểm tham gia mua hàng trực tuyến.

@@ -1,1 +1,0 @@
-Để phục các chức năng đăng nhập với Facebook và chia sẻ bài viết, sản phẩm điến Facebook. Phần fronend điã điược deploy lên vercel và chạy hà chức năng trên thành công với máy cá nhân, còn phần backend vẫn chưa được deploy.

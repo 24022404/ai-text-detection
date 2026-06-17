@@ -1,9 +1,0 @@
-Objective: High-quality object detection demands precise localization and classification, yet existing single-stage and two-stage detectors often underperform at stringent intersection-over-union (IoU) thresholds. This paper introduces Cascade R-CNN, a multi-stage extension of the R-CNN framework designed to address the quality mismatch between training and inference and to progressively refine detection results.
-
-Methods: Cascade R-CNN employs a sequence of detection heads trained with increasing IoU thresholds. Each stage takes the outputs of its predecessor as proposals, enabling the network to focus on progressively harder examples and to optimize for higher-quality localization. The architecture integrates standard region proposal networks (RPN) and bounding-box regression branches, with shared convolutional features. Training proceeds end-to-end, balancing classification and regression losses at each cascade stage.
-
-Results: Experiments on the challenging MS COCO benchmark demonstrate substantial gains over baseline detectors. Cascade R-CNN improves average precision (AP) by 3.5 points at IoU≥0.5 and by 5.2 points at IoU≥0.75, outperforming contemporary state-of-the-art models. Detailed ablation studies confirm that both the multi-stage design and stage-wise IoU adaptation contribute critically to enhanced detection quality.
-
-Conclusion: By systematically aligning training objectives with high-IoU inference requirements, Cascade R-CNN achieves robust and precise object detection across varying quality measures. Its modular design can be readily incorporated into existing two-stage detectors, offering a versatile solution for applications in autonomous driving, surveillance, and image understanding.
-
-Keywords: object detection, Cascade R-CNN, multi-stage detector, IoU thresholds, bounding-box regression, MS COCO.

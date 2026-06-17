@@ -1,1 +1,0 @@
-When the user clicks on the "Enter comments..." text box, the system displays a form for creating a post. The user can then enter the post content, upload files, add a destination, and finally click "Post" to share it.

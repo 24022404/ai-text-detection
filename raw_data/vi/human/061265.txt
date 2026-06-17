@@ -1,1 +1,0 @@
-User chưa có tài khoản và muốn thanh toán như một người dùng mớ thì sẽ dẫn người dùng điện màn nhập address và email, password muốn tạo. Sau đó sẽ tạo tài khoản với thông tin người dùng điền và cho phép người dùng vào màn thanh toán.

@@ -1,9 +1,0 @@
-Objective: Positive Unlabeled (PU) learning for image classification must cope with the absence of explicitly labeled negative examples, often leading to biased or overfitted models. This work introduces a novel framework to automatically generate relevant counter-examples (i.e., synthetic negative samples) from a positive unlabeled dataset, thereby improving classifier robustness and accuracy.
-
-Methods: We propose a two-stage approach. First, an uncertainty-driven sample selection module identifies high-confidence negative candidates within the unlabeled pool by estimating class-conditional densities in a learned embedding space. Second, a generative adversarial network (GAN) refines these candidates into realistic counter-examples that preserve inter-class diversity. The generated negatives are then combined with the original positives to train a standard binary image classifier.
-
-Results: Experiments on MNIST, CIFAR-10, and Fashion-MNIST demonstrate that our method outperforms state-of-the-art PU learning baselines by 4–7% in classification accuracy and achieves a 0.05–0.1 improvement in area under the ROC curve. Ablation studies confirm the contribution of each framework component: density-based selection and adversarial refinement both yield significant gains.
-
-Conclusion: By synthesizing targeted counter-examples directly from unlabeled data, our framework addresses the negative-label scarcity inherent in PU learning, leading to more balanced training sets and stronger classification performance. This approach can be broadly applied to scenarios where only positive and unlabeled images are available.
-
-Keywords: Positive-Unlabeled Learning, Counter-Example Generation, Image Classification, Generative Adversarial Network, Data Augmentation.

@@ -1,1 +1,0 @@
-Mỗ công thức để tính toán chỉ báo gồm các giá trị điầu vào, những giá trị này được lưu trữ trong một hoặc nhều bảng dữ liệu.

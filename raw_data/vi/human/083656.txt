@@ -1,1 +1,0 @@
-Khó khăn khi chuẩn bị các kế hoạch kiểm thử tại mỗ vòng lặp ở giai đoạn lặp lại xây dựng 1. Vấn đề gặp phải Gặp khó khăn việc phân tích yêu cầu, thiết lập các phạm vi và xác định các tiêu chí điầu ra khi xây dựng các kế hoạch kiểm thử tại mỗ ga đoạn.

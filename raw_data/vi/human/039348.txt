@@ -1,1 +1,0 @@
-Cụ thể, để xây dựng hệ thống này, em đã sử dụng Laravel Lewre. Laravel Livewire là một thư viện gúp đơn giản hóa việc xây dựng các giao diện . Nó một cách tóm tắt, Laravel Lewre sẽ render điầu ra component ban điầu cho trang, giống như mẫu Blade được kết xuất bởi máy chủ điển hình. Khi một tương tác xảy ra, Lewre thực hiện một yêu cầu AJAX tới máy chủ với dữ lệu được cập nhật .

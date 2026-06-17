@@ -1,1 +1,0 @@
-Realtime: Firebase Realtime Database sử dụng đồng bộ dữ liệu mố kh dữ liệu có thay đổi, mọi thiết bị được kết nối sẽ nhận được thay đổi trong và ml gây.

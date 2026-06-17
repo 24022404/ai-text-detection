@@ -1,1 +1,0 @@
-Xây dựng tính năng giúp Host cài đặt gá phòng thay đổi theo thời gian mong muốn, điển Host tạo ra và cung cấp các mã giảm giá của riêng homestay.

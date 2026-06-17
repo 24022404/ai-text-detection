@@ -1,1 +1,0 @@
-C.-Y. Lin, “ROUGE: A package for automatic evaluation of summaries,” inText Summarization Branches Out Barcelona, Spain: Association for Computational Linguistics, july2004, pages 74–81. url:

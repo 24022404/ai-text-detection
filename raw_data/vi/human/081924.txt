@@ -1,1 +1,0 @@
-Tích hợp quét mã vạch để có thể thêm các sản phẩm vào đơn hàng 1 cách nhanh chóng; giúp tiết kệm thờ gần và công sức của nhân viên bán hàng.

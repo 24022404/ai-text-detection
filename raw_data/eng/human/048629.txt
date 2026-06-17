@@ -1,1 +1,0 @@
-A remarkable point in this approach is that it removes the use of soft-max classifier and cross-entropy loss which is the traditional go-to method for classification.

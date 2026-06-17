@@ -1,1 +1,0 @@
-Đặc tả use case "Xác nhận giao hàng" Bản 2.4: Đặc tả use case "Xác nhận giao hàng" Mã use case: UC004 Tên Use Case: Xác nhận giao hàng Tạo bởi: QuyenPV Ngày tạo: 01/03/2023 Tác nhân Quản trị viên Mô tả: Người quản lý đăng nhập vào hệ thống, lựa chọn đơn hàng cần xác nhận.

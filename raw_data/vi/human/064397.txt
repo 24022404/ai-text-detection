@@ -1,1 +1,0 @@
-Eloquent ORM: Laravel cung cấp Eloquent ORM (ObjectRelatonal Mappng), một cách tếp cận hiện điạ cho vệc làm vệc với cơ sở dữ lệu. Eloquent cho phép tương tác với cơ sở dữ lệu thông qua các điố tượng và mố quan hệ, gúp gảm thểu vệc vết mã SQL.

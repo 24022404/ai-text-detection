@@ -1,1 +1,0 @@
-Json Web Token (JWT): vớ việc cần phải xác thực được người dùng để thực hiện các yêu cầu truy cập, cùng với đó là xem xét các khía cạnh ảnh hưởng, JWT là lựa chọn tốt để gả quyết bài toán này.

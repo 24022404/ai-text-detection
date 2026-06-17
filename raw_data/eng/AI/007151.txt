@@ -1,1 +1,0 @@
-The system is built to work seamlessly on any web browser, offering a user-friendly interface, rapid data retrieval, generous storage capacity, swift and convenient search features, robust security, and simple expandability. This chapter details the technologies chosen, why they were selected, and analyzes their advantages and disadvantages.

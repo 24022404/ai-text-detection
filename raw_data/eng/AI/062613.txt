@@ -1,9 +1,0 @@
-Underwater object detection poses significant challenges due to unique environmental factors such as light absorption, scattering, and low contrast. This paper introduces RoIMix, a novel proposal-fusion framework designed to enhance underwater object detection accuracy by integrating data from multiple images.
-
-Methods/Approach: The RoIMix framework leverages a region of interest (RoI) proposal strategy that combines information from multiple underwater images. By utilizing a fusion mechanism, the system effectively aggregates RoIs to refine object detection capabilities. This approach incorporates deep learning techniques and image processing algorithms to improve detection robustness and precision.
-
-Results/Findings: Experimental results demonstrate that RoIMix outperforms existing underwater object detection methods regarding accuracy and reliability. The framework shows significant improvements in detecting hard-to-identify objects in various underwater environments, with comparative analyses highlighting its superiority over traditional single-image based systems.
-
-Conclusion/Implications: The RoIMix framework represents a significant advancement in underwater object detection, offering a reliable solution for applications in marine biology, underwater robotics, and environmental monitoring. This research contributes to the field by introducing a robust, multi-image fusion technique that enhances detection capabilities in challenging underwater conditions. Future work could explore further optimizations and applications across different domains.
-
-Keywords: underwater object detection, RoIMix, proposal-fusion, region of interest, deep learning, image processing, multi-image integration.

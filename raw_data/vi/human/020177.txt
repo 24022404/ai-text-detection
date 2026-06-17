@@ -1,1 +1,0 @@
-Tền điều kện 1. Ngườ dùng đang ở trong trang tìm kếm Hậu điều kện 1. Hệ thống hển thị danh sách các công thức nấu ăn phù hợp với têu chí tìm kếm.Kịch bản 4.0 Tìm công thức món ăn bằng từ khóa 1. Ngườ dùng truy cập vào trang chủ 2.Ngườ dùng nhập từ khóa tìm kếm trên thanh tìm kếm và nhấp vào nút Tìm kếm.

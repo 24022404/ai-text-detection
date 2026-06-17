@@ -1,1 +1,0 @@
-Vớ những yêu cầu đã nhận được từ người dùng, hệ thống phả phục vụ được các chức năng cơ bản bao gồm cho phép các nhãn hàng tạo ra các phiếu khuyến mại bằng việc sử dụng tín dụng từ một quỹ chung. Người dùng mua hàng có thể sử dựng các phiếu khuyến mãi trong khi mua hàng.

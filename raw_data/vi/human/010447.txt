@@ -1,1 +1,0 @@
-BallLghtnngSpellBehavour Class: lớp này cũng là lớp kế thừa Spell Behaviour, cụ thể spell này sẽ gây sát thương diện rộng cho những kẻ địch đi vào bán kính của nó nhưng thay vì gây sát thương khi nổ, spell này sẽ gây sát thương mỗ nửa gây và đi xuyên qua kẻ địch mà không phát hiện va chạm. Spell chỉ phát nổ khi hết thờ gan tồn tạ.

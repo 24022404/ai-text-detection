@@ -1,1 +1,0 @@
-Kết quả thực tế Không có lỗ nào Gửi thông báo cho người dùng Bảng 4.14: Đặc tả use case Setup tracking package Mã Test case: TC03 Tên Test case Gửi thông báo cho người dùng Các bước thực hiện:

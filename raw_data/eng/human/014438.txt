@@ -1,1 +1,0 @@
-Illustration of main functions First, there are pictures to illustrate the result of the main features of the website for users:Figure 5.1: Login page Figure 5.2: Dashboard page Figures 5.1 and 5.2 show the user login and home pages. Upon successful login,the user will be taken to the dashboard. There will be aggregates of sales-related data.

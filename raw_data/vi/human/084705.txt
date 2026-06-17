@@ -1,1 +1,0 @@
-Cấu hình sơ đồ chân NRF24L01: Tất cả các chân của module điều gao tập điều có trong các bộ vi điều khiển và bo mạch.

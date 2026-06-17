@@ -1,1 +1,0 @@
-Cách thứ ha: Sử dụng máy quét chuyên dụng Hiện nay trên thị trường có rất nhều loạ máy quét 3D, sử dụng ta laser để quét xung quanh bề mặt vật thể và trích xuất ra file.Ưu điểm của việc sử dụng máy quét 3D so với việc quét bằng camera là điộ chính xác của vật thể gần như tuyệt điố.

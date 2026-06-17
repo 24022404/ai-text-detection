@@ -1,1 +1,0 @@
-Hệ thống bao gồm 3 luồng nghiệp vụ chính: Đăng ký gương mặt, Chấm công dựa trên nhận dạng khuôn mặt và Tạo và phê duyệt đơn từ.

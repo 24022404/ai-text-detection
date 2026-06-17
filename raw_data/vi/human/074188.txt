@@ -1,1 +1,0 @@
-Quản lý danh mục: cho phép quản lý các thông tin về dân tộc, tôn gáo, trình độ, nghề nghiệp, . . . của đảng viên.

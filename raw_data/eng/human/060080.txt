@@ -1,1 +1,0 @@
-Evaluation Protocols The Intersection over Union (IoU), which has the following definition, is the most widely used metric for assessing a model’s performance on such tasks:

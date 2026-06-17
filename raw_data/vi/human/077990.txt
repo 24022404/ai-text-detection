@@ -1,1 +1,0 @@
-Method Trong tme Testng Tme F1 Score Accuracy SVM 200s 0.1s 84% 83% Bảng 4.3: Bảng kết quả của SVM Từ kết quả ở Bảng 4.3 ta thấy thờ gan huấn luyện và thử nghiệm của một mô hình học máy rất nhanh. Đặc biệt mô hình vớ SVM (thuật toán phân lớp) cũng cao với lần lượt các tham số đánh giá như F1 đoạt 84% trên bộ thử nghiệm và Accuracy là 83%. Đây cũng là một mô hình phân loại tốt.

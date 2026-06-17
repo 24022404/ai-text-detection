@@ -1,1 +1,0 @@
-Without the loss of generality, I give a proof for my loss LFDon a specific class r, denoted as L(r) FD:

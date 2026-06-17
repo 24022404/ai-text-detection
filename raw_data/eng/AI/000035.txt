@@ -1,1 +1,0 @@
-Positioned between the input and output layers, the hidden layer enables the network to perform logical inference and extract complex features from the data.

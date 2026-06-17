@@ -1,1 +1,0 @@
-Actors :Supplier, Administrator, System Priority :Require Trigger(s) :When user select "Đăng ký trở thành NCC" in login page Precondition(s) :User access to login page Main flows is shown in table2.1:

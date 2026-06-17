@@ -1,1 +1,0 @@
-Ngoà ra, Magento còn sử dụng một số công nghệ khác như Solr, Reds, RabbtMQ và Elastcsearch điể cả thiện hiệu suất và khả năng mở rộng của nền tảng.

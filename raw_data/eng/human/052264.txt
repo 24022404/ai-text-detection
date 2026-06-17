@@ -1,1 +1,0 @@
-K. Stedman, M. Bjorklund, and H. Sj ¨wan, “Net IS – A progressive Node Js framework for building efficient, reliable and scalable server side applications,” Journal of Systems and Software, vol. 176, pp. 112122, 2021.

@@ -1,1 +1,0 @@
-Sau đây là 1 chút sự so sánh khác biệt chính giữa 2 framework nổ tiếng của DL là Pytorch và Tensorflow:

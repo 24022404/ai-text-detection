@@ -1,1 +1,0 @@
-Các use case chính của hệ thống bao gồm: quản lý cuộc hội thoại của bản thân, quản lý thành viên trong cuộc hội thoại, quản lý bạn bè, quản lý thông tin cá nhân, nhắn tin trong cuộc hội thoại và video call trong cuộc hội thoại. Tác nhân duy nhất của hệ thống là người dùng.

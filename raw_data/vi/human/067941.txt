@@ -1,1 +1,0 @@
-Về vai trò cơ bản, OAuth2 hỗ trợ kiểm soát quyền truy cập, bảo mật thông tin của người dùng thông qua việc cung cấp phương pháp an toàn để xác thực và ủy quyền vào các ứng dụng, dịch vụ.

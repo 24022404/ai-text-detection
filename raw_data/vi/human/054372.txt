@@ -1,1 +1,0 @@
-Quản trị viên là người quản lý thông tin các sản phẩm, thông tin khách hàng, thông tin đơn hàng,..của trang web. Quản trị viên có tất cả các chức năng của một khách hàng thành viên bình thường nhưng sẽ có bổ sung các chức năng quản trị:Đăng nhập quản trị viên: quản trị viên cần phải đăng nhập vào tà khoản quản lý điã điược cung cấp điể vào trang quản trị.

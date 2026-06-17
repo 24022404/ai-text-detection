@@ -1,1 +1,0 @@
-Về phía Android bao gồm 6 gói chính: () dbase, () data, (v) utls, (v) network, (v) u:

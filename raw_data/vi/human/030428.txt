@@ -1,1 +1,0 @@
-Thống kê hoạt động gần đây của cửa hàng.Hình 5.1: Biểu đồ doanh thu và danh sách hoạt động gần đây Hình 5.1 mô tả giao diện thống kê doanh thu theo đơn đã hoàn thành hôm nay và hoạt động gần đây của cửa hàng. Trong biểu đồ gồm:

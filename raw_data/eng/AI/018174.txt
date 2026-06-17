@@ -1,1 +1,0 @@
-Leaky ReLU, as illustrated in figure 2.12, improves upon the standard ReLU by introducing a slight, nonzero slope for negative input values. Rather than producing zero for all negative inputs, its formula ensures some information still propagates.

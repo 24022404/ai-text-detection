@@ -1,1 +1,0 @@
-This mostly happens because short-term changes are used to update the memory in LSTMs, which adjust the memory depending on short-term ( i.e., current and past input) interrelationships. Longer-term ones can travel through memory, but they eventually fade from memory.

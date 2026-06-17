@@ -1,1 +1,0 @@
-Postconditions : The user can view general information about the up loaded file, including its size, hashes, version, and other metadata.

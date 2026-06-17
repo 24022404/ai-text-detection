@@ -1,1 +1,0 @@
-Để lưu trữ thông tin về 4 đối tượng chính trong hệ thống quản trị nội dung cũng như 7 loại bài tập có cấu trúc khác nhau trong đó có loại bà tập mớ là bà tập nó thì em lựa chọn sử dụng hệ quản trị cơ sở dữ liệu MongoDB vì đây là hệ quản trị cơ sở dữ liệu NoSQL vớ cấu trúc lưu trữ linh hoạt, đơn giản và dễ mở rộng.

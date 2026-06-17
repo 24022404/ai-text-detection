@@ -1,1 +1,0 @@
-Nhược điểm Bảo mật : JavaScript chạy trên trình duyệt của người dùng, có thể dễ dàng bị lợi dụng để thực hiện các cuộc tấn công bảo mật như Cross Site Scripting (XSS).

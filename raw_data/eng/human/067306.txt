@@ -1,1 +1,0 @@
-Master-slave synchronization, data synchronization will be delayed. If the host goes down and some data is not synchronized to the slave before the shutdown, the data will be inconsistent.

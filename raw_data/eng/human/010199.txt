@@ -1,1 +1,0 @@
-Get all data calculator for dashboardLogin or click home pages buttonIf the data returns successfully and the data merges into the tables then all the summary tables should now be complete Table 5.2: Table testing scenarios5.2.2 Testing results Table 5.3 gives the results of when testing scenarios in table 5.2:

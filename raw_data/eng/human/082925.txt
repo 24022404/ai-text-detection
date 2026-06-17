@@ -1,1 +1,0 @@
-High accuracy on most classes: The model correctly predicts the majority ofFigure 4.6: Normalized Confusion matrix of XGB experiment instances for most classes, as indicated by the diagonal values.

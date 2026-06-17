@@ -1,1 +1,0 @@
-Chương trình cập nhật sở thích dài hạn sẽ được lập lịch mỗi ngày một lần. Dưới đây là hàm processIng Hobbes nhận điầu vào là danh sách khách hàng trong bảng 4.1, thực hiện cập nhật sở thích dài hạn của khách hàng.

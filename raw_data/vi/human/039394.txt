@@ -1,1 +1,0 @@
-vector_dstance mnKh so sánh khoảng cách khoảng các của ha vector đặc trưng của hà khuôn mặt, nếu khoảng cách đó nhỏ hơn vector_dstance_mn thì sẽ được xác định là cùng một người.

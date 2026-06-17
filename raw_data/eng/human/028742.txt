@@ -1,1 +1,0 @@
-By utilizing smart contracts and blockchain technology, user data can be stored and secured in a decentralized manner, guaranteeing its durability and security as long as the blockchain network remains operational.

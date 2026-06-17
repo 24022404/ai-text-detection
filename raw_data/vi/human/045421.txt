@@ -1,1 +1,0 @@
-Ví dụ: Thông tin X có thể là một tệp điộ dà hàng trăm Kb trong kh cốt của nó chỉ là một khối có điộ dà 128bt. Tất nhên, điều đó dẫn đến khả năng có thể có 2 thông tin X khác với X" mà cho cùng một cốt gống nhau với một hàm băm, tức là H(X)=h(X"). Trường hợp này gọ là điụng điộ (collson).

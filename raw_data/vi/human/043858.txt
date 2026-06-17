@@ -1,1 +1,0 @@
-time keeps: Lưu trữ thông tin về bản ghi bảng công trong 1 ngày. Gồm các thông tin như người tạo, giờ giấc ra vào sáng, chiều, loại công, lượng công work_types: Lưu trữ thông tin về loại công trong bảng công, 1 loại công có thể dùng trong nhiều bản ghi công(tme keeps).

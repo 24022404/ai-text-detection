@@ -1,1 +1,0 @@
-Direct methods Block-matching algorithm, Pixel recursive algorithms and Optical flow are a few examples for direct methods of motion estimation.

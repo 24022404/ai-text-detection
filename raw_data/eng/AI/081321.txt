@@ -1,9 +1,0 @@
-This paper addresses the challenges in linear stochastic approximation, a fundamental technique in areas such as machine learning and optimization, particularly focusing on the issues related to the convergence and performance of algorithms employing constant step-size. 
-
-Methods/Approach: We explore the implementation of constant step-size in linear stochastic approximation algorithms and introduce iterate averaging as a means to enhance their convergence properties. Our approach involves an in-depth analysis of the behavior of the traditional algorithms and the integration of averaging techniques to mitigate potential divergence or instability. 
-
-Results/Findings: The study demonstrates that the integration of iterate averaging with constant step-size in linear stochastic approximation achieves improved convergence rates. Through comparative analyses with variable step-size counterparts, our method exhibits superior performance in terms of stability and accuracy, especially in high-dimensional and noisy environments.
-
-Conclusion/Implications: The findings suggest that our proposed method significantly enhances the robustness of linear stochastic approximation algorithms, offering a viable solution for practitioners dealing with real-world data subject to randomness and noise. The contributions of this study are crucial for advancing algorithms in areas such as reinforcement learning and real-time data processing, providing a solid foundation for scalable and efficient applications.
-
-Keywords: linear stochastic approximation, constant step-size, iterate averaging, convergence, optimization, machine learning, algorithm stability.

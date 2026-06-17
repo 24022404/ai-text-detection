@@ -1,1 +1,0 @@
-This class injects filters: CustomAuthorizationFilter (for decode token in header of request). I will take another example. Class Post Repository is injected into class Post Service . Of course, we can inject it with other repositories. All repositories extend from class JpaRepository , which supports writing very concise queries.

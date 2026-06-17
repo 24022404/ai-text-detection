@@ -1,1 +1,0 @@
-Người dùng cũng không sợ bị lấy cắp access token vì access token có hạn sử dụng khá ngắn, nếu bị lấy cắp token cũ, token này cũng không thể sử dụng điểm truy cập hệ thống bởi vì payload sẽ có thông tin về hạn sử dụng của token này. Từ đó có thể hạn chế thiệt hạ điền từ việc người dùng bị đánh cắp token đăng nhập.

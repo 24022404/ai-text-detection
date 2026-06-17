@@ -1,1 +1,0 @@
-Browsable activities are specified in an app’s manifest file by including an <intent-filter> element that contains an <action> tag with the value android.intent.action.VIEW. These activities are designed to be launched by external intents, such as web links or from other applications, allowing users to access specific app features directly.

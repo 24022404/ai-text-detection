@@ -1,1 +1,0 @@
-As a result, CNNs and RNNs are used for completely distinct purposes, and there are differences in the structures of the neural networks themselves to fit those different use cases. In general, RNNs allow us to wire up an architecture, where the prediction at every single timestep is a function of all the timesteps that have come before.

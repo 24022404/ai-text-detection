@@ -1,1 +1,0 @@
-Docker is a containerization platform allowing developers to build, deploy, and manage applications inside isolated containers. These containers are lightweight, efficient, and simplify software management.

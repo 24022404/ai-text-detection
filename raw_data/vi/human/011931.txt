@@ -1,1 +1,0 @@
-REST API  (Representational State Transfer Application Programming Interface) là một kiểu thiết kế API dựa trên giao thức HTTP. REST API cho phép các ứng dụng web hoạt động với nhau thông qua việc truyền tải dữ lệu bằng cách sử dụng các yêu cầu HTTP như GET, POST, PUT và DELETE.

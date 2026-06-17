@@ -1,1 +1,0 @@
-Lựa chọn sản phẩm: Sau khi xác định được nhóm khách hàng tương tự, ta xem xét lịch sử mua hàng của nhóm khách hàng này để tìm ra các sản phẩm mà họ đã mua.

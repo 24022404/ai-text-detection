@@ -1,1 +1,0 @@
-Tếp theo, hệ thống cần phải validate những dữ liệu bên trong file excel như: điã điúng template mẫu hay chưa? các bản ghi trong file excel có trùng nhau không? mã sản phẩm đã tồn tại trong hệ thống chữa? hoặc là có thêu tên sản phẩm, thêu mã sản phẩm... không? giống như chức năng validation thêm mớ từng sản phẩm.

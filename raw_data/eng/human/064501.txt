@@ -1,1 +1,0 @@
-CSS empowers developers to create responsive and adaptive designs through media queries, which adjust styles based on the user’s screen size and device. This ensures a seamless user experience across various platforms. Additionally, CSS offers the flexibility to create interactive effects and animations, enhancing user engagement.

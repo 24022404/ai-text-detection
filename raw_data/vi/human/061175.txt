@@ -1,1 +1,0 @@
-Đều này cho phép bạn sử dụng framework như những công cụ, thay vì nhồi nhét hệ thống của bạn vào những hạn chế của chính nó.

@@ -1,1 +1,0 @@
-Chương 2 trình bày về khảo sát và phân tích yêu cầu, phạm vi của điều tà. Trong chương này trình bày về ưu và nhược điểm của các ứng dụng đã thực hiện khảo sát.

@@ -1,1 +1,0 @@
-Khá nệm không có trạng thái (stateless): Có không giữ bất kỳ trạng thái nào của ứng dụng, nghĩa là không có bến toàn cục hoặc cấu hình ứng dụng được lưu trữ. Điều này giúp giảm sự phức tạp và gữ cho mã của bạn dễ đọc và dễ bảo trì.

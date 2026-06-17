@@ -1,1 +1,0 @@
-Vớ React Query, việc gọi API trở nên đơn giản hơn bao giờ hết. Thư viện này cung cấp một số hook điểm gọi API như use Query, use Mutation, useInfnteQuery.

@@ -1,1 +1,0 @@
-The referenced works explore algorithms designed to generate all possible unique necklaces—arrangements of beads—in two colors. They analyze methods and strategies that efficiently enumerate these patterns, focusing on eliminating duplicates caused by rotational symmetry.

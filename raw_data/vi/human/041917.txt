@@ -1,1 +1,0 @@
-SQL (Structured Query Language) là một ngôn ngữ lập trình đặc biệt được sử dụng để tương tác với các hệ quản trị cơ sở dữ liệu quan hệ như MySQL, Postgresql, Oracle, và SQL Server. SQL cho phép người dùng thực hiện các thao tác như truy vấn dữ liệu, thêm, sửa, xóa dữ liệu, quản lý bảng, và thực hiện các chức năng khác liên quan đến cơ sở dữ liệu.

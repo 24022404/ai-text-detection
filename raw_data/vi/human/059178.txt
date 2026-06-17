@@ -1,1 +1,0 @@
-Sản phẩm được triển khai trên server mà người dùng có thể truy cập và sử dụng tạ điịa chỉ: chuyendt.store 4.3.3 Mnh họa các chức năng chính Trong phần này sẽ trình bày về một số chức năng chính của hệ thống triển lãm và giao dịch tranh nghệ thuật NFT trên mạng Su Network, đó là Mua NFT và Mnt NFS kỷ niệm (không thể giao dịch).

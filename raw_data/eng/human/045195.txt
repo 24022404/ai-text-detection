@@ -1,1 +1,0 @@
-The Model Package is then responsible for utilizing this preprocessed data to carry out its functions. It communicates with the Database Package to retrieve the data it needs to carry out its functions.

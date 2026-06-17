@@ -1,1 +1,0 @@
-User: Stores users’ basic information, including email to identify, encrypted ver sion of their passwords and their accounts’ current statuses: disabled or activeMailConfirmationToken: Stores one-time tokens for special cases - registering ac counts and resetting passwords requests since those can not performed with access tokens.

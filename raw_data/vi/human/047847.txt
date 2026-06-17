@@ -1,1 +1,0 @@
-Thực hiện chuẩn bị dữ liệu ra, Dữ liệu thô Em sử dụng hai bộ dữ liệu chính là dữ liệu roBert và dữ liệu là các file đồ án, báo cáo khoa học.

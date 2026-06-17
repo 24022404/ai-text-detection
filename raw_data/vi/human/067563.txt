@@ -1,1 +1,0 @@
-Biểu đồ use case phân rã chức năng quản lý đơn hàng Hình 2.6: Biểu đồ use case phân rã chức năng quản lý đơn hàng Mô tả use case phân rã của chức năng quản lý đơn hàng:

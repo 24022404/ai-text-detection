@@ -1,1 +1,0 @@
-Redux sẽ gả quyết một bài toán khá là quan trọng đó là chia sẻ state. Như đã đề cập ở trên thì việc chia sẻ state giữa các component với nhau theo các thức truyền qua props là khá phức tạp và rắc rối.

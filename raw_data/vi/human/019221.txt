@@ -1,1 +1,0 @@
-Use case xem phiếu xuất/nhập cho phép người dùng xem các phiếu xuất/nhập hàng điã điược thực hiện trên hệ thống. Kh người dùng truy cập vào use case này, hệ thống sẽ truy xuất và hiển thị danh sách các phiếu xuất/nhập hàng theo thời gian thực hiện, số lượng sản phẩm, giá cả, người thực hiện và các thông tin khác lên quản.

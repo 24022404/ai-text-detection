@@ -1,1 +1,0 @@
-Yêu cầu cần phải có khả năng chọn ngôn ngữ cho người dùng (đối với người nước ngoài) và dễ hiểu điểm những người không có khả năng ngôn ngữ có thể sử dụng. Cụ thể ở “Hệ thống tuyển dụng điều dưỡng” có 3 ngôn ngữ: Tiếng Việt, Tiếng Anh, Tiếng Nhật.

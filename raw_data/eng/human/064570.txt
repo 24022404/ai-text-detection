@@ -1,1 +1,0 @@
-Solution This subsection outs the proposed solution for incorporating multiple provider types. The backend of the application will be equipped with an additional fieldcalled "isIndividual" that distinguishes whether a provider is an individual free lancer or part of a company.

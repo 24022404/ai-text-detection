@@ -1,1 +1,0 @@
-Giúp ứng viên có thể đăng ký tài khoản, quản lý CV, xem thông tin tuyển dụng, đánh dấu công việc, gửi đơn ứng tuyển điện nhà tuyển dụng, xem các bà cha sẻ thông tin hữu ích.

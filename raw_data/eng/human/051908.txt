@@ -1,1 +1,0 @@
-ABC algorithm (Activity Based Costing): This algorithm evaluates the value of goods based on frequency of use, and is often used in managing the distribution of goods in the warehouse. Products are classified into A, B, and C groups based on their value and quantity of use, which helps manage the storage and distribution of goods more efficiently.

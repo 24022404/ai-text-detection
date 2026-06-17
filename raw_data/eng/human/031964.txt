@@ -1,1 +1,0 @@
-The system is constructed using Angular for the frontend interface and user in terface logic, while ExpressJS is employed to build the logic for connecting to thedatabase and providing data to the frontend. MongoDB serves as the data repos itory, and JWT is utilized for user authentication whenever they connect to the system’s data.

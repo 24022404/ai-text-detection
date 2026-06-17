@@ -1,7 +1,0 @@
-Bayesian Optimization (BO) is a powerful framework for optimizing black-box functions with expensive evaluations. However, traditional BO struggles in transfer learning scenarios, where prior knowledge from related tasks can accelerate convergence. Existing acquisition functions often fail to generalize across tasks, limiting their effectiveness in multi-task or meta-learning settings. To address this, we propose a novel Meta-Learning Acquisition Function (Meta-AF) framework that adapts to new tasks by leveraging past optimization experiences.
-
-Our approach trains a meta-learned acquisition function using a dataset of optimization histories, enabling it to identify informative sampling strategies across different problem domains. We employ a neural network-based surrogate model that conditions on task-specific features, allowing efficient adaptation to new objectives. Additionally, we incorporate an uncertainty-aware training strategy to enhance robustness and generalization.
-
-Experiments on synthetic and real-world optimization benchmarks demonstrate that Meta-AF outperforms conventional acquisition functions in sample efficiency and convergence speed. Our findings highlight the potential of meta-learning in BO, paving the way for more effective and transferable optimization strategies.
-
-Keywords: Bayesian Optimization, Meta-Learning, Acquisition Functions, Transfer Learning, Black-Box Optimization, Uncertainty Modeling.

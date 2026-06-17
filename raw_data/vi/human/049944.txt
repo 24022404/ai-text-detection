@@ -1,1 +1,0 @@
-Chương 2 trình bày về khảo sát hiện trạng của phần mềm từ đó đưa ra các phân tích và đánh giá về yêu cầu của phần mềm quản lý bán hàng. Từ đó khá quát hóa các tính năng chính mà phần mềm cần có. Trong chương này cũng gồm các Use case và đặc tả chức năng nhằm phân tích ch tết một số chức năng quan trọng của phần mềm.

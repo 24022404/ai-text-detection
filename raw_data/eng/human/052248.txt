@@ -1,1 +1,0 @@
-User-friendly. The application should limit errors as much as possible, in order to create a good experience for users.High availability. Built-in features need to be practical, and actually solve certain problems. Avoid building unnecessary features, burdening the system without solving any problems.

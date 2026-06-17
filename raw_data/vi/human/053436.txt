@@ -1,1 +1,0 @@
-Độ chính xác =Số kết quả đúng Tổng số kết quả Đo bài toán nhận diện chữ viết tay là bài toán khá là khó do việc các chữ n hoa và n thường nhiều khi không thể phân biệt được vì chữ cá rêng lẻ thường mất đi ngữ cảnh nên và thang đánh giá trên, em còn sử dụng một phương thức đánh giá khác là độ chính xác theo từ nhưng không tính phông (word accuracy ignore case).

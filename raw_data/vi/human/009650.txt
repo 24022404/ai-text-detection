@@ -1,1 +1,0 @@
-Báo cáo phân tích là tập hợp các bảng, biểu đồ biểu diễn dữ lệu sau phân tích một cách trực quan. Các bên liên quan có thể dễ dàng nắm bắt và hiểu về các khía cạnh của tập dữ lệu người dùng báo điện tử từ báo cáo, giúp khai thác bộ dữ lệu một cách hợp lý từ đó đưa ra chiến lược kinh doanh đúng đắn.

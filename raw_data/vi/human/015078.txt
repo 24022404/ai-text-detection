@@ -1,1 +1,0 @@
-Dữ liệu kh được điọc và lưu trữ bở Drud được chia thành các phân mảnh (segment) dựa theo khoảng thờ gan. Trong một khoảng thờ gan có thể có nhều segment nếu Drud thực hiện điọc dữ liệu từ nhều nguồn. Segment là một điơn vị xử lý dữ liệu trong Apache Drud. Để lưu trữ và quản lý các segment này, các thành phần kiến trúc tổng quan của Drud được mô tả như hình vẽ sau.

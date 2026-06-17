@@ -1,1 +1,0 @@
-Platforms for decentralized video streaming are constructed on a distributed network in which numerous peers or nodes work together to transmit content.

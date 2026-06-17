@@ -1,1 +1,0 @@
-LSTM (Long Short-Term Memory) is well-suited for cryptocurrency price pre diction due to its ability to capture sequential dependencies and patterns within time series data. There are several reasons why LSTM is considered a suitable choice for this type of problem:

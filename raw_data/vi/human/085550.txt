@@ -1,1 +1,0 @@
-Ở chương 4, tô sẽ trình bày về thiết kế, trển kha các thành phần của phân hệ quản lý và lập lịch các trình tính toán chỉ báo. Nộ dung bao gồm điặc tả các chức năng của phân hệ, các đioạn mã gả mnh họa, thiết kế lớp và cơ sở dữ liệu. Vệc áp dụng các công nghệ nêu ở chương 3 cũng sẽ được nó điến ch tết.

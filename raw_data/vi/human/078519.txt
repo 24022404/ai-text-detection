@@ -1,1 +1,0 @@
-Đồ án xây dựng một hệ thống có khả năng mở rộng, dễ dàng triển khai và thực hiện chỉ qua và thao tác đơn giản.

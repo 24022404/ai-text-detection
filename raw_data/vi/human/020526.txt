@@ -1,1 +1,0 @@
-Gó Supportng fle: Chứa các thư vện ngoài, kha báo dữ lệu mẫu,..4.1.3 Thiết kế ch tết gó Messagng Hình 4.5: Thiết kế ch tết gó MessagngHình 4.5 mô tả ch tết gó Messagng. Bao gồm các lớp : () MessagngVew Controller, () ManagngChatboxVewController, () MessageContentCell, (v) ChatBoxMemberTableVewCell. Trong đió từng lớp có nhệm vụ sau:

@@ -1,1 +1,0 @@
-Accuracy, computed as ratio between the number of correct predictions (TP and TN) and all predictions (TP, TN, FP, and FN), describes generally the model performance across all classes.

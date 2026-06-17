@@ -1,1 +1,0 @@
-Bểu đồ usecase phân rã cho chức năng Quản lý slde Hình 2.3: Bểu đồ usecase phân rã cho chức năng Quản lý slde ➢Mô tả usecase phân rã cho chức năng Quản lý slde:

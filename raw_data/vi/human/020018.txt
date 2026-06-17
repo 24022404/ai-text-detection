@@ -1,1 +1,0 @@
-Từ những yêu cầu cũng như các công nghệ trong Chương 2 và 3, Chương 4 em sẽ trình bày cho tết về kiến trúc của hệ thống, thiết kế database, giao diện của hệ thống.

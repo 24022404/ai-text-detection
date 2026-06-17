@@ -1,1 +1,0 @@
-HTML (HyperText Markup Language) : là ngôn ngữ đánh dấu siêu văn bản, HTML sử dụng các thẻ để xác định các loại nội dung khác nhau và mục đích phục vụ cho trang web.

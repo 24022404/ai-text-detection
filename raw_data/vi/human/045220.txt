@@ -1,1 +1,0 @@
-Mệnh chuỗi khố la: (Hybrid Blockchain) là kiểu mạng chuỗi khố kết hợp giữa mạng chuỗi khố công khai và mạng chủ khố bí mật. Là kiểu mạng vừa có tính tập trung và phi tập trung nên nó vừa cho phép người dùng được truy cập vào các thành phần mà mạng cho phép, đồng thờ cúng bảo vệ các tài nguyên riêng tư của hệ thống .

@@ -1,1 +1,0 @@
-Tính mở rộng : một thành phần có thể được mở rộng chức năng của nó, như cửa sổ có thể chia thành 2 loại là cửa gỗ và cửa kính.

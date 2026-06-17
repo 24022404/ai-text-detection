@@ -1,1 +1,0 @@
-Kubelet : Có nhiệm vụ chạy và quản lý các container trong node và gạo nếp vớ API server Kube Proxy : sẽ giúp cho việc quản lý đường mạng và giao tiếp giữa các node hoặc giao tiếp ra bên ngoài.

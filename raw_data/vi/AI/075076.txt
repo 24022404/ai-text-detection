@@ -1,5 +1,0 @@
-Ứng dụng phát hiện người và hành động lấy đồ trong cửa hàng tiện lợi là một hệ thống trí tuệ nhân tạo được thiết kế để giám sát và theo dõi các hoạt động của khách hàng trong cửa hàng tiện lợi. Hệ thống này sử dụng camera và công nghệ nhận dạng khuôn mặt để phát hiện và phân loại các loại người, bao gồm khách hàng, nhân viên và người lạ. Đồng thời, hệ thống cũng có khả năng phát hiện và phân loại các hành động của khách hàng, bao gồm việc lấy đồ, trả tiền và rời khỏi cửa hàng.
-
-Hệ thống này được trang bị các thuật toán học máy tiên tiến để phân tích và xử lý dữ liệu từ camera, giúp phát hiện và cảnh báo các hành động bất thường hoặc có thể gây hại cho cửa hàng. Ngoài ra, hệ thống cũng có khả năng tích hợp với các hệ thống quản lý cửa hàng hiện có, giúp cung cấp thông tin chính xác và kịp thời cho nhân viên cửa hàng.
-
-Ứng dụng này có thể giúp cửa hàng tiện lợi tăng cường an ninh, giảm thiểu rủi ro và cải thiện hiệu suất kinh doanh. Đồng thời, hệ thống cũng có thể giúp cửa hàng thu thập và phân tích dữ liệu khách hàng, giúp họ hiểu rõ hơn về nhu cầu và hành vi của khách hàng, từ đó có thể điều chỉnh chiến lược kinh doanh phù hợp.

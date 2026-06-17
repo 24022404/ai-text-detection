@@ -1,1 +1,0 @@
-Để thiết kế responsive cho gao dện, tô điã điưa ra một số quy chuẩn màn hình, được mô tả như trong Bảng 5.1:

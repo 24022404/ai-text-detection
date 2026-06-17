@@ -1,1 +1,0 @@
-Thiết kế cho tết có Hình 4.5 là biểu đồ ch tết gói của chức năng lập kế hoạch dự án ở phần server.

@@ -1,1 +1,0 @@
-The application’s automatic inventory function makes it simple to complete the inventory process quickly and with extremely accurate results. Also, each RFID code for each shipment is given a detailed presentation of the inventory findings, which also amply illustrates the current status of the inventory of the items.

@@ -1,1 +1,0 @@
-Postconditions : The user can view a detailed dynamic analysis report, in cluding runtime behaviors, API interactions, and potential security risks.

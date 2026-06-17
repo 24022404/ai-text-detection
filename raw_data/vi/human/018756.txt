@@ -1,1 +1,0 @@
-Lớp Trust Lớp Trust cung cấp một cơ chế điểm đánh giá mức độ tin tưởng, đáng tin cậy của thông tin.2.1.3 RDF RDF là một mô hình dữ liệu được sử dụng để mô tả khái niệm hoặc mô hình hóa thông tin được diễn dịch trong các tài nguyên web, sử dụng trong các định dạng cú pháp khác nhau .

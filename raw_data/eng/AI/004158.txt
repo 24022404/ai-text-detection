@@ -1,1 +1,0 @@
-The main actors in this scenario are the user, ADB or Frida tools, and the Android device or emulator. Preconditions for the process include a connected device or emulator, the target app running or ready, and all required ADB or Frida scripts set up.

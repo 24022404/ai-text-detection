@@ -1,1 +1,0 @@
-Azure Blob Storage  là một công cụ cho phép lưu trữ các dữ liệu phi cấu trúc trên cloud. Các dữ liệu đó có thể là text, dữ liệu nhị phân, tệp tài liệu hay tệp phương tiện,. . . được lưu dưới dạng object, được gọi là blob object.

@@ -1,1 +1,0 @@
-Flutter là một SDK phát triển ứng dụng di động nguồn mở được tạo ra bở Google. Với tính năng độc đáo của nó, Flutter đã thu hút sự chú ý của cộng đồng phát triển ứng dụng. Cung cấp giao diện người dùng linh hoạt và đẹp mắt, Flutter cho phép xây dựng ứng dụng đa nền tảng nhanh chóng và dễ dàng.

@@ -1,1 +1,0 @@
-Cập nhật thông tin cá nhân Người dùng có thể đổi ảnh đại diện, thay đổi các thông tin cá nhân. Sau khi lưu thay đổi, thông tin vừa cập nhật sẽ được lưu.

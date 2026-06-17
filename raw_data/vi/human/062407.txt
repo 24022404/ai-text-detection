@@ -1,1 +1,0 @@
-Tích hợp các tính năng quan trọng như tính năng bảo mật (Gt), khả năng tăng tốc xử lý vòng lặp (Debug),… Đơn giản hóa việc tìm quản lý hết tất cả các Code có trên hệ thống.

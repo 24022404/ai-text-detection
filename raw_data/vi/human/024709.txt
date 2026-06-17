@@ -1,1 +1,0 @@
-Kh áp dụng framework Laravel, dự án này cũng tuân theo kiến trúc Model VewController (hay còn vết tắt là MVC). Kến trúc MVC được chia thành ba phần có khả năng tương tác với nhau, mỗ phần đióng một va trò nhất định điể tạo nên giao diện người dùng vớ những chức năng hoàn chỉnh.

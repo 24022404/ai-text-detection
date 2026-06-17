@@ -1,1 +1,0 @@
-Từ lúc được giới thiệu cho đến khi ra mắt phiên bản 1.0, JetBrains luôn chú trọng đến tính tương hợp của Kotlin và Java. Sau này Google đã tích hợp trực tiếp ngôn ngữ Kotlin vào Android Studio phiên bản 3.0. Với những ưu điểm vượt trội của mình Kotlin ngày càng được nhiều người sử dụng. Phiên bản Kotlin mới nhất tính đến hiện tại là 1.7.

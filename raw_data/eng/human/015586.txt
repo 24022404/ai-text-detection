@@ -1,1 +1,0 @@
-In addition to the above division, people also classify cards according to their memory reading and writing capabilities. According to this approach, tags fall into several categories: Read-only; Write-once-read only; Read/Write; Read/Write built-in sensor and Read/Write built-in transmitter:

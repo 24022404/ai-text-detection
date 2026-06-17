@@ -1,1 +1,0 @@
-get_nputs_method vàformula_method : ha trường thông tin chứa mã nguồn của phương thức get_nputs() vàformula() điể khở tạo chỉ báo mớ. Chức năng này điò hỏ người dùng cần có kiến thức cơ bản về lập trình với ngôn ngữ Python và thư viện pandas.

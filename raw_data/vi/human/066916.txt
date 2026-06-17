@@ -1,1 +1,0 @@
-Xây dựng chức năng quản lý lỗ hổng: Em đã phát triển các chức năng quản lý lỗ hổng trong ứng dụng web, bao gồm hiển thị danh sách lỗ hổng, ch tết lỗ hổng , thêm lỗ hổng dựa trên kết quả kiểm thử trả về.

@@ -1,1 +1,0 @@
-For the realtime communication, we use socket IO in both backend and fron tend (View and Controller package); and WebRTC (by the peer.js library) in the frontend.

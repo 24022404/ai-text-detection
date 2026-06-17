@@ -1,7 +1,0 @@
-Dự báo độ võng dài hạn của dầm bê tông cốt thép là một vấn đề quan trọng trong lĩnh vực xây dựng và cơ sở hạ tầng. Mới đây, một nghiên cứu mới đã áp dụng mô hình học máy tối ưu hóa Jellyfish Search để dự báo độ võng của dầm bê tông cốt thép.
-
-Mô hình Jellyfish Search là một phương pháp tối ưu hóa dựa trên sinh học, được lấy cảm hứng từ hành vi của loài sứa. Phương pháp này có khả năng tìm kiếm và tối ưu hóa các giải pháp phức tạp một cách hiệu quả.
-
-Nghiên cứu này đã áp dụng mô hình Jellyfish Search để dự báo độ võng của dầm bê tông cốt thép dựa trên các yếu tố như tải trọng, chiều dài, và kích thước của dầm. Kết quả cho thấy mô hình có khả năng dự báo độ võng với độ chính xác cao, vượt trội so với các phương pháp dự báo truyền thống.
-
-Tác động của nghiên cứu này có thể giúp cải thiện độ bền và độ an toàn của các công trình xây dựng, đồng thời giảm thiểu chi phí và thời gian xây dựng.

@@ -1,1 +1,0 @@
-ReactJS hỗ trợ cơ chế Virtual DOM, giúp tối ưu hóa quá trình hiển thị và cập nhật giao diện, giúp cho ứng dụng chạy mượt mà hơn. Ngoài ra, ReactJS còn hỗ trợ các tính năng như JSX, component, props và state điển giúp phát triển giao diện dễ dàng hơn.

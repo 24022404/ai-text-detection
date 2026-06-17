@@ -1,1 +1,0 @@
-Độ đo Precision : tính bằng tỷ lệ giữa True Positive và tổng của True Positive và False Positive – tổng số điểm được phân loại là lớp Positive.

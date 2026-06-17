@@ -1,1 +1,0 @@
-Thuê và cài đặt server : Em chọn thuê server trên Portal Azure, hệ thống được vận hành bởi máy ảo Ubuntu với cấu hình 2 CPU, 4G RAM và chạy hệ điều hành Ubuntu.

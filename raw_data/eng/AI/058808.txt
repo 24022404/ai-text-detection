@@ -1,9 +1,0 @@
-Objective: This paper presents a comprehensive analysis of autoencoders for representation learning, examining their theoretical foundations, performance across learning tasks, explainability techniques, and remaining challenges. Our goal is to guide researchers and practitioners in selecting and interpreting autoencoder-based models for diverse applications.
-
-Methods: We survey key autoencoder variants—including vanilla, denoising, sparse, variational, and contractive models—and organize them into a taxonomy based on architectural features and learning objectives. Through case studies in image reconstruction, anomaly detection, classification, and clustering, we compare model behavior, latent-space quality, and task-specific performance. We further evaluate explainability approaches such as latent‐space visualization, feature‐attribution methods, and disentanglement metrics.
-
-Results: Our experiments show that denoising autoencoders excel at identifying outliers, sparse autoencoders yield more interpretable clusters, and variational autoencoders facilitate smoother latent interpolations useful for generative tasks. Explainability techniques differ in effectiveness depending on task and model complexity; for instance, latent‐space saliency maps offer intuitive insights for image data but require complementary metrics in high dimensions. We also identify critical factors—hyperparameter sensitivity, training stability, and evaluation inconsistencies—that hinder broader adoption.
-
-Conclusion: We provide practical guidelines for choosing autoencoder variants, underscore the need for standardized evaluation benchmarks, and highlight open research directions in robust representation learning and model transparency. This work advances the understanding of autoencoders’ strengths and limitations, laying a foundation for future innovations.
-
-Keywords: autoencoders; representation learning; explainability; deep learning; case studies; challenges.

@@ -1,1 +1,0 @@
-To concatenate two sequences, combine all elements from x followed by those from y, with xk representing k repeated concatenations of x. To compare sequences, x is smaller than y (x<y) if, at the earliest index of difference, the element in x is less than that in y. The empty sequence is also considered smaller than 0.

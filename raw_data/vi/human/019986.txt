@@ -1,1 +1,0 @@
-Model: là thành phần chính và nó chỉ chứa nghiệp vụ logic, các phương thức xử lý dữ liệu, truy xuất dữ liệu từ database và gửi đến views. Model độc lập với giao diện người dùng.

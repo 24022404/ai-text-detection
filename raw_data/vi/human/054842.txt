@@ -1,1 +1,0 @@
-Cách này dẫn đến vệc người dùng sẽ phải tạo nhều customfelds cho nhều loạ thư vện và điề xuất khác nhau. Sự lnh hoạt sẽ bị gảm đi điáng kế kh phả thêm mớ một trường trong cà điặt thì thư vện hay điề xuất mớ sử dụng điược.

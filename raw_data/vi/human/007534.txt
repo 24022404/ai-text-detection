@@ -1,1 +1,0 @@
-Magento được thiết kế điểm cung cấp một gả pháp hoàn chỉnh cho việc xây dựng và quản lý cửa hàng trực tuyến, từ việc quản lý sản phẩm, quản lý đơn đặt hàng, quản lý khách hàng đến việc tích hợp thanh toán và giao hàng. Nền tảng này cũng cung cấp nhiều tính năng và tiện ích hỗ trợ cho việc tùy chỉnh và mở rộng cửa hàng theo nhu cầu của từng doanh nghiệp.

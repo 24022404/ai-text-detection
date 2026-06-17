@@ -1,1 +1,0 @@
-Một mã khối q-ary C trên bảng chữ cái Σ là tập hợp các từ q-ary không rỗng, cùng độ dài n; mỗi phần tử trong C được gọi là một từ mã.

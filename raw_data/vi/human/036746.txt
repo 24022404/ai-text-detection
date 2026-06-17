@@ -1,1 +1,0 @@
-Người dùng: Mỗ tài khoản người dùng điều có ha va trò vừa là giảng viên, vừa là học viên. Trong vai trò giảng viên, người dùng có thể xem, thêm, sửa, xóa và xem đánh giá mọi người về khóa học của mình. Trong và trò học viện, người dùng có thể lọc, xem tổng quan các khóa học trong hệ thống, vào học, làm bà kiểm tra và đánh giá chất lượng từng khóa học.

@@ -1,1 +1,0 @@
-Ấn "Add question" nếu muốn thêm nhiều câu hỏi 5 Hệ thống Hiển thị thêm form có câu hỏi và danh sách các tiêu chí 6 Người dùng Nhập nội dung vào các câu hỏi muốn thêm đồng thờ lựa chọn tiêu chí 7 Người dùng Sau khi điền đầy đủ thông tin. Ấn Submit" 8 Hệ thống Lưu dữ liệu. Thông báo thành công cho người dùng kh điã tạo thành công.

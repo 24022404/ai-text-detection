@@ -1,5 +1,0 @@
-Kiểm định đồng liên kết cho các mối quan hệ kinh tế dài hạn của cộng đồng Đông Phi bằng chứng từ phương pháp hồi quy vectơ tự động (VAR) đã được thực hiện để đánh giá sự tương tác giữa các quốc gia trong khu vực. Kết quả cho thấy có sự liên kết mạnh mẽ giữa các nền kinh tế Đông Phi, đặc biệt là giữa Kenya, Tanzania và Uganda.
-
-Phương pháp VAR đã được sử dụng để phân tích dữ liệu kinh tế của các quốc gia này trong thời gian dài hạn, từ năm 1990 đến năm 2020. Kết quả cho thấy có sự tương tác mạnh mẽ giữa các nền kinh tế, với các biến kinh tế như GDP, lạm phát và lãi suất có mối quan hệ chặt chẽ với nhau.
-
-Kết quả kiểm định đồng liên kết cũng cho thấy rằng các quốc gia Đông Phi có sự phụ thuộc lẫn nhau trong kinh tế, với các nền kinh tế lớn như Kenya và Tanzania có ảnh hưởng lớn đến các nền kinh tế nhỏ hơn như Uganda. Điều này cho thấy rằng các quốc gia Đông Phi cần phải hợp tác và xây dựng mối quan hệ kinh tế chặt chẽ hơn để phát triển kinh tế bền vững.

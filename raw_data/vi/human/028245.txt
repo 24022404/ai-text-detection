@@ -1,1 +1,0 @@
-Chương 5 sẽ nói về việc triển khai, các kết quả đạt được trong việc triển khai nền tảng dữ lệu khách hàng.

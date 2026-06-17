@@ -1,1 +1,0 @@
-Project ViewModel: Nơ nắm giữ dữ lệu danh sách đồ án, danh sách sinh viên, danh sách các kỳ học, danh sách giảng viên.

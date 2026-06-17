@@ -1,1 +1,0 @@
-Phương pháp trung bình động điơn gản Phương pháp trung bình điộng điơn gản (Smple Movng Average  SMA) là một trong những công cụ phân tích thống kê phổ bến điược sử dụng rộng rã trong lĩnh vực dự đioán và phân tích chuỗ thờ gan. Nó là một phương pháp tếp cận điơn gản, dễ hiểu và có tính ổn định, gúp phân tích xu hướng và bến đỗ của dữ lệu trong chuỗ thờ gan.

@@ -1,1 +1,0 @@
-Trước tên, phân hệ thông qua API của Apache Kafka để tạo mớ một topc tương ứng với luồng dữ liệu từ chỉ báo mớ. Kh Kafka topc điã điược tạo, phân hệ tếp tục thực hiện bước tạo mớ Drud datasource.

@@ -1,1 +1,0 @@
-Ticket Service Level Agreement is the agreed upon turnaround time in which aticket needs to be answered or resolved. It may depend on priority levels such as low, medium, or high. For example, if the SLA of first resolution time is 4 hours, all tickets that were attended to within 4 hours meet the SLA.

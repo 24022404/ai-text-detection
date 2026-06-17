@@ -1,1 +1,0 @@
-Khoảng cách của các thành phần cũng cần được lưu ý. Giữa các thành phần cùng cấp, khoảng cách tối thiểu là 8px. Với các thành phần lớn có chức năng bao bọc những thành phần cùng nhóm sẽ cách nhau 16px.

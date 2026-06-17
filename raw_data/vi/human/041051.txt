@@ -1,1 +1,0 @@
-Bến đỗ Trang điểm : Loại bến đổ này liên quan đến việc thêm hoặc loại bỏ trang điểm từ khuôn mặt trong hình ảnh, có thể mô phỏng bến đỗ thực tế.

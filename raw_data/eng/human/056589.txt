@@ -1,1 +1,0 @@
-In machine learning, algorithms are designed to analyze data, find patterns and regularities, and then use those regularities to predict and classify new data.

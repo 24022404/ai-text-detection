@@ -1,1 +1,0 @@
-PostgreSQL’s extensibility is a key feature. It allows users to create user-defined data types, functions, and operators, making it highly customizable for different use cases.

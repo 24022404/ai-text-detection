@@ -1,1 +1,0 @@
-Gá pháp Để có thể xây dựng được chức năng này tô sử dụng module đo thời gian thực RTC DS3231 (Real Time Clock) điểm lấy thờ gan thực tế.

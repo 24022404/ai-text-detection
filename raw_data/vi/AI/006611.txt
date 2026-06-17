@@ -1,1 +1,0 @@
-Ban đầu, các kết quả về đồ thị de Bruijn chỉ xét với bảng chữ cái có kích thước 2, nhưng vào năm 1951, van Aardenne-Ehrenfest và de Bruijn đã mở rộng nghiên cứu này cho mọi bảng chữ cái hữu hạn kích thước q bằng cách sử dụng đồ thị tổng quát cho bảng chữ cái Σ có kích thước q.

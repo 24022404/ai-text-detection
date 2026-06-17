@@ -1,1 +1,0 @@
-Vớ kiểu mạng chuỗi khố này, bất kỳ a cũng có thể sử dụng, khởi tạo, xác thực các giao dịch trên mạng mễn là thực hiện đúng các quy định của mạng cũng như cơ chế đồng thuận (consensus mechanism) của mạng. Bitcoin và Ethereum là tha mạng chuỗi khố công khai phổ biến nhất hiện nay .

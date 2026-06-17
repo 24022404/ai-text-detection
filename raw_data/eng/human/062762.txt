@@ -1,1 +1,0 @@
-In addition, naming variables that are easy to understand and clear is also part of writing clean code. This makes the code easier to read and makes it easier to maintain and develop later.

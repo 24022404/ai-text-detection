@@ -1,1 +1,0 @@
-resources : chứa các tài nguyên thô chưa được bên dịch như vew, LESS, SASS hoặc javascrpt. . . .

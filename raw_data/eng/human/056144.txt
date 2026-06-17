@@ -1,1 +1,0 @@
-A dropdown menu allows users to change the number of items per page (e.g., 5, 10, 20, etc.).4.2.4 Database design Figure 4.5: Database for Androlyzer Application Table: auth_permission Column Name Description id Unique identifier for the permission.

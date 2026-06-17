@@ -1,1 +1,0 @@
-I will dive into the encoder in more detail. As can be seen from the visualization, it is composed of the following parts:

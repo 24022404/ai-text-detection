@@ -1,1 +1,0 @@
-React framework Phần này dựa trên nguồn tham khảo từ . Gồm hai phần nhỏ, giới thiệu về React và ưu điểm của React.

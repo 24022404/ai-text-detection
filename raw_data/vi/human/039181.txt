@@ -1,1 +1,0 @@
-Xử lý dữ liệu: Javascript cho phép xử lý và kiểm tra dữ liệu được nhập vào từ người dùng, giúp đảm bảo tính an toàn và chính xác của dữ liệu. Hiệu ứng động và hoạt hình: Javascript cho phép tạo ra các hiệu ứng động và hoạt hình trên trang web, giúp tăng tính trực quan và hấp dẫn của trang web.

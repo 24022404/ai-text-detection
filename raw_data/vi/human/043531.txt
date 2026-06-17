@@ -1,1 +1,0 @@
-Gả thuật sinh ma trận embedding:Hình 2.3: Mô tả thuật toán sinh ma trận embedding của mô hình mạng nơron đồ thị Graph SAGE Có thể lý gả hình vẽ 2.3 như sau:

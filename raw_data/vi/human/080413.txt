@@ -1,1 +1,0 @@
-ReactJs: gúp game thểu thờ gan code, xây dựng được một giao diện web đẹp, thân thiện với người sử dụng.

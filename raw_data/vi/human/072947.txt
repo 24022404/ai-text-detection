@@ -1,1 +1,0 @@
-Provider  Người sở hữu và cung cấp dịch vụ mạng không dây: là người mua, sử dụng và lắp đặt các thiết bị phần cứng của Meraki Cisco để tạo ra mạng lưới mạng không dây tạ một hoặc nhiều địa điểm cụ thể. Provider là người tạo các Workspace và Organization tương ứng với thiết kế lắp đặt mạng ngoài thực tế và sở hữu các Workspace.

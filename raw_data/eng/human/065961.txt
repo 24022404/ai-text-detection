@@ -1,1 +1,0 @@
-If the number of neighbors is 2 or 3, the algorithm will consider a small set of similar items. This can improve the diversity of the recommendations but may sacrifice accuracy.

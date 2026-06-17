@@ -1,1 +1,0 @@
-nhận nhiệm vụ trích xuất các dữ lệu về sự kiện và trả về một đối tượng NỀN TẢNG DỮ LIỆU KHÁCH HÀNG

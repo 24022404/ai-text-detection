@@ -1,1 +1,0 @@
-Nodejs được xây dựng dựa trên V8 JavaScript engine của Google, công cụ biên dịch và thực thi mã JavaScript trực tiếp thành mã máy, làm cho nó nhanh hơn nhiều so với các JavaScript environment khác.

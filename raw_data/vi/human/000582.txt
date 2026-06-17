@@ -1,1 +1,0 @@
-Thiết kế cơ sở dữ liệu Hình 4.14: Sơ đồ thực thể liên kết Hình 4.14 là sơ đồ thực thể liên kết của hệ thống. Hệ thống có các thực thể là User (người dùng), Code Editor Room (phòng code), Source Code (mã code),Shared User (người được chia sẻ phòng). Mỗ người dùng có đ riêng biệt chính là tên đăng nhập và các thông tin khác như password, name (họ và tên), địa chỉ email.

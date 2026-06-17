@@ -1,5 +1,0 @@
-Ứng dụng chỉ số cân cân nước và công cụ GIS đã được triển khai để xác định mức độ ảnh hưởng của hạn khí tượng đến vùng đất. Chuyên gia đã sử dụng dữ liệu khí tượng và địa lý để phân tích tác động của hạn khí tượng trên các khu vực khác nhau.
-
-Kết quả cho thấy, hạn khí tượng có thể gây ra sự thay đổi đáng kể về độ ẩm và nhiệt độ trên bề mặt đất, ảnh hưởng đến sự phát triển của cây cối và các hệ sinh thái. Ứng dụng chỉ số cân cân nước và công cụ GIS đã giúp xác định rõ hơn về mức độ ảnh hưởng của hạn khí tượng, từ đó đề xuất các biện pháp quản lý và bảo vệ tài nguyên thiên nhiên.
-
-Các kết quả nghiên cứu này sẽ giúp chính quyền địa phương và các cơ quan quản lý có cái nhìn tổng quan hơn về tác động của hạn khí tượng, từ đó xây dựng các kế hoạch và chính sách phù hợp để bảo vệ và phát triển tài nguyên thiên nhiên.

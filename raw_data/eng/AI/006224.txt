@@ -1,1 +1,0 @@
-The proof follows directly from the construction of Gk,s, since its vertices are defined as all sequences of length k−1 that contain no more than s consecutive 0s.

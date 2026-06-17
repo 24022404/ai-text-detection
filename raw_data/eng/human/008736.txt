@@ -1,1 +1,0 @@
-Turn on the operation or turn off the accounts created.2.2.2 The decomposition use case diagram for employee management users Figure 2.8: Employee manager use case diagram Actor: Administrators.

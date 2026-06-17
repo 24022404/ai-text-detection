@@ -1,1 +1,0 @@
-Repository Layer: Thao tác với tầng dữ liệu bao gồm cơ sở dữ liệu và các file khác của hệ thống.

@@ -1,1 +1,0 @@
-Tiếp đến cũng là về hiệu suất, khi có truy vấn dữ lệu thì các record được cache lên bộ nhớ ram, điển lượt truy vấn sau diễn ra nhanh hơn mà không cần đọc từ ổ cứng.

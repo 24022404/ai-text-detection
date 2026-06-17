@@ -1,1 +1,0 @@
-Trong cơ sở dữ liệu, việc sử dụng index cho table là một trong những cách hiệu quả để tối ưu hóa thao tác truy vấn và tăng hiệu suất của hệ thống. Index là một cấu trúc dữ liệu đặc biệt được tạo ra điểm giúp tìm kiếm và truy xuất thông tin nhanh chóng từ bảng trong cơ sở dữ liệu.

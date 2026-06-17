@@ -1,1 +1,0 @@
-The player can press Play to jump into the main gameplay or press Read to read the words the monsters at this level may contain. The stages the player cannot open will have a lock icon and in these stages, the player cannot interact.

@@ -1,1 +1,0 @@
-Each branch is a stack of layers that are trained to learn the patterns/hidden representation of the corresponding vulnerability class.In Chapter 3, I will present the proposal architecture for multi-label vulnerability detection. Chapter 3 will describe an overview of the system and the details of each component: Data preprocessing, Word embedding, and Classification.

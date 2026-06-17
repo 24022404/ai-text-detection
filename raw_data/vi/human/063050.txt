@@ -1,1 +1,0 @@
-Đây là một dạng mô hình phát triển phần mềm một cách linh hoạt, giúp dễ dàng cả tên và thích ứng nhanh với các thay đổi.

@@ -1,1 +1,0 @@
-Sinh hoạt: So với các frontend framework khác, mã React dễ bảo trì hơn và linh hoạt hơn do cấu trúc mô đun của nó. Do đó, sự linh hoạt này giúp tiết kiệm rất nhiều thờ gan và chi phí cho doanh nghiệp.

@@ -1,1 +1,0 @@
-Low Precision for ’winwebsec’: While ’winwebsec’ is correctly classified most of the time, its precision is relatively low. This suggests that other malware families are often misclassified as ’winwebsec’, indicating potential overlap in their characteristics.

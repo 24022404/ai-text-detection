@@ -1,1 +1,0 @@
-node modules: chứa các thư viện trên ứng dụng reducers: chứa các file thực hiện việc lưu trữ dữ lệu router: chứa file khai báo các màn hình và khai báo stack nhảy giữa các màn.

@@ -1,1 +1,0 @@
-Tố ưu hóa tốc độ tải trang: Javascript cho phép tối ưu hóa tốc độ tải trang bằng cách tả các tài nguyên trên trang web một cách bất đồng bộ, giúp giảm thờ nam tả trạng và cải thiện trải nghiệm người dùng.

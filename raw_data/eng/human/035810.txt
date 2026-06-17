@@ -1,1 +1,0 @@
-Yoon IC., Sussman A., Memon A., Porter A. Effective and scalable soft ware compatibility testing. In: Proceedings of the 2008 international symposium on Software testing and analysis . 2008. pp. 63-74.

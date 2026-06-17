@@ -1,1 +1,0 @@
-Mỗ một lớp sau khi thông qua các hàm kích hoạt sẽ tạo ra các thông tin trừu tượng hơn cho các lớp tiếp theo. Trong mô hình mạng truyền ngược (feedforward neural network) thì mổ neural điầu vào (input node) cho mổ neural điầu ra trong các lớp tiếp theo.

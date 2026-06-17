@@ -1,1 +1,0 @@
-Cumass =2 N.(N−1)NX i=2−1X j=1log(P(wi, wj) +ϵ P(wj)) P(wi)is the probability that token ithappears in the whole set of documentsP(wi, wj)is the probability that token ithandjthappear within the same doc ument in the whole set of documents Coherence based on pointwise mutual information cuci:

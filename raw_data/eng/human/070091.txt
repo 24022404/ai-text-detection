@@ -1,1 +1,0 @@
-The GOAP library constructs agents capable of actions and goals based on theirself-awareness of the world, resulting in complex and appropriate logical interac tions akin to human behavior.

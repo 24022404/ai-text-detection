@@ -1,1 +1,0 @@
-Postconditions : The user can execute the ADB or Frida script, allowing for dynamic analysis, hooking API functions, intercepting network traffic, or modifying app behavior during runtime.

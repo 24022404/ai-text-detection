@@ -1,1 +1,0 @@
-ZAP cung cấp nhiều tính năng mạnh mẽ để phát hiện và kiểm thử lỗ hổng bảo mật trong ứng dụng web. Với các chức năng như kiểm tra lỗ hổng SQL injection, XSS (Cross Scripting) và nhiều lỗ hổng bảo mật khác, OWASP ZAP API giúp đảm bảo rằng ứng dụng web được kiểm tra một cách toàn diện và chính xác.

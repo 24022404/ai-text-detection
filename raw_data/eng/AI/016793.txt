@@ -1,1 +1,0 @@
-Implementing changes in a large, highly coupled application poses significant challenges, as even minor code modifications can affect the entire system. This interdependence demands thorough coordination and ultimately results in a lengthier development process.

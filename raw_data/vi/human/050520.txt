@@ -1,1 +1,0 @@
-Vớ việc xử lý dữ liệu, ngôn ngữ Python được sử dụng cho các thao tác xử lý dữ liệu trong phân hệ quản lý và lập lịch trình tính toán chỉ báo.

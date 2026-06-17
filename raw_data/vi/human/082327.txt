@@ -1,1 +1,0 @@
-Phương pháp AHP Phương pháp AHP điã điược tô giới thiệu trong phần định hướng gả pháp ở chương 4. Là phương pháp tính toán trọng số áp dụng cho các bài toán ra quyết định đia tiêu chuẩn. Phương pháp này sẽ cung cấp một thứ tự sắp xếp của những quyết định và nhờ vào đó mà chúng ta có thể tìm ra được một quyết định cuối cùng hợp lý nhất.

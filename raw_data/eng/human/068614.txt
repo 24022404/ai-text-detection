@@ -1,1 +1,0 @@
-The "LoadScreen" function takes a variable passed as a string corresponding to the screen’s name. This function is responsible for loading objects from a folderwith a pre-defined path and placing them in the correct position in the hierarchy (as children of "ScreenContainer").

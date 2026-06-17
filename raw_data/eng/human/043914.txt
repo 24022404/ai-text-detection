@@ -1,1 +1,0 @@
-Interactions are a set of human activities involving at least two people. When there are two actors are involved, one should be a human and the other may be a human or an object. When there are more than two participants and one or more interacting objects, group activities involve a mix of gestures, actions, or interactions .

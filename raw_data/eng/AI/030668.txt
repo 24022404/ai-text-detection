@@ -1,9 +1,0 @@
-The demand for efficient and high-speed object tracking systems has increased significantly in various applications, from autonomous vehicles to surveillance systems. This paper presents DashNet, a novel neural network architecture that integrates artificial and spiking neural networks to enhance the speed and accuracy of object tracking.
-
-Methods/Approach: DashNet is designed as a hybrid model that leverages the strengths of both artificial neural networks (ANNs) and spiking neural networks (SNNs). The ANN component is responsible for initial feature extraction and object recognition, providing a broad understanding of the scene. Simultaneously, the SNN component processes temporal dynamics through spiking activities, improving real-time responsiveness and energy efficiency. The integration of these components is optimized to ensure seamless data flow and stability.
-
-Results/Findings: Experimental evaluations demonstrate that DashNet outperforms traditional object tracking methods in both tracking speed and accuracy. Test results indicate a significant reduction in processing time, achieving real-time performance under various conditions. Additionally, benchmarking against state-of-the-art models shows improved precision, particularly in complex dynamic environments.
-
-Conclusion/Implications: The introduction of DashNet contributes a significant advancement in the field of object tracking by combining ANN and SNN technologies. This hybrid approach not only enhances tracking performance but also introduces a new paradigm for developing more efficient neural network models. Potential applications of DashNet extend to areas requiring rapid processing and adaptability, such as robotic vision and automated monitoring systems.
-
-Keywords: DashNet, object tracking, hybrid neural network, spiking neural network, real-time processing, autonomous systems, ANN, SNN.

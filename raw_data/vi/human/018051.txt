@@ -1,1 +1,0 @@
-Kh điã điăng nhập vào trang web, ở cuối giao diện Thông tin và vết Khi đó, người dùng nhập bình luận vào bài viết , nhấn button Thêm bình luận Sau đó, trả về giao diện Thông tin bài viết và hiển thị bình luận 2. Acceptance Criteria 2:

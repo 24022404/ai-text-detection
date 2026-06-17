@@ -1,1 +1,0 @@
-Tích hợp sâu với Lbra: Move được phát triển đặc biệt cho nền tảng Libra, vì vậy nó tương thích hoàn toàn với cơ chế và quy tắc của Lbra. Move hỗ trợ việc tạo và triển khai các tài sản tùy chỉnh và hợp đồng thông minh trên Libra.

@@ -1,1 +1,0 @@
-ID(t, D) = logo Tổng số văn bản trong tập mẫu D Số văn bản có chứa từ t – IDF(t, D) : Tần số ngược của tài liệu đối với từ trong tập văn bản D.

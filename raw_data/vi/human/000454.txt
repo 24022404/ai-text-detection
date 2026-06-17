@@ -1,1 +1,0 @@
-ndcator_name": "rs", recursve_range": 1, get_nputs_method": "...", formula_method": "..."TOÁN CHỈ BÁO 4.3.3 Va trò của phân hệ quản lý và lập lịch các trình tính toán chỉ báo Theo như nộ dung của bểu đồ hoạt động phía trên, phân hệ quản lý và lập lịch các trình tính toán chỉ báo đióng va trò tạo mớ các tệp tin, các thành phần theo giá trị điầu vào mà người dùng kha báo.

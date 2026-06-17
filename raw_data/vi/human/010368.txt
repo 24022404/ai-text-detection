@@ -1,1 +1,0 @@
-Xóa báo cáo Đại diện trung tâm có thể xóa báo cáo vớ điều kiện báo cáo đang ở trạng thái chờ xác nhận.

@@ -1,1 +1,0 @@
-Biểu đồ use case tổng quát Hình 4.1: Biểu đồ use case tổng quát Hệ thống gồm có 3 tác nhân chính: Guest, Customer và Admin. Trong đó:

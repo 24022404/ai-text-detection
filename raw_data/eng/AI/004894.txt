@@ -1,1 +1,0 @@
-Section 2.1.1 covered the fundamentals of coding theory, while the following section outlines the key notations and terminology essential to understanding this research area.

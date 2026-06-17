@@ -1,1 +1,0 @@
-If k > i + j > s, the sub-string (xi+2,..., xk−j−1) can be any word of length C2 = Xi,j⩾0; t=1(k−t+1)At, as shown in Equation (4.13), and combining Equations (4.11), (4.12), and (4.13) proves Lemma 7.

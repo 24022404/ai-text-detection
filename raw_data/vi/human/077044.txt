@@ -1,1 +1,0 @@
-Chọn button Active Scan trên danh sách URL  cho URL cần kiểm thử như hình 5.4:Hình 5.4: Màn hình chọn Active Scan cho URL Sau khi kiểm thử xong, ta có thể thấy một thông báo đã tìm thấy lỗ hiển thị bên cạnh URL và những thông tin về lỗ hổng, tiến độ hiện tại được cập nhật như dưới hình 5.5:

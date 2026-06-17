@@ -1,1 +1,0 @@
-Vớ phương pháp đánh giá cho một, bộ dữ liệu sử dụng là các cặp dữ liệu của tập dữ liệu LFW (Labeled Faces in the Wild) gồm 1100 cặp ảnh nhãn 1 (cùng một người) và 1100 nhãn 0 (2 người khác nhau).

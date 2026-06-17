@@ -1,1 +1,0 @@
-Hệ thống có các ưu điểm: () dễ dàng mở rộng quy mô, () công cụ phân tích dữ lệu lớn mạnh mẽ, () tạo báo cáo phân tích có mức độ tùy chỉnh/tương tác cao mà không cần quá nhiều kinh nghiệm và công sức xây dựng giao diện.

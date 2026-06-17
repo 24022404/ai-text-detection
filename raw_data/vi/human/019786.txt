@@ -1,1 +1,0 @@
-Tính dễ sử dụng Hệ thống được xây dựng vớ gao vện rõ ràng, gao dện xây dựng theo luồng d chuyển từ tổng quan điện chợ tết, phân chia từng chức năng theo màn hình cụ thể, giúp người dùng có thể dễ dàng thực hiện thao tác trên các chức năng. Ngoài ra, một số chức năng có những chú thích, điểm người dùng hiểu và thực hiện đúng chức năng.

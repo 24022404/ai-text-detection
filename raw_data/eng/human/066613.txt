@@ -1,1 +1,0 @@
-dij=word_segment VnCoreNLP (dij) After that, the word-segmented text is further processed by a Vietnamese Named Entity Recognition model to extract important entities using NER PhoNLP to extract and classify named entities into four categories including LOCATION ,PERSON , ORGANIZATION andMISSCELLANEOUS . Let denote eijbe the list of entities in thejthdocument in the ithcluster.

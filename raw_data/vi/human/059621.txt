@@ -1,1 +1,0 @@
-Kiểm tra điều kiện dừng: Kiểm tra quá trình gán nhãn ở bước Estep có thay đổi so với các lần trước đó hay không. Nếu không có sự thay đổi, thuật toán dừng lại. Ngược lại, quay lại bước EStep và tiếp tục quá trình phân cụm.

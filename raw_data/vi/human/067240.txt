@@ -1,1 +1,0 @@
-Sau khi cà điặt Docker, mở Docker lên và chạy thử 1 contaner điể kểm tra bằng cách mở cửa sổ dòng lệnh và chạy:

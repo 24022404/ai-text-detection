@@ -1,1 +1,0 @@
-Dựa trên ý tưởng như trên, sử dụng thư viện React Intl ta có thể thiết kế đa ngôn ngữ hóa cho hệ thống. Về cơ bản, khi sử dụng các phương thức được cung cấp bởi React Intl, công việc ta cần làm là:

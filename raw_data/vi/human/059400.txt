@@ -1,1 +1,0 @@
-Cần đặt mục tiêu đáp ứng yêu cầu và trải nghiệm của người dùng lên là yếu tố quan trọng nhất chứ không phải số lượng tính năng. Dù hệ thống có nhiều tính năng nhưng nếu không điểm lạ trải nghiệm tốt cho người dùng thì hệ thống cũng không được sử dụng.

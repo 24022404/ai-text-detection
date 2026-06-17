@@ -1,1 +1,0 @@
-The author verifies the provided checksum for validity and confirms the file's presence in the RecentScanResult database.

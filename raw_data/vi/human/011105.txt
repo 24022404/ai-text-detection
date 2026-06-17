@@ -1,1 +1,0 @@
-Node.JS gúp tết kệ thờ gan xử lý file ko cần upload âm thanh hoặc video vì các ứng dụng này không bao giờ dữ liệu tạm thời mà chỉ xuất dữ liệu theo từng phần (chunk) Spring boot là một framework lập trình phía server sử dụng java. Giả thích cho việc sử dụng Spring Boot vì cần tích hợp vớ thư viện Itext  được vết trên java.

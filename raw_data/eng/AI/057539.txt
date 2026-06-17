@@ -1,9 +1,0 @@
-Objective: Scene graph generation aims to represent images as graphs of objects and their relationships, but existing methods struggle with the long-tail distribution and semantic ambiguity of relation labels. This paper investigates how explicit modeling of hierarchical structures among relation labels can improve recognition accuracy and generalization in scene graph generation.
-
-Methods: We first construct a three-level hierarchy of relation categories—from broad predicates (e.g., “on”) to fine-grained descriptors (e.g., “resting on”)—using statistical co-occurrence and semantic similarity. We then embed this hierarchy into a graph neural network (GNN) framework by (1) learning hierarchy-aware relation embeddings, (2) incorporating a multi-level classification loss that penalizes errors more severely at higher semantic levels, and (3) refining message passing between object nodes guided by hierarchy consistency. Our approach requires no additional manual annotations beyond existing datasets.
-
-Results: Experiments on the Visual Genome benchmark demonstrate that hierarchy-aware modeling yields significant gains over state-of-the-art baselines. We observe a 12.3% relative improvement in mean Recall@100 (mR@100) and a 5.7% increase in Recall@50 (R@50) for relation prediction. Ablation studies confirm the effectiveness of both the hierarchical embedding and the multi-level loss.
-
-Conclusion: Introducing hierarchical relation labels enhances scene graph quality by reducing confusion among similar predicates and balancing performance across frequent and rare relations. This approach offers a general strategy for improving graph-based visual reasoning and can be extended to applications such as image retrieval and visual question answering.
-
-Keywords: Scene Graph Generation; Relation Hierarchy; Graph Neural Networks; Hierarchical Embedding; Visual Genome.

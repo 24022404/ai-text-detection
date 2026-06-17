@@ -1,1 +1,0 @@
-The number of 75000 words is not ideal, but still perfectly good for developing our demo system.5.4 Pronunciation recognition and assessment 5.4.1 Problem For every language learner, knowing how to correctly pronounce a word is very important. To compete with other products on the market, an indispensable feature for English learning platforms is pronunciation assessing.

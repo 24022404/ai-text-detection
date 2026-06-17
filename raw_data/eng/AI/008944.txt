@@ -1,1 +1,0 @@
-Permissions are configured to control who can view the portal, send requests, and share requests within a service project. Project permissions are determined by portal-only customer access settings, enabling tailored access levels for different users based on their specific needs.

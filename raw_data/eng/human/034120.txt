@@ -1,1 +1,0 @@
-Zhong Wei, Jan Da, Nang Beng, Haiyan Huang, An optimization method for elasticsearch index shard number . [On]. Avalable:  eee.org/document/9407368 (vsted on 11/30/2020).

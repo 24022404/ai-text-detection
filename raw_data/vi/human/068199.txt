@@ -1,1 +1,0 @@
-Thứ hai, đối và môđun nhận diện cử chỉ tay. Ứng dụng có đầu vào là hình ảnh của người đang giơ tay, và đầu ra là kết quả dự đoán cử chỉ tay đó. Bước đầu, tô xây dựng bộ dữ liệu gồm những cử chỉ tay khác nhau từ những bộ dữ liệu sẵn có.

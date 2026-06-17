@@ -1,1 +1,0 @@
-pre-training and self-attention mechanisms. Unsupervised pre-training empowers the network to generate highly contextualized word and sentence vectors, while self-attention mechanisms establish global dependencies between words, enabling the model to capture the entire input sequence efficiently.

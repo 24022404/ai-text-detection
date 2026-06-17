@@ -1,1 +1,0 @@
-Convolutional Neural Network(CNN) is one of the advanced Deep Learning models. It helps us to build intelligent systems with high accuracy. Currently, CNN is widely used in the problem of recognizing objects in images.

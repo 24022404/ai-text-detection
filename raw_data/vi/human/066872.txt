@@ -1,1 +1,0 @@
-Thông số Gá trị Số fle mã nguồn ở Frontend 31 fle Số fle mã nguồn ở Backend 67 fle Số lượng API điã thết kế 20 API Số dòng code 3000 dòng Dung lượng mã nguồn MB Bảng 4.8: Bảng thông tin hệ thống 4.4.3 Mnh họa các chức năng chính Dướ điây là một và hình ảnh về giao diện chương trình sau khi hoàn thành.

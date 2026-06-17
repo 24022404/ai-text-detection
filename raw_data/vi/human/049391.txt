@@ -1,1 +1,0 @@
-Năm 1994, My SQL được công ty Thụy Đển MySQL AB phát trển. Từ năm 2010 đến nay My SQL được Oracle mua lạ và phát trển . Kể từ khi ra điờ My SQL được các nhà phát trển rất ưa và chuộng sử dụng trong quá trình phát trển ứng dụng của mình.

@@ -1,1 +1,0 @@
-Sau khi hoàn thiện bạn bấm nút xác nhận để hoàn thiện việc tạo món ăn, nếu tạo món ăn thành công màn hình sẽ hển thị thông báo đã thêm món ăn thành công.

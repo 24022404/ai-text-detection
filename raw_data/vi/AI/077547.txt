@@ -1,5 +1,0 @@
-Ứng dụng mô hình sinh địa hóa DNDC để tính toán phát thải khí nhà kính từ hoạt động canh tác lúa nông nghiệp đang trở thành một công cụ quan trọng trong việc đánh giá tác động môi trường của nông nghiệp. Mô hình này sử dụng các phương pháp sinh địa hóa để mô tả quá trình chuyển hóa chất hữu cơ trong đất và phát thải khí nhà kính.
-
-Mô hình DNDC đã được áp dụng rộng rãi trong việc tính toán phát thải khí nhà kính từ các hoạt động nông nghiệp, bao gồm canh tác lúa. Mô hình này có thể mô tả các quá trình chuyển hóa chất hữu cơ trong đất, bao gồm quá trình phân hủy, oxy hóa và khử.
-
-Ứng dụng mô hình DNDC để tính toán phát thải khí nhà kính từ hoạt động canh tác lúa nông nghiệp có thể giúp đánh giá tác động môi trường của nông nghiệp và đưa ra các giải pháp để giảm thiểu phát thải khí nhà kính. Mô hình này cũng có thể giúp các nhà quản lý nông nghiệp đưa ra các quyết định sáng suốt về việc lựa chọn các phương pháp canh tác lúa nông nghiệp có hiệu quả và thân thiện với môi trường.

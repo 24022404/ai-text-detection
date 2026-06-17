@@ -1,1 +1,0 @@
-Kh test không cần phải tạo mockup như MVP và chỉ cần chỉ cần xác nhận bến observable thích hợp.

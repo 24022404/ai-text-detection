@@ -1,1 +1,0 @@
-–Analysis based on information flow: Slither  uses error analysis to detect security vulnerabilities in Solidity source code. It can detect most vulnerabilities related to user input and critical data flows but the testing time is very long. Slither can detect security flaws in seconds or minutes, depending on the size and complexity of the contract.

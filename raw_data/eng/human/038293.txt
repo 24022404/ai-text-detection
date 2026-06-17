@@ -1,1 +1,0 @@
-It creates a new process group gand runs the adb logcat com mand to stream logs for the given package.

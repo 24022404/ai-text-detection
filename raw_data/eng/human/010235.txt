@@ -1,1 +1,0 @@
-Each comment can have multiple photos. Posts and comments can be liked. The system has many destinations, each destination can have many hotels. Users can rate that destination through review scores or comments. The administrator is theperson who manages the normal users, the destination, and the hotels of that desti nation.

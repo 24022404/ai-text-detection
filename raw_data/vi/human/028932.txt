@@ -1,1 +1,0 @@
-Mục đích chính của việc phân loại dữ liệu, cốt là điểm có thể đưa ra những gợi ý nhờ vào dữ liệu, hành vi của người dùng kh người dùng vừa hoàn thành đề th này, có thể ngay lập tức thực hiện điều th khác cùng với chủ đề mà người dùng đang ôn tập.

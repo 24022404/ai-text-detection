@@ -1,1 +1,0 @@
-Chức năng tạo sự kiện Tiền điều kiện: quản trị viên truy cập vào hệ thống và chọn chức năng tạo sự kiện.

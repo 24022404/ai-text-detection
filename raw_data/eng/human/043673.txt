@@ -1,1 +1,0 @@
-Dashboard has great capabilities for emulating the appropriate workflows, for having all issues reported by customers in a centralized place and for enabling the Helpdesk team to effectively manage and respond to these issues.

@@ -1,1 +1,0 @@
-Bước 4: Đánh giá Để đánh giá tính đúng đắn của việc áp dụng thuật toán này, ta có thể dựa vào việc sản phẩm trong tập test của một customer có xuất hiện trong danh sách gợi ý sản phẩm cho customer đó. Danh sách gợi ý sản phẩm được tập hợp bở top sản phẩm tương tự với các sản phẩm có trong tập trận của customer đó.

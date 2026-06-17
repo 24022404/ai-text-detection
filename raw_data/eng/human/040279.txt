@@ -1,1 +1,0 @@
-Field Type Required Description rows Vec<Binary> yes The shares given to eachparticipant in the DKG pro tocol in order to construct their final share for encKey.

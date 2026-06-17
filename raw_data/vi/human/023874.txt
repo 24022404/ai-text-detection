@@ -1,1 +1,0 @@
-Đồ án này đã sử dụng phương pháp xây dựng dữ liệu và kiểm thử cho kịch bản lỗ hổng SQL Time Based Injection như sau:

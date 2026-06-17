@@ -1,1 +1,0 @@
-Vớ phương pháp truyền tải thông qua máy chủ trung gian, một trong những ưu điểm của phương pháp này là mỗ người chỉ cần tạo một thiết lập tới máy chủ.

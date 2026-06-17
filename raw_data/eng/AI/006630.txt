@@ -1,1 +1,0 @@
-Keys and addresses are fundamental in blockchain, as they serve crucial roles in identifying users and ensuring the security of transactions in cryptocurrencies.

@@ -1,1 +1,0 @@
-0Nguồn:  sherXL6lAgjRKeknpm nstall Thao tác cuối cùng ở bước 1 là cài đặt 2 thư viện javascript cần thiết cho việc xử lý sự kiện thờ gan thực đó là Laravel Echo Pusher JS :

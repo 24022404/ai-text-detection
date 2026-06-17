@@ -1,5 +1,0 @@
-Nghiên cứu mới đây đã tập trung vào ảnh hưởng của nồng độ Ce lên cấu trúc và tính chất quang của vật liệu nano ZnO chế tạo bằng phương pháp sol-gel. Kết quả cho thấy rằng sự thay đổi nồng độ Ce có thể ảnh hưởng đáng kể đến cấu trúc và tính chất quang của vật liệu nano ZnO.
-
-Khi nồng độ Ce tăng, cấu trúc của vật liệu nano ZnO cũng thay đổi, từ đó ảnh hưởng đến tính chất quang của vật liệu. Cụ thể, vật liệu nano ZnO có nồng độ Ce cao hơn có thể có độ hấp thụ ánh sáng cao hơn, đồng thời cũng có thể có khả năng phát sáng mạnh hơn.
-
-Nghiên cứu này cũng cho thấy rằng vật liệu nano ZnO có nồng độ Ce phù hợp có thể được sử dụng trong các ứng dụng như cảm biến quang học, thiết bị phát sáng và các ứng dụng khác liên quan đến quang học. Kết quả này có thể mở ra hướng nghiên cứu mới về việc chế tạo vật liệu nano ZnO có tính chất quang tốt hơn bằng cách điều chỉnh nồng độ Ce.

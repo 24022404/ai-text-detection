@@ -1,1 +1,0 @@
-Kỹ thuật kiểm thử được sử dụng là kiểm thử hộp đen ca, Kiểm thử chức năng thêm tài khoản Điều kiện kích hoạt: Người dùng click button thêm tài khoản Điều kiện thỏa mãn:

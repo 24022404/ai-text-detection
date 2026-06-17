@@ -1,1 +1,0 @@
-The website is built according to the MVC model and uses the MongoDB databasemanagement system. Currently the website is deployed in the Google Cloud Plat form and anyone with internet access can see the website.

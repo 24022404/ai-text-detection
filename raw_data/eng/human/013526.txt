@@ -1,1 +1,0 @@
-With the addition of generic classes, our system has become entity-centric. A new business flow can be built by simply extending and overwriting the methods of base classes.

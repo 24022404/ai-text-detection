@@ -1,1 +1,0 @@
-Improved maintainability and flexibility: Using DTO can help make an appli cation more flexible and maintainable by reducing dependencies between different layers, making it easier to update and modify the application. This also allows for greater code reusability, which can save time and effort in the long run.

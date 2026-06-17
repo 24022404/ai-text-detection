@@ -1,1 +1,0 @@
-In constructing the domain classification component 3.3, I employ a variant of BERT known as DistillBERT . DistillBERT is a condensed version of theoriginal BERT model, designed to be smaller, faster, more cost-effective, and light weight while still retaining a substantial portion of BERT’s performance capabilities.

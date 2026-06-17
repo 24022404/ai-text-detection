@@ -1,1 +1,0 @@
-The project’s unique feature, the creation of the recommender system, is presented in Chapter 4. Obtaining data from another database, processing, cleaning, and arranging data, and finally creating three recommended functions: Matrix factorization, collaborative item-item filtering, and content-based Filtering by collaboration and the outcomes.

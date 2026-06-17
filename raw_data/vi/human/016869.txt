@@ -1,1 +1,0 @@
-Từ bảng 4.3 và bảng 4.2 ta nhận thấy thờ gan huấn luyện và thờ gan thử nghiệm của mô hình sử dụng SVM nhanh hơn so với mô hình bằng PhoBERT.

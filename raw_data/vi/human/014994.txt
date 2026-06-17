@@ -1,1 +1,0 @@
-Ngườ dùng ấn vào bểu tượng gỏ hàng 2.2. Ngườ dùng ấn vào 2 bểu tượng (+) hoặc () điể tăng gảm số lượng món ăn 2.3. Hệ thống cập nhật và hển thị trên giao diện 3. Xóa món ăn trong gỏ hàng:

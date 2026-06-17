@@ -1,1 +1,0 @@
-Nhờ những đặc điểm trên, REST API trở thành một kiểu API phổ biến và được sử dụng rộng rãi trong lĩnh vực phát triển web.

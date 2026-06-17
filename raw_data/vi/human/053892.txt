@@ -1,1 +1,0 @@
-Các hành động tích hợp sẵn của OutSystems: Các hành động được xác định bởi nền tảng và không thể sửa đổi hoặc kiểm tra. Bạn có thể sử dụng chúng trong các luồng hành động của mình, chẳng hạn như hành động thực thể, hành động hệ thống hoặc hành động và trò.

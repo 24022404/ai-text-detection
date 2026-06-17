@@ -1,1 +1,0 @@
-In this thesis, we design and build a web application for users to teach and learn English. Our web application features word games, dictionary, flashcards, lessons and exercises; administration.

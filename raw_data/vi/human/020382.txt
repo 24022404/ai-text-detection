@@ -1,1 +1,0 @@
-Cấu hình email nhận Tính năng cho phép người dùng có thể thay đổi cấu hình emal điã điược thết lập nhằm khắc phục tình trạng người sử dụng không thể tùy chỉnh được thông tin email nhận phản hồi do Laravel lưu cứng thông tin trong file config của ứng dụng.

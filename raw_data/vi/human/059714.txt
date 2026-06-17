@@ -1,1 +1,0 @@
-Quản lý đơn đặt hàng: xem, xác nhận đơn đi ặt hàng, xóa đơn đi ặt hàng 2.2.2.  Yêu cầu chức năng − Đối với ban quản trị:

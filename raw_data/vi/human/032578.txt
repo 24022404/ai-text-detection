@@ -1,1 +1,0 @@
-MEAN là một công nghệ đang được sử dụng phổ biến điểm xây dựng các ứng dụng hiện nay. Tên của MARN được tạo ra từ viết tắt của các công nghệ chính được sử dụng trong đó, bao gồm:

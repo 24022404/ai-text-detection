@@ -1,9 +1,0 @@
-The aim of this study is to develop comprehensive datasets for the advancement of sheep identity recognition, age estimation, and weight estimation, which are essential challenges in the field of precision livestock farming. 
-
-Methods/Approach: We have curated three interconnected datasets that leverage state-of-the-art image processing and machine learning techniques. The identity recognition dataset comprises high-quality images collected using infrared and RGB cameras, capturing unique biometric features. For age and weight estimation, we employ regression models trained on a diverse set of parameters derived from the visual features of the sheep. The datasets have been annotated meticulously to enhance the accuracy and reliability of the predictive models. 
-
-Results/Findings: Initial tests demonstrate that these datasets significantly improve the accuracy of sheep identification models, achieving a recognition rate exceeding previous benchmarks. Additionally, the age and weight estimation models show substantial promise, with mean absolute errors well within acceptable ranges for practical applications. Comparisons with existing methods underscore the superior performance of our approach in terms of speed, accuracy, and scalability.
-
-Conclusion/Implications: The introduction of these datasets provides valuable resources for researchers and practitioners seeking to enhance automated livestock management systems. By integrating more refined data features and leveraging advanced analytical techniques, this work contributes to more efficient livestock monitoring and management strategies. The datasets are publicly available, facilitating further research and development in the domain of animal husbandry technologies.
-
-Keywords: sheep recognition, age estimation, weight estimation, precision livestock farming, biometric datasets, machine learning, animal husbandry innovation.

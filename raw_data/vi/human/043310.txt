@@ -1,1 +1,0 @@
-Environment Môi trường chịu trách nhiệm chính trong việc diễn giả ngữ cảnh trong thông điệp của người dùng bằng cách sử dụng xử lý ngôn ngữ tự nhiên (NLP).

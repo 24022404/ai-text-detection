@@ -1,1 +1,0 @@
-In a generic Use Case diagram, actors are represented by shapes such as circles or rectangles, while use cases are represented by shapes such as ovals or rectangles with edges. rounded. The relationship between actors and use cases is shown by arrows .

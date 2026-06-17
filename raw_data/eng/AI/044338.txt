@@ -1,9 +1,0 @@
-Objective: Unsupervised many-to-many image translation models aim to map images across multiple domains without paired data, yet evaluating the correctness of these translations remains an open challenge. This paper introduces a comprehensive framework to assess how accurately such models preserve semantic content, style attributes, and inter-domain consistency.  
-
-Methods: We propose three complementary evaluation metrics: (1) Semantic Consistency Score, based on feature-level similarity between input and translated images; (2) Domain Classification Accuracy, measuring how well a trained classifier recognizes the target domain; and (3) Perceptual Distance Index, which quantifies visual fidelity using a pretrained perceptual network. We further create a diverse benchmark dataset spanning facial attributes, artistic styles, and seasonal scenes, each with pseudo–ground-truth annotations for objective validation.  
-
-Results: We apply our framework to several state-of-the-art many-to-many translators, including StarGAN variants and emerging attention-based architectures. Our metrics demonstrate strong correlation (Pearson’s r > 0.85) with human judgments of correctness, outperforming existing unsupervised evaluation methods such as Fréchet Inception Distance (FID) and Inception Score (IS). Ablation studies show that combining semantic and perceptual measures yields the most robust assessment across all translation tasks.  
-
-Conclusion: The proposed evaluation framework offers a principled, automated approach for quantifying correctness in unsupervised many-to-many image translation. By providing reliable, domain-agnostic metrics and a standard benchmark, our work facilitates fairer comparisons among models and guides future improvements in architecture design and training strategies.  
-
-Keywords: Unsupervised Image Translation; Many-to-Many Mapping; Correctness Evaluation; Benchmark Metrics; Semantic Consistency; Perceptual Fidelity.

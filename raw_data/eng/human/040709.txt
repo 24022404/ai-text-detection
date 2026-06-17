@@ -1,1 +1,0 @@
-Themalware_check method reads a list of known malware do mains and compares it with the domains extracted from the URLs.

@@ -1,1 +1,0 @@
-Nhân viên quản lý cửa hàng: Vai trò của nhân viên lý chuỗi cửa hàng thực hiện các chức năng, quản lý danh sách cửa hàng, quản lý danh mục sản phẩm, quản lý sản phẩm, quản lý đơn hàng, thực hiện bán hàng.

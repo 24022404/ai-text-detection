@@ -1,1 +1,0 @@
-Tiếp điện, dựa trên thông tin đội ngũ phát triển phần mềm cung cấp, người quản trị hay nhân viên quản lý dự án sẽ lập kế hoạch để xử lý đồng thờ cập nhật chính xác tiến độ cũng như thông tin của dự án đó. vì thế bài toán quản lý dự án cũng sẽ cần được triển khai dựa trên thêm, sửa, cập nhật và xóa (CRUD  Create, Read, Update, Delete).

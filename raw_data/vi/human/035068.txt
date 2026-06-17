@@ -1,1 +1,0 @@
-Dễ dàng kểm tra: dễ dàng hơn trong vệc kểm tra, rà soát lỗ do các controller điược phân tách một cách điộc lập.

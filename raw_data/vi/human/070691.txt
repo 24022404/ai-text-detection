@@ -1,1 +1,0 @@
-Vớ những khả năng nên trên, em đã sử dụng Mno làm server lưu trữ và truy xuất dữ lệu người dùng.

@@ -1,1 +1,0 @@
-Thanh toán: Khi đã quyết định chắc chắn sẽ mua sản phẩm, khách hàng có thể chọn chức năng thanh toán để xác nhận đơn hàng mình muốn mua. Khách hàng cần nhập thông tin giao hàng và lựa chọn hình thức thanh toán.

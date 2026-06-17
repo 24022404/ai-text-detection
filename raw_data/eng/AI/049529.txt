@@ -1,1 +1,0 @@
-A de Bruijn sequence of order k is a binary sequence that includes every possible substring of length k exactly once, ensuring no repetitions.

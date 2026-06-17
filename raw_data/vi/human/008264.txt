@@ -1,1 +1,0 @@
-Đều này mang lại cho nó một số lợi thế so với các cơ sở dữ liệu SQL mã nguồn mở khác như MySQL, MariaDB và Freebsd. PostgreSQL đi kèm với nhiều tính năng nhằm giúp các nhà phát triển xây dựng ứng dụng, quản trị viên để bảo vệ tính toàn vẹn của dữ liệu và xây dựng môi trường chịu lỗ.

@@ -1,1 +1,0 @@
-The system will work on any Web browser User-friendly interface, easy to use Fast data retrieval, good data storage capacity Quick and convenient search High security Easy to expand to add new featuresIn this chapter, I present about the technologies used in the project, the reasons for their use, their advantages and disadvantages.

@@ -1,1 +1,0 @@
-Tính module và khả năng mở rộngMột trong những tính năng quan trọng của Magento là tính mô điun (module based). Các môđiun là các thành phần phần mềm điộc lập có thể điược cà điặt và gỡ bỏ từ hệ thống Magento mà không ảnh hưởng đến các phần khác của hệ thống.

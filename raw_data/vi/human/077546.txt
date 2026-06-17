@@ -1,1 +1,0 @@
-Tả về PHP sau đó di chuyển tới thư mục Program File trong phân vùng ổ C:/.  Sao chép đường dẫn của PHP thêm vào mục Patch của Environment Variables… Tải và cài đặt Composer.

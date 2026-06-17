@@ -1,1 +1,0 @@
-thì mô hình điểm lại kết quả không quá cao, thậm chí địa số sẽ không nhận diện được hoặc nhận diện ra các đối tượng biển báo hai đèn tín hiệu.

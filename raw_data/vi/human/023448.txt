@@ -1,1 +1,0 @@
-Cà điặt framework Laravel ✔Thông qua Laravel Installer : Chúng ta mở Termnal (CMD hoặc Gt Bash), gõ dòng lệnh sau: “composer global requre “laravel/nstaller”.

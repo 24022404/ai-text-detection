@@ -1,1 +1,0 @@
-Đơn vị kinh doanh, hộ gia đình vừa và nhỏ kinh doanh thiết bị mạng có thể trực tiếp sử dụng website như một hệ thống lưu hành nội bộ. Chuyên viên có thể thực hiện các quy trình nghiệp vụ như: Quản lý sản phẩm, quản lý loại sản phẩm, danh mục sản phẩm, quản lý hóa đơn, quản lý khách hàng.

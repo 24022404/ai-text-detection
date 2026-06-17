@@ -1,1 +1,0 @@
-Góp: chứa các API để gọi tớ server và thực hiện các thao tác như lấy dữ liệu, chỉnh sửa dữ liệu.

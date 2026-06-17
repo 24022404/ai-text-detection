@@ -1,1 +1,0 @@
-As part of my graduation project, I have developed the basic functions of an employee management system. However, to improve user experience and ease the workload of administrators, I plan to upgrade the system further. Specifically, I will focus on enhancing user interaction features such as product warranty, bill payment, and a mobile application version for more accessibility.

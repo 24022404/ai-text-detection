@@ -1,1 +1,0 @@
-Problem solving There are three methods: filtering, sorting, and paginating and I create an APIfeatures constructor that takes query and data of product as input.

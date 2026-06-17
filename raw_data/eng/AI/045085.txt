@@ -1,1 +1,0 @@
-Currently, only NVIDIA GPUs are supported, and full language support is restricted to Python. This limitation is a drawback, especially as the use of diverse languages like Lau is increasing in deep learning applications and research.

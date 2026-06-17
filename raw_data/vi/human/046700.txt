@@ -1,1 +1,0 @@
-Bài báo trình bày kết quả nghiên cứu ứng dụng các giải pháp tính kết cấu dạng sàn rỗng vào việc tính kết cấu công trình trong đất chịu tác dụng tải trọng sóng nén . Qua đó đề xuất phương pháp tính theo dạng quy đổi về sàn phẳng tương đương có tin cậy, đảm bảo an toàn cho công trình, thuận tiện trong tính toán.

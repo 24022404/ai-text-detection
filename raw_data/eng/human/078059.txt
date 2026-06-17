@@ -1,1 +1,0 @@
-My working is based on image analysis, and I might expect models to be more robust and stronger compared to opcode based model or similar statistical features which are common in malware research.

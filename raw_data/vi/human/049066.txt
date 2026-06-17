@@ -1,1 +1,0 @@
-Thiết kế tổng quan hệ thống Với các yêu cầu về chức năng kể trên, nền tảng dữ lệu khách hàng sẽ được chia thành hai phân hệ chính:

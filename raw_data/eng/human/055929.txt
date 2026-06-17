@@ -1,1 +1,0 @@
-Easy integration: OpenCV provides APIs for several programming languages, mak ing it easy to integrate with existing software and systems.

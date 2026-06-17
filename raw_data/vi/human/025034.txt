@@ -1,1 +1,0 @@
-Phân rã use case "Quản lý tài khoản" Hình 2.6: Phân rã use case "Quản lý tài khoản" Use case này được sử dụng bởi quản trị viên sau khi đăng nhập thành công.

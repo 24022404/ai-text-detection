@@ -1,1 +1,0 @@
-Use case Tạo Blog UC ID and Name: UC8 Tạo Blog Tác nhân: Moderator, User, Admn Mô tả: Ngườ dùng nhấp chọn "Blog" trên thanh menu và nhấp vào "Tạo Blog".Dùng kh: Ngườ dùng muốn chia sẻ Blog, những thông tin hữu ích lên hệ thống.

@@ -1,1 +1,0 @@
-Preconditions : The file to be deleted must exist in the recent scans list, and the user must have the necessary permissions.

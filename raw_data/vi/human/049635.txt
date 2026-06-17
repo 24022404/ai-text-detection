@@ -1,1 +1,0 @@
-Spark SQL Spark SQL là một môđun Spark điểm xử lý dữ lệu có cấu trúc. Không giống như API Spark RDD cơ bản, các interface được cung cấp bởi Spark SQL cung cấp cho Spark nhiều thông tin hơn về cấu trúc của cả dữ lệu và tính toán đang được thực hiện. Bên trong, Spark SQL sử dụng thông tin bổ sung này để thực hiện các tố ưu hóa bổ sung.

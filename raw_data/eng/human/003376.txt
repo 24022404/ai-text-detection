@@ -1,1 +1,0 @@
-the extensive runtime and the limited application scope due to a static dataset. Rec ognizing the need for optimization and real-time data integration, I embarked on a comprehensive exploration to address these hurdles.

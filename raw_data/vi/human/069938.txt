@@ -1,1 +1,0 @@
-View không chứa dữ lệu mà chỉ cung cấp các phương thức, thuộc tính có tính hiển thị dữ lệu. Về chỉ giao tiếp với ViewModel.

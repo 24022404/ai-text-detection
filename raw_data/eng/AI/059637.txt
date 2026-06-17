@@ -1,1 +1,0 @@
-The tester attempts to trigger known exported activities through intents, aiming to discover any that could potentially lead to unexpected behavior or security vulnerabilities within the application.

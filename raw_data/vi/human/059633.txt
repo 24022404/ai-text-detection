@@ -1,1 +1,0 @@
-Kết quả thu được sẽ tổng hợp theo các lớp tích cực (positive), trung bình (neutral), tiêu cực (negative). Cuối cùng là đưa ra đánh giá.3.2 Mô hình đánh giá bằng PoBERT Kiến trúc PoBERT như một mạng xương sống với một số sửa đổi. Đầu ra của mỗ khố Transformer thể hiện một mức ngữ nghĩa khác nhau cho các đầu vào.

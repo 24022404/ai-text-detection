@@ -1,9 +1,0 @@
-This paper addresses the challenge of efficiently classifying big data by introducing a novel method that enhances traditional decision tree algorithms. The primary aim is to improve the accuracy and processing speed when dealing with large-scale datasets.
-
-Methods/Approach: We propose an Augmented Decision Tree (ADT) approach that incorporates advanced feature selection and parallel processing techniques. This method optimizes the decision tree structure to handle vast volumes of data effectively. The ADT approach integrates data preprocessing, enhanced node splitting criteria, and parallel computing to expedite processing. Comparative analyses with standard decision tree models and other machine learning classifiers are conducted to underscore improvements.
-
-Results/Findings: The proposed ADT model demonstrates significantly improved classification accuracy and reduced processing time compared to classical decision tree approaches. Experiments on publicly available big data benchmarks illustrate a reduction in computational complexity by at least 30% while maintaining or improving accuracy rates. Additionally, ADT shows better scalability and resilience when applied to diverse datasets.
-
-Conclusion/Implications: The Augmented Decision Tree approach presents a robust alternative for big data classification, offering substantial enhancements over conventional methods in terms of efficiency and performance. This research contributes to the field by providing a scalable solution that can be applied in real-world big data environments, such as healthcare analytics, financial forecasting, and large-scale IoT data processing. Future work could explore further optimizations and adaptations of the ADT for specific big data applications.
-
-Keywords: big data, classification, decision trees, augmented decision trees, parallel processing, machine learning, scalability.

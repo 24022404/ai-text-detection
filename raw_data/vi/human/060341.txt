@@ -1,1 +1,0 @@
-Kết quả đạt được Đáp ứng những yêu cầu về thống kê kết quả bán hàng của cửa hàng, ĐATN điã hển thị và cung cấp điược chức năng “Thống kê” bao gồm các chức năng giúp cung cấp các thông tin sau:

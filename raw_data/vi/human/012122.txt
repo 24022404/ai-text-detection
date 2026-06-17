@@ -1,1 +1,0 @@
-– Cập nhật DAG mớ vào Arflow Vớ nộ dung file DAG hoàn tất, việc còn lạ là cập nhật nộ dung mớ cho DAG hiện đang chạy trên Arflow. Như đã điề cập ở phần trên, Rest API của Arflow hiện chưa hỗ trợ thao tác cập nhật mã nguồn của DAG. Để thực hiện cập nhật nộ dung DAG, tô thực hiện xóa DAG đang có và tạo một DAG mớ thông qua việc gh file mớ vào folder "dags" của Arflow.

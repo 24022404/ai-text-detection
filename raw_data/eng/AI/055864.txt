@@ -1,1 +1,0 @@
-The user selects a previously analyzed file from the recent scans list, allowing for additional actions such as rescanning the file or downloading it again as needed.

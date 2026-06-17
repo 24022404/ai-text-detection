@@ -1,1 +1,0 @@
-O. Ronneberg, P. Fischer, and T. Brox, “Unet: Convolutional networks for biomedical image segmentation,” n International Conference on Medical image computing and computer based intervention , Springer, 2015, pp. 234–241.

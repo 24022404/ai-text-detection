@@ -1,1 +1,0 @@
-Chức năng quản lý danh mục sản phẩm Bảng 4.9: Kiểm thử chức năng quản lý danh mục sản phẩm Test case Quy trình thực hiện  Kết quả mong đợi  Kết quả đạt được  Trạng thái TC01 1. Đăng nhập tài khoản quản trị viên.

@@ -1,1 +1,0 @@
-Good Precision: The model is particularly good at classifying zeroaccess, win websec, vundo, fakerean, cycbot, and adload with very few misclassifications.

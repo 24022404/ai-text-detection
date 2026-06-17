@@ -1,1 +1,0 @@
-Trong quá trình thi công, do thiếu kinh nghiệm và tay nghề nên phần cứng chưa được đẹp.Hình 4.9: Phần cứng sau khi được thi công 4.3.3 Minh họa các chức năng chính Từ màn hình ban điầu như hình 4.3, ta bắt điầu sử dụng ứng dụng bằng cách ấn vào nút "+" để thêm cấu hình thiết bị mở. Màn hình sẽ yêu cầu ta nhập vào tên phòng đặt thiết bị cần điều khiển.

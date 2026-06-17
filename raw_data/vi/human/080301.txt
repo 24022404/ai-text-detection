@@ -1,1 +1,0 @@
-Để phù hợp với xu hướng hiện nay, mỗ cửa hàng kinh doanh thiết bị mạng điều cần có một hệ thống website bán hàng trực tuyến của mình. Việc bán hàng cho cửa hàng. Do đó, em đã xây dựng “Hệ thống website kinh doanh thiết bị mạng” cho mô hình kinh doanh hộ gia đình, vừa và nhỏ .

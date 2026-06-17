@@ -1,1 +1,0 @@
-Các thông tin này sẽ được lưu lại dưới dạng một bộ dữ liệu, khi số lượng đủ lớn, ta tiến hành lấy mẫu các thông tin từ đây theo từng bước thờ gan để sử dụng cho việc cập nhập mô hình.

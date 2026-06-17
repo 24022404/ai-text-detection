@@ -1,1 +1,0 @@
-To proceed with the booking, the system first checks if the customer is logged in and then presents them with a booking page to choose the available time range and location for the service. Once the customer completes these steps, they move on to the transaction process. The booking process only concludes successfully when the transaction is completed.

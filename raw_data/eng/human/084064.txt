@@ -1,1 +1,0 @@
-Once the weights for each floor have been calculated, the code uses the Floyd Warshall algorithm to calculate the shortest route and next steps for each floor.

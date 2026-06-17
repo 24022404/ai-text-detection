@@ -1,1 +1,0 @@
-This chapter will analyze the requirements for the ARNav app, including the user requirements, functional re quirements, and non-functional requirements. It will also provide a detaileddescription of the design constraints and trade-offs involved in the develop ment of the ARNav app.

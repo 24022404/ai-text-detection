@@ -1,9 +1,0 @@
-Objective: Accurate and efficient semantic segmentation of LiDAR point clouds is critical for autonomous driving and robotic perception, yet existing methods often struggle with sparse data interpolation and boundary precision. This paper introduces FIDNet, a novel neural architecture that leverages fully interpolation decoding to achieve dense, high-fidelity label predictions across irregular 3D scans.
-
-Methods: FIDNet employs a multi-scale sparse convolution encoder to extract contextual features from raw point clouds. In the decoder stage, we replace traditional upsampling modules with an interpolation-based mechanism that projects coarse features onto finer spatial resolutions via trilinear interpolation. A Feature Interpolation Dilator (FID) module then fuses interpolated features with skip-connected encoder outputs, enriching local detail while preserving global context. This end-to-end pipeline requires no handcrafted post-processing or voxel-to-point conversion.
-
-Results: Extensive experiments on benchmark datasets (SemanticKITTI, nuScenes) demonstrate that FIDNet achieves state-of-the-art performance, yielding a mean Intersection-over-Union (mIoU) improvement of up to 5% over leading baselines. Our model processes full LiDAR sweeps at real-time speeds (25 FPS) on a single GPU, and significantly reduces boundary artifacts in thin structures and distant objects.
-
-Conclusion: By integrating fully interpolation decoding with sparse feature extraction, FIDNet bridges the gap between sparse LiDAR measurements and dense semantic maps. Its lightweight design and superior accuracy make it well suited for real-world autonomous navigation, mapping, and robotics applications.
-
-Keywords: LiDAR, point cloud, semantic segmentation, interpolation decoding, sparse convolution, FIDNet.

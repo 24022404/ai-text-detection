@@ -1,1 +1,0 @@
-Hệ thống Hiển thị hình ảnh lấy từ camera và chia sẻ cho những người trong phòng, chia sẻ âm thanh từ micro của bạn cho những người trong phòng.

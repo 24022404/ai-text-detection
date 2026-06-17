@@ -1,1 +1,0 @@
-Scalability and Cloud Integration : Extending the framework to support distributed and scalable analysis in the cloud would allow handling larger work loads and improving processing speeds.

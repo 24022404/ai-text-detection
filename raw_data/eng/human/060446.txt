@@ -1,1 +1,0 @@
-On the booking screen, the user selects the desired location and date/time for theappointment. After making these selections, the user clicks the "Proceed to Pay ment" button to initiate the transaction process. The app then updates the controller to register the new appointment.

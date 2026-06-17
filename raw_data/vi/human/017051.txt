@@ -1,1 +1,0 @@
-Học ít lần(Few Shot Learning) : Trong học ít lần, mô hình được huấn luyện để hiểu các khái niệm mới với chỉ một và ví dụ huấn luyện. Nó thường liên quan đến một giai đoạn học meta, nơ mô hình học cách học từ một số lượng lớn nhiệm vụ, mỗ nhiệm vụ điều có bộ huấn luyện nhỏ của riêng nó.

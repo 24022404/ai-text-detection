@@ -1,1 +1,0 @@
-Routes, Controllers, Services, Models. Ngoài ra còn có ha công cụ bên thứ ba là Aspose Cloud và Google Cloud. Phần tính năng là nơ xử lý request từ client gửi đến.

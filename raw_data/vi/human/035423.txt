@@ -1,1 +1,0 @@
-Bài toán Trang web được sử dụng với mục đích kinh doanh nên việc nắm bắt sở thích, thói quen của người dùng là một việc cần thiết. Dựa trên các sở thích, thói quen đó mà ta có thể gợi ý những sản phẩm mà người dùng quan tâm, mong muốn từ đó có thể tăng doanh số bán hàng, tăng thu nhập cho cửa hàng.

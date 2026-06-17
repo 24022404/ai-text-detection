@@ -1,1 +1,0 @@
-Chúng ta đã chuẩn bị được dữ lệu điầu vào và xác định điầu ra mong muốn của bước phân tích. Tiếp theo, chúng ta cần định nghĩa các bài toán phân tích, đưa ra cách giải quyết, sau đó viết chương trình sử dụng mã Spark (Java) để giải quyết các vấn đề đó.

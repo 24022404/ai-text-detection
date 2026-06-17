@@ -1,1 +1,0 @@
-Đền sa định dạng số điện thoạ 5. Ấn nút điặt hàng.Hển thị giao diện tươngứng các bước: Gỏ hàng  Đền thông tin  Đặt hàng.

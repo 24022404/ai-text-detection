@@ -1,1 +1,0 @@
-Khả năng mở rộng : PostgreSQL có khả năng mở rộng cao, bao gồm hỗ trợ nhều ngôn ngữ thủ tục (PL/PGSQL, Perl, Python), trình wrapper dữ lệu ngoài và nhều tện ích mở rộng bổ sung như PostGIS.

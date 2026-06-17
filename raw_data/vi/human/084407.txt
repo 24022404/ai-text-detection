@@ -1,1 +1,0 @@
-Dữ liệu có cấu trúc: MySQL lưu trữ dữ liệu dưới dạng các bảng có cấu trúc, trong đó mỗi hàng của bảng tương ứng với một bản ghi và mỗ cột chứa một loại dữ liệu cụ thể.

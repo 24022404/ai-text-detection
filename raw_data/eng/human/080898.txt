@@ -1,1 +1,0 @@
-Predictive Analysis with LSTM Model: By incorporating a Long Short-TermMemory (LSTM) model, I have elevated the application’s capabilities by offering users predictive insights into potential future price movements of cryp tocurrencies.

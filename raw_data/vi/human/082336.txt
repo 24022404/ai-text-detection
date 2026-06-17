@@ -1,1 +1,0 @@
-Mỗ bến đỗ tổng quát này có thể giúp mô hình học cách nhận diện khuôn mặt dưới các điều kiện và góc độ khác nhau, từ đó cải thiện hiệu suất và sự mạnh mẽ của nó.

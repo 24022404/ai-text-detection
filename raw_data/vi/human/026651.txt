@@ -1,1 +1,0 @@
-Phân rã use case "Tìm kiếm sản phẩm" Hình 2.8: Phân rã use case "Tìm kiếm sản phẩm" Use case này được sử dụng bởi bất kì a kh truy cập vào hệ thống. Họ có thể tìm kiếm các sản phẩm theo màu sắc, gái tên...2.2.9 Phân rã use case "Mua hàng" Hình 2.9: Phân rã use case "Mua hàng" Use case này được sử dụng bởi người mua hàng sau khi đăng nhập thành công.

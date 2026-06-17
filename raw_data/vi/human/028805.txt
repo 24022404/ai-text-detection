@@ -1,1 +1,0 @@
-Hàm kích hoạt tuyến tính (Linear Activation Function) Hàm kích hoạt nhị phân (Binary Step Function) Hàm kích hoạt phi tuyến (nonLinear Activation Function) Hàm kích hoạt tuyến tính: là một hàm có dạng f(x) = cx. hàm này sử dụng tích số giữa đầu vào và trọng số của mỗi nơron và tạo ra một tín hiệu đầu ra tỉ lệ với đầu vào. Nhược điểm của hàm tuyến tính gồm 2 vấn đề:

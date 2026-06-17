@@ -1,1 +1,0 @@
-Nhìn chung, những cả tến trên điã chỉ ra điược một số vấn điề với việc áp dụng mô hình UNETR trên bộ dữ liệu PolypGen2021. Tuy nhên, chưa trường hợp nào cho thấy được chất lượng của mô hình.

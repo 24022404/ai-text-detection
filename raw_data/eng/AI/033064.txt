@@ -1,9 +1,0 @@
-This paper addresses the problem of decision-making in environments characterized by feedback graphs and switching costs. In such settings, an agent receives rewards and feedback only from a subset of potential actions, governed by a directed feedback graph. The challenge is to optimize action selection while minimizing costs incurred when switching between actions.
-
-Methods/Approach: We propose a novel algorithm that effectively navigates the complexities introduced by feedback graphs and switching costs. Our approach integrates exploration-exploitation strategies typical of bandit problems with techniques that account for feedback graph structures. We designed a mechanism that ensures cost-efficient adaptation to changing graph dynamics while maintaining performance guarantees.
-
-Results/Findings: Through extensive simulations and theoretical analysis, the proposed algorithm demonstrates superior performance in reducing cumulative regret and switching costs compared to existing methods. Our findings highlight the efficiency of feedback graph insights in significantly mitigating the trade-offs between exploration and exploitation, even in dynamic environments.
-
-Conclusion/Implications: This research contributes a robust framework for understanding and addressing the intertwined challenges of feedback graphs and switching costs in bandit problems. The implications extend to practical applications like recommendation systems and adaptive control, where such constraints are prevalent. Our work not only advances theoretical knowledge but also lays the groundwork for future endeavors in complex decision-making problems involving structured feedback.
-
-Keywords: Bandits, feedback graphs, switching costs, exploration-exploitation, cumulative regret, adaptive decision-making.

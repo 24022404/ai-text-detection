@@ -1,1 +1,0 @@
-Output: The analysis concludes by logging the successful completion of the permission review and generating a detailed report that includes:–The list of risky permissions identified.

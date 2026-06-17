@@ -1,1 +1,0 @@
-Chính từ những vấn đề nêu trên, em đã xây dựng trong hệ thống cửa mình một cơ chế điểm tập hợp, nâng cao tính xác thực của những bà review.

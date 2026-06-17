@@ -1,1 +1,0 @@
-After that, we must deploy a service. Services provide a single point of access to a set of Pods. While it’s possible to access a single Pod, Pods are ephemeral and can only be accessed reliably by using a Service address. In the app, the Service defines a load balancer to access the Pods from a single IP address. This service is defined in the service.yaml file.

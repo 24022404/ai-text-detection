@@ -1,1 +1,0 @@
-Web3Auth is not yet widely adopted by dapps, so users may not be able to use their Web3Auth keys on all of the dapps that they want to use. This is because the platform is still relatively new, and it is not yet as widely integrated with dapps as other platforms, such as MetaMask.

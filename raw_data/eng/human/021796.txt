@@ -1,1 +1,0 @@
-x[user_id][book_id] takes value of 1 if rating of user vs user_id for book with book_id in test set, 0 if in train set.

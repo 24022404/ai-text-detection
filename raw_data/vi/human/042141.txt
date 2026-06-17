@@ -1,1 +1,0 @@
-Một trong những ưu điểm nổi bật của extJS là tính năng SSR (serverside rendering  kết xuất đồ họa phía máy chủ), cho phép ứng dụng được render trên server trước khi được trả về cho client. Việc sử dụng SSR giúp giảm thờ gan tả trạng và cải thiện trải nghiệm người dùng bằng cách đưa ra nội dung nhanh hơn và tăng tính tương tác của ứng dụng.

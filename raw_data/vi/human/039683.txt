@@ -1,1 +1,0 @@
-Chính vì vậy, khi người dùng khở tạo điơn hàng, bên backend điã phân loạ tự điộng các sản phẩm theo nhà cung cấp và tạo ra số lượng điơn điặt hàng tương ứng với số lượng nhà cung cấp.

@@ -1,1 +1,0 @@
-getAllItems Transaction For Admin() :Lấy tất cả yêu cầu quyên góp hiện vật cho quản trị viên getAllItemTransactonsForGuest() :Lấy tất cả yêu cầu quyên góp hiện vật đã được duyệt hiển thị cho nhà hảo tâm.

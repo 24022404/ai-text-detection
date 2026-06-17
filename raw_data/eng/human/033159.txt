@@ -1,1 +1,0 @@
-Step 1: Initializing the vocabulary Step 2: Representing each word in the text corpus as a combination of characters with the <\w>token marking the end of a word.

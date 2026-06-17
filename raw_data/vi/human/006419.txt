@@ -1,1 +1,0 @@
-Vì có khá nhiều cách để thiết lập chức năng gửi thông báo realtime nên em đã phân vân và gặp khó khăn trong việc quyết định cách thiết lập.

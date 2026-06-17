@@ -1,1 +1,0 @@
-Với phần frontend, điểm đảm bảo tốc độ phát triển của dự án và chạy được trên cả hai nền tảng IOS và Android, framework React Native và nền tảng ngôn ngữ lập trình JavaScript được lựa chọn. Vớ ưu điểm phát triển dễ dàng, nhanh chóng và chạy được trên cả 2 nền tảng IOS và Android mà không cần cấu hình nhiều, framework React Native sẽ giúp phát triển ứng dụng một cách nhanh chóng.

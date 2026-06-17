@@ -1,1 +1,0 @@
-gamma = 0.95: Hệ số chiết khấu, thể hiện sự thụt giảm giá trị điểm thưởng nhận được trong tương lạ, tính cho thời điểm hiện tại.

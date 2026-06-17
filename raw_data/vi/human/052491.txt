@@ -1,1 +1,0 @@
-Ckeditor Thư viện Ace Editor  là một trình soạn thảo mã nguồn mở và mạnh mẽ được xây dựng bằng JavaScript. Nó cung cấp một giao diện người dùng trực quan cho việc chỉnh sửa mã nguồn trong các ứng dụng web. Ace Edtor điược phát trển bở Ajax.org và điược sử dụng trong nhiều dự án lớn trên toàn thế giới.

@@ -1,1 +1,0 @@
-Different optimization algorithms have different ways of working, however, they all use the derivative of the loss function concerning the parameters to update the network parameters. Popular optimization algorithms in Neural Networks include:

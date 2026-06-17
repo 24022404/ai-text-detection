@@ -1,1 +1,0 @@
-Bộ tải xuống (Downloader). Là thành phần chịu trách nhiệm tả xuống các trang web. Nó xử lý các yêu cầu HTTP tớ các trang web và trả về các phản hồi.

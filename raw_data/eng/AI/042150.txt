@@ -1,9 +1,0 @@
-Objective: This paper introduces a novel framework for learning and analyzing the connectivity patterns of artificial neural networks through a topological lens. We aim to bridge graph-based representations of network architectures with tools from topological data analysis (TDA) to uncover hidden structural properties that influence learning dynamics and generalization.
-
-Methods: We represent neural architectures as weighted graphs and apply persistent homology to extract multiscale topological invariants—such as connected components and cycles—across training. These invariants are incorporated into a differentiable topology-aware regularizer that guides gradient-based optimization of the adjacency structure. Our formulation jointly learns edge weights and connectivity layout, enabling the network to adapt its topology in response to data complexity.
-
-Results: Experiments on image classification benchmarks (MNIST, CIFAR-10) and synthetic graph datasets demonstrate that topology-guided networks achieve up to 6% higher test accuracy with 20–30% fewer parameters than standard architectures. Analysis of learned graphs reveals emergent modularity and reduced redundancy, correlating strongly with improved robustness to input noise and adversarial perturbations.
-
-Conclusion: By integrating TDA into connectivity learning, our approach offers a principled path to compact, interpretable, and high-performance neural architectures. This topological perspective paves the way for automated architecture search, network compression, and deeper insights into the relationship between structure and function in deep learning.
-
-Keywords: neural network connectivity, topological data analysis, persistent homology, graph-based learning, neural architecture search

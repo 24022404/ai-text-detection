@@ -1,1 +1,0 @@
-A. van den Oord, Y. Li andO. Vinyals, “Representation learning with contrastive predictive coding,” CoRR ,jourvol abs/1807.03748, 2018. arXiv: 1807 .

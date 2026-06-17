@@ -1,1 +1,0 @@
-CPU: Intel(R) Xeon(R) Silver 4214 CPU @ 2.20GHz GPU: GeForce GTX 3080 RAM: 128GB Cấu hình phần mềm sử dụng trong các thí nghiệm là:

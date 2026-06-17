@@ -1,1 +1,0 @@
-W. Hwang, J. Ym, S. Park, S. Yang, and M. Seo, “Spatial dependency parsing for semi structured document information extraction,” arXv preprint arXiv:2005.00642 , 2020.

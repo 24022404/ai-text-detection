@@ -1,1 +1,0 @@
-Gó src là lõ xử lý về chức năng kiểm thử, fuzzing. Trong đó, tệp tin .py chứa những chức năng kiểm thử và gió payload chứa những bộ dữ liệu kiểm thử ở dạng tệp tin .txt. Các lời gọi tớ API của ZAP cũng được sử dụng ở trong gió này.

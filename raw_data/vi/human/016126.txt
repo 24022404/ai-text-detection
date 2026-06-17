@@ -1,1 +1,0 @@
-Mục tiêu và phạm vi điều là Mục tiêu đồ án này em sẽ xây dựng một website xem phim trực tuyến chạy trên nền tảng web và các chức năng chính như sau:

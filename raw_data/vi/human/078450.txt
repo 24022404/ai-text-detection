@@ -1,1 +1,0 @@
-Mỗ Organization liên kết trực tiếp với một Merak Organization. Tất cả những thiết lập  cấu hình cho Organization của hệ thống điều sẽ được cập nhật tương ứng cho Merak Organization trên Cisco Cloud. Trong một Workspace sẽ bao gồm nhiều Organization.

@@ -1,1 +1,0 @@
-Vấn đề Một phần quan trọng không thể thiếu trong các hệ thống quản lý bán hàng là thống kê đơn hàng, thống kê lợi nhuận thu được từ mỗ đơn hàng theo từng gam đoạn. Tùy theo đặc thù của mỗi cửa hàng mà có những cách thống kê khác nhau.

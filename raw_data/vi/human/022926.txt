@@ -1,1 +1,0 @@
-Cuối cùng, chương 6 đi đến kết luận nội dung đồ án. Trình bày những ưu điểm và nhược điểm còn tồn đọng lạ. Hơn nữa, đưa ra những đề xuất, định hướng phát triển trong tương la.Chương 2, tô sẽ trình bày về việc khảo sát hiện trạng của website mạng xã hội video. Từ đó, tôi trình bày tổng quan và ch tết các chức năng của hệ thống.

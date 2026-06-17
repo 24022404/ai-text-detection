@@ -1,1 +1,0 @@
-After normalizing, the confusion matrix the model performs well overall, withFigure 4.5: Confusion matrix of XGB experiment high accuracy for most of the malware families. However, there are some areas for improvement:

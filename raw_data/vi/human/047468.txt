@@ -1,1 +1,0 @@
-Nơ sử dụng trong ứng dụng Tô sử dụng TensorFlow trong việc huấn luyện mô hình học sâu để dự đoán kết quả cử chỉ tay, tiếp theo sử dụng mô hình đó trong môđun nhận diện cử chỉ tay.

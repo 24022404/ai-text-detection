@@ -1,1 +1,0 @@
-Trển kha cơ sở dữ liệu Trển kha thử nghệm trên máy tính cá nhân và máy chủ cho tốc điộ truy vấn dữ nhanh.

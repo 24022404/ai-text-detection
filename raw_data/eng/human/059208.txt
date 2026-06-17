@@ -1,1 +1,0 @@
-Add scenarios for session suggestions that are based on customer website access activities (see products, search, add more to the basket, etc.) to appear right after suggested products.

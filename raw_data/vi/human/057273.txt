@@ -1,1 +1,0 @@
-Các dữ lệu liên quan đến tình nguyện viên vẫn còn Bảng 2.6: Mô tả use cây phân rã Quản lý tình nguyện viên Biểu đồ use case phân rã Quản lý học sinh Hình 2.5: Biểu đồ use case phân rã Quản lý học sinh Tác nhân: Quản trị viên, cán sự lớp, tình nguyện viên Mô tả use case:

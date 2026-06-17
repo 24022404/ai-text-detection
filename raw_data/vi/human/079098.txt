@@ -1,1 +1,0 @@
-– Snh Task mớ và bổ sung vào DAG Ở bước này phân hệ sẽ sinh ra đioạn scrpt kha báo Task cho chỉ báo mớTOÁN CHỈ BÁO trong file DAG, sử dụng jnja vớ template sau:

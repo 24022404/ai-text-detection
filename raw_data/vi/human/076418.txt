@@ -1,1 +1,0 @@
-Kh truy cập vào trang web, chọn chức năng đăng nhập tài khoản Khi đó, người dùng bỏ nhập thông tin đăng nhập sau đó nhấn vào button Đăng nhập Sau đó, hiển thị thông báo lỗ " Vui lòng nhập lại tên đăng nhập và mật khẩu" Bảng 2.1: User story đăng nhập tài khoản 2. Vòng lặp thứ 2:

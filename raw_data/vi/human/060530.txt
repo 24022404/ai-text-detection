@@ -1,1 +1,0 @@
-Các ứng viên có thể đăng ký tài khoản, tìm kiếm công việc theo tỉnh thành, theo loại hình công việc, có thể lưu công việc, ứng tuyển công việc, đánh giá công việc mà mình đã ứng tuyển.

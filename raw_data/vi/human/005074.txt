@@ -1,1 +1,0 @@
-certfyVsble: ký nháy hiện certifyIng vsble: ký nháy ẩn approve Invisible: ký chính ẩn approve Vsble: ký chính hiện signHash: ký một đoạn hash create Placeholder: tạo khung chữ ký Hình 4.10: Thiết kế lớp cho dịch vụ hsm pk Các phương thức của lớp dịch vụ hsm pk:

@@ -1,1 +1,0 @@
-The second convolutional layer outputs data with 16 channels, using the same ker nel size as the first one. The first fully connected layer produces a 120-dimensional vector, which is reduced to 90 dimensions by the second fully connected layer, and finally reduced to 20 dimensions by the third fully connected layer. All three fully connected layers apply relu activation.

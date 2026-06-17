@@ -1,1 +1,0 @@
-We used this approach to manage account subscriptions as another job. The database tables should be routinely checked for expired accounts. This operation should be done in a separate process so as not to interfere with our main server.

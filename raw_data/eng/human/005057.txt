@@ -1,1 +1,0 @@
-Firstly the software should continuously operate correctly and responsively in any general cases. However, a slight drop in performance and response time is allowable in some exceptional cases. Implicitly stated, ideally, the response time for any tasks, with a moderate load, within the system is 1 second. But in the case of peak load, a response time of 3 seconds is permissible.

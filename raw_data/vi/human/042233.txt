@@ -1,1 +1,0 @@
-Nội dung Kết quả đạt được Số dòng code 56865 Số lớp 32 Số gó 12 Dung lượng toàn bộ mã nguồn 5MB Dung lượng ứng dụng (APK) 20MB Thờ gan tìm hiểu và code 4 tháng học kì 2022 2 Bảng 4.6: Thống kê sơ bộ ứng dụng 4.3.3 Minh họa các chức năng chính Dưới đây là giao diện các màn hình chính và quan trọng của ứng dụng:

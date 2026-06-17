@@ -1,1 +1,0 @@
-Model: The Model represents the data and business logic of the application. It handles data storage, retrieval, and manipulation. It encapsulates the application’s data structure and implements the rules and operations related to that data. Odoo uses ORM (Object-Relational Mapping) to interact with the database, and models in Odoo correspond to database tables.

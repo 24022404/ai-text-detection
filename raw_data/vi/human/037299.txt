@@ -1,1 +1,0 @@
-Độ trễ thấp: Hệ thống cần đảm bảo độ trễ tối thiểu trong quá trình xử lý và phản hồi yêu cầu từ người dùng. Đều này đảm bảo người dùng có thể tương tác và làm việc trên trình soạn thảo mã nguồn một cách mượt mà và không gặp sự chậm trễ đáng kể.

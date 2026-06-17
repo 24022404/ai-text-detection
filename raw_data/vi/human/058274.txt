@@ -1,1 +1,0 @@
-Tuy nhiên, từ version 16.8, với sự ra đời của React Hooks thì việc quản lý state đã trở nên dễ dàng không kém gì Class Component. Bên cạnh đió, với quan điểm cá nhân, Functional Component tiện lợi cho việc bảo trì cũng như dễ hiểu hơn Class Component nên em đã chọn sử dụng Functional điểm phát triển ứng dụng này.

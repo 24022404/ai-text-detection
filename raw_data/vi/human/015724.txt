@@ -1,1 +1,0 @@
-Yêu cầu ràng buộc dữ liệu Dữ liệu thiết kế theo mô hình dữ liệu quan hệ phụ thuộc lẫn nhau, các dữ liệu chương, bài giảng, bài kiểm tra,... cần ràng buộc với khóa học của nó.

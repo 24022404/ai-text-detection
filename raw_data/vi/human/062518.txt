@@ -1,1 +1,0 @@
-Flask là một framework web Python nhẹ và linh hoạt, được sử dụng để xây dựng các ứng dụng web. Nó cung cấp các công cụ và thư viện cần thiết điểm phát triển các ứng dụng web nhanh chóng và hiệu quả. Dưới đây là một số điểm chính của Flask:

@@ -1,1 +1,0 @@
-The problem now is to find out which is the eigenvalue of the matrix K(r)−Id. In i=1. Therefore, we have:

@@ -1,1 +1,0 @@
-Chương 6 trình bày về các các kết quả đạt được và chưa đạt được cùng với đó là định hướng phát triển trong tương lai của ĐATN.2.1 Khảo sát hiện trạng Phần này sẽ trình bày về hạ phần mềm QLDA phổ biến là Asana và Zoho, đồng thờ so sánh để chỉ ra ưu, nhược điểm của hạ phần mềm này so với ĐATN.

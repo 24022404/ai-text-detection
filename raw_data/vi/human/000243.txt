@@ -1,1 +1,0 @@
-Ngoài ra, Nodejs sở hữu hệ sinh thái package lớn nhất trong số tất cả các thư viện mã nguồn mở trên thế gớ, vớ hơn 1 trệu gó điã có sẵn và điang không ngừng phát triển thêm. NPM (node package manager) là công cụ quản lý package của Nodejs, được sử dụng miễn phí và được đóng góp bởi hàng ngàn developer nguồn mở mỗ ngày.

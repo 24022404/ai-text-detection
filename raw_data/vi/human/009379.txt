@@ -1,1 +1,0 @@
-Trong đồ án này tô tập trung nghiên cứu, xây dựng Hệ thống triển lãm và giao dịch tranh nghệ thuật cho mạng Su Network.

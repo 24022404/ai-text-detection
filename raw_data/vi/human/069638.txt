@@ -1,1 +1,0 @@
-Cuối cùng, hình 4.6 là mô tả cho tết về gió Controller:Hình 4.6: Thiết kế cho tết gó Controller Gó Controller bao gồm 2 thành phần chính :

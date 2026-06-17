@@ -1,1 +1,0 @@
-I use Google Cloud as the hosting platform for the application. I also use their Google Kubernetes Engine (GKE), to help quicky deploying a kubernetes cluster.

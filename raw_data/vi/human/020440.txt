@@ -1,1 +1,0 @@
-Với các hạn chế được nêu trong phần 1.2, em đã đề cập đến một hướng gả quyết mới cho bài toán. Với việc giả định là các tuyến đường có thông tin từ cảm biến được chuyển về cho ta biết ta từng vị trí có phương tiện đang chiếm hay không. Từ thông tin đió, mô hình sẽ đưa ra cho ta các quyết định về tín hiệu đèn giao thông phù hợp cho đúng thời điểm đó.

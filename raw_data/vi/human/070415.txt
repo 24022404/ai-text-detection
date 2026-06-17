@@ -1,1 +1,0 @@
-Để đáp ứng được các mục tiêu đã nêu ở phần 1.2, ĐATN này sẽ xây dựng thành một trang web kinh doanh thú cưng và các sản phẩm cho thú cưng tích hợp thêm chức năng bà viết cho người dùng đăng và chia sẻ kiến thức, trải nghiệm nuôi thú cưng của mình. Trang web được xây dựng theo mô hình Client server , lý do đồ án sử dụng mô hình này là vì các ưu điểm của Client server như:

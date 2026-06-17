@@ -1,1 +1,0 @@
-Giao diện của hệ thống được xây dựng bằng NextJs . Next.js là một framework phát triển ứng dụng web phía máy chủ (server side) và phía máy khách (client side) cho React. Nó cung cấp các tính năng mạnh mẽ và linh hoạt để xây dựng các ứng dụng web đơn trang (single page applications) hoặc đia trang (multi page applications) phức tạp.

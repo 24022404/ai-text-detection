@@ -1,1 +1,0 @@
-Đặc tả use case Đăng nhập Khách hàng thành viên sử dụng use case “Đăng nhập” đ vào tài khoản đã tạo trên hệ thống và tiến hành mua hàng trực tuyến.

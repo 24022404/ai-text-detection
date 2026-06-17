@@ -1,1 +1,0 @@
-Limitations The interface has not yet been able to apply discount codes, there is no forgot password function, there is no function to register to receive notifications of new products and promotions through gmail for customers, the implementation time is still limited.

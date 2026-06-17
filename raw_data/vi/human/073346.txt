@@ -1,1 +1,0 @@
-Hỗ trợ mạnh mẽ cho web: PHP được xây dựng đặc biệt điểm xử lý các tác vụ liên quan đến web. Nó hỗ trợ nhiều giao thức và chuẩn web, cho phép tạo và quản lý các phiên làm việc, đọc và ghi tệp, và tương tác với các tài nguyên web bên ngoài.

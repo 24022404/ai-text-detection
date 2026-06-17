@@ -1,1 +1,0 @@
-–Is Controllable: cho biết nhân vật có thể tự điều khiển hay không, thường sử dụng khi bị gây hiệu ứng choáng hoặc khi đang thực hiện kỹ năng.–Boston: cho biết vị trí của nhân vật trên bản đồ.

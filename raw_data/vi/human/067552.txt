@@ -1,1 +1,0 @@
-Biểu đồ use case phân rã “Quản lý hệ thống” Use case “Quản lý hệ thống” được thể hiện thông qua Hình 2.6 với sự tham gia của tác nhân chính là Quản trị viên. Use case này bao gồm các thao tác quản lý là thao tác thêm/sửa/thay đổi trạng thái hoạt động của các đối tượng và bao gồm 5 use case con.

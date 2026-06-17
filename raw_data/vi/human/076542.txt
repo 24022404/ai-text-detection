@@ -1,1 +1,0 @@
-Phần thực nghiệm này có sử dụng tập dữ liệu các bài báo thuộc hai lĩnh vực là khoa học máy tính và kinh tế. Đây là tập dữ liệu thô được trích xuất từ nguồn dữ liệu trên Internet. Để có thể sử dụng được cho thuật toán vẫn cần trả qua một bước tiền xử lý điểm đưa về đúng định dạng vớ đầu vào thuật toán NetTaco.

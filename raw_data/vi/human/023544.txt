@@ -1,1 +1,0 @@
-Mô hình N Gram sử dụng trong sửa lỗ chính tả N Gram nhận input đầu vào là 1 cụm từ. Và đưa ra gợi ý cho vị trí tiếp theo.

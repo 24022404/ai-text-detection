@@ -1,1 +1,0 @@
-Thuộc tính (Properties): Thuộc tính mô tả tính chất, đặc điểm của các đối tượng hay mối liên hệ giữa các đối tượng.

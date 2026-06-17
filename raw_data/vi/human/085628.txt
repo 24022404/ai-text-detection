@@ -1,1 +1,0 @@
-Khả năng sử dụng: Việc triển khai React khá dễ thực hiện nếu bạn có một số kiến thức cơ bản về JavaScript. Trên thực tế, một nhà phát triển JavaScript chuyên nghiệp có thể dễ dàng tìm hiểu tất cả các thông tin ch tết của React framework chỉ trong một hoặc hai ngày.

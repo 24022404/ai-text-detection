@@ -1,1 +1,0 @@
-Security requirement User passwords hashed with SHA-256 as of 2023 are secure enough and can be used to store passwords in a database. Since this hash is one-way, it can only be used to compare user-entered passwords, if the password information in the database is exposed, this information only contains the hashed value, so users’spasswords are safe.

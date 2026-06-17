@@ -1,1 +1,0 @@
-Linh hoạt và mở rộng: Flask có kiến trúc đơn giản và linh hoạt, cho phép nhà phát triển tự do lựa chọn các công nghệ và thư viện phù hợp nhất cho ứng dụng của mình. Flask cũng hỗ trợ các plugin và extension điểm giúp cho việc mở rộng ứng dụng trở nên dễ dàng hơn.

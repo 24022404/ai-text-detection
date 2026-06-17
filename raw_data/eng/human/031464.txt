@@ -1,1 +1,0 @@
-H. Wu andP. Wang, “Fast-convergent federated learning with adaptive weighting,” IEEE Transactions on Cognitive Communications and Networking ,jourvol 7, number 4,pages 1078–1088, 2021.

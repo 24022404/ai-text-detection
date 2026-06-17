@@ -1,9 +1,0 @@
-**Abstract**
-
-The rapid growth of machine learning has heightened the need for comprehensive benchmarking resources, particularly in the emerging field of time series extrinsic regression (TSER), which extends classical time series analysis to predict continuous target variables from sequential data. This paper introduces the Monash University, UEA, and UCR Time Series Extrinsic Regression Archive, a curated collection of publicly available TSER datasets representing a wide variety of domains, including finance, health, environment, and engineering. Our objective is to address the current limitations in TSER research caused by the lack of standardized, diverse, and well-documented datasets for evaluating and comparing algorithmic performance.
-
-To construct the archive, we systematically identified, processed, and harmonized datasets from renowned repositories, ensuring consistency in format and metadata while preserving domain specificity. The archive is accompanied by standardized training and testing splits, baseline regression models, and a unified evaluation protocol to facilitate fair and reproducible benchmarking. Experimental results demonstrate the challenges inherent in TSER tasks and highlight the performance differences between classic regression methods, time series-specific neural networks, and feature-based approaches across multiple datasets.
-
-This benchmark archive significantly lowers the entry barrier for TSER research and provides a platform for robust comparison of future methods. By promoting the adoption of standardized datasets and evaluation practices, we aim to foster accelerated innovation and deeper understanding in the rapidly evolving field of time series extrinsic regression.
-
-**Keywords:** time series, extrinsic regression, benchmarking, machine learning, data archive, standardized datasets, regression models

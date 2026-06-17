@@ -1,1 +1,0 @@
-Hướng tiếp cận thay thế có thể được chọn là Heroku. Elastic Beanstalk hoàn toàn miễn phí, phí chỉ được tính dựa trên lưu trữ, xử lý dữ liệu trên hệ thống.

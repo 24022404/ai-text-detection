@@ -1,1 +1,0 @@
-Module gửi email sử dụng Oauth2 của Google để xác minh tài khoản rồi sau đó hỗ trợ hệ thống gửi email một cách tự động điền user trong các tình huống khác nhau như: kích hoạt tài khoản, đặt lại mật khẩu khi quên mật khẩu, thông báo quá trình xử lý tiếp nhận hồ sơ đăng ký làm tình nguyện viên và thông báo lịch phỏng vấn,. . .

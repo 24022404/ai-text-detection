@@ -1,1 +1,0 @@
-Cuộc tấn công Sammy đã làm cho MySpace phả tạm thời đóng cửa trang web để khắc phục sự cố. Nó cũng đã đưa ra cảnh báo cho các nhà phát triển về tầm quan trọng của việc bảo vệ trang web khảo các cuộc tấn công XSS và tăng cường kiểm tra dữ liệu đầu vào của người dùng.

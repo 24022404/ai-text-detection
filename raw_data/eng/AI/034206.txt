@@ -1,9 +1,0 @@
-Objective: Thin structures such as blood vessels, wires, or cracks often occupy only a few pixels in high-resolution images, making their restoration under large missing regions particularly challenging. This paper addresses the problem of blind inpainting for large-scale masks occluding thin structures, where neither the occlusion shape nor the underlying content is known.
-
-Methods: We propose a two-stage deep learning framework that combines adversarial training with reinforcement learning. First, a generative adversarial network (GAN) learns to produce initial inpainting results guided by a structure-preserving loss that emphasizes continuity and thin-line coherence. Second, a reinforcement learning (RL) agent refines these results through sequential patch selection, using a reward function that balances local detail recovery and global consistency. The RL agent adaptively focuses on hard-to-recover regions, dynamically adjusting its inpainting strategy based on feedback from a discriminator network.
-
-Results: Extensive experiments on synthetic and real-world datasets (including medical angiograms and urban aerial imagery) demonstrate that our method outperforms state-of-the-art blind inpainting and general image restoration models by 12–18% in structural similarity (SSIM) and reduces thin-line discontinuities by up to 25%. Qualitative evaluations show sharper, more coherent reconstructions of occluded filaments and curves.
-
-Conclusion: By integrating adversarial learning with reinforcement-driven refinement, our approach offers a robust solution for the blind inpainting of thin structures under extensive occlusion. This framework can be readily adapted to applications in medical image analysis, infrastructure inspection, and historical document restoration.  
-
-Keywords: blind inpainting, thin structures, generative adversarial network, reinforcement learning, image restoration.

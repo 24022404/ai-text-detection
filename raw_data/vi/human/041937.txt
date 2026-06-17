@@ -1,1 +1,0 @@
-Persstence layer : Đây là lớp truy cập cơ sở dữ lệu của Magento. Lớp này cung cấp các chức năng điể truy vấn, cập nhật và xóa dữ lệu từ cơ sở dữ lệu.

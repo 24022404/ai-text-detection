@@ -1,1 +1,0 @@
-The system has many microservices: auth service, sales service, partnership service, warehouse service, shipping service, etc., and one gateway called web Gate Way service. Each microservice is build base on domain-driven design principles and patterns. Domain-driven design principles are new architecture that includes 3 layers:

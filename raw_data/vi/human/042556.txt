@@ -1,1 +1,0 @@
-Đồ án này chủ yếu sử dụng ha môđun, HDFS điểm tổ chức lưu trữ dữ lệu, YARN sẽ điều phối các công việc và tài nguyên kh thực hiện tính toán trên dữ lệu. Chúng ta sẽ tìm hiểu sâu hơn về ha môđun này.

@@ -1,1 +1,0 @@
-The true positive rate (TPR), also known as recall or sensitivity, quantifies the proportion of actual positive cases that are correctly identified by a model. A higher TPR reflects the model’s increased capability to accurately detect positive outcomes, which is crucial in many applications.

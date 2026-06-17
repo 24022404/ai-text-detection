@@ -1,1 +1,0 @@
-Phát triển hệ thống quản lý trên web mobile Thêm chức năng liên kết với Google Calendar tạo trang quản lý với các lịch trình sự kiện của tổ chức.

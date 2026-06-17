@@ -1,1 +1,0 @@
-Bộ phận thu: Bộ phận thu cũng được hoạt động ở mức 433,92 MHz và có độ nhạy 3uV. Bộ thu ASK hoạt động từ 4,5 đến 5,5 VDC và có cả ngõ ra tuyến tính và kỹ thuật số. Bộ phận thu sẽ được nhận dữ liệu từ máy phát. Sau đó, bộ giải mã sẽ gả mã dữ liệu và kích hoạt chân ngõ ra tương ứng.

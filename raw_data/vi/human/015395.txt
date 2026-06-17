@@ -1,1 +1,0 @@
-Khó quản lý số lượng và định danh của các dịch vụ backend đang được khởi chạy trong trường hợp có quá nhiều dịch vụ và cần mở nhiều port để khởi chạy số lượng lớn dịch vụ backend 5.2.2 Gả pháp Đối với hệ thống Frontend, ta thay thế React Development Server với Nginx theo cấu trúc được mô tả như trong Hình 5.5:

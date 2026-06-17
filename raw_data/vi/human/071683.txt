@@ -1,1 +1,0 @@
-Các tác nhân xuất hiện trong biểu đồ usecase tổng quát sẽ có các chức năng cụ thể và ch tết từng chức năng sẽ được trình bày dưới đây Khách hàng viếng thăm là khách hàng chưa có tài khoản đăng ký trên hệ thống, gồm các chức năng như:

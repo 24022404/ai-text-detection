@@ -1,1 +1,0 @@
-Dịch vụ quản lý và thu thập dữ liệu (Data Manager Service), dịch vụ đánh gá (SA Service), dịch vụ tải lên sản phẩm bằng lnk (Upload Service).

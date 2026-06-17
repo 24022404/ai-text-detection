@@ -1,1 +1,0 @@
-Làm mờ : Hình ảnh bị làm mờ ở các mức độ khác nhau. Đều này mô phỏng hiệu ứng của việc camera bị mất tiêu cự.

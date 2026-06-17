@@ -1,1 +1,0 @@
-Dễ cài đặt: XAMPP cung cấp một trình cài đặt đơn giản và tự động, giúp người dùng dễ dàng thiết lập mô trường phát triển web trên máy tính cá nhân.

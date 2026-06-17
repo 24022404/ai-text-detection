@@ -1,1 +1,0 @@
-The report details NIAP-based security compliance findings, highlighting extracted URLs and email addresses identified within the code. It warns that hard coding such information may introduce security risks, underscoring the need for remediation.

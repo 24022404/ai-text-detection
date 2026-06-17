@@ -1,1 +1,0 @@
-R. C. Merkle’s 1987 paper introduces a digital signature scheme leveraging a standard encryption function, designed to offer secure and efficient authentication for cryptographic systems.

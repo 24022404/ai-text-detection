@@ -1,1 +1,0 @@
-Display Complete Data: Besides storage and integration, Odoo also holds the advantage of presenting comprehensive information. For instance, the ability to showcase detailed and complete data assists businesses in effectively managingproduct inventory levels on a daily or monthly basis, encompassing future ship ments that have not yet been recorded.

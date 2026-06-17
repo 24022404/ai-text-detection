@@ -1,1 +1,0 @@
-.Module Boundless Common: đóng vai trò điều hướng đến các module khác theo đường dẫn. Đồng thời, đây cũng là nơi chứa các components/functions/...  các đơn vị thành phần dùng chung cho toàn bộ hệ thống Frontend. Các module khác kh cần sử dụng bất kỳ đối tượng dùng chung nào thì điều tra trực tiếp từ module Boundless Common, giảm thiểu tố đia việc trùng lặp code.

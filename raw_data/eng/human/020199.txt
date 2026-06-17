@@ -1,1 +1,0 @@
-For the Tokenizer model, it is essential to choose a Vietnamese tokenizer that can effectively handle the specific linguistic characteristics of the Vietnamese language.

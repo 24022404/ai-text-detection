@@ -1,1 +1,0 @@
-It starts from the basic CRUD (create, read, update, delete) operations. Mean while, it also includes other operations such as data importing to the database, exporting to files, and so forth.

@@ -1,7 +1,0 @@
-Automated Target Recognition (ATR) is a critical task in defense, surveillance, and remote sensing applications, requiring robust and efficient identification of objects across diverse environments. However, existing ATR systems often suffer from scalability limitations, struggling to generalize across large geographic regions and varying sensor conditions. To address these challenges, we propose Globally-scalable Automated Target Recognition (GATR), a novel framework designed to enhance recognition performance across large-scale datasets and complex terrains.
-
-GATR integrates a multi-scale feature extraction module with a geospatially-aware transformer, enabling the model to adaptively capture fine-grained object details while incorporating broader contextual information. Additionally, we introduce a self-supervised domain adaptation mechanism, allowing the system to generalize across different sensor modalities and environmental conditions. The framework is optimized for computational efficiency, ensuring real-time inference on edge devices and large-scale geospatial datasets.
-
-Extensive experiments on benchmark ATR datasets demonstrate that GATR significantly improves accuracy, robustness, and scalability compared to state-of-the-art methods. Our results highlight the potential of globally-aware recognition models in enhancing target detection and classification across real-world operational scenarios.
-
-Keywords: Automated Target Recognition, Geospatial AI, Transformer Networks, Multi-Scale Feature Extraction, Domain Adaptation, Remote Sensing.

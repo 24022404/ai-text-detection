@@ -1,1 +1,0 @@
-S(uk,s) = 1 +X If we fix 1⩽t⩽k, there are k−t+ 1pairs (i, j)such that t=k−i−j. If i+j⩽sthen the sub-string 1x1tmust contain s+ 1consecutive 0’s (consequently,C1=X i,j⩾0; where M= max( s+ 3, k−s).

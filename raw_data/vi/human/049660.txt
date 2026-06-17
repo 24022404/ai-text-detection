@@ -1,1 +1,0 @@
-Các yêu cầu phi chức năng vớ phân hệ này cũng tương đồng với yêu cầu phi chức năng chung cho toàn bộ nền tảng dữ liệu.

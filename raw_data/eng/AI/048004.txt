@@ -1,1 +1,0 @@
-Micro-service architecture offers significant advantages over monolithic applications, enabling independent deployment and updates for each service, which leads to greater flexibility. This approach limits the impact of bugs to specific services and makes it easier to add new features or scale specific components as needed.

@@ -1,1 +1,0 @@
-There were several database systems that I considered, but ultimately, my deci sion was to use MongoDB for my game due to the following reasons.

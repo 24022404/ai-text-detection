@@ -1,9 +1,0 @@
-The rapid growth of industrial big data necessitates efficient processing methods to extract meaningful insights, particularly from extensive time-series data. This research addresses the challenge of performing scalable and effective feature extraction on time-series data within industrial environments, aiming to enhance predictive maintenance and operational efficiency.
-
-Methods/Approach: We propose a novel distributed and parallelized approach for time-series feature extraction, leveraging advanced computational frameworks like Apache Spark to handle large-scale data. Our methodology incorporates both traditional statistical methods and machine learning techniques to ensure comprehensive feature extraction. The framework is designed to be flexible and adaptable to various industrial applications, enabling real-time processing and analysis.
-
-Results/Findings: The proposed approach demonstrates a significant improvement in processing speed and scalability compared to traditional, non-distributed methods. Experimental evaluations on industrial datasets show that our system maintains high accuracy in feature extraction while reducing computational overhead. The parallel processing capability allows the system to handle substantial data volumes efficiently, facilitating faster decision-making processes.
-
-Conclusion/Implications: This research contributes to the field of industrial big data analytics by providing an efficient and scalable solution for time-series feature extraction. The distributed nature of our framework enables industries to harness the full potential of large datasets, improving predictive maintenance strategies and operational insights. These advancements make our approach a valuable tool for industries aiming to optimize their data processing capabilities in the era of big data.
-
-Keywords: Distributed computing, parallel processing, time-series feature extraction, industrial big data, Apache Spark, predictive maintenance.

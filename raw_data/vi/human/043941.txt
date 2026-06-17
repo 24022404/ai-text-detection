@@ -1,1 +1,0 @@
-Chương 5 sẽ tiến hành ghép nối các thành phần điã điược xây dựng ở Chương 4 thành một hệ thống hoàn chỉnh. Các biểu đồ ở báo cáo phân tích chính là kết quả điầu ra đạt được của hệ thống, vì vậy, chương này cũng sẽ giới thiệu chi tiết từng biểu đồ cùng vớ nhận xét.

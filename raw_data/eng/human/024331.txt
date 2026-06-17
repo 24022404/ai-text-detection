@@ -1,1 +1,0 @@
-AssignKeyRequest - The executor uses this JRPC method to request the actual encryption key from the user after obtaining the user’s commitment. The user will provide the encrypted key in accordance with the commitment, ensuring that the key remains secret until later phases of the process.

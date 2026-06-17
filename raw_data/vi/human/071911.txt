@@ -1,1 +1,0 @@
-Lớp reducer: bắt các action được gửi đến điểm xử lý cập nhật lại trạng thái (state) sau đó giao diện người dùng sẽ được cập nhật dữ liệu từ state điển hiển thị ra màn hình.

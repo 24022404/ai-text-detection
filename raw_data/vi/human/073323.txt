@@ -1,1 +1,0 @@
-IceSpearSpellBehavour Class: lớp này kế thừa lớp Spell Behavour, spell này khi hết thờ gan tồn tại thay vì biến mất sẽ tách thành 7 ta đoạn và tỏa ra xung quanh theo hình quạt. Spell này sẽ gây sát thương khi phát hiện va chạm với kẻ địch.

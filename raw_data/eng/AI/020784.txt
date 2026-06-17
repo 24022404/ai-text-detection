@@ -1,1 +1,0 @@
-Helpdesk interfaces often incorporate key customer information like contact details, history, phone number, and company, streamlining access directly within the system.

@@ -1,1 +1,0 @@
-Vớ Cloudinary, bạn có thể dễ dàng tải ảnh lên đám mây và tự động thực hiện các thao tác xử lý ảnh một cách thông minh mà không cần cài đặt thêm bất kỳ phần mềm phức tạp nào. Cloudinary cung cấp các API toàn diện và giao diện quản lý giúp dễ dàng tích hợp vào các trang web và ứng dụng di động.

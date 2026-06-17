@@ -1,1 +1,0 @@
-Cần xây dựng webste bán giày trực tuyến với các sản phẩm phải được hiển thị và cập nhật liên tục, các thông tin ch tết của sản phẩm, giá cả hình ảnh, màu sắc phả được hiển thị ngay khi người dùng kích vào một sản phẩm cụ thể. Chức năng đặt hàng in cần được thực hiện một cách dễ dàng và thuận tiện nhất cho người sử dụng.

@@ -1,1 +1,0 @@
-Ví dụ như câu "May khac diep. Nhưng hình như loa ngoài chưa ổn định. Phân mêm chup ảnh chưa tô ưu. Dù sao giá vẫn rẻ và hy vọng sẽ co ban câp nhât phân mêm tốt hơn. Cảm ơn Thê gơ d dong ve phong cach phuc vu.". Câu này vừa có khen vừa có chê thì sẽ là Neutral nhưng mô hình lạ đánh thành Positive.

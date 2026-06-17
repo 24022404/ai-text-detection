@@ -1,1 +1,0 @@
-View: The View is responsible for presenting the data to the user. It defines how the data is displayed and provides an interface for user interaction. The View receives data from the Model and formats it appropriately to be presented to the user.

@@ -1,1 +1,0 @@
-Chương 2 giới thiệu về dữ lệu lớn và các công nghệ được sử dụng trong đồ án, gồm có: nền tảng lưu trữ và xử lý dữ lệu Apache Hadoop, công cụ phân tích dữ lệu Apache Spark, nền tảng tạo báo cáo Google Data Studio.

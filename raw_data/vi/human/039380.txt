@@ -1,1 +1,0 @@
-WebSocket WebSocket  là một giao thức truyền tải dựa trên TCP được thiết kế điểm cung cấp một kênh liên tục và hai chiều giữa máy chủ và trình duyệt hoặc ứng dụng web.

@@ -1,1 +1,0 @@
-Thông tin về đóng góp Frontend được mô tả dưới bảng 5.3. 10% còn lạ của phần Frontend là do tham khảo các template cho internet.

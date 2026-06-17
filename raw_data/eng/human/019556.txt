@@ -1,1 +1,0 @@
-Analysis of Behavior: The tester analyzes the behavior of the invoked exported activities to detect any abnormal or insecure behavior, such as leaking sensitive data, improper access control, or unintended side effects.

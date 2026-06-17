@@ -1,1 +1,0 @@
-Các biện pháp bảo mật  Độ trạng thái (giá trị của các thuộc tính) của Lewre được lưu trữ ở trình duyệt và được chuyển qua lại máy chủ giữa các request khi nó dễ bị thao túng, chỉnh sửa ở phía frontend. Nếu không có các biện pháp bảo mật, sẽ không khó để kẻ xấu có thể thay đổi các trạng thái này.

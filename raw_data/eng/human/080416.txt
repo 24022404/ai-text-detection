@@ -1,1 +1,0 @@
-Some popular activation functions:ReLU( figure 2.11) f(x) =max (0, x) ReLU function is its derivative both are monotonic. The function returns 0 if it receives any negative input, but for any positive value x, it returns that value back.

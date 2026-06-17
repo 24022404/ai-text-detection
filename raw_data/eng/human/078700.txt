@@ -1,1 +1,0 @@
-A. V. Mamonov, I. N. Figueredo, P. N. Figueredo, and Y.H. R. Tsa, “Automated polyp detection in colon capsule endoscopy,” IEEE transactions on medical imaging , vol. 33, no. 7, pp. 1488–1502, 2014.

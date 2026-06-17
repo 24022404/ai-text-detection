@@ -1,1 +1,0 @@
-Đối với hệ thống Backend, ta sử dụng Nginx để giải quyết vấn đề cân bằng tả hệ thống đã nêu trên theo như mô tả trong Hình 5.6:

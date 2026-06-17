@@ -1,1 +1,0 @@
-Một dạng cơ bản của mạng nơron là một mô hình tuyến tính, trong đó điầu ra được tạo thành bằng cách kết hợp tuyến tính các điầu vào. Hình ảnh một nơron thần knh và mô hình tuyến tính được trình bày trong Hình 2.8.

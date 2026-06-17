@@ -1,9 +1,0 @@
-Objective: Detecting minute, locally confined defects on high-resolution surfaces remains a critical challenge for automated quality inspection in manufacturing. This paper introduces a blockwise framework that isolates and identifies local anomalies with high precision and efficiency.
-
-Methods: Input images are partitioned into uniformly sized, possibly overlapping blocks to focus analysis on localized regions. For each block, we extract complementary texture descriptors—Local Binary Patterns (LBP) and Histogram of Oriented Gradients (HOG)—and aggregate them into a compact feature vector. A lightweight convolutional neural network (CNN) classifier is then trained on these vectors to distinguish between defect-free and defective blocks. To adapt to different defect scales, we employ a multi‐scale block sampling strategy and apply non‐maximum suppression to fuse overlapping detections.
-
-Results: Experiments on two benchmark datasets of steel and fabric surfaces demonstrate that our method achieves an average detection accuracy of 96.2% and a false‐positive rate below 3.5%, outperforming traditional sliding‐window and end‐to‐end deep learning approaches by 4–7%. The blockwise design reduces computational load by 30%, enabling real‐time inspection at over 40 frames per second on a standard GPU.
-
-Conclusion: The proposed blockwise detection scheme offers a robust, scalable solution for local defect identification in industrial inspection. Its modular architecture and real‐time performance make it well suited for deployment in automated production lines and quality‐control systems.
-
-Keywords: defect detection; blockwise analysis; Local Binary Patterns; Histogram of Oriented Gradients; convolutional neural network; surface inspection.

@@ -1,1 +1,0 @@
-Kafka delivers high performance and impressive throughput for both publishing and subscribing by leveraging disk structures that allow it to maintain steady performance levels, even as it manages and stores many terabytes of messages efficiently.

@@ -1,1 +1,0 @@
-Với các phân khúc được cập nhật hay những phân khúc được tạo mới. Ta cần phải thực hiện phân khúc vớ toàn bộ khách hàng trong cơ sở dữ lệu. Khi khách hàng sử dụng ứng dụng, thông tin và đặc điểm của khách hàng sẽ thay đổi, cần được phân loại lạ. Vì thế cần một chương trình chạy liên tục, thực hiện phân khúc lạ khách hàng vào những phân khúc phù hợp.

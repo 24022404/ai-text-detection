@@ -1,1 +1,0 @@
-Additionally, ViT5 , introduced by Phan et al., featured a pretrained Transformer based encoder-decoder model specifically tailored for the Vietnamese language using T5-style self-supervised pretraining. ViT5-large underwent evaluation on two downstream tasks, Abstractive Text Summarization, and Named Entity Recognition, achieving state-of-the-art results on Vietnamese datasets.

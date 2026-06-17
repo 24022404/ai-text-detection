@@ -1,1 +1,0 @@
-Module thứ nhất có chức năng thu thập dữ lệu người dùng được viết dưới dạng 1 package điểm có thể nhúng vào trang web của khách hàng. Module này sẽ thu thập các dữ lệu sẵn có từ trình duyệt, các dữ lệu được người dùng tạo ra khi truy cập trang web và gửi về phía module thu ha.

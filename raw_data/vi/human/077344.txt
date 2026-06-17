@@ -1,1 +1,0 @@
-Có nghĩa là mặc dù chúng ta không tác động trực tiếp vào các phần tử DOM ở View nhưng vẫn thực hiện được cơ chế Data Binding. Đều này làm cho tốc độ ứng dụng tăng lên đáng kể – một lợi thế khi sử dụng VirtualDUB.

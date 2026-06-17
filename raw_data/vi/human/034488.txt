@@ -1,1 +1,0 @@
-Và website động được tạo từ 3 thành phần chính là: () Máy chủ web, () Ngôn ngữ lập trình phía máy chủ, () Cơ sở dữ liệu. Và ngôn ngữ PHP có sẵn hỗ trợ để làm việc song song với MySQL, tạo ra các trang web động dễ dàng hơn và nhanh hơn. Đây cũng là một trong những lý do tôi lựa chọn ngôn ngữ PHP để phát triển dự án của mình.

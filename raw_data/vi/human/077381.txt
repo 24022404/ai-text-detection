@@ -1,1 +1,0 @@
-Xây dựng một hệ thống hỗ thoại (Dalo) đầy đủ cho các nhân vật trong game cùng với việc gia tăng các NPC trong game để game sinh động, thú vị hơn.

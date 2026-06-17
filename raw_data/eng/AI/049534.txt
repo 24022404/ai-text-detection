@@ -1,9 +1,0 @@
-Objective: Generative Adversarial Networks (GANs) excel at producing realistic samples but do not provide explicit data likelihoods, complicating model evaluation and downstream tasks such as anomaly detection. This paper introduces LE-GAN, a novel framework for direct likelihood estimation in GANs.
-
-Methods/Approach: LE-GAN integrates an auxiliary neural density estimator with the adversarial training loop. We derive a tractable lower bound on the intractable generator likelihood by combining importance-weighted sampling with discriminator-based density ratio estimation. During training, the generator, discriminator, and density estimator are jointly optimized: the discriminator guides both sample realism and density-ratio learning, while the estimator refines the likelihood bound. This synergy yields a principled likelihood approximation without altering the standard GAN architecture.
-
-Results/Findings: We evaluate LE-GAN on benchmark datasets including CIFAR-10 and CelebA. Our method achieves competitive log-likelihood scores compared to state-of-the-art explicit density models and outperforms baseline GAN density estimators by up to 20 %. Furthermore, LE-GAN likelihoods show strong correlation with sample quality metrics and successfully detect out-of-distribution inputs.
-
-Conclusion/Implications: LE-GAN bridges the gap between implicit generative models and explicit density estimation, enabling quantitative evaluation, informed model selection, and applications in anomaly detection. This work paves the way for more transparent and versatile GAN-based systems.
-
-Keywords: Generative Adversarial Networks, likelihood estimation, neural density estimator, density ratio, implicit models.

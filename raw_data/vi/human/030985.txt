@@ -1,1 +1,0 @@
-sn1sn2. . . s n. . . 1  Giá trị ở mỗi ô trong ma trận càng cao thể hiện mức độ tương tự càng lớn giữa hai sản phẩm đó.

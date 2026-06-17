@@ -1,1 +1,0 @@
-Triển khai ứng dụng: Tải ứng dụng lên cửa hàng ứng dụng của Apple hoặc Google Play điển cho phép người dùng tải về và sử dụng.

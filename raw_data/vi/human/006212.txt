@@ -1,1 +1,0 @@
-Để thực hiện được chức năng nhắn tin, vấn đề đặt ra cho hệ thống là làm cách nào để 2 người dùng có thể nhận được tin nhắn từ đối phương ngay lập tức mà không cần load lại trang. Khi có tin nhắn từ ai đó, sẽ phả nhận được thông báo. Và khi đang nhắn tin với một người mà vẫn có thể nhận tin nhắn từ một người khác.

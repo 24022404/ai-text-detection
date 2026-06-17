@@ -1,1 +1,0 @@
-Application Master cho mỗi ứng dụng có trách nhiệm thương lượng các vùng chứa tài nguyên thích hợp từ bộ lập lịch, theo dõi trạng thái của chúng và giám sát tiến trình.

@@ -1,1 +1,0 @@
-Bar là, định hướng trong thờ gan tớ của em sẽ tiến hành phát triển hệ thống cửa mình theo mô hình Microservices. Việc này sẽ giúp cho hệ thống cửa mình có rất nhiều lợi ích:

@@ -1,1 +1,0 @@
-Zend Framework điã điược sử dụng rộng rã trong các dự án thương mạ và mã nguồn mở. Nó điược điánh gá cao bở cộng đồng PHP vì tính lnh hoạt và khả năng mở rộng của nó. Tuy nhên, từ phên bản 3.0 trở đi, Zend Framework điã điược sáp nhập vào Lamnas, một dự án mã nguồn mở mớ hơn và nhều tính năng hơn.

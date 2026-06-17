@@ -1,1 +1,0 @@
-Thiết kế góc Site tương tự như gió Organization vì trong phân cấp đối tượng của hệ thống được trình bày ở Chương 1, Ste là phân tầng nhỏ hơn của Organization.

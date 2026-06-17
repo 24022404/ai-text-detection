@@ -1,1 +1,0 @@
-Model: Chứa các phương thức xử lý, truy xuất dữ lệu trong cơ sở dữ lệu, và mô tả dữ lệu qua các Class.

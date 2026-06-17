@@ -1,1 +1,0 @@
-Yêu cầu về bảo mật Mật khẩu của người dùng phải điược mã hoá bở hàm băm. Các request lên server phả điược điính kèm token. Tn nhắn người dùng trước khi điược gử và lưu trữ trên cơ sở dữ lệu phải điược mã hoá.

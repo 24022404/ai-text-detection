@@ -1,1 +1,0 @@
-Theo báo cáo này, ở vị trí dẫn điầu, với khoảng 40.14% lập trình viên chọn dùng React điểm phát triển cho ứng dụng của mình.Hình 3.4: Kết quả khảo sát web framework được ưa thích nhất của Stack Overflow 3 Chính vì mang lại được hiệu suất và khả năng xử lý bất đồng bộ nên em đã chọn dung framework ReactJS điểm phát triển cho hệ thống của mình.

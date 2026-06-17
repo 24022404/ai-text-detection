@@ -1,1 +1,0 @@
-Nhà tuyển dụng chỉnh sửa lại thông tin không chính xác > tiếp tục bước 1 2. Nhà tuyển dụng hủy bỏ thao tác đang thực hiện > Usecase dừng lại.

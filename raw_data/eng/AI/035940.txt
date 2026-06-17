@@ -1,9 +1,0 @@
-Hindsight Experience Replay (HER) is a fundamental technique used to enhance the efficiency of reinforcement learning (RL) by transforming failed attempts into valuable learning experiences. However, traditional HER faces limitations when dealing with complex environments. This study introduces Model-based Hindsight Experience Replay (MHER) to address these challenges and improve learning efficiency. 
-
-Methods: MHER integrates model-based RL strategies with HER by leveraging an environment model to generate synthetic experiences. This hybrid approach uses a predictive model of the environment to simulate future states and outcomes, enabling the generation of diverse and informative hindsight experiences. The methodology focuses on applying MHER to complex tasks and environments where sample efficiency is critical.
-
-Results: Empirical evaluations demonstrate that MHER significantly outperforms traditional HER across various benchmark environments, including robot manipulation tasks and navigation problems. The use of model-based synthetic experiences enhances learning speed and improves policy quality compared to baseline methods. Additionally, MHER shows superior sample efficiency, reducing the number of interactions needed with the actual environment.
-
-Conclusion: MHER presents a novel contribution to the field of reinforcement learning by successfully integrating model-based predictions with hindsight experience replay. This approach not only accelerates learning but also broadens the applicability of HER to more intricate and dynamic environments. Future applications can extend to autonomous systems, robotics, and other domains requiring robust and efficient decision-making strategies. 
-
-Keywords: Hindsight Experience Replay, Model-based Reinforcement Learning, Sample Efficiency, Synthetic Experiences, Robot Manipulation.

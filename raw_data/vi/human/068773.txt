@@ -1,1 +1,0 @@
-■Xem chi tiết thông tin cuộc hội thoại Hình 4.7: Gao vện xem chi tiết thông tin cuộc hội thoại Hình 4.7 là thiết kế giao diện màn hình thông tin chi tiết cuộc hội thoại (của người tạo cuộc hội thoại). Người tạo cuộc hội thoại có thể loại bỏ thành viên trong cuộc hội thoại. Mọi người dùng có thể đổi tên cuộc hội thoại.

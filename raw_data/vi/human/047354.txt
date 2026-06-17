@@ -1,1 +1,0 @@
-Về: Lớp này chính là giao diện của ứng dụng, chịu trách nhiệm biểu diễn dữ lệu của ứng dụng thành các dạng nhìn thấy được.

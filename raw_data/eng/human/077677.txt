@@ -1,1 +1,0 @@
-be the set of all Lyndon words whose lengths are divisors of n. The formal encoder to construct a (k, s)-RdB sequence is given in algorithm 1.

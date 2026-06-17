@@ -1,1 +1,0 @@
-Để thực hiện loại hình tấn công này, các hacker thường sử dụng nhiều hệ thống máy tính bị xâm nhập làm nguồn chính để thực hiện một lưu lượng lớn truy cập tới máy chủ. Các máy bị khai thác có thể bao gồm các máy tính cá nhân và các tài nguyên mạng khác như các thiết bị IoT sẽ bị các hacker điều khiển từ xa thường được gọi là các bot và một nhóm bot được gọi là botnet.

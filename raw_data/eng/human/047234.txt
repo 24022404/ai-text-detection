@@ -1,1 +1,0 @@
-This thesis explores the challenges faced by FL algorithms, specifically focusing on the limitations encountered in presence of non-IID data. By evaluating and synthesizing previous research findings, this thesis aims to provide a more balanced and comprehensive approach to global model aggregation within the FL framework.

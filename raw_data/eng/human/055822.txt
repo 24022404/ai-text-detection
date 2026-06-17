@@ -1,1 +1,0 @@
-LIFO algorithm (Last In, First Out): This algorithm is the opposite of the FIFOalgorithm, as goods are arranged in the order they arrive with the most recent arrivals being taken out first. This algorithm is typically used for new and higher value products.

@@ -1,1 +1,0 @@
-–Integrated approach: Mythril  synthesizes a variety of vulnerability detection methods, including symbolic execution-based analysis, error analysis, and Satisfiability Modulo Theories (SMT). SMT deals with converting contracts into SMT constraints to detect program errors.

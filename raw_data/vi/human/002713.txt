@@ -1,1 +1,0 @@
-Chương 2 trình bày về kết quả khảo sát hiện trạng của một số trang web tuyển dụng hiện nay. Từ đó, phân tích thiết kế về chức năng hệ thống. Ở đây em sẽ sử dụng các biểu đồ như biểu đồ use case, biểu đồ hoạt động,... và ch tết các quy trình sử dụng hệ thống.

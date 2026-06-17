@@ -1,1 +1,0 @@
-To illustrate, let’s say that our goal is to train a model that can translate English texts into French. In this case, the encoder first converts English into an imagined language, and the decoder, which is also proficient in this language, then converts it back into French.

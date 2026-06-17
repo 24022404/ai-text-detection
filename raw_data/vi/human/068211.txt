@@ -1,1 +1,0 @@
-Nhập điúng thông tin tài khoản 3. Ấn đăng nhập.Hển thị giao diện trang chủ4.4.2 Kểm thử chức năng quản lý điặt hàng Bảng 4.10: Test case quản lý điặt hàng Mã test case Mục điích kểm thử Các bước thực hiện Kết quả mong muốn TC001 Kểm tra chức năng điặt hàng (nhân viên)1.Ấn vào món ăn muốn điặt.

@@ -1,1 +1,0 @@
-viPRIMERA Overall, my model is built based on the PRIMERA model  with three main modifications to make it work with the Vietnamese language. These modifications include:

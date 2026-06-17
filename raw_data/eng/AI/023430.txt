@@ -1,1 +1,0 @@
-The user can access signer certificate details, including validity dates, issuer information, and potential authenticity issues to ensure the certificate’s reliability.

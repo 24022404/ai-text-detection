@@ -1,1 +1,0 @@
-Using dropout, a technique where random neurons or features are "dropped out" during training to prevent over-reliance on specific patterns.

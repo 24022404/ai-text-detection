@@ -1,1 +1,0 @@
-J. Li, Y. Zhang, Z. Wang, and K. Tu, “Probabilistic contrastive learning for domain adaptation,” arXiv preprint arXiv:2111.06021 , 2021.

@@ -1,1 +1,0 @@
-Machine learning enables computers to learn how to perform tasks by analyzing data and finding patterns, rather than relying on humans to program every instruction explicitly. This approach allows for more flexible problem-solving.

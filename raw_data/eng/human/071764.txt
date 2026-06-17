@@ -1,1 +1,0 @@
-Dynamic Analysis: This approach observes the behavior of an application dur ing execution in a controlled environment. It can detect malicious activities such as unauthorized data exfiltration or suspicious API calls. While effective, dynamic analysis is resource-intensive, time-consuming, and often requirescomplex setups.

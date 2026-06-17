@@ -1,1 +1,0 @@
-Về mặt ưu điểm, module hiện tại có khả năng mở rộng cao, có thể tích hợp thêm nhiều thuật toán hay phương pháp khác để gợi ý sản phẩm.

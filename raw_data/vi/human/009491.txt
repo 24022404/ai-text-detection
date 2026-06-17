@@ -1,1 +1,0 @@
-Sơ đồ trên đảm bảo luồng dữ lệu di chuyển trong Flux bắt buộc đi theo một đường nhất định.

@@ -1,5 +1,0 @@
-Xây dựng và thẩm định quy trình định lượng dung môi toluen và tricloroethylen tồn dư trong đất vùng nhiễm độc hóa chất tại các khu vực công nghiệp đang là vấn đề cấp thiết. Quy trình này nhằm mục đích xác định và đo lường lượng tồn dư của các dung môi này trong đất, giúp đánh giá mức độ ô nhiễm và đưa ra các biện pháp khắc phục.
-
-Quy trình định lượng dung môi toluen và tricloroethylen được thực hiện thông qua các bước sau: thu thập mẫu đất, chuẩn bị mẫu, thực hiện phân tích bằng phương pháp sắc ký khí hoặc sắc ký lỏng, và cuối cùng là tính toán và trình bày kết quả.
-
-Quy trình này đòi hỏi sự chính xác và độ tin cậy cao, vì nó sẽ ảnh hưởng trực tiếp đến việc đánh giá mức độ ô nhiễm và đưa ra các biện pháp khắc phục. Do đó, cần phải thẩm định và kiểm tra lại quy trình định lượng này để đảm bảo rằng nó đáp ứng được các tiêu chuẩn và yêu cầu của ngành công nghiệp và các cơ quan chức năng.

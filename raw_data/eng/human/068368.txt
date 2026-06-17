@@ -1,1 +1,0 @@
-LCR=X i∈I−1 where ˜SIrepresents the set of indices of all samples in ˜Mb.˜Mbis the memory bank, which stores the normalized representation of all samples in Mk.

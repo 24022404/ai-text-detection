@@ -1,1 +1,0 @@
-Vì trình điều khiển lập lịch các task trên cụm, nó phải được chạy gần các worker node, tốt nhất là trên cùng một mạng cục bộ. Nếu bạn muốn gửi yêu cầu điền cụm từ xa, tốt hơn nên mở RPC tớ trình điều khiển và để nó gửi các hoạt động từ gần đó hơn là chạy trình điều khiển từ xa các nút worker node.

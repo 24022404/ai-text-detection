@@ -1,1 +1,0 @@
-Bộ mã hóa Transformer: Các véctơ nhúng mảng và véctơ nhúng vị trí được đưa vào một chuỗ các lớp mã hóa Transformer, lớp này thực hiện các bước tự chú ý và chuyển tếp để trích xuất các điặc trưng từ các mảng hình ảnh.

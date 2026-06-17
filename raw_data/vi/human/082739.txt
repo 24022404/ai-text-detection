@@ -1,1 +1,0 @@
-Thư viện và công cụ sử dụng Để xây dựng thiết kế và phát triển hệ thống, em sử dụng những công cụ như hình 4.6 :

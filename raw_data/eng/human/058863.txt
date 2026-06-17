@@ -1,1 +1,0 @@
-Z. Jiang, Y. Li, C. Yang, et al., “Prototypical contrast adaptation for domainadaptive semantic segmentation,” in European Conference on Computer Vi sion, Springer, 2022, pp. 36–54.

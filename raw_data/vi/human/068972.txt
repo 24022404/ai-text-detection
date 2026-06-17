@@ -1,1 +1,0 @@
-Trang web kh có số lượng video được đăng tải lên nhiều nhưng vẫn đảm bảo được hiệu suất của trang web. Vì số lượng video được lấy ra từ database mỗ lần là 15 video, sau khi người dùng xem hết video thì sẽ gửi 1 API để lấy tệp 15 video kế tiếp, tránh việc lấy ra số lượng lớn tiêu tốn nhiều tài nguyên và thờ gan.

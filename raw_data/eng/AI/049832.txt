@@ -1,9 +1,0 @@
-Objective: This paper develops a rigorous approximation theory for convolutional neural architectures applied to time series modeling. We address the gap between practical performance of convolutional models and their theoretical understanding, focusing on how network depth, filter size, and parameter count influence approximation accuracy for temporal signals.
-
-Methods: Building on tools from harmonic analysis and functional approximation, we derive upper and lower bounds on the L2-error when representing classes of smooth and piecewise-smooth time series using 1D convolutional networks. Our analysis considers both finite-width, deep networks and architectures with residual connections. We quantify how spectral properties of the input signal and filter design affect the network’s expressivity.
-
-Results: We prove that deep convolutional networks can approximate a broad family of temporal functions with error decaying polynomially in depth and filter width, outperforming classical polynomial and Fourier methods under equivalent parameter budgets. In particular, networks with ReLU activations achieve near-optimal rates for functions with bounded variation and certain Sobolev regularity. Numerical experiments on synthetic and real-world datasets validate our theoretical bounds and demonstrate improved sample efficiency compared to recurrent and fully connected baselines.
-
-Conclusion: Our work provides the first systematic approximation-theoretic characterization of convolutional architectures for time series, offering design guidelines for depth and filter complexity. These insights pave the way toward principled architecture selection and inspire future advances in temporal deep learning.
-
-Keywords: time series modeling; convolutional neural networks; approximation theory; error bounds; spectral analysis; ReLU networks

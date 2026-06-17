@@ -1,1 +1,0 @@
-Chapter 5 discusses the graduation project’s major contributions, highlights various challenges encountered throughout development and implementation, and presents solutions used to address them.

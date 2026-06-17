@@ -1,9 +1,0 @@
-Objective: Deep learning–based semantic segmentation models are increasingly deployed in safety-critical and commercial applications, yet they remain vulnerable to unauthorized access, model theft, and misuse. This work introduces a novel access control mechanism that secures these models by applying a spatially invariant permutation to their intermediate feature maps.
-
-Methods: We design a lightweight, key-based transformation that permutes channels of convolutional feature maps without altering their spatial relationships. During inference, only holders of the correct secret key can restore the original channel order and obtain accurate segmentation outputs. The permutation is enforced end-to-end in the training pipeline, ensuring the model learns to accommodate the transformation while preserving its representational capacity.
-
-Results: Experiments on Cityscapes and PASCAL VOC 2012 datasets demonstrate that authorized users recover baseline mean Intersection-over-Union (mIoU) scores within 1.5% of an unprotected model. In contrast, unauthorized attempts at inference without the key result in near-random predictions (mIoU below 5%). Comparative analysis against existing model-watermarking and encryption techniques shows our approach imposes minimal computational overhead and does not degrade segmentation quality.
-
-Conclusion: The proposed spatially invariant permutation scheme offers an effective, generalizable access control solution for semantic segmentation networks. By safeguarding intellectual property and restricting model use to authorized parties, it paves the way for more secure deployment of deep vision systems.
-
-Keywords: access control, semantic segmentation, feature map permutation, spatial invariance, deep learning security.

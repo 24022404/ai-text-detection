@@ -1,1 +1,0 @@
-Bước tiếp theo thực hiện các cuộc gọi đi bến nhằm phát hiện các biến thể theo câu lệnh bcftools call:

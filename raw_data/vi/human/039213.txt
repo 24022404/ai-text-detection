@@ -1,1 +1,0 @@
-Nguyên nhân cho kết quả kém trên có thể điến từ việc bộ dữ liệu quá nhỏ và không điủ tính tổng quát. Để gả quyết vấn điề này, đồ án thực hiện cha lạ bộ dữ liệu điể đánh giá, trong đó tỉ lệ của tập huấn luyện và tập kểm thử là 9:1. Kết quả đánh giá sau bước thay điổ được thể hiện ở Hình 4.6, Hình 4.7 và Hình 4.8.

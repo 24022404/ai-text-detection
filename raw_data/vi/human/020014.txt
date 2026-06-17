@@ -1,1 +1,0 @@
-Truy vấn CONSTRUCT : Sử dụng để tổng hợp bộ ba (rdf triples), kết quả trả về là đồ thị RDF.

@@ -1,1 +1,0 @@
-Collaborative Filtering được chia thành ha loạt chính: Collaborative Filtering được chia thành hai loại chính: User Based Collaborative Filtering và Item Based Collaborative Filtering.

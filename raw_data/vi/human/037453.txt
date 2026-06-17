@@ -1,1 +1,0 @@
-Gao dẫn sử dụng phiếu khuyến mạ có các phương thức –request Coupon: gửi yêu cầu sử dụng phiếu khuyến mãi đến server.•Controller của contract sẽ có các phương thức –valdateCouponInformaton: xác thực thông tin của phiếu khuyến mãi.

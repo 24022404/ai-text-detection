@@ -1,1 +1,0 @@
-The static analyzer scans the application, checking for suspicious permissions, domains, and behaviors that could reveal malware, ensuring early detection of malicious intent before execution.

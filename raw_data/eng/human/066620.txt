@@ -1,1 +1,0 @@
-Final solution and result Following the approach I outd above,I’ve successfully created a front-end admin page with key features including web and Shopify logins, as well as the ability to update data in accordance with the store owner’s preferences. Figure 5.2 illustrates login page from URL.

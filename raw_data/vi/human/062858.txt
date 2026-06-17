@@ -1,1 +1,0 @@
-CSN: Chân này kích hoạt và xử lý dữ liệu từ bộ vi điều khiển. Để giữ gao tệp dữ liệu giữa bộ vi điều khiển và module, luôn cấp mức logic cao vào chân này.

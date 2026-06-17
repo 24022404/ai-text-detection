@@ -1,1 +1,0 @@
-Proof. Letvbe a balanced vertex and Pgoes through v. Ifvis neither end nor start vertex, by claim 2, vhas the number of in-edges and out-edges in Pequal.

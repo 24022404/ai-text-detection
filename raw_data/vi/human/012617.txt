@@ -1,1 +1,0 @@
-Trong ngữ cảnh thương mại điện tử và Magento, Xskt Learn có thể được sử dụng để xử lý dữ liệu khách hàng, thực hiện các thuật toán gợi ý sản phẩm, phân loại dữ liệu khách hàng, hoặc dự đoán hành vi mua hàng. Điều này có thể giúp cải thiện trải nghiệm người dùng, tăng cường quy trình bán hàng và tối ưu hóa chiến lược tiếp thị.

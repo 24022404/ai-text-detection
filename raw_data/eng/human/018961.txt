@@ -1,1 +1,0 @@
-Google’s Angular is a JavaScript framework for creating Single Page Appli cations (SPAs) with JavaScript, HTML, and TypeScript. Angular offers built-incapabilities for animation, http service, auto-complete, navigation, toolbar, menus, and so on. The code is written in TypeScript and compiles to JavaScript before being shown in the browser.

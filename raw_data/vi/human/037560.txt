@@ -1,1 +1,0 @@
-Bước 3: Gợi ý sản phẩm Trong bước này, sau kh điã có điược ma trận tương tự giữa các cặp khách hàng, ta sẽ sử dụng thông tin này để tạo ra các gợi ý sản phẩm cho một khách hàng cụ thể. Các bước cụ thể có thể bao gồm:

@@ -1,1 +1,0 @@
-Khi khách hàng muốn mua hàng trên hệ thống thì sẽ phải đăng nhập tài khoản đã đăng  kí trên hệ thống.  Khách  hàng  sẽ chọn  đăng  nhập  và nhập  tên tài khoản  và mật khẩu. Sau khi xác nhận thì hệ thống kiểm tra thông tin: Nếu tồn tại sẽ đăng nhập tài khoản khách hàng, ngược lại nếu xảy ra lỗi sẽ thông báo thất bại và cho phép nhập lại.

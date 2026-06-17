@@ -1,1 +1,0 @@
-Android permissions like ACCESS_COARSE_LOCATION, SEND_SMS, READ_SMS, RECORD_AUDIO, READ_CONTACTS, and WRITE_EXTERNAL_STORAGE are considered OTHER_PERMISSIONS that can be exploited in specific scenarios. While these permissions are not necessarily dangerous by themselves, misuse by malicious apps or improper handling can lead to serious privacy and security risks for users.

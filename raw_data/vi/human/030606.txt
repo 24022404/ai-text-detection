@@ -1,1 +1,0 @@
-Input: Tài khoản: "", Mật khẩu: "" Expected output: Hệ thống thông báo lỗ "Vui lòng cung cấp tài khoản và mật khẩu" và yêu cầu người dùng nhập lạ.

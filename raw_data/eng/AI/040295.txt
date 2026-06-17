@@ -1,9 +1,0 @@
-This paper addresses the growing need for adaptive assistive navigation systems tailored to individual user dynamics, aiming to enhance user experience and safety in dynamic environments. The research question focuses on how to create personalized dynamics models that enable adaptive navigation assistance.
-
-Methods/Approach: We propose a novel approach employing machine learning techniques to develop personalized dynamics models. Our method integrates real-time data collection with adaptive algorithms to understand and predict individual movement patterns and preferences. The system continuously learns and refines navigation strategies to suit each user's unique dynamics, leveraging sensor data and machine learning models to achieve robust performance.
-
-Results/Findings: The proposed personalized dynamics models result in significant improvements in navigation accuracy and user satisfaction compared to traditional static models. Empirical evaluations show enhanced adaptive capabilities of our system, reducing navigation errors and optimizing assistive suggestions. Comparative analysis with existing systems demonstrates superior adaptability and customization, providing tailored user experiences.
-
-Conclusion/Implications: This research contributes to the field of assistive technology by offering a new paradigm for personalized navigation assistance. The developed models promise substantial improvements in user interaction and accessibility, with potential applications in various assistive devices and environments, such as smart homes and autonomous vehicles. Future work will extend this framework to incorporate a wider range of environmental variables, further enhancing the adaptability and usability of assistive navigation systems.
-
-Keywords: Personalized dynamics, adaptive navigation, assistive technology, machine learning, real-time data, user experience, sensor data.

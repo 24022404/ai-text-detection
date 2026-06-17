@@ -1,1 +1,0 @@
-HammingLoss =1 nLnX i=1LX j=1I(yi̸=byi) (4.3) where I is the indicator function. Ideally, we would expect the hamming loss to be 0, which would imply no error; practically the smaller the value of the hamming loss, the better the performance of the learning algorithm.

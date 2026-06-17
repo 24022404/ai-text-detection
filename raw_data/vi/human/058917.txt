@@ -1,1 +1,0 @@
-Thiết kế tổng quan Ứng dụng được phân chia thành 2 phần chính là client và server, và các phần này giao tiếp với nhau qua giao thức HTTP. Do đó, điểm mô tả chi tiết cho từng phần, cần vẽ biểu đồ UML riêng cho mỗi phần.Hình 4.2: Sơ đồ gó server Gó route: cung cấp các đường dẫn và điều hướng yêu cầu tới các xử lý khác.

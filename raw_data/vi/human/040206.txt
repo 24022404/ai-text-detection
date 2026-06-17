@@ -1,1 +1,0 @@
-Tạ backend server được chia thành ba module chính là module quản lý module đăng ký hồ sơ làm Tình nguyện viên và module gửi email.

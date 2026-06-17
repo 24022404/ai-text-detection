@@ -1,1 +1,0 @@
-Không tạo ra dữ liệu mới thực sự : Tăng cường dữ liệu không tạo ra dữ liệu mới mà chỉ bến đổ dữ liệu hiện có. Vì vậy, nó không thể cung cấp thông tin mới mà mô hình chưa từng thấy trước đây.

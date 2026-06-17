@@ -1,9 +1,0 @@
-This paper investigates and compares various image edge detection algorithms, a critical process in computer vision that significantly impacts the performance of subsequent image analysis tasks. The purpose is to evaluate the strengths and limitations of selected methods and provide insights into their suitability for different applications.
-
-Methods: The study covers a comprehensive analysis of several widely used edge detection algorithms, including Canny, Sobel, Prewitt, and Roberts, alongside modern implementations using machine learning techniques. Each algorithm is applied to a standardized set of images under varying conditions to assess their accuracy, computational efficiency, and sensitivity to noise.
-
-Results: Our findings reveal distinct performance characteristics among the algorithms. The Canny edge detector consistently exhibited high accuracy and edge continuity but at the expense of higher computational complexity. In contrast, Sobel and Prewitt offered faster execution times but with lower precision in detecting faint edges. Machine learning-based approaches demonstrated adaptability to diverse image conditions while maintaining competitive accuracy.
-
-Conclusion: The comparative analysis highlights the trade-offs between computational demand and detection precision inherent in traditional and modern edge detection techniques. The insights derived from this study serve as a guide for practitioners in selecting the most suitable edge detection algorithm based on specific project requirements, including application constraints and desired performance outcomes. Future work may explore the integration of advanced neural network models to further enhance edge detection capabilities.
-
-Keywords: image edge detection, Canny, Sobel, machine learning, computer vision, algorithm comparison, computational efficiency, noise sensitivity.

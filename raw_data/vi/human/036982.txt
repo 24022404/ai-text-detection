@@ -1,1 +1,0 @@
-Nhìn chung, kiến trúc VT là một Transformer thuần túy được áp dụng trực tếp cho chuỗ các mảng hình ảnh, có thể điạt được hiệu suất cao nhất trong các tác vụ phân loạ hình ảnh vớ ít tài nguyên tính toán hơn so với các mô hình dựa trên CNN.

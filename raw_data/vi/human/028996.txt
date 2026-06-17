@@ -1,1 +1,0 @@
-Do vậy em sử dụng MongoDB điể xây dựng tính năng lưu trữ các dữ lệu ảnh, vdeo trên backend.

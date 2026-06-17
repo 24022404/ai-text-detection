@@ -1,1 +1,0 @@
-Thiết kế cơ sở dữ liệu Từ các phần phân tích và thiết kế trước đó, em có thể xác định các thực thể trong mô hình thực thể liên kết (ERD), như được thể hiện trong bảng dưới đây.

@@ -1,1 +1,0 @@
-Một điơn hàng mang đi và tạ chỗ(DneIn và Delveres) chỉ chứa thông tin của một gỏ hàng(Cart), và một gỏ hàng cũng chỉ thuộc một điơn hàng(DneIN hoặc Delveres).

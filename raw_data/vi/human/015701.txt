@@ -1,1 +1,0 @@
-Module chú ý theo kênh (CAM) Môđun này được xây dựng nhằm mục đích khai thác mối liên hệ giữa các kênh của đặc trưng. Mỗ kênh này có nhiệm vụ lưu trữ các đặc trưng khác nhau từ ảnh đầu vào, CAM tập trung tìm ra đặc trưng nào có ý nghĩa bằng cách đánh trọng số cho mỗi kênh.

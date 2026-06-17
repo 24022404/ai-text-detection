@@ -1,1 +1,0 @@
-Phần giao diện của ứng dụng sẽ tuân theo bố cục chung của hệ thống DEClan gồm có bốn phần chính là () header – phần tiêu điền trang, () sidebar – phần menu điều hướng, () content – phẫn nộ dụng trang, và (v) footer – phần phía cuối của trang. Hình 4.9 mô tả về bố cục chung của giao diện trong ứng dụng.

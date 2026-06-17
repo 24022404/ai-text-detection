@@ -1,1 +1,0 @@
-As was to be expected, the uploading of a video took noticeably longer as the file size increased. This observation is consistent with the inherent difficulties in managing and processing bigger video files, which call for more time and resources for successful uploads.

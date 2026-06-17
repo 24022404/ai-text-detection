@@ -1,5 +1,0 @@
-Mới đây, một nhóm nghiên cứu đã thành công trong việc xây dựng mô hình máy học để dự báo lực bám dính giữa bê tông cốt thép và vật liệu FRP (Fiber Reinforced Polymer). Mô hình này được thiết kế để dự đoán chính xác lực bám dính giữa các vật liệu này, giúp các kỹ sư xây dựng và kiến trúc sư có thể xây dựng các công trình an toàn và bền vững hơn.
-
-Mô hình máy học này sử dụng dữ liệu thực tế và các thuật toán phức tạp để dự đoán lực bám dính giữa bê tông cốt thép và vật liệu FRP. Kết quả dự đoán của mô hình này đã được kiểm tra và chứng minh là chính xác, giúp các kỹ sư và kiến trúc sư có thể tin tưởng vào dự đoán của mô hình.
-
-Tác dụng của mô hình này là giúp giảm thiểu rủi ro và tăng cường độ an toàn cho các công trình xây dựng, đặc biệt là các công trình sử dụng vật liệu FRP. Mô hình này cũng có thể được sử dụng để dự đoán lực bám dính giữa các vật liệu khác nhau, giúp mở rộng ứng dụng của mô hình này trong các lĩnh vực khác nhau.

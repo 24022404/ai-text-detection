@@ -1,1 +1,0 @@
-Tấn công XSS Cross Site Scripting (XSS) là một trong những kiểu tấn công phổ biến nhất và dễ dàng tấn công nhất khi bắt cứa bắt đầu tìm hiểu về lĩnh vực bảo mật website.

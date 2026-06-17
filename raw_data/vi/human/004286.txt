@@ -1,1 +1,0 @@
-Frontend sẻ kết nối tới các tính năng của Backend thông qua việc gọi API. Ngoài ra, vệt giao tiếp giữa các mô đun cũng thông qua API của các mô đun. Nhờ thiết kế như vậy mà Frontend  Backend, các mô đun trong Backend được tách biệt và dễ dàng phát triển độc lập với nhau.Hình 5.8: Kiến trúc chung của hệ thống Cho tết thiết kế các tính năng sẽ được trình bày trong phần 5.6.

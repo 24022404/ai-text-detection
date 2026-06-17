@@ -1,1 +1,0 @@
-The segmented joint region is then analyzed to extract features that describe the joint, such as its shape, size, and texture.

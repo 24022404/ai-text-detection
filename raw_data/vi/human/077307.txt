@@ -1,1 +1,0 @@
-Công nghệ blockchain là một công nghệ phức tạp và khá mới mẻ, vì vậy cần phải tìm hiểu kỹ về cách hoạt động và cấu trúc của nó. Có rất nhiều khá nệm mớ phải nghiên cứu như khóa công khai, khóa bí mật, khố, hợp đồng thông minh, và cách các khối được lên kết với nhau để tạo thành chuỗi khối (blockchain).

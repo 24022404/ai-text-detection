@@ -1,1 +1,0 @@
-Chương 2  Khảo sát và phân tích yêu cầu : Chương này chỉ ra các khả năng cũng như là các quyền và hành động mà các tác nhân có thể thực hiện dựa trên quyền điã điăng ký. Ngoà ra, chương còn tạo ra nền móng cho cơ sở dữ liệu được xây dựng ở chương 4.

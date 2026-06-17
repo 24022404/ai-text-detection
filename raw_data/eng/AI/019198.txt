@@ -1,1 +1,0 @@
-A simple path traverses each edge at most once; each longest simple path in Figure 2.3 shows G4, a de Bruijn graph.

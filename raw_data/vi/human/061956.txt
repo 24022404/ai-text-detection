@@ -1,1 +1,0 @@
-OWL Full : Sử dụng tất cả các thành phần của OWL, cho phép các thành phần này kết hợp tùy ý với RDF và lược đồ RDF. OWL Full hoàn toàn tương thích với RDF, về cả cú pháp và ngữ nghĩa, khả năng diễn đạt mạnh, phạm và suy diễn vô cùng lớn.

@@ -1,1 +1,0 @@
-Tên Tham số Kiểu dữ lệu trả về Mô tả insert Order order Boolean Tạo đơn hàng mới và lưu vào CSDL getOrders không [] Order Lấy danh sách các đơn hàng của người dùng updateOrder order_id Boolean Cập nhật thông tin của đơn hàng, Thiết kế chợ tết lớp Order (entry) Thuộc tính:

@@ -1,1 +1,0 @@
-Một trong những ưu điểm là Redux cung cấp một quy trình rõ ràng để quản lý trạng thái của ứng dụng. Vớ Redux, tất cả các trạng thái được lưu trữ trong một kho (store), giúp cho việc theo dõi và quản lý các trạng thái trở nên dễ dàng hơn.

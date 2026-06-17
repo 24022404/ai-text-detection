@@ -1,1 +1,0 @@
-Socket.o  cung cấp một API dễ sử dụng cho việc tạo và quản lý kết nối real time. Nó sử dụng các sự kiện (events) điểm giao tiếp giữa máy chủ và khách hàng.

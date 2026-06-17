@@ -1,1 +1,0 @@
-w() 1:TlaT từ đầu vào của câu văn thứ ;te()là đầu ra của mô hình BERT; Θbenc là tham số của mô hình PERT Trong ảnh tà lệ, Câu văn được mã hóa một cách độc lập nhau thu được N vectơ nhúng.

@@ -1,1 +1,0 @@
-If l=s−j, the proof is done. Otherwise, it’s obvious that al···a2a10j1x1t0s−l is balance, hence, by claim 2, it also has at least 1in-edge not lying in P, and one can continue adding such edge to the head of Pv.

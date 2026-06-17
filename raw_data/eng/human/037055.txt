@@ -1,1 +1,0 @@
-productRequest: Entity used to store information about offers.Figure 4.17: Database details Figure 4.17 describes in detail a database consisting of 8 collections designed and built in a warehouse management application. Details of the data of each table are shown in the figures below.

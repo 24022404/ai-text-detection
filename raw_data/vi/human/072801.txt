@@ -1,1 +1,0 @@
-Mục tiêu thứ tư là dựa vào những công nghệ điã nghên cứu, xây dựng một chương trình tích hợp các giải pháp với nhau để tạo thành một ứng dụng hoàn chỉnh, sau đó đánh giá và kiểm thử chính ứng dụng này.

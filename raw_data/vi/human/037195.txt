@@ -1,1 +1,0 @@
-Đánh gá mô hình (Model Evaluaton): Để xác định tính chính xác của mô hình dự báo, chúng ta cần sử dụng các phép đio và điánh gá hiệu suất dự báo, chẳng hạn như sa số trung bình bình phương (Mean Squared Error  MSE) hay sa số tuyệt điố trung bình (Mean Absolute Error  MAE).

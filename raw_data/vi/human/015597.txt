@@ -1,1 +1,0 @@
-Tấn công Brute Force là một kỹ thuật tấn công mạng thông qua việc thử nhiều mật khẩu khác nhau điểm tìm ra mật khẩu đúng điểm truy cập vào tài khoản hoặc hệ thống.

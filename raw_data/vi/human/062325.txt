@@ -1,1 +1,0 @@
-Và TypeScript là một ngôn ngữ lập trình cảm biến JavaScript bằng cách thêm các kiểu loại vào cú pháp. TypeScript thêm cú pháp bổ sung vào JavaScript để các công cụ soạn thảo mã có thể sớm phát hiện những lỗ vết mã, đây cũng là lý do chính để em áp dụng ngôn ngữ này vào đồ án môn học bở vì sự quy chuẩn và tiện ích trong việc phát hiện lỗ.

@@ -1,1 +1,0 @@
-OAuth2 ban đầu được phát triển bởi đội ngũ kỹ sư ở Twitter và Google vào năm 2006. Gần đây, nền tảng đã trở thành một giao thức ủy quyền rộng rãi được sử dụng bởi nhiều dịch vụ trực tuyến khác nhau.

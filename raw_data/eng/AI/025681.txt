@@ -1,9 +1,0 @@
-The field of multiple object tracking (MOT) has witnessed advancements in detection capabilities, yet remains vulnerable to adversarial attacks aimed at disrupting tracking accuracy. This study presents the first comprehensive adversarial attack framework targeting multiple object tracking systems, challenging the assumption that robust detection alone suffices for reliable tracking.
-
-Methods/Approach: The research introduces a novel adversarial attack strategy designed to exploit vulnerabilities in MOT systems by generating perturbations that affect both detection and tracking components synchronously. The proposed method leverages gradient-based optimization to create adversarial examples, focusing on imperceptible changes to frames that lead to significant tracking errors across consecutive video clips.
-
-Results/Findings: Extensive experiments were conducted on popular benchmark datasets for multiple object tracking. The findings demonstrate that the proposed adversarial strategy significantly degrades the performance of state-of-the-art MOT algorithms, leading to decreased tracking accuracy and stability even when object detection rates remain high. Comparisons with other adversarial methods targeting detection alone underscore the increased efficacy of this comprehensive attack approach.
-
-Conclusion/Implications: This research highlights critical vulnerabilities in contemporary MOT systems, illustrating that robustness in detection is insufficient without fortified tracking processes against adversarial manipulations. The insights pave the way for future enhancements in MOT systems, advocating for integrated defense mechanisms that bolster both detection and tracking components against potential adversarial threats.
-
-Key Keywords: multiple object tracking, adversarial attack, object detection, tracking vulnerability, gradient-based optimization, defense mechanisms.

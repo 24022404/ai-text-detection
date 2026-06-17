@@ -1,1 +1,0 @@
-Một số phần mềm học sâu được xây dựng trên Pytorch bao gồm Tesla Autopilot, Uber’s Pyro, Hugging Face Transformers,Pytorch Lghtnng và Catalyst.

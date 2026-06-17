@@ -1,1 +1,0 @@
-Nhận diện khuôn mặt với phương pháp học sâu (Deep Learning) đang được rộng rãi ứng dụng trong nhiều lĩnh vực như an ninh, quảng cáo hay công nghệ thông tin.

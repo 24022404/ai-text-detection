@@ -1,1 +1,0 @@
-Gá pháp a. ESP8266 lấy thông số nhiệt độ, độ ẩm từ môi trường Để lấy thông số nhiệt độ, độ ẩm từ mô trường, em sử dụng cảm biến nhiệt độ DHT11. Bên Slave (Arduino Uno) sẽ nhận dữ liệu nhiệt độ, độ ẩm từ cảm biến và gửi dữ liệu cho bên Master (Module ESP8266) thông qua kênh truyền Rado Frequency.

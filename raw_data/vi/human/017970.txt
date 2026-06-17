@@ -1,1 +1,0 @@
-■Gao dện danh sách bạn bè Hình 4.19: Giao diện danh sách bạn bè Hình 4.19 là giao diện danh sách bạn bè. Người dùng có thể thêm bạn mới, chọn chức năng xem lời mời kết bạn để chuyển sang màn hình danh sách lờ mờ kết bạn.

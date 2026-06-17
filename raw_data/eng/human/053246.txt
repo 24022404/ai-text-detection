@@ -1,1 +1,0 @@
-End-to-end Features and Modules: Odoo offers an expansive array of features and modules, spanning from fundamental to advanced, to address all requirements for effective business management and operations. These encompass tasks such as sales management, marketing, customer support, accounting, inventory control, and manufacturing.

@@ -1,1 +1,0 @@
-Nơ sử dụng Tensorflow dùng để triển khai mô hình Facenet điểm xây dựng bài toán nhận diện khuôn mặt.3.1.8 Torch, Pytorch a, Khá Nệm Torch là một thư viện máy học mã nguồn mở, được phát triển bằng ngôn ngữ tập lệnh dựa trên ngôn ngữ lập trình Lua . Nó cung cấp một loạt các thuật toán điểm học sâu và được tạo ra tạ IDIAP ở EPFL .

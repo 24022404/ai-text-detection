@@ -1,1 +1,0 @@
-Biểu đồ use case tổng quát Hệ thống được thiết kế với 3 tác nhân chính gồm Quản trị viên hệ thống, Nhân viên và Chủ cửa hàng.

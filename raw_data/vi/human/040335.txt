@@ -1,1 +1,0 @@
-Trong Chương 2, em sẽ trình bày cho tết quá trình phân tích ứng dụng. Trước hết là việc khảo sát hiện trạng thực tế cách quản lý lớp học của Lớp học Cầu Vồng, những vấn đề mà Lớp học Cầu Vồng gặp phải và cần gả quyết để từ đó phân tích các tác nhân và các chức năng chính của hệ thống thông qua các biểu đồ use case và biểu đồ phân tích nghiệp vụ.

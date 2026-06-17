@@ -1,1 +1,0 @@
-Hỗ trợ các tính năng tìm kếm và sắp xếp dữ lệu, bao gồm các câu lệnh SELECT, INSERT, UPDATE và DELETE.

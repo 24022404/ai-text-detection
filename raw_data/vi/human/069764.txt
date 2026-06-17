@@ -1,1 +1,0 @@
-Nó không sử dụng viewstate hoặc server based form. Điều này tốt cho những lập trình viên muốn quản lý hết các khía cạnh của một ứng dụng.

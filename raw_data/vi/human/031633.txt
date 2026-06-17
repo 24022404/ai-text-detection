@@ -1,1 +1,0 @@
-products: Lưu trữ thông tin về sản phẩm.4.3.2 Mô tả ch tết các thực thể Thực thể users Thực thể users lưu trữ thông tin về người dùng. Các thuộc tính của thực thể users bao gồm:

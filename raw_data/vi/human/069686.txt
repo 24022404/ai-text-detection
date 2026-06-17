@@ -1,1 +1,0 @@
-Sau khi đưa qua Ngam em thu được danh sách các từ gợi ý. Vớ mỗ từ trong danh sách em sẽ đo độ tương đồng (3.3.4) với từ sai chính tả cần sửa. Từ kết quả đo độ tương đồng, em sắp xếp lại danh sách các từ gợi ý và lấy ra những từ gần với từ cần sửa nhất.

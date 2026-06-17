@@ -1,1 +1,0 @@
-Determining traditional FL algorithm limitations : The initial contribution involves a critical examination of the FedAvg and FedAdp algorithms and highlighting their limitations in certain scenarios of non-IID data.

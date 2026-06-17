@@ -1,1 +1,0 @@
-Trước tên, MySQL là một hệ quản trị cơ sở dữ liệu quan hệ (được viết theo chuẩn quốc tế là Relational Database Management System) hoạt động theo mô hình client server. RDBMS là một phần mềm hay dịch vụ dùng điểm tạo và quản lý các cơ sở dữ liệu (Database) theo hình thức quản lý các mối liên hệ giữa chúng.

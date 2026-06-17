@@ -1,1 +1,0 @@
-Nhân viên hoặc quản lý thực hiện thêm các món ăn khách yêu cầu vào gỏ hàng 1.2. Ngườ dùng ấn nút thanh toán 1.3. Hệ thống sẽ điều hướng và hển thị giao diện trang thanh toán 1.4. Ngườ dùng điền số bàn khách ngồ 1.5. Ấn nút điặt hàng 2. Khách hàng điặt đồ ăn trên website:

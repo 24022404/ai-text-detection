@@ -1,1 +1,0 @@
-The final step is to store the results in two arrays, totalRouteCoord andtotal RouteRot . These arrays contain information about the route and rotation for each floor in the building, providing complete information about the shortest path to travel from one floor to another.

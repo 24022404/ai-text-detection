@@ -1,1 +1,0 @@
-Phân tích và xử lý thông tin dữ lệu một cách tố đia. Một số thông tin về thiết bị, môi trường sử dụng ứng dụng của khách hàng cũng điềm lạ nhiều thông tin hữu ích.

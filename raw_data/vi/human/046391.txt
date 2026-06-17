@@ -1,1 +1,0 @@
-Ngoài ra, thực hiện chức năng nhắn tin trao đổi qua lại giữa 2 người sử dụng công nghệ Socket.

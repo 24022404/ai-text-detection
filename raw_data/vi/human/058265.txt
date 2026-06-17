@@ -1,1 +1,0 @@
-Phương pháp kểm thử Kểm thử hộp đien co phần mềm như là một "hộp đien", kểm thử chức năng mà không cần bất kỳ kiến thức về cấu trúc và hành v bên trong phần mềm. Các Tester chỉ bết về những gì phần mềm phả làm mà không bết là nó làm như thế nào.

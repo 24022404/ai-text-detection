@@ -1,1 +1,0 @@
-Blade Template Engne: Blade là một template engne mạnh mẽ điược tích hợp sẵn trong Laravel, cho phép bạn tạo ra các giao diện người dùng phức tạp một cách dễ dàng và lnh hoạt.

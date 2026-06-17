@@ -1,1 +1,0 @@
-Nếu giá tăng nhưng khối lượng giao dịch nhỏ, đồ thị OBV tăng chậm, giá gảm nhưng khối lượng giao dịch nhỏ, đồ thị OBV gảm chậm. Nếu giá tăng vớ khối lượng giao dịch lớn OBV tăng mạnh, nếu gá gảm với khối lượng giao dịch lớn thì OBV gảm mạnh.

@@ -1,1 +1,0 @@
-Giả sử khi chúng ta muốn truyền dữ lệu từ component A sang component C thì bắt buộc phải thông qua component B.

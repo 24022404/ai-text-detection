@@ -1,1 +1,0 @@
-threshold: Là ngưỡng điểm xác định kết quả trả về của mô hình YOLO v5. Chỉ lấy những kết quả có độ chính xác lớn hơn threshold.

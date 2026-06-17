@@ -1,1 +1,0 @@
-Các ràng buộc phải được tạo từ exchange đến hàng đợi. Trao đổi định tuyến thông điệp vào hàng đợi sẽ tùy thuộc vào thuộc tính của tin nhắn.

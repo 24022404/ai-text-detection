@@ -1,1 +1,0 @@
-Props chứa các tham số đầu vào cho một component, nó sẽ giúp các component tương tác được với nhau. Trong khi đó state sẽ thể hiện trạng thái của ứng dụng, kh state thay đổi thì component đồng thờ render lạ để cập nhật UI.

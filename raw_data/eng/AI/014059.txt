@@ -1,1 +1,0 @@
-The command "apksigner verify –verbose <apk_file>" checks which signature versions—like v1, v2, v3, or v4—are present in an APK and confirms secure signing algorithms such as SHA-256.

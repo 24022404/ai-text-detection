@@ -1,1 +1,0 @@
-Back-end Technologies NodeJs  is a platform built on top of the V8 JavaScript Engine – an interpreter that executes JavaScript code, making it simple and easily extensible to build webapplications. NodeJS was developed by Ryan Dahl in 2009 and can run on many different operating systems such as: OS X, Microsoft Windows, Linux.

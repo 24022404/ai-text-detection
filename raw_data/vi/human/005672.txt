@@ -1,1 +1,0 @@
-Thiết kế cơ sở dữ liệu Từ sự lên kết giữa các thực thể trong biểu đồ ERD hình 4.25, cơ sở dữ liệu được thiết kế theo quan hệ có cấu trúc (SQL), sử dụng hệ quản trị cơ sở dữ liệu PostgreSQL.

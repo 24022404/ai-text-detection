@@ -1,1 +1,0 @@
-Máy chủ web sau đó sẽ phản hồi với trang web chứa mã độc và trình duyệt của người dùng sẽ hiển thị nội dung đó. Nếu người dùng nhấp vào liên kết hoặc thực hiện bất kỳ hành động nào khác trên trang đó, mã độc sẽ được thực thi và tn tặc có thể thu thập thông tin của người dùng.

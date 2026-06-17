@@ -1,1 +1,0 @@
-The charts display sales revenue and sales statistics that the admin can adjust by time and product type they want to view.

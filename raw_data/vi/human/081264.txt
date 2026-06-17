@@ -1,1 +1,0 @@
-Hoàn thiện đầy đủ các tính năng quan trọng cho phía người dùng, như quản lý giỏ hàng thông minh, hỗ trợ thanh toán đa phương thức linh hoạt, và tùy chọn tìm kiếm và lựa chọn sản phẩm theo yêu cầu.

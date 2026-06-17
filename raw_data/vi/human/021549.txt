@@ -1,1 +1,0 @@
-Ví dụ về câu truy vấn vào file data.owl điểm lấy thông tin địa điểm du lịch "thành cổ loa".

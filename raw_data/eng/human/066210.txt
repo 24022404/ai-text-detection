@@ -1,1 +1,0 @@
-It also incorporates robust security measures like smart contracts, Shamir’s secret sharing, and the Pedersen DKG protocol. These features provide a seamless and secure user experience, enabling individuals to confidently engage with the Web3 ecosystem.

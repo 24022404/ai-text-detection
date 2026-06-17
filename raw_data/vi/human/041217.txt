@@ -1,1 +1,0 @@
-Có khả năng mở rộng thông qua các phương pháp lưu trữ, ngôn ngữ thủ tục, kết nối luồng,...v. Cung cấp tính năng tìm kiếm văn bản đầy đủ, hệ thống hóa ký tự theo cách khoa học.

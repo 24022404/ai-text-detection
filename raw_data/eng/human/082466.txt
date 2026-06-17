@@ -1,1 +1,0 @@
-It can be proved that there is a path Pvof length s−jsatisfying all of its edges not lying in Pand its end-vertex is v. The path Pvis constructed backwardly as follows:

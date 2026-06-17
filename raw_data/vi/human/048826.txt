@@ -1,1 +1,0 @@
-Go repository: chứa các lớp có các phương thức thao tác với cơ sở dữ liệu hoặc các file hệ thống, phục vụ các yêu cầu lấy và cập nhật dữ liệu từ gó service.

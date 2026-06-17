@@ -1,1 +1,0 @@
-K. M. Rachmawati E. Kom M. developed a web-based ticketing helpdesk for PT Commonwealth Life using the CodeIgniter framework.

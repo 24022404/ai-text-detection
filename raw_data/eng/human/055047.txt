@@ -1,1 +1,0 @@
-There are many different Neural Network architectures in deep learning, including Convolutional Neural Network (CNN) for image processing, Recurrent Neural Network (RNN) for sequence data processing, and generative models such as Generative Adversarial Network (GAN) for generating new data.

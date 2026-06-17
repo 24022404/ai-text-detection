@@ -1,1 +1,0 @@
-Ngoài ra chương này còn trình bày thiết kế chi tiết về cơ sở dữ liệu, các thư viện chính mà hệ thống sử dụng.

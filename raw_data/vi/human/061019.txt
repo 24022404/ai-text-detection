@@ -1,1 +1,0 @@
-Tính toán Cosne Smarty (độ tương tự Cosin) giữa các cặp vectơ sản phẩm. Mỗ vector sản phẩm sẽ biểu diễn bằng các giá trị mua hàng của sản phẩm đó.

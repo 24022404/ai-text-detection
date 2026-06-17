@@ -1,1 +1,0 @@
-View là bộ hiển thị giao diện cho người dùng. Bộ phận này có thể tạo ra gạo điện phục vụ cho người dùng. Gao vện là những thành phần tạo ra từ HTML và CSS, cùng vớ dữ liệu của bộ Model, nhưng bộ View không thể trực tiếp lấy dữ liệu từ Model mà phải được thông qua bộ Controller.

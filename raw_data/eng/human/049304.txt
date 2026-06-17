@@ -1,1 +1,0 @@
-Architecture design, detail design, application building, testing, and deployment are in chapter 4. Architecture design describes the software architecture with the supplement or improvement and the overall design project with a UML diagram.

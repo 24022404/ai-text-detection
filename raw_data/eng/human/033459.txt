@@ -1,1 +1,0 @@
-Consider the email sending task: an email will be sent once the user successfully upgrades the account. If we place the sending email code in our main server, it will be sent whenever a user’s account is upgraded. The server’s resources will be diverted to the process of sending email, reducing its ability to handle new requests.

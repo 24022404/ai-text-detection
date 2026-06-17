@@ -1,1 +1,0 @@
-Another reason was scalability. Storing all the building data within the mobile app would not be a practical solution as the size of the data increases with the number of buildings. Hence, to maintain the efficiency of the app, all the data was stored in a centralized server, which can easily be scaled as the number of buildings increase.

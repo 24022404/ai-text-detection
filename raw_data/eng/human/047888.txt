@@ -1,1 +1,0 @@
-Actors Involved : User Description : The user selects a previously analyzed file from the recent scans list for further actions such as rescanning or downloading.

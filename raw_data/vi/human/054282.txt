@@ -1,1 +1,0 @@
-Lazy load application: phương pháp tối ưu hoá tốc độ load web, chỉ load các thành phần kh cần tớ và sẽ không load lạ các thành phần điã có.

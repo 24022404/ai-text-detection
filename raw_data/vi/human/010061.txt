@@ -1,1 +1,0 @@
-Kết quả đạt được Sau khi thực nghiệm và lựa chọn mô hình EffcentNet, tô điã thử nghệm trên thết bị máy tính và camera vớ thông số điã điề cập ở chương 4. Dưới đây là hình ảnh khi chạy thực nghiệm của mô hình.Hình 5.1: Kết quả mô hình nhận dện cử chỉ tay Mô hình điã dự đioán kết quả là 5, chính xác vớ chỉ số tô điã điặt cho cử chỉ xòe bàn tay.

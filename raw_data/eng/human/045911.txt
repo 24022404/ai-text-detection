@@ -1,1 +1,0 @@
-D. Vu, T. Nguyen, V. Tong and S. Souihil, "Enhancing Multi-Label Vulnerability Detection of Smart Contract Using Language Model," 2023 5th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS), Paris, France .

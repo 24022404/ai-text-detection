@@ -1,1 +1,0 @@
-Hệ thống quản lý nhân sự và chấm công thường có các chức năng cơ bản là quản lý việc chấm công bằng gương mặt và tính lương, quản lý hồ sơ nhân sự, quản lý các đơn từ của nhân sự, đánh giá nhân sự dựa trên các tiêu chí đánh giá, v.v.

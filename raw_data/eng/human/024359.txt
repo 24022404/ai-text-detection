@@ -1,1 +1,0 @@
-It’s important to note that while Streamlit does not strictly adhere to the tradi tional Model-View-Controller (MVC) architecture, the concept of having separate pages for different views aligns with the "View" part of the MVC pattern. In this approach, each page file in Streamlit defines the user interface (UI) elements and logic for a specific view of the application.

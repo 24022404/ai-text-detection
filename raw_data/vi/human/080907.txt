@@ -1,1 +1,0 @@
-JSX: Cú pháp này cho phép kết hợp mã HTML và Javascript trong cùng một tệp, giúp cho việc tạo ra các thành phần UI trở nên dễ dàng hơn.

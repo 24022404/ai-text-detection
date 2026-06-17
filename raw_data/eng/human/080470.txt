@@ -1,1 +1,0 @@
-Violence detection is one of the most crucial elements of video-based anomaly detection (Khan et al., 2019). The usage of video cameras to monitor individuals has become essential due to the rise in security concerns across the globe, and early detection of these violent actions may significantly minimize the dangers.

@@ -1,1 +1,0 @@
-Certificate Information: Extracts certificate information (hardcoded certificates or keystore).*Code Analysis: The app’s code is analyzed using tools like apkid_analysis , code_analysis , andbehaviour_analysis .

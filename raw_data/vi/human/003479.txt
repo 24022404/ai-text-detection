@@ -1,1 +1,0 @@
-Chưa hoàn thiện: Hiện nay, Bootstrap vẫn chưa điầy điủ các thư viện cần thiết để tạo ra một framework hoàn hảo.

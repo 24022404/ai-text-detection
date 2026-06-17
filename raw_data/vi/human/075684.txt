@@ -1,1 +1,0 @@
-Chương 5: Trình bày các giải pháp và đóng góp nổi bật trong ĐATN. Các giải pháp này giúp giải quyết các vấn đề tồn tại trên các phần mềm quản lý sản xuất điã khảo sát. Từ đó thể hiện được lợi ích của các giải pháp khi sử dụng phần mềm trong thực tế.

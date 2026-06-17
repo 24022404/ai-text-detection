@@ -1,1 +1,0 @@
-meanIoU =1 cX cIoUc (4.1) Trong đió c là số lượng các phân lớp Dice coefficient Dct coefficient là độ đo có lên hệ chặt chẽ và tương quan dương với IoU, độ đo này được tính bằng cách lấy 2 lần diện tích chồng lấn giữa nhãn dự đoán và nhãn thực chia cho tổng diện tích của hai nhãn (xem hình minh họa 4.2).

@@ -1,1 +1,0 @@
-Our application use JWT as the main method of authenticating user, with the use of both access token and refresh token.

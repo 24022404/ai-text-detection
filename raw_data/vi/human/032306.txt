@@ -1,1 +1,0 @@
-− Entity Object, Complex Object là các lớp tương ứng cho một dòng dữ liệu của table trong database. Khác biệt chính giữa ha lo ạ này là Complex Object không chứa primary key.

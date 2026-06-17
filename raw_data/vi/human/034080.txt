@@ -1,1 +1,0 @@
-Đánh giá và phân tích hiệu năng của mô hình đề xuất trên các tập dữ liệu mở về ảnh nội soi polyp đại tràng.

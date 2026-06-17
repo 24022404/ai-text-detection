@@ -1,1 +1,0 @@
-Gả pháp Một giải pháp để giải quyết vấn đề này là sử dụng Amazon S3. Amazon S3(Simple Storage Service) là một dịch vụ lưu trữ đám mây được cung cấp bởi Amazon. S3 cho phép người dùng lưu trữ và truy cập các tệp lớn, tạo ra một kho lưu trữ phân tán, giúp cho việc quản lý và truy cập dữ liệu dễ dàng hơn.

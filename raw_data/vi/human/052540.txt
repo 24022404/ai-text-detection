@@ -1,1 +1,0 @@
-<arflow_server_host>:<arflow_port>/ap/v1/dags/ndcator_dag Từ kết quả trả cần trích xuất ra trường thông tin fle_token . Trường thông tin này tếp tục điược gử theo yêu cầu điến URL sau:

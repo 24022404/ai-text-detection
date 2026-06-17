@@ -1,1 +1,0 @@
-Chọn Xóa danh mục điã có sản phẩm.  Hệ thống hiển thị thông báo “Không thể xóa danh mục điã có sản phẩm”.  Hệ thống hiển thị thông báo “Không thể xóa danh mục điã có sản phẩm”.  Đạt Bảng 4.10: Kiểm thử chức năng quản lý sản phẩm Test case Quy trình thực hiện  Kết quả mong đợi  Kết quả đạt được  Trạng thái TC01  1. Đăng nhập tài khoản quản trị vên.

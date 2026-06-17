@@ -1,1 +1,0 @@
-In the Forward Propagation, the Activation Function is a mathematical “gate” in between the input feeding the current neuron and its output going to the next layer .In simpler terms, Forward Propagation follows 3 main steps:

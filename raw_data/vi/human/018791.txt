@@ -1,1 +1,0 @@
-PRECISION =TP TP+FP(2.1) Độ đo Recall : tính bằng tỷ lệ giữa True Positive và tổng của True Positive và False Negative – tổng số điểm thực sự thuộc lớp Positive. Công thức toán học:

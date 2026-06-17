@@ -1,1 +1,0 @@
-Chính nhờ việc có sẵn các template, các developers hoặc designers có thể sử dụng Bootstrap (hoặc có thể dựa vào đó) để thiết kế, sáng tạo và phát triển ra các mẫu website có layout chỉnh chu hơn, mới mẻ hơn và mang tính cá nhân hóa nhiều hơn. Nhờ đó, họ có thể tiết kiệm thờ gần hơn, đỡ nhàm chán hơn, và giúp website trở nên chuyên nghiệp hơn trong mắt khách hàng.

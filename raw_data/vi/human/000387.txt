@@ -1,1 +1,0 @@
-Tuy nhên, cần lưu ý rằng phương pháp tăng trưởng tuyến tính điơn gản có gớhạn trong vệc ứng dụng cho các dữ lệu phức tạp và bến đỗ không điều điặn theo thờ gan. Trong những trường hợp dữ lệu có xu hướng bến đỗ không điều, xu hướng tăng trưởng không điơn gản hoặc bị nhễu, ta cần xem xét các phương pháp dự báo khác điể có kết quả dự đioán chính xác hơn.

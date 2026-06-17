@@ -1,9 +1,0 @@
-This paper investigates the potential of using pure transformer architectures to create a robust Generative Adversarial Network (GAN) model, named TransGAN, which challenges traditional convolutional network-based GANs in the field of image synthesis. The study primarily focuses on evaluating the performance scalability when leverages transformers exclusively, without convolutional counterparts.
-
-Methods/Approach: TransGAN is constructed using two pure transformer models functioning as the generator and discriminator. Our approach involves fundamental advancements in GAN architecture that replace the typical CNN backbones with transformer networks, utilizing attention mechanisms for both image generation and discrimination tasks. A comprehensive training strategy is employed to stabilize the learning process and optimize performance.
-
-Results/Findings: The experimental results demonstrate that TransGAN achieves competitive performance with state-of-the-art GAN models while offering the advantage of inherent scalability with larger dataset and model sizes. Our findings indicate that the transformer-based architecture mitigates common issues faced by traditional CNN-based GANs, such as mode collapse, while achieving improved fidelity and diversity in generated images.
-
-Conclusion/Implications: The success of TransGAN confirms the viability of transformer structures within adversarial networks, suggesting a paradigm shift towards transformer-centric GAN architectures for scalable image synthesis. Our research contributes to the growing body of work exploring the fusion of transformers with generative models, paving the way for future advancements in image generation tasks and offering potential applications in industries reliant on high-quality synthetic data generation.
-
-Keywords: Generative Adversarial Network (GAN), Transformer, Image Synthesis, Attention Mechanism, Scalability, TransGAN, Mode Collapse, Synthetic Data.

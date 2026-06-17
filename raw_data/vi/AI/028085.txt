@@ -1,7 +1,0 @@
-Quy trình giải trình tự Sanger là một phương pháp phân tích DNA được sử dụng rộng rãi trong chẩn đoán các biến thể đa hình đơn Nucleotide (SNP) trên gen CLDN-1 liên quan đến các bệnh lý khác nhau. Quy trình này bao gồm các bước chính sau:
-
-Trước tiên, DNA được phân lập từ mẫu bệnh phẩm và được làm sạch để loại bỏ các tạp chất. Sau đó, DNA được phân tích bằng kỹ thuật PCR (Polymerase Chain Reaction) để tạo ra các đoạn DNA ngắn có chứa khu vực quan tâm.
-
-Tiếp theo, các đoạn DNA này được phân tích bằng kỹ thuật giải trình tự Sanger, trong đó sử dụng các enzyme để cắt DNA thành các đoạn nhỏ hơn và sau đó được phân tích bằng máy tính để xác định trình tự nucleotide.
-
-Quy trình này cho phép xác định các biến thể đa hình đơn Nucleotide trên gen CLDN-1, bao gồm cả các biến thể có thể liên quan đến các bệnh lý như ung thư, bệnh gen và các bệnh khác. Kết quả của quy trình này có thể được sử dụng để chẩn đoán và theo dõi bệnh lý, cũng như để phát triển các phương pháp điều trị mới.

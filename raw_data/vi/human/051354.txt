@@ -1,1 +1,0 @@
-Cơ sở dữ lệu của hệ thống điược xây dựng dướ dạng SQL, Dựa theo bểu đồ ERD phía trên, dướ điây là cơ sở dữ lệu ch tết của hệ thống.

@@ -1,5 +1,0 @@
-Tổng hợp vật liệu hỗn hợp Cu-C bằng nhiệt phân yếm khí Cu-MOF và ứng dụng làm xúc tác cho phản ứng phân hủy amoniac (NH3) đã đạt được những kết quả đáng chú ý. Vật liệu hỗn hợp này được tạo ra bằng cách nhiệt phân yếm khí của phức chất Cu-MOF, sau đó được điều chỉnh để tạo ra một cấu trúc tinh thể ổn định.
-
-Kết quả nghiên cứu cho thấy vật liệu hỗn hợp Cu-C có khả năng xúc tác cao cho phản ứng phân hủy amoniac, với tốc độ phản ứng nhanh và hiệu suất cao. Điều này được cho là do cấu trúc tinh thể ổn định và sự phân bố đồng đều của nguyên tử Cu và C trong vật liệu.
-
-Ứng dụng của vật liệu hỗn hợp Cu-C trong xúc tác cho phản ứng phân hủy amoniac có tiềm năng lớn trong việc giảm thiểu ô nhiễm môi trường và cải thiện hiệu suất công nghiệp. Tuy nhiên, vẫn còn nhiều nghiên cứu cần được thực hiện để hiểu rõ hơn về cơ chế hoạt động và khả năng ứng dụng của vật liệu này.

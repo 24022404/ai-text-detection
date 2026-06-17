@@ -1,1 +1,0 @@
-Sau khi kết hợp các thành phần, kem tạo được một bộ dữ liệu kiểm thử khoảng 5000 dòng cho lỗ hổng SQL Time Based Injection như dưới hình 6.1Hình 6.1: Màn hình bộ dữ liệu kiểm thử cho lỗ hổng SQL Time Based Injection Sau khi xây dựng được bộ dữ liệu kiểm thử, em xây dựng thông điệp để sử dụng dữ liệu kiểm thử đó.

@@ -1,1 +1,0 @@
-Basic Flow 1. User opens app 2. The customer clicks on the "Services" icon, showing six service types on the dashboard.

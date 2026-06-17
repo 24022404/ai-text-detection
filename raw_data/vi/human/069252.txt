@@ -1,1 +1,0 @@
-Thiết kế giao dện Chuẩn hóa cấu hình màn hình module sẽ điáp ứng: Độ phân gả tố thểu điạt 1366 x 768 pxels, số lượng màu hỗ trợ: 16777216 màu. Vị trị điặt navgaton bar dướ thanh navgaton của Magento. Vị trí thông báo điược kế thừa từ framework Magento.

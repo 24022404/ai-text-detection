@@ -1,1 +1,0 @@
-For each script, it constructs the file path in frida_scripts/android/others .–If the script file exists and the path is safe (no path traversal), it reads the file content.

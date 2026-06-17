@@ -1,1 +1,0 @@
-Kiểm thử dễ dàng : Sự tách biệt giữa Model, View và Controller cho phép việc kiểm thử dễ dàng hơn. Các nhóm kiểm thử có thể tập trung vào việc kiểm thử từng thành phần riêng biệt mà không ảnh hưởng đến các thành phần khác.

@@ -1,1 +1,0 @@
-Thư viện và công cụ sử dụng Bảng 4.22 liệt kê các công cụ và thư vện em đã sử dụng để thực hiện, nghiên cứu, thiết kế, khảo sát, lập trình và triển khai hệ thống này.

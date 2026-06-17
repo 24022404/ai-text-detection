@@ -1,1 +1,0 @@
-Kh khảo sát các hệ thống hiện có, em nhận thấy rằng các ứng dụng đã cung cấp thông tin liên quan đến các loài động vật và thực vật, nhưng vẫn còn hạn chế về tính năng nhận diện và tương tác.

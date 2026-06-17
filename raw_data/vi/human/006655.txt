@@ -1,1 +1,0 @@
-Yêu cầu bảo mật –Lưu mật khẩu người dùng dướ dạng điã hash Yêu cầu nền tảng và trình duyệt –Hỗ trợ các trình duyệt google chrome, safar.

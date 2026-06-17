@@ -1,9 +1,0 @@
-This research addresses the challenge of manga colorization by introducing a method that not only automates the process but also integrates awareness of distinct painting styles. Traditional manga, primarily in black and white, often requires skillful colorization to enhance visual storytelling. Existing methods lack the ability to adapt to diverse artistic styles, necessitating a novel approach.
-
-Methods: We propose a painting style-aware manga colorization technique employing Generative Adversarial Networks (GANs). The system is designed to learn and replicate various painting styles, incorporating a style discriminator that guides the colorization process to align with the artwork's inherent aesthetic. By leveraging GANs, our method dynamically generates color outputs that honor the original artistic intention, balancing between realistic and stylistically consistent results.
-
-Results: The proposed GAN-based model was evaluated against traditional colorization methods and demonstrated superior performance in both qualitative and quantitative assessments. The results indicate a significant improvement in maintaining style fidelity and color harmony across different manga panels and styles. Comparative analysis with existing models showed enhanced adaptability and realism in the colorization process.
-
-Conclusion: This study introduces a significant advancement in automatic manga colorization by integrating painting style awareness into the GAN framework. Our approach contributes to the field by offering a customizable and efficient solution for artists and publishers, enhancing manga production with minimized manual intervention. Future applications include extending this technique to other forms of black-and-white illustrations, potentially revolutionizing digital art workflows.
-
-Keywords: manga colorization, painting style-awareness, Generative Adversarial Networks, GANs, digital art, style discriminator, automated colorization.

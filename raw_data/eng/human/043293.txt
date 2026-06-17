@@ -1,1 +1,0 @@
-CIFAR-10 : The CIFAR-10 dataset encompasses a collection of 60,000 color images, each sized at 32x32 pixels, distributed across 10 distinct classes with 6,000 images each class. The dataset is further partitioned into 50,000 training images and 10,000 test images.

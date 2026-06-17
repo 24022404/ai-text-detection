@@ -1,1 +1,0 @@
-Provider: This entity stores information about users who have the role of a service provider. It also has a one-to-one relationship with the User entity, meaning each provider is associated with one user account.

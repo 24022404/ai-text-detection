@@ -1,1 +1,0 @@
-Cụ thể, Quản trị viên có các chức năng như sau: quản lý người dùng, và vết và sản phẩm trong hệ thống, quản lý đơn hàng, lịch sử giao dịch, xem thống kê.

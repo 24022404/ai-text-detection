@@ -1,1 +1,0 @@
-Learning how to deploy web applications using Python programming lan guage and Odoo framework. Familiarizing with the relevant technologies and libraries such as Qweb and ORM.

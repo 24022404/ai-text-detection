@@ -1,1 +1,0 @@
-Kh điã điăng nhập vào trang web, ở giao diện Thông tin cá nhân chọn chức năng Chỉnh sửa thông tin Kh đó, người dùng nhập đầy đủ thông tin Sau đó, trả về giao diện Thông tin người dùng và thông báo: "Thông tn cá nhân điã điược cập nhật thành công" 2. Acceptance Criteria 2:

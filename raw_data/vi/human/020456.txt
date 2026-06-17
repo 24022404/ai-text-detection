@@ -1,1 +1,0 @@
-Nhằm tìm hiểu quá trình phát trển cũng như có thể tự xây dựng một ứng dụng nhắn tin và gọ điện vdeo trực tuyến trong khuôn khổ phù hợp với sinh viên, gảng viên hướng dẫn và em đã thống nhất quyết định lựa chọn điề tà xây dựng "Phần mềm nhắn tin, gọ điện vdeo trực tuyến".

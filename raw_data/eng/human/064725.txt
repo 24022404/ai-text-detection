@@ -1,1 +1,0 @@
-Whenever a new ticket was added to the ticket set, it was necessary to redefine the priority of the ticket and refresh the priority scheduling subset.

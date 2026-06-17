@@ -1,1 +1,0 @@
-Để nâng cao chất lượng phần mềm cũng như gảm thờ gan trong quá trình kiểm thử và khắc phục, yêu cầu cần có một công cụ kiểm thử và quản lý lỗ hổng. Kiểm thử đảm bảo cho ứng dụng an toàn về bảo mật trước kh được phát triển thành một sản phẩm. Trong khi đó, quản lý lỗ hổng giúp ích trong việc khắc phục lỗ hổng cũng như tá kiểm thử lỗ hổng đó.

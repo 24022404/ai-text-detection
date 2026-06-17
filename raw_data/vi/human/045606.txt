@@ -1,1 +1,0 @@
-Lựa chọn, áp dụng những công nghệ lập trình quen thuộc, phù hợp, nhiều thư viện hỗ trợ như là Typescript, MongoDB, PostgreSQL, Reds.

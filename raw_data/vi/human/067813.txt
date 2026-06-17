@@ -1,1 +1,0 @@
-Người dùng: Đại diện cho người sử dụng hệ thống. Người dùng có thể thao tác với mã nguồn thông qua gao den Code Editor View.

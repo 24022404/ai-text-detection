@@ -1,1 +1,0 @@
-Hướng tiếp cận thay thế có thể được chọn là JavaScript (React Native). Dart được chọn sử dụng trong đồ án này vì Flutter sử dụng Dart và Dart là một ngôn ngữ hướng đối tượng tương tự như Java , giúp dễ dàng trong việc bảo trì và nâng cấp hệ thống so với JavaScript.

@@ -1,1 +1,0 @@
-Như hình vẽ mô tả thì ngay từ đầu khi người dùng truy cập vào website, server đã trả về cho người dùng 1 trang web đầy đủ phần HTML cùng dữ liệu đi kèm.

@@ -1,1 +1,0 @@
-This chapter will describe the design, construction, and implementation of the ARNav app, including the design process, the choice of programming languages and tools, and the architecture of the app.

@@ -1,1 +1,0 @@
-Tuy nhiên Scrapy vẫn có một số hạn chế bao gồm: Nó không thể tương tác với các trang web theo cách mà con người có thể làm. Ví dụ nó không thể thực hiện các hành động như nhấp vào nút, nhập văn bản vào trường văn bản. Thêm nữa Scrapy không thể xử lý các trang web phức tạp, chẳng hạn các trang web có sử dụng Javascript hoặc các trang web được bảo vệ bằng reCAPTCHA.

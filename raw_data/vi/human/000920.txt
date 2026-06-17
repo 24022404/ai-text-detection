@@ -1,1 +1,0 @@
-Hệ thống gửi thông báo tạo thành công tới website đại diện trung tâm 5. Hệ thống gửi thông báo có yêu cầu mớ tớ quản trị viên 4 Xét duyệt yêu cầu 1. Ấn vào yêu cầu cần duyệt trên bảng danh sách yêu cầu hoặc bấm vào thông báo được nhận.

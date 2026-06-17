@@ -1,1 +1,0 @@
-Hỗ trợ cho các ứng dụng RESTful: Flask hỗ trợ cho việc phát triển các ứng dụng RESTful, giúp cho việc xây dựng các ứng dụng API trở nên đơn giản và dễ dàng hơn.

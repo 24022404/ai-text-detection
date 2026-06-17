@@ -1,1 +1,0 @@
-The 'util' component contains shared utilities such as Redis operations, while 'dto' is used to store pure data without business logic, transferring database data into DTOs.

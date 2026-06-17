@@ -1,1 +1,0 @@
-DTO : chứa các lớp địa diện cho dữ liệu, được sử dụng điểm đóng gói, chuyển đổi và truyền tải dữ liệu giữa các tầng. Nó giúp đơn giản hóa việc truyền tải dữ liệu, chuyển đổi định dạng và đảm bảo tính mật của dữ liệu.4.1.3 Thiết kế cho tết góa, Gó Vẽ Hình 4.3: Biểu đồ thiết kế góc View Hình 4.3 mô tả những lớp được định nghĩa trong gió View.

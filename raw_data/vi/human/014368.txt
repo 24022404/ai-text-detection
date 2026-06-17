@@ -1,1 +1,0 @@
-Hệ thống hosting có chức năng tự động cập nhập mã nguồn và deploy dựa theo các lần đổi code trên github.

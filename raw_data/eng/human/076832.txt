@@ -1,1 +1,0 @@
-Proof. A left-unbalanced vertex is represented by a sequence whose suffix of length sis filled by 0. Hence, a path from uto a left-unbalanced vertex must contain atleast s−jedges labeled 0. In fact, a path of length s−jconnecting uto a left unbalanced vertex exists, which is the path of all 0labeled edges. This path comes from uto0s−j1x1t0s.

@@ -1,1 +1,0 @@
-Additionally, within the ObjectPoolManager, there is a one-to-many relation ship with the ObjectPool class. This is because the ObjectPoolManager manages multiple object pools simultaneously, each responsible for a specific type of object.

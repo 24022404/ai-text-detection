@@ -1,1 +1,0 @@
-If Remote Config is enabled, the system checks whether the configura tions contain sensitive information. If they do, a warning-level finding is recorded.

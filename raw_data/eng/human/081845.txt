@@ -1,1 +1,0 @@
-If there are only one or fewer neighbors, the algorithm will only take into account the item that is closest to the target item. Personalized recommendations may result from this, but it’s possible that the variety of the user’s preferences won’t be fully reflected.

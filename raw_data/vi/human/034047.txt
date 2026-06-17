@@ -1,1 +1,0 @@
-Tách biệt trách nhiệm : Kiến trúc MVC giúp tách biệt rõ ràng các thành phần trong ứng dụng. Model chịu trách nhiệm xử lý dữ liệu và logic kinh doanh, Về quản lý hiển thị giao diện người dùng, và Controller điều khiển tương tác giữa Model và View. Việc tách biệt này giúp tạo sự rõ ràng và dễ quản lý các chức năng của ứng dụng.

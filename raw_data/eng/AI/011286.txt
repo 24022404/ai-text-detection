@@ -1,1 +1,0 @@
-J. Dong, Y. Zhao, and T. Peng (2009) analyze several design pattern mining methods in software engineering, detailing their approaches, advantages, and drawbacks in their comprehensive review.

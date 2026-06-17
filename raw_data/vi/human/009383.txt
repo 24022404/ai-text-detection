@@ -1,1 +1,0 @@
-Dựng khuôn mặt 3D vớ CNN  a, 3D Morphable Model 3D Morphable Model ,  (3DMM) là một mô hình thống kê về hình dạng và kết cấu khuôn mặt 3D. Nó thường được sử dụng trong lĩnh vực thị giác máy tính và các lĩnh vực liên quan cho các tác vụ như phân tích khuôn mặt, nhận dạng khuôn mặt và tổng hợp khuôn mặt.

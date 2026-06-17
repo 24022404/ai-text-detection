@@ -1,1 +1,0 @@
-The View does not have direct access to the database, but only receives information from the Controller and Model through requests.

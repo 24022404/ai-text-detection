@@ -1,1 +1,0 @@
-Quản trị sẽ tạo giao diện cho người dùng và người sáng tạo, Người sáng tạo ko được truy cập gao vện có thể đăng tải nội dung, sản phẩm của mình lên nền tảng, Người dùng tìm kiếm, hoặc được đề xuất bài hát và nghe bài hát.

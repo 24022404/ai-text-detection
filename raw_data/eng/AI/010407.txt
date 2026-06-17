@@ -1,1 +1,0 @@
-The malware_check method compares domains from URLs against a list of known malware domains to detect threats.

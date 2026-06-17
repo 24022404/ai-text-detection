@@ -1,1 +1,0 @@
-Để giải quyết vấn đề trên, em cần phải xây dựng ứng dụng giúp chuỗi cửa hàng cà phê quản lý sản phẩm, kho hàng, nhân viên và đơn hàng một cách dễ dàng và chính xác. Các chức năng quản lý sản phẩm, quản lý kho, quản lý nhân viên và quản lý đơn hàng được xem là những yếu tố quan trọng và cần thiết để giúp chuỗi cửa hàng cà phê hoạt động hiệu quả và tối ưu hóa quy trình kinh doanh.

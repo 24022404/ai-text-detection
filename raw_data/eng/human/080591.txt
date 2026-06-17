@@ -1,1 +1,0 @@
-Proof. Letvbe a vertex in P,vis neither start nor end vertex. Then whenever P comes to vby an in-edge, it must go out of vby an out-edge. So the claim 1 is true.

@@ -1,1 +1,0 @@
-Input: Số tiền: 1.000 000, Yên ngân sách: "", Ngày bắt đầu: 01/08/2023, Ngày kết thúc: 31/08/2023, Loạch tiêu: "Ăn uống" Expected output: Ngân sách không được tạo thành công và hệ thống thông báo lỗ "Vui lòng cung cấp tên ngân sách".

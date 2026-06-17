@@ -1,1 +1,0 @@
-Về mặt ứng dụng, em đã hoàn thành được hệ thống phát hiện và gợi ý sửa lỗ sa cùng với một số tính năng phù hợp với nhu cầu của người dùng thực tế như: () Kiểm tra chính tả bằng file, () Sửa lỗi chính tả trên file báo cáo, () Tả file sau khi sửa lỗ chính tả. Việc triển khai và phát triển hệ thống giúp cho gả pháp mà ĐATN điã điưa ra sẽ tếp cận gần hơn với thực tiễn.

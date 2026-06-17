@@ -1,1 +1,0 @@
-Tên Kiểu dữ lệu Mô tả Có bắt buộc Có Ràng buộc d Int Id điền tà Có Khóa chính contain Varchar(255)Nội dung hình luận Có task Int Id công việc Có Khóa ngoại __user Int Id người bình luận Có timestamp TIMESTAMP Thờ gan bình luận Có Bảng 4.8: Bảng dữ lệu Comments Bảng dữ lệu Meeting Mục đích: Lưu thông tin chi tiết về lịch gặp mặt của sinh viên và giảng viên.

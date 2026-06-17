@@ -1,1 +1,0 @@
-For example, when importing a shipment of 10 laptops, if they are packed into 10 separate packages, the number of products on 1 RFID code needs to be 1.

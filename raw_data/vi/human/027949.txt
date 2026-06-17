@@ -1,1 +1,0 @@
-Đố với người dùng đăng nhập vào hệ thống, họ không những có thể nghe và xem thông tin bài hát, họ còn có thể được phép đánh dấu yêu thích, hệ thống đề xuất mục khám phá theo sở thích của khách hàng. Người dùng quản lý tài khoản của mình và đặc biệt, nếu nền tảng được tiếp tục phát triển, khách hàng có thể đánh giá, bình luận, tạo một hoặc nhiều playlist cho bản thân mình.

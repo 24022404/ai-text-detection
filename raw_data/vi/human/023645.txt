@@ -1,1 +1,0 @@
-Reducer – là các hàm xử lý trạng thái của ứng dụng. Mỗ reducer nhận vào một acton và trả về trạng thái mới, nếu cần thiết.

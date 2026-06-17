@@ -1,9 +1,0 @@
-Objective: Accurate and robust road detection is essential for autonomous driving and advanced driver-assistance systems. This paper proposes a novel fusion framework that combines LiDAR point clouds and RGB camera images within a fully convolutional neural network (FCN) to improve road segmentation under diverse environmental conditions.
-
-Methods: We first project 3D LiDAR measurements onto the 2D image plane to generate a dense depth map aligned with the corresponding RGB frame. These two modalities—depth and color—are then processed by a dual-branch FCN encoder that extracts complementary features. A multi-scale fusion module integrates spatially and semantically rich representations from both branches. The fused features are decoded by a series of upsampling layers to produce pixel-wise road probability maps. Training is performed end-to-end using a cross-entropy loss, with data augmentation techniques to enhance generalization.
-
-Results: Evaluated on the public KITTI road benchmark, our fusion model achieves an average F1-score of 96.3%, surpassing single-modality baselines by 4.7% in F1 and reducing false positives in shadowed and low-texture regions by over 30%. The network processes images at 18 frames per second on a single GPU, demonstrating real-time capability.
-
-Conclusion: By leveraging complementary strengths of LiDAR and camera sensors within an FCN, the proposed fusion approach delivers state-of-the-art road detection performance, increased robustness to challenging visual artifacts, and real-time inference speed. This framework can be readily extended to other autonomous driving perception tasks.  
-
-Keywords: LiDAR-camera fusion, road detection, fully convolutional neural network, sensor fusion, deep learning, real-time segmentation.

@@ -1,1 +1,0 @@
-*FriendaddHandler: xử lý các yêu cầu gửi yêu cầu kết bạn, huỷ yêu cầu kết bạn, chấp nhận yêu cầu kết bạn, từ chối kết bạn.

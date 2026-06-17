@@ -1,1 +1,0 @@
-Học có giám sát yếu cho một ảnh Với một hình ảnh RGB I, mô hình RNet sẽ hồi quy một vector x, mà ở đó, hình ảnh dựng 3D I′có thể được biểu diễn bằng một số phép toán v phân đơn giản. Mô hình sẽ được huấn luyện mà không cần nhãn mà dựa vào đánh giá vào một hàm mất mát tổng hợp trên I′và lan truyền ngược nó.

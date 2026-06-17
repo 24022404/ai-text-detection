@@ -1,1 +1,0 @@
-Nhược điểm Là một trong những framework được sử dụng nhều nhất, Laravel cũng có một số điểm yếu của rêng mình:

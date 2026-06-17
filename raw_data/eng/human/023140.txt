@@ -1,1 +1,0 @@
-Developer Implications: If you are the developer of the application com.rsksbgdkgcae.fvogspmykjv ,investigate why the permission was revoked. Ensure the app handles permis sion loss gracefully to prevent errors or unexpected behavior.

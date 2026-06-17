@@ -1,1 +1,0 @@
-S. Yun, D. Han, S. J. Oh, S. Chun, J. Choe, and Y. Yoo, “Cutmix: Reg ularization strategy to train strong classifiers with localizable features,” in Proceedings of the IEEE/CVF international conference on computer vision , 2019, pp. 6023–6032.

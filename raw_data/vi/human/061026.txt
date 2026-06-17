@@ -1,1 +1,0 @@
-Đầu tên, tập trung cải thiện hiệu suất hệ thống, giảm độ trễ khi xử lý nhận diện gương mặt phía backend, nhằm tối ưu hóa hiệu suất và đảm bảo hệ thống hoạt động trơn tru, nhanh chóng, đáng tin cậy hơn.

@@ -1,1 +1,0 @@
-Quản lý kho: Cho phép người sử dụng có thể thêm, sửa, xóa kho hàng; thống kê tồn kho, nhập hàng và xuất hàng hỏng. Tìm kiếm danh sách kho hàng theo một số trường như: Tên kho hàng, mã kho hàng, địa chỉ.

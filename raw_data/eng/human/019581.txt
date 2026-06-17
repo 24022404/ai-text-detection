@@ -1,1 +1,0 @@
-Our main server, which is implemented with .NET 6.0, used the Clean Architecture (section 3.1.1). Detailed application for our main server with Clean Archi tecture is describe more in section 4.1.3.

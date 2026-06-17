@@ -1,1 +1,0 @@
-Trên đây là mô tả liên kết giữa các lớp trong ba góc nhỏ trong góc view bằng minh hoạ với một và lớp đặc trưng cho từng gói.

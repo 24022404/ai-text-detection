@@ -1,1 +1,0 @@
-Một hệ thống chiến đấu với nhiều lựa chọn về các kỹ năng (skill), các bùa chú (spell) và khả năng học thêm các kỹ năng mới cũng như một hệ thống hành trang (Inventory) cho phép người chơ thay đổi đồ đạc nhân vật của mình mặc trên người phù hợp với ý thích hay tăng cường sức mạnh nhân vật của họ.

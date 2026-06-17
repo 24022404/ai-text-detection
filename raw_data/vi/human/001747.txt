@@ -1,1 +1,0 @@
-Phát triển trang web thành các ứng dụng trên điện thoại di động điểm thuận tệ hơn với người dùng. S. Aggarwal, “Modern web development using reactjs,” International Journal of Recent Research Aspects , vol. 5, no. 1, pp. 133–137, 2018.

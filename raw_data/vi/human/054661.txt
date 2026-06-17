@@ -1,1 +1,0 @@
-Tên Kiểu dữ lệu Mô tả Có bắt buộc Có Ràng buộc d ntId ghép đôi giữa giảng viên và sinh viên Khóa chính name_project Varchar(255) Tên đồ án Có semester In Học kì Có d'student Int Id sinh viên Có s_teacher Int Id giảng viên Có Bảng 4.12: Bảng dữ lệu Parng_teacher_wth_student Bảng dữ lệu Subject Mục đích: Lưu thông tin môn học.

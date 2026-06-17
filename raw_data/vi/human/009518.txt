@@ -1,1 +1,0 @@
-Chương 4 em đưa ra các thiết kế từ tổng quan điến ch tết của cả hệ thống điểm thấy rõ hơn từng thành phần của hệ thống và mối quan hệ giữa các thành phần đó với nhau. Trình bày kết quả đạt được, một số hình ảnh minh họa và cuối cùng là kiểm thử cho một và chức năng quan trọng.

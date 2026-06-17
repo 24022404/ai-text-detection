@@ -1,1 +1,0 @@
-Được xây dựng trên "V8 JavaScript Engine" của Google Chrome, Nodejs sử dụng cấu trúc I/O nonblocking và mô hình event driven (hướng sự kiện), giúp nó hoạt động hiệu quả với các ứng dụng thờ gan thực.

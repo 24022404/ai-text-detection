@@ -1,1 +1,0 @@
-Accessibility Trendz aims to support real users, and most of them may not possess high-tech expertise, so a friendly user-interface is a must. The webpage should be responsive, users’ flows of actions should be intuitive and APIs that directly serve users should response in acceptable time intervals. The requirement can be divided into smaller ones, which are:

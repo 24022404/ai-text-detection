@@ -1,1 +1,0 @@
-Trình thực thi (executor), xử lý các tác vụ đang chạy. Trong cài đặt Airflow mặc định, điều này chạy mọi thứ bên trong bộ lập lịch, nhưng hầu hết các trình thực thi phù hợp với sản xuất thực sự đẩy việc thực hiện tác vụ ra cho công nhân.

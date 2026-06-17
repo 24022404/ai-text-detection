@@ -1,1 +1,0 @@
-The extensible database Một cơ sở dữ liệu có khả năng mở rộng Ngoài việc miễn phí và mã nguồn mở, PostgreSQL có khả năng mở rộng cao.

@@ -1,1 +1,0 @@
-Transformer là một mô hình học sâu được thiết kế để phục vụ gả quyết nhiều bài toán trong xử lý ngôn ngữ và tiếng nó. Đặc biệt, Transformer không xử lý các phần tử trong một chuỗi một cách tuần tự. Transformer gồm có 2 phần chính:

@@ -1,1 +1,0 @@
-: Các hệ số chuyển động electron và gi ới hạn cường độ điện trường trong h ỗn hợp khí CF 4-N2 được tính toán l ần đầu tiên s ử dụng phương pháp x ấp xỉ bậc hai phương trình Boltzmann. K ết quả của nghiên c ứu là cơ s ở để áp dụng cho các ứng dụng công nghi ệp, đặc biệt là trong lĩnh v ực cách điện khí.

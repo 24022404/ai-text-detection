@@ -1,1 +1,0 @@
-PostgreSQL overview PostgreSQL, commonly known as Postgres, is a powerful open-source relationaldatabase management system (RDBMS). It is renowned for its robustness, scalabil ity, and extensive feature set. Postgres follows the ACID (Atomicity, Consistency, Isolation, Durability) principles, ensuring data integrity and reliability.

@@ -1,1 +1,0 @@
-If the activation function is not applied, the output signal becomes a simple ar function. A neural network without activation function will act as a ar regression with limited learning power. But we also want our neural network to learn non-ar states as we give it complex real-world information such as image, video, text, and sound.

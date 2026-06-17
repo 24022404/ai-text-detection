@@ -1,1 +1,0 @@
-From our survey to automatically detect violence in general, based on features extraction methods, there are 2 main approaches: handcrafted and deep learning.

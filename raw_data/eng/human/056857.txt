@@ -1,1 +1,0 @@
-Q. Zhou, C. Zhuang, R. Yi, X. Lu, and L. Ma, “Domain adaptive semantic segmentation via regional contrastive consistency regularization,” in 2022IEEE International Conference on Multimedia and Expo (ICME) , IEEE, 2022, pp. 01–06.

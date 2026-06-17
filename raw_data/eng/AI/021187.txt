@@ -1,1 +1,0 @@
-The tester examines the permissions for exported activities, identifying any weak spots or missing verifications that might allow unauthorized access, aiming to prevent potential security risks.

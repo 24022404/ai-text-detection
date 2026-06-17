@@ -1,1 +1,0 @@
-edges.txt: Tất cả các cạnh nối trong mạng. Dòng đầu tên là số lượng nút có ở nodeinfo và số lượng cạnh có trong file. Định dạng các dòng tiếp theo là [nguồn] [đích] [trọng số]. Giá trị trọng số thể hiện mức độ liên kết của các nút.

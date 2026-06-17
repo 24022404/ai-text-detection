@@ -1,1 +1,0 @@
-Vấn đề Khi thêm các sản phẩm mới vào trong hệ thống sẽ có những sản phẩm chỉ khác nhau ở một số đặc điểm như: màu sắc, chất liệu, thương hiệu, kích thước... Chính vì vậy, để tiết kệm thờ gần, công sức cho người sử dụng thì phần mềm có thêm tính năng sao chép sản phẩm cho phép người dùng có thể sao chép thông tin của các sản phẩm cùng loại một cách nhanh chóng và thuận tiện.

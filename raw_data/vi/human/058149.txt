@@ -1,1 +1,0 @@
-Từ nguồn dữ lệu hành vi trực tuyến từ Kafka sẽ được các chương trình Spark Streaming đọc, xử lý, trích rút và cập nhật các thông tin phục vụ trong việc phân khúc khách hàng điểm ghi vào cơ sở dữ lệu MySql. Ngoài ra, một số thông tin khác cũng được Arflow lập lịch các chương trình Spark thực truy vấn từ Elasticsearch điển gh vào cơ sở dữ lệu.

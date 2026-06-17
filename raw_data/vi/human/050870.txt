@@ -1,1 +1,0 @@
-Ngoài những yêu cầu chính về mặt chức năng, các yêu cầu phi chức năng cũng phản ánh phần nào sự hoàn thiện của hệ thống. Đối với Hệ thống thi trắc nghiệm trực tuyến đang xây dựng trong đồ án này, em cũng đã đặt ra một số yêu cầu phi chức năng như dưới đây.

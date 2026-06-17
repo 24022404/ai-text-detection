@@ -1,1 +1,0 @@
-After learning distributed system course and reading the requirement of all e commerce systems, I know that this system must be in a microservice architecture.

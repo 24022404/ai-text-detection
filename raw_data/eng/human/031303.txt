@@ -1,1 +1,0 @@
-Example 2.1. Consider an Eulerian cycle starting at vertex 000, then the symbols representing the following edges 0,1,0,1,0,0,1,1,1,0,1,1,0,0,0form a de Bruijn sequence order 4. Adding 000to its beginning results in an acylic one:

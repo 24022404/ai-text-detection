@@ -1,1 +1,0 @@
-The GUI Manager is responsible for managing the user interface elements and interactions within a game. The good GUI Manager library is one that meets the important following requirements:

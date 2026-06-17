@@ -1,1 +1,0 @@
-If an exception occurs during any of the scanning steps, the error is loggedwith ‘logger.exception(msg)‘, and the scan status is updated with the ex ception details.

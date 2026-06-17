@@ -1,1 +1,0 @@
-Adaptive Moment Estimation is an algorithm for optimization technique for gradient descent. The method is really efficient when working with large probleminvolving a lot of data or parameters. It requires less memory and is efficient. Intu itively, it is a combination of the ‘gradient descent with momentum’ algorithm and the ‘RMSP’ algorithm.

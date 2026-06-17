@@ -1,1 +1,0 @@
-OpenCV a, Define OpenCV (Open Source Computer Vision) is an open-source computer vision and machine learning library developed by Intel and maintained by the OpenCV community. It is a cross-platform library written in C++ and provides APIs for several programming languages, including Python and Java.

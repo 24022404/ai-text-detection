@@ -1,1 +1,0 @@
-Processing/Business Logic Layer : Contains the core logic for analyzing data, running scanners, and extracting meaningful information. Examples include run_analysis andniap_scan .

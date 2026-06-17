@@ -1,1 +1,0 @@
-Đầu ra là dữ lệu được gh vào trường total_book_vew ,total_book_value_vew , avg_book _value_ view trong bảng 4.1. Và dữ lệu những cuốn sách mà khách hàng đã xem cũng được ghi vào trong bảng 4.5.

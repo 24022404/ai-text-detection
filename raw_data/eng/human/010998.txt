@@ -1,1 +1,0 @@
-Educational Tool : It serves as an educational tool for non-technical users,increasing their awareness of mobile security threats and helping them under stand what constitutes safe and unsafe behavior in mobile applications.

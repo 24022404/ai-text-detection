@@ -1,1 +1,0 @@
-The Change Password sub-use case enables users to securely update their existing password to a new one, enhancing account security. This is particularly crucial if the current password is suspected to have been compromised.

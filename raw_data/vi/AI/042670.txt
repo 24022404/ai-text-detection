@@ -1,7 +1,0 @@
-Nghiên cứu xác định hệ số phát thải khí nhà kính trong lĩnh vực sản xuất thép ở Việt Nam đã được thực hiện nhằm đánh giá tác động của ngành công nghiệp này đến môi trường. Kết quả nghiên cứu cho thấy rằng sản xuất thép tại Việt Nam đang là một trong những nguồn gây ra khí nhà kính lớn nhất trong lĩnh vực công nghiệp.
-
-Hệ số phát thải khí nhà kính của ngành sản xuất thép ở Việt Nam được ước tính là khoảng 2,2 tấn CO2 tương đương (tCO2e) mỗi tấn thép sản xuất. Điều này cao hơn so với mức trung bình của thế giới, chỉ là 1,9 tCO2e/t thép.
-
-Nghiên cứu cũng chỉ ra rằng các yếu tố chính ảnh hưởng đến hệ số phát thải khí nhà kính trong sản xuất thép tại Việt Nam bao gồm: loại nguyên liệu thô sử dụng, công nghệ sản xuất và mức độ hiệu quả của quy trình sản xuất.
-
-Để giảm thiểu tác động của ngành sản xuất thép đến môi trường, nghiên cứu khuyến nghị các giải pháp như: chuyển đổi sang sử dụng nguyên liệu thô tái chế, áp dụng công nghệ sản xuất tiên tiến và nâng cao hiệu suất của quy trình sản xuất.

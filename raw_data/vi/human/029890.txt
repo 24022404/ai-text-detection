@@ -1,1 +1,0 @@
-Nhưng CSR lạ có nhược điểm là:() không thân thiện với SEO do ở lần đầu tả trang web, phía client chỉ có một thẻ HTML rỗng không có thông tôn, () thờ gần tả lần đầu sẽ lâu hơn SSR do cần thực hiện render toàn bộ trên phía client.

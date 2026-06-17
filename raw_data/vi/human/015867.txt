@@ -1,1 +1,0 @@
-maximize Vớ việc thêm một ràng buộc rằng policy mớ và policy cũ không được cách nhau quá xa, ta có thể sử dụng các thông tin thu thập được một cách hiệu quả hơn.

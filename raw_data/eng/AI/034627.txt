@@ -1,9 +1,0 @@
-Objective: Federated Learning (FL) enables collaborative model training across distributed clients while preserving data privacy. However, random client selection often yields high variance in update estimates and poor representation of global data distributions, leading to slower convergence and suboptimal model performance. 
-
-Methods: We introduce Clustered Sampling, a client selection strategy that groups clients into clusters based on statistical similarity of local data distributions. Within each cluster, a representative subset of clients is sampled in proportion to cluster size. This approach ensures low-variance aggregation by balancing contributions across diverse data sources and improves representativity of each training round. We derive theoretical bounds on the variance of the global update under clustered sampling and compare them with uniform and importance-based sampling schemes.
-
-Results: Experiments on synthetic non-IID benchmarks and real-world datasets (e.g., image classification and language modeling) demonstrate that clustered sampling accelerates convergence by 20–35% in terms of communication rounds and achieves up to 4% higher test accuracy compared to standard random sampling. Moreover, our method maintains stable performance under varying client availability and data heterogeneity levels.
-
-Conclusion: Clustered Sampling offers a principled and practical solution for client selection in FL, reducing estimator variance and enhancing representativity without increasing communication overhead. This technique can be readily integrated into existing FL frameworks to improve training efficiency and model quality in heterogeneous and large-scale deployments.
-
-Keywords: Federated Learning, Client Selection, Clustered Sampling, Variance Reduction, Data Representativity.

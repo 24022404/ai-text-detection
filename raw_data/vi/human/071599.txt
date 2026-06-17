@@ -1,1 +1,0 @@
-Tất cả các tham số và kiểu dữ lệu điều được khai báo 1 cách chặt chẽ khiến cho việc gửi và nhận ip dễ dàng hơn. Mặc dù việc thiết lập và cài đặt phức tạp hơn rest API những điểm phát triển và bảo trì thì em nghĩ là nó xứng đáng với công sức mình bỏ ra.

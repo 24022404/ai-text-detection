@@ -1,1 +1,0 @@
-Trong Chương 3, em xn giới thiệu về Laravel – framework được sử dụng và tìm hiểu trong đồ án này. Song hành cùng bộ khung này chính là ngôn ngữ lập trình PHP và HTML. Từ đó, em có thể tổng kết những ưu nhược điểm khi chọn framework này cho đồ án.

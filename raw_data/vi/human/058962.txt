@@ -1,1 +1,0 @@
-Công việc phân loại dữ liệu sẽ được liên tục cập nhật vào trong cơ sở dữ liệu từ đó làm nguồn tài liệu được đánh nhãn theo các chủ đề ngày một chính xác hơn.

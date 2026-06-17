@@ -1,1 +1,0 @@
-Để trang web có giao diện đẹp mà vẫn đơn giản, dễ dàng sử dụng, em đã có đưa ra các quy tắc điểm thống nhất màu sắc, vị trí, hình dáng của các phần tử trong một trang và giữa các trang vớ nhau. Ngoài ra em cũng bố trí các chức năng một cách hợp lý, thuận tiện theo thao tác thông thường để tránh các lỗ người dùng xuất hiện trên hệ thống.

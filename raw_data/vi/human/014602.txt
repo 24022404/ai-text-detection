@@ -1,1 +1,0 @@
-Reds là một cơ sở dữ liệu mã nguồn mở được sử dụng rộng rãi cho các ứng dụng web hiệu suất cao. Reds lưu trữ dữ liệu trong bộ nhớ chính và cung cấp khả năng truy xuất nhanh và hiệu quả hơn so với các cơ sở dữ liệu truyền thống. Nó hỗ trợ nhiều kiểu dữ liệu khác nhau, bao gồm chuỗi, số, tập hợp, danh sách, bản đồ và mảng.

@@ -1,1 +1,0 @@
-Tuy nhiên, Reds cũng có nhược điểm. Vì dữ liệu được lưu trữ trong bộ nhớ chính, Reds có thể bị giới hạn bởi dung lượng bộ nhớ của máy chủ. Điều này có thể gây ra vấn đề kho lưu trữ các tập dữ liệu lớn. Ngoài ra, Reds không hỗ trợ truy vấn phức tạp và không được tối ưu cho việc lưu trữ các tệp tin lớn.

@@ -1,1 +1,0 @@
-Chapter 2 presents the requirements analysis of the projects, looking at a num ber of current products that have similar objectives to this project. Based on these products, define an overview of use cases and features for this project that describes some of the important use cases of the system, and the non-functional requirements of the system.

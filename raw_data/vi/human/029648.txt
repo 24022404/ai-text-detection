@@ -1,1 +1,0 @@
-Cấu trúc của hệ thống CMS sẽ được chia thành 2 phần hoàn toàn độc lập với nhau là frontend và backend nhằm phục vụ hiệu quả cho việc quản lý và mở rộng sau này.

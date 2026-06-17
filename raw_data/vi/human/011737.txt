@@ -1,1 +1,0 @@
-Frontend (Giao diện người dùng) là phần của trang web mà người dùng sẽ tương tác trực tiếp điểm quản lý thu chi, ngân sách và xem các loại thống kê thu chi theo thờ gan. Giao diện người dùng cũng cung cấp cho người dùng truy cập vào trang cá nhân của mình để cập nhật thông tin cá nhân.

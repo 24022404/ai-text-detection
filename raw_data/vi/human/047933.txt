@@ -1,1 +1,0 @@
-Luồng hoạt động của từng màn hình  Game gồm 7 màn hình chính sau (Hình 3.2) –Màn hình tiêu đề game  màn hình đầu tiên khi vào trò chơi, dùng để chờ khi game đang tả những tài nguyên cần thiết để chạy trò chơi, cùng là ấn tượng đầu tiên mà người chơi có từ available

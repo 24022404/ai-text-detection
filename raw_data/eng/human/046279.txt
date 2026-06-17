@@ -1,1 +1,0 @@
-Unlike ANN, a convolutional neural network (CNN) is specially designed tohandle local structures. A convolutional layer may not perform well when impor tant information is not local. CNNs is advantageous in the efficiency of training convolutional layers, as they require fewer weights compared to fully connected layers.

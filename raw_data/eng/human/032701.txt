@@ -1,1 +1,0 @@
-The amalgamation of Streamlit and GitHub Actions signifies a transformative leap from a laborious algorithmic exploration to a versatile, real-time application.

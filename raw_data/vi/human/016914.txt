@@ -1,1 +1,0 @@
-Lớp Node trong gió Node Model: là đối tượng dữ liệu tổng quát nhất và tồn tại trong mọi tác vụ của hệ thống. Một Node có thể đại diện cho mọi loại đối tượng mà hệ thống sẽ quản lý (Workspace, Organization, ste,...) nên các đối tượng này sẽ điều kế thừa từ lớp Node.

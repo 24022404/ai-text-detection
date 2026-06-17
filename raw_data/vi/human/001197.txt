@@ -1,1 +1,0 @@
-Magento có một cộng đồng phát triển lớn và tích cực, cung cấp rất nhiều chủ đề và plugin để tùy chỉnh và mở rộng chức năng của nền tảng này. Đều này giúp Magento trở thành một lựa chọn phổ biến cho các doanh nghiệp muốn xây dựng cửa hàng trực tuyến chuyên nghiệp và hiệu quả.

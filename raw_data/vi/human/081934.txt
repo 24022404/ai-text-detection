@@ -1,1 +1,0 @@
-–Các lớp trong screen, như CourseInfoScreen và StockInfoScreen điều lên kết với Router trong navigator, thực hiện việc điều hướng qua các màn hình.

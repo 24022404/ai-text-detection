@@ -1,1 +1,0 @@
-Chapter 4 System analysis and design: After researching user demand as well as doing some surveys, I started to design and implement the system.

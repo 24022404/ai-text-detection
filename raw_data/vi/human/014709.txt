@@ -1,1 +1,0 @@
-Mặt khác, sự thành thạo trong việc vận dụng công nghệ chưa được cao. Sản phẩm chỉ dừng lại ở mức thỏa mãn quy trình quản lý bên trong phần mềm cũng như chưa thể tích hợp phần cứng như máy quét biển số hay quét ID thẻ nên các thao tác trong phần mềm điều bằng tay. Đây là phương pháp tạm thời khi chưa thể nâng cấp hệ thống, em sẽ cố gắng để khắc phục điểm yếu này.

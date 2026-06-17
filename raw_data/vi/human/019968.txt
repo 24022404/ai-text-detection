@@ -1,1 +1,0 @@
-Từ đó, em nêu ra các nhóm chức năng cần có trong hệ thống:•Nhóm chức năng đăng ký, đăng nhập.

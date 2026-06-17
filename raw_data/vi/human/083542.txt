@@ -1,1 +1,0 @@
-Vớ những ưu điểm trong, MySQL là một sự lựa chọn thông dụng nhất dành cho các ứng dụng web, ứng dụng xử lý giao dịch trực tuyến và website thương mại điện tử. MySQL được tích hợp đầy đủ các tiện ích, dễ sử dụng, lại thêm khả năng giao dịch an toàn, chi phí thấp,... nên được xem là cơ sở dữ liệu mã nguồn mở phổ biến nhất trên thế giới.

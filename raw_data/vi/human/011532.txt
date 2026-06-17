@@ -1,1 +1,0 @@
-React Native sử dụng các thành phần gạo điện đồng nhất giống với React, một thư viện JavaScript phổ biến, cho phép lập trình viên sử dụng các kỹ thuật phát triển web như "component based architecture" điểm phát triển các ứng dụng di động nhanh chóng và dễ dàng hơn.

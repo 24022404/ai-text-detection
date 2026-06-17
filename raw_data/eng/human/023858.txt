@@ -1,1 +1,0 @@
-A de Bruijn sequence, or a positioning sequence, (of order k) is a binary se quence in which every possible length- kstring appears exactly once as a substring.

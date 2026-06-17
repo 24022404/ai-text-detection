@@ -1,1 +1,0 @@
-Để sử dụng các chức năng chính trong hệ thống người dùng cần đăng nhập bằng tài khoản đã được xác thực.Hình 2.2: Biểu đồ Use Case phân rã xác thực người dùng 2.2.3 Biểu đồ Use Case phân rã quản lý thông tin cá nhân Người dùng xem và sửa thông tin cá nhân của mình. Ngoài ra, cũng có thể cài đặt ngôn ngữ hoặc giao diện cho phù hợp với nhu cầu của người dùng.

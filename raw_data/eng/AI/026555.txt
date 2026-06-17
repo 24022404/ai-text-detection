@@ -1,9 +1,0 @@
-The growing demand for energy-efficient solutions in Internet of Things (IoT) applications has driven interest in sustainable power sources, such as energy harvesting sensors. This research addresses the challenge of optimizing the configuration of these sensors to operate efficiently and autonomously in dynamic environments.
-
-Methods/Approach: We propose an innovative approach that employs reinforcement learning, a machine learning paradigm well-suited for adaptive control processes, to enhance the scaling configuration of energy harvesting sensors. Our method leverages a reinforcement learning algorithm to dynamically adjust sensor settings, ensuring optimal energy efficiency while maintaining necessary operational performance.
-
-Results/Findings: Through extensive simulations and real-world tests, our reinforcement learning-based approach demonstrated a significant improvement in energy efficiency compared to traditional fixed configuration strategies. The findings reveal a remarkable ability to adapt to varying energy conditions and operational demands, thereby prolonging sensor lifespan and reducing the need for manual intervention.
-
-Conclusion/Implications: This study contributes to the field of IoT by introducing a scalable and autonomous configuration method for energy harvesting sensors, enhancing their viability in sustainable and self-sufficient deployment. The novel application of reinforcement learning in this context not only offers immediate benefits in terms of energy savings but also sets a precedent for future research in adaptive sensor configurations. Key applications of this research can be seen in smart city infrastructures, environmental monitoring, and various remote sensing applications.
-
-Keywords: energy harvesting, sensors, reinforcement learning, IoT, adaptive control, sustainable power, sensor configuration.

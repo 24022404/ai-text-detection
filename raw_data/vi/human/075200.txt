@@ -1,1 +1,0 @@
-Trong ga đioạn điầu tên, yêu cầu hệ thống điáp ứng được tố thểu 1000 người dùng truy cập đồng thờ. Hệ thống sẽ được bảo trì và nâng cấp theo thờ gan kh số lượng người dùng và dữ lệu lưu trữ tăng lên điể điáp điứng được trả nghệm của người dùng.

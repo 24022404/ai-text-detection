@@ -1,1 +1,0 @@
-Lớp đầu ra (Output layer): Là giá trị đầu ra của mạng nơron. Sau khi đi qua hidden layer cuối cùng, dữ liệu sẽ được chuyển hóa bằng một hàm số được gọi là hàm kích hoạt (Activation function) và đưa ra output cuối cùng. Hàm chuyển đổi thường là hàm tanh(x), mod(x) hoặc softmax(x)

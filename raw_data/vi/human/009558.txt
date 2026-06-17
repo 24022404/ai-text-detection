@@ -1,1 +1,0 @@
-Những điểm mà em còn chưa làm được trong đồ án này là Chức năng duyệt bài đăng chưa được xây dựng. Kh người dùng đăng bài, cần có người hoặc hệ thống duyệt bài đăng, để tránh các bài đăng không đúng sự thật về sản phẩm hay các bài đăng có nội dung phản cảm , trái và pháp luật, hay thuần phong mỹ tục.

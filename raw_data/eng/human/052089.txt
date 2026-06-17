@@ -1,1 +1,0 @@
-ii) the normalization of these contributions to establish unique weights for the aggregation of the global model. Moving forward, section 4.3 formally introduces the Federated Impurity Weighting algorithm, a key element of the proposed methodology.

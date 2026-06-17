@@ -1,1 +1,0 @@
-The products must display detailed descriptive information, specific techni cal specifications for each item, product reviews, and relevant data such aspurchase counts and rating scores A system interface supports sellers in posting products, managing products, handling orders, and managing system users.

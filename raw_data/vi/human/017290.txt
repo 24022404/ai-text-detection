@@ -1,1 +1,0 @@
-Người dùng xem kết quả tìm kiếm và tương tác với các kết quả (ví dụ: nhấp vào một kết quả điểm xem ch tết).

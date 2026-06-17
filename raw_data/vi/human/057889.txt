@@ -1,1 +1,0 @@
-Trong đồ án màu, d o là dataset được cung cấp bởi nhà tổ chức cuộc thi nên dữ lệu phần nào khá rõ ràng, tuy nhiên ta vẫn phải xử lý, cụ thể:

@@ -1,1 +1,0 @@
-Exceptionally Flexible. Whether a project is in progress or has been finished, PHP is incredibly adaptable. A scripting language’s flexibility is essential since functionality might change at any time while a project is ongoing. The nicest thing about PHP is that it allows for changes to be made even after the project has begun, which helps to save time.

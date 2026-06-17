@@ -1,1 +1,0 @@
-Cuối cùng, mục 5.3.5 trình bày về phương pháp điều xuất thỏa hiệp thờ gan  chi phí được ĐATN phát triển và áp dụng. Đó là sử dụng thuật toán tìm kiếm theo chiều sâu ở trên đồ thị CPM kết hợp cùng vớ việc giả bài toán QHTT. Đồng thờ, mục 5.3.5 cũng chỉ ra một số ưu và nhược điểm của phương pháp này.

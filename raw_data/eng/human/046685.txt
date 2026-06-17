@@ -1,1 +1,0 @@
-However, deep learning requires large computational resources and huge amounts of training data to achieve good results. Therefore, deploying deep learning models requires investment in both hardware and software.

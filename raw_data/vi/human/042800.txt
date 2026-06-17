@@ -1,1 +1,0 @@
-OpenCV Giới thiệu OpenCV là viết tắt của Open Source Computer Vision, đây là một thư viện mã nguồn mở hàng đầu cho những bài toán về học máy, thị giác máy tính.

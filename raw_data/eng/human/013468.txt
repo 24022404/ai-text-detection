@@ -1,1 +1,0 @@
-Transfer Learning Finally, I examined two well-known image-based transfer learning model: ResNet152 and VGG-19. These models have been pre-trained for very large image datasets.

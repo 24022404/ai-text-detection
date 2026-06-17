@@ -1,1 +1,0 @@
-The MVVM pattern is widely adopted for building modern, maintainable, and testable user interfaces. In this project, the data utilized comprises real images of printed circuit boards sourced directly from TAISHODO ELECTRICS VIETNAM, ensuring authenticity.

@@ -1,1 +1,0 @@
-Lựa chọn kiến trúc website Cấu trúc của Hệ thống website kinh doanh thiết bị mạng tuân thủ tuyệt đối theo mô hình MVC (Model – View – Controller)  . Một trong những mục tiêu chính của kiến trúc này là tách biệt việc hiển thị thông tin trực quan khỏ các quy tắc nghiệp vụ và quản lý dữ liệu cơ bản: tách lớp logc nghiệp vụ và lớp hiển thị ra giêng bệt.

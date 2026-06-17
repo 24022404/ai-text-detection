@@ -1,1 +1,0 @@
-Ngoài ra còn 1 thông số khác khá hữu dụng, đó là thông tin và các extension được cài đặt trên trình duyệt. Mặc dù cách này khá hay nhưng dò người dùng có thể cài đặt hoặc xóa extension sau 1 khoảng thời gian và cách này cũng không phải sử dụng ap chính thống của trình duyệt nên em không áp dụng.

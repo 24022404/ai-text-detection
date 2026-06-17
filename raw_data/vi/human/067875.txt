@@ -1,1 +1,0 @@
-Backend Backend của hệ thống quản trị gồm rất nhiều các module, nên em xin phép trình bày các modules chính sau:

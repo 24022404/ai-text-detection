@@ -1,1 +1,0 @@
-Bởi vì, Single page application (SPA) là một ứng dụng web hay thậm chí là một trang web giúp điểm lạ cho người dùng những trải nghiệm mượt mà như trên một ứng dụng mobile. Tạ đeo, người dùng sẽ thực hiện tất cả mọi thao tác trên một trang duy nhất, mọ cấu trúc trang sẽ chỉ tả một lần và không tả lại khi chuyển trang.

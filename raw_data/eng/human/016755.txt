@@ -1,1 +1,0 @@
-Overall, this ERD diagram provides a representation of the relationships and structure of the database system for managing player data in the Pixel Platformer game.

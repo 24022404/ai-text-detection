@@ -1,1 +1,0 @@
-The MoSIFT descriptor has shown better performance in recognition accuracy than other state-of-the-art descriptors  but the approach is significantly more computationally expensive than STIP.

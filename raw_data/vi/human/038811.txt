@@ -1,1 +1,0 @@
-Sau khi vào màn thanh toán thì user sẽ tiến hành chọn hình thức giao hàng và hình thức thanh toán rồi tiến hành thanh toán.

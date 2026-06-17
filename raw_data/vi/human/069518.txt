@@ -1,1 +1,0 @@
-Dùng mô hình học sâu phát hiện văn bản để xác định vị trí của hộp văn bản (gả sử tài liệu có n hộp văn bản, có tất cả 4∗điểm thuộc vùng chứa văn bản) 2. Tìm một bao lồi chứa 4∗điểm trên 3. Tìm một hình chữ nhật có diện tích nhỏ nhất bao quanh bao lồ tìm được tạ bước 2.

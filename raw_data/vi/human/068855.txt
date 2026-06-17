@@ -1,1 +1,0 @@
-Allow cho phép xây dựng, và chạy các quy trình làm việc. Mẫu quy trình làm việc được đại diện bằng một đồ thị có hướng không có chu trình (DAG) và chứa các phần tác vụ riêng lẻ (tasks), được sắp xếp và các phụ thuộc và luồng dữ lệu được tính điến.

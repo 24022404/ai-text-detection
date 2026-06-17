@@ -1,1 +1,0 @@
-Keras is a widely used and user-friendly platform for creating deep learning models, offering great flexibility and simplicity. Its applications span across computer vision, natural language processing, and robotics, attracting both researchers and developers.

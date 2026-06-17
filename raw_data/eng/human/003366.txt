@@ -1,1 +1,0 @@
-StrengthsStrong Accuracy: The model shows a high level of accuracy for several mal ware families. The diagonal of the matrix shows high values for adload, alureon, ceeinject, bho, cycbot, fakerean, hotbar, lolyda, obfuscator, ongames, rbot, renos, startpage, vobfus, vundo, winwebsec, and zbot.

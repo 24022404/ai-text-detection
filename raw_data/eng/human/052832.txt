@@ -1,1 +1,0 @@
-V. Blanz andT. Vetter, “A morphable model for the synthesis of 3d faces,” Proceedings of the 26th annual conference on Computer graphics and interactive techniques 1999, pages 187–194.

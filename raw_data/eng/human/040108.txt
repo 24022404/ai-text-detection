@@ -1,1 +1,0 @@
-The database used for the system is MySql, a free and open-source relational database management system emphasizing scalability and SQL compliance.

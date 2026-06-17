@@ -1,9 +1,0 @@
-Objective: Traditional reinforcement learning (RL) agents often struggle with sparse rewards, transfer to novel tasks, and sample inefficiency. Inspired by biological learning processes, this work investigates how core principles of neuroscience—such as neuromodulation, synaptic plasticity, and eligibility traces—can be integrated into RL to produce more general and adaptable agents.
-
-Methods: We propose a neuroscience-inspired RL framework that augments deep Q-networks and policy gradients with biologically motivated mechanisms. A neuromodulatory module dynamically adjusts learning rates based on a dopamine-like reward prediction signal, while synaptic eligibility traces guide credit assignment over extended timescales. The resulting architecture also incorporates a working-memory component modeled after prefrontal cortex dynamics to support rapid adaptation in multi-task settings.
-
-Results: Evaluations on a suite of benchmark environments—including sparse-reward maze navigation, continuous-control locomotion, and a multi-game transfer suite—demonstrate substantial gains in sample efficiency (up to 40% faster convergence) and zero-shot transfer performance (15% higher success rates) compared to standard deep RL baselines. Ablation studies confirm that each neuroscience-inspired component contributes to improved generalization and stability.
-
-Conclusion: By embedding neuroscientific learning principles into modern RL algorithms, our approach advances the design of more versatile agents capable of efficient learning across diverse tasks. These findings highlight the potential of biologically grounded mechanisms to address key limitations of current RL systems and pave the way for next-generation autonomous learners.
-
-Keywords: reinforcement learning, neuroscience-inspired AI, neuromodulation, synaptic plasticity, eligibility traces, meta-learning, generalization.

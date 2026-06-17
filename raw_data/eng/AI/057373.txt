@@ -1,1 +1,0 @@
-The ReLU activation function, shown in figure 2.11 and defined as f(x) = max(0, x), is monotonic and so is its derivative; it produces zero for all negative inputs and passes positive inputs through unchanged.

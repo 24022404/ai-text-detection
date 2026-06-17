@@ -1,1 +1,0 @@
-Bước 1: Tìm kiếm dữ liệu về du lịch Hà Nội từ các trang web như Wkpeda, Google Travel hay các trang web du lịch Hà Nội, tiến hành Crawl dữ liệu và lưu lại dưới dạng tệp excel.

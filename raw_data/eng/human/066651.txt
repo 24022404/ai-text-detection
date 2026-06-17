@@ -1,1 +1,0 @@
-R. Dey and F. M. Salem, “Gatevarants of gated recurrent unit (gru) neural networks,” n 2017 IEEE 60th international midwest symposium on circuits and systems (MWSCAS) , IEEE, 2017, pp. 1597–1600.

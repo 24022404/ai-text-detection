@@ -1,1 +1,0 @@
-Chương 2 trình bày về khảo sát hiện trạng, các yêu cầu về chức năng, phi chức năng và tổng quan về hệ thống dữ lệu khách hàng.

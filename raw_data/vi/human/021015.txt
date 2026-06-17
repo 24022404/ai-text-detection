@@ -1,1 +1,0 @@
-Chế điộ chờ: Ở chế điộ này, AGV sẽ ở khu vực kho điỗ chuyên dụng, chờ điược giao nhệm vụ.

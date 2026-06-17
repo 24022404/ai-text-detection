@@ -1,1 +1,0 @@
-RDBMS là một phần mềm hay dịch vụ dùng điể tạo và quản lý các cơ sở dữ lệu (Database) theo hình thức quản lý các mố lên hệ gữa chúng.

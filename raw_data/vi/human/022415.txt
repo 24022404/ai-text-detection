@@ -1,1 +1,0 @@
-Một trong những điểm hấp dẫn của React là thư viện này không chỉ hoạt động trên phía client, mà còn được render trên server và có thể kết nối với nhau. React so sánh sự thay đổi giữa các giá trị của lần render này vớ lần render trước và cập nhật ít thay đổi nhất trên DOM.

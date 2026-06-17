@@ -1,1 +1,0 @@
-Tạo các câu ví dụ mô phỏng các cầu đầu vào từ người dùng.Hình 4.7: Minh họa chức năng tạo contents, enter và utterances Chọn chế độ huấn luyện và kiểm tra kết quả.

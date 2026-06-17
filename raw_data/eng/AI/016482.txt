@@ -1,1 +1,0 @@
-It has been established that the number of longest simple paths in Gk and de Bruijn sequences is q!q^(k−1)/q^k.

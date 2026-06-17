@@ -1,1 +1,0 @@
-Phần thứ nhất bao gồm các thiết bị bên, những thiết bị này tích hợp camera, vừa có thể ghi hình, vừa có thể xử lý các bài toán nhẹ như tăng sáng, khử sương mù trước khi truyền dòng video về máy chủ chính.

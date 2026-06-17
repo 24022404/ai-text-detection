@@ -1,1 +1,0 @@
-(Ví dụ: Trong danh sách các công việc (ứng viên) hển thị tố địa 12 công việc (ứng vên), trường hợp người dùng muốn xem nhiều hơn phải bấm vào phân trang điã điược thết kế).

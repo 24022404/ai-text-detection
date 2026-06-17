@@ -1,1 +1,0 @@
-Mạng nơron tích chập – Convolutional neural network (CNN) Mạng neural tích chập là mô hình mạng neural hoạt động hiệu quả dựa trên dữ liệu ảnh nhờ khả năng nhận diện tốt các đường nét đặc trưng của đối tượng trong ảnh.

@@ -1,1 +1,0 @@
-Đều này khá phức tạp và dễ gây nhầm lẫn.Để có thể truyền dữ lệu một cách tối ưu và đơn giản hơn chúng ta sẽ lưu dữ lệu vào một stored, từ đó cấp phát dữ lệu cho các component cần thiết. Lúc này store sẽ đóng vai trò trung gian, nó có nhiệm vụ chứa và phân phát dữ lệu.

@@ -1,1 +1,0 @@
-Sau khi nhân viên điặt hàng, có thể quản lý điơn hàng dùng tạ nhà hàng qua chức năng "Chỗ ngồ".

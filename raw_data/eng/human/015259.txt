@@ -1,1 +1,0 @@
-ReactJS and Redux are used for front-end programming in this thesis, MongoDB is used for database storage, and NodeJS and ExpressJS are used for backend programming. The chosen technologies are simple to implement on both traditional server architectures and cutting-edge cloud computing platforms, contribut ing to the system’s versatility.

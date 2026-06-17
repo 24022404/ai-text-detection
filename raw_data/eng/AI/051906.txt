@@ -1,1 +1,0 @@
-Redis stands out for its exceptional read-write performance, harnessing rapid in-memory IO to handle over 100,000 operations per second efficiently.

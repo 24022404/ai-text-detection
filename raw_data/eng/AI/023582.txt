@@ -1,1 +1,0 @@
-Bytecode is a low-level, platform-independent representation of Python code designed to be executed by the Python interpreter. When Python code runs, the interpreter generates .pyc files containing bytecode. These files help speed up program execution since Python will use them whenever they exist and are newer than the original source code.

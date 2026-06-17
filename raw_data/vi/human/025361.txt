@@ -1,1 +1,0 @@
-Cả tến quan trọng của Transformer là cơ chế chú ý, cho phép nó xử lý hiệu quả các phụ thuộc tầm xa trong dữ liệu tuần tự, làm cho nó điặc bệt hiệu quả điố với các tác vụ như dịch máy và hiểu ngôn ngữ.

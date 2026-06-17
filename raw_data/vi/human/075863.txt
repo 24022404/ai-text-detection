@@ -1,1 +1,0 @@
-Gả pháp Mục tiêu là giúp cửa hàng linh hoạt trong việc quản lý sản phẩm. Hiện tại, hệ thống cung cấp ba phương pháp quản lý khác nhau. () không liên kết với khi và chỉ quản lý thông tin sản phẩm () liên kết kho theo mặt hàng, quản lý sản phẩm theo dạng số lượng nhập trước; () liên kết kho theo nguyên liệu, quản lý sản phẩm theo từng nguyên liệu tạo ra sản phẩm.

@@ -1,1 +1,0 @@
-In conclusion, self-learning has received a lot of attention recently, but it has nu merous drawbacks, most notably the omission of explicit domain alignment, which leads to noisy labels. Due to the negative transfer, pixel features from separate do-mains but belonging to the same semantic class may be transferred farther away.

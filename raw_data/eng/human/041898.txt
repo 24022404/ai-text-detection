@@ -1,1 +1,0 @@
-A. Lou, S. Guan, and M. Loew, “Caranet: Context axal reverse attention network for segmentation of small medical objects,” preprint arXiv:2108.07368 , 2021.

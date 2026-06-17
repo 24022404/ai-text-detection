@@ -1,1 +1,0 @@
-When you run a Docker container, the Docker daemon automatically checks for the required image in the local repository. If the image is not available, it pulls it from a remote registry, then proceeds to create a new container and launches the application inside.

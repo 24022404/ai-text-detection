@@ -1,1 +1,0 @@
-Dependency Injection: extJs sử dụng dependency injection giúp cho việc quản lý các phụ thuộc (dependency) của mã nguồn dễ dàng cũng như giúp ứng dụng có thể được kiểm thử dễ dàng hơn .

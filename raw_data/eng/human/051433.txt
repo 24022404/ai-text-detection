@@ -1,1 +1,0 @@
-First, our plan was to finish the uncompleted features. For example, the cur rent system lacks a payment gate for making transaction. Without this feature, our system would not be able to earn profits.

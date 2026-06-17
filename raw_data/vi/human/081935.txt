@@ -1,1 +1,0 @@
-Đầu tên, Producer xuất bản một tin nhắn cho exchange. Kh tạo exchange, kêu exchange được chỉ định (Directx, Toc, Fanout) nhằm phân loại tin nhắn.

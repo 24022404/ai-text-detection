@@ -1,1 +1,0 @@
-An A(k, s)-RdB graph is derived from the de Bruijn graph Gk by eliminating vertices with more than s consecutive 0s, so its vertices are binary sequences of length k−1 avoiding the subpattern 0s+1, ensuring limited consecutive zeros.

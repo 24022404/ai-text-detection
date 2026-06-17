@@ -1,1 +1,0 @@
-Đố với những ảnh tài liệu nghênh, cần thiết phải thực hiện thay đổi góc nhìn, gúp mô hình định vị và nhận diện văn bản hoạt động tốt hơn, Và mô hình mạng nơron đồ thị cũng sẽ học được thông tin về tọa độ một cách đơn giản hơn với những hộp giới hạn có độ nghiêng nhỏ.

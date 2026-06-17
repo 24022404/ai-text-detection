@@ -1,1 +1,0 @@
-OAuth2 là một giao thức ủy quyền phổ biến được sử dụng điểm cho phép các ứng dụng truy cập vào tài nguyên của người dùng mà không cần biết thông tin đăng nhập của họ. Giao thức có mức độ triển khai rộng rãi trong việc xác thực và ủy quyền từ các ứng dụng web, ứng dụng di động, ứng dụng máy tính và các dịch vụ web khác.

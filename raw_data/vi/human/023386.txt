@@ -1,1 +1,0 @@
-Đặt vấn đề Ngoài việc tối ưu hóa hệ thống như đã nêu ở mục trên, việc tối ưu hóa quy trình phát triển và triển khai hệ thống cũng đóng một vai trò quan trọng giúp giảm đáng công sức bảo trì và sửa chữa hệ thống.

@@ -1,1 +1,0 @@
-Thông tin về tài khoản được bảo mật đảm bảo không điể lộ vớ bên thứ 3.Phần này sẽ trình bày về các công nghệ được áp dụng trong quá trình xây dựng và triển khai hệ thống. Đối với mỗi công nghệ, tôi sẽ cung cấp một mô tả ngắn gọn và giả thích lý do tại sao tô đã lựa chọn công nghệ đió.

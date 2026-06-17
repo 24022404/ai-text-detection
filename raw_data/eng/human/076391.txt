@@ -1,1 +1,0 @@
-Therefore, we decided to implements base classes by using generic class. With this approach, all the methods of base classes now can be abstracted through a generic class T. At this point, our base classes can used with any Entity types, as long as it is inherited from the BaseEntity class.

@@ -1,1 +1,0 @@
-The Gamer entity serves as a container for basic player information, including attributes such as GID (Gamer ID), Name, CurrentChapter, and CurrentGold. The GID attribute functions as the primary key for the table.

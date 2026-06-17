@@ -1,1 +1,0 @@
-Vớ mỗ gao dện thì sẽ được chia ra thành các components con để hiển thị. Còn thư mục pages sẽ là nợ định nghĩa các hàm xử lý logc điểm các components truy vấn điện. Dựa trên những điều đó thì em đã triển khai hạ mô hình này vào cấu trúc code của mình để xây dựng ứng dụng.

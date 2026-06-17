@@ -1,1 +1,0 @@
-–Một số tác vụ của công cụ quan hệ bao gồm xử lý truy vấn, quản lý bộ nhớ, quản lý luồng và tác vụ, quản lý bộ điệm và xử lý truy vấn phân tán.

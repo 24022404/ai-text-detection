@@ -1,1 +1,0 @@
-Trong chương 4 sẽ trình bày những kết quả của các thí nghệm điã điề ra ở trong chương 3. Ngoài ra trong phần này cũng sẽ cung cấp thêm thông tin về việc cài đặt, đánh giá mô hình sau khi thực thi những thí nghiệm.

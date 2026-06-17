@@ -1,1 +1,0 @@
-The domains are then extracted and analyzed using the methods described above (update, malware check, maltrail check, and geoloca tion).

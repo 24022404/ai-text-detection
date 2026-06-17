@@ -1,1 +1,0 @@
-Finetuning on Single-document datasets It is indeed a significant challenge that the multi-document datasets for Vietnamese summarization are relatively small, typically containing only 200-300 samples each. The small size of these datasets can make the fine-tuning process more susceptible to overfitting and can result in unstable performance comparisons between different models.

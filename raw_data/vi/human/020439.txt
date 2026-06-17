@@ -1,1 +1,0 @@
-Khách hàng hoặc thành viên nhập tên sản phẩm, từ khóa vào ô tìm kếm 2. Hệ thống truy xuất thông tin về sản phẩm theo từ khóa của khách hàng 3. Hệ thống hển thị các sản phẩm tìm kếm được Luồng sự kện con:

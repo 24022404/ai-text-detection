@@ -1,1 +1,0 @@
-v. Mỗ đối tượng Workspace, Organization, Ste điều có thông tin về API key, chứa trong các đối tượng tương ứng.

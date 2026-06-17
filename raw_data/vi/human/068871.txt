@@ -1,1 +1,0 @@
-Routing: Flask sử dụng cơ chế routing điểm xác định cách các URL sẽ được xử lý. Điều này giúp dễ dàng xác định các tác vụ và chức năng cụ thể nào sẽ được thực hiện kh người dùng truy cập vào các URL khác nhau.

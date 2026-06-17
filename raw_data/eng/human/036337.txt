@@ -1,1 +1,0 @@
-Without loss of generality, assume that vis the start vertex. This results in the number of out-edges of vbeing equal or has 1edges more than its number of out-edges. If these two quantities are equal, the proof is done. Otherwise, denote e′to ate′is a proper simple path RdB graph, but longer than P, which contradicts to the assumption about the longest property of P.

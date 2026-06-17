@@ -1,9 +1,0 @@
-Objective: Generating realistic motion from a single still image remains a challenging problem in computer graphics and computer vision. This paper introduces a novel framework, AnimEuler, for animating pictures by learning and applying Eulerian Motion Fields (EMFs), which capture pixel-level velocity patterns without requiring explicit object tracking or depth estimation.
-
-Methods: AnimEuler employs a deep convolutional encoder-decoder to predict dense EMFs from a reference image and a target motion exemplar. The EMF representation models local pixel displacements in the Eulerian frame, enabling smooth deformation and consistent texture propagation. During training, a self-supervised photometric reconstruction loss and a motion consistency regularizer guide the network to learn motion priors directly from video data. At inference, only a single input image and a desired motion field are needed to generate an animated sequence via iterative warping and refinement.
-
-Results: Extensive experiments on standard benchmarks demonstrate that AnimEuler outperforms state-of-the-art image animation methods in terms of motion realism (measured by user studies) and fidelity (measured by structural similarity and perceptual metrics). Our approach produces coherent dynamic effects—such as flowing water, waving flags, and facial expressions—while preserving fine details and avoiding artifacts common to prior methods.
-
-Conclusion: By leveraging Eulerian Motion Fields, AnimEuler provides a flexible, efficient, and generalizable solution for picture animation. This work opens new possibilities for creative content generation in film, virtual reality, and interactive media.  
-
-Keywords: image animation, Eulerian motion, motion fields, deep learning, self-supervised learning.

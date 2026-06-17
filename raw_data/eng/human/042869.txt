@@ -1,1 +1,0 @@
-Mobile Testing: Testing mobile applications on different devices and plat forms."Each of these testing approaches contributed to ensuring the functionality, per formance, and security of the application.

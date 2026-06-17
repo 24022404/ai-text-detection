@@ -1,1 +1,0 @@
-Thứ tự Trường dữ liệu Mô tả Bắt buộc Yêu cầu hợp lệ Ví dụ 1. IdId của người dùng Có 20173086 2. Password Mật khẩu Có hành Bảng 2.2: Bảng dữ lệu điầu vào use case Đăng nhập.

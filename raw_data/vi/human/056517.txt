@@ -1,1 +1,0 @@
-(tạo bà vết mờ) 2. Nhập đầy đủ thông tin bà viết và ấn nút “Create article” 2.1.a. Ấn nút “Invite” (thêm người chỉnh sửa) Chọn người dùng muốn thêm và ấn “Done” 2.2. Ấn nút “Upload thumbnail” (thêm ảnh thumbnail) 2.2.b. Hoàn thành lựa chọn ảnh1. Hiển thị giao diện tạo bà vết mờ.

@@ -1,1 +1,0 @@
-Community Support: PostgreSQL has a large and active community of devel opers and users who contribute to its development, provide support, and share knowledge. This community-driven nature ensures continuous improvement, security updates, and the availability of resources and documentation.

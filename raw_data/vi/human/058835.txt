@@ -1,1 +1,0 @@
-Cụ thể, để chạy trên một cụm, SparkContext có thể kết nối với một số loại trình quản lý cụm (cluster manager) , gồm có trình quản lý cụm độc lập của Spark, Mesos, YARN hoặc Kubernetes), chúng sẽ phân bổ tài nguyên trên các ứng dụng.

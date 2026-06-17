@@ -1,1 +1,0 @@
-The Business layer comprises three essential packages. The Router package stores API path declarations, while the Controller package handles requests from the frontend (View) side, performing logical calculations, database queries, and data updates. The Modal package contains class data definitions.

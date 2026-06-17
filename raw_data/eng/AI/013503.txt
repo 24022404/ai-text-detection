@@ -1,9 +1,0 @@
-This research investigates the efficacy of reinforcement learning benchmarks by employing a novel approach known as Random Weight Guessing (RWG). The primary objective is to evaluate whether RWG can serve as a reliable baseline for assessing deterministic policies within various reinforcement learning environments.
-
-Methods/Approach: Our approach involves the random assignment of weights to neural network models, bypassing traditional learning paradigms. These randomly initialized networks are then tested across a spectrum of standard benchmarks commonly used in reinforcement learning, including grid-based and continuous action spaces. By comparing the performance of these networks without training to that of pretrained models, we assess the validity of RWG as a competitive baseline.
-
-Results/Findings: The results demonstrate that RWG can occasionally perform on par with or exceed the performance of established benchmark scores on certain tasks. Our analysis highlights specific environments and conditions where RWG achieves unexpected success, challenging conventional assumptions regarding the necessity of extensive library-based training phases in reinforcement learning.
-
-Conclusion/Implications: The study offers valuable insights into the mechanics of reinforcement learning frameworks, questioning the robustness and design of current benchmark datasets. The RWG methodology, by providing an unorthodox approach to model evaluation, proposes a critical perspective on hyper-optimization trends. This research contributes to the broader discourse on reinforcement learning validation approaches and suggests potential applications where streamlined or reduced-complexity model evaluations could be advantageous.
-
-Keywords: Reinforcement learning, Random Weight Guessing, neural networks, benchmarks, model evaluation, deterministic policies.

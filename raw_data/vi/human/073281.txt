@@ -1,1 +1,0 @@
-Các controllers trong Laravel chịu trách nhiệm xử lý logic ứng dụng và tương tác với dữ liệu. Routes xác định các tuyến đường URL và ánh xạ chúng với các phương thức trong controllers. Models địa diện cho các đối tượng trong cơ sở dữ liệu và cung cấp các phương thức để tương tác với dữ liệu.

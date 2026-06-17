@@ -1,1 +1,0 @@
-Chế độ điều khiển (Manual) : Thông qua app Android trên điện thoại, người dùng có thể theo dõi các thông số môi trường và điều khiển các cơ cấu chấp hành (bật/tắt bơm, điện, quạt) theo mong muốn.

@@ -1,1 +1,0 @@
-Reflected XSS: Đây là loại tấn công XSS phổ biến nhất. Trong Reflected XSS, tn tặc chèn mã độc vào một biểu mẫu nhập liệu và gửi nó đến máy chủ web.

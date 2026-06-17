@@ -1,1 +1,0 @@
-Pusher Channel hoạt động ở mọi nơ vì nó sử dụng WebSockets và HTTP và cung cấp dự phòng cho các thiết bị không hỗ trợ WebSockets. Ch tết về Pusher và cách cài đặt sẽ được trình bày cho tết ở mục 5.2 thuộc chương 5  Các giải pháp và đóng góp nổi bật.

@@ -1,1 +1,0 @@
-Định hướng giải pháp Sau khi xác định rõ được mục tiêu, em đã đưa ra giải pháp  là sẽ xây dựng các model mà có thể trong cùng  1 lúc các tuabin hoặc mỗ tuabin sẽ sử dụng 1 model.

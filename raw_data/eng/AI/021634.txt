@@ -1,9 +1,0 @@
-The paper presents NENET, an innovative edge learnable network designed to enhance link prediction within the context of scene text analysis. The primary objective is to address the challenges associated with accurately predicting relationships among text entities embedded in diverse scene images.
-
-Methods: NENET employs a novel approach that combines edge learning techniques with deep neural network architectures specifically tailored for scene text link prediction. The network is designed to efficiently process scene images by leveraging graph-based models that understand and predict the connectivity between textual elements. Key components of NENET include a specialized feature extraction layer and a graph embedding module that together facilitate accurate link predictions.
-
-Results: The proposed NENET network demonstrates superior performance in link prediction tasks compared to existing methods. Experimental results reveal significant improvements in precision and recall metrics, showcasing NENET's ability to handle complex text relationships within various scene types. The model outperforms conventional techniques by effectively reducing false positives and enhancing the accuracy of text link predictions.
-
-Conclusion: NENET offers a substantial contribution to the field of scene text analysis by introducing a robust framework for link prediction that is both accurate and computationally efficient. This research presents noteworthy advancements in edge learning methodologies, paving the way for enhanced automatic text understanding in real-world scenarios. Potential applications of this work include improved text recognition systems and automated information retrieval from natural scenes. 
-
-Keywords: NENET, edge learnable network, link prediction, scene text, graph-based models, text relationships, feature extraction, deep neural network.

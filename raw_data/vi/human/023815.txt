@@ -1,1 +1,0 @@
-Quy trình sử dụng hệ thống Hình 2.4 mô tả quy trình sử dụng hệ thống. Khách có thể đăng ký để tạo ra tài khoản cho mình. Sau đó có thể đăng nhập để sử dụng các chức năng của phần mềm.

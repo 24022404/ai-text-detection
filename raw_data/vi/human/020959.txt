@@ -1,1 +1,0 @@
-Nginx để làm reverse proxy server để chịu trách nhiệm mã hoá và giải mã SSL hay TSL kh triển khai giao thức bảo mật HTTPS.

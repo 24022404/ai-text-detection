@@ -1,1 +1,0 @@
-Axes:  Thành phần chính của một figure là các axes (những khung nhỏ hơn điểm vẽ hình lên đó). Một figure có thể chứa một hoặc nhiều axes. Nó cách được vẽ lên.

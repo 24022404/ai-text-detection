@@ -1,1 +1,0 @@
-Simple inventory management,capture inventory counts in warehouses through real-time updated metricsThe application only ap plies to small stores, product information is not detailed DxClan Digital Workspace SystemThe system is suitable for manybusiness models, providing management functions for connect ing departments in the enterprise and the warehouse department.

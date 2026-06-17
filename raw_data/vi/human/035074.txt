@@ -1,1 +1,0 @@
-Trong đồ án này, em đưa ra giải pháp sử dụng Ulti và bộ công cụ MAgents điểm xây dựng một mô trường học cho bài toán hệ thống đèn giao thông thông minh.

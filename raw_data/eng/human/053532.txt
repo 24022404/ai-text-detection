@@ -1,1 +1,0 @@
-Microservices are usually associated with DevOps because they serve as the foundation for continuous delivery methodologies that allow teams to respond to changing customer requirements quickly. More businesses are moving away from monolithic approaches and toward microservices.

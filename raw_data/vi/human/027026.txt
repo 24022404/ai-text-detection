@@ -1,1 +1,0 @@
-Vì vậy khi trích xuất dữ liệu đồ hở không chỉ là việc trích xuất dữ liệu văn bản của bài báo như yêu điều mà còn cần trích xuất các thông tin lên quan. Công việc này đòi hỏi cần đi sâu vào trang web chứa nội dung ch tết của các bà báo.

@@ -1,1 +1,0 @@
-In order to optimize the user experience, the application must ensure that the user interface is interrupted, seamless from start to finish, and consistent from start to finish.

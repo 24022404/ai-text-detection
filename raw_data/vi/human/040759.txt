@@ -1,1 +1,0 @@
-Sau khi kết thúc quy trình trên thì máy chủ sẽ trả về cho người dùng một fle điãbô vàng những vị trí của từ sa chính tả cùng với tập các từ có thể sửa.

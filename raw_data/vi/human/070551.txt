@@ -1,1 +1,0 @@
-TextInputCell.xb: Đố tượng Vew cho phép nhập dữ lệu từ bàn phím.4.1.5 Thiết kế ch tết gó Controllers Hình 4.7: Thiết kế ch tết gó Controllers Hình 4.7 mô tả ch tết gó Controllers. Bao gồm các class: () RoutesController, () UsersController, () ChatBoxesController, (v) MessagesController. Trong đió nhệm vụ của từng class như sau:

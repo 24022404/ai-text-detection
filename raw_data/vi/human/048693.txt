@@ -1,1 +1,0 @@
-Người bán có thể chỉnh sửa thực đơn, chỉnh sửa món ăn hoặc thêm mới món ăn.Hình 4.19: Giao diện quản lý món ăn cho người bán Hình 4.20 thể hiện giao diện của màn hình Thống kê doanh thu cho người bán.

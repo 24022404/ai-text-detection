@@ -1,1 +1,0 @@
-Expressjs giúp cho việc tổ chức các ứng dụng web thành một kiến trúc MVC có tổ chức hơn. Ở phần View là phần giao diện dành cho người dùng. Phần model là phần chứa toàn bộ dữ lệu của ứng dụng. Phần controller là bộ phận có nhiệm vụ xử lý các yêu cầu người dùng đưa điện thông qua view, từ đó đưa ra dữ lệu phù hợp cho người dùng.

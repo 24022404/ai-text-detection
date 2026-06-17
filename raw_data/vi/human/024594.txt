@@ -1,1 +1,0 @@
-Dựa trên các khảo sát sơ bộ về các hoạt động hiện tại của Lớp học Cầu Vồng, và khảo sát các chức năng cần thiết, em điã phân tích yêu cầu về quản lý nhân sự và quản lý giảng dạy của tổ chức, từ đó đưa ra các giả thiết về một số chức năng chính và thực hiện khảo sát mức độ ưu tên của từng chức năng điốt và quản lý của Lớp học Cầu Vồng dựa theo chức vụ hiện có của người dùng.

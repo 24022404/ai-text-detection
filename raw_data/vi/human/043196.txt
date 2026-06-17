@@ -1,1 +1,0 @@
-user account (tài khoản người dùng) student cv (hồ sơ sinh viên) student free time (thời gian rảnh của sinh viên) business description (mô tả doanh nghiệp) job (công việc) job category (loại công việc) job tme (thờ gan làm việc) appreciate (đánh giá) Mối quan hệ giữa các thực thể như sau:

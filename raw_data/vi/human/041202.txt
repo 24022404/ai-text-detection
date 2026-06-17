@@ -1,1 +1,0 @@
-Chưa tích hợp được phần cứng vào việc soát vé, hệ thống hiện tại mới chỉ xử lý các nghiệp vụ của phần mềm quản lý.

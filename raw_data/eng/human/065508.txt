@@ -1,1 +1,0 @@
-Another important feature of Mapbox is its support for real-time location dataand navigation. ARNav takes advantage of this by using Mapbox’s real-time nav igation capabilities to provide users with an up-to-date and accurate navigation experience.

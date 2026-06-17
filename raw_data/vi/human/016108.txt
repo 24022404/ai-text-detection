@@ -1,1 +1,0 @@
-Lý do lựa chọn Docker có khả năng triển khai trên nhiều nền tảng như Linux, Window và có những ưu điểm sau.

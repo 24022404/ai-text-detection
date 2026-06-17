@@ -1,1 +1,0 @@
-R. Li, S. Li, C. He, Y. Zhang, X. Jia, and L. Zhang, “Class-balanced pixellevel self-labeling for domain adaptive semantic segmentation,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogni tion, 2022, pp. 11 593–11 603.

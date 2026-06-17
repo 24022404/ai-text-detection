@@ -1,1 +1,0 @@
-: Bài báo trình bày k ết quả tổng hợp bộ điều khiển trượt cho h ệ máy phát đi ện turbine gió khi tính đ ến nhiễu loạn gió. Các k ết quả được khảo sát đánh giá b ằng mô ph ỏng trên ph ần mềm Matlab -Simulink cho thấy bộ điều khiển này đ ảm bảo được các yêu c ầu chất lượng nguồn phát khi n ối lưới, tối ưu hóa quá trình chuy ển đổi năng lư ợng cho tuabin gió .

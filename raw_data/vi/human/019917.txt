@@ -1,1 +1,0 @@
-routes : chứa các tuyến điường (route) điã điịnh nghĩa của ứng dụng. Mặc định các file: ap.php, web.php, channels.php và console.php được kết nối với Laravel.

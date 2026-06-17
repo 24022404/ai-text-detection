@@ -1,1 +1,0 @@
-Hệ thống xử lý và hiển thị thông báo kết quả Luồng sự kiện thay thế 5 a. Hệ thống hiển thị lỗ nếu có khóa học trong lộ trình học chưa được kiểm duyệt.

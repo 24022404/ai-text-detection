@@ -1,1 +1,0 @@
-Dstrbuton (phân phố): Khố lượng giao dịch được xem là phân phố trong trường hợp giá đióng cửa hiện tạ thấp hơn giá đióng cửa phên giao dịch của ngày hôm trước. Đều này có nghĩa là thị trường đang kéo giá xuống thấp điể mua vào, các nhà điầu tư có thể canh điểm để vào hàng.

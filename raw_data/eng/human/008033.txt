@@ -1,1 +1,0 @@
-F. J. MacWilliams and N. J. Sloane, “Pseudo-random sequences and arrays,” Proceedings of the IEEE , vol. 64, no. 12, pp. 1715–1729, 1976.

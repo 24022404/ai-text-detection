@@ -1,1 +1,0 @@
-ExpressJs: với việc xây dựng một hệ thống web API thì ExpressJs luôn là một công cụ hỗ trợ tuyệt vời với các lập trình viên nhằm phát triển các tính năng bên phía server.

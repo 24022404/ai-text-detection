@@ -1,1 +1,0 @@
-of(tD): Giá trị nghịch đảo tần suất của từ vựng t trong kho ngữ liệu Sử dụng công thức logarit không thay đổi giá trị mà chỉ làm thu hẹp lại khoảng giá trị biểu diễn.

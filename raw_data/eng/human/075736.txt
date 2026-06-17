@@ -1,1 +1,0 @@
-Cuci=2 N.(N−1)n−1X i=1NX j=i+1PMI (wi, wj) PMI (wi, wj) =logP(wi, wj) +ϵ P(wi)·P(wj) Coherence measured by normalized pointwise mutual information cnpmi , the function is the same as cuci, except for the new PMI function:

@@ -1,1 +1,0 @@
-M.-T. Luong andC. D. Manning, “Achieving open vocabulary neural machine translation with hybrid word-character models.,” CoRR ,jourvol abs/1604.00788, 2016. url:

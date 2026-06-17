@@ -1,1 +1,0 @@
-Bài báo tr ình b ày một cách tính to án tải trọng gi ới hạn của kết cấu phẳ ng dựa trên phương ph áp cận trên lý thuyết phân tích gi ới hạn của kết cấu. Phương ph áp số áp dụng trong công trình nà y là phương ph áp phần tử hữu hạn (FEM) .

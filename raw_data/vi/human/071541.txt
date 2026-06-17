@@ -1,1 +1,0 @@
-Browser (Enduser)  các trình duyệt mà người dùng sử dụng trên thiết bị cá nhân điểm truy cập dịch vụ; Frontend  Giao diện người dùng; Backend  Nhận yêu cầu và xử lý logic; Database  Lưu trữ dữ liệu.

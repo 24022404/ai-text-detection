@@ -1,1 +1,0 @@
-Vớ tuổi điờ dà cùng với việc được sử dụng rộng rã, tài nguyên của Laravel ngày càng lớn mạnh và đia dạng. Vớ cộng đồng Laravel khổng lồ, lập trình viên có thể dễ dàng nhờ sự trợ giúp từ họ hoặc tra cứu phương hướng gả quyết cho gần như mọ khó khắn gặp phải trong quá trình phát trển.

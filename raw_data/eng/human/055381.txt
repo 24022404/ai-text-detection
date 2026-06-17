@@ -1,1 +1,0 @@
-Input/OutputInput Takes the checksum of the application, the directory path contain ing the application’s source code, and the type of the application (e.g., Android application type).

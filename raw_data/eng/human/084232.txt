@@ -1,1 +1,0 @@
-Hard Drive Space Minimum 5 GB of free space Table 5.10: System requirements for Platformer Game 5.4.2 Architecture design a, Software architecture selectionThe software architecture in a pixel platformer game typically follows a component based design, included below components:

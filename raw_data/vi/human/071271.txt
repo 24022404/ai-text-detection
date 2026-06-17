@@ -1,1 +1,0 @@
-Gả thuật phân cụm K Means cầu Gả thuật phân cụm K Means  là một thuật toán phân cụm không giám sát được sử dụng rộng rãi. Trong đó mục tiêu của thuật toán là phân cho một tập hợp dữ liệu gồm N điểm dữ liệu vào K cụm, sao cho các điểm trong cùng một cụm càng giống nhau càng tốt và các điểm ở các cụm khác càng khác nhau càng tốt.

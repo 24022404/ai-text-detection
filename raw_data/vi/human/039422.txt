@@ -1,1 +1,0 @@
-Phần mềm MySQL là Mã nguồn mở . Máy chủ cơ sở dữ liệu MySQL rất nhanh, đáng tin cậy, có thể mở rộng và dễ sử dụng.MySQL sử dụng SQL là ngôn ngữ để truy cập cơ sở dữ liệu. Phiên bản sử dụng là 8.0.

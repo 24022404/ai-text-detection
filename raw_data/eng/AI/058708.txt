@@ -1,1 +1,0 @@
-For every s-RLL sequence of length k, removing either the first or last element yields a prefix or suffix, respectively, that is also an s-RLL sequence of length k−1.

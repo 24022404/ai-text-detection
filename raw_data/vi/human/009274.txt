@@ -1,1 +1,0 @@
-Bootstrap : là một framework bao gồm các HTML, CSS và JavaScript template dùng để phát triển website. Bootstrap cho phép quá trình thiết kế website diễn ra nhanh chóng và dễ dàng hơn dựa trên những thành tố cơ bản sẵn có.

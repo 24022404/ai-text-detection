@@ -1,1 +1,0 @@
-Xác định các thực thể (Entity): Xác định các thực thể quan trọng trong lĩnh vực cụ thể mà Ontology sẽ đại diện, ví dụ: người, vật phẩm, sự kiện, v.v.

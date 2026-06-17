@@ -1,1 +1,0 @@
-Mỗ kh có yêu cầu đồng bộ, hệ thống gọi Google API kèm theo mã truy cập hoặc mã làm mới để đồng bộ lên Google.

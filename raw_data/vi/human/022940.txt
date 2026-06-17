@@ -1,1 +1,0 @@
-Bước 1: Cài đặt Python Do ứng dụng được chạy bằng ngôn ngữ Python nên ta cần có môi trường Python ở trên máy điểm có thể chạy được chương trình.Truy cập trang chủ Python  điểm tải xuống phiên bản Python phù hợp với hệ điều hành .

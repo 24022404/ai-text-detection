@@ -1,1 +1,0 @@
-Thiết lập kênh truyền thông: Sau khi kết nối được thiết lập, mỗ người dùng sẽ tạo các kênh truyền thông. Cụ thể, các kênh truyền tả hình ảnh (RTP  Real Time Transport Protocol) và kênh truyền tải âm thanh (RTCP Real Time Control Protocol) sẽ được tạo ra để truyền dữ liệu hình ảnh và âm thanh giữa các người dùng.

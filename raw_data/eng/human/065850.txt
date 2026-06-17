@@ -1,1 +1,0 @@
-The AR Package, on the other hand, is responsible for utilizing ARCore to detect the plane and render the 3D arrows on the app’s screen. It communicates with the UI Package to receive user input and to provide information about the camera’s rotation.

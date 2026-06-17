@@ -1,1 +1,0 @@
-Bước 1 : Bật tính năng gỡ lỗi USB: Để cho phép Android Studio giao tiếp với thiết bị Android, bạn phải bật tính năng gỡ lỗi qua USB trong phần cài đặt Tùy chọn cho nhà phát triển của thiết bị.

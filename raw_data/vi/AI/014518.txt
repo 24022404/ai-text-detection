@@ -1,7 +1,0 @@
-Mô hình tích hợp SCOR và DEMATEL đánh giá rủi ro trong chuỗi cung ứng lạnh nông sản là một phương pháp mới và hiệu quả để quản lý rủi ro trong lĩnh vực nông sản. Mô hình này kết hợp hai phương pháp đánh giá rủi ro khác nhau: SCOR (Supply Chain Operations Reference) và DEMATEL (Decision Making Trial and Evaluation Laboratory).
-
-SCOR là một mô hình đánh giá rủi ro dựa trên chuỗi cung ứng, giúp xác định và đánh giá các rủi ro tiềm ẩn trong chuỗi cung ứng. Trong khi đó, DEMATEL là một phương pháp đánh giá rủi ro dựa trên mạng lưới, giúp xác định và đánh giá các mối quan hệ giữa các yếu tố rủi ro.
-
-Bằng cách tích hợp hai phương pháp này, mô hình SCOR và DEMATEL có thể đánh giá rủi ro trong chuỗi cung ứng lạnh nông sản một cách toàn diện và chính xác. Mô hình này giúp xác định các rủi ro tiềm ẩn, đánh giá mức độ nghiêm trọng của các rủi ro, và đề xuất các giải pháp để giảm thiểu rủi ro.
-
-Mô hình này có thể được áp dụng trong các lĩnh vực như sản xuất, phân phối, và lưu trữ nông sản. Bằng cách sử dụng mô hình này, các doanh nghiệp có thể giảm thiểu rủi ro, tăng cường hiệu suất, và đảm bảo chất lượng sản phẩm.

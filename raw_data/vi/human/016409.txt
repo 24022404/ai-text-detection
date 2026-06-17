@@ -1,1 +1,0 @@
-Sau khi nhấn nút bỏ tài liệu thì tài liệu đó sẽ được chuyển sang mục "Tài liệu loại bỏ" trên sidebar. Như Hình 5.4 bên dưới:

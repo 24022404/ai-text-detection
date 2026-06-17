@@ -1,1 +1,0 @@
-Khách hàng chọn hình thức thanh toán bằng tiền mặt, quét mã QR để chuyển khoản hoặc yêu cầu nợ.

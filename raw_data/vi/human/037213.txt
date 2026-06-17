@@ -1,1 +1,0 @@
-Gó routes: cha thành web và app. Các route web là những router chịu trách nhiệm cho hiển thị dữ liệu từ controller. Các route ap sẽ nhận dữ liệu từ controller, sau đấy hiển thị lên view.

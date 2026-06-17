@@ -1,1 +1,0 @@
-After a technology stack is determined, chapter 4 dives into the details of appli-cation development and deployment. Design elements are identified and analyzedto implement the system’s functional requirements. These elements include archi tecture design, package and class design, interface design, application testing and deployment.

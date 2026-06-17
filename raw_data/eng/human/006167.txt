@@ -1,1 +1,0 @@
-UI Element Management The GUI Manager handles the creation, placement, and removal of UI elements such as buttons, text labels, images, and menus.

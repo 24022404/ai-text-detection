@@ -1,1 +1,0 @@
-Postgres is not owned by one organization. So, it has had trouble getting its name out there despite being fully featured and comparable to other DBMS systems Changes made for speed improvement require more work than MySQL as PostgreSQL focuses on compatibility Many open source apps support MySQL, but may not support PostgreSQL On performance metrics, it is slower than MySQL.

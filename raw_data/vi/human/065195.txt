@@ -1,1 +1,0 @@
-Bước 2: Xây dựng ma trận tương tự giữa khách hàng Sử dụng thư viện Sklearn để tính toán ma trận tương tự giữa các khách hàng.

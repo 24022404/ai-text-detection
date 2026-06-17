@@ -1,1 +1,0 @@
-Le Zhou et al. “Self Pretranng wth Masked Autoencoders for Medcal Im age Classfcaton and Segmentaton”. In: arXv preprnt arXv:2203.05573 (2022).

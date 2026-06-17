@@ -1,1 +1,0 @@
-Thiết kế tổng quan Hình 4.2: Biểu đồ tổng quan Website của em được xây dựng trên framework expressjs, vì vậy biểu đồ gói UML gồm ba thành phần chính là viewmodel và controller.

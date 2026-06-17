@@ -1,1 +1,0 @@
-J.-P. Duval’s article outlines techniques for generating a section of conjugacy classes and building the tree of Lyndon words with bounded length, as detailed in Theoretical Computer Science.

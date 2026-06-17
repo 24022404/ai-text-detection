@@ -1,1 +1,0 @@
-The (k, s)-RdB graph Gk,s is characterized by its vertex set Vk−1,s and edge set Ek,s. Lemma 2 is presented to precisely determine the number of vertices contained in this specific graph structure.

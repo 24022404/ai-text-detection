@@ -1,1 +1,0 @@
-Riêng đối với học sinh tham gia học tập tạ Lớp học Cầu Vồng, do phần lớn các em có hoàn cảnh khó khăn và là đối tượng yếu thế trong xã hội nên không phả học sinh nào cũng được tiếp xúc với các thiết bị thông minh để dùng hệ thống. Chính vì vậy, trong phạm vi đồ án, em chỉ xây dựng một và tính năng cơ bản hướng tới đối tượng là học sinh.

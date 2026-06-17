@@ -1,1 +1,0 @@
-For permutations, partitions, and subsets of n distinct symbols, a universal cycle (U-cycle) does not always exist. With n = 3, for instance, it is impossible to form a cycle that covers all six permutations; the cycle 123→231→312→123 misses permutations like 132 and 321, demonstrating that not all possible arrangements are included in such a cycle.

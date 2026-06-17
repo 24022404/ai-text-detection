@@ -1,1 +1,0 @@
-Một ưu điểm lớn của ReactJS là khả năng tái sử dụng thành phần. Điều này giúp cho việc phát triển ứng dụng trở nên nhanh chóng và hiệu quả hơn. Ngoài ra, ReactJS còn có một cộng đồng lớn và nhiều thư viện hỗ trợ phát triển ứng dụng, từ các thư viện quản lý trạng thái như Redux đến các thư viện hỗ trợ phát triển giao diện như Antd.

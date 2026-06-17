@@ -1,1 +1,0 @@
-Hệ thống này được xây dựng dựa trên kiến trúc phân tán Client Server, trong đó phía Server đóng vai trò là ứng dụng web tương tác. Nó chịu trách nhiệm lưu trữ dữ liệu hệ thống và cung cấp các API để phía Client tương tác. Nhờ việc thực hiện mọ nghiệp vụ xử lý phức tạp và tốn thờ gần tạ Server, ứng dụng ít gặp vấn đề giật lag kh người dùng sử dụng.

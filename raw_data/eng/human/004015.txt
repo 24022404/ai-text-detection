@@ -1,1 +1,0 @@
-This ensures higher security, minimizes session management issues, and also al lows users to log in on multiple browsers and devices without losing the active session on the old browser.

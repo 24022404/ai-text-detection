@@ -1,1 +1,0 @@
-JavaScript is a versatile programming language that can be used for both front-end and back-end development. It empowers developers to create interactive and dynamic web pages, enhancing user experience and adding functionality to websites (Figure 3.1).

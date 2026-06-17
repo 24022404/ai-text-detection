@@ -1,1 +1,0 @@
-Bài báo trình bày mô hình d ự đoán co ngót c ủa bê tông ở tuổi sớm. Mô hình này d ựa trên lý thuy ết về sức căng mao d ẫn được tạo ra trong các l ỗ mao d ẫn trong bê tông, sử dụng độ ẩm và nhi ệt độ bên trong bê tông làm thông s ố chính. Các k ết quả dự đoán c ủa mô hình v ề sự phát tri ển của biến dạng co ngót đư ợc so sánh v ới kết quả thực nghi ệm và cho th ấy sự phù hợ p tốt.

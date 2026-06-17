@@ -1,1 +1,0 @@
-Example 4.4 identifies every element in S(v) for v = 01101, focusing on those with minimal rotations no greater than v.

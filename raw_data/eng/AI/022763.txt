@@ -1,1 +1,0 @@
-The application is designed to optimize ticket queue management and technician availability by automatically assigning the correct SLA to each ticket based on predefined rules and triggering proactive escalations to minimize the risk of SLA breaches.

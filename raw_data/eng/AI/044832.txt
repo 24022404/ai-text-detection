@@ -1,1 +1,0 @@
-Neural Networks utilize gradient descent for training, applying the backward propagation process that leverages the chain rule to compute necessary weight changes. By calculating derivatives, the network effectively updates its weights in order to minimize the loss function after each epoch, improving performance.

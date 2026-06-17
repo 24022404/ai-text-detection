@@ -1,1 +1,0 @@
-Ứng dụng cơ bản điã điáp ứng các yêu cầu của khách hàng và có những cả tiến so với ứng dụng tiền nhiệm là khác về mặt hiệu năng và giao diện. Chinmay Deshpande, The Best Gude to Know What Is React . [On].

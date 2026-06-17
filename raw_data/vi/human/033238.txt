@@ -1,1 +1,0 @@
-ĐATN sử dụng mô hình Holt Winters điểm dự báo nhu cầu tiêu thụ cho từng sản phẩm trong tháng kế tiếp vớ thông qua dữ liệu tiêu thụ thực tế trong quá khứ. Từ dự báo gió, ĐANG đưa ra công thức và tính toán gợi ý số lượng sản phẩm cần sản xuất thêm trong tháng hiện tại.

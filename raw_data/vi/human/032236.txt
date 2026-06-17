@@ -1,1 +1,0 @@
-Sự hiệu quả của Softmax Regression nó riêng và Convolutional Neural Networks nói chung là cả bộ trích chọn đặc trưng (feature extraction) và bộ phân lớp (classifier) được huấn luyện đồng thờ.Hình 3.5: Mô hình chung cho các bài toán học máy.

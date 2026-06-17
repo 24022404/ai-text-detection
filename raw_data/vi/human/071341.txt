@@ -1,1 +1,0 @@
-n= 5: Số lượng customer có sản phẩm trong tập test có trong danh sách gợi ý là 432 trên tổng số 1955 customer.

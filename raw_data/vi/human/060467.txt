@@ -1,1 +1,0 @@
-Khố thực thi: Gồm nhiều các thiết bị ngoại vi khác nhau được điều khiển bở Arduino như các module điều khiển nhiệt độ, độ ẩm không khí.

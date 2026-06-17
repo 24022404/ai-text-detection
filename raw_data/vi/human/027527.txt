@@ -1,1 +1,0 @@
-Cơ sở dữ liệu: Mặc dù Flask không đi kèm với một ORM (Object Relational Mapping) như Django, nhưng nó hỗ trợ kết nối dễ dàng với nhiều loại cơ sở dữ liệu thông qua các extension như Flask SQLAlchemy hoặc Flask MySQL.

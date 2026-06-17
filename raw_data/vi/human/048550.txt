@@ -1,1 +1,0 @@
-Spring Boot là một dự án phát triển bở JAV (ngôn ngữ java) trong hệ sinh thái Spring framework Spring Boot giúp bạn dễ dàng tạo các Ứng dụng , độc lập mà bạn có thể "chỉ cần chạy". Đặc trưng của Spring Boot là tạo ra các ứng dụng Spring độc lập , nhúng trực tiếp Tomcat.

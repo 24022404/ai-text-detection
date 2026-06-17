@@ -1,9 +1,0 @@
-Objective: Modern fully convolutional networks (FCNs) for dense prediction often struggle to jointly model “what” and “where” information in feature maps. This paper introduces a Concurrent Spatial and Channel Squeeze & Excitation (CSSE) module that adaptively recalibrates both channel-wise and spatial feature responses, boosting representational power for segmentation and other pixel-level tasks.  
-
-Methods: Building on the original Squeeze & Excitation paradigm, the CSSE block performs parallel “squeeze” operations: a global channel squeeze followed by channel excitation, and a spatial squeeze via point-wise pooling followed by spatial excitation. These two branches are fused through element-wise multiplication, enabling simultaneous emphasis on salient channels and spatial locations. The lightweight CSSE module is seamlessly integrated into standard FCN backbones at multiple depths, adding minimal parameters and computational overhead.  
-
-Results: We evaluate the proposed approach on three public benchmarks—PASCAL VOC 2012, Cityscapes, and ADE20K—using common FCN variants (e.g., U-Net, DeepLabv3+). CSSE-enhanced models achieve consistent gains of 1.2–2.4% mean Intersection over Union (mIoU) over baseline SE and non-SE counterparts, while incurring less than 3% extra FLOPs. Qualitative results highlight clearer boundary delineation and improved detection of small or thin structures.  
-
-Conclusion: The CSSE module offers a versatile and efficient mechanism for joint spatial-channel attention in FCNs, leading to more accurate and robust dense predictions. Its generality and low overhead make it suitable for real-time and resource-constrained applications.  
-
-Keywords: concurrent spatial and channel squeeze-excitation, fully convolutional networks, semantic segmentation, attention mechanisms, dense prediction.

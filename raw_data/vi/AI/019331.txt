@@ -1,5 +1,0 @@
-Một hệ thống anten rộng phủ sóng lớn được thiết kế cho ứng dụng ngoài trời. Hệ thống này bao gồm một mảng anten được sắp xếp để tạo ra một tia phủ sóng rộng, giúp tăng cường tín hiệu và cải thiện chất lượng truyền thông.
-
-Hệ thống anten này được thiết kế để đáp ứng nhu cầu của các ứng dụng ngoài trời, bao gồm truyền thông di động, truyền hình và các ứng dụng khác. Với khả năng phủ sóng rộng và mạnh mẽ, hệ thống anten này có thể đáp ứng nhu cầu của các khu vực rộng lớn và đông dân cư.
-
-Hệ thống anten này cũng được thiết kế để dễ dàng lắp đặt và bảo trì, giúp giảm thiểu chi phí và tăng cường hiệu suất. Với khả năng tương thích với các hệ thống truyền thông hiện có, hệ thống anten này có thể được sử dụng rộng rãi trong các ứng dụng ngoài trời.

@@ -1,1 +1,0 @@
-Frozen Ether : It occurs when Ether becomes permanently locked or inaccessible within a smart contract, typically due to programming errors or inadequate checks.This vulnerability occurs when users deposit money into a contract but cannot withdraw or use the assets in that contract, causing their assets to be "frozen" in that contract.

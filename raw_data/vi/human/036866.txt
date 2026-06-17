@@ -1,1 +1,0 @@
-–Quản trị viên có thể thêm/sửa/xóa trực tếp trên danh sách của bà vết.2.2.2.5 Bểu đồ usecase phân rã cho chức năng Quản lý danh mục Hình 2.6: Bểu đồ usecase phân rã cho chức năng Quản lý danh mục ➢Mô tả usecase phân rã cho chức năng Quản lý danh mục:

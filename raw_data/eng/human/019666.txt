@@ -1,1 +1,0 @@
-The BERT loss function takes into consideration only the prediction of the masked values and ignores the prediction of the non-masked words.

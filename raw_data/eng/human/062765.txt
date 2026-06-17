@@ -1,1 +1,0 @@
-Fig. 4.9 illustrates the interface design of term page .Figure 4.9: Detail term page d, Save setting page A successful save message will be displayed by the program after making changes to the properties and tapping save.

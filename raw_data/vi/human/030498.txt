@@ -1,1 +1,0 @@
-SQL Injection và SQL Injection là một kỹ thuật tấn công mạng vào các ứng dụng web dựa trên cơ sở dữ liệu (database), trong đó kẻ tấn công cố gắng thêm các đoạn mã độc (malicious code) vào các truy vấn SQL và NoSQL điểm thực thi các hành động không mong muốn trên cơ sở dữ liệu.

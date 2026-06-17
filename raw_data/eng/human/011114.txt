@@ -1,1 +1,0 @@
-Spawn(): This method checks if there are any available objects in the pool. If there are, it will retrieve one from the pool. If not, it will instantiate a new object from the prefab as a new element in the pool.

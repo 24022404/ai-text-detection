@@ -1,1 +1,0 @@
-Chọn sản phẩm và nhập quá số lượng còn trong kho hàng.  Hệ thống hiển thị thông báo “Số lượng đặt lớn hơn số lượng sản phẩm còn lạ”. Hệ thống hiển thị thông báo “Số lượng đặt lớn hơn số lượng sản phẩm còn lạ”.  Đạt TC03  1. Đăng  nhập tài khoản thành viên.

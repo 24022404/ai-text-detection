@@ -1,1 +1,0 @@
-Hadoop Common : là các thư viện và tiện ích cần thiết của Java để các môđun khác sử dụng.

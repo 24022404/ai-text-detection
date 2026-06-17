@@ -1,1 +1,0 @@
-Ch tết kiến trúc mô đun gả mã điều xuất được thể hiện ở Hình 3.9. Môđun giả mã này bao gồm 4 bước thực hiện chính:

@@ -1,1 +1,0 @@
-Dữ liệu người chơi  game thuộc đồ án không có nhiều dữ liệu người dùng và cũng không cần phải hứa ở cùng một cơ sở dữ liệu chung mà game mang lại trải nghiệm độc lập giữa người chơ, do đó em không sử dụng hệ quản trị cơ sở dữ liệu để lưu trữ, mà thay vào đó lưu dữ liệu người dùng dưới dạng 1 file trong kho dữ liệu của game sử dụng thư viện PlayerPrefs được cung cấp bởi Unity.

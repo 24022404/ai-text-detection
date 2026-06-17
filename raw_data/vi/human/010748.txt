@@ -1,1 +1,0 @@
-Go store chứa các gói actiondispatcher và các slce (cấu thành nên Store của toàn bộ ứng dụng). Các đối tượng trong component, hay screen sẽ sử dụng các đối tượng trong acton điểm thay đổi giao diện, cập nhật trạng thái.

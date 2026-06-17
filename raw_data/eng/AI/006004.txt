@@ -1,1 +1,0 @@
-A neural network is a sophisticated system of algorithms inspired by the structure of the human brain, designed to recognize and model basic relationships within data. It comprises interconnected artificial neurons, which can be realized through either organic or artificial means.

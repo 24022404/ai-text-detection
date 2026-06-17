@@ -1,1 +1,0 @@
-React provides a great web application-building tool with the most up-to-date technology and features. It also provides a model of components, allowing you to create better user interfaces and improve page load speed.

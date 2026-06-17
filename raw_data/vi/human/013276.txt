@@ -1,1 +1,0 @@
-Hỗ trợ và tận dụng những thứ như đối sánh mẫu, các hàm bậc cao hơn và kiểu viết mã khai báo, và điều đó đi kèm với nhiều lợi ích:

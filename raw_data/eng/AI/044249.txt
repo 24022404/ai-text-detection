@@ -1,9 +1,0 @@
-Understanding social relationships has become an essential focus within the study of network dynamics and social media analysis. This paper proposes a novel Dual-Glance Model designed to decipher and analyze the intricate web of social connections by examining both direct and indirect interactions within digital communication platforms.
-
-Methods: The model employs a two-pronged approach that integrates both a graph-based analysis of user interactions and a machine learning framework for predicting relationship strength and type. The graph-based component visualizes social networks to identify patterns in user engagement, while the machine learning framework leverages deep learning techniques to process complex social signals and user metadata.
-
-Results: Our findings demonstrate the Dual-Glance Model's superior capability in accurately classifying social relationship types, outperforming traditional single-view models. Notably, the model achieved a significant increase in predictive accuracy, showing an improvement of over 20% compared to baseline methods. Extensive testing across various social media datasets confirms the robustness and scalability of our approach.
-
-Conclusion: The proposed Dual-Glance Model offers a comprehensive tool for decoding social relationships, with far-reaching implications for both academic research and industry applications. Its innovative use of dual-perspective analysis allows for a nuanced understanding of social dynamics, facilitating advances in social computing, recommendation systems, and targeted advertising. This model sets a precedent for future research aiming to delve deeper into the complexities of human social networks.
-
-Keywords: Social Relationships, Dual-Glance Model, Graph-Based Analysis, Machine Learning, Social Networks, Relationship Prediction.

@@ -1,1 +1,0 @@
-Xem các đánh giá về sản phẩm 2. Hệ thống cập nhật CSDL và hển thị các đánh giá lên gao dện Luồng sự kện con:

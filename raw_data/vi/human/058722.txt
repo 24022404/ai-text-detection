@@ -1,1 +1,0 @@
-Reducers là các function nguyên thủy chúng lấy state hiện tại của app, thực hiện một acton và trả về một state mới. Những status này được lưu như những objects và chúng định rõ các state của một ứng dụng thay đổi trong việc phản hồi một acton được gửi đến store.

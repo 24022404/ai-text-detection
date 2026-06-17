@@ -1,1 +1,0 @@
-Sau khi submit, người phụ trách phỏng vấn nhận được thông báo, người đăng ký thì nhận được email chứa các thông tin phỏng vấn (thờ gan và lnk phỏng vấn)3 Chuyển trạng thái CỦA từ “chờ phỏng vấn” sang “Đỗ”:

@@ -1,1 +1,0 @@
-Tính năng bảo mật cao : Laravel   sử dụng PDO nhằm để chống lại sự tấn công SQL Injection, cộng với field token ẩn để chống lại tấn công kiểu CSRF. Đều này sẽ giúp cho người dùng có thể hoàn toàn tập trung vào việc phát triển sản phẩm.

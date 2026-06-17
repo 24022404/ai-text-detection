@@ -1,1 +1,0 @@
-Do hệ thống được chia thành các lớp nhỏ nên giúp phát triển ứng dụng nhanh, đơn giản, sản phẩm dễ nâng cấp, bảo trì. Hệ thống em xây dựng tuân thủ theo đúng kiến trúc phân lớp Layered Pattern. Kiến trúc này được chia làm 3 lớp chính bao gồm:

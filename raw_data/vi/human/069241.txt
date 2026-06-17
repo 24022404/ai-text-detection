@@ -1,1 +1,0 @@
-Mục tiêu của đề tài là xây dựng một thiết bị ứng dụng điều khiển hồng ngoại đơn giản, chi phí thấp từ các module hỗ trợ sẵn có, dễ dàng tự tùy chỉnh và nâng cấp, từ đó cải thiện trải nghiệm cuộc sống.

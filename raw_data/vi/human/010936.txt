@@ -1,1 +1,0 @@
-Thông tin này không chỉ giúp dễ dàng xác định và truy xuất danh tính của người sở hữu khuôn mặt từ vector đặc trưng tương ứng, mà còn làm nền tảng cho việc phân tích và khám phá dữ liệu sau này.

@@ -1,1 +1,0 @@
-Xây dựng hệ thống theo mô hình này sẽ không chỉ giải quyết bài toán phân tích dữ lệu người đọc báo điện tử trong khuôn khổ đồ án. Mở rộng ra, hệ thống có thể gả quyết các bài toán liên quan đến phân tích dữ lệu lớn nó chung.

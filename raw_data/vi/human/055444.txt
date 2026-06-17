@@ -1,1 +1,0 @@
-Khách hàng thực hiện thanh toán một phần đơn đơn hàng Thông báo hệ thống đã nhận số tiền khách đã thanh toán, yêu cầu người dùng tiếp tục thanh toán số tiền còn thiếu Đạt Đăng nhập thành công, chọn mua hàng, sau đó nhấn vào nút "Thanh toán qua tài khoản ngân hàng".

@@ -1,7 +1,0 @@
-Đoạn văn tóm tắt:
-
-Khả năng chịu đựng của khung thép trong tình huống cháy là một vấn đề quan trọng trong lĩnh vực xây dựng và an toàn. Các nghiên cứu gần đây đã tập trung vào việc phát triển các phương pháp tiên tiến để phát hiện và đánh giá thiệt hại của khung thép trong tình huống cháy. Một nghiên cứu mới đã áp dụng kỹ thuật phân tích thời gian và học máy để phát hiện và đánh giá thiệt hại của khung thép trong tình huống cháy.
-
-Kết quả nghiên cứu cho thấy rằng phương pháp này có thể phát hiện được các thiệt hại nhỏ của khung thép, ngay cả khi chúng không thể được nhìn thấy bằng mắt thường. Ngoài ra, phương pháp này cũng có thể đánh giá được mức độ nghiêm trọng của thiệt hại và dự đoán được khả năng chịu đựng của khung thép trong tình huống cháy.
-
-Nghiên cứu này có thể giúp các kỹ sư và nhà quản lý xây dựng phát triển các phương pháp bảo trì và sửa chữa hiệu quả hơn, giảm thiểu thiệt hại và đảm bảo an toàn cho người dân.

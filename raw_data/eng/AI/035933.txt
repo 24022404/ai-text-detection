@@ -1,1 +1,0 @@
-A balanced vertex is a point in a graph where the count of incoming edges matches the count of outgoing edges, indicating an equal flow into and out of that vertex.

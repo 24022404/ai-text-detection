@@ -1,1 +1,0 @@
-From there, a developer can define whether a function is secret or public. The default setting for functions is public, programmers can ignore this setting. If a variable or function is made secret, other contracts cannot read or change it.

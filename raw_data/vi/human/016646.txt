@@ -1,1 +1,0 @@
-Đầu vào: Cho một tập hợp điểm S=s0, s1, ..., s n Đầu ra: Một tập hợp điểm nằm trên bao lô H Thuật toán như sau:

@@ -1,1 +1,0 @@
-Tầng Dữ liệu chứa các góc chịu trách nhiệm lưu trữ, truy xuất và xử lý các dữ liệu liên quan đến ứng dụng. Trong tầng này có ha gó là Dữ liệu cơ bản và File.

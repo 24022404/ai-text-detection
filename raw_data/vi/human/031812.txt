@@ -1,1 +1,0 @@
-Hoán đổi trong ứng dụng: Người dùng có thể hoán đổi token thưởng nhận được từ game sane các loại tiền điện tử khác.

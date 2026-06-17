@@ -1,1 +1,0 @@
-Đố vớ tính năng sửa lỗi chính tả trên file, hệ thống cần đảm bảo thờ gan sửa lỗi cho văn bản nhập từ bàn phím từ 2 gây điến 10 gây, không để người dùng chờ đợi lâu dẫn tới trải nghiệm không tốt.

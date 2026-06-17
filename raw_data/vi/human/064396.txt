@@ -1,1 +1,0 @@
-Mỗ một người dùng có thể tạo được nhiều phòng code nên mối quan hệ giữa User và Code Editor Room là 1n.

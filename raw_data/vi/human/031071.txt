@@ -1,1 +1,0 @@
-Mạng Ethereum bắt điầu bằng cách sử dụng cơ chế đồng thuận Proofofwork (PoW). Đều này cho phép các nút của mạng Ethereum đồng ý về trạng thá của tất cả thông tin được gh trên chuỗ khố Ethereum và ngăn chặn một số loạ tấn công knh tế. Tuy nhên, Ethereum đã tắt cơ chế đồng thuận này vào năm 2022 và thay vào đó bắt điầu sử dụng Proofofstake (PoS).

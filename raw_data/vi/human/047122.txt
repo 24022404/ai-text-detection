@@ -1,1 +1,0 @@
-Để đảm bảo chất lượng của hệ thống, tô đã tiến hành xây dựng một số kịch bản kiểm thử. Phương pháp được sử dụng ở đây là kiểm thử hộp đen. Đây là một phương pháp đơn giản nhưng có hiệu quả cao, sát với yêu cầu thực tế của người sử dụng. Sau đây là các kịch bản kiểm thử cho một số chức năng chính của hệ thống.

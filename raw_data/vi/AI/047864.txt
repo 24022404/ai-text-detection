@@ -1,5 +1,0 @@
-Nghiên cứu quá trình cắt đất đá của choòng khoan lắp trên máy khoan xoay đã được thực hiện để hiểu rõ hơn về cơ chế cắt đất đá và ảnh hưởng của các yếu tố đến hiệu suất cắt. Kết quả nghiên cứu cho thấy rằng quá trình cắt đất đá của choòng khoan lắp trên máy khoan xoay phụ thuộc vào nhiều yếu tố như loại đất đá, tốc độ xoay, lực cắt và góc cắt.
-
-Kết quả thử nghiệm cho thấy rằng hiệu suất cắt cao nhất khi tốc độ xoay là 100 vòng/phút và lực cắt là 10 kN. Ngoài ra, nghiên cứu cũng chỉ ra rằng góc cắt ảnh hưởng đáng kể đến hiệu suất cắt, với góc cắt 30 độ cho hiệu suất cắt cao nhất.
-
-Nghiên cứu này cung cấp thông tin quan trọng về quá trình cắt đất đá của choòng khoan lắp trên máy khoan xoay, giúp các kỹ sư và nhà thầu xây dựng công trình có thể lựa chọn phương pháp cắt đất đá hiệu quả và an toàn.

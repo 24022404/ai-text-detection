@@ -1,1 +1,0 @@
-Redis Redis, a remote dictionary server, is an open source to save structure data and can be used as a database, cache, or message broker. It protects data in structure key-value in RAM, arranges, queries, and backups data in disk, helping backup data when the system is in trouble.

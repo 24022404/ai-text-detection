@@ -1,1 +1,0 @@
-Chọn Danh sách người dùng.  Hệ thống hiển thị danh sách người dùng có trong hệ thống.  Hệ thống hiển thị danh sách người dùng có trong hệ tài khoản quản trị vên.

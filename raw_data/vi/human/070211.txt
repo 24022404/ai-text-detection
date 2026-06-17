@@ -1,1 +1,0 @@
-Socket.ổ  cứng hỗ trợ các tính năng như phòng (rooms) điểm nhóm các kết nối lại với nhau và xử lý lỗ và tá kết nối tự động.

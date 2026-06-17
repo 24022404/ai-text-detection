@@ -1,1 +1,0 @@
-High Accuracy: The diagonal elements of the matrix are high, indicating thatFigure 4.4: Normalized Confusion matrix of Random Forest experiment the model is accurately predicting the true class for a large number of samples.

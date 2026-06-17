@@ -1,1 +1,0 @@
-Xem danh sách yêu cầu tạo, xóa tài khoản: Use case này cha làm 2 use case nhỏ là "Tạo mới account" và "Delete account". Sau khi xem danh sách, System admin sẽ thực hiện những yêu cầu tương ứng với những yêu cầu được gửi đến.

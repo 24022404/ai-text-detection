@@ -1,1 +1,0 @@
-The MVC (Model-View-Controller) pattern is a software architecture that structures applications by dividing them into three interconnected components: the Model, which handles data and logic; the View, which manages the user interface; and the Controller, which processes input, enhancing modularity and maintainability.

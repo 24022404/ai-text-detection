@@ -1,1 +1,0 @@
-Độ chênh lệch của các mức ưu tên: Bên cạnh thứ tự ưu tiên, ta cũng dùng các tham số để kiểm soát độ chênh lệch của các mức ưu tiên với nhau, kết hợp với sự thay đổi thứ tự ưu tiên giúp ta tạo được một môi trường đa dạng, mô phỏng được các trường hợp có thể xảy ra ngoài thực tế.

@@ -1,1 +1,0 @@
-Tiền xử lý dữ liệu Em sẽ thay đổi cấu trúc của dữ liệu đầu vào, từ đó giúp mô hình làm việc dễ dàng hơn trong các ngữ cảnh thực tế.

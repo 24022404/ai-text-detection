@@ -1,1 +1,0 @@
-Chương 6, Gả pháp và đóng góp nổi bật. Ở chương 6, em sẽ nói về những đóng góp của bản thân trong việc xây dựng công cụ. Cụ thể là các kỹ thuật fuzzing sử dụng trong chức năng kiểm thử lỗ hổng.

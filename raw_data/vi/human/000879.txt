@@ -1,1 +1,0 @@
-–Account Info Screen có thể dùng AccountS lActon trong gió acton hoặc GetProfleThunk để thay đổi trạng thái của AccountS ice, hoặc có thể chỉ sử dụng Account để lấy về thông tin mà không thay đổi trạng thái.

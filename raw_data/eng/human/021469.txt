@@ -1,1 +1,0 @@
-Guard package:Contains classes that can be used to check and determine whether a specific page or functionality can be accessed or not.

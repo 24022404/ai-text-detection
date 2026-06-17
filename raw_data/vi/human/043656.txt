@@ -1,1 +1,0 @@
-Trạng thái chỉ được phép đọc: Cách duy nhất để thay đổi Title của ứng dụng là phát một Acton (là 1 đối tượng mô tả những gì xảy ra).

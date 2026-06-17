@@ -1,1 +1,0 @@
-Chương 3 trình bày về các công nghệ được sử dụng để xây dựng hệ thống bao gồm Laravel Framework, Hệ quản trị cơ sở dữ lệu MySQL, Pusher.

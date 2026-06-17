@@ -1,1 +1,0 @@
-V. Sanh, L. Debut, J. Chaumond andT. Wolf, “Distilbert, a distilled version of bert: Smaller, faster, cheaper and lighter,” arXiv preprint arXiv:1910.01108 , 2019.

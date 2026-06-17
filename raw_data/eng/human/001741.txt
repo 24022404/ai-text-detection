@@ -1,1 +1,0 @@
-To tackle anti-DDOS policies of news sites, instead of iterating through each site and parsing all of its articles at once, I would append those URLs into a listand then shuffle the list of URLs randomly before sending each of them to parser so that consecutive requests from parser would not come to the same news site.

@@ -1,1 +1,0 @@
-Giãn cách tạo xe: Khoảng cách giữa 2 lần tạo xe và thêm vào mô trường, việc này giúp ta có thể kiểm soát được mật độ xe nói chung trên toàn bộ mô trường.

@@ -1,1 +1,0 @@
-Controller – phần điều khiển luồng dữ liệu giữa Model và View. Nó nhận các yêu cầu từ người dùng thông qua View, sau đó xử lý và truy xuất dữ liệu từ Model, cuối cùng cập nhật View điển hiển thị dữ liệu mới nhất.

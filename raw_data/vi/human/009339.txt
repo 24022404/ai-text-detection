@@ -1,1 +1,0 @@
-Tích hợp TypeScript: extJS được tích hợp TypeScript, cho phép phát triển ứng dụng vớ mã nguồn dễ đọc hơn, tường minh hơn và dễ bảo trì hơn.

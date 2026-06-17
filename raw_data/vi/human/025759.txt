@@ -1,1 +1,0 @@
-Nếu phía trước không có vật cản và vận tốc hiện tại đang đạt vận tốc tố đa, ta chuyển trạng thái hoặc giữ nguyên trạng thái là DRIVE.

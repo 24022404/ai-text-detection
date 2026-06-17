@@ -1,1 +1,0 @@
-Đảm bảo thao tác tối thiểu khi thực hiện các chức năng nhưng không tạo cảm giác khó hiểu cho người dung.

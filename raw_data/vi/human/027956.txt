@@ -1,1 +1,0 @@
-Vì sử dụng thực tế tăng cường dựa trên phần cứng là camera nên tầm hoạt động hiệu quả phụ thuộc vào mô trường điủ sáng và không gan điủ rộng, ít vật cản để vệc trackng mặt phẳng được dễ dàng. Tuy nhên điố với trường hợp không gan thực tế hạn hẹp hoặc thếu sáng, việc điặt thử một mô hình vật thể vào sẽ dễn ra khó khăn và điộ chân thực không cao.

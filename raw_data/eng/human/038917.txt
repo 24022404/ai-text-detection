@@ -1,1 +1,0 @@
-Instantiate message The concept of instantiation messages pertains to the process of instantiating and deploying a smart contract on the blockchain.

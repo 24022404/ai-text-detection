@@ -1,1 +1,0 @@
-Vậy còn Docker Image , điây là một template chứa thông tin hướng dẫn cách tạo ra Contaner. Nó cách khác, trong Docker Image sẽ gồm các bước cấu hình cho các thành phần của Contaner và Contaner chính là thành quả khi chạy Image. Docker Image có thể được lưu trữ, gửi và nhận một cách dễ dàng dưới các dạng tệp nén.

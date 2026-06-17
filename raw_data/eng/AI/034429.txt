@@ -1,9 +1,0 @@
-Objective: Batch Normalization has become a standard component in deep convolutional networks but suffers from degraded performance when training with small or highly variable batch sizes. This work introduces Group Normalization (GN), a simple yet effective alternative that overcomes these limitations by normalizing features within channel groups rather than across the batch dimension.  
-
-Methods: GN partitions the channels of each layer into G groups and computes mean and variance for normalization over the spatial and group dimensions. Unlike Batch Normalization, GN’s statistics are independent of other samples in the mini-batch, making it robust to changes in batch size. We integrate GN into standard convolutional architectures and evaluate its behavior under diverse training regimes.  
-
-Results: Experiments on ImageNet classification demonstrate that GN matches or exceeds Batch Normalization accuracy when using large batches, and significantly outperforms it for batch sizes smaller than eight. In object detection and instance segmentation tasks on the COCO dataset, models with GN achieve up to 2.5% higher average precision than baselines using Batch Normalization with limited batch sizes. Training curves also show improved stability and faster convergence in low-batch settings.  
-
-Conclusion: Group Normalization provides a versatile normalization layer that maintains high performance regardless of batch size, simplifying the deployment of deep networks in memory-constrained or real-time applications. Its plug-and-play design makes GN a practical choice for a wide range of computer vision tasks.  
-
-Keywords: group normalization, batch normalization alternative, small-batch training, deep convolutional networks, image classification, object detection.

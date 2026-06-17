@@ -1,1 +1,0 @@
-Python is a high-level programming language known for its simplicity and read ability. To understand how a Python program works, let’s break it down into several key steps as following:

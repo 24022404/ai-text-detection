@@ -1,1 +1,0 @@
-ReactJS sử dụng một ngôn ngữ định dạng HTML gọi là JSX, cho phép lập trình viên xây dựng các thành phần UI một cách dễ dàng và dễ đọc hơn so với việc sử dụng các phương thức tạo HTML truyền thống. Nó cũng cho phép lập trình viên tạo ra các thành phần UI có tính năng tái sử dụng, gúp game thểu số lượng mã cần vết.

@@ -1,1 +1,0 @@
-Để thử nghiệm việc tạo ra tập dữ liệu đầu vào cho thuật toán NetTaco, ban đầu thử nghiệm sử dụng tập dữ liệu mờ hơn là DBLP Cartoon network V13 gồm có 5,354,309 bà báo và 48,227,950 mối quan hệ trích dẫn tính điện ngày 14/05/2021.

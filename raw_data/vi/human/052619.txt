@@ -1,1 +1,0 @@
-Mã hàm băm(hash): Là chuỗi các ký tự và số được tạo một các ngẫu nhiên và không giống nhau. Nó đại diện riêng cho block đó và được mã hóa bằng thuật toán mã hóa. Mã hash dùng để phát hiện sự thay đổi trong các khối.•Mã băm của khóa trước (previous hash): Nó dùng để các khối lên kề nhận biết được khối nào trước khối nào sau và nói với nhau.

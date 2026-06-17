@@ -1,1 +1,0 @@
-Thuật toán Apriori thường thực hiện qua một loạt các bước cơ bản để tìm các luật kết hợp trong tập dữ liệu. Thứ tự thực hiện cụ thể bao gồm:

@@ -1,1 +1,0 @@
-J. Zhang, Y. Zhao, M. Saleh andP. J. Liu, Pegasus: Pre-training with extracted gap-sentences for abstractive summarization , 2019. arXiv: 1912.08777 [cs.CL] .

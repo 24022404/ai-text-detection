@@ -1,1 +1,0 @@
-Trang web của hệ thống SunShare điã điược trển kha trên server của Digitalocean. Cụ thể cấu hình của server như dưới đây:

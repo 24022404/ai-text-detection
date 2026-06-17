@@ -1,1 +1,0 @@
-The expansion is designed to enhance user interaction and inclusivity by adding support for various devices, prioritizing mobile platforms. This approach addresses the rising demand from users who access the Web3 ecosystem primarily through smartphones and tablets.

@@ -1,1 +1,0 @@
-Xử lý tín hiệu và hình ảnh: ScPy cung cấp nhiều công cụ xử lý tín hiệu và hình ảnh, bao gồm biến đổi Fourier, lọc tín hiệu, và xử lý hình ảnh, hỗ trợ trong việc xử lý và phân tích dữ liệu tín hiệu và hình ảnh.

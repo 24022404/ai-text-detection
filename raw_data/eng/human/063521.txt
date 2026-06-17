@@ -1,1 +1,0 @@
-The abstract architecture of our proposed violence detection method is illustrated in Figure 3.4. It consists of three steps: human detection, candidate box extraction, and feature extraction and classification.

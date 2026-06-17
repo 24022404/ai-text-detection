@@ -1,1 +1,0 @@
-Optimal algorithm. The system will later need to be maintained and upgraded to complete and add new features, so the code needs to be organized scientifically, avoiding confusing for the maintainers.3.1 Front-end technologies 3.1.1 Vuejs A versatile framework for creating user interfaces is called vue.js (original English:

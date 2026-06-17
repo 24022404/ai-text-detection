@@ -1,1 +1,0 @@
-Từ những nhược điểm mà em nhận thấy ở trên, em đã xác định được những vấn đề cần giải quyết và hình thành ý tưởng về hệ thống tuyển dụng điều dưỡng bao gồm quy trình tuyển dụng đầy đủ, tính năng đánh giá công việc mà ứng viên đã ứng tuyển, tạo CV để nhà tuyển dụng có thể tìm kiếm những ứng viên tiềm năng.

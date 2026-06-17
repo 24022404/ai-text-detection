@@ -1,1 +1,0 @@
-Sau khi khảo sát và dựa vào yêu cầu của bài toán, em đã đi đến được với phân tích kiến trúc hệ thống như sau:Hình 4.2: Kiến trúc ứng dụng Mô hình trên bao gồm:

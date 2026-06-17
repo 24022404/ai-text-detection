@@ -1,1 +1,0 @@
-Types of Malware DefinitionTrojan Trojan horse malware is a file, a program, or piece of code that appears to be legitimate and safe,but is actually malware. Tro jans are packaged and delivered inside legitimate software, and they’re often designed to spy on victims or steal data.

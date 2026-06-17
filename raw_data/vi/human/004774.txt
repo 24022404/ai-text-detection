@@ -1,1 +1,0 @@
-STT Tên Kiểu trả về Mô tả (mục đích) 1 Upload Attachment Service Result Tả dữ liệu video và file lên server 2 VwAttachment FileStreamResult Lấy dữ liệu video và file hiển thị 3 GetContentType strong Lấy kiểu dữ liệu video/flv điểm trả về Bảng 4.4: Các phương thức của lớp Attachment Service Parameter:

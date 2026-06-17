@@ -1,9 +1,0 @@
-Objective: Graph Attention Networks (GATs) have become a cornerstone in graph-based learning, leveraging learned attention coefficients to weight neighbor contributions. However, the extent to which these coefficients genuinely reflect structural relevance and support model interpretability remains underexplored.  
-
-Methods: We introduce a suite of quantitative metrics—including attention entropy, edge-salience alignment, and centrality correlation—to evaluate attention distributions in GATs across standard node-classification and link-prediction benchmarks. We further compare vanilla GATs with variants employing sparsity regularization and attention sharpening to assess the impact of architectural choices on focus and interpretability.  
-
-Results: Our experiments reveal that, in many settings, GATs assign near-uniform attention weights, yielding limited discrimination among neighbors. Attention scores exhibit only moderate correlation with classical edge-importance measures (e.g., betweenness or structural similarity) and often fail to highlight task-critical nodes. Introducing targeted regularization reduces entropy by up to 40%, sharpens attention on high-salience edges, and leads to 3–5% gains in predictive accuracy without added complexity.  
-
-Conclusion: This study uncovers key limitations in the interpretability of standard GAT attention mechanisms while demonstrating that simple modifications can enhance both focus and performance. Our evaluation framework offers researchers practical tools to diagnose and improve attention behavior in graph neural networks.  
-
-Keywords: Graph Attention Networks, interpretability, evaluation metrics, graph neural networks, attention analysis.

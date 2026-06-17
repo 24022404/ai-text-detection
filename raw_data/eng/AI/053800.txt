@@ -1,9 +1,0 @@
-The paper addresses the critical need for robust and accurate personal identification systems, focusing on iris recognition technology. This research explores the potential of the LAMSTAR (Large Memory Storage and Retrieval) neural network for enhancing the performance and reliability of iris-based biometric systems.
-
-Methods: The approach involves adapting the LAMSTAR neural network for iris pattern recognition, leveraging its capabilities for high-dimensional data processing and efficient pattern storage. The study comprises extensive training of the neural network on a comprehensive dataset of iris images to assess its learning and adaptive capabilities. Key parameters such as feature extraction and network topology are finely optimized to improve recognition accuracy.
-
-Results: Our findings demonstrate that the LAMSTAR neural network significantly enhances iris recognition accuracy, achieving a superior recognition rate when benchmarked against conventional methods. The system exhibits high robustness to variations in iris patterns due to lighting, angle, and partial occlusions, surpassing traditional neural network models in terms of both speed and reliability.
-
-Conclusion: This research contributes a novel approach to iris recognition systems by integrating the LAMSTAR neural network, offering improvements in accuracy, speed, and adaptability. The implications of this study suggest potential applications in secure authentication systems and personal identification technologies. The introduction of LAMSTAR in biometric systems represents a significant advancement in the field, paving the way for more secure and efficient personal identification solutions.
-
-Keywords: Iris Recognition, LAMSTAR Neural Network, Biometric Identification, Pattern Recognition, Personal Authentication.

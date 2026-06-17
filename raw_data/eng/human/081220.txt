@@ -1,1 +1,0 @@
-Overall, the UI package plays a critical role in ensuring a smooth and user friendly experience for the application. It provides an intuitive interface for users to input their desired destinations and current location, enabling the rest of the system to process the information and generate the appropriate AR navigation path.

@@ -1,1 +1,0 @@
-The Model serves as the application's data layer, representing both the data and business logic as an abstraction of real-world entities, enabling efficient management and manipulation within the system.

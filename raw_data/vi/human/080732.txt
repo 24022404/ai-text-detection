@@ -1,1 +1,0 @@
-Các control có sự ràng buộc và tương tác với nhau nên kh thay đổi một control sẽ làm thay đổi vị trí của mọ control khác.

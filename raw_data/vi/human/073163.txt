@@ -1,1 +1,0 @@
-Chức năng tạo khoản ngân sách chung gữa những người thân, bạn bè điã điược điánh gá là rất hữu ích. Vớ lợ thế điã có chức năng thêm bạn bè trên sản phẩm hiện tại, việc bổ sung chức năng này sẽ rất tiện lợi và có tiềm năng lớn để phát triển. Lazy loading. Available:  Performance/Lazy_loadng , (wasted on 6/2023).

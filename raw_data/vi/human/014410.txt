@@ -1,1 +1,0 @@
-Use case Xét duyệt Blog UC ID and Name: UC9 Xét duyệt Blog Tác nhân: Admn Mô tả: Admn chọn phần quản lý Blog ,hệ thống chuyển điếnlst danh sách các Blog đang chờ phê duyệt ,sau đó Ad mn sẽ điọc và phê duyệt.

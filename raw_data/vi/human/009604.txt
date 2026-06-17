@@ -1,1 +1,0 @@
-Go sagas: là nơi chứa các hàm saga có chức năng nhận các acton và xử lý trước khi chạy điền các hàm trong reducers.

@@ -1,1 +1,0 @@
-Biểu đồ use case tổng quát Sau khi phân tích các yêu cầu chức năng, hệ thống sẽ có một tác nhân duy nhất chính là quản trị vên.

@@ -1,1 +1,0 @@
-Pandas cung cấp rất nhiều chức năng xử lý và làm việc trên cấu trúc dữ lệu này. Chính sự linh hoạt và hiệu quả đã khiến cho pandas được sử dụng rộng rãi.

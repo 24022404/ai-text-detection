@@ -1,1 +1,0 @@
-samtools view S b < sam_fle > < bam_fle> Sắp xếp theo thứ tự tọa độ qua lệnh samtools sort:

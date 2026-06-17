@@ -1,1 +1,0 @@
-Hỗ trợ các yêu cầu bất đồng bộ, cho phép ứng dụng tiếp tục thực hiện các tác vụ khác trong khi đang chờ phản hồi từ máy chủ.

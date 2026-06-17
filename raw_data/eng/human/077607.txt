@@ -1,1 +1,0 @@
-In chapter 5, extensive experiments on the FewRel and TACRED datasets demonstrate the superior performance of my proposed regularization for the challenging scenario of CRE. My hyper-parameters settings are available at the end of this section for the convenience of reproduction.

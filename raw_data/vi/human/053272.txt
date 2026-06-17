@@ -1,1 +1,0 @@
-Như vậy, việc thực hiện cấu hình sẽ trở nên đơn giản và nhanh chóng hơn rất nhiều. Người quản lý chỉ cần tập trung vào các thông số, còn việc triển khai sẽ được hệ thống ánh xạ trực tiếp lên Meraki Dashboard và thực hiện tự động.

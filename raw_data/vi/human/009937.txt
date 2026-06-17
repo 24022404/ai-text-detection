@@ -1,1 +1,0 @@
-Sau khi khảo sát, đồ án đưa ra một số kết luận như sau : cả 3 website nghe nhạc trực tuyến gồm Zingmp3, Nhaccuatu và soundcloud điều có những yêu cầu hệ thống, chức năng giống nhau, điểm khác nhau duy nhất là chức năng nào được chú trọng hơn mà thô.

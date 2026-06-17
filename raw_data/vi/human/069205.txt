@@ -1,1 +1,0 @@
-Kh người dùng thực hiện một yêu cầu, nó sẽ được gửi tới máy chủ, sau đó máy chủ xử lý yêu cầu và trả về kết quả cho máy khách để hiển thị cho người dùng.

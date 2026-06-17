@@ -1,1 +1,0 @@
-Gao thức OAuth 2.0 gúp tách biệt quyền xác thực và ủy quyền. Thay vì chia sẻ mật khẩu của người dùng, OAuth 2.0 sử dụng các mã thông báo (tokens) điểm đại diện cho quyền truy cập. Có 2 loại tokens:

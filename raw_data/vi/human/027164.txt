@@ -1,1 +1,0 @@
-GD  Quản lý tài khoản: xem danh sách tài khoản, tìm kiếm tài khoản, tạo, chỉnh sửa, xóa tài khoản.

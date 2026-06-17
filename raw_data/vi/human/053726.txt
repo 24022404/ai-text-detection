@@ -1,1 +1,0 @@
-Nhều slave: SPI có thể thiết lập điểm hoạt động với một master và một slave duy nhất, và nó có thể được thiết lập với nhiều slave do một master duy nhất điều khiển.

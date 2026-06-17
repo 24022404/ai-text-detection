@@ -1,1 +1,0 @@
-Microsoft Azure được ứng dụng cho những dịch vụ như: lưu trữ, phân tích, mạng, ảo hóa máy tính,. . . Ngoài ra, Azure còn có thể được dùng hoặc là bổ sung thêm cho các máy chủ ngay tại chỗ. Microsoft Asure sử dụng vps để deploy dịch vụ.

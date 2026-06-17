@@ -1,1 +1,0 @@
-Controller (C) : Bộ phận có nhiệm vụ xử lý các yêu cầu người dùng đưa điện thông qua view. Từ đó, C đưa ra dữ lệu phù hợp với người dùng. Bên cạnh đó, Controller còn có chức năng kết nối với model.

@@ -1,1 +1,0 @@
-Trong chương 3 là những công nghệ nền tảng được sử dụng trong đồ án. Các công cụ này được lựa chọn dựa trên tính phù hợp, điền cao khả năng mở rộng của hệ thống.

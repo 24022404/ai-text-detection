@@ -1,1 +1,0 @@
-Chương 2: Khảo sát và phân tích yêu cầu Nộ dung chương 2 sẽ đưa vào các khảo sát nhu cầu Khách hàng sẽ tến hànhNộ dung chương 3 trình bày về các công nghệ được sử dụng trong quá trình xây dựng và phát trển hệ thống Chương 4: Phát trển và trển kha ứng dụng Nộ dung chương 4 trình bày các phân tích, thiết kế của hệ thống, thiết kế cấu trúc dữ lệu và xây dựng phát trển hệ thống.

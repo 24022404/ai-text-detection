@@ -1,1 +1,0 @@
-J. Sawada, A. Williams, and D. Wong (2016) generalize the classic greedy and necklace constructions for de Bruijn sequences and universal cycles, expanding their generation and fundamental properties.

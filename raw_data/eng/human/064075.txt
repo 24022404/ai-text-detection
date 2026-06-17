@@ -1,1 +1,0 @@
-Initial data is provided by CyStack Vietnam Joint Stock Company  in the form of source code of smart contracts. The company has supported finding and classifying the security vulnerabilities of these contracts. However, because the accuracy when using source code is not high (eg Graph-based Inspired ), I compiled the data and used bytecode for the research model.

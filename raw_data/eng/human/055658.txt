@@ -1,1 +1,0 @@
-Making changes: It is harder to implement changes in such a large and com plex application with highly tight coupling. Any code change affects the wholesystem so it has to be thoroughly coordinated. This makes the overall devel opment process much longer.

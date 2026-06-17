@@ -1,1 +1,0 @@
-Tên use case Mô tả tóm tắt Thêm, sửa, xóa thông tin cơ bản của học sinh Sau khi thêm mới một Học sinh, hệ thống tự động gửi mail đến cho email của Học sinh đó để kích hoạt tài khoản và đăng nhập vào hệ thống.

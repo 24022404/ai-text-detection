@@ -1,1 +1,0 @@
-Unchecked Call Return Value : This vulnerability occurs when the return value of a low-level command is not checked, execution continues even if the function call fails.

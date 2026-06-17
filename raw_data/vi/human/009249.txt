@@ -1,1 +1,0 @@
-Xem danh sách từ vựng Mỗi bài viết đi kèm với một danh sách từ vựng tương ứng với bà vết đió do người tạo bài viết lựa chọn. Người dùng có thể tham khảo danh sách từ vựng trong bài viết giúp cho việc đọc và viết được dễ dàng hơn.

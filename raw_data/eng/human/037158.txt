@@ -1,1 +1,0 @@
-Unlike traditional gradient descent, which computes the gradient using the entire training dataset, SGD updates the model’s parameters based on a randomly selected subset of training samples, known as a mini-batch.

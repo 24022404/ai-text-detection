@@ -1,1 +1,0 @@
-Hỗ trợ cho quy trình mô hình hóa: Scikit Learn cung cấp các công cụ để tra dữ liệu thành tập huấn luyện và tập kiểm tra, tinh chỉnh tham số của mô hình và đánh giá hiệu suất của mô hình.

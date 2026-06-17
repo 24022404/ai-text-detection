@@ -1,1 +1,0 @@
-Quadtree là một cấu trúc dữ liệu phân nhánh dạng cây, được sử dụng để phân hoạch vùng không gian ha chều hiện tạo thành các vùng nhỏ và dễ quản lý hơn.

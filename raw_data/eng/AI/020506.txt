@@ -1,1 +1,0 @@
-The subsequent chapters of the thesis will provide an in-depth discussion of the proposed solution, covering its design, implementation, and evaluation with respect to the identified tasks. Furthermore, these chapters will clarify how the thesis is structured as a whole.

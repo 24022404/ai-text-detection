@@ -1,7 +1,0 @@
-3D wireframe extraction plays a fundamental role in computer-aided design, reverse engineering, and scene reconstruction by providing a compact yet expressive representation of object structures. Traditional methods rely on edge detection or heuristic-based approaches, often struggling with noisy data and complex topologies. In this work, we propose a novel 3D parametric wireframe extraction framework leveraging distance fields to achieve robust and accurate structural representation.
-
-Our approach constructs a continuous distance field representation from 3D point clouds or volumetric data, enabling precise extraction of salient wireframe structures. By formulating wireframe detection as an optimization problem over the distance field, we enforce structural coherence while adapting to varying geometric complexities. Additionally, we introduce a parametric fitting module that refines extracted wireframes into compact, editable representations suitable for downstream applications in modeling and manufacturing.
-
-Experimental evaluations on synthetic and real-world datasets demonstrate that our method achieves higher accuracy and robustness compared to existing wireframe extraction techniques. Our findings highlight the potential of distance field-based approaches for improving 3D structure inference and representation learning.
-
-Keywords: 3D Wireframe Extraction, Distance Fields, Parametric Modeling, Computer-Aided Design, 3D Reconstruction, Geometric Processing.

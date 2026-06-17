@@ -1,1 +1,0 @@
-Cloudinary is a cloud-based service, it provides an image management solution including upload, storage, manipulation, optimization and delivery. With Cloudinary, you can easily upload photos to the cloud, and automatically perform intelligent photo manipulations without having to install any other complicated software.

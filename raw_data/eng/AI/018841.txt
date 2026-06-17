@@ -1,9 +1,0 @@
-This paper explores the use of \(\ell_1\)-regularization in neural network training by leveraging bi-fidelity data, aiming to enhance model efficiency and performance. Traditional methods often rely on high-fidelity data, which can be resource-intensive and challenging to obtain. This research addresses the need for a more efficient approach by integrating different fidelity levels.
-
-Methods: We propose a novel neural network training framework that applies \(\ell_1\)-regularization to prune unnecessary weights, simultaneously incorporating bi-fidelity data to optimize learning. The approach involves using low-fidelity data for initial training stages to capture general patterns, followed by high-fidelity data to refine model accuracy. This method reduces computational costs while maintaining robust performance.
-
-Results: The experimental evaluation demonstrates significant improvements in both training speed and predictive accuracy compared to conventional training methods without bi-fidelity integration. Neural networks trained using our approach exhibit reduced complexity with minimal loss in performance, as confirmed through various benchmark datasets. Compared to traditional \(\ell_2\)-regularization methods, \(\ell_1\) proves more effective in weight sparsification and model simplification.
-
-Conclusion: The integration of \(\ell_1\)-regularization with bi-fidelity data presents a promising direction for neural network training, enabling efficient model development with reduced resource requirements. This study underscores the potential applications of our framework in areas like real-time analytics and resource-constrained environments. Future work could extend this approach to other machine learning architectures and further explore its implications for large-scale data scenarios.
-
-Keywords: \(\ell_1\)-regularization, neural network training, bi-fidelity data, model efficiency, weight sparsification, resource optimization.

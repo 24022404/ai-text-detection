@@ -1,1 +1,0 @@
-Additionally, because datasets are frequently have a long tail distribution that favors common classes, unusual classes perform significantly worse than other classes.

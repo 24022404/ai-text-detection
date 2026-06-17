@@ -1,7 +1,0 @@
-Dao động riêng tấm bằng vật liệu có cơ tính biến thiên (FGM) là một loại vật liệu đặc biệt được tạo ra bằng cách kết hợp các vật liệu có cơ tính khác nhau. Theo lý thuyết biến dạng cắt, dao động riêng của vật liệu FGM phụ thuộc vào sự phân bố của các vật liệu có cơ tính khác nhau.
-
-Phân tích dao động riêng của vật liệu FGM cho thấy rằng, khi vật liệu có cơ tính biến thiên theo chiều dày, dao động riêng của vật liệu sẽ thay đổi theo chiều dày. Điều này có nghĩa là, vật liệu FGM có thể có nhiều dao động riêng khác nhau tùy thuộc vào chiều dày và cơ tính của vật liệu.
-
-Lý thuyết biến dạng cắt cho thấy rằng, dao động riêng của vật liệu FGM phụ thuộc vào các yếu tố như: cơ tính của vật liệu, chiều dày của vật liệu, và hình dạng của vật liệu. Điều này cho phép chúng ta dự đoán và phân tích dao động riêng của vật liệu FGM trong các ứng dụng khác nhau.
-
-Tóm lại, phân tích dao động riêng của vật liệu FGM theo lý thuyết biến dạng cắt cho thấy rằng, vật liệu này có thể có nhiều dao động riêng khác nhau tùy thuộc vào chiều dày và cơ tính của vật liệu. Điều này mở ra khả năng ứng dụng vật liệu FGM trong các lĩnh vực khác nhau như kỹ thuật, công nghệ và xây dựng.

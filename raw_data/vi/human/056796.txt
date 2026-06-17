@@ -1,1 +1,0 @@
-Về mặt kiến trúc hệ thống, Apache Arflow gồm các thành phần chính với các va trò khác nhau tạo nên một hệ thống hoạt động hoàn thiện.

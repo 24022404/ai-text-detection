@@ -1,1 +1,0 @@
-Xây dựng Ontology là quá trình tạo ra một cấu trúc thông tin có tổ chức, chứa các thực thể, mối quan hệ và thuộc tính điểm biểu diễn một lĩnh vực cụ thể hoặc một đối tượng trong thế giới thực. Các bước để xây dựng Ontology được thực hiện như sau:

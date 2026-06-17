@@ -1,1 +1,0 @@
-By developing this web application, I aim to provide users with an intuitiveand informative tool to track and analyze the momentum factor for different cryp tocurrencies. The ability to visualize the momentum data can help investors and enthusiasts gain insights into potential price movements and trends.

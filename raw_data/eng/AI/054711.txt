@@ -1,1 +1,0 @@
-The results consist of a list of findings, with each entry presenting a thorough description of the identified issue, its severity level, and any necessary additional information. The system operates by accepting various inputs, such as the application's checksum, an analysis dictionary, a list of app URLs, and vital Firebase credentials like the google_api_key and google_app_id.

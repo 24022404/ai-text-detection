@@ -1,1 +1,0 @@
-Thiết kế giao diện Tất cả các màn hình của trang web điều có chung bố cục chia thành ba phần:

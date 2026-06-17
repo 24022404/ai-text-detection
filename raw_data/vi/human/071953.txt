@@ -1,1 +1,0 @@
-Token  Token là đồng tiền điện tử. Nó được tạo ra trên Blockchan điã có sẵn nhờ tạo ra các hợp đồng thông minh, phổ bết nhất là Ethereum.

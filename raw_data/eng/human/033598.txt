@@ -1,1 +1,0 @@
-J.-Y. Zhu, T. Park, P. Isola, and A. A. Efros, “Unpaired image-to-image trans lation using cycle-consistent adversarial networks,” in Proceedings of the IEEE international conference on computer vision , 2017, pp. 2223–2232.

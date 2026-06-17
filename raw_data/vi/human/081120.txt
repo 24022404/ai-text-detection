@@ -1,1 +1,0 @@
-permssonsWorkspace VewPermssonsĐố tượng kiểm tra quyền đối với Workspace Phương thức Tên Tham số Kiểu trả về Mục đích get_queryset user: User List[Workspace]Lấy tất cả các Workspace mà user có quyền truy cập perform createuser: User, workspace:

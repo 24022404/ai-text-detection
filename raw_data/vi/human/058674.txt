@@ -1,1 +1,0 @@
-Vớ những ưu điểm và nhược điểm trên, lý do để chọn Express.js là vì sự linh hoạt và tùy chỉnh cao, cộng đồng hỗ trợ đa dạng và có nhiều thư viện hỗ trợ phát triển ứng dụng. Bên cạnh đó, việc sử dụng Expressjs cũng giúp tối ưu hiệu suất và giảm thiểu thờ gan phát triển.

@@ -1,1 +1,0 @@
-Lớp SteOpenngHour: thể hiện thông tin về thờ gan phát mạng wf của một địa điểm công cộng cụ thể.e, Thiết kế cho tết gó Device Hình 4.8: Thiết kế góc Device Hình 4.8 mô tả thiết kế cho tết của gió Device. Trong gió Device Model bao gồm các lớp:

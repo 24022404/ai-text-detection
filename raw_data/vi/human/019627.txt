@@ -1,1 +1,0 @@
-Mở rộng khả năng phân tích : Lưu lại những HTTP request gửi đi và HTTP response trả về tương ứng trong quá trình fuzzing như một cách để miêu tả lỗ hổng cũng như kiểm tra xem liệu lỗ hổng có thực sự tồn tại hay không. Đồng thời gúp người dùng hiểu rõ hơn về các lỗ hổng và đưa ra biện pháp khắc phục hiệu quả.

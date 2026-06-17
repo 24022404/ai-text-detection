@@ -1,1 +1,0 @@
-Exercise Figure 4.30: Do exercise screenDo exercise screen has question palette on the right and the main content of exercise on the left. The system will display a dialog with the result of the exercise after submitting.

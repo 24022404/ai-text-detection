@@ -1,1 +1,0 @@
-Từ phương pháp AHP xác định được 13/44 tiêu chí có trọng số cao nhất : các tiêu chí lên quan về bảo mật, dung lượng, độ tin cậy, tính liên tục, sự ổn định.

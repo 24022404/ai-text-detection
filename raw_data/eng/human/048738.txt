@@ -1,1 +1,0 @@
-M. Brantner, D. Florescu, D. Graf, D. Kossmann, and T. Kraska, “Building a database on s3,” in Proceedings of the 2008 ACM SIGMOD international conference on Management of data , 2008, pp. 251–264.

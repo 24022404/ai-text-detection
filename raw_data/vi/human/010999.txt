@@ -1,1 +1,0 @@
-Độ chênh lệch của các mức ưu tiên sẽ lên tục chuyển từ (0.25, 0.25, 0.25, 0.25) thành (0.55, 0.2, 0.15, 0.10) trong quá trình 5 phút. Tức là trong 5 phút này ta liên tục có các độ chênh lệch khác nhau của mô trường thoả mãn với một thứ tự ưu tiên cố định.

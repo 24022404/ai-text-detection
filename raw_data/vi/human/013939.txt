@@ -1,1 +1,0 @@
-Tìm kiếm sản phẩm: Khách hàng có thể tìm kiếm sản phẩm theo tên, lọc sản phẩm theo danh mục, nhãn hàng mà không cần đăng nhập.

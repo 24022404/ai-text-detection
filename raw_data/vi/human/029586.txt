@@ -1,1 +1,0 @@
-Master sau khi nhận được dữ liệu thờ gan sẽ gửi dữ liệu thờ gan cho app Android để hiển thị cho người dùng thông qua Firebase.

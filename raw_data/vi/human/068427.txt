@@ -1,1 +1,0 @@
-Giao diện trang chủ  quản trị Kh quản trị viên đăng nhập vào trang quản trị, hệ thống sẽ hiển thị danh mục tổng quan bao gồm những thông tin cơ bản về đơn hàng (trong 7 ngày gần nhất): Tổng đơn hàng, số đơn chờ xác nhận, số điện đong gạo, số đơn đỉa gao; Những thông tin cơ bản về sản phẩm: Số lượng sản phẩm, số lượng sản phẩm giảm giá; Số lượng tài khoản khách hàng.

@@ -1,1 +1,0 @@
-Trong chương này, em đã tìm hiểu và rút ra một số yêu cầu cần thiết cho hệ thống. Các chức năng của hệ thống cũng được biểu diễn qua biểu đồ use case và quy trình nghiệp vụ. Tiếp theo, ở chương 3 em sẽ trình bày về công nghệ sử dụng và các thuật toán áp dụng trong hệ thống.3.1 Mô hình Client Server Mô hình client server  là một mô hình mạng máy tính được sử dụng rộng rãi.

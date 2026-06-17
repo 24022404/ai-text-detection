@@ -1,1 +1,0 @@
-Đố vớ website mạng xã hội video, hệ thống cần quản lý một lượng video đủ lớn. Đặc biệt, số lượng video và hình ảnh mỗi ngày sẽ tăng lên nhiều. Vì vậy, nếu quản lý không tốt việc lưu trữ video có thể dẫn đến những trải nghiệm kém cho người dùng, hiệu suất trang web giảm.

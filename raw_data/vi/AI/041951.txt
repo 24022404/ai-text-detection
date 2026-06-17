@@ -1,9 +1,0 @@
-ĐÁNH GIÁ KHẢ NĂNG DỰ BÁO MẶN TRÊN SÔNG HÀM LUÔNG CỦA THUẬT TOÁN K-NEAREST NEIGHBORS
-
-Một nghiên cứu mới đây đã đánh giá khả năng dự báo mặn trên sông Hàm Luông của thuật toán K-Nearest Neighbors (KNN). Kết quả cho thấy thuật toán KNN có thể dự báo chính xác mức độ mặn trên sông Hàm Luông, với độ chính xác lên đến 90%.
-
-Thuật toán KNN đã được áp dụng để phân tích dữ liệu về mực nước và độ mặn trên sông Hàm Luông trong thời gian dài. Kết quả cho thấy thuật toán này có thể dự báo mức độ mặn trên sông Hàm Luông với độ chính xác cao, nhờ vào khả năng phân tích dữ liệu phức tạp và tìm kiếm các mẫu tương tự.
-
-Tuy nhiên, nghiên cứu cũng chỉ ra rằng thuật toán KNN có thể bị ảnh hưởng bởi các yếu tố như thời tiết và hoạt động của con người. Vì vậy, cần phải tiếp tục nghiên cứu và cải thiện thuật toán để có thể dự báo chính xác hơn.
-
-Kết quả của nghiên cứu này có thể giúp các nhà quản lý và điều hành hệ thống nước trên sông Hàm Luông có thể dự báo và chuẩn bị cho các tình huống mặn trên sông, từ đó có thể giảm thiểu tác động tiêu cực đến môi trường và cộng đồng.

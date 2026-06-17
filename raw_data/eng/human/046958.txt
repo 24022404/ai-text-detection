@@ -1,1 +1,0 @@
-Lot Number: The lot number and quantity of the goods in that lot.•RFID: The corresponding RFID code in each batch of goods and the number of products corresponding to each RFID code.

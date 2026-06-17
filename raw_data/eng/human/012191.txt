@@ -1,1 +1,0 @@
-For API keys and tokens, the method cross-checks the context in whichthey are used, ensuring they are not part of debug information or hard coded in ways that could lead to leakage.

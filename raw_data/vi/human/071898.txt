@@ -1,1 +1,0 @@
-Đầu vào là các vectơ (x1, x2, …, exp) trong không gian n chiều, điầu ra là các vector (y1, y2, …, yq) trong không gian n chiều. Đối với các bài toán phân loại, p chính là kích thước của mẫu điầu vào, q chính là số lớp cần phân loại.

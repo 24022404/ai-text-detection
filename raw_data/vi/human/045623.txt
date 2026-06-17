@@ -1,1 +1,0 @@
-Sau khi đã xây dựng 2 phần chính ở trên, ta sẽ thực hiện công việc kiểm thử. Bắt đầu bằng việc xác định các yêu cầu và chức năng của phần mềm cần được kiểm thử. Tạo các case kiểm thử. Thực hiện kiểm thử, lặp lại nhiều lần để chắc chắn không bị lách những case đặc biệt.

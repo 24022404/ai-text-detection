@@ -1,1 +1,0 @@
-F. Schroff, D. Kalenichenko andJ. Phim, “Facenet: A unified embedding for face recognition and clustering,” Proceedings of the IEEE conference on computer vision and pattern recognition 2015, pages 815–823.

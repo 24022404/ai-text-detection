@@ -1,1 +1,0 @@
-Hậu điều kiện Nếu có kết quả tìm kiếm, người dùng có thể xem kết quả và tương tác với chúng.

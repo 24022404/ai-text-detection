@@ -1,1 +1,0 @@
-Các thành phần dùng để hiển thị giao diện người dùng, nhận tương tác trực tiếp từ người dùng, web thường được tạo dựa vào thông tin dữ liệu model.

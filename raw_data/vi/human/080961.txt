@@ -1,1 +1,0 @@
-Trong Unity, cơ chế này thường được lập trình theo hướng sử dụng hệ thống khung Hình 2.7: Máy trạng thái hữu hạn cho hệ thống đèn giao thông va chạm (collider) của Unity.

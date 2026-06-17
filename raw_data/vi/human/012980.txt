@@ -1,1 +1,0 @@
-Tuy nhiên, những hệ thống quản lý tập trung như Meraki Dashboard vẫn đang tồn tại một và nhược điểm gây bất tiện cho người dùng như:

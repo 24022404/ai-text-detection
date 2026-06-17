@@ -1,1 +1,0 @@
-Độ chính xác của tất cả các mô hình này điều được đánh giá dựa trên kết quả của tập vald và tập test.

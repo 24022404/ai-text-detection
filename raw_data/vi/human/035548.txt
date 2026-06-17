@@ -1,1 +1,0 @@
-Dựa trên Quy trình phân tích dữ lệu NGS điã điề cập ở chương 2, gả pháp được đề xuất sẽ thực hiện qua 2 bước chính là phát hiện đột biến (kiểm soát chất lượng đầu vào, tiền xử lý dữ liệu, căn chỉnh trình tự và gọi tên biến thể) và chúa gả đi một bến.

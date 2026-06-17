@@ -1,1 +1,0 @@
-Chương 4 trình bày về kiến trúc sẽ sử dụng của hệ thống  kiến trúc Microservice, sau đó mô tả thiết kế cho tết của hệ thống khi áp dụng kiến trúc này.

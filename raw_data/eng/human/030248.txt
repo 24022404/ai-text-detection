@@ -1,1 +1,0 @@
-Proof. This proof is deduced directly from the construction of Gk,ssince its set of all vertices is the set of all length k−1sequences containing at most sconsecutive letters 0.

@@ -1,1 +1,0 @@
-Cung cấp một cách tiện lợi điểm gửi các yêu cầu HTTP như GET, POST, PUT, DELETE, PATCH và các loại yêu cầu khác.

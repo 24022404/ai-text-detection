@@ -1,1 +1,0 @@
-H. Schulzrinne, S. Corner, R. Frederick, and V. Jacobson, “Rtp: A transport protocol for real time applications,” n RFC 3550 , 2003.

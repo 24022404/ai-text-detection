@@ -1,1 +1,0 @@
-Quản lý sự kiện: quản lý các thông tin liên quan đến sự kiện sắp diễn ra kèm theo mã giảm giá.

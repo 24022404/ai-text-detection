@@ -1,1 +1,0 @@
-Cải thiện tốc độ xử lý, từ đó đảm bảo không phát hiện thiếu trường hợp vì tốc độ xử lý chậm.

@@ -1,1 +1,0 @@
-Themaltrail_check verifies if extracted domains correspond to any malicious domains found in the Maltrail database, enhancing threat detection accuracy.

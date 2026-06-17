@@ -1,1 +1,0 @@
-Chương 2 trình bày về các ứng dụng, phần mềm hiện có. Phân tích các ưu nhược điểm của các website, ứng dụng đo. Đồng thờ trong chương này sẽ trình bày tổng quan chức năng của phần mềm thông qua các use case tổng quát, phân rã và quy trình nghiệp vụ quan trọng. Cuối cùng đưa ra các yêu cầu phi chức năng của hệ thống.

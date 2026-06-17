@@ -1,1 +1,0 @@
-Chapter 2 will present a detailed survey of the current state and requirements of indie developers regarding the three libraries. It will compare and evaluate the advantages and disadvantages of each library to provide guidance for the project.

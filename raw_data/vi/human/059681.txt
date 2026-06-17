@@ -1,1 +1,0 @@
-Phép thay đổi màu sắc Dưới những điều kiện sáng khác nhau, màu sắc, độ sáng của một bức ảnh có thể thay đổi. Do đó việc thêm phép tăng cường màu sắc là không thể thiếu được. Trong đó phép này sẽ ngẫu nhiên thay đổi những thành phần sau đây:

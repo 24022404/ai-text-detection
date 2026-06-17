@@ -1,1 +1,0 @@
-Để đánh giá hiệu năng của một mô hình phân vùng ảnh, thông thường sẽ sử dụng một số độ đo phổ biến như: Intersection over Union (Jaccard Index) hoặc Dice coefficient (F1 score).

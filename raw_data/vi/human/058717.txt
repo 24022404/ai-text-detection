@@ -1,1 +1,0 @@
-: Magento cho phép người dùng tích hợp các ứng dụng bên thứ ba điể mở rộng tính năng và chức năng của trang web thương mạ điện tử của mình.

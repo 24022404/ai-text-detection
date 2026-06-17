@@ -1,1 +1,0 @@
-Để thực công vệc này snh viên đã lựa chọn Framework Laravel điể dùng vì nó là một framework hoàn toàn mễn phí, được thiết kế theo mô hình MVC giúp tách thành phần hển thị và giúp xử lý của một ứng dụng thành các phần rêng bệt, từ đió việc quản lý, bảo trí, và mở rộng dễ dàng hơn.

@@ -1,1 +1,0 @@
-Nói cách khác, đây chính là cách mà ta có thể lưu trữ thông tin của một đối tượng điểm có thể lấy ra dùng sau này. Quá trình lưu trữ thông tin của một đối tượng gọi là serialization" còn quá trình ngược lại gọi là "deserialization"  nghĩa là dựng lại đối tượng đió từ fle điã lưu trữ.

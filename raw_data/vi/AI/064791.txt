@@ -1,5 +1,0 @@
-Mô hình số một chiều mô phỏng sạt lở đất trên mái dốc lớn đã được phát triển để nghiên cứu và dự đoán hiện tượng sạt lở đất trên các mái dốc lớn. Mô hình này dựa trên nguyên lý vật lý và được xây dựng trên cơ sở giải tích để mô phỏng quá trình sạt lở đất.
-
-Mô hình được kiểm chuẩn bằng cách so sánh kết quả tính toán với các dữ liệu thực tế thu thập được từ các vụ sạt lở đất đã xảy ra. Kết quả cho thấy mô hình có thể dự đoán chính xác quá trình sạt lở đất và các yếu tố ảnh hưởng đến nó.
-
-Mô hình số một chiều mô phỏng sạt lở đất trên mái dốc lớn có thể được ứng dụng trong việc dự đoán và phòng ngừa sạt lở đất trên các mái dốc lớn, giúp giảm thiểu thiệt hại do sạt lở đất gây ra.

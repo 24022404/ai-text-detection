@@ -1,1 +1,0 @@
-Chương 2 trình bày về cơ sở lý thuyết nền tảng, bao gồm tổng quan bài toán phân vùng ảnh, các kiến thức cơ bản của mạng nơron tích chập và các phương pháp tính tích chập phổ biến. Chương này cũng giới thiệu về Transformer truyền thống được ứng dụng cho bài toán xử lý ngôn ngữ tự nhiên và Vson Transformer được ứng dụng cho bài toán phân loại ảnh.

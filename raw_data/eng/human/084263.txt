@@ -1,1 +1,0 @@
-In BoW, the occurrence of words is evaluated independently of the frequency or context in which they occur. However, the limitation of BoW is that it does not encode any information related to the semantics of words.

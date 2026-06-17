@@ -1,1 +1,0 @@
-Testable: những quy tắc nghiệp vụ có thể được kiểm chứng mà không cần UI, database, web server hoặc bất kỳ yếu tố bên ngoài nào cả.

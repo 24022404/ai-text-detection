@@ -1,1 +1,0 @@
-Game không yêu cầu đồ họa cao nhưng vẫn phải đáp ứng được mức đồ họa ưu nhìn, đồng thờ do nhân lực là một người và đồ án yêu cầu bản demo vớ đủ các chức năng nên việc chọn Ulti không thể phù hợp hơn độ dễ tiếp cận và tính năng hỗ trợ các đặc điểm một game cần có được dựng sẵn trong engine.

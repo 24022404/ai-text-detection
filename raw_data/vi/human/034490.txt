@@ -1,1 +1,0 @@
-React là một công cụ hiệu quả cho việc xây dựng giao diện người dùng cho các trang web động và cung cấp một cách dễ dàng để tạo ra các component và cung cấp các tính năng cho phép lập trình viên tái sử dụng component một cách dễ dàng.

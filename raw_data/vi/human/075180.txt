@@ -1,1 +1,0 @@
-Bên cạnh phần tìm kếm là phần danh sách vấn điề. Tạ điây chỉ hiện thị thông tin cơ bản nhất về những vấn điề do người dùng báo cáo bao gồm: Mã phòng, Vấn điề và Ngày xử lý. Khác với danh sách điặt phòng, danh sách vấn điề sẽ điược cha trangsau mỗ 5 bản gh.

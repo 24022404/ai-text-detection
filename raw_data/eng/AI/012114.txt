@@ -1,1 +1,0 @@
-The StaticAnalyzer database stores analysis results, capturing essential information such as app permissions, code components, libraries used, certificates, and various other technical aspects for future reference.

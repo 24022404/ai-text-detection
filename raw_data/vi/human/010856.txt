@@ -1,1 +1,0 @@
-Những bài báo, nghiên cứu đưa ra những từ khóa không liên quan đến chủ đề bài báo hoặc những từ khóa do có vấn đề trong cập nhật, xử lý dữ liệu nên có thể bị trộn lẫn cả các từ dừng (Stop Words) ít giá trị sử dụng.

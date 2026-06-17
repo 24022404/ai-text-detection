@@ -1,1 +1,0 @@
-A Lyndon word is defined as a string that is strictly smaller in lexicographic order than all of its nontrivial rotations. For example, “ab” is a Lyndon word because “ab” < “ba”, but “ba” is not since “ba” > “ab”. This unique property distinguishes Lyndon words from others.

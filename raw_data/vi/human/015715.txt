@@ -1,1 +1,0 @@
-Sidebar: chứa các mục tương ứng với các chức năng chính của ứng dụng. Các mục được hiển thị dựa trên quyền truy cập của người dùng.

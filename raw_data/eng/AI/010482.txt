@@ -1,9 +1,0 @@
-Objective: Text-based Visual Question Answering (TextVQA) requires models to read, reason about, and answer questions grounded in textual content within images. Existing multimodal transformers often struggle to accurately copy and integrate scene text into generated answers, limiting performance on tasks that demand precise text reasoning.  
-
-Methods: We introduce an Iterative Answer Prediction framework built on a pointer-augmented multimodal transformer. Our model fuses visual features, question embeddings, and OCR-extracted text tokens through cross-modal attention. A pointer mechanism enables direct copying of relevant OCR tokens, while an iterative decoding strategy refines answer predictions over multiple passes. At each iteration, the model reweights cross-modal interactions and pointer probabilities, progressively improving confidence in both generated and copied tokens.
-
-Results: Evaluated on the standard TextVQA benchmark, our approach achieves a new state-of-the-art accuracy of 56.8%, outperforming previous methods by 3.2%. Ablation studies confirm that (1) the pointer augmentation contributes a 2.1% gain by reducing copy errors, and (2) the iterative refinement yields an additional 1.7% improvement through successive answer corrections. Qualitative analysis demonstrates enhanced capability in handling multi-word answers and disambiguating similar scene text instances.
-
-Conclusion: The proposed pointer-augmented, iterative decoding strategy advances TextVQA by combining generative and extractive answer modeling in a unified multimodal framework. This architecture can be extended to related tasks such as document understanding, scene text spotting, and assistive reading applications.  
-
-Keywords: TextVQA, multimodal transformer, pointer network, iterative decoding, scene text understanding.

@@ -1,1 +1,0 @@
-Kỹ thuật tiếp theo là infinite scrolling. Kỹ thuật này mang ý tưởng tương tự như kỹ thuật code splitting. Trong khi code splitting tập trung vào tối ưu việc tải trang thì infinite scrolling hướng điến tối ưu việc tả các phần tử trong một danh sách dà.

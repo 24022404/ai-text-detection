@@ -1,1 +1,0 @@
-Kh điầu vào có kích thước (H, W, D ), sau khi qua lớp tổng hợp, chúng ta thu được điầu ra có kích thước (H−F S+ 1,W−F S+ 1, D).

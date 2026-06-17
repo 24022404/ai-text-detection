@@ -1,1 +1,0 @@
-Thư mục Route chứa toàn bộ các định nghĩa route cho ứng dụng. Theo mặc định một số tập tn route được tạo sẵn trong Laravel: web.php, ap.php, console.php và channels.php. Trong đó:

@@ -1,9 +1,0 @@
-Objective: This paper investigates whether treating objects as “words” within a transformer-based framework can improve generative video modeling. Traditional video generators often operate on raw pixel patches or global features, limiting their ability to capture object-level consistency and interactions over time.
-
-Methods: We introduce the Generative Video Transformer (GVT), which first extracts object-centric tokens via a lightweight detection and tracking backbone. Each token encodes an object’s appearance, position, and motion context. These tokens serve as input “words” to a spatio-temporal transformer that learns object interactions and long-range dependencies. At generation time, the model autoregressively predicts future object tokens, which are then rendered back into frames using a compositional renderer.
-
-Results: Experiments on standard video benchmarks (e.g., Moving Shapes, Kinetics-600 subsets) demonstrate that GVT outperforms pixel-based and latent-space baselines in both quantitative metrics (Fréchet Video Distance reduced by 15–25%) and qualitative consistency (object permanence, occlusion handling). Ablation studies confirm the benefits of object-centric tokenization and dedicated interaction modules.
-
-Conclusion: By treating objects as the fundamental vocabulary for video generation, GVT achieves more coherent and semantically meaningful outputs. This object-as-words paradigm opens new directions for interpretable, scalable video synthesis and could be extended to tasks like video editing, scene prediction, and interactive simulation.
-
-Keywords: Generative Video Transformer, object-centric tokens, video generation, transformer, object interactions.

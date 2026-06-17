@@ -1,1 +1,0 @@
-Tăng hiệu năng của máy chủ production: Chuyển công việc tiêu tốn nhiều tài nguyên máy chủ là build mage sang máy chủ khác, dành tài nguyên máy chủ cho các tác vụ khác.

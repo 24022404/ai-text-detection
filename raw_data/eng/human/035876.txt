@@ -1,1 +1,0 @@
-Key features of JavaScript include its event-driven nature, which allows developers to attach event handlers to elements, enabling actions based on user inter actions like clicks or keystrokes. JavaScript interacts with the Document Object Model (DOM), representing the page’s structure, and can modify it dynamically to update content or create new elements.

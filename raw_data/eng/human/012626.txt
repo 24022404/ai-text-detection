@@ -1,1 +1,0 @@
-Attention mechanism By utilizing advantages in backward error computation, LSTMs have outperformed standard, vanilla RNNs in terms of performance. Models built on the RNN architecture so far are still unable to solve the issue of too-long input sequences.

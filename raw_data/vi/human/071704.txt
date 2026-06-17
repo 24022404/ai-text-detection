@@ -1,1 +1,0 @@
-ĐATN này sử dụng Cloudinary điểm thực hiện chức năng đăng tải hình ảnh cho bài viết giúp các bà viết của người dùng thêm sinh động hơn.

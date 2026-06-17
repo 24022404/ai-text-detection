@@ -1,1 +1,0 @@
-InterManager Mô tả : Là lớp quản lý việc sinh nhân vật trên bản đồ, quản lý tất cả quá và nhân vật có mặt trên bản đồ Thuộc tính –Hero Dota: chứa dữ liệu của nhân vật mà người chơi điều khiển.

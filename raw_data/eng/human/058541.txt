@@ -1,1 +1,0 @@
-L. Ye, L. Wang, H. Ferdinando, T. Sepp ¨anen and E. Alasaarela, “A video based dt–svm school violence detecting algorithm,” Sensors (Basel, Switzerland) , jourvol 20, 2020.

@@ -1,1 +1,0 @@
-Trong một ứng dụng MVC, view chỉ được dùng đi ể hiển thị thông tin, controller chịu trách nhiệm quản lý và đáp trả nội dung người dùng nhập và tương tác với người dùng. Ví d ụ, controller s ẽ quản lý các dữ liệu người dùng mở lên (query string values) và g ở các giá trị đó điến model, model sẽ lấy dữ liệu từ CSDL nhờ vào các giá trị này.

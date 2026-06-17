@@ -1,1 +1,0 @@
-Mô hình mạng nơron đồ thị Graph SAGE là một framework cho việc học biểu diễn quy nạp trên đồ thị cỡ lớn. Graph SAGE được sử dụng điểm sinh ra vectơ biểu diễn thấp chiều từ các nút.

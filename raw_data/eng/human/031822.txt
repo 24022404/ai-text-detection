@@ -1,1 +1,0 @@
-Description: In Figure 2.2.5, the admin will be the one to add and change prod uct information. Other users will view information for sales and select products to save in the transaction when customers have a need to buy.

@@ -1,1 +1,0 @@
-Chương 3 trình bày cho tết kiến trúc mô hình điều xuất, bao gồm môđun mã hóa, module giả mã và môđun tinh chỉnh đặc trưng. Trong chương này cũng đưa ra hàm mất mát cần tối ưu, hàm mất mát này là sự kết hợp giữa Binary Cross Entropy và mean IoU có trọng số được đánh cho từng điểm ảnh.

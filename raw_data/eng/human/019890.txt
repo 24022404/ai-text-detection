@@ -1,1 +1,0 @@
-KNN experiments Overall Performance Accuracy: The model has a high overall accuracy. To calculate the accuracy,sum the diagonal elements (correct predictions) and divide by the total num ber of samples.

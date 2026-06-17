@@ -1,1 +1,0 @@
-Vớ nhều ưu điểm thừa kế từ Swft và tà lệu dành cho nhà phát trển từ Vapor dễ tìm kếm, dễ hiểu, em lựa chọn Vapor điể xây dựng phần backend.

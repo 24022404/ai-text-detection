@@ -1,1 +1,0 @@
-Booking: Là class chứa các thuộc tính, phương thức đồng bộ Cloud.c, Ch tết có Worker Hình 4.6: Biểu đồ lớp cho tết có Worker Trong đó:

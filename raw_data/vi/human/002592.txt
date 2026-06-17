@@ -1,1 +1,0 @@
-Lợi ích khi sử dụng Elxr Hình 3.4: Lợi ích khi sử dụng Elxr BEAM Elxr được xây dựng dựa trên BEAM, Erlang VM, và nó có chung những điểm trừu tượng đã làm cho Erlang trở thành một trong những lựa chọn tốt nhất cho các ứng dụng đồng thời, khối lượng lớn. tương tự với Erlang, Elxr được thừa hưởng các đặc điểm sau:

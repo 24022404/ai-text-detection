@@ -1,1 +1,0 @@
-Docker Architecture: Docker follows a client-server architecture. The Docker client is a command- tool or a graphical user interface that interacts with the Docker daemon. The Docker daemon is a background process responsible for building, running, and managing containers.

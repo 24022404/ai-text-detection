@@ -1,1 +1,0 @@
-Máy chủ: Hệ điều hành Ubuntu 22.04, bộ nhớ 16GB, dung lượng lưu trữ 512GB Trển kha server Trển kha thử nghệm trên máy tính cá nhân và máy chủ cho tốc điộ phản hồ API nhanh.

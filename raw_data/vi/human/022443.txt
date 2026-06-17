@@ -1,1 +1,0 @@
-Quản lý và theo dõi tập trung tất cả các thông số, trạng thái của mạng wf thuộc quyền quản lý cho phạm vi lớn nhỏ tùy chỉnh.

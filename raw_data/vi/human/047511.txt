@@ -1,1 +1,0 @@
-Ngoài ra, tập thực thể projects có mối quan hệ has vớ tập thực thể advises. Một thực thể advise có thuộc tính content, xác định nội dung bình luận của một project.Tương tự, tập thực thể saves có mối quan hệ has vớ tập thực thể projects. Một project có thể được lưu lại thông tin dịch vụ gợi ý nhiều lần.

@@ -1,1 +1,0 @@
-Gó service: thực hiện các chức năng cụ thể, chuyên biệt và liên quan đến logic nghiệp vụ của ứng dụng.

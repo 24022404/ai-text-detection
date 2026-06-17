@@ -1,7 +1,0 @@
-Tiến bộ trong công nghệ điện đã dẫn đến sự gia tăng nhu cầu về các thiết bị điện an toàn và đáng tin cậy. Một trong những yếu tố quan trọng ảnh hưởng đến sự an toàn của các thiết bị điện là hiện tượng phóng điện trên bề mặt cách điện. Hiện tượng này có thể gây ra sự cố điện và ảnh hưởng đến hiệu suất của thiết bị.
-
-Nghiên cứu gần đây đã tập trung vào việc nghiên cứu ảnh hưởng của điện áp DC lên hiện tượng phóng điện trên bề mặt cách điện. Kết quả nghiên cứu cho thấy rằng điện áp DC có thể gây ra hiện tượng phóng điện mạnh mẽ hơn so với điện áp AC. Điều này có thể dẫn đến sự cố điện và ảnh hưởng đến hiệu suất của thiết bị.
-
-Các nhà nghiên cứu đã sử dụng thiết bị đo lường hiện đại để quan sát và đo lường hiện tượng phóng điện trên bề mặt cách điện. Kết quả nghiên cứu cho thấy rằng điện áp DC có thể gây ra hiện tượng phóng điện mạnh mẽ hơn so với điện áp AC, đặc biệt là ở điện áp cao.
-
-Kết quả nghiên cứu này có ý nghĩa quan trọng trong việc cải thiện an toàn và hiệu suất của các thiết bị điện. Nó cũng cung cấp thông tin quan trọng cho các nhà thiết kế và nhà sản xuất thiết bị điện để phát triển các thiết bị điện an toàn và đáng tin cậy hơn.

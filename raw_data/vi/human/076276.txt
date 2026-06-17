@@ -1,1 +1,0 @@
-Python là một ngôn ngữ sinh hoạt, mạnh mẽ và phù hợp cho cả người mới học lập trình và những nhà phát triển kinh nghiệm. Điều này làm cho nó trở thành một trong những ngôn ngữ phổ biến nhất trong cộng đồng lập trình.

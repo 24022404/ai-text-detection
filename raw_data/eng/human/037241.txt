@@ -1,1 +1,0 @@
-Chapter 2: This chapter presents a practical survey on topics related to the content of graduation projects. An overall assessment of the helpdesk system functionality is presented which includes: system analysis and design, use case diagrams, decomposition, and specifications.

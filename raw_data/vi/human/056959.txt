@@ -1,1 +1,0 @@
-Yêu cầu về an toàn bảo mật Thông tin tài khoản cần được mã hoá đủ an toàn.2.4.5 Yêu cầu về tính khả dụng Hệ thống cần có khả năng hoạt động liên tục.

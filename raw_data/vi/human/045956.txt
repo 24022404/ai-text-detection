@@ -1,1 +1,0 @@
-Chương 4 trình bày về quá trình xây dựng, thiết kế, kiểm thử và triển khai ứng dụng. Trong phần xây dựng, thiết kế ứng dụng, nêu rõ kiến trúc sử dụng để xây dựng cho ứng dụng, các thiết kế lớp, thiết kế góc, thiết kế cơ sở dữ liệu, thiết kế giao diện và các công cụ phần mềm sử dụng trong quá trình phát triển ứng dụng.

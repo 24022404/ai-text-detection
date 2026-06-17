@@ -1,1 +1,0 @@
-Chương 2 trình bày 2 phần chính là cơ sở lý thuyết của Web ngữ nghĩa và giới thiệu về chatbot. Đây là những kiến thức nền tảng giúp tô có cá nhìn tổng quan về Web ngữ nghĩa và chatbot cũng là bước đầu tiên trong quá trình tìm hiểu điểm xây dựng hệ thống.

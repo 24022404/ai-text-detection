@@ -1,1 +1,0 @@
-Fine-tuning on VMDS: Similar to ViMs, we choose the reference summary based on the sentence with the highest Rouge Score.

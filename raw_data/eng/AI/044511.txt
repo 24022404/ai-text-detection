@@ -1,1 +1,0 @@
-This method checks the context of API keys and tokens, making sure they aren't exposed in debug logs or hard-coded insecurely, reducing the risk of sensitive data leaks.

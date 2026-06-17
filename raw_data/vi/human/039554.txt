@@ -1,1 +1,0 @@
-tạo lỗ bằng teencode, tạo lỗ bằng cách đổi chỗ các ký tự, tạo lỗ bằng cách thay thế ngẫu nhiên bằng các ký tự lân cận, loại bỏ ký tự bất kỳ, thêm một ký tự bất kì vào, lỗ VNI (ví dụ: ă > a8), thay thế bằng các từ tương đồng dễ nhầm lẫn (ví dụ:  vớ y, ch với tr,...), tạo các cặp từ dễ nhầm lẫn do vùng miền hay do cách phát âm (ví dụ: se > sẻ,...).

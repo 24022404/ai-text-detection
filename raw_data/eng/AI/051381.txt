@@ -1,1 +1,0 @@
-This section examines the performance of four crucial JRPC requests related to login and registration, highlighting their pivotal role in facilitating seamless communication between the SDK and executors. Their efficiency directly influences the system’s overall responsiveness and the quality of user experience.

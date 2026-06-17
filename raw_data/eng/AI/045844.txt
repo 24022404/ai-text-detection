@@ -1,1 +1,0 @@
-When a user clicks the "Create post" button, the system shows the form, allowing them to enter post content with references such as 'Table 3.5' or 'Figure 4.1', upload files, add a destination, and submit by clicking "Post".

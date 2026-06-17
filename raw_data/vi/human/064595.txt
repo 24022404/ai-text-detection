@@ -1,1 +1,0 @@
-Ưu điểm Gữa rừng framework web hiện nay, Laravel vẫn có một chỗ điứng cho rêng mình và được rất nhều lập trình viên sử dụng. Có lẽ, framework này được đión nhận điến vậy nhờ vào những ưu điểm nó mang lạ.

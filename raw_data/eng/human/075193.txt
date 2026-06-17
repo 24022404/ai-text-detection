@@ -1,1 +1,0 @@
-Unprotected Suicide : A contract can be canceled by the contract owner or a trusted third party using self-destruction. Once a contract activates this method, all bytecode and data contained in this contract will be deleted from the EVM.

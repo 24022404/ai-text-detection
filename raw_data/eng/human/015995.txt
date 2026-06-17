@@ -1,1 +1,0 @@
-The decomposition use case diagram for transaction management Figure 2.12: Transaction manager use case diagram Actor: Administrators, leaders, employees.Description: In Figure 2.2.6, the user can create a transaction for the customer, but only change the status and note of the order.

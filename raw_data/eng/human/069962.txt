@@ -1,1 +1,0 @@
-Unrestricted Intent Filters: Activities that accept any URL or are too permissive in the paths they support, making them vulnerable to arbitrary external input.

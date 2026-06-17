@@ -1,1 +1,0 @@
-ASP.NET Core là một phên bản mớ của ASP.NET, được phát hành bởi Microsoft và là một mã nguồn mở trên GtHub. ASP.NET Core điược sử dụng điểm phát triển khuôn khổ webste và có thể thích ứng với nhiều trình duyệt khác nhau như Windows, Mac hoặc Linux kể cả trên nền tảng MVC. Ban đầu, phiên bản này có tên là ASP.NET 5 nhưng sau đió điược điổ tên thành ASP.NET Core.

@@ -1,1 +1,0 @@
-Flexibility: JWT can be used for various purposes, including authentication, au thorization, and information exchange, increasing the flexibility of the application.

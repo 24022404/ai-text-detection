@@ -1,1 +1,0 @@
-Mặc dù đạt được những cải tiến đáng kể nhưng mô hình vẫn còn tồn tại một số hạn chế có thể kể đến như: chưa xử lý được hiện tượng nhận nhầm là polyp trong các trường hợp ảnh nội soi có nhiễu, xảy ra vấn đề nhòe chuyển động hay vùng niêm mạc bình thường nhưng có ánh sáng phản chiếu điện. Độ chính xác phân vùng chưa cao ở những vùng đổ bóng hay vùng giao giữa ánh sáng và bóng tối.

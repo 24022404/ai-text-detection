@@ -1,1 +1,0 @@
-Mã nguồn mở: PHP là một ngôn ngữ mã nguồn mở và miễn phí, cho phép lập trình viên sử dụng và sửa đổi mã nguồn một cách tự do.

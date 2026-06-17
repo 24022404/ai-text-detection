@@ -1,1 +1,0 @@
-Trong quá trình phát triển AI, chúng ta luôn dựa vào dữ lệu. Từ đào tạo, điều chỉnh, lựa chọn mô hình điến kiểm tra, chúng ta sử dụng ba bộ dữ lệu khác nhau: bộ đào tạo (trang set), bộ xác thực (validation set) và bộ thử nghiệm (testng set). Validation set được sử dụng để chọn và điều chỉnh mô hình machine learning cuối cùng .

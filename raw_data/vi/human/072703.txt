@@ -1,1 +1,0 @@
-Backend điược trển kha trên Docker, phần backend có thể cà điặt điược ở trên nhều nền tảng, mễn là cà điặt Docker. Dướ điây là các bước cà điặt và trển kha trên MacOS và Ubuntu:

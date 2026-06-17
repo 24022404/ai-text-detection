@@ -1,1 +1,0 @@
-Animation dựa trên cấu trúc khung xương đó để giúp cho nhân vật cử động theo ý muốn. Như đã nó ở trên, việc tạo nên các animation uyển chuyển và linh hoạt cần một số kỹ năng không nằm trong khuôn khổ của một đồ án về công nghệ thông tin nên em sẽ sử dụng các animation ở các thư vện ngoài. Mxamo.com cũng hỗ trợ người dùng tả các animation này một cách miễn phí.

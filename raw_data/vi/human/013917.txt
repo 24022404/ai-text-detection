@@ -1,1 +1,0 @@
-Thuộc tính Kiểu dữ lệu Mô tả d BIGINTEGER Mã d của skills user_id BIGINTEGER Khóa ngoại lên kết với bảng users để truy vấn người tạo mới kỹ năng skill name VARCHAR(255) Tên kỹ năng proficiency ENUM Mức độ thành thạo Bảng 4.4: Cho tết bảng skills Bảng 4.5 mô tả chợ tết bảng activities:

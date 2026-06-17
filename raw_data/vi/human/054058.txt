@@ -1,1 +1,0 @@
-Chuẩn hóa thiết kế Ứng dụng được thiết kế theo chuẩn hóa Intuitive User Interface vớ lý do giúp người dùng sao cho dễ hiểu, dễ sử dụng và gần gũi với người dùng.

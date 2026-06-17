@@ -1,1 +1,0 @@
-Streamlit’s reactive programming model enables automatic updates to the user interface whenever there are changes in the data, eliminating the need for explicitcontroller logic. This streamd approach allows developers to focus on writ ing data processing and visualization code directly in Python, without the need to strictly adhere to the MVC pattern.

@@ -1,1 +1,0 @@
-Phạm vi của đồ án sẽ tập trung vào việc thiết kế và phát triển các chức năng cơ bản của phần mềm quản lý thu chi cá nhân, không bao gồm các tính năng phức tạp như tích hợp thanh toán trực tuyến hay lên kết với ngân hàng. Tuy nhiên, kiến trúc của phần mềm sẽ được thiết kế điển dễ dàng mở rộng và tích hợp các tính năng bổ sung trong tương la.

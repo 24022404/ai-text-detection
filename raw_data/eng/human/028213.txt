@@ -1,1 +1,0 @@
-By caching static files, Nginx effectively stores copies of these files in memory or on disk, closer to the end-user. This means that subsequent requests for the same files can be fulfilled directly from the cache, eliminating the need to fetch them from the backend server. As a result, the webpage loading time is significantly reduced, improving the overall user experience.

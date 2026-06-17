@@ -1,1 +1,0 @@
-Từ những vấn đề nêu ở phần 1.1, em nhận thấy rằng nhu cầu có một hệ thống kết nối chủ nhà và người du lịch, đồng thờ là nơi những người du lịch tự túc tìm kiếm hay chia sẻ thông tin về chính chuyến đi của mình là cần thiết. Hệ thống sẽ tập trung giải quyết ha nhu cầu chính tương ứng với hai đối tượng người dùng như sau:

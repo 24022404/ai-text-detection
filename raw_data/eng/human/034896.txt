@@ -1,1 +1,0 @@
-A high-quality and large-scale benchmark dataset for Vietnamese-English machine translation,” inProceedings of the 2021 Conference on Empirical Methods in Natural Language Processing On andPunta Cana, Dominican Republic: Association for Computational Linguistics, november 2021, pages 4495–4503.

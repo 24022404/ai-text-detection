@@ -1,1 +1,0 @@
-Tạo các tập phổ biến có một phần tử (Frequent itemsets) bằng cách đếm số lần xuất hiện của từng tem đơn.

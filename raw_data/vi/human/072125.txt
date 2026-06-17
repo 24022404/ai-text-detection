@@ -1,1 +1,0 @@
-Về tính dễ bảo mật, extJS cung cấp các tính năng bảo mật như Authentication, Authorization và Encryption giúp người phát triển xây dựng các ứng dụng web an toàn và bảo mật. extJS cũng hỗ trợ các kiến trúc ứng dụng rõ ràng và tối ưu hóa cho các ứng dụng web, giúp giảm thiểu các lỗ hổng bảo mật tiềm ẩn.

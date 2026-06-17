@@ -1,1 +1,0 @@
-Biểu đồ use case tổng quát Biểu đồ use case tổng quan của hệ thống được mô tả như Hình 2.1 sau đây:

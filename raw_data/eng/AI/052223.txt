@@ -1,9 +1,0 @@
-Objective: Recovering complete 3D shapes from partial point clouds is crucial for applications in robotics, autonomous driving, and augmented reality. Existing methods often struggle to preserve fine-grained geometry and global context simultaneously.  
-
-Methods: We propose a novel Skip-Attention Network with Hierarchical Folding (SAN-HF) for point cloud completion. Our encoder extracts multi-scale features from the incomplete input, while a skip-attention module dynamically fuses high-resolution details with deep semantic representations. In the decoder, a hierarchical folding scheme generates point clouds in a coarse-to-fine manner: a base surface is first reconstructed at low resolution, then progressively refined through local folding operations that capture detailed geometry. We optimize the network end-to-end using a combination of Chamfer Distance and Earth Mover’s Distance losses.  
-
-Results: Experiments on standard benchmarks (ShapeNet, Completion3D) demonstrate that SAN-HF outperforms state-of-the-art methods by 10–15% on Chamfer Distance and achieves more accurate surface reconstruction under varying degrees of occlusion. Qualitative results show improved preservation of sharp edges and thin structures. An ablation study confirms the effectiveness of skip-attention fusion and hierarchical folding in boosting reconstruction fidelity.  
-
-Conclusion: SAN-HF advances point cloud completion by integrating global context with detailed local geometry in a unified framework. Its ability to generate high-quality, complete 3D shapes from sparse inputs makes it well-suited for downstream tasks in 3D perception and modeling.  
-
-Keywords: point cloud completion; skip-attention network; hierarchical folding; 3D reconstruction; deep learning.

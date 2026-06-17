@@ -1,1 +1,0 @@
-The letter I stands for INFO, indicating that the message is intended to provide standard information, not a warning or error.

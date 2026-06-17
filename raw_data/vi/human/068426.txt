@@ -1,1 +1,0 @@
-Doman: khachSan  Các thuộc tính mô tả thông tin về khách sạn gồm –Thuộc tính taiKhachSan : tên khách sạn.

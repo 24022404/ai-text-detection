@@ -1,1 +1,0 @@
-Đặc tả use case Thêm sản phẩm vào giỏ hàng Khách hàng sử dụng use case “Đưa sản phẩm vào giỏ hàng” điểm đặt những sản phẩm mình cần mua vào giỏ hàng tạm thời trên trang web.

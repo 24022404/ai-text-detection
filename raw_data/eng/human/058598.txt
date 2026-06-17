@@ -1,1 +1,0 @@
-Where C1 and C2 are defined in Equation 4.12 and 4.13. It’s now ready to prove the following lemma, which states that the proposed construction is optimal.

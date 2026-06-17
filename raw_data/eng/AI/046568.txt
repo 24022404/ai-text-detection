@@ -1,9 +1,0 @@
-Objective: Earth Mover’s Distance (EMD) is a powerful metric for comparing probability distributions and feature histograms, but its exact computation incurs prohibitive time and memory costs for large-scale or real-time applications. This paper presents a suite of low-complexity, data-parallel EMD approximation algorithms optimized for modern multicore and GPU architectures.
-
-Methods: We introduce a thresholded cumulative histogram formulation that reduces the EMD computation to linear-time prefix-sum and min-max operations, enabling fully parallel execution. Two variants—Thresholded Sinkhorn Approximation (TSA) and Parallel Histogram Flow (PHF)—are implemented in CUDA and OpenMP. Both variants avoid global sorting and heavy synchronization, yielding an O(n) complexity per histogram of size n.
-
-Results: On benchmark image retrieval and shape-matching datasets, our GPU implementation of TSA achieves up to 45× speedup over a state-of-the-art CUDA Sinkhorn solver with an average relative error under 3.8%. The PHF variant on a 16-core CPU attains 12× acceleration compared to a multithreaded exact EMD library, maintaining error rates below 6.5%. Memory footprint is reduced by 70% relative to exact solvers, allowing processing of high-resolution histograms in streaming scenarios.
-
-Conclusion: The proposed data-parallel EMD approximations deliver significant computational savings while preserving high fidelity, making them well-suited for large-scale retrieval, real-time vision, and embedded analytics. Our open-source implementation offers a practical toolkit for accelerating EMD-based applications.
-
-Keywords: Earth Mover’s Distance, data-parallel computing, approximation algorithms, GPU acceleration, histogram metrics, low complexity.

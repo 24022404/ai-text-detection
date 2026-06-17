@@ -1,1 +1,0 @@
-Cấu trúc của một file hướng dẫn sẽ gồm: () Ý nghĩa của source code, () Các bước thực thi source code từ cài đặt tớ chạy source.

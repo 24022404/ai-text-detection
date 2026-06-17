@@ -1,1 +1,0 @@
-Using a model that is too complex and has too many parameters, results in the model being able to learn noisy patterns in the training data.

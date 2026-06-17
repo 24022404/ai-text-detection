@@ -1,1 +1,0 @@
-StaticAnalysis_staticanalyzer helps identify various components within an application, including activities, services, and libraries, without requiring the inclusion of scan results or suppressed findings.

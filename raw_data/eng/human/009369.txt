@@ -1,1 +1,0 @@
-Content-based Filtering: This method recommends items based on their attributesor content, such as the genre of a movie or the ingredients of a recipe. Content based filtering can be effective for longtail items because they may have unique attributes that can be used to make recommendations.

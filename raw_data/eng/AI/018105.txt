@@ -1,9 +1,0 @@
-Objective: This paper presents a novel, standalone markerless 3D tracking system tailored for handheld augmented reality (AR) applications. Our goal is to eliminate the need for external fiducial markers or infrastructure while delivering robust, real-time pose estimation on commodity mobile hardware.
-
-Methods: We introduce a lightweight vision-based pipeline that fuses feature-based simultaneous localization and mapping (SLAM) with inertial measurements from on-board sensors. Keyframe selection and an efficient feature descriptor enable stable correspondence tracking under rapid device motion and partial occlusions. A compact pose-refinement neural module further reduces drift by learning geometric priors directly from monocular video streams. All modules are optimized for execution on a single ARM-based processor without offloading to cloud services.
-
-Results: Experiments on diverse indoor and outdoor scenes demonstrate average tracking accuracy within 4.8 cm and 2.3° of ground truth, maintaining 25–30 frames per second on midrange smartphones. Compared to state-of-the-art mobile AR frameworks, our system reduces pose error by up to 35% in cluttered environments and extends continuous tracking time by 40% before relocalization is required.
-
-Conclusion: By integrating markerless SLAM, sensor fusion, and lightweight learning into a cohesive on-device solution, we deliver a standalone handheld tracker that broadens the accessibility of AR experiences. This work paves the way for robust, infrastructure-free applications in gaming, industrial maintenance, and interactive education.
-
-Keywords: markerless tracking, 3D SLAM, augmented reality, handheld AR, sensor fusion, mobile vision.

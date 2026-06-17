@@ -1,1 +1,0 @@
-In the project, the ADB path is determined from an environment variable or specified within the settings.py file, and the ADB server itself is launched through Python code.

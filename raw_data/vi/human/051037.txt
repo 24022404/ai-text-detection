@@ -1,1 +1,0 @@
-Middlewares: Validate dữ liệu request gửi lên. Middleware có thể được co như một bộ lọc HTTP cho các yêu cầu (request) được gửi tới hệ thống. Ví dụ như sử dụng để kiểm tra và xác thực người dùng khi đăng ký vào hệ thống. Sau khi đã hoàn tất kiểm tra và xác thực, Middleware sẽ trả về Controller để tiếp tục quá trình xử lý.

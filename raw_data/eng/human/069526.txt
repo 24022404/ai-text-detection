@@ -1,1 +1,0 @@
-The primary contribution of my project is the development of a web application that showcases the momentum factor for various cryptocurrencies. By presenting this factor visually, the application aims to provide users with valuable insights into market trends, supporting them in making well-informed investment decisions.

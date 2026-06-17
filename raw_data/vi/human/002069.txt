@@ -1,1 +1,0 @@
-IoU có xu hướng phạt nặng hơn với các điểm ảnh bị phân loại sa. Mối liên hệ giữa IoS và Dce được thể hiện trong công thức ( 4.2):

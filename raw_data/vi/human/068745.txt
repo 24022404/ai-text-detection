@@ -1,1 +1,0 @@
-Use case Đăng ký UC ID and Name: UC3 Đăng ký Tác nhân: Khách vãng la Mô tả: Khách nhấn nút "Đăng ký" ở têu điề trang chủ để chuyển hướng đến trang đăng ký và nhập thông tin: tên đăng nhập, mật khẩu,xác nhận mật khẩu điể đăng ký tài khoản.

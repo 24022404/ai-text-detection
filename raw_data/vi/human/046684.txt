@@ -1,1 +1,0 @@
-Java Java  là một ngôn ngữ lập trình thông dịch và hướng đối tượng. Nó được phát triển bởi Sun Mcrosystems (hiện nay là một phần của Oracle Corporation) và ra mắt lần đầu vào năm 1995. Java được thiết kế điển có tính đa nền tảng, nghĩa là mã nguồn Java có thể chạy trên nhiều hệ điều hành khác nhau mà không cần bên dịch lạ.

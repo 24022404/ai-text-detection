@@ -1,1 +1,0 @@
-Dữ liệu được phân tích chuyển sâu hơn để người dùng có thể kiểm soát được toàn bộ dữ liệu (nhiệt độ, độ ẩm) qua từng thời điểm.

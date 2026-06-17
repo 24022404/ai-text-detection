@@ -1,1 +1,0 @@
-Đối với bài toán phát hiện và sửa lỗi sai chính tả đã có gả pháp tiếp cận là sử dụng mô hình Seq2Seq (sequence to sequence) hay sử dụng mô hình ngôn ngữ N Gram kết hợp với khoảng cách Levenshtein.

@@ -1,1 +1,0 @@
-This sub-use case supports executing ADB commands or Frida scripts directly within an Android app environment, enabling automation of tasks, modification of app behaviors during dynamic analysis, and monitoring of runtime activities. Such capabilities are especially beneficial for professionals engaged in reverse engineering or penetration testing, providing critical insights.

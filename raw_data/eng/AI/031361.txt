@@ -1,1 +1,0 @@
-In a CNN model, the pooling layer offers invariance to displacement, scaling, and rotation, which enhances the model’s robustness to such transformations. Local associativity allows hierarchical abstraction as convolutional filters extract increasingly complex features, connecting the layers through convolution.

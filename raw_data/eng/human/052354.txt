@@ -1,1 +1,0 @@
-w(t) =KXincorporate various weighting strategies, and the subsequent section provides an in depth illustration of the process of determining node weights, specifically explicatethe FedAvg and FedAdp algorithms.

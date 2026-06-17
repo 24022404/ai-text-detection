@@ -1,1 +1,0 @@
-Về mặt lý thuyết, đồ án đã nêu ra được những nét đặc trưng và ưu thế của công nghệ Web ngữ nghĩa; cách lưu trữ dữ liệu có ngữ nghĩa RDF; tìm hiểu về khá nệm Ontology, các thành phần và công cụ để xây dựng Ontology; tìm hiểu cách sử dụng ngôn ngữ SPARQL để truy vấn RDF; nắm được các kiến thức cơ bản về chatbot như khá nệm, thành phần kiến trúc hay cách xây dựng một chatbot.

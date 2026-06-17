@@ -1,1 +1,0 @@
-Item Based Collaborative Filtering Item Based Collaborative Filtering là một phương pháp gợi ý sản phẩm dựa trên sự tương tự giữa các sản phẩm. Điều này có nghĩa là nó sẽ gợi ý các sản phẩm tương tự với một sản phẩm cụ thể điã điược khách hàng chọn hoặc quan tâm.

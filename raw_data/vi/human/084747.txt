@@ -1,1 +1,0 @@
-Nhân viên quản lý kho hàng chọn phiếu nhập/xuất cần huỷ bằng cách chọn mã phiếu hoặc tìm kiếm phiếu theo loại phiếu, ngày tạo, tên nhân viên tạo phiếu, v.v.

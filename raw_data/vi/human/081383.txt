@@ -1,1 +1,0 @@
-Quest Manager Class: lớp này quản lý các nhiệm vụ mà người chơi đã nhận và kiểm tra xem những nhiệm vụ đó đã hoàn thành hay chưa.

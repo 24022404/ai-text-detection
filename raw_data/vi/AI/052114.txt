@@ -1,7 +1,0 @@
-Ký hiệu điện tử là một phần quan trọng trong thiết kế và xây dựng các hệ thống điện tử. Trong đó, ký hiệu D1 và D2 được sử dụng để chỉ định chức năng của các bộ phận trong hệ thống.
-
-Ký hiệu D1 thường được sử dụng để chỉ định chức năng của bộ tăng áp DC. Bộ tăng áp DC là một thiết bị điện tử có chức năng tăng cường điện áp của nguồn điện đầu vào, giúp cung cấp điện áp ổn định và đủ mạnh cho các thiết bị điện tử khác.
-
-Ký hiệu D2 thường được sử dụng để chỉ định chức năng của bộ điều khiển. Bộ điều khiển là một thiết bị điện tử có chức năng điều chỉnh và kiểm soát các quá trình điện tử trong hệ thống, giúp đảm bảo rằng hệ thống hoạt động một cách ổn định và hiệu quả.
-
-Tóm lại, ký hiệu D1 và D2 là hai ký hiệu điện tử quan trọng được sử dụng để chỉ định chức năng của các bộ phận trong hệ thống điện tử. Ký hiệu D1 chỉ định chức năng của bộ tăng áp DC, trong khi ký hiệu D2 chỉ định chức năng của bộ điều khiển.

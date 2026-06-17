@@ -1,7 +1,0 @@
-In the realm of image processing, particularly non-uniform single image deblurring, achieving high-quality results remains a significant challenge. This paper presents a novel approach that leverages learned kernels within a multi-scale deep neural network framework to enhance the deblurring process. Our objective is to improve the restoration of blurred images by effectively addressing the variations in blur across different regions of the image. We propose a multi-scale architecture that integrates kernels learned from data, allowing for adaptive handling of diverse blur patterns. 
-
-Through extensive experiments, we demonstrate that our method significantly outperforms state-of-the-art deblurring techniques in terms of both qualitative and quantitative metrics. Key findings reveal superior restoration quality and improved edge preservation, highlighting the effectiveness of the learned kernels in capturing complex blur characteristics. 
-
-The implications of our research extend to various applications, including photography, surveillance, and medical imaging, where image clarity is critical. This work emphasizes the potential of integrating learned representations in deep learning architectures for solving complex vision tasks. Ultimately, our proposed framework offers a compelling solution to the non-uniform deblurring problem, paving the way for future advancements in the field of image restoration. 
-
-Keywords: image deblurring, multi-scale deep learning, learned kernels, neural networks, image processing.

@@ -1,1 +1,0 @@
-Hệu suất : PostgreSQL có nhều tính năng điể cả thiện hiệu suất, bao gồm lập danh mục (btree, multcolumn, expressons, partal), lập danh mục nâng caoHình 3.3: PostgreSQL (GST, SPGst, KNN GST, GIN, BRIN, Bloom flters), trình lập kế hoạch/trình tố ưu hóa truy vấn phức tạp, quét ndexonly và thống kê số lệu trên nhều cột.

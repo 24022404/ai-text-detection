@@ -1,1 +1,0 @@
-Finally, all items must be RFID-equipped and properly batched in order to be able to search for and monitor changes in goods during import, export, and storage.

@@ -1,1 +1,0 @@
-Những điểm hạn chế ➢Chất lương : Một số thành phần trong Laravel không được thiết kế tốt. Ví dụ, dependency njecton điô kh trở nên phức tạp không cần thiết. Các tài lệu khá nặng. Chúng ta phải học hỏ nhều trước khi bắt điầu xây dựng các ứng dụng.

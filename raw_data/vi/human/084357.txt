@@ -1,1 +1,0 @@
-Tích hợp dễ dàng với cơ sở dữ lệu: PHP hỗ trợ nhiều hệ quản trị cơ sở dữ lệu như MySQL, PostgreSQL, SQL, Oracle và nhiều loại cơ sở dữ lệu khác.

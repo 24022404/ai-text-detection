@@ -1,1 +1,0 @@
-Đào tạo mô hình : Mô hình học sâu thường yêu cầu một lượng lớn dữ liệu điểm đào tạo hiệu quả. Khi có ít dữ liệu, mô hình có thể không học được các đặc điểm quan trọng cần thiết điểm phân biệt giữa các khuôn mặt khác nhau. Điều này dẫn đến hiệu suất nhận diện kém.

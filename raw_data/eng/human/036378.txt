@@ -1,1 +1,0 @@
-ISO 14443 is a technical standard developed by the International Organiza tion for Standardization (ISO), which defines wireless communication protocols for smart card devices using the 13.56 MHz frequency. This standard includes the necessary software and hardware for communication between smart card devices and smart card readers.

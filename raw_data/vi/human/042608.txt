@@ -1,1 +1,0 @@
-Tạ bước dự đoán, các câu bình luận cũng được tiền xử lý dữ liệu, tiếp theo các câu văn sẽ được đưa qua mô hình phân tích cảm xúc đã được huấn luyện trước đó.

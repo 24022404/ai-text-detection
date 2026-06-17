@@ -1,1 +1,0 @@
-Gả pháp Ở chương 3 điã trình bày tổng quan lý thuyết, mô hình phân cấp GPM. Trong chương này, tô tập trung phân tích việc áp dụng phương pháp vào dự án.

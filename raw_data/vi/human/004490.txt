@@ -1,1 +1,0 @@
-Tìm kiếm bài vết Tìm kiếm bài viết trên hệ thống theo từ khóa hoặc theo category. Sau khi thực hiện tìm kiếm, hệ thống hiển thị danh sách các bài viết thỏa mãn yêu cầu của người dùng khách.

@@ -1,1 +1,0 @@
-S. Sudhakaran andO. Lanz, “Learning to detect violent videos using convolutional long short-term memory,” CoRR ,jourvol abs/1709.06531, 2017. arXiv: 1709.

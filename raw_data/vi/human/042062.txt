@@ -1,1 +1,0 @@
-Chức năng gửi thông báo, email, , sms cho người dùng 1. Chức năng gửi thông báo Hình 4.19: Màn hình thể hiện chức năng gửi thông báo Hình 4.19 Sau khi nhập nội dung thông báo, thông báo sẽ được gửi tới người dùng ngay lập tức.

@@ -1,1 +1,0 @@
-Block Pattern: Các Blocks trong Magento thường sử dụng mẫu này để hiển thị dữ liệu cho người dùng, tương tác với Controller và Models và xây dựng HTML để hiển thị.

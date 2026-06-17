@@ -1,1 +1,0 @@
-The checksum parameter is checked with the is_md5() function to confirm it is a valid MD5 hash value.

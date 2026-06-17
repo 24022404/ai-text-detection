@@ -1,1 +1,0 @@
-P. Wang, P. Wang andE. Fan, “Violence detection and face recognition based on deep learning,” Pattern Recognition Letters ,jourvol 142, pages 20–24, february 2021. DOI:10.1016/j.patrec.2020.11.018 .

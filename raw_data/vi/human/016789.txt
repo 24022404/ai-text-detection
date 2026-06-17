@@ -1,1 +1,0 @@
-Đăng nhập Bảng 2.6: Đặc tả usecase – Đăng nhập Tên ca sử dụng: Đăng nhập ID: 6 Tác nhân chính: Bí thư/ nhân sự Mục đích: Bí thư/ nhân sự đăng nhập vào hệ thống Mô tả: Ca sử dụng này mô tả cách bí thư/ nhân sự đăng nhập vào hệ thống Kích hoạt: Bí thư/ nhân sự đăng nhập hệ thống Luồng sự kiện chính:

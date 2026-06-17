@@ -1,1 +1,0 @@
-Em đã sử dụng JWT vào việc xác thực người dùng, và phân quyền, được minh họa như hình vẽ 3.33 Mô tả quá trình xác thực như sau:

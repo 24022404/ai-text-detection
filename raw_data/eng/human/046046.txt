@@ -1,1 +1,0 @@
-Mngxng Tan and Quoc Le. “Effcentnet: Rethnkng model scalng for convolutonal neural networks”. In: Internatonal conference on machne learn ng. PMLR. 2019, pp. 6105–6114.

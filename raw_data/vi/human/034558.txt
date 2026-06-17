@@ -1,1 +1,0 @@
-Bến đỗ Tư thế : Đều này mô phỏng hiệu ứng của việc người đó nghiêng hoặc quay đầu theo các hướng khác nhau (lên, xuống, trái, phải).

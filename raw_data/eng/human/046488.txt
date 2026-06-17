@@ -1,1 +1,0 @@
-No GPU support for Nvidia and only language support: Currently, the only sup ported GPUs are NVIDIA and the only full language support is Python, which makes it a drawback because of the increase increase of other languages in deep learning as well as Lau.

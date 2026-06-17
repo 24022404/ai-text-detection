@@ -1,1 +1,0 @@
-Tính tương tự sản phẩm ổn định hơn: Trong nhiều trường hợp, sản phẩm thường ít thay đổi hơn so với người dùng, điều này làm cho ma trận tương tự giữa các sản phẩm ổn định hơn và dễ dàng cập nhật hơn so với ma trận tương tự giữa người dùng.

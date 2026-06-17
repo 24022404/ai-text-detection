@@ -1,1 +1,0 @@
-Cuộc hội thoại: gồm các thuộc tính conversationId (mã cuộc hội thoại), con versionName (tên cuộc hội thoại)Thành viên cuộc hội thoại: gồm các thuộc tính user Id (mã người dùng), permission (quyền của người dùng), last Seen (tin nhắn cuối cùng đã xem) Tin nhắn: có thuộc tính content (nội dung tin nhắn) Mối quan hệ giữa các thực thể như sau:

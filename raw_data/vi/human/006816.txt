@@ -1,1 +1,0 @@
-Thiếu đa dạng : Nếu dữ liệu huấn luyện không đia dạng (ví dụ, chủ yếu là khuôn mặt của người da trắng hoặc chỉ có khuôn mặt nam giới), mô hình có thể không nhận diện tốt trên những nhóm không được đại diện trong dữ liệu huấn luyện.

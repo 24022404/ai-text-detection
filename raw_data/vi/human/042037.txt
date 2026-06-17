@@ -1,1 +1,0 @@
-GRCh38 hay hg38 (bộ gen tham chiếu mới nhất) dưới định dạng file FASTA được sử dụng để đóng hàng nhưng trước hết, cần phải đánh chỉ mục cho bộ gen tham chiếu. BWA hỗ trợ việc này, theo như câu lệnh như sau:

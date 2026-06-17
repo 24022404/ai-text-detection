@@ -1,1 +1,0 @@
-max tokens: Điều chỉnh số lượng tokens (đơn vị nhỏ nhất trong ngôn ngữ) tố địa của câu trả lời. Giá trị này giới hạn độ dài của câu trả lời.

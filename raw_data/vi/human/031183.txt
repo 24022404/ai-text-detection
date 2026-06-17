@@ -1,1 +1,0 @@
-Giới thiệu về MySQL MySQL là một loại hệ quản trị cơ sở dữ liệu mã nguồn mở rất phổ biến và được nhiều người sử dụng ưa chuộng. MySQL hoạt động theo mô hình khách chủ, do là mã nguồn mở lên nó miễn phí cho người sử dụng, tốc độ xử lý nhanh.

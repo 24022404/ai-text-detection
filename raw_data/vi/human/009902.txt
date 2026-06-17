@@ -1,1 +1,0 @@
-Cuối cùng, kh xử lý xong yêu cầu thì Controller gửi dữ liệu trở lại View và hiển thị cho người dùng trên trình duyệt.Hình 4.2: Quy trình xử lý của MVC Ở đây, Vẽ không giao tiếp trực tiếp vớ Model. Sự tương tác giữa View và Model sẽ chỉ được xử lý bở Controller.

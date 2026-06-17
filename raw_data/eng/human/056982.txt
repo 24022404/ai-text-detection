@@ -1,1 +1,0 @@
-The BPE method statistically analyzes the co-occurrence frequencies of subwords and merges them if they have the highest frequency. This process continues to merge subwords until no more subwords can be merged, resulting in a set of subwords that can represent all the words in the text corpus. The implemented algorithm is declared in github1and involves following steps:

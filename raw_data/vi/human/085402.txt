@@ -1,1 +1,0 @@
-Cùng với sự ra đời của bản Tuyên Ngôn Agile 2001 đánh dấu sự ra đời của Gale như một phương pháp luận. Kể từ đó, nhiều phương pháp phát triển phần mềm linh hoạt đỉa xuất hiện như Scrum, EXtreme Programming (XP), Kanban, ...Ở đây em sẽ giới thiệu một số phương pháp trong phát triển phần mềm linh hoạt:

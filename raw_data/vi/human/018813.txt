@@ -1,1 +1,0 @@
-Tên Thống kê Dung lượng mã nguồn 1.87Gb Số gó phần front end 43 gõ Số có phần back end 8 có Bản 4.4: Thông số ứng dụng đạt được 4.3.3 Mnh họa các chức năng chính Sau đây tác giả xn trình bày các màn hình quan trọng và thú vị trong trang web của mình bào gồm màn hình xem danh sách sản phẩm, màn hình quy trình thanh toán, màn hình đổi điểm tích lũy, và màn hình tạo bài viết.

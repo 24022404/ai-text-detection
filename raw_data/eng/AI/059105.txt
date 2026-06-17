@@ -1,1 +1,0 @@
-Odoo features a robust ORM API, enabling developers to efficiently manage database interactions through various operations and methods, while leveraging essential tools and packages such as psycopg2 for optimal performance.

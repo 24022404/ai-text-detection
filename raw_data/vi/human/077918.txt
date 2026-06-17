@@ -1,1 +1,0 @@
-Tuy nhên, kh điem so sánh với một số sản phẩm hiện có trên thị trường thì tôi nhận thấy sản phẩm còn một số hạn chế như: Sản phẩm mới chỉ có một số tính năng cơ bản chưa có tình năng nổ bật, Gao vện vẫn chưa thực sự thu hút người dùng, Sản phẩm mới chỉ dừng lại ở dạng demo, Chưa triển khai được việc an toàn thông tin (sao lưu và khôi phục dữ liệu).

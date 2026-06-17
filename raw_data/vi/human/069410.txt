@@ -1,1 +1,0 @@
-Phổ biến và được sử dụng rộng rãi: PHP được sử dụng rộng rãi trong việc xây dựng các trang web và ứng dụng web. Nhều CMS (Content Management Systems) như WordPress, Drupal và Joomla cũng được vết bằng PHP.

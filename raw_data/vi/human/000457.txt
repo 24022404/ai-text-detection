@@ -1,1 +1,0 @@
-Hiện tại game chỉ diễn ra trên một bản đồ, điều này sẽ gây nhàm chán, lặp lại nên một hệ thống bản đồ địa dạng, riêng biệt cũng là điều đáng cân nhắc.

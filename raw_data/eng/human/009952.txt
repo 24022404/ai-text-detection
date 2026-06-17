@@ -1,1 +1,0 @@
-K. He, X. Zhang, S. Ren and J. Sun, Deep residual learning for image recognition , cite arxiv:1512.03385Comment: Tech report, 2015. url:http:

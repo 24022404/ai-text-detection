@@ -1,1 +1,0 @@
-Then, the greedy and FKM algorithm create the lexicographically smallest uni versal cycle of S. Several such classes Sare listed in example 2.4.

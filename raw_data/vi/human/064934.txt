@@ -1,1 +1,0 @@
-Sau đây, em xin trình bày các bước thực hiện việc sử dụng Pusher để tạo thông báo realtime (thờ gan thực), ở điây em xn gả điịnh là điã cà điặt một dự án laravel thành công:

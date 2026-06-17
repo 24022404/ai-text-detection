@@ -1,1 +1,0 @@
-Graph convolutional network (GCN) Graph  convolutional network( GCN) là 1 cách tiếp cận điểm học bán bám sát trên dữ lệu có cấu trúc đồ thị. Nó dựa trên biến thể hiệu quả của mạng CNN hoạt động trực tiếp trên đồ thị.

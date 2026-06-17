@@ -1,1 +1,0 @@
-Thư viện OpenCV (open source computer vision library) là kho lưu trữ các mã nguồn mở được dùng để xử lý hình ảnh, phát triển các ứng dụng đồ họa trong thờ gan thực.

@@ -1,7 +1,0 @@
-Môi trường dữ liệu chung theo ISO 19650 là một tiêu chuẩn quốc tế nhằm thống nhất cách thức quản lý và chia sẻ dữ liệu trong các dự án xây dựng. Tiêu chuẩn này được thiết kế để giúp các bên liên quan trong dự án xây dựng dễ dàng truy cập và sử dụng dữ liệu một cách hiệu quả.
-
-Môi trường dữ liệu chung theo ISO 19650 bao gồm các thành phần chính như dữ liệu cơ bản, dữ liệu chi tiết và dữ liệu liên quan. Dữ liệu cơ bản bao gồm thông tin về dự án, bao gồm tên dự án, địa điểm, và các thông tin liên quan khác. Dữ liệu chi tiết bao gồm các thông tin về thiết kế, xây dựng và vận hành dự án. Dữ liệu liên quan bao gồm các thông tin về các bên liên quan, bao gồm chủ đầu tư, nhà thầu và các bên khác.
-
-Tiêu chuẩn này cũng quy định các nguyên tắc và quy trình để quản lý và chia sẻ dữ liệu trong các dự án xây dựng. Các nguyên tắc này bao gồm việc bảo mật dữ liệu, bảo đảm tính chính xác và cập nhật của dữ liệu, và việc sử dụng dữ liệu một cách hiệu quả.
-
-Môi trường dữ liệu chung theo ISO 19650 được thiết kế để giúp các dự án xây dựng trở nên hiệu quả hơn, giảm thiểu thời gian và chi phí, và cải thiện chất lượng của dự án. Tiêu chuẩn này cũng giúp các bên liên quan trong dự án xây dựng dễ dàng truy cập và sử dụng dữ liệu một cách hiệu quả, từ đó giúp dự án đạt được mục tiêu và kết quả mong muốn.

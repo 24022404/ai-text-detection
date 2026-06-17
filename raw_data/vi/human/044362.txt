@@ -1,1 +1,0 @@
-Tóm lạ, PHP là một trong những ngôn ngữ lập trình phía server được sử dụng rộng rãi nhất trên thế giới và được đánh giá là dễ học, dễ sử dụng và có tính linh hoạt cao. Với nhiều tính năng và framework hỗ trợ, PHP là một lựa chọn tốt cho việc phát triển các ứng dụng web và các trang web động.

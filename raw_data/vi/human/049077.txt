@@ -1,1 +1,0 @@
-Tầng đầu vào (Input layer): Là nơi để nạp dữ liệu vào. Mỗi nơron tương ứng với một thuộc tính (attribute) hoặc đặc trưng (feature) của dữ liệu đầu vào.

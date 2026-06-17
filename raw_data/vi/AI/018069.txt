@@ -1,5 +1,0 @@
-Hệ số ứng xử động đất là một yếu tố quan trọng trong thiết kế và xây dựng các công trình kiến trúc, đặc biệt là các tòa nhà cao tầng. Trong đó, kết cấu nhà bê tông cốt thép là một trong những loại kết cấu phổ biến nhất. Để đánh giá khả năng chịu đựng của kết cấu này trước các tác động của động đất, các kỹ sư thường sử dụng phương pháp phân tích tĩnh phi tuyến.
-
-Phương pháp này dựa trên nguyên tắc phân tích tĩnh của kết cấu, nhưng với các tải trọng động đất được mô phỏng theo các phương pháp khác nhau. Qua đó, có thể tính toán được hệ số ứng xử động đất của kết cấu nhà bê tông cốt thép, giúp đánh giá khả năng chịu đựng của kết cấu trước các tác động của động đất.
-
-Hệ số ứng xử động đất được tính toán dựa trên các thông số như độ cứng của kết cấu, độ dẻo của vật liệu, và các tải trọng động đất. Qua đó, có thể xác định được khả năng chịu đựng của kết cấu trước các tác động của động đất, từ đó đưa ra các biện pháp thiết kế và xây dựng phù hợp để đảm bảo an toàn cho công trình.

@@ -1,1 +1,0 @@
-Microsoft Azure (Deploy Backend) Microsoft Azure là nền tảng điện toán đám mây công cộng bao gồm: PaaS – nền tảng dưới, IaaS – cơ sở hạ tầng và SaaS – phần mềm. Tất cả điều ở dạng dịch vụ.

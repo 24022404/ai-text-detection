@@ -1,1 +1,0 @@
-Laravel Imap hỗ trợ 1 số giao thức như: Imap (mặc định), pop3, nntp và 1 số phương thức mã hóa nhằm bảo vệ dữ liệu như: false (không mã hóa), ssl, tls, starttls, tls. Tùy vào email provider (Gmail, Yahoo, Microsoft...) sẽ có cách cấu hình tùy chỉnh khác nhau điểm có thể kết nối đến email và lấy nội dung email về.

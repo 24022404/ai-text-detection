@@ -1,1 +1,0 @@
-Trình quản lý tài nguyên (ResourceManager) có hai thành phần chính: bộ lập lịch (Scheduler) và trình quản lý ứng dụng (Application Manager).

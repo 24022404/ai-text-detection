@@ -1,1 +1,0 @@
-Đều này giúp cho người dùng nhận các thông báo về đơn hàng và bà viết một cách nhanh chóng và hiệu quả. Socket.IO cung cấp các công cụ và thư viện hỗ trợ xây dựng các ứng dụng thờ gan thực, tạo ra các kết nối websocket giữa client và server, cho phép truyền tải dữ liệu ngay lập tức và liên tục.

@@ -1,1 +1,0 @@
-ExpressJs cũng cung cấp các tính năng mở rộng cho phép bạn mở rộng và tùy chỉnh ứng dụng của mình. Bằng cách sử dụng ExpressJS, bạn có thể xây dựng các ứng dụng web đa nền tảng và tương thích với nhiều trình duyệt khác nhau.

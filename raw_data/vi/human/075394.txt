@@ -1,1 +1,0 @@
-Chương 2 trình bày về khảo sát và phân tích yêu cầu của bài toán một cách chi tết. Đưa ra các khảo sát hiện trạng và tổng quát cũng như đặc tả về chức năng Trong Chương 3, em sẽ giới thiệu về công nghệ mình sử dụng đó là VueJs được vết bằng JavaScripts cho phần Front End và phía Backend là công nghệ Java Springboot, những hạn chế cũng như ưu điểm của công nghệ đang sử dụng.

@@ -1,1 +1,0 @@
-Thứ hai là React cung cấp câu lệnh giúp nhà phát triển build mã nguồn hệ thống sang các tệp html, css và js. Tuy nhiên nếu không sử dụng server của React, ta cần sử dụng một server khác để phục vụ các tệp trên kh có yêu cầu phục vụ hệ thống được gửi tới máy chủ production.

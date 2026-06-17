@@ -1,1 +1,0 @@
-Section 2.1.1 has introduced basic ideas of coding theory. In the next section, this thesis provides the commonly used notations and terminologies of this research field.

@@ -1,1 +1,0 @@
-After configuring the backend and data system, I proceeded to build the app as an IPA file for testing on iOS devices. The build process was seamless and didn’t require complex infrastructure.

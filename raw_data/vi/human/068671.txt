@@ -1,1 +1,0 @@
-Ở giao diện danh sách công việc, người sử dụng cũng có thể xem danh sách các ga đoạn và cột mốc. Bằng cách chọn hoặc bỏ chọn các mục ở tuỳ chọn loại công việc (như ở hình 4.21 ), hệ thống sẽ hiển thị danh sách công việc, cột mốc giai đoạn hoặc kết hợp các danh sách trên tùy theo lựa chọn của người sử dụng.

@@ -1,1 +1,0 @@
-Ngoài ra, extJS còn hỗ trợ HMR (Hot Module Replacement  cập nhật lại mô đun kh ứng dụng đang chạy), giúp nâng cao hiệu suất và tăng tốc quá trình phát triển ứng dụng. Đều này cho phép nhà phát triển thực hiện các thay đổi trong mã nguồn của ứng dụng mà không cần tải lại toàn bộ ứng dụng.

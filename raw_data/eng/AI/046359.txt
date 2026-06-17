@@ -1,1 +1,0 @@
-In Odoo, the Id reportfleetid serves as an external identifier in the report action, enabling users to easily customize Qweb reports. By utilizing tags like <header>, <footer>, and <t-call=” ”/>, users can modify report templates to suit their needs. Furthermore, these reports can be generated directly from a wizard, streamlining custom Qweb report creation.

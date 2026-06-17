@@ -1,1 +1,0 @@
-Tạ sao sử dụng PostgreSQL Một cơ sở dữ liệu cấp doanh nghiệp, PostgreSQL tự hào có các tính năng phức tạp như Kiểm soát đồng thời nhiều phiên bản (MVC), khô phục tại thời điểm, không gắn bảng, sao chép không đồng bộ, giao dịch lồng nhau, sao lưu trực tuyến / nóng, trình lập kế hoạch / tối ưu hóa truy vấn phức tạp và gh nhật ký trước cho khả năng chịu lỗ.

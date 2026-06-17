@@ -1,1 +1,0 @@
-Create inventory checklists, which are created by warehouse staff to serve re quests for warehouse import-export, return goods, or regular inventory checksat fixed intervals.

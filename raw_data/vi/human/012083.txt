@@ -1,1 +1,0 @@
-Từ đó đưa ra các chức năng cần phát triển cho ứng dụng của mình các đối tượng sử dụng ứng dụng, nêu ra các chức năng của ứng dụng, trình bày tổng quan, phân tích làm rõ các quy trình nghiệp vụ, đặc tả chi tiết các use case, các yêu cầu phi chức năng. Mỗ chức năng sẽ được mô tả thông qua biểu đồ use case phân rã, quy trình nghiệp vụ, đặc tả chợ tết cho từng use case.

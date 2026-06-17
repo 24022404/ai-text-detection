@@ -1,1 +1,0 @@
-This section provides a comprehensive account of the NMT construction process 3.6. Building upon the achievements of transfer learning, I employ mBart , a state-of-the-art model renowned for its excellence in machine translation tasks.

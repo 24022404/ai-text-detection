@@ -1,1 +1,0 @@
-Đồ án được chia thành 6 chương, các chương tiếp theo phân bổ như sau Chương 2: Phân tích ch tết các yêu cầu và chỉ ra các chức năng hệ thống cần thực hiện.

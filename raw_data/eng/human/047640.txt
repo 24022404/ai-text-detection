@@ -1,1 +1,0 @@
-View: The view is a part of the application that represents the data. The viewcontains interfaces such as buttons, text boxes, menus, images, etc. It is re sponsible for displaying data and allowing users to interact with the system.

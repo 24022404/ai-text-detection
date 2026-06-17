@@ -1,1 +1,0 @@
-Open-Source and Free: PostgreSQL is an open-source database, which meansit is freely available and can be used, modified, and distributed without any licensing costs. This makes it a cost-effective choice for both small and large projects.

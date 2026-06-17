@@ -1,1 +1,0 @@
-Độ tin cậy, tính bảo trì : () Hệ thống không phát sinh các lỗi nghiêm trọng; () Các lỗ phát sinh phải được sửa chữa trong ít hơn 1 ngày.

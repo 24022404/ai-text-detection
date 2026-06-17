@@ -1,1 +1,0 @@
-Workspace Workspace Cập nhật thông tin của Workspace Bảng 4.1: Bảng đặc tả chợ tết lớp Workspace web, Thiết kế lớp trong gói Organization Hình 4.18: Thiết kế chợ tết lớp trong gó OrganzatonĐặc tả lớp OrganzatonVewSet:

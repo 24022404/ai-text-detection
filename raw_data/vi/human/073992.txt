@@ -1,1 +1,0 @@
-Vẫn xét ví dụ chỉ báo OBV phía trên, giá trị recursve_range = 1. Vớ các chỉ báo được tính từ những công thức không hồ quy, giá trị của thuộc tính bằng 0.

@@ -1,1 +1,0 @@
-Hỗ trợ đa nền tảng: Jmp có thể hoạt động trên nhiều nền tảng khác nhau, bao gồm Node.js và trình duyệt web.

@@ -1,1 +1,0 @@
-Lớp Device: thể hiện đối tượng thiết bị trong hệ thống.f, Thiết kế cho tết có AccessControl Hình 4.9: Thiết kế gói Access Control Hình 4.9 thể hiện thiết kế cho tết của gói Access Control. Trong gói Access Control Model có các lớp:

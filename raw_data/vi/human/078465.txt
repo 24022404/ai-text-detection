@@ -1,1 +1,0 @@
-− Vì vậy, đầu tên bạn bắt đầu vết các lớp thay vì tập trung vào thiết kế cơ sở dữ liệu, sau đó khi bạn chạy ứng dụng, Code First API sẽ tạo ra cơ sở dữ liệu mờ hoặc ánh xạ các lớp của bạn vào cơ sở dữ lệu điã t ồn tạ trước khi chạy ứng dụng của bạn.

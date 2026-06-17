@@ -1,1 +1,0 @@
-Chapter 2 offers a practical overview of graduation project topics while evaluating the helpdesk system’s functionality. It delves into system analysis and design, use case diagrams, decomposition of components, and detailed technical specifications for development.

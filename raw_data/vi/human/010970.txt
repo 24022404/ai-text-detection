@@ -1,1 +1,0 @@
-Nhờ những tính chất này mà mạng nơron tích chập có nhiều ưu điểm nổi bật so với mạng nơron thông thường. Bên cạnh hiệu năng cao trên số lượng mẫu cần thiết để đạt được đủ độ chính xác, các mạng nơron tích chập thường có hiệu quả tính toán hơn, bờ đồ nhỏ ít tham số và dễ thực thi song song trên nhiều CPU hơn các kiến trúc mạng kết nối đầy đủ.

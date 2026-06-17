@@ -1,1 +1,0 @@
-Basic technologies for web programming The World Wide Web, the most popular platform utilized by 4.9 billion people worldwide, is the foundation around which our application is built. Therefore, we should have a fundamental grasp of the components that make up a web applicationbefore delving further into the program’s core.

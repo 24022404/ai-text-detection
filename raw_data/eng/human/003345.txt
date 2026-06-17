@@ -1,1 +1,0 @@
-B. Gunel, J. Du, A. Conneau andV. Stoyanov, “Supervised contrastive learning for pre-trained language model fine-tuning,” inInternational Conference on Learning Representations 2021. url:https : / / openreview. net / forum?id=cu7IUiOhujH .

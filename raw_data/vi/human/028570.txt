@@ -1,1 +1,0 @@
-Trong SUMO, mỗ loạ xe có lộ trình rêng và các điặc điểm khác như sự thay điổ gảm tốc, tăng tốc và điộ dà gữa các loạ xe .

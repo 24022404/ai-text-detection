@@ -1,1 +1,0 @@
-J.Sawada, A. Williams, and D. Wong, “Generalizing the classic greedy andnecklace constructions of de bruijn sequences and universal cycles,” the elec tronic journal of combinatorics , P1–24, 2016.

@@ -1,1 +1,0 @@
-Khách: là khách hàng muốn mua sản phẩm. Có thể truy cập trang web tìm kiếm thông tin và xem chi tiết sản phẩm, đăng ký trở thành thành viên.

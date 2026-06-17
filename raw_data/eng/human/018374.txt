@@ -1,1 +1,0 @@
-In the PRIMERA model, two key components require modification to adapt it for the Vietnamese language: the Tokenizer model and the Named Entity Recognition (NER) model.

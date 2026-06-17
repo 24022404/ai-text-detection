@@ -1,1 +1,0 @@
-CSS syntax features a selector that identifies the HTML element to style, followed by a declaration block wrapped in curly braces. This block includes one or more declarations—each consisting of a property and its value—separated by semicolons.

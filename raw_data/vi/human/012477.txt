@@ -1,1 +1,0 @@
-Phần mềm quản lý thông tin đảng viên Phần mềm do các chuyên viên tin học thư viện tỉnh Hậu Giang phát triển và được sử dụng tạ cho bộ thư viện tỉnh Hậu Giang năm 2016.

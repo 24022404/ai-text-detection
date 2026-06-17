@@ -1,1 +1,0 @@
-Thay vì cần giao tiếp với mạng chủ khố, người dùng có thể kiểm tra, truy cập dữ liệu vào hệ quản trị cơ sở dữ liệu thông qua hệ thống Frontend và Backend giúp tăng tốc độ xử lý, tăng trải nghiệm người dùng.

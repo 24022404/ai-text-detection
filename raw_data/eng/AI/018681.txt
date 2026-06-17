@@ -1,1 +1,0 @@
-The local receptive field class processes and filters data, analyzing image information to identify and select regions of the image with the greatest utility.

@@ -1,1 +1,0 @@
-Vớ phương pháp kiểm thử được nếu ở trên, em sẽ xây dựng website để thử nghiệm phương pháp này. Dưới đây là biểu đồ Cmnd Zen phác thảo các yêu cầu chính của website.

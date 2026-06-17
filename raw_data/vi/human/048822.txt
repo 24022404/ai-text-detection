@@ -1,1 +1,0 @@
-Tool windows (Cửa sổ công cụ) cho phép bạn truy cập vào các nhiệm vụ cụ thể như quản lý dự án, tìm kiếm, quản lý phiên bản, v.v. Bạn có thể mở rộng và thu gọn chúng.

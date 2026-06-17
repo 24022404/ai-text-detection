@@ -1,1 +1,0 @@
-Thông tin chung về các đơn mua của khách hàng Trong lịch sử mua sách của khách hàng, em sẽ lấy các thông tin về giá trị đơn mua tối thiểu và trung bình giá trị một đơn hàng điểm sử dụng làm thông tin phân khúc khách hàng. Các thông tin này được cập nhật trực tiếp kh khách hàng đặt mua sản phẩm bằng mã nguồn của ứng dụng thương mại điện tử kinh doanh sách.

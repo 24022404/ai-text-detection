@@ -1,1 +1,0 @@
-Nó khác biệt với việc tập trung vào tích hợp và khả năng mở rộng. Nó hoạt động với nhiều công nghệ khác và phù hợp với các tiêu chuẩn cơ sở dữ liệu khác nhau, đảm bảo nó có thể mở rộng được.

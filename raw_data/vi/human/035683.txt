@@ -1,1 +1,0 @@
-Trong bài báo này chúng tôi xác l ập công th ức liên h ệ giữa tỉ số kép c ủa bốn đường thẳng Lobachevsky đồng quy và tỉ số kép c ủa bốn điểm. K ết quả chính c ủa bài báo là Định lý 2.1 và Hệ quả 2.3.

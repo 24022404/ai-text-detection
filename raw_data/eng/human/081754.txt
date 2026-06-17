@@ -1,1 +1,0 @@
-Solutions Apart from traditional database system, API server would connect to another Redis caching instance and queries’ results would then be cached there. This caching mechanism aims to improve performance and reduce the response time for queries by storing and retrieving frequently accessed data.

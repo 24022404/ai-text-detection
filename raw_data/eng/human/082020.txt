@@ -1,1 +1,0 @@
-The introduction of Long Short-Term Memory LSTMs and the extremely important mechanism known as attention come next. Finally, I will discuss the Transformer architecture, which is the state-of-the-art and currently the most popular strategy for dealing with Seq2seq.

@@ -1,9 +1,0 @@
-Objective: Orphan screening—predicting bioactivity for targets or diseases with few or no labeled compounds—remains a critical bottleneck in early‐stage drug discovery. This work introduces Corresponding Projections, a novel transfer‐learning framework that leverages annotated screening campaigns to improve prediction accuracy on completely unlabeled (or “orphan”) targets.  
-
-Methods: Each screening task is represented by a task descriptor derived from target sequence or assay metadata. We jointly learn projection operators that map compound feature vectors into task‐specific scoring spaces, enforcing alignment (“correspondence”) between projections for well‐characterized and orphan tasks. The model is trained end‐to‐end using a combination of supervised losses on known tasks and a correspondence regularizer that minimizes divergence between projections.  
-
-Results: On three public drug–target interaction benchmarks involving kinase, GPCR, and ion channel families, Corresponding Projections outperforms single‐task baselines (random forest, kernel ridge regression) and standard multi‐task approaches by 8–12% in AUC and 6–9% in early‐enrichment metrics for orphan targets. Ablation studies confirm that the correspondence regularizer is essential for cross‐task knowledge transfer, and sensitivity analyses demonstrate robustness to task‐descriptor noise.  
-
-Conclusion: Corresponding Projections provides an effective and generalizable strategy for orphan screening, enabling more reliable hit‐identification in low‐data regimes. Its modular design allows integration with diverse feature encodings and downstream virtual screening pipelines, accelerating lead discovery for rare or poorly understood targets.  
-
-Keywords: orphan screening; transfer learning; corresponding projections; drug discovery; multi‐task learning.

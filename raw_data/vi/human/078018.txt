@@ -1,1 +1,0 @@
-Lý do cho việc em lựa chọn phép này đó là những hình ảnh chữ viết trên thực tế không thể thẳng hàng, đẹp như ảnh scan. Tuỳ vào góc đứng, góc nhìn của người chụp, cùng một nét chữ cũng có thể tạo ra được nhiều hình ảnh khác nhau. Trong phép bến đổ hình học em sẽ sử dụng ngẫu nhiên một trong 3 phép tăng cường dữ liệu sau: Phép quay, phép bến đỗ affine và phép biến đổi góc nhìn.

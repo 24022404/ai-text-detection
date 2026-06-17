@@ -1,1 +1,0 @@
-Use case manage order Use case diagram of use case supplier manage order is show in figure 2.3 Figure 2.3: Use case manage order The supplier can view the distributor’s order, and they can accept or deny an order. If they take, they have to pick a stock with an amount for each item in the order. After preparing the order, they can change the order’s status to shipping.

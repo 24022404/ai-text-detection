@@ -1,1 +1,0 @@
-a. Not enough money to spend. The hire-with-money button is grayed out, indicating that there is not enough money to hire the staff.

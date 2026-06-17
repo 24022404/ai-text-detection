@@ -1,1 +1,0 @@
-Devices: Các thiết bị phát sóng mà hệ thống sẽ quản lý, mỗ thiết bị thuộc về riêng một Ste (ví dụ: Meraki wireless, Meraki camera, Merak sensor, . . . ). Đố vớ mỗ thiết bị, các thông tin quan trọng nhất cần có: loại thiết bị, địa chỉ MAC, thuộc về Ste nào, trạng thái hoạt động hiện tại.

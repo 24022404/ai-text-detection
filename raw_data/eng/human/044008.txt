@@ -1,1 +1,0 @@
-H. Van Hasselt, A. Guez, and D. Silver, “Deep reinforcement learning with double learning,” in Proceedings of the AAAI conference on artificial intelligence , vol. 30, 2016.

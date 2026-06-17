@@ -1,1 +1,0 @@
-Kvass: bộ dữ liệu được thu thập sử dụng thiết bị nội soi dạ Vestre Viken Health Trust (VS), Na Uy. Ảnh lộ số được gán nhãn polyp bởi các chuyên gia y tế của VN và Cancer Registry, Na Uy. Bộ dữ liệu chứa 1000 ảnh và nhãn tương ứng với độ phân giải khác nhau, từ 332x487 đến 1920x1072 pixel.

@@ -1,1 +1,0 @@
-Hệ thống Thông báo thêm người thành công và hiển thị danh sách những người được chia sẻ của phòng.

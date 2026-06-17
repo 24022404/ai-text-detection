@@ -1,1 +1,0 @@
-R. C. Merkle, “A digital signature based on a conventional encryption func tion,” in Advances in Cryptology - CRYPTO’87 , Springer, 1987, pp. 369– 378. DOI:10.1007/3-540-48184-2_32 .

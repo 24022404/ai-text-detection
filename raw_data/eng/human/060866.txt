@@ -1,1 +1,0 @@
-Database design The entity-relationship diagram is represented on figure 4.17 as follows:Figure 4.17: Entity-relationship diagram The thesis identifies the main entities as Product, User, and Order based on the entity-relationship diagram.

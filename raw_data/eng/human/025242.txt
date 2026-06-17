@@ -1,1 +1,0 @@
-Create feedback•Enter feedback information Click the “Submit” button•A Successful message will appear. New feedback will be in the view feedback in admin/staff interface Delete feedback •Click X item•If the user chooses Yes, the feedback will be deleted.

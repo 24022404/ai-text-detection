@@ -1,1 +1,0 @@
-’Pusher’ => Pusher\Pusher::class, Bước 4 : Để xác định location và mã hóa dữ lệu trên đường truyền ta mở file config/broadcasting.php , thêm 2 dòng dưới đây vào "options" array trong mục cấu hình pusher:

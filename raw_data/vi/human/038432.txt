@@ -1,1 +1,0 @@
-Mố quan hệ "Thuộc" (dsh_dsh_category): Mô tả mố quan hệ gữa món ăn và thể loạ món ăn. Mỗ thể loạ món ăn có nhều món ăn, và mỗ món ăn cũng có nhều thể loạ. Mố quan hệ này được bểu dễn bằng điường kết nối (relatonshp ) gữa thực thể "Món ăn" và "Thể loạ món ăn".

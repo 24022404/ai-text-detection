@@ -1,1 +1,0 @@
-This type of tag is commonly used in cargo control applications, such as certification of origin, automated paperwork and asset management.

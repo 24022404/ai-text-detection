@@ -1,1 +1,0 @@
-External Calls: Any public function of a smart contract can be accessed from any other contract. Attackers can take advantage of these public functions toattack vulnerabilities in smart contracts.

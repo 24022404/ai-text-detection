@@ -1,1 +1,0 @@
-Tăng cường dữ liệu(Data Augmentation) : Như đã trình bày trước đó, các kỹ thuật tăng cường dữ liệu như xoay ảnh, co giãn, lật và các bến đỗ khác có thể được sử dụng để tăng cường kích thước của bộ dữ liệu một cách nhân tạo và giới thiệu các biến thể mà mô hình có thể gặp phải trong thế giới thực.

@@ -1,1 +1,0 @@
-The View is the mobile app itself, which presents the information obtained from the API to the user. It is responsible for rendering the 3D arrows on the camera screen and displaying the proper directions to the user. The View is updated in real-time based on the data received from the API, ensuring that the user always has the most up-to-date information.

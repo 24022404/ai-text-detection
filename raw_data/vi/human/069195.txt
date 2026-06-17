@@ -1,1 +1,0 @@
-Luồng đăng nhập Người dùng điểm đăng nhập sẽ nhập tài khoản và mật khẩu vào giao diện ứng dụng. Sau đó ấn nút đăng nhập, ứng dụng sẽ xử lý yêu cầu đến máy chủ, nếu thành công người dùng sẽ được chuyển điến gao vện sau khi đăng nhập, nếu thất bại sẽ trả về thông báo lỗ. Ch tết luồng hoạt động xem tạ hình 2.7.

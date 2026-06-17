@@ -1,1 +1,0 @@
-Trong phạm vi của bài toán, điểm đơn giản hóa quá trình này, ta ngầm hiểu hệ thống phương tiện tham gia giao thông sẽ tuân thủ hoàn toàn theo đèn tín hiệu. Bên cạnh đó, để có thể đề xuất một số giải pháp tối ưu, ta cũng ngầm định việc có đủ nguồn lực để thay đổi một số yếu tố môi trường như việc thêm hệ thống cảm biến dưới mặt đường.

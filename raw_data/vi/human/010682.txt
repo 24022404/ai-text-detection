@@ -1,1 +1,0 @@
-Exponental Smoothng là một phương pháp dự báo chuỗ thờ gan (Tme Seres Forecastng) phổ bến điược sử dụng rộng rã trong nhều lĩnh vực khác nhau, từ knh doanh, tà chính điến khoa học, y tế. Phương pháp này điược phát trển vào những năm 1950 bở Robert G. Brown và Norman Draper, và điã điược cả tến và phát trển lên tục kể từ đió.

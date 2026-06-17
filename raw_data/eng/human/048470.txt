@@ -1,1 +1,0 @@
-View Description ticket_view.xml Display list,kanban,activity,form view of tickets from model Ticket sla_view.xml Display list, form view of sla from model SLA model Stages_view.xml Display list, form view of Stages from model Stages model Table 4.2: View in Module.

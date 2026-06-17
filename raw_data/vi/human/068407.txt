@@ -1,1 +1,0 @@
-Gả pháp Để giải quyết bài toán này, tác giả đã sử dụng plugin của Paypal là nút thanh toán được tích hợp sẵn tính năng thanh toán trực tiếp. Hình 5.4 biểu diễn luồng hoạt động của nút thanh toán này.

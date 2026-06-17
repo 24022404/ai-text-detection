@@ -1,1 +1,0 @@
-We know that Sigmoid maps each value to the range between 0 and 1. To put it another way, this gate enables the network to learn to forget particular aspects of the cell state based on the current input values and the previous hidden state.

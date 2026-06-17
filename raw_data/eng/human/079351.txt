@@ -1,1 +1,0 @@
-X. Chen and S. Qin, ”Approach to high efficient hierarchical pathfinding of indoor mobile service robots based on grid map and Floyd-Warshall algorithm,” (2017) Chinese Automation Congress (CAC) , Jinan, China, 2017, pp. 6476-6483.

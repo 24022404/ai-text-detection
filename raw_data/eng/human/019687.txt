@@ -1,1 +1,0 @@
-By organizing the frontend into these smaller packages, the codebase becomes more modular, maintainable, and easier to understand, making it convenient for developers to collaborate and enhance the application’s functionality.

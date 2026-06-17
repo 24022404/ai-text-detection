@@ -1,1 +1,0 @@
-Về tính dễ bảo trì ReactJS được thiết kế để tạo ra các thành phần giao diện độc lập với nhau, giúp tăng tính tái sử dụng của mã nguồn và giảm thiểu thờ gan phát triển. Thêm vào đó, ReactJS còn hỗ trợ mô hình lập trình hàm (functional programming), giúp tạo ra các thành phần gạo đen đơn giản, dễ hiểu và dễ bảo trì.

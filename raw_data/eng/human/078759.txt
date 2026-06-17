@@ -1,1 +1,0 @@
-M.-W. C. K. L. K. T. Jacob Devlin, “Bert: Pre-training of deep bidirectional transformers for language understanding,” Association for Computational Linguistics (ACL) , 2019.

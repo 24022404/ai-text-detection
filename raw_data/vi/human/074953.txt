@@ -1,1 +1,0 @@
-Quản lý danh mục sản phẩm: xem danh sách danh mục sản phẩm, thêm, sửa, xóa danh mục.

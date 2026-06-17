@@ -1,1 +1,0 @@
-We provide complete proofs of the lemmas about the properties of the regularized loss function that is used in the second order techniques for learning time-series with structural breaks in Osogami (2021). In addition, we show experimental results that support the validity of the techniques.

@@ -1,1 +1,0 @@
-Một ưu điểm lớn của Docker là khả năng chia sẻ. Nhà phát triển có thể dễ dàng tìm thấy các Page được chia sẻ bởi cộng đồng trên Docker Hub. Đều này giúp giảm bớt thờ gan tạo Image so với cách thông thường, tăng tốc độ phát triển phần mềm.

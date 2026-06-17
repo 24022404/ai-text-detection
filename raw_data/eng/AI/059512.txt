@@ -1,1 +1,0 @@
-PostgreSQL (Postgres) is a powerful and scalable open-source relational database management system renowned for its extensive features. It upholds data integrity and reliability by strictly adhering to ACID principles, making it a dependable choice for diverse applications and workloads.

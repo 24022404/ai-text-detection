@@ -1,1 +1,0 @@
-Chương 4  "Xây dựng hệ thống nhận diện khuôn mặt" sẽ trình bày về thiết kể hệ thống của gả pháp điã trình bày ở Chương 3 bao gồm việc chuẩn bị dữ liệu và kỹ thuật dựng ảnh 3D, huấn luyện mô hình trích xuất đặc trưng khuôn mặt, xây dựng cơ sở dữ liệu và phương thức hoạt động của bộ phân lớp theo hướng tìm kiếm vector vớ luật sử dụng khoảng cách nhỏ nhất.

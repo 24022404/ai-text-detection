@@ -1,1 +1,0 @@
-Specifically for the Gui Manager package, the current packages mostly only support a portion of the UI architecture, such as providing support for creating popups or adding animations to buttons. However, there is a lack of packages that have developed a complete UI management system, which can handle the overall UI structure comprehensively.

@@ -1,1 +1,0 @@
-Phương pháp giải quyết tô đã áp dụng là chuyển tác vụ build docker image từ máy chủ production sang một máy chủ khác (máy tính local hoặc máy chủ development, . . . ).

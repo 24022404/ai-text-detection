@@ -1,1 +1,0 @@
-STOMP  là một giao thức con hoạt động trên WebSocket cấp thấp hơn, được tích hợp và sử dụng trong Spring Boot.

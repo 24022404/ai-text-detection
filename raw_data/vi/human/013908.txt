@@ -1,1 +1,0 @@
-Kiến trúc Client/Server được sử dụng rộng rãi trong các ứng dụng web và mobile, đặc biệt là các ứng dụng có tính tương tác cao với người dùng. Ngoài ra, kiến trúc này cũng được sử dụng trong các hệ thống quản lý cơ sở dữ liệu và các ứng dụng văn phòng.

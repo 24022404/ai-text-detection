@@ -1,1 +1,0 @@
-Do hệ thống hướng đến việc đa dạng cho các thiết bị của người dùng, các loại màn hình có thể chia làm ba loại chính là: laptop, tablet và mobile. Bảng dưới đây cung cấp thông tin chi tiết về các loại màn hình này.

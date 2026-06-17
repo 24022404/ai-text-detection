@@ -1,1 +1,0 @@
-Các lộ trình học phải trả quá trình khởi tạo, soạn nội dung và cuối cùng là kiểm duyệt thì mới có thể được xuất bản sang dịch vụ học.

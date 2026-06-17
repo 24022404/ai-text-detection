@@ -1,1 +1,0 @@
-Long Short Term Memory (LSTM) Trước tên, giới thiệu 1 chút về RNN ( Recurrent neural network) mạng nơ ron truy hồi.ron sử dụng một điầu vào là một vectơ  X và trả ra điầu ra  là một giá trị ẩn  ht. Đầu vào được đấu với một thân mạng nơ ron  A có tính chất truy hồi và thân này được đấu tớ đi cầu ra ht.

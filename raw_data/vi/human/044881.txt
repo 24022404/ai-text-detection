@@ -1,1 +1,0 @@
-. Việc cấu hình cho các thiết bị phải diễn ra một cách tuần tự. Chỉ cho phép người sở hữu dịch vụ mạng và những người được quyền quản lý cấu hình lần lượt từng thiết bị. Đây là một quy trình rất tốn thờ gần và công sức đối với số lượng thiết bị, số lượng network lớn, ở mức doanh nghiệp hoặc địa điểm quy mô rộng.

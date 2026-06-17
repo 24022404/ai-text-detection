@@ -1,1 +1,0 @@
-Through this strategic partitioning of tasks, the web application became moreresilient and responsive. Users could seamlessly interact with the application, un hindered by the algorithm’s computational demands. The resulting data stream, spanning from data acquisition to preliminary insights, ensured a continuous and fluid user experience.

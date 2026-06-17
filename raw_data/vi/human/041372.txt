@@ -1,1 +1,0 @@
-Vớ những ưu điểm trên nên tác giả đã chọn ReactJS điểm sử dụng cho đồ án của mình. Ngoài ra tác giả còn sử dụng thêm thư viện component ant design và talend css để thiết kế giao diện. Sử dụng redux toolkit để quản lý state.

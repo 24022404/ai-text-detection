@@ -1,1 +1,0 @@
-A language model is a model that predicts unseen words based on a given context. It plays a crucial role in Natural Language Processing (NLP) as manydownstream tasks, such as named entity recognition, question answering, and partof speech tagging, rely on its predictions. By accurately predicting unseen words, a language model can be seen as understanding human natural language.

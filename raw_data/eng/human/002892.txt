@@ -1,1 +1,0 @@
-Until now, the system can get, write, read, and search data in elastic search, but I felt that I had just discovered a small part of elastic search.

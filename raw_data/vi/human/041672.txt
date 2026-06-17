@@ -1,1 +1,0 @@
-Hỗ trợ đa nền tảng: MySQL có sẵn cho nhiều hệ điều hành khác nhau bao gồm Windows, Linux, macOS và các nền tảng khác.

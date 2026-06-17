@@ -1,1 +1,0 @@
-A helper function read_process is used to read the output of the Logcat process.–It reads the s of the Logcat output and yields them as events in the format data: <log line> .

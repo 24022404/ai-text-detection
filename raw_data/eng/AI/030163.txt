@@ -1,1 +1,0 @@
-The transition graph of Pnis is Hamiltonian since it can be clustered into an Eulerian graph, as demonstrated.

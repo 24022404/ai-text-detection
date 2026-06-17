@@ -1,1 +1,0 @@
-– RMSProp : RMSprop (Root Mean Square Propagation) is an optimization algorithm commonly used for training neural networks. It is an extension of the Adagrad algorithm that addresses its issue of diminishing learning rates. RMSprop calculates an exponentially weighted moving average ofthe squared gradients and uses it to adjust the learning rate for each parameter.

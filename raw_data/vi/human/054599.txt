@@ -1,1 +1,0 @@
-Bước 3: Xây dựng danh sách gợi ý sản phẩm Dựa vào ma trận tương tự, ta tìm được top khách hàng tương tự với khách hàng hiện tại. Dựa vào lịch sử mua sắm của khách hàng tương tự, ta tìm được danh sách sản phẩm phẩm cần gợi ý.

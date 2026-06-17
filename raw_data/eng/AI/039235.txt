@@ -1,7 +1,0 @@
-Ensuring fairness in machine learning models is a critical challenge, as biased representations can lead to discriminatory outcomes. Existing fairness-aware learning methods often struggle to balance fairness and utility, especially in complex, high-dimensional feature spaces. To address this issue, we propose a novel framework for Fairness by Learning Orthogonal Disentangled Representations (FLOD), which aims to eliminate bias while preserving task-relevant information.
-
-Our approach leverages orthogonal disentanglement to separate sensitive attributes from predictive features in the learned representation space. Specifically, we enforce an orthogonality constraint during training to ensure that the sensitive attribute subspace is independent of the target task representations. Additionally, we introduce an adversarial debiasing module that minimizes mutual information between the two subspaces, further enhancing fairness without sacrificing model performance.
-
-Experiments on benchmark fairness datasets demonstrate that FLOD achieves state-of-the-art fairness-accuracy trade-offs, significantly reducing disparate impact and demographic parity violations. These results highlight the effectiveness of disentangled, orthogonal representations in mitigating bias while maintaining predictive power in machine learning models.
-
-Keywords: Fairness in Machine Learning, Disentangled Representations, Orthogonality Constraint, Bias Mitigation, Adversarial Debiasing, Ethical AI.

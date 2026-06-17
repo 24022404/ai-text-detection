@@ -1,9 +1,0 @@
-Objective: Graph Neural Networks (GNNs) often rely on data augmentation to improve generalization, but existing methods apply fixed perturbations that may not suit diverse graph structures. This paper introduces GABO, a novel framework that learns optimal graph augmentations through bi‐level optimization.
-
-Methods: GABO formulates graph augmentation as an inner optimization problem, where augmentation parameters (e.g., edge dropping, feature masking rates) are adapted to maximize task performance. The outer loop minimizes the downstream loss (e.g., node classification or graph classification) by updating GNN weights. This bi‐level scheme enables dynamic augmentation strategies tailored to each dataset and learning objective. We implement GABO within a gradient‐based meta‐learning pipeline, ensuring efficient parameter updates without heavy computational overhead.
-
-Results: We evaluate GABO on four widely used benchmarks (Cora, Citeseer, MUTAG, and PROTEINS) across node and graph classification tasks. Compared to state‐of‐the‐art fixed and learned augmentation techniques, GABO consistently achieves superior accuracy, with up to 5.2% improvement in node classification and 4.7% in graph classification. Ablation studies confirm the importance of the bi‐level formulation and the flexibility of learned augmentation schedules. Moreover, GABO demonstrates enhanced robustness to noisy edges and feature perturbations.
-
-Conclusion: GABO offers a principled approach to adaptive graph augmentation, boosting GNN performance while maintaining computational efficiency. Its ability to tailor augmentations automatically suggests broad applicability to diverse graph‐based tasks, including recommendation systems, molecular property prediction, and social network analysis.
-
-Keywords: Graph augmentation, Bi‐level optimization, Graph neural networks, Data augmentation, Representation learning

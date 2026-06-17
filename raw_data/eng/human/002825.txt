@@ -1,1 +1,0 @@
-UIpackage is dedicated to building all user interfaces in the game. As a mo bile game, Funny Zoo’s UI mainly consists of a main screen screen and several popups. UIpackage contains presenter components (in MVP pattern) that bind to corresponding uGUI objects (see previous section c).

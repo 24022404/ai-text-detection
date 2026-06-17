@@ -1,1 +1,0 @@
-Dễ dàng kiểm tra: dễ dàng hơn trong việc kiểm tra, rà soát lỗ do được phân tách một cách độc lập controller, service, repository.

@@ -1,1 +1,0 @@
-*Thêm mớ Blog *Sửa Blog *Xóa Blog Use case Quản Lý Báo Cáo Bình Luận Blog Hình 2.9: Use case phân rã quản lý báo cáo bình luận Blog –Tác nhân : Admn –Chức năng Blog:*Xóa bình luận *Phê duyệt bình luận Use case Quản Lý Báo Cáo Bình Luận Công Thức Hình 2.10: Use case phân rã quản lý báo cáo bình luận công thức –Tác nhân : Admn –Chức năng Blog:

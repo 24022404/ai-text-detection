@@ -1,1 +1,0 @@
-Streamlit’s design philosophy simplifies web application development by han dling the reactive updates behind the scenes, making it easier for developers to create interactive applications directly from their Python code.

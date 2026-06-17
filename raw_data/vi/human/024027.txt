@@ -1,1 +1,0 @@
-XAMPP là một công cụ rất hữu ích cho các nhà phát triển web kh cần phát triển, kiểm tra và sửa lỗi các ứng dụng trên máy tính của mình trước khi đưa lên môi trường sản phẩm. Nó giúp người dùng tết kệ thờ gan và công sức để cài đặt và cấu hình các thành phần chính của môi trường phát triển web một cách đơn giản và nhanh chóng.

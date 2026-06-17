@@ -1,1 +1,0 @@
-The stride parameter, represents the number of pixels you need to move each time you slide the filter over the image. When stride is 1, we move the kernel by 1 pixel. When stride is 2( figure 2.8) then we move the kernel by 2 pixels and so on.

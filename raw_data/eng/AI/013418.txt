@@ -1,1 +1,0 @@
-Supervised learning trains models using labeled data to predict outcomes, whereas unsupervised learning seeks to uncover hidden patterns and structures within data that lack labels or predefined categories.

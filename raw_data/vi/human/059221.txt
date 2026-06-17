@@ -1,1 +1,0 @@
-Chức năng gợ ý các khóa học lên quan: dựa vào những khóa học mà học viên đã mua trước đió, hệ thống tự động điưa ra những gợ ý về các khóa họccó nộ dung tương đồng, có thể sẽ thu hút sự chú ý của học vên.

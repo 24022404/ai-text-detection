@@ -1,9 +1,0 @@
-Objective: High-dimensional generalized linear models (GLMs) with grouped predictors benefit from nonconvex penalties—such as SCAD and MCP—for improved group selection and reduced shrinkage bias. However, fitting these models efficiently remains challenging due to nonconvexity and group structure. This work introduces an iterative algorithm tailored to nonconvex penalized GLMs with grouped covariates.
-
-Methods: We develop a block‐wise majorization‐minimization framework that transforms the nonconvex objective into a sequence of convex surrogates. At each iteration, group‐wise updates are performed via coordinate descent, leveraging closed‐form thresholding rules for SCAD and MCP penalties. We establish convergence to a stationary point under mild regularity conditions and derive bounds on estimation error.
-
-Results: In simulation studies covering logistic and Poisson regression, our algorithm achieves lower group selection error and bias compared to existing convex (group lasso) and local approximation methods, while requiring comparable or less computation time. On a real‐world genomics dataset, it identifies biologically meaningful gene sets with improved predictive accuracy.
-
-Conclusion: The proposed iterative procedure offers a practical and theoretically grounded solution for fitting nonconvex penalized GLMs with grouped predictors. Its convergence guarantees, computational efficiency, and superior selection performance make it suitable for large‐scale applications in genomics, imaging, and other high‐dimensional domains.
-
-Keywords: nonconvex penalty, generalized linear model, grouped predictors, SCAD, MCP, majorization‐minimization, block coordinate descent.

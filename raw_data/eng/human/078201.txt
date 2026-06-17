@@ -1,1 +1,0 @@
-For example, the system currently lacks a discount function. However, I plan to continue to refine the system to address these shortcomings in the future.

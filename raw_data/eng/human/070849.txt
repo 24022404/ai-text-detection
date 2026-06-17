@@ -1,1 +1,0 @@
-Bootstrap : Simplifies the design of the frontend interface with its prebuilt responsive components, ensuring a consistent and user-friendly experience across devices.

@@ -1,1 +1,0 @@
-I conduct a thorough analysis and give an insightful behaviour of representation space in the continual relation extraction setting via the spectral viewpoint.

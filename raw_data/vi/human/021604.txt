@@ -1,1 +1,0 @@
-Không hỗ trợ mở rộng sọc: Mặc dù MySQL có thể mở rộng ngang (horizontal scaling) điểm xử lý tã lớn bằng cách sử dụng cụm máy chủ (cluster), nhưng nó không hỗ trợ mở rộng dọc (vertical scaling) trên một máy chủ đơn lẻ. Đều này có thể hạn chế khả năng mở rộng dự án khi phải đối mặt với yêu cầu tăng cường hiệu suất từ một máy chủ đơn.

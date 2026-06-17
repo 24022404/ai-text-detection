@@ -1,1 +1,0 @@
-Phần footer của trang web sẽ chứa các thông tin về phiên bản và tên của ứng dụng, giúp người dùng có thể dễ dàng theo dõi và cập nhật các thông tin mới nhất về ứng dụng của mình.4.2.2 Thiết kế lớp Hình 4.9: Thiết kế chợ tết lớp CreateSellOrder Hình 4.9 mô tả thiết kế chợ tết lớp CreateSellOrder – có vai trò tạo đơn hàng.

@@ -1,9 +1,0 @@
-Objective: This paper investigates the theoretical performance of nonparametric reinforcement learning (RL) methods by deriving regret bounds for kernel-based algorithms in continuous Markov decision processes (MDPs). Our goal is to bridge the gap between practical kernel-based value estimation and provable guarantees on cumulative suboptimality.
-
-Methods: We introduce KernelUCRL, an RL framework that combines kernel ridge regression in a reproducing kernel Hilbert space (RKHS) with an optimism-under-uncertainty exploration strategy. At each episode, the agent fits transition and reward functions via kernel methods, constructs high-probability confidence sets around these estimates, and computes an optimistic policy by planning over the induced confidence MDP.
-
-Results: We prove that KernelUCRL achieves a regret bound of Õ(√T · ‖f*‖_ℋ), where T is the total time horizon and ‖f*‖_ℋ denotes the RKHS norm of the true value function. This bound scales sublinearly in T, matching the minimax rate for tabular settings up to kernel-dependent factors. Empirical simulations on benchmark continuous control tasks confirm that KernelUCRL outperforms baseline algorithms in sample efficiency while maintaining computational tractability.
-
-Conclusion: Our analysis provides the first regret guarantees for nonparametric, kernel-based RL in continuous spaces, offering dimension-free performance bounds under smoothness assumptions. These results pave the way for principled deployment of kernel methods in high-dimensional, real-world decision-making problems.
-
-Keywords: reinforcement learning, regret analysis, kernel methods, RKHS, nonparametric RL, continuous MDP.

@@ -1,1 +1,0 @@
-One of the special requirements of the Model in the MVC architecture for the game system is to be able to handle events and interact with players. The model needs to respond quickly to the player's actions, such as moving, attacking, and using skills. It also needs to manage in -game resources, including items, money and scores, ensuring fairness and game balance.

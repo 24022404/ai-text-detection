@@ -1,1 +1,0 @@
-Qua phân tích về dữ liệu như trên em rút ra được các thực thể của hệ thống và các thuộc tính dữ liệu bao gồm:

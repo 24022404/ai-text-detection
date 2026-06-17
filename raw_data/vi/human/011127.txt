@@ -1,1 +1,0 @@
-(d)MySQL là một trong những hệ thống quản lý cơ sở dữ lệu (CSDL) mã nguồn mở quan hệ SQL sử dụng trên web phổ biến nhất hiện nay.

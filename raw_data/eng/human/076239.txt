@@ -1,1 +1,0 @@
-R. Bao, L. Huang, J. Andrade, et al., “Review of current methods, appl ca tons, and data management for the bioinformatics analysis of whole exome sequencing,” Cancer informatics , vol. Cancer Informatics 2014, pp. 67–82, Sep. 2014. DOI:10.4137/CIN.S13779 .

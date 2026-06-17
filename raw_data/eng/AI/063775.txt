@@ -1,9 +1,0 @@
-In the realm of machine learning, Generalized Zero-Shot Learning (GZSL) aims to classify instances from previously unseen categories by leveraging knowledge from seen classes. However, a notable challenge persists in domain-aware visual bias, which skews model predictions towards seen classes, thereby undermining performance for unseen categories. This study introduces a novel approach to mitigate this bias and enhance GZSL models.
-
-Methods/Approach: We propose a Domain-aware Visual Bias Eliminating (DVBE) framework that dynamically adjusts feature representations to reduce the bias towards seen domains. The framework incorporates a domain adaptation module that refines visual features by learning domain-specific adjustments, and a bias calibration technique to balance the prediction scores between seen and unseen classes. Our approach also incorporates feature normalization and semantic alignment strategies to further enhance learning.
-
-Results/Findings: Experimental evaluations demonstrate that DVBE significantly improves classification accuracy on several benchmark GZSL datasets, outperforming contemporary methods. It effectively reduces the bias towards the seen classes and increases the model's ability to correctly classify unseen categories, resulting in a more balanced performance across both seen and unseen domains.
-
-Conclusion/Implications: The proposed DVBE framework provides a substantial contribution to the GZSL field by addressing the critical issue of domain-aware visual bias. By enhancing model performance across diverse datasets, it opens up pathways for deploying zero-shot learning in practical applications where unseen class recognition is crucial. Future directions may focus on scaling this methodology to more complex, multi-modal data environments.
-
-Keywords: Generalized Zero-Shot Learning, GZSL, Domain-aware Bias, Visual Bias Elimination, Domain Adaptation, Machine Learning.

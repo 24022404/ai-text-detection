@@ -1,1 +1,0 @@
-Store sau khi nhận thông tin, tiến hành cập nhật dữ lệu (có thể hiểu việc cập nhật dữ lệu ở đây giống việc cập nhật status của Component).

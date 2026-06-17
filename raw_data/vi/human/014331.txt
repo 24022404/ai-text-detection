@@ -1,1 +1,0 @@
-Tính dễ dùng Do đối tượng hướng tới của hệ thống CMS là các thầy cô, những người ngoài ngành công nghệ thông tin và thường sẽ không quá thành thạo về các thao tác trên máy tính nên phía giao diện của hệ thống CMS phải đảm bảo đơn giản, dễ làm quen, tiếp cận và thao tác đối với cả người soạn nội dung lẫn người kiểm duyệt.

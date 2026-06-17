@@ -1,1 +1,0 @@
-Truyền thông SPI: SPI (tiếng Anh: Serial Peripheral Interface, tạm dịch: Gao den Ngọa v Nối tiếp) là một chuẩn truyền thông nối tiếp đồng bộ được sử dụng để truyền dữ liệu trong khoảng cách ngắn, thường được sử dụng trong các hệ thống nhúng.

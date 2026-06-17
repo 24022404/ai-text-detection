@@ -1,9 +1,0 @@
-This research addresses the challenge of training deep action recognition networks, which require large and diverse labeled video datasets. Acquiring and annotating such data is time-consuming and labor-intensive. This study explores the use of procedural generation to create synthetic training videos, aiming to enhance the robustness and accuracy of action recognition models.
-
-Methods/Approach: We propose a novel approach leveraging procedural content generation techniques to produce a wide variety of synthetic video scenarios depicting different actions. These generated videos are used to train deep learning models for action recognition. The models are evaluated on their ability to recognize actions in both synthetic and real-world scenarios, underscoring the effectiveness of the generated content.
-
-Results/Findings: Experimental results demonstrate that models trained on procedurally generated videos perform on par with, and in some instances exceed, the performance of those trained on real-world datasets. The abundant diversity and controlled environment of the synthetic datasets enable the networks to generalize better to unseen real-world videos. Comparative analysis also shows a reduced requirement for manual labeling, significantly lowering costs and effort involved in curating training datasets.
-
-Conclusion/Implications: The study highlights the potential of procedural video generation as a viable solution to the data scarcity problem in training action recognition networks. This approach not only reduces the dependence on costly video collection and annotation processes but also improves model accuracy and robustness. The findings pave the way for broader applications in video analysis and surveillance systems, where real-time and precise action recognition is critical.
-
-Keywords: procedural generation, action recognition, deep learning, synthetic datasets, video analysis, AI models.

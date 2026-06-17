@@ -1,1 +1,0 @@
-hoặc –input_file [output_file]: cho phép tìm với một tệp đầu vào chứa một hoặc nhiều biến thể, mỗ biến thể trên mỗi dòng, chẳng hạn như file VCF.

@@ -1,1 +1,0 @@
-Hậu điều kiện Bảng 2.8: Đặc tả use case chia sẻ phòng 2.3.6 Đặc tả use case xem danh sách người tham gia Tên use case Xem danh sách người tham gia Tác nhân Người dùng Mô tả Người dùng có thể xem danh sách những người đang tham gia trong phòng code.

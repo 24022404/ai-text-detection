@@ -1,5 +1,0 @@
-Ngành xây dựng và cơ sở hạ tầng thành phố Cần Thơ đang đối mặt với thách thức lớn khi phải xử lý hậu quả của ngập lụt. Để giải quyết vấn đề này, các nhà khoa học đã tập trung nghiên cứu ứng dụng giải đoán ảnh viễn thám trong xây dựng bản đồ thiệt hại ngập lụt thành phố Cần Thơ.
-
-Kết quả nghiên cứu cho thấy giải đoán ảnh viễn thám có thể giúp xác định khu vực bị ảnh hưởng bởi ngập lụt, đánh giá mức độ thiệt hại và dự đoán khả năng xảy ra ngập lụt trong tương lai. Phương pháp này cũng có thể hỗ trợ việc lập kế hoạch và triển khai các biện pháp phòng ngừa và khắc phục hậu quả ngập lụt.
-
-Bằng việc ứng dụng giải đoán ảnh viễn thám, các nhà xây dựng và cơ sở hạ tầng thành phố Cần Thơ có thể nhanh chóng và chính xác xác định khu vực cần được xử lý, từ đó triển khai các biện pháp khắc phục và phòng ngừa ngập lụt hiệu quả hơn. Điều này sẽ giúp bảo vệ tài sản và đảm bảo an toàn cho người dân trong thành phố.

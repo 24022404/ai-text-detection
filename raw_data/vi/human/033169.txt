@@ -1,1 +1,0 @@
-Nơ sử dụng Dựa vào khả năng tính toán của Numpy, tô đã sử dụng nó trong việc tính toán sự sai lệch về vị trí của các sản phẩm, từ đó đưa ra các kết luận cần thiết. Ngoài ra, Numpy còn được sử dụng trong việc so sánh các vector đặc trưng nhận được từ mô hình Facenet.

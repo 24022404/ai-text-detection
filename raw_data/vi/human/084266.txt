@@ -1,1 +1,0 @@
-Ch tết các phương thức của từng class được thể hiện trong hình 4.11. Hình vẽ thực hiện thiết kế lớp cho tết trong package Controller Hình 4.11: Thiết kế chợ tết lớp trong package Controller b, Thiết kế chợ tết lớp Product, Project và Cetera Hình 4.12 là hình thiết kế cho tết một số lớp đại diện trong package Entity. Bao gồm các class Product, class Project, class Crtera.

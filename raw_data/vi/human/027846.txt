@@ -1,1 +1,0 @@
-Sau khi tạo tài khoản nhân viên mới thành công, hệ thống sẽ gửi một email cho nhân viên đió điểm xác nhận tài khoản và cung cấp thông tin đăng nhập vào hệ thống.

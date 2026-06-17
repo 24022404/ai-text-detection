@@ -1,1 +1,0 @@
-Sử dụng kiến trúc phần mềm MVC Hệ thống trong đồ án này được triển khai dựa trên kiến trúc phần mềm MVC.

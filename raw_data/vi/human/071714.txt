@@ -1,1 +1,0 @@
-Vớ hệ thống siêu tham số như trên, ta có thể tiến hành huấn luyện mô hình và sử dụng kết quả huấn luyện để tiếp tục quá trình tối ưu hệ thống tham số.

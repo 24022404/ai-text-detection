@@ -1,1 +1,0 @@
-Xây dựng trang dịch vụ tuyển dụng trong lĩnh vực điều dưỡng ở Nhật và Việt Nam. Dịch vụ này sẽ làm cầu nối cho điều dưỡng viên và cơ sở điều dưỡng.

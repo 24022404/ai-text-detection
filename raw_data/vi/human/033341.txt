@@ -1,1 +1,0 @@
-Tên phương thức Đầu vào Đầu ra Phạm vi truy cập Mô tả Timkiemsanpham Product Name Product Public Tìm kiếm sản phẩm theo tên Giasanpham ProductId ProductId Public Xóa sản phẩm theo Id Bảng 4.5: Mô tả ch tết các thuộc tính trong lớp Product Detail Admin.

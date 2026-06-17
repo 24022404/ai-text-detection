@@ -1,1 +1,0 @@
-Nhóm chức năng xem thông tin: xem thông tin homestay, thông tin phòng, thông tin đơn đặt phòng, cát bà review điểm đến, bình luận và đánh giá, thông tin cá nhân. . .

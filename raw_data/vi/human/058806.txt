@@ -1,1 +1,0 @@
-Nâng cấp và hoàn thiện khả năng của hệ thống trở thành một hệ thống nhận dạng và đưa ra cảnh báo tức thời cho người tham gia giao thông trong một chương trình hoàn chỉnh. Afshne Amd, Shervne Amd, Convolutonal neural networks cheat sheet .

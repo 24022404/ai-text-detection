@@ -1,1 +1,0 @@
-J. Kirkpatrick, R. Pascanu, N. Rabinowitz andothers , “Overcoming catastrophic forgetting in neural networks,” Proceedings of the National Academy of Sciences , jourvol 114,number 13,pages 3521–3526, 2017. DOI:10.1073/pnas.

@@ -1,1 +1,0 @@
-Đều này giúp việc trển kha ứng dụng trên nhều mô trường khác nhau rất thuận lợ, bở thực chất ứng dụng chỉ hoạt động trong không gan Contaner của nó mà thô.

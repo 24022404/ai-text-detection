@@ -1,1 +1,0 @@
-Two Two là dịch vụ cho phép xây dựng ứng dụng liên quan đến việc gửi và nhận các tin nhắn và cuộc gọi trên điện thoại.

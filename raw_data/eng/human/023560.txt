@@ -1,1 +1,0 @@
-Real-time notificationsDespite having already put much efforts into the project, it is important to ac knowledge that Trendz has yet to attain a state where it can be widely and optimally utilized by its intended user base. While several features are still missing, real-time notifications emerge as a prominent requirement that remains unaddressed.

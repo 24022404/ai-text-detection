@@ -1,1 +1,0 @@
-When you click on a ticket in the list view, a detailed view appears, providing comprehensive information such as the issue description, customer details, communication history, and any related attachments for better ticket management and resolution.

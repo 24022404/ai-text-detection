@@ -1,1 +1,0 @@
-transformers: pp install transformers torch: pp install torch sklearn: pip install sklearn argparse: pp install argparse Sau khi cài đặt xong sẽ xác định các đối số đầu vào cho mô hình bằng argparse được thể hiện trong đoạn code dưới đây:

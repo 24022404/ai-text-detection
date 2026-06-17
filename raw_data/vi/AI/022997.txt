@@ -1,9 +1,0 @@
-Dự đoán đường cong ứng suất - Biến dạng cho quá trình kéo nén vật liệu tấm SS400 bằng phương pháp pha trộn
-
-Các nhà khoa học đã thực hiện nghiên cứu về quá trình kéo nén vật liệu tấm SS400 bằng phương pháp pha trộn. Kết quả cho thấy rằng, đường cong ứng suất của vật liệu tấm SS400 có thể được dự đoán một cách chính xác bằng cách sử dụng phương pháp pha trộn.
-
-Phương pháp pha trộn được sử dụng để mô hình hóa quá trình kéo nén vật liệu tấm SS400. Kết quả cho thấy rằng, vật liệu tấm SS400 có thể được phân loại thành ba giai đoạn khác nhau: giai đoạn đàn hồi, giai đoạn biến dạng tuyến tính và giai đoạn biến dạng phi tuyến.
-
-Giai đoạn đàn hồi được mô tả bởi một đường cong thẳng đứng, trong khi giai đoạn biến dạng tuyến tính được mô tả bởi một đường cong cong. Giai đoạn biến dạng phi tuyến được mô tả bởi một đường cong phức tạp.
-
-Kết quả nghiên cứu cho thấy rằng, phương pháp pha trộn có thể được sử dụng để dự đoán đường cong ứng suất của vật liệu tấm SS400 một cách chính xác. Điều này có thể giúp các nhà sản xuất và kỹ sư trong việc thiết kế và chế tạo các sản phẩm từ vật liệu tấm SS400.

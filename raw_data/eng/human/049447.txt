@@ -1,1 +1,0 @@
-M. Zaheer, G. Guruganesh, K. A. Dubey andothers , “Big bird: Transformers for longer sequences,” Advances in Neural Information Processing Systems , jourvol 33, 2020.

@@ -1,1 +1,0 @@
-Contract: Đây là package tương tác với smart contract, có tác dụng xử lý các yêu cầu thực hiện giao dịch.

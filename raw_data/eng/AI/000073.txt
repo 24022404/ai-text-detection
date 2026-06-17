@@ -1,1 +1,0 @@
-Clicking the Screenshot button captures an image and shows a log to let you know if the screenshot was taken successfully or not.

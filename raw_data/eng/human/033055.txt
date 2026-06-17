@@ -1,1 +1,0 @@
-Threat Intelligence Sharing : The insights gained from the app can be shared within the security community, contributing to the broader understanding of emerging threats. Security researchers can use the app as a starting point for further investigation and collaboration, enhancing the collective knowledge about Android malware.

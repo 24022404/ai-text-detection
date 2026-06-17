@@ -1,1 +1,0 @@
-Tên use case Quản lý vé tháng Tác nhân Nhân viên Mô tả use case Nhân viên tiếp nhận thẻ cứng của khách hàng để tạo vé tháng, gia hạn hoặc hủy vé tháng Tiền điều kện Nhân vên điã điăng nhập Luồng sự kiện chính Tạo vé tháng:

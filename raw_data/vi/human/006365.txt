@@ -1,1 +1,0 @@
-Cài đặt công cụ certbot theo hướng dẫn  Chạy lệnh sau để yêu cầu chứng thư HTTPS và cấu hình vớ Ngnx: sudo certbot –ngnx –regsterunsafelywthoutemal Nhập tên mền của máy ảo: ehustvppr01.southeastasa.cloudapp.azure.com và thực hiện theo hướng dẫn.

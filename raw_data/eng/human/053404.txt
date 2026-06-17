@@ -1,1 +1,0 @@
-Unlabeled datasets When it comes to news datasets, NewsCorpus1is one of the largest Vietnamese news datasets containing 14.896.998 documents with unlabeled summaries crawled from about 143 Vietnamese news websites. This can be treated as a single-document summarization dataset since the title and sapo text are provided for each document.

@@ -1,1 +1,0 @@
-Controller : Đây là thành phần chính trong mô hình MVC, là thành phần trung gian giữa View và Model. Nó có nhiệm vụ thao tác với cơ sở dữ lệu qua tầng Model và xử lý các yêu cầu từ tầng Vew điểm thực hiện logc nghiệp vụ.

@@ -1,1 +1,0 @@
-Threshold: Show the minimum threshold about whether a word is considered gen eral enough to represent a topic. If a word only appears few times across the whole dataset, it may have a significant weight, which is something we do not want (e.g:

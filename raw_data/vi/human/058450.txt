@@ -1,1 +1,0 @@
-Reactjs là một công nghệ điểm xây dựng hệ thống website frontend nhanh chóng, dễ dàng và dễ học. Về phía backend em chọn Nodejs điểm xây dựng, cơ sở dữ lệu (CSDL) là MySQL.

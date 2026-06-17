@@ -1,1 +1,0 @@
-Nếu số lượng sản phẩm của cửa hàng nhiều lên thì thờ gan để tính ma trận tương đồng sẽ là rất lớn.

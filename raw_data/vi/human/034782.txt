@@ -1,1 +1,0 @@
-Lazy loading  là kỹ thuật thực hiện trì hoãn (deferred) tả các tài nguyên không quan trọng (noncritical resources) vào thời điểm tả trang (page load time). Thay vì trả ngay lập tức, các tài nguyên không quan trọng này chỉ tả vào thời điểm cần thiết (moment of need).

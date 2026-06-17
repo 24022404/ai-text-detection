@@ -1,1 +1,0 @@
-Tìm và tải xuống các trang web một cách hệ thống và trích xuất thông tin từ các trang đã tải xuống. Cả hai bước này có thể thực hiện theo nhiều cách khác nhau và bằng nhiều ngôn ngữ lập trình.

@@ -1,1 +1,0 @@
-Ấn vào bểu tượng X ở món ăn muốn xóa 3. Ấn xác nhậnHển thị thông báo xác nhận xóa Cập nhật lạ giao diện sau khi xóa TC004 Kểm tra chức năng xóa món ăn1.Ấn vào mục menu trên thanh công cụ.

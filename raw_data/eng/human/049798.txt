@@ -1,1 +1,0 @@
-Authentication and Authorization ServiceThe service helps authorizing requests and differentiate them from other unauthorized ones. It also has its own database, which stores users’ information, sub scriptions for registered users and confirmation tokens used in registration and forget password use cases.

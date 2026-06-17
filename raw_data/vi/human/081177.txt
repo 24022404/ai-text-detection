@@ -1,1 +1,0 @@
-Gó model: chứa các định nghĩa cho các đối tượng (object) trong ứng dụng, cung cấp các phương thức để thao tác trực tiếp với CSDL như truy vấn, thêm, sửa, xóa dữ liệu.Hình 4.3: Sơ đồ gió client Góc view: chứa các trang giao diện người dùng.

@@ -1,1 +1,0 @@
-Chương 2 :Nền tảng lý thuyết . Trình bày lý thuyết cơ bản về học máy, học sâu, các mạng nơ ron thường gặp và bà toán phân vùng ảnh.

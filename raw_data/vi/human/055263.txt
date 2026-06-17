@@ -1,1 +1,0 @@
-. Giới thiệu JSON Web Token (JWT) là một tiêu chuẩn mở cho việc truyền thông tin giữa các bên trong một ứng dụng web hoặc di động. JWT được sử dụng rộng rãi trong việc xác thực và phân quyền truy cập cho các ứng dụng web và di động.

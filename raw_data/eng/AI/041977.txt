@@ -1,1 +1,0 @@
-A framework serves as a basic, pre-built foundation, providing structure and stability for projects. However, the responsibility of designing and constructing the details falls to us, so the final outcome reflects our decisions.

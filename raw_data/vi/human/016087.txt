@@ -1,1 +1,0 @@
-Tầng vào (input layer): Là tầng bên trái cùng của mạng thể hiện cho các điầu vào của mạng.của mạng.

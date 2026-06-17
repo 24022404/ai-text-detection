@@ -1,1 +1,0 @@
-epson = 0.2: Giá trị ϵtrong hàm mục tiêu của phương pháp PRP. Giá trị 0.2 được tác giả khuyến nghị cho hầu hết bài toán.

@@ -1,1 +1,0 @@
-Customized Analysis Features : The app will provide tools that cater to the specific needs of security researchers, such as the ability to integrate with other malware analysis frameworks or create custom reports. These features allow researchers to go beyond the basic analysis and perform a more tailored and detailed investigation.

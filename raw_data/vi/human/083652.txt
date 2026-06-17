@@ -1,1 +1,0 @@
-Đăng nhập: Nhân viên cần phải đăng nhập qua trang này, nhưng sẽ được cấp quyền riêng biệt sau khi đăng nhập thành công.

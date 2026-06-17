@@ -1,1 +1,0 @@
-Tuy nhên, PostgreSQL sau đió cũng điược điều chỉnh lnh động điể có thể chạy điược trên nhều nền tảng khác nhau như Mac OS X, Solars và Wndows.

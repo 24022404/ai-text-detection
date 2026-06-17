@@ -1,1 +1,0 @@
-getAttachments: Lấy danh sách file đính kèm vớ email (các file đính kèm này sẽ được lưu lạ vào folder storage để hiển thị khi người sử dụng muốn xem ch tết nội dung email và cho phép tải các file đính kèm này về).

@@ -1,9 +1,0 @@
-Objective: Formal Concept Analysis (FCA) provides a principled way to extract and organize knowledge from binary relations by constructing concept lattices, but its combinatorial nature limits scalability and integration with modern machine‐learning pipelines. This paper introduces FCA2VEC, a novel embedding framework that transforms formal contexts and their derived concepts into continuous vector spaces while preserving lattice structure and semantic relationships.
-
-Methods: FCA2VEC adapts neural embedding techniques—drawing inspiration from skip‐gram models and graph representation learning—to generate low‐dimensional embeddings for objects, attributes, and concepts. We define sampling strategies over concept lattices and contextual windows in formal contexts, and employ negative sampling to optimize vector representations. The approach is evaluated on synthetic and real‐world datasets, including text corpora and knowledge‐base snapshots.
-
-Results: Experiments demonstrate that FCA2VEC embeddings achieve over 20% improvement in concept similarity correlation and 15% higher accuracy in concept membership prediction compared to baseline aggregation and matrix‐factorization methods. Qualitative analyses show that vector arithmetic captures lattice join and meet operations, and that clustering in embedding space recovers meaningful sublattices.
-
-Conclusion: FCA2VEC bridges classical FCA and contemporary representation learning, enabling efficient concept exploration, visualization, and downstream tasks such as classification and recommendation. By offering a scalable, trainable interface to concept lattices, FCA2VEC paves the way for real‐time knowledge discovery in large‐scale and dynamic datasets.
-
-Keywords: Formal Concept Analysis, embeddings, representation learning, concept lattices, neural vectors.

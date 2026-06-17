@@ -1,1 +1,0 @@
-extJS còn hỗ trợ việc tự động chia nhỏ mã code thành các gói (bundle) riêng biệt, búp gảm thờ gan tả trạng và cải thiện trải nghiệm người dùng. Việc này đặc biệt hữu ích đối với các ứng dụng có nhiều tính năng và trải nghiệm phức tạp.

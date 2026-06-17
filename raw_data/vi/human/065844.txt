@@ -1,1 +1,0 @@
-Trên điây là các bước phục vụ cho chức năng tạo mớ chỉ báo cá nhân được phân hệ quản lý và lập lịch trình tính toán chỉ báo thực hiện. Đây cũng là chức năng cuố trong 03 chức năng chính được mô tả của phân hệ này.

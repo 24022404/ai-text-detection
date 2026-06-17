@@ -1,1 +1,0 @@
-Yêu cầu ứng dụng chỉ cho người dùng được phép có quyền truy cập vào dữ liệu và tính năng phù hợp với vai trò và quyền hạn của họ.

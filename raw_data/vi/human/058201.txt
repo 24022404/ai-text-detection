@@ -1,1 +1,0 @@
-Ở bảng assettypes sẽ có trường form là một mảng dùng điể lưu danh sách những trường tùy chỉnh của loạ thư vện đió. Các phần tử là một JSON gồm d,name ,note,type.

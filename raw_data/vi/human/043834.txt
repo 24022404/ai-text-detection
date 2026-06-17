@@ -1,1 +1,0 @@
-Có thể thấy Expressjs không chỉ đơn giản và mạnh mẽ mà còn linh hoạt và phù hợp cho nhiều loại ứng dụng web và API khác nhau, là một trong những lựa chọn hàng đầu cho các lập trình viên khi sử dụng vớ Node.js.

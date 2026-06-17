@@ -1,1 +1,0 @@
-The use case diagram in Figure 4.6 provides a high-level overview of the system’s functionalities. It has some normal functions as well as some specific func tion, I will refer to some specific function later in Chapter 3.

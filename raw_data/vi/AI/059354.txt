@@ -1,7 +1,0 @@
-Tấm bàng vật liệu có cơ tính biến thiên (FGM) là một loại vật liệu đặc biệt được thiết kế để có khả năng biến đổi cơ tính theo điều kiện môi trường. Trong phân tích tĩnh và động riêng của tấm bàng FGM, các nhà khoa học đã áp dụng lý thuyết biến đổi để mô tả sự thay đổi của cơ tính theo chiều dày của tấm.
-
-Phân tích tĩnh của tấm bàng FGM cho thấy rằng vật liệu có khả năng chịu lực và độ bền cao hơn so với vật liệu thông thường. Tuy nhiên, sự biến đổi của cơ tính theo chiều dày cũng dẫn đến sự thay đổi của độ cứng và độ dẻo của vật liệu.
-
-Phân tích động riêng của tấm bàng FGM cho thấy rằng vật liệu có khả năng hấp thụ và truyền tải năng lượng hiệu quả hơn so với vật liệu thông thường. Sự biến đổi của cơ tính theo chiều dày cũng ảnh hưởng đến tần số và hình dạng của sóng động riêng.
-
-Tóm lại, phân tích tĩnh và động riêng của tấm bàng FGM cho thấy rằng vật liệu này có khả năng biến đổi cơ tính theo điều kiện môi trường, dẫn đến khả năng chịu lực, độ bền, độ cứng và độ dẻo cao hơn so với vật liệu thông thường.

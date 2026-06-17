@@ -1,1 +1,0 @@
-Sau khi đưa qua BartPho em sẽ thu được danh sách các từ gợi ý và đưa danh sách đi qua phần lọc kết quả. Tạ đây, sẽ lọc khỏi danh sách các ký tự đặc biệt hay dấu câu.

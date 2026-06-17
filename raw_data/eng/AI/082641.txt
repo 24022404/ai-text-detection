@@ -1,7 +1,0 @@
-This paper introduces InfographicVQA, a novel approach to Visual Question Answering (VQA) that focuses on infographics, a unique and increasingly prevalent form of visual data. The objective is to develop an intelligent system capable of understanding and interpreting the complex, multimodal information presented in infographics to answer questions accurately. 
-
-To achieve this, we propose a multimodal fusion model that combines computer vision and natural language processing techniques. Our approach leverages a graph-based representation of infographic elements and a transformer-based architecture to capture both visual and textual cues. 
-
-Experimental results demonstrate the effectiveness of InfographicVQA, outperforming baseline models on a newly created infographic-based VQA dataset. Key findings include significant improvements in answer accuracy for questions that require integrating information from multiple infographic elements. 
-
-The contributions of this research lie in its innovative application of multimodal learning to the domain of infographics, enhancing the capabilities of VQA systems. This work has potential applications in areas such as data visualization, education, and accessibility, where the ability to understand and interact with complex visual information is crucial. Key keywords: InfographicVQA, Visual Question Answering, Multimodal Fusion, Computer Vision, Natural Language Processing.

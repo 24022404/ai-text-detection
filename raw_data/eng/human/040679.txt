@@ -1,1 +1,0 @@
-Generate API Logs Report : This sub-use case allows the user to generate a report summarizing all monitored API calls, including network requests and suspicious activities. The report can be downloaded in various formats, such as PDF or JSON, for further analysis or sharing with colleagues.

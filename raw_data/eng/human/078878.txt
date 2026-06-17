@@ -1,1 +1,0 @@
-In chapter 2, requirements of the software are first described through use case diagrams. Brief description as well as specification of some important use cases of the system are then presented. These include activities that a player can do in on as well as off game sessions. Finally, chapter 2 lists some non-functional requirements of the system.

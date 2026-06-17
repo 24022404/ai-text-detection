@@ -1,1 +1,0 @@
-Postconditions : The user can view the security analysis report, which includes any identified vulnerabilities or issues within the file.

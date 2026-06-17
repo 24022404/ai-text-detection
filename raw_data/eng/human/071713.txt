@@ -1,1 +1,0 @@
-Detailed package design The Detailed Package Design subsection provides an in-depth view of the project’s package structure, which was introduced in the Overall Package Design section.

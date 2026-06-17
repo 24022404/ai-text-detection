@@ -1,1 +1,0 @@
-This produces the attention scores, which are then multiplied element-wise with the values Vto obtain the weighted sum and the new representation of the query.

@@ -1,1 +1,0 @@
-Tiếp sau là Chương 4 , chương này em sẽ trình bày về thiết kế của hệ thống bao gồm: Thiết kế về kiến trúc của hệ thống, thiết kế về giao diện và thiết kế về cơ sở dữ lệu.

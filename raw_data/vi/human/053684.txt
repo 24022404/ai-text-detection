@@ -1,1 +1,0 @@
-Số tiền mua hàng trong kỳ: Tổng giá trị tiền hàng mà khách hàng đã mua từ thờ gan bắt đầu đến thờ gần kết thúc.

@@ -1,1 +1,0 @@
-Input: Số tên: 0, Tên ngân sách: "Ngân sách tháng 8", Ngày bắt đầu: 01/08/2023, Ngày kết thúc: 31/08/2023, Loạch tiêu: "Ăn uống" Expected output: Ngân sách không được tạo thành công và hệ thống thông báo lỗi "Số tiền phải lớn hơn 0".

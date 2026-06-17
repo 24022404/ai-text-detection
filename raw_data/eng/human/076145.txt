@@ -1,1 +1,0 @@
-ISO 14443-2 : This part defines the communication modes between the card and the card reader. It covers data communication methods, how data fieldlengths are determined, and communication rates. It also defines the specifi cations for the control signals and how the devices should be operated.

@@ -1,1 +1,0 @@
-figure 4.2 is sample UML package diagram of service reviews:Figure 4.2: UML package diagram of 1 micro service Application in webbff depends on application contract of micro services if it need. While The Http.Client in webbff depend on all http.client of micro service.

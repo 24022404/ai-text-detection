@@ -1,1 +1,0 @@
-After scanning the RFID tags on the products, the collected information is theinitial inventory check result or evidence of the presence of goods in the ware house, including (i) RFID tags and (ii) their current storage location. The software application will receive this information and process it. It will compare the results obtained with the stored data on the system.

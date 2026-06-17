@@ -1,1 +1,0 @@
-In this scope of application, I used JWT in authorization User and Admin in the system. When the user successfully logs in using their credentials, a JSON Web Token will be returned. Whenever the user wants to access a protected route or resource, the user sends the JWT, in the Authorization header.

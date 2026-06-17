@@ -1,1 +1,0 @@
-Các chỉ báo chạy định kì Các trình tính toán chỉ báo sẽ được chạy sau khi dữ liệu giao dịch được cập nhật. Cụ thể vớ phân hệ này, các trình tính toán được chạy ngay sau khi trình thu thập hoàn thiện phần cập nhật dữ liệu của phên giao dịch vào datasource tcker_data" Do vậy các chỉ báo cần được điặt lịch chạy định kì 01 lần/ ngày sau khi phên giao dịch của thị trường kết thúc.

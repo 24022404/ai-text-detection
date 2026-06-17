@@ -1,1 +1,0 @@
-Thông báo hiện lên và danh sách khóa học được cập nhật.Đạt Bảng 5.3: Kiểm thử cho tết lộ trình học 5.3.2 Kiểm thử danh sách lộ trình học đã nộp STT Trường hợp kiểm thử Các bước thực hiện Kết quả mong muốn Đánh giá 1 Kiểm tra tính năng tìm kiếm 1. Trỏ chuột vào ô tìm kiếm.

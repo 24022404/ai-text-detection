@@ -1,1 +1,0 @@
-MySQL cũng có hiệu suất tốt, đặc biệt trong việc xử lý cơ sở dữ lệu nhỏ và trung bình, cũng như trong các tác vụ đọc dữ lệu nhiều. Nó cũng hỗ trợ khả năng mở rộng thông qua các kỹ thuật như sao chép và phân vùng dữ lệu, giúp nâng cao khả năng mở rộng của hệ thống.

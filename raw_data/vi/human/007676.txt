@@ -1,1 +1,0 @@
-Gả pháp sử dụng thêm bản ghi session có thể là một lựa chọn tốt hơn so với JWT vì tính bảo mật cao hơn và khả năng quản lý số lượng phên đăng nhập đồng thờ tốt hơn. Tuy nhiên, cũng cần xem xét các hạn chế của giải pháp này như đò hỏ tài nguyên hệ thống và tính đồng bộ giữa client và server.

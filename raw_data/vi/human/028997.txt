@@ -1,1 +1,0 @@
-Chương 4 trình bày các thiết kế cho tết của hệ thống, từ thiết kế kiến trúc điến thiết kế góc, thiết kế lớp, thiết kế giao diện. Sau đó, sản phẩm  các kết quả đạt được sau quá trình phát triển sẽ được trình bày, cùng với quá trình kiểm thử và triển khai sản phẩm trong thực tế.

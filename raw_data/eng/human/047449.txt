@@ -1,1 +1,0 @@
-S. El Tantawy, B. Abdullah, and H. Abdel Gawad, “Design of reinforcement learning parameters for seamless application of adaptive traffic signal control,” Journal of Intelligent Transportation Systems , vol. 18, no. 3, pp. 227–245, 2014.

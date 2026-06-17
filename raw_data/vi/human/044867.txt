@@ -1,1 +1,0 @@
-Khách hàng truy cập vào phần gửi thông báo trên hệ thống ; 2. Khách hàng nhập tiêu đề và nội dung của thông báo ; 3. Khác hàng lọc ra những người dùng mình muốn gửi thông báo đến; Kết quả mong đợi Thông báo được gửi đến người dùng.

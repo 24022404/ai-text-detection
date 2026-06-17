@@ -1,1 +1,0 @@
-There is a wish to determine which findings were suppressed during static analysis, without requiring access to the complete scan or detailed results of the analysis.

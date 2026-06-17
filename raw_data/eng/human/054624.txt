@@ -1,1 +1,0 @@
-M. Guo, J. Ainslie, D. Uthus andothers , “LongT5: Efficient text-to-text transformer for long sequences,” inFindings of the Association for Computational Linguistics: NAACL 2022 Seattle, United States: Association for Computational Linguistics, july 2022, pages 724–736. DOI:10 . 18653 / v1 / 2022 .

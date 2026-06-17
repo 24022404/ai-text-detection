@@ -1,1 +1,0 @@
-Optimization of e-commerce web applications is one of the most important factors for businesses to maximize their profits. Using React to build an e-commerce web application will make optimization easier and faster.

@@ -1,1 +1,0 @@
-Chọn button thay đổi trạng thái CV3. Chuyển trạng thái CV thành "Chờ phỏng vấn"1Kg chọn option “Chờ phỏng vấn” thì hiển thị popup điền thông tin thờ gan, lnk phỏng vấn online và người phụ trách. Nếu người dùng ấn “Cancel” thì trạng thái của CV không bị thay đổi. Nếu người dùng ấn “Submit” thì trạng thái CV thay đổi thành “Chờ phỏng vấn”.

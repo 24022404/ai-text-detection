@@ -1,1 +1,0 @@
-Bước 1. Cài đặt gt Bước 2. Cài đặt Nodejs (version 14.17.0) Bước 3. Tải source code (mã nguồn) Bước 4. Chạy lệnh npm install trên từng thư mục Bước 5. Chạy lệnh npm start trên từng thư mục để khởi chạy trang web Chương này em xin trình bày những nội dung đóng góp mà mình thấy tâm đắc nhất trong suốt quá trình làm ĐATN.

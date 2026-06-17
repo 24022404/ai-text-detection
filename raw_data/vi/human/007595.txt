@@ -1,1 +1,0 @@
-Mỗ đơn vị/cá nhân sử dụng chữ ký số sẽ được cấp một ID số dựa theo chứng thư số được xác thực bởi nhà cung cấp dịch vụ chữ ký số ủy thác TSP. Người ký sẽ xác thực mọ giao dịch ký liên quan đến khóa bí mật của mình bằng cách sử dụng ID và mã PIN cá nhân để xác minh danh tính thông qua thiết bị điện thoại/máy tính.

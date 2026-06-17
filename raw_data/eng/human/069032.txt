@@ -1,1 +1,0 @@
-W. Hamilton, Z. Yng, and J. Leskovec, “Inductive representation learning on large graphs,” Advances in neural information processing systems , vol. 30, 2017.

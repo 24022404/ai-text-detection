@@ -1,1 +1,0 @@
-Cuối cùng, sẽ cập nhật tính năng tăng tính tương tác giữa các thành viên trong công ty với nhau, như là cập nhật bảng xếp hạng nhân viên, chia sẻ kiến thức, học tập, ... J. Turnbull, The Docker Book: Containerization is the new virtualization .

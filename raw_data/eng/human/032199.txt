@@ -1,1 +1,0 @@
-Container Isolation : Containers offer isolation from the host system and other containers. This isolation ensures that applications running in one container do not interfere with other containers or the host system.

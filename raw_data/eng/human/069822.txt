@@ -1,1 +1,0 @@
-Real-Time Alerts: Implement real-time alerts and notifications based on user defined criteria, keeping users informed about significant market changes that align with their investment goals.

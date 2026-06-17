@@ -1,1 +1,0 @@
-OpenCV plays a vital role in medical imaging applications, enabling efficient image segmentation, object recognition, and detailed analysis.

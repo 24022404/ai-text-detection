@@ -1,1 +1,0 @@
-Một chuỗi (k, s)-run length limited de Bruijn (RdB) là chuỗi có độ dài n, vừa là chuỗi de Bruijn bậc k, vừa là chuỗi s-run length limited (s-RLL) cũng có độ dài n, đảm bảo các tính chất của hai loại chuỗi này.

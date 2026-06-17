@@ -1,1 +1,0 @@
-Thử nghiệm phương pháp học tăng cường với các cấu hình khác nhau của mô trường và mô hình. Đạt kết quả tốt với mức thời gian chờ trung bình của các phương tiện giảm 45% và độ dài hàng chờ game 21%.

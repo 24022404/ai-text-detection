@@ -1,1 +1,0 @@
-Database Laravel sử dụng một bểu mẫu Actve Record Database điể cho phép việc lấy, thêm, cập nhật thông tin vào trong Database với số dòng code ngắn nhất. Trong một và trường hợp chỉ cần 1 hoặc 2 dòng code là có thể thực hiện được một hành động tương tác với dữ lệu trong Database. Laravel hỗ trợ các hệ quản trị cơ sở dữ lệu như sau:

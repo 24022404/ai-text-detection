@@ -1,1 +1,0 @@
-Surveillance and security: OpenCV is used in surveillance and security systems for tasks such as face detection, motion detection, and object tracking.

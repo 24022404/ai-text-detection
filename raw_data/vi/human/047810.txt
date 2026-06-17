@@ -1,1 +1,0 @@
-Các hướng giải bài toán dựng khuôn mặt 3D với học sâu Qua tìm hiểu, có một số kỹ thuật học sâu quan trọng được sử dụng trong việc khôi phục khuôn mặt, bao gồm Mạng nơron Tích chập (CNNs), Autoencoders, và Mạng đối nghịch sanh (GANs).

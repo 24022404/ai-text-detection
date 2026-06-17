@@ -1,1 +1,0 @@
-While a neural network with a single layer can still make approximate predictions, additional hidden layers can help to optimize and refine for accuracy.

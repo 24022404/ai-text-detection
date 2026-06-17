@@ -1,1 +1,0 @@
-Xây dựng cấu trúc Ontology: Xây dựng cấu trúc Ontology dựa trên các thực thể, mối quan hệ và thuộc tính đã xác định. Đều này có thể được thực hiện thông qua sử dụng các ngôn ngữ tiêu chuẩn như RDF (Resource Description Framework) hoặc OWL (Web Ontology Language).

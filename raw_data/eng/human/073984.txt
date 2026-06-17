@@ -1,1 +1,0 @@
-The API Package communicates with the RESTful API to receive the path data and perform other necessary tasks, such as updating the database with new infor-mation. The Data Package communicates with the API Package to retrieve the path data.

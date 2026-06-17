@@ -1,1 +1,0 @@
-Chức năng quản lý dự án: Chức năng này được quản lý bởi người đứng đầu bộ phận (Administrator) hoặc người quản lý dự án (Project Manager). Các chức năng quản lý dự án bao gồm việc : thêm, sửa, xóa, cập nhật thông tin dự án, thêm người kiểm thử (Pentest) vào dự án.

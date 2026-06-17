@@ -1,1 +1,0 @@
-Kiến trúc của sản phẩm là kiến trúc Flux, như được đề cập trong phần 4.1.1, được phát triển riêng cho các dự án dùng React, dựa trên kiến trúc quen thuộc làM VK. Em đã tìm hiểu và áp dụng kiến trúc vào trong dự án, cho cả phía website quản trị.

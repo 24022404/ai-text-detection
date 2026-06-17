@@ -1,1 +1,0 @@
-Định hướng công nghệ: Công nghệ Laravel là một framework phát triển ứng dụng web mạnh mẽ và linh hoạt. Nó cung cấp nền tảng để xây dựng và quản lý các chức năng cơ bản của một trang web bán hàng như xem sản phẩm, giỏ hàng, thanh toán và quản lý đơn hàng. Laravel được phát triển dựa trên ngôn ngữ lập trình PHP, với cấu trúc code dễ hiểu và hỗ trợ nhiều tính năng tiện ích.

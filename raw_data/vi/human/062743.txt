@@ -1,1 +1,0 @@
-Gó "Model" của module Candidate (Ứng viên) cũng chứa các gói Quản lý đơn ứng tuyển, Quản lý CV, Quản lý tài khoản và Tìm kiếm công việc. Các gói này chứa các class như Recruitment, Review, Job,... tham chiếu tới các bảng tương ứng trong cơ sở dữ lệu.

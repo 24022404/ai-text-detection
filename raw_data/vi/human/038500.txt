@@ -1,1 +1,0 @@
-Worker Module có chức năng đồng bộ dữ liệu từ blockchain về hệ thống cũng như xử lý các transaction về chuyển đổi token, mua game tem, mua bán, đấu giá, v.v của người dùng.

@@ -1,1 +1,0 @@
-Monster Spawn Manager Class: lớp này quản lý số lượng quá tạo ra trên một khu vực, độ khó của loại quá đói và thờ gian chờ giữa những lần tạo quá.

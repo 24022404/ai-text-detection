@@ -1,1 +1,0 @@
-Render: được sử dụng để chuyển điổ các ngoạ lệ vào phân hồ HTTP mà phải được gửi lạ trình duyệt.

@@ -1,1 +1,0 @@
-Kết quả trả về kh so sánh ha khung hình liên tiếp có giá trị lớn hơn area mn và nhỏ hơn area max thì sẽ được xác định là có chuyển động, ngược lại kết quả là không phát hiện thấy chuyển động.

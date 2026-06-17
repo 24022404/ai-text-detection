@@ -1,1 +1,0 @@
-Trong đó điểm nổi bật và đặc sắc của mô hình này là có sự kết hợp của một mô hình thị giác và mô hình ngôn ngữ trong cùng một kiến trúc. Tổng quan luồng hoạt động của CABInet  được biểu diễn như hình bên dưới.

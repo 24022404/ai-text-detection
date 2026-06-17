@@ -1,1 +1,0 @@
-HTML, CSS, JavaScrpt : Magento sử dụng các ngôn ngữ này điể thết kế giao diện người dùng và xây dựng các chức năng tương tác trên trang web.

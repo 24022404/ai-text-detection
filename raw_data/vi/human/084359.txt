@@ -1,1 +1,0 @@
-Bên phía máy chủ em sử dụng môi trường NodeJS dưới bộ khung là ExpressJS điểm xây dựng và kết nối với cơ sở dữ liệu.

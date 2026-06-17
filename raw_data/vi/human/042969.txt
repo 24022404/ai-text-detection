@@ -1,1 +1,0 @@
-Vệc tính toán này dường như không cần thết nếu vùng nguồn và điểm điích điặt cách xa nhau, vì các AGV khác điã điể lạ mù chất chống pheromone ở những vùng này có thể đã bến mất vào lúc AGV sẽ đi qua vùng này. Tính toán này có thể dẫn đến hành v lập kế hoạch điường đi kỳ lạ.

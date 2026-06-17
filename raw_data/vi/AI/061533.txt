@@ -1,7 +1,0 @@
-Hệ thống điều khiển ánh sáng thông minh với nhận dạng động bằng cử chỉ tay được triển khai để tạo ra một môi trường sống và làm việc thông minh hơn. Hệ thống này sử dụng công nghệ nhận dạng cử chỉ tay để điều khiển ánh sáng theo nhu cầu của người dùng. Với khả năng nhận dạng cử chỉ tay động, người dùng có thể dễ dàng điều khiển ánh sáng mà không cần phải sử dụng remote hoặc ứng dụng di động.
-
-Hệ thống này bao gồm các thành phần chính như cảm biến cử chỉ tay, bộ xử lý trung tâm và hệ thống điều khiển ánh sáng. Cảm biến cử chỉ tay được sử dụng để nhận dạng cử chỉ tay của người dùng, sau đó bộ xử lý trung tâm sẽ xử lý và gửi tín hiệu đến hệ thống điều khiển ánh sáng để điều chỉnh ánh sáng theo nhu cầu của người dùng.
-
-Hệ thống này có thể được ứng dụng trong nhiều lĩnh vực như nhà ở, văn phòng, bệnh viện và các không gian công cộng. Nó không chỉ giúp người dùng điều khiển ánh sáng một cách dễ dàng mà còn giúp tiết kiệm năng lượng và giảm thiểu sự lãng phí.
-
-Với sự phát triển của công nghệ, hệ thống điều khiển ánh sáng thông minh với nhận dạng động bằng cử chỉ tay sẽ trở thành một phần không thể thiếu trong cuộc sống hàng ngày của chúng ta.

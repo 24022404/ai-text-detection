@@ -1,1 +1,0 @@
-This sub-use case allows users to efficiently move through code sections by scrolling, jumping directly to specific methods or classes, or searching for particular code fragments as needed during software development.

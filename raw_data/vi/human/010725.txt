@@ -1,1 +1,0 @@
-Cách đăng nhập bằng phương thức OAuth được đánh giá là an toàn cho người dùng cuối. Đầu tên, các ứng dụng (các website, mobile app) yêu cầu ủy quyền để truy cập vào resource Server như (Gmail, Facebook, Github,. . . ) thông qua user.

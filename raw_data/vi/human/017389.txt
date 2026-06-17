@@ -1,1 +1,0 @@
-ReactJS được thiết kế điểm tập trung vào tính năng tái sử dụng và dễ bảo trì của mã. Nó sử dụng cách tiếp cận khai báo gao den (declarative approach) điểm mô tả cách mà giao diện người dùng của ứng dụng web nên được hiển thị dựa trên trạng thái của ứng dụng.

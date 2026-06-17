@@ -1,1 +1,0 @@
-request (Job Search Request): các trường tìm kiếm Exception: Không STT Tên Kiểu dữ liệu trả về Mô tả (mục đích) 4 getJobDetail ServiceResult Lấy ch tết công việc Parameter:

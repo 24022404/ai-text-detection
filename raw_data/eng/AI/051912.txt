@@ -1,9 +1,0 @@
-Objective: This paper addresses the challenge of domain shift in machine learning systems, where models trained on one data distribution perform poorly when deployed on novel target domains. We focus on both domain generalization—learning models that are robust to unseen domains—and domain adaptation—adapting models when limited target data are available.  
-
-Methods: We propose a unified framework called FAR (Feature Alignment and Restoration) that combines two complementary modules. First, a feature alignment module employs adversarial and moment-matching losses to align source-domain feature distributions in both marginal and class-conditional spaces. Second, a feature restoration module leverages a lightweight generative network to reconstruct domain-specific information lost during alignment, preserving critical cues for downstream tasks. During adaptation, the restoration network is fine-tuned on a small set of unlabeled target samples, enabling flexible adjustment to new domains without catastrophic forgetting.
-
-Results: We evaluate FAR on three standard benchmarks (Office-Home, VisDA-2017, and DomainNet) under multiple generalization and adaptation protocols. FAR consistently outperforms state-of-the-art methods, achieving up to 5.4% average accuracy gain in domain generalization and 7.1% in unsupervised domain adaptation. Ablation studies confirm that the joint alignment–restoration design is key to balancing distribution invariance and feature expressiveness.
-
-Conclusion: FAR offers a principled solution to domain shift by harmonizing distribution alignment with information preservation. Its modular design supports seamless extension to other vision and language tasks, paving the way for more reliable deployment of deep models in real-world, heterogeneous environments.
-
-Keywords: domain generalization, domain adaptation, feature alignment, feature restoration, adversarial learning, deep generative models.

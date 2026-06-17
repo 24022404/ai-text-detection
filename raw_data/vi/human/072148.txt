@@ -1,1 +1,0 @@
-ChatBox: Nơ kha báo các trường trong bảng chatBoxes, mỗ điố tượng của struct này thể hiện 1 phòng trò chuyện (1 chat box).

@@ -1,1 +1,0 @@
-Để phù hợp với nhau cầu bài toán, thông tin về dữ lệu sở thích người dùng sẽ được lên kết với nhau bằng khoá chính và các thông tin sử dụng trong môđun phân nhóm là các cột trong bảng dữ lệu về khách hàng nên em chọn hệ quản trị MySQL. Sau đây là các thiết kế cho tết các bảng trong cơ sở dữ lệu trong phân hệ phân tích dữ lệu và ứng dụng.

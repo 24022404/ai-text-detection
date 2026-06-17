@@ -1,1 +1,0 @@
-Kiến trúc mạng Neural MLP ( Multi layer perceptron) Multilayer perceptron (MLP) là mô hình mạng nơ ron được sử dụng rộng rãi nhất.

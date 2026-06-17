@@ -1,1 +1,0 @@
-Data source : là kết quả của kết nối đề cập ở trên. Ví dụ: Kết nối tới tài khoản Facebook Ads sẽ tạo ra một nguồn dữ lệu. Các nguồn dữ lệu cho phép người dùng tiếp cận dimension (thuộc tính của dữ lệu, giúp mô tả dữ lệu) và metric (các dữ lệu dạng số, có thể định lượng và dễ dàng tính toán bằng các phép tính thông thường) từ tài khoản đó.

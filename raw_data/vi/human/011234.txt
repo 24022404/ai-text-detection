@@ -1,1 +1,0 @@
-Ứng dụng quản lý được triển khai trên máy chủ đám mây Digitalocean và sử dụng hệ quản trị cơ sở dữ liệu Postgres được trên khay trên NeoDB. Việc lưu trữ tập tin được thực hiện trên dịch vụ lưu trữ S3 của AWS.

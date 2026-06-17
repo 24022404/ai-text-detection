@@ -1,1 +1,0 @@
-The Controller is responsible for processing user requests and building an ap propriate model and passing it to the view for rendering.

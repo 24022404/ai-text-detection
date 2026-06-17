@@ -1,1 +1,0 @@
-Tính lặp: Dự án sẽ được thực hiện trong các phân đoạn lặp đi lặp lại. Các phân đoạn này thường có khung thờ gan ngắn (từ một đến bốn tuần). Trong mỗi phân đoạn này, nhóm phát triển thực hiện đầy đủ các công việc cần thiết như lập kế hoạch, phân tích yêu cầu, thiết kế, triển khai, kiểm thử để cho ra các phần nhỏ của sản phẩm.

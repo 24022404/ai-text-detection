@@ -1,1 +1,0 @@
-All dependencies flow inwards in Clean Architecture, and Core is independent on any other layer. And the Infrastructure and Presentation layers are dependent on the Core.

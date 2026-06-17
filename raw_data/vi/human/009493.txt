@@ -1,1 +1,0 @@
-Redux Redux  là một thư viện quản lý trạng thái (state management) cho ứng dụng JavaScript. Redux được sử dụng phổ biến trong các ứng dụng web, đặc biệt là các ứng dụng React.

@@ -1,1 +1,0 @@
-Tác nhân Quản trị viên: Tất cả các chức năng của quản trị viên phải đăng nhập vào hệ thống mớ có thể thực hiện được.

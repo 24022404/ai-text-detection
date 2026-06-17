@@ -1,1 +1,0 @@
-Bitcoin BIP-0039 Contributors, Bip39: Mnemonic code for generating de terministic keys , Bitcoin Improvement Proposal, Accessed on 2023-06-19, 2013. [Online]. Available:  /blob/master/bip-0039.mediawiki .

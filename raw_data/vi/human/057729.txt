@@ -1,1 +1,0 @@
-Dễ dàng tích hợp: React Native có thể dễ dàng tích hợp với các thư viện và công nghệ khác như Redux, GraphQL, Firebase, v.v.

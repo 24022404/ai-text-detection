@@ -1,1 +1,0 @@
-A logged-in user is able to leave a comment on any existing post, enabling interaction and engagement within the platform’s community.

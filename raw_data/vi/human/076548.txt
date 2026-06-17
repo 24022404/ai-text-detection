@@ -1,1 +1,0 @@
-Bước 2: tiến hành trượt bộ lọc theo chiều từ trái qua phải, từ trên xuống dưới với bước nhảy S, ta sẽ tính được các giá trị tiếp theo.

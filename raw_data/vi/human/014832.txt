@@ -1,1 +1,0 @@
-Từ việc xác định rõ nhiệm vụ cần giải quyết ở phần 1.2, gả pháp em đặt ra là xây dựng một hệ thống Web tích hợp dành cho cả người du lịch và chủ homestay.

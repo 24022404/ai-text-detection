@@ -1,1 +1,0 @@
-Toàn vẹn dữ lệu : Có rất nhều tính năng điể điảm bảo tính toàn vẹn của dữ lệu, bao gồm khóa chính (prmary keys), khóa ngoạ (foregn keys), ràng buộc duy nhất (unque), ràng buộc notnull và ràng buộc loạ trừ (check constrant).

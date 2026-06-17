@@ -1,1 +1,0 @@
-These algorithms all try to solve the same problem: Learn how to convert every input into the exact output of which it belongs.

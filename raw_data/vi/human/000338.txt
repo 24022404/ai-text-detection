@@ -1,1 +1,0 @@
-Xây dựng tính năng đăng ký cho người dùng, cho phép người dùng nạp tền điể có thể xem phm vớ hình thức trả phí, để xem các bộ phm hot vớ chất lượng cao sớm nhất.

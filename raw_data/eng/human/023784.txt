@@ -1,1 +1,0 @@
-A. Gattal, F. Abbas and. R. Laouar, “Automatic parameter tuning of k means algorithm for document binarization,” Proceedings of the 7th International Conference on Software Engineering and New Technologies 2018, pages 1–4.

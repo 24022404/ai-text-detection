@@ -1,1 +1,0 @@
-Material UIMaterial UI is the most powerful and efficient tool for developing an appli cation by incorporating designs and animations, as well as combining technological and scientific innovation. It is essentially a design language created by Google in 2014. It includes additional design and animations, a grid system, and shadows and lighting effects.

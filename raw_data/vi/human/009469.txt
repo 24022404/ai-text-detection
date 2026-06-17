@@ -1,1 +1,0 @@
-Apache Kafka Apache Kafka là nền tảng streamng (trực tếp) dữ liệu sự kện. "Dữ liệu sự kện" ở điây có nghĩa rằng điố tượng mà Kafka quan tâm là những gì đang xảy ra xung quanh chúng ta. Mỗ sự kện, mỗ điều xảy ra điều có thể được chuyển thành các bản gh và được lưu trữ trong Kafka.

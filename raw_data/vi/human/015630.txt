@@ -1,1 +1,0 @@
-Cho phép tương tác với các trình duyệt web, tùy chỉnh các yêu cầu và phản hồi dữ liệu dựa trên các tùy chọn.

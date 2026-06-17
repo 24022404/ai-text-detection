@@ -1,1 +1,0 @@
-Tần điều kiện Người dùng đã đăng nhập vào hệ thống Hệ thống có cơ sở dữ lệu chứa dữ lệu cần tìm kiếm.

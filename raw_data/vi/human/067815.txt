@@ -1,1 +1,0 @@
-diện cho một biến thể được phát hiện, dữ liệu tương ứng với các cột được chỉ định trong tiêu đề và phả được phân tách bằng các tab và kết thúc bằng một dòng mới. Trong mọi trường hợp, các cột không có giá trị phải được biểu thị bằng dấu chấm (‘.’).Hình 3.9: Phần nội dung trong file VCF Phần dữ liệu bao gồm 8 thông tin bắt buộc:

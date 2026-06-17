@@ -1,1 +1,0 @@
-Đầu tên, Admin truy cập vào trang quản trị viên, tiến hành tạo Widget. Đền đầy đủ thông tin, chọn vị trí hiển thị block gợi ý sản phẩm bên phía người dùng.

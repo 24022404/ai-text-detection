@@ -1,1 +1,0 @@
-In a sentence like "The weather is good today", ABSA would ideally extract the sentiment towards the weather is positive.

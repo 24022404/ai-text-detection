@@ -1,1 +1,0 @@
-Lớp này bao gồm các event cho các nút bấm mà các lớp kế thừa nó cần có. Ngoài ra lớp này cũng có các phương thức nhằm cập nhật trạng thái của một team trong hành trang cũng như xem thông tin tem trong hành trang.

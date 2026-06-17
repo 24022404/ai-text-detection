@@ -1,1 +1,0 @@
-Đặt vấn đề Trên hệ thống khi đưa vào sử dụng sẽ có nhiều người dùng, nhiều khóa học được tạo ra. Thực tế này đặt ra vấn đề làm sao để biết được các thông số về dữ liệu hiện tại của hệ thống, so sánh, điốt chiếu các dữ liệu này như thế nào để phục vụ mục đích thống kê góp phần định hướng phát triển cho hệ thống.

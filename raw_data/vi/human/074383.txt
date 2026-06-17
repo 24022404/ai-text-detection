@@ -1,1 +1,0 @@
-Đặc tả usecase a, Chức năng "Xem thông tin" Mô tả: Chức năng cung cấp thông tin liên quan đến một địa điểm (địa điểm du lịch, khách sạn, chợ, siêu thị, quán ăn, quán bar, quán cafe), lễ hộ hay đặc sản.

@@ -1,1 +1,0 @@
-‘Hockey Fights’  and ‘Crowd Violence’ dataset. On these datasets, the findings show that the proposed approach outperforms state-of-the-art methods like HOG, HOF, ViF, and others.

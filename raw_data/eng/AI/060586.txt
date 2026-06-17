@@ -1,1 +1,0 @@
-Docker provides several networking options, enabling containers to interact with one another and the host system. By creating virtual networks, Docker allows seamless communication between containers within the same network environment, enhancing flexibility.

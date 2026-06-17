@@ -1,1 +1,0 @@
-Biểu đồ use case tổng quan Hình 2.1 mô tả tổng quan về ứng dụng QLDA cùng với các tác nhân và vai trò của các tác nhân đó trong ứng dụng.

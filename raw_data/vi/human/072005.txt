@@ -1,1 +1,0 @@
-Frebase là gì? Frebase là gì đang được rất nhều người thắc mắc, dựa theo định nghĩa thì nó là một nền tảng được sử dụng điể phát trển các ứng dụng d động trong web. Nó được hoạt động trên nền tảng cloud, bao gồm các API điơn gản, mạnh mẽ nhưng không cần backend và server. Nó có chứa các CSDL với khả năng sẵn mang đến khả năng code nhanh chóng và thuận tiện.

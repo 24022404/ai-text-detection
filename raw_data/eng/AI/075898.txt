@@ -1,9 +1,0 @@
-This research addresses the challenge of detecting small objects in thermal images, a critical task for various applications such as surveillance, search and rescue, and wildlife monitoring. Thermal imaging offers unique advantages in low-visibility conditions, yet the precise detection of small objects remains difficult due to resolution limitations and noise.
-
-Methods/Approach: To tackle this issue, we propose an enhanced Single-Shot Detector (SSD) model specifically optimized for small object detection in thermal imagery. The approach involves refining anchor boxes and employing a multi-scale feature extraction strategy to improve detection accuracy. We integrated a novel feature fusion technique to bolster the model's ability to discern small objects despite low contrast and high noise levels inherent in thermal images.
-
-Results/Findings: The enhanced SSD model demonstrates significant performance improvements over standard detection methods. In our experiments, we observed a marked increase in detection precision and recall rates compared to baseline methods. The proposed model proficiently identifies small objects with high accuracy, reducing false positives and negatives, as corroborated by empirical evaluations conducted on a diverse thermal image dataset.
-
-Conclusion/Implications: This study contributes a novel approach to small object detection in thermal images, enhancing the capabilities of existing detection systems in challenging environments. The improved SSD model facilitates more reliable and accurate thermal surveillance, expanding potential applications in fields requiring precise heat-based object detection. Future work will explore real-time implementation and further optimizations for varied thermal imaging conditions.
-
-Keywords: Small Object Detection, Thermal Images, Single-Shot Detector, SSD, Feature Fusion, Surveillance, Thermal Imagery.

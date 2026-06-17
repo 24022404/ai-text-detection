@@ -1,1 +1,0 @@
-Kh điã điăng nhập vào trang web, ở giao diện Bài viết của tô, nhấn vào button Tạo và vết Kh đó, người dùng nhập đầy đủ thông tin Sau đó, trả về giao diện Trang chủ và thông báo: "Bà vết điã điược thêm thành công!!" 2. Acceptance Criteria 2:

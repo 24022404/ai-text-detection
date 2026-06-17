@@ -1,1 +1,0 @@
-Bootstrap là thư viện giúp tạo một trang web rất nhanh và dễ dàng. Thư viện này tạo sẵn code HTML, CSS và Javascript để tạo ra những thành phần gạo vện thường dùng, giúp giảm nhiều thờ gan tạo nên trang web hoàn chỉnh.

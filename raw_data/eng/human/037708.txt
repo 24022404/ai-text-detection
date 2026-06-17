@@ -1,1 +1,0 @@
-Once the data collection system is in place, the next focus would be on per forming basic analysis on the collected data in real-time or with minimal delay.

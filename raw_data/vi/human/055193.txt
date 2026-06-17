@@ -1,1 +1,0 @@
-Một thư mục các tệp ĐANG, được đọc bởi bộ lập lịch và người thực thi (và bất kỳ công nhân nào mà người thực thi có) Cơ sở dữ lệu siêu dữ lệu (metadata database), được sử dụng bở bộ lập lịch, người thực thi và máy chủ web để lưu trữ trạng thái.

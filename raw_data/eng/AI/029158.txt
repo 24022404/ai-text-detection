@@ -1,9 +1,0 @@
-Objective: Low dynamic range (LDR) images often suffer from under- and overexposure, losing scene details in highlights and shadows. This paper introduces a novel Deep Reciprocating HDR Transformation (DRHT) framework that leverages high dynamic range (HDR) representations to achieve robust image correction.  
-
-Methods: DRHT consists of two coupled neural networks. The first network expands an input LDR image into an intermediate HDR latent space, enhancing detail and dynamic range via learned residual mappings. The second network compresses the enhanced HDR representation back to a corrected LDR output, preserving natural contrast and color fidelity. Both networks are trained end-to-end with a combination of reconstruction, perceptual, and adversarial losses, enforcing consistency between the original, HDR intermediary, and final corrected images.  
-
-Results: We evaluate DRHT on multiple benchmark datasets, including synthetic and real-world low-light and high-contrast scenes. Quantitative comparisons show DRHT outperforms traditional histogram-based methods and recent deep models by up to 2.3 dB in PSNR and 0.05 in SSIM. Qualitative results demonstrate clearer textures, more balanced exposure, and faithful color reproduction under challenging lighting conditions.  
-
-Conclusion: By reciprocally transforming between LDR and HDR domains, DRHT offers a principled and effective approach to image correction. Its end-to-end design and HDR-informed processing enable significant improvements in detail recovery and visual quality. This framework can be readily integrated into photography pipelines, video enhancement tools, and computer vision pre-processing modules.  
-
-Keywords: high dynamic range, low dynamic range, image correction, deep learning, neural networks.

@@ -1,1 +1,0 @@
-Giao tiếp qua mạng: Mô hình client server cho phép giao tiếp giữa các máy tính thông qua mạng, giúp tăng tính linh hoạt và khả năng truy cập.

@@ -1,1 +1,0 @@
-Gả pháp Chức năng xem báo cáo doanh thu theo nhân viên sẽ được tổng hợp theo từng nhân viên và cần một số thông tin quan trọng như sau:

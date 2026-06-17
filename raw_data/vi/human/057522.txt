@@ -1,1 +1,0 @@
-Bên cạnh đó thì extracted feature cũng được dùng để dự đoán 4 offset values cho mỗi cạnh. Ví dụ như ko region proposal chứa người nhưng chỉ có phần thân và nửa mặt, nửa mặt còn lạ không có trong region proposal đó thì offset value có thể giúp mở rộng region proposal để lấy được toàn bộ người.

@@ -1,1 +1,0 @@
-Cross-Platform Compatibility: PostgreSQL is available on multiple platforms,including Windows, macOS, Linux, and Unix-like systems, allowing develop ers to deploy their applications on their preferred operating systems.

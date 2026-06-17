@@ -1,1 +1,0 @@
-Tên use case Đánh giá điểm cho dịch vụ cloud Tiền điều kiện Người dùng đăng nhập vào hệ thống, chọn dịch vụ đám mây muốn đánh giá, đang ở màn hình đánh giá điểm dịch vụ đám mây.

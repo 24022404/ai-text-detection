@@ -1,1 +1,0 @@
-True Negative (TN) refers to the number of instances the model accurately predicts as not being label X, matching the actual absence of X.

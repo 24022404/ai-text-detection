@@ -1,1 +1,0 @@
-Bước 4: Cấu hình nginx Sau khi đăng nhập vào máy ảo Ubuntu qua SSH, thực hiện các lệnh sau trên cửa sổ lệnh.

@@ -1,1 +1,0 @@
-In chapter 3, I will provide the basic background of the techniques and models that I use to propose my method. In the end of the chapter, I will give more details about the current state-of-the-art model in handling the CRE task, Consistent Representation Learning (CRL).

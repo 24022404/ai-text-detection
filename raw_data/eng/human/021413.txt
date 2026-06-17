@@ -1,1 +1,0 @@
-Dataset (also known as data corpus or data stock): is the unprocessed primitive data set that you have collected in the data collection step. A dataset will contain many data points.

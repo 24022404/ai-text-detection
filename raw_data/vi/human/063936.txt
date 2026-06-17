@@ -1,1 +1,0 @@
-Hệ thống chuyển người dùng vào cuộc gọi video đồng thờ thông báo cho các người dùng khác trong cuộc hội thoại có cuộc gọi video đang diễn ra.

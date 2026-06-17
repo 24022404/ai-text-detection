@@ -1,1 +1,0 @@
-If l+i−t=j, we have PuandPvhave the same last edge but different terminal states, which is impossible. Otherwise, the path ev,l+i−t+1,···, ev,jis the path connecting utov. But the length of this path is smaller than s, which is also absurd.

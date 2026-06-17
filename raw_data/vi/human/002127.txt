@@ -1,1 +1,0 @@
-Ngoài ra, em cũng sẽ mở rộng chức năng của hệ thống điểm đáp ứng các nhu cầu đa dạng của người dùng: phát triển thêm các chức năng quản lý dự án, tích hợp chức năng tương tác như chat, bình luận, giúp người dùng dễ dàng trao đổi thông tin, giao tiếp và làm việc cùng nhau trong hệ thống, v.v P. Community, Python . [On]. Available: https : / / www. python .

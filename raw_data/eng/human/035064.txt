@@ -1,1 +1,0 @@
-Note that I include 2 versions of CRL, one denoted as CRL is from original workand one denoted as CRL †is trained under the same environment and configuartion with my model. Moreover, I ablate the proposed regularization with two purposes, highlighting the bad impact of CE loss in CRE and showing the effect of my regularization. I give some discussions as follows:

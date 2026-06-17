@@ -1,1 +1,0 @@
-Kết quả kiểm tra thực nghiệm của công cụ đã cho thấy tính hiệu quả và độ chính xác cao trong việc xác định các lỗ hổng bảo mật của ứng dụng web. Các kỹ thuật fuzzng mạnh mẽ điã gúp tạo ra các payload tùy chỉnh và phức tạp, tăng cường khả năng phát hiện lỗ hổng.

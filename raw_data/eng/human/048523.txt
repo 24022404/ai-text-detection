@@ -1,1 +1,0 @@
-The reason for this is that the hardware required to process Wi-Fi or Bluetoothsignals can be expensive, and the accuracy of the signals can be affected by the presence of obstacles or other interference.

@@ -1,1 +1,0 @@
-Chapter 4 presents project design options, briefly describes how the system works, design interfaces, databases, etc. The results achieved, test work, project implementation, etc also be briefly described Chapter 5 will present the contribution, the process of making the thesis and the results achieved, including the difficulties encountered, how to overcome the problem.

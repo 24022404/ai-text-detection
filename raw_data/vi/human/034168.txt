@@ -1,1 +1,0 @@
-Đố vớ khách và thành viên: Chưa có chức năng gợi ý bài viết. Hiện tại hệ thống chỉ hiển thị danh sách bài viết mới nhất có trong CSDL. Hệ thống cần phải dựa vào sở thích của người dùng để hiển thị các bà viết phù hợp. Trang web cần được sử dụng trên điện thoại vì đa số người dùng điều sử dụng điện thoại thay vì máy tính để mua hàng.

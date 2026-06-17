@@ -1,1 +1,0 @@
-Bước 1: Admin gửi yêu cầu cấp mới chứng thư và sinh cặp khóa Bước 2: Rap được yêu cầu, thực hiện giao tiếp với softhsm yêu cầu softhsm sinh ra cặp khóa. Sử dụng thông tin từ chứng thư ban đầu, tạo yêu cầu ảnh chứng thư (CSR) bằng việc ký sử dụng cặp khóa thông qua softhsm.

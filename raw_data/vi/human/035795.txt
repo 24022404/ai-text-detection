@@ -1,1 +1,0 @@
-Tên trường Kiểu dữ liệu Kích thước Ràng buộc Khuôn Dạng Ghi chú tickets nt Khóa chính Số nguyên IDs nt Số nguyên used boolean Văn bản sockettype chap 25 ký tự Văn bản vehicle type char 25 ký tự Văn bản tme tme Thờ gần due date date Ngày Bảng Salaries:

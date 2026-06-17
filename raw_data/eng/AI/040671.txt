@@ -1,1 +1,0 @@
-Datasets are usually split into training and test sets, with the training data used to teach the model and the test data employed to evaluate its performance. If both sets are already provided, no extra splitting is necessary; however, if only one dataset exists, it needs to be divided.

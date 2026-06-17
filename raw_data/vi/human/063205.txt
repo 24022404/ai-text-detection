@@ -1,1 +1,0 @@
-Gả pháp React Query là một thư viện phổ biến được sử dụng để quản lý việc gọi API trong ứng dụng React. React Query cung cấp một cách tiếp cận đơn giản và hiệu quả để quản lý các API call, đồng thờ xử lý lỗ và làm mới dữ liệu một cách tự động.

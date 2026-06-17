@@ -1,1 +1,0 @@
-EUENO  is a decentralized data storage designed for Web3 which provides end-to-end encryption, huge data storage, dynamic access management, and simple sharing. Eueno will especially provide a way forward to engage with data in termsof file encryption, storage, and sharing between peer for users who frequently cre ate or use dApps.

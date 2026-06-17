@@ -1,1 +1,0 @@
-However, this method has a relatively low accuracy because converting bytecode into image format will lose the sequential nature of the information, thereby causing information loss during training.

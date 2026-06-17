@@ -1,1 +1,0 @@
-GND: NRF24L01 giao tiếp với một vi điều khiển khác và sẽ cần một điểm mass chung điểm hoạt động và đó là chân nối đất GND.

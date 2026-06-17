@@ -1,1 +1,0 @@
-Một định nghĩa đơn giản cho cụm từ "Roguelike" là những game được lấy cảm hứng trực tiếp hoặc gián tiếp từ trò chơi có tên là Rogue. Một cách chính xác hơn thì roguelike là một nhánh phụ trong thể loại game nhập vai với các yếu tố chính như thiết kế bản đồ là một hầm ngục, hệ thống cấp độ, cách chơi theo lượt và cơ chế trừng phạt người chơi ko chết.

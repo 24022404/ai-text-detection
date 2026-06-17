@@ -1,1 +1,0 @@
-G. Csurka, C. Dance, L. Fan, J. Willamowski andC. Bray, “Visual categorization with bags of keypoints,” inWorkshop on statistical learning in computer vision, ECCV Prague, volume 1, 2004, pages 1–2.

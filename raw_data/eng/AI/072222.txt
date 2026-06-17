@@ -1,9 +1,0 @@
-This research focuses on the development of an advanced framework for temporal hockey action recognition, a critical component in sports analytics. The objective is to accurately identify and classify complex actions within video footage of hockey games, contributing to enhanced strategic analysis and automated player performance evaluations.
-
-Methods/Approach: We propose a novel model that integrates pose estimation and optical flow techniques to capture both spatial and temporal dynamics of hockey actions. Pose estimation is utilized to identify key player joint positions, while optical flows track motion trajectories over time. These complementary streams are fused using a deep learning architecture, specifically designed to analyze sequential data, ensuring robust recognition and improved temporal accuracy.
-
-Results/Findings: Our experimental results demonstrate that the proposed method significantly outperforms existing hockey action recognition systems. The model achieves high recognition accuracy, maintaining performance across various game scenarios and camera angles. Comparative analysis reveals a marked improvement in identifying subtle and fast-paced actions, highlighting the effectiveness of combining pose and optical flow data.
-
-Conclusion/Implications: This research presents an innovative approach to sports action recognition, emphasizing the importance of combining spatial and temporal information for enhanced performance. The implications of this work extend to real-time analytics in sports broadcasting, coaching tactics, and automatic highlight generation. Our findings open new avenues for integrating AI-driven analysis in professional sports, offering a more granular understanding of in-game dynamics.
-
-Keywords: hockey action recognition, pose estimation, optical flow, temporal dynamics, sports analytics, deep learning.

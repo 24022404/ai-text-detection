@@ -1,1 +1,0 @@
-Header: Chứa các thông tin về loại mã hóa được sử dụng và kiểu JWT. Header thường được mã hóa bằng Base64URL.

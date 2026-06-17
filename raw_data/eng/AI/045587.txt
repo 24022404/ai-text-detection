@@ -1,9 +1,0 @@
-Understanding driver behavior at intersections is crucial for improving traffic safety and reducing accident risks. This study aims to develop an advanced predictive model to ascertain driver intention at intersections utilizing deep learning techniques coupled with an attention mechanism.
-
-Methods/Approach: We propose a novel deep learning architecture that integrates an attention mechanism, allowing the model to focus on critical aspects of the input data related to driver behavior. The approach involves training a convolutional neural network (CNN) to analyze a variety of input signals, including vehicle dynamics and environmental cues, to predict drivers’ next actions. The attention layer is employed to enhance the accuracy by dynamically highlighting significant features within the data.
-
-Results/Findings: The proposed model demonstrates superior performance in predicting driver intention compared to conventional machine learning models. Our experiments show an improvement of accuracy by 15% over baseline methods. The attention mechanism effectively identifies and prioritizes key features, thereby improving interpretability and robustness of predictions even in complex intersection scenarios.
-
-Conclusion/Implications: This research contributes a robust framework for predicting driver intentions at intersections, utilizing the power of deep learning and attention mechanisms. The findings suggest substantial potential for integration into advanced driver-assistance systems (ADAS), potentially improving real-time decision-making capabilities and enhancing traffic safety measures. Future work may explore the deployment of this model in real-world applications, adapting it to diverse traffic environments and assessing its impact on accident reduction rates.
-
-Keywords: deep learning, attention mechanism, driver intention prediction, intersection safety, convolutional neural network, advanced driver-assistance systems (ADAS).

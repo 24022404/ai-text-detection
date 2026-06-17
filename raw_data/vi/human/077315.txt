@@ -1,1 +1,0 @@
-Phần Frontend của hệ thống được xây dựng dựa trên công nghệ ReactJs, cung cấp nhiều tính năng và có nhiều bộ thư viện hỗ trợ trong việc xây dựng giao diện.

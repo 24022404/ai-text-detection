@@ -1,1 +1,0 @@
-A scalability technique can enhance the system’s performance as traffic and user load increase, ensuring it remains efficient under pressure. Regular maintenance is necessary to verify the system’s ability to handle higher loads and maintain optimal response times, proving its scalability.

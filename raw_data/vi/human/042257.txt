@@ -1,1 +1,0 @@
-Nếu bạn thêm một phên bản mớ của tệp của mình vào IPFS, hàm băm mật mã của nó sẽ khác và do đó, nó sẽ nhận được một CID mớ. Đều này có nghĩa là các tệp được lưu trữ trên IPFS có khả năng chống gả mạo và kểm duyệt — mọ thay điổ điố với tệp không gh điè lên tệp gốc và các phần chung trên các tệp có thể được sử dụng lạ điể gảm thểu ch phí lưu trữ.

@@ -1,1 +1,0 @@
-Thiết kế lớp Hình 4.7 mô tả chi tiết các lớp tham gia thực hiện chức năng đăng bài viết.Hình 4.7: Ch tết lớp cho chức năng đăng blog Trong đó:

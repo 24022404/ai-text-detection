@@ -1,1 +1,0 @@
-How Qweb works Odoo has different kinds of actions for different operations. For example, reports are generated when the report action is triggered. The model will recognize the report action ‘ir.actions.report’ used in the record.

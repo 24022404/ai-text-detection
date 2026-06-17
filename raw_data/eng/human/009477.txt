@@ -1,1 +1,0 @@
-The suggested inventory rearrangement information is based on the inventory results obtained, with products that are misplaced, have low quantities, or areapproaching expiration (warranty period) being suggested to be moved to suit able storage locations to optimize storage space.

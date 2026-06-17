@@ -1,1 +1,0 @@
-Common security vulnerabilities of smart contracts Similar to other software, smart contracts may have security holes and "bugs" during the software development process. The Smart Contract Weakness Classification (SWC) has collected information on many types of security vulnerabilities. Those vulnerabilities can be classified as follows:

@@ -1,1 +1,0 @@
-K. Papineni, S. Roukos, T. Ward and W.-J. Zhu, “B LEU: A Method for Automatic Evaluation of Machine Translation,” inACL ’02 Philadelphia, Pennsylvania:

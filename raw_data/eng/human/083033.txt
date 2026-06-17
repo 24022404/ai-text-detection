@@ -1,1 +1,0 @@
-Router Package: The Router package is responsible for handling incoming HTTP requests and routing them to the appropriate endpoints or handlers. It is divided into four main categories:

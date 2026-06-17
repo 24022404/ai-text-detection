@@ -1,1 +1,0 @@
-Redux Phần này dựa trên nguồn tham khảo từ . Gồm hai phần nhỏ, giới thiệu về Redux và ưu điểm của Redux.

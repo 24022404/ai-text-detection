@@ -1,9 +1,0 @@
-This paper addresses the challenge of efficient exploration in deep reinforcement learning (DRL) environments, which is often hindered by the reliance on reward signals and insufficient exploration strategies. The objective is to develop a novel approach that enhances exploration capabilities through self-supervised learning mechanisms.
-
-Methods/Approach: We propose a new framework called Variational Dynamic Exploration (VDE) that leverages variational methods to facilitate effective exploration in DRL. The approach incorporates self-supervised dynamics modeling, allowing agents to predict future state representations and improve exploration by minimizing prediction errors. This framework integrates seamlessly with existing DRL architectures and does not require external rewards or pre-defined exploration heuristics.
-
-Results/Findings: Experiments conducted on benchmark DRL tasks demonstrate substantial improvements in exploration efficiency, leading to faster convergence and higher rewards compared to traditional exploration strategies. Our method exhibits superior performance over existing baselines, particularly in environments with sparse and deceptive rewards, showcasing robustness and adaptability.
-
-Conclusion/Implications: The introduction of Variational Dynamic Exploration represents a significant advancement in self-supervised exploration strategies for deep reinforcement learning. By reducing reliance on reward signals and enhancing exploration through predictive modeling, this framework offers a powerful tool for developing intelligent agents capable of tackling complex environments. The implications extend to numerous applications, including robotics, game playing, and autonomous navigation, where efficient exploration is critical.
-
-Keywords: deep reinforcement learning, self-supervised exploration, variational dynamic, predictive modeling, sparse rewards, intelligent agents.

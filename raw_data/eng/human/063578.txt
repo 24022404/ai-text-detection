@@ -1,1 +1,0 @@
-Easier understanding: All the services can be deployed and updated inde pendently, which gives more flexibility. Secondly, a bug in one micro-service has an impact only on a particular service and does not influence the entire application. Also, it is much easier to add new features to a micro-service application than a monolithic one.

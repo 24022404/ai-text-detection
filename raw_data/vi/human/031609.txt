@@ -1,1 +1,0 @@
-Task View Model: Nơ nắm giữ dữ lệu về danh sách công việc và thông tin chi tiết về điều tà điểm lớp TextFragment hiển thị.

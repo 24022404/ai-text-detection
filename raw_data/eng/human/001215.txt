@@ -1,1 +1,0 @@
-There are a lot of features provided by the ABP Framework to achieve real-world scenarios easier, like Event Bus, Background Job System, Audit Logging, BLOB Storing, Data Seeding, and Data Filtering.  Abp is so suitable for micro-service,which is a technique applied in software that has an amount of user access simul taneously.

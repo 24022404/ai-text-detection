@@ -1,1 +1,0 @@
-Write-Once Read-Many RFID tags (WORM): A type of RFID tag capable of writing data only once, and then can only read previously recorded data.

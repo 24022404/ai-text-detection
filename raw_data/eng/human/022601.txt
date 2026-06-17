@@ -1,1 +1,0 @@
-Analysis and documentation: Following the collection of the requirements,these must be done. For this, the criteria must be divided into smaller, easier to-manage chunks and clearly and succinctly documented.

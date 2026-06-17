@@ -1,1 +1,0 @@
-Masked Autoencoder (MAE) Masked Autoencoder là một cả tến từ mô hình VT , được điề xuất bở He và cộng sự (2022)  trong bà báo "Masked Autoencoders are scalable vson learners". Nó là một phương pháp học tập tự gám sát dành cho các tác vụ thị gác máy tính lên quan đến việc che gấu các mảng ngẫu nhên của hình ảnh điầu vào và tá tạo lạ các mảng bị thếu.

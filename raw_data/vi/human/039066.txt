@@ -1,1 +1,0 @@
-Chương 3 em giới thiệu về công nghệ được sử dụng để xây dựng trang web mô hình ClentServer, NodeJS vớ framework ExpressJS, React JS vớ framework extJS, và MySQL với ORM Sequelize.

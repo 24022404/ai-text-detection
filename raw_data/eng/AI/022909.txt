@@ -1,1 +1,0 @@
-The user is provided with a report on the TLS/SSL configuration, which outlines the current security status, points out any weaknesses or certificate problems, and lists supported protocols and ciphers.

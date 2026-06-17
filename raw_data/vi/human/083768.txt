@@ -1,1 +1,0 @@
-Admin Module xử lý các chức năng liên quan đến xác thực, phân quyền cũng như quản lý tài khoản của quản lý hệ thống/đối tác.

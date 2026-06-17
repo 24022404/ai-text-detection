@@ -1,1 +1,0 @@
-Vệc kểm thử điược thực hiện theo chến lược bao quát các chức năng chính điược điặc tả trong các tà lệu FRD và TRD bên dướ. Em có sử dụng Requrement Traceblty Matrx điể điảm bảo tính chặt chẽ và bao quát trường hợp kểm thử.

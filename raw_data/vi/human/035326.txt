@@ -1,1 +1,0 @@
-Từ thực tiễn nó cho, tôi xin đề xuất xây dựng một hệ thống quản lý và bán hàng của một cửa hàng nội thất. Đề tài được xây dựng lên để phục vụ các nhu cầu thực tế trong việc chuyển đổi mô hình kinh doanh truyền thống. Đối tượng hướng đến là chủ cửa hàng kinh doanh và người dùng.

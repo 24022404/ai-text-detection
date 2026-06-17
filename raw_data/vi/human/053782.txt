@@ -1,1 +1,0 @@
-Chế điộ khẩn cấp: Ở chế điộ này, AGV sẽ phát ra ánh sáng, âm thanh báo động điể báo hiệu phương tện này đang yêu cầu mức ưu tên cao nhất của nó. Vì thế, khi kích hoạt chế điộ này, các tác nhân con người xung quanh nhận thức điược yêu cầu phải nhường điường cho phương tện và họ sẽ ngạ ngần khi chặn điường của AGV.

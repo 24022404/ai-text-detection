@@ -1,1 +1,0 @@
-If enabled, the APKID module is imported; however, if it is missing, an error is logged and the scan status updated.

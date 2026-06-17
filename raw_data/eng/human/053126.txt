@@ -1,1 +1,0 @@
-H. Li, A. Einolghozati, S. Iyer andothers , “Ease: Extractive-abstractive summarization with explanations,” inProceedings of the Third Workshop on New Frontiers in Summarization Association for Computational Linguistics, 2021, pages 85–95.

@@ -1,1 +1,0 @@
-This study examines the efficacy and adaptability of a system that utilizes conventional social login methods to augment the UX of DApps. The following char acteristics can be more detailed:

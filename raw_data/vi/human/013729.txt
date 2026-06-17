@@ -1,1 +1,0 @@
-Trước hết là phần mô tả về cấu trúc dữ lệu đồ thị hình học gốc, sau đió sẽ là các bổ sung và sửa điổ điể trở thành đồ thị quyết điịnh.

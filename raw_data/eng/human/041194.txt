@@ -1,1 +1,0 @@
-Tony Cannon. “Fight the Lag: The Trick behind ggpo’s Low-Latency Net code”. In: Game Developer Magazine 19.9 (2012), pp. 7–13.

@@ -1,9 +1,0 @@
-The purpose of this research is to address the challenge of error detection in noisy knowledge graphs, which are critical repositories used for various applications such as semantic search and recommendation systems. We aim to enhance graph embedding techniques by leveraging path-ranking methods to improve precision in identifying inaccuracies within these graphs.
-
-Methods/Approach: Our approach combines advanced graph embedding techniques with path-ranking algorithms. By guiding the embedding process through path-ranking methods, we create a more structured representation of the graph that highlights potential errors. This hybrid method enhances the detection of erroneous links and nodes within the knowledge graph, reducing the noise that can impair the graph's utility.
-
-Results/Findings: The experimental evaluation shows that our proposed method significantly improves the accuracy of error detection over traditional graph embedding approaches. By integrating path-ranking strategies, our approach demonstrates increased robustness in identifying errors within complex, noisy datasets. When compared to standard techniques, our method shows a notable increase in precision and recall metrics, indicating its effectiveness in maintaining clean and useful graph data.
-
-Conclusion/Implications: This research presents a novel approach to refining graph embeddings by incorporating path-ranking methods, which substantially enhances error detection in noisy knowledge graphs. The findings have significant implications for fields reliant on accurate graph information, such as AI-driven data analytics and automated knowledge discovery. Our contributions provide a foundation for further advancements in error mitigation strategies within knowledge graph technologies.
-
-Keywords: graph embeddings, path-ranking methods, error detection, knowledge graphs, graph noise reduction, semantic search, AI-driven analytics.

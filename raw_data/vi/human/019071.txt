@@ -1,1 +1,0 @@
-AWS là là nền tảng dịch vụ đám mây an toàn, mang đến khả năng tính toán, lưu trữ storage, database, network.

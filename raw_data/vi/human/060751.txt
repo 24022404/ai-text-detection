@@ -1,1 +1,0 @@
-Dễ sử dụng: Ajax request và JavaScript được dùng ít hơn chính vì thế nó rất dễ sử dụng cho dù là người mới bắt đầu.

@@ -1,1 +1,0 @@
-MySQL sử dụng nhiều kiểu dữ liệu, được chia thành 3 loại: kiểu số, kiểu date và time, và kiểu chuỗi.

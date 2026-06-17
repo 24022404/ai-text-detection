@@ -1,1 +1,0 @@
-–percent _error : phần trăm sa lệch –td: thờ gan giao hàng –te: thờ gan giao hàng sớm nhất có thể –tt: thờ gan giao hàng trễ nhất có thể Tác động đến mô trường: Tổng thệt hạ các AGV gây ra cho mô trường khi giao hàng. Đây là tổng gá trị thệt hạ do AGV gây ra theo thờ gan, điều này đã điược nêu điến ở chương 4 4.

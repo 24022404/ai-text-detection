@@ -1,1 +1,0 @@
-Kafka offers high performance. Kafka delivers high throughput for both pub lishings and subscribing, utilizing disk structures that are capable of offering constant levels of performance, even when dealing with many terabytes of stored messages.

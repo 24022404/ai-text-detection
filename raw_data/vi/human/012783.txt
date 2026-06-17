@@ -1,1 +1,0 @@
-Bước 1: Truy cập vào trang :  Hình 4.6: Web Firebase Bước 2: Nhấn nút “Add Project” sau đó nhập tên project mà bạn muốn đặt.

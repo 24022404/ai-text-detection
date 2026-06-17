@@ -1,1 +1,0 @@
-Benchmarks The performance of the proposed method is assessed using different multilabel classification techniques, including binary relevance, label powerset, classifier chain, and adapted algorithm. Additionally, various feature extraction methods are employed to enhance the classification process, they are described as follows:

@@ -1,1 +1,0 @@
-Vớ mô hình huấn luyện sẵn BERT, có thể lấy vectơ nhúng của một câu văn bản đầu vào để thực hiện tác vụ khác nhau của bài toán cụ thể.

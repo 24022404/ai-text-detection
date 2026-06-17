@@ -1,1 +1,0 @@
-This thesis later proves that ck,sis even the longest (k, s)-RdB sequence.Figure 4.1: Example for k= 6, s= 2. In the circle of 6-MdB, an arbitrary substring of the concatenation of suffix and prefix in the picture is a (6,2)-RdB sequence.

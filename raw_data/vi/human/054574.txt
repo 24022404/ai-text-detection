@@ -1,1 +1,0 @@
-ExpressJS là một framework nhẹ nhàng, dễ học và mạnh mẽ cho việc xây dựng ứng dụng web phía máy chủ bằng NodeJS. Với cộng đồng sử dụng đông đảo và tài liệu phong phú, ExpressJS đã trở thành một công cụ phổ biến và được sử dụng rộng rãi trong phát triển web.

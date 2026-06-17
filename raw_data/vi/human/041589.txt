@@ -1,1 +1,0 @@
-An toàn và tính toàn vẹn: Move sử dụng một hệ thống kiểm tra kiểu mạnh mẽ để đảm bảo tính chính xác của chương trình. Nó giúp phát hiện và ngăn chặn các lỗ như tràn bộ nhớ, xáo trộn kiểu và lỗ phân quyền trong quá trình thực tế.

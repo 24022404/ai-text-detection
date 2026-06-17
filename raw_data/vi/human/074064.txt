@@ -1,1 +1,0 @@
-PostgreSQL PostgreSQL  là một hệ quản trị cơ sở dữ liệu quan hệ mã nguồn mở (open source relational database management system  RDBMS) được phát triển bởi một cộng đồng toàn cầu. Nó được thiết kế để xử lý các ứng dụng quy mô lớn và hỗ trợ cho các tính năng phức tạp của các hệ thống cơ sở dữ liệu quan hệ.

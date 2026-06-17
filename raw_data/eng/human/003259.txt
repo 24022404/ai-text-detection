@@ -1,1 +1,0 @@
-Label # of occurrences in Training set # of occurences in Testing set Positive 1302 203 Negative 1294 182 Neutral 967 102 Table 5.2: Dataset’s labels distributions Results The final result is presented in table 5.3:

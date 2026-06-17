@@ -1,1 +1,0 @@
-Chương 3 sẽ đi vào phân tích và thiết kế hệ thống. Từ việc thiết kế tổng quan hệ thống cho điện thiết kế cho tiết cấu trúc các biểu đồ, thiết kế các bảng cơ sở dữ lệu phân tích.

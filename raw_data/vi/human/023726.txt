@@ -1,1 +1,0 @@
-Hệ thống em xây dựng có ba đối tượng chính tham gia vào hệ thống Nhà hảo tâm : là những người dùng bình thường với mong muốn quyên góp để hỗ trợ trẻ em mồ côi Quản trị viên hệ thống : tác nhân quan trọng của hệ thống, có thể quản lý trung tâm, tiền từ thiện, yêu cầu và báo cáo từ phía trung tâm, quản lý các bà đi năng, quản lý thông tin chung của hệ thống.

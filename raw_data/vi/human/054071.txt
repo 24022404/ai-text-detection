@@ -1,1 +1,0 @@
-Chế độ hẹn giờ (Timer): Thông qua app Android trên điện thoại, người dùng có thể theo dõi các thông số môi trường bao gồm cả thời gian hiện tại và từ đó có thể cài đặt khoảng thờ gắn hệ thống hoạt động hoặc ngừng hoạt động theo mong muốn.

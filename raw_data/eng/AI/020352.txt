@@ -1,1 +1,0 @@
-Claim 3 asserts that for a right-unbalanced vertex u = 0s1x1t0j, the shortest path to any left-unbalanced vertex is of length s–j.

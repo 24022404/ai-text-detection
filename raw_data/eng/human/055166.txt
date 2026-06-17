@@ -1,1 +1,0 @@
-EUENO provides a large storage capacity beyond that of blockchain. Still de centralized – totally – and sharing instantly through a scalable network of data shared between P2P nodes. Each user (permission-ed or permissionless) shares a portion of his storage capacity to complement the decentralization of the network storage and data recovery by design.

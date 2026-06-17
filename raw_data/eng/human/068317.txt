@@ -1,1 +1,0 @@
-Although I do an analysis to indicate that eigenvectors with larger eigenvalues carry more helpful features, there is a lack of interpretation in these directions.

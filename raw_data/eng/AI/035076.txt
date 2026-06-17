@@ -1,1 +1,0 @@
-This sub-use case enables users to select their preferred code viewing mode, such as raw Smali, decompiled Java or Kotlin, or a simplified display that highlights key components, providing flexibility and enhancing code analysis efficiency for different needs.

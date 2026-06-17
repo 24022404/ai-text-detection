@@ -1,1 +1,0 @@
-Finally, QueueHelper package is used for accessing the MessageBroker of the system. The package also used by others subsystem in order to communicate with the main server.

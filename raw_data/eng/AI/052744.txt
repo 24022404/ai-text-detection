@@ -1,1 +1,0 @@
-The exported activity tester aims to identify activities that are unintentionally exposed to external applications, as this can allow malicious apps to access sensitive internal components of the target app. Such exposure may result in significant security vulnerabilities for users.

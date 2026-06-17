@@ -1,1 +1,0 @@
-Entertainment industry: OpenCV is used in the entertainment industry for tasks such as face tracking and recognition, special effects, and motion capture.

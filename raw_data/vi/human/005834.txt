@@ -1,1 +1,0 @@
-Tổng kết các giá trị cần được dự đoán trong nhiệm vụ dựng khuôn mặt 3D được chiều. Mô hình CNN được sử dụng là ResNet50 vớ lớp điầy đủ cuối cùng được sửa thành 239 nơron.

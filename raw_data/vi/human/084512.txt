@@ -1,1 +1,0 @@
-Đặc tả use case Xem danh sách đơn hàng Khách hàng sử dụng use case “Xem danh sách đơn hàng” điểm kiểm tra các đơn hàng (sản phẩm đặt mua) hiện có trong giỏ hàng và có thể tiến hành đặt mua.

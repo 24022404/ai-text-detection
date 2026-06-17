@@ -1,1 +1,0 @@
-Middleware: Chứa User component phục vụ cho việc xác thực và phân quyền người dùng. Tầng này có nhiệm vụ kiểm tra danh tính người dùng, xác thực quyền truy cập và định rõ phạm vi hành động của người dùng trước khi cho phép gửi yêu cầu điến tầng Server.

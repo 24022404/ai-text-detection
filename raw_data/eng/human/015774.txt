@@ -1,1 +1,0 @@
-Monobehaviour: MonoBehaviour is the base class that every Unity script de rives from. It provides several lifecycle functions that make it easier to develop your apps and games.

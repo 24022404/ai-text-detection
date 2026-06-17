@@ -1,1 +1,0 @@
-Cuối cùng, với cộng đồng lập trình viên lớn và nhiều tài lệu hỗ trợ, người dùng PHP có thể dễ dàng tìm thấy gả pháp cho các vấn đề phát triển ứng dụng web.

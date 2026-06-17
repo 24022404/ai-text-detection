@@ -1,1 +1,0 @@
-ContractFuzzer  - a proposed testing tool for smart contract vulnerabilities that can generate audit inputs based on smart contract API specifications, inspect logs, and report security errors.

@@ -1,9 +1,0 @@
-The exponential growth of data and complexity of tasks necessitate highly efficient deep convolutional neural networks (CNNs) for practical implementation. This research addresses the pivotal question of whether to retrain CNNs after pruning, aiming to optimize network performance while reducing computational resources.
-
-Methods/Approach: We propose and evaluate a set of novel pruning strategies for deep CNNs that selectively remove redundant or less critical neurons and connections. The methods are designed to maintain model accuracy while significantly reducing complexity. Our approach includes both structured and unstructured pruning techniques, offering flexibility in application. We conducted extensive experiments to compare the effectiveness of pruned models with and without retraining.
-
-Results/Findings: The results show that our pruning methods effectively decrease network size and computation time with minimal loss in accuracy. Remarkably, certain networks exhibited superior performance post-pruning even without retraining, suggesting inherent redundancies within their structures. We benchmarked our methods against existing pruning techniques to establish their competitiveness in terms of efficiency and preserved accuracy.
-
-Conclusion/Implications: This study offers significant insights and evidence that selective pruning can, in some cases, eliminate the need for retraining, thus offering a more resource-efficient deployment of CNN models. The findings contribute to the ongoing advancement of lightweight neural network models, promoting their wider adoption in resource-constrained environments. Our work enhances the understanding of the trade-offs between pruning and retraining, facilitating more informed decisions in network optimization strategies.
-
-Keywords: deep CNN, pruning, retraining, neural network optimization, structured pruning, unstructured pruning, computational efficiency.

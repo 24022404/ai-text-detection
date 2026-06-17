@@ -1,1 +1,0 @@
-Các tập hợp dữ liệu vừa mở và vừa có lên kết là Dữ liệu Mở Liên kết (Linked Open Data). Năm 2010, Tm BernersLee điã gợ ý mô hình 5 sao cho Dữ liệu Mở Lên kết như sau:

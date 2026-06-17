@@ -1,9 +1,0 @@
-The increased reliance on traffic monitoring systems necessitates accurate and comprehensive urban traffic data for effective management and planning. This paper addresses the problem of incomplete traffic datasets by proposing a novel spatiotemporal tensor completion method designed to enhance urban traffic imputation. 
-
-Methods: Our approach integrates spatial and temporal characteristics of traffic data within a tensor framework, employing advanced matrix factorization techniques. This model leverages spatiotemporal correlations to predict missing entries in traffic datasets more effectively than traditional methods, which often fail to account for dynamic urban environments.
-
-Results: Empirical evaluations demonstrate that our method significantly improves the accuracy of traffic imputation, reducing the mean absolute error compared to baseline algorithms. The results indicate superior performance on various traffic datasets, highlighting the model's ability to adapt to fluctuating traffic patterns and varying degrees of missing data.
-
-Conclusion: The proposed spatiotemporal tensor completion method offers a robust solution for urban traffic data imputation, providing valuable insights for traffic management systems. This research contributes to the field by addressing the challenge of incomplete data in urban settings and has potential applications in real-time traffic monitoring, urban planning, and intelligent transportation systems. 
-
-Keywords: Spatiotemporal tensor completion, traffic imputation, urban traffic data, matrix factorization, traffic management systems.

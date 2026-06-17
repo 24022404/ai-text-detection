@@ -1,1 +1,0 @@
-Kết luận Thành công Bảng 4.14: Test case: Offer NFC Test case Chấp thuận offer NFT Tác nhân thực hiện Người dùng Bền điều kiện Đã có vé, là chủ sở hữu của nft và dft có được offer Trình tự 1. Tác nhân vào trang Ch tết NFT.

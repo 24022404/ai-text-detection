@@ -1,1 +1,0 @@
-Người quản lý sử dụng các form bảng được thiết kế sẵn để lưu trữ thông tin cần quản lý.Ưu điểm: các chức năng quản lý bằng form bảng rất trực quan và rõ ràng. Các cán bộ điã học qua tn học văn phòng rất thích sử dụng vì sự tiện lợi của nó so với việc sử dụng phương pháp truyền thống trên giấy tờ.

@@ -1,1 +1,0 @@
-Cờ tăng sức mạnh: Cắm cờ tạ vị trí nhân vật, người chơi đứng trong vùng của cờ thì sẽ được tăng chỉ số nhân vật như tốc độ đánh, tỉ lệ gây sát thương chí mạng, v.v. Cờ tồn tại trong suốt màn chờ, kích hoạt một rune khác của kỹ năng sẽ giúp dịch chuyển vị trí của cờ sáng vị trí mới được kích hoạt.

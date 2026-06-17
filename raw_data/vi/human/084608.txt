@@ -1,1 +1,0 @@
-Game Module xử lý các chức năng liên quan đến cấu hình các thông tin của hệ thống game của các đối tác.

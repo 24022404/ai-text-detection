@@ -1,1 +1,0 @@
-Đây là một thư viện có tính linh hoạt cao, có thể sử dụng tạ rất nhiều ngôn ngữ như Python, Java, C và C++. Do tính linh hoạt này, OpenCV có thể sử dụng cho lập trình trên nhiều nền tảng lớn như Windows, Linux, Mac OS, OS và Android.

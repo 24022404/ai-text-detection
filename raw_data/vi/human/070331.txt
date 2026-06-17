@@ -1,1 +1,0 @@
-Notifications Controller đảm nhận vai trò xử lý các thông báo gửi về cho quản trị viên và đại diện trung tâm.

@@ -1,1 +1,0 @@
-CSS is a language that specifies the style of an HTML document. It makes the website more colorful and appealing. We may modify the font style, font size, color, and many other aspects of the webpage using CSS.

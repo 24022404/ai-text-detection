@@ -1,1 +1,0 @@
-Biểu đồ use case phân rã Quản lý nhóm Hình 2.4: Biểu đồ use case phân rã Quản lý nhóm Và chức năng quản lý nhóm, người dùng có thể xem danh sách nhóm mà mình đang ở trong, tạo nhóm mới, thêm bạn bè vào nhóm, xoá thành viên khỏi nhóm và rời khỏi nhóm kh muốn.

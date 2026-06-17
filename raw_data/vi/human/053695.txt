@@ -1,1 +1,0 @@
-Mcrosoft cung cấp cả công cụ và dịch vụ quản lý dữ liệu và nghệp vụ thông mnh (BI) cùng với SQL Server.

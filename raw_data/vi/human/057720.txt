@@ -1,1 +1,0 @@
-Ưu điểm Tốc độ và hiệu suất cao: MySQL được tối ưu hóa để đạt được hiệu suất cao và xử lý dữ lệu nhanh chóng. Nó có khả năng xử lý hàng nghìn yêu cầu truy vấn mổ gây, làm cho nó trở thành một lựa chọn tốt cho các ứng dụng có tả lớn.

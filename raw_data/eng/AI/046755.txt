@@ -1,9 +1,0 @@
-This study addresses the challenges in biomanufacturing process design by introducing an interpretable framework for risk and sensitivity analyses. The goal is to enhance Quality-by-Design (QbD) and stability control, ensuring consistent product quality and robust process optimization.
-
-Methods/Approach: We propose a novel methodology that integrates statistical modeling with machine learning techniques to analyze process parameters' impacts on product quality. The framework leverages interpretable machine learning models, such as decision trees and SHAP (Shapley Additive Explanations), to quantify and visualize the sensitivity and risk associated with variable fluctuations in the manufacturing process.
-
-Results/Findings: The proposed framework was tested in a biomanufacturing case study, where it successfully identified key process parameters with high impact on product stability and quality. Our approach demonstrated superior interpretability and accuracy compared to traditional sensitivity analysis methods, allowing for better understanding and mitigation of process risks.
-
-Conclusion/Implications: The interpretable risk and sensitivity analysis framework offers a practical solution for enhancing biomanufacturing process control and stability. By providing clear insights into process dynamics, it supports informed decision-making for QbD practices. This research contributes to advancing the application of machine learning in biomanufacturing, paving the way for more resilient and efficient production systems.
-
-Keywords: Biomanufacturing, Quality-by-Design, Risk Analysis, Sensitivity Analysis, Process Stability, Machine Learning, Interpretable Models, SHAP.

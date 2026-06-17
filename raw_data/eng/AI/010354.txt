@@ -1,1 +1,0 @@
-PostgreSQL employs multi-version concurrency control (MVCC) to allow multiple transactions to read and write data simultaneously. This approach minimizes conflicts, maintains data consistency, and reduces contention, enabling efficient and reliable database operations.

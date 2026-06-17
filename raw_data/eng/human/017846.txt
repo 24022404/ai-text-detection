@@ -1,1 +1,0 @@
-Although there are differences between periodic and perpetual inventory checks, they generally follow a three-stage process of preparation, implementation, and completion, as shown in Figure 5.1 (before, during and after the stocktake).

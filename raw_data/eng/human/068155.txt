@@ -1,1 +1,0 @@
-Administrator is in charge of decentralization and system management. Ad ministrator can manage both User and Teacher, and has all the abilities.

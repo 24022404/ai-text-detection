@@ -1,1 +1,0 @@
-Chèn nhiễu : Thêm nhiễu ngẫu nhiên vào hình ảnh. Điều này mô phỏng hiệu ứng của nhiễu cảm biến camera hoặc nhiễm môi trường.

@@ -1,1 +1,0 @@
-Hệ thống mã nguồn xây dựng hành động Để có thể sử dụng Ulti như một công cụ xây dựng mô trường, ta cần sử dụng hệ thống mã nguồn để lập trình từng hành động của các yếu tố trong mô trường.

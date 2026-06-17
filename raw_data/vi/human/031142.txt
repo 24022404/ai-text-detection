@@ -1,1 +1,0 @@
-Nodejs có một hệ sinh thái phong phú với nhiều thư viện và framework mạnh mẽ như expressjs, socket.o, mongoose, ... Điều này giúp tăng tốc độ quá trình phát triển và cung cấp các công cụ mạnh mẽ để xây dựng ứng dụng đa dạng.

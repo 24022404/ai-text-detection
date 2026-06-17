@@ -1,1 +1,0 @@
-Một game roguelike thể loại shoot ’em up với đồ họa pixel 2D ở giai đoạn thử nghiệm trên nền tảng tich.o, người chơi có thể tải miễn phí về máy tính để trải nghiệm.

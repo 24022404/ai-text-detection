@@ -1,1 +1,0 @@
-Vớ những ưu và nhược điểm của phân hệ điược nêu những phần trên của quyển đồ án, phân hệ tính toán và lập lịch trình tính toán chỉ báo vẫn tếp tục cần điược hoàn thiện. Vớ chức năng tính toán và lập lịch các chỉ báo, sẽ bổ sung thêm nhều chỉ báo hơn, cả thiện tốc điộ tính toán, tăng tần suất tính toán của các chỉ báo lên 1 lần/ gờ và tến tớ cập nhật dữ lệu thờ gan thực.

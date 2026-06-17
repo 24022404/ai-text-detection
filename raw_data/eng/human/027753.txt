@@ -1,1 +1,0 @@
-P. Zhou, W. Shi, J. Tian andothers , “Attention-based bidirectional long short term memory networks for relation classification,” inProceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2:

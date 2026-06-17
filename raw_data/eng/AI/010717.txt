@@ -1,9 +1,0 @@
-This paper addresses the challenge of bypassing Google reCAPTCHA v3, a widely implemented security measure to prevent automated access to web services, by utilizing advanced Reinforcement Learning (RL) techniques. The primary goal is to investigate the vulnerabilities in Google's reCAPTCHA v3 and how machine learning models can be adapted for this purpose.
-
-Methods: We developed a novel RL framework that efficiently trains an agent to mimic human-like interactions required to bypass reCAPTCHA v3. The approach leverages a reward function designed to maximize the success rate of reCAPTCHA challenges while minimizing detection risk. The framework includes advanced exploration strategies and utilizes deep Q-learning to refine the agent's decision-making process.
-
-Results: Experimental evaluations demonstrate that our RL-based method achieves a significantly higher bypass success rate compared to existing automated scripts. Our model outperformed traditional approaches, reducing average time-to-bypass while maintaining a high level of stealthiness, thus minimizing detection by Google's monitoring systems.
-
-Conclusion: This research reveals critical insights into the potential weaknesses within reCAPTCHA v3 when confronted with modern AI techniques such as reinforcement learning. By exposing these vulnerabilities, the study contributes to the broader understanding of security in AI systems and highlights the need for more robust mechanisms to counteract evolving threats. Additionally, the methodologies discussed have implications for enhancing automated testing and analysis of security systems.
-
-Keywords: reCAPTCHA v3, Reinforcement Learning, AI Security, Automated Bypass, DQN, Cybersecurity, Machine Learning.

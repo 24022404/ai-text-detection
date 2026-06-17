@@ -1,1 +1,0 @@
-Z. Meng, J. Yuan andZ. Li, “Trajectory-pooled deep convolutional networks for violence detection in videos,” inInternational Conference on Computer Vision Systems Springer, 2017, pages 437–447.

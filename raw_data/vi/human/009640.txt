@@ -1,1 +1,0 @@
-Tên thuộc tính Kiểu dữ liệu Phạm vi truy cập Mô tả Orders Orders Public Thông tin của đơn hàng sum Int Public Số lượng sản phẩm của một loại sản phẩm trong giỏ hàng money Double Public Tổng giá trị các sản phẩm được chọn Favorite Favorite Public Thông tin sản phẩm được yêu thích Các phương thức:

@@ -1,1 +1,0 @@
-Ở đây ta cũng có thể xem được danh sách lỗ hổng đã tìm thấy trong dự án này cũng như số lượng và mức độ nguy hại của chúng.Bên cạnh đó, ta cũng có thể xem được tiến độ hiện tại của dự án thông qua biểu đồ hình donut như hình 4.13.

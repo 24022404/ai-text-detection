@@ -1,1 +1,0 @@
-To be more specific, the first layer takes a square gray-scale image as input with one channel and the output data with 12 channels using kernel size of three,padding of two and a tride of one. The result of the first layer is applied relu acti vation and max pooling before going to the second convolutional layer.

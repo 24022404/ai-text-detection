@@ -1,1 +1,0 @@
-View không giao tiếp trực tiếp với Model mà sự tương tác giữa View và Model sẽ được xử lý thông qua Controller.

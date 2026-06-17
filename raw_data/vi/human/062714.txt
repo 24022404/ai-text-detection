@@ -1,1 +1,0 @@
-Trong đồ án này, Website quản lý và chia sẻ công thức món ăn được xây dựng với các công nghệ của Sprng framework – Ngôn ngữ Java để xây dựng Backend, sử dụng ReactJS điể xây dựng Frontend, lưu trữ dữ liệu với mySQL. Ch tết các phương pháp sẽ được trình bày ở Chương 3.

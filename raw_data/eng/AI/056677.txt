@@ -1,9 +1,0 @@
-This paper addresses the challenging problem of auto-labelling markers in optical motion capture systems, a critical task for ensuring accurate biomechanics and movement analysis. Traditional methods for labeling are time-consuming and prone to errors, especially in complex motion scenarios. 
-
-Methods: We introduce a novel approach utilizing permutation learning to automate the process of marker labeling. Our method employs an advanced permutation neural network designed to learn and predict optimal marker-label configurations directly from optical motion capture data. The network architecture incorporates both spatial and temporal features, enhancing its capability to discern patterns and accurately map markers to predefined labels. 
-
-Results: Experimental evaluations demonstrate that our auto-labeling approach achieves a significant reduction in labeling error rates compared to conventional semi-automated methods. The system also shows superior performance in dynamic and occluded scenarios, where traditional methods struggle. The proposed solution efficiently processes large datasets while maintaining high accuracy and reliability. 
-
-Conclusion: The research provides a significant advancement in the domain of motion capture, offering a fully automated and robust solution for marker labeling. This work not only improves current methodologies but also opens pathways for further exploration in automated motion analysis and related applications. The implementation of permutation learning in this context presents a new frontier for enhancing the efficiency and precision of optical motion capture systems. 
-
-Keywords: auto-labeling, optical motion capture, permutation learning, neural network, biomechanics, movement analysis.

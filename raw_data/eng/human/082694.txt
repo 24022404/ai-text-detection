@@ -1,1 +1,0 @@
-M. Al-N’awashi, O. Al-hazaimeh and M. Saraee, “A novel framework for intelligent surveillance system based on abnormal human activity detection in academic environments,” Neural Computing and Applications ,jourvol 28, december 2017. DOI:10.1007/s00521-016-2363-z .

@@ -1,1 +1,0 @@
-Administration : There will also be a page for administration with the ability to manage users, lessons and exercises. The page also provides current statistics of the platform.

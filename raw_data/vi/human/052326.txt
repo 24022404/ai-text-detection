@@ -1,1 +1,0 @@
-STATIC IMAGE MODE: False MAXNUM HANDS: 2 MODEL COMPLEXITY: 1 MINDETECTION CONFIDENCE: 0,8 MINTRACK CONFIDENCE: 0,5 Tham số STATIC IMAGE MODE được sử dụng trong mô hình phát hiện khung xương bàn tay. Nếu giá trị này là True, đầu vào của mô hình sẽ là ảnh và ngược lạ.

@@ -1,1 +1,0 @@
-User Controller function searchUser This function handles the search user request. It will try to return at most 10 results or 10 users from the database based on the inputed keyword and the username of these user.

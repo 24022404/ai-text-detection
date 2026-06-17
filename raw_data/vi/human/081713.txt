@@ -1,1 +1,0 @@
-Cuối cùng, em tổng hợp lạ từ gợi ý từ tập luật, danh sách từ gợi ý từ BartPe, danh sách từ gợi ý từ N Gram và danh sách từ gợi ý từ từ điển.

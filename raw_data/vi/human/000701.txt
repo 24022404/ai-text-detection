@@ -1,1 +1,0 @@
-Tập trung nghiên cứu phương pháp để có thể áp dụng IoT vào phòng ươm lan, giúp cho người trồng lan có thể theo dõi được các thông số trong phòng ươm và điều khiển các cơ cấu chấp hành theo ý muốn.

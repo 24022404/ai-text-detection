@@ -1,1 +1,0 @@
-Nó cung cấp các dịch vụ và tài nguyên như tệp tin, cơ sở dữ liệu, phần mềm, máy chủ web, email, game và nhiều dịch vụ khác. Máy khách đóng vai trò là một người dùng cuối. Nó yêu cầu các dịch vụ từ máy chủ và chạy các ứng dụng đo điểm truy cập các tài nguyên máy chủ.

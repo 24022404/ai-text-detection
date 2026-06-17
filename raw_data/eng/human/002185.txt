@@ -1,1 +1,0 @@
-Anexported activity refers to an activity that is declared with the exported attribute set to true in the application’s manifest file. This makes the activity accessible to other apps or external entities, which can invoke it, potentially leading to unauthorized access, privilege escalation, or other vulnerabilities.

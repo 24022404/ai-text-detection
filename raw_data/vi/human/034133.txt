@@ -1,1 +1,0 @@
-Dữ lệu chính phục vụ để xử lý phân nhóm khách hàng là dữ lệu về các đặc điểm của khách hàng được lưu trữ trong bảng 4.1 và thông tin về các phân khúc trong bảng 4.2.

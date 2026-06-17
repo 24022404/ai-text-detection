@@ -1,1 +1,0 @@
-Update : Hàm được gọi liên tục sau đã hoàn thành các thao tác của lần gọi trước. Số lần mà hàm được gọi trong một khoảng thờ gan phụ thuộc vào hiệu năng của máy và hiệu năng của phần chương trình được viết trong hàm.

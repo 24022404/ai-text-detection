@@ -1,1 +1,0 @@
-Đố vớ phía server thì em sử dụng mô hình MVC điểm triển khai xây dựng bộ API để lấy và cập nhật dữ lệu. Còn ở phía client thì em sử dụng mô hình components and pages để hiển thị giao diện và thực thi các xử lý logc.

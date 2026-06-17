@@ -1,9 +1,0 @@
-Objective: Detecting pedestrians at long range remains a critical challenge for autonomous vehicles due to sparse LiDAR returns and diminishing image resolution. This paper presents LRPD, a novel fusion framework that leverages the complementary strengths of LiDAR and RGB sensors to achieve accurate 3D pedestrian detection beyond 50 meters.
-
-Methods: LRPD employs a two-branch deep network in which the LiDAR branch encodes precise but sparse depth cues using a voxel-based convolutional backbone, while the RGB branch extracts high-resolution appearance features through a lightweight CNN. A distance-aware attention module dynamically weighs contributions from each modality: favoring LiDAR information at mid ranges and shifting toward RGB cues at farther distances where depth points are scarce. The fused features are passed to a 3D region proposal network and refined through a multi-task head predicting objectness, 3D bounding boxes, and a confidence score.
-
-Results: We evaluate LRPD on the long-range subset of the KITTI and nuScenes datasets, achieving a 12.5% relative improvement in average precision (AP) for pedestrians beyond 50 m compared to state-of-the-art fusion methods. Real-time inference at 15 FPS demonstrates its applicability to on-board vehicle systems.
-
-Conclusion: LRPD’s distance-adaptive fusion effectively mitigates the weaknesses of individual sensors, delivering robust long-range pedestrian detection. This approach can be extended to other rare object classes and sensor configurations, advancing perception safety in autonomous driving.
-
-Keywords: 3D pedestrian detection; LiDAR–RGB fusion; long-range perception; deep learning; autonomous driving.

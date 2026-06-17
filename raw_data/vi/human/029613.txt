@@ -1,1 +1,0 @@
-Quản lý khách hàng: lưu trữ, tương tác với thông tin của các khách hàng đã được phục vụ tại nhà hàng.

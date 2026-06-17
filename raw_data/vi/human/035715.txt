@@ -1,1 +1,0 @@
-Sơ đồ khối Slave a. Sơ đồ kết nối Đối với module Arduino Uno R3 các chân hỗ trợ giao tiếp SPI là chân 10,11,12,13.

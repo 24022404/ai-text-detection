@@ -1,1 +1,0 @@
-Đầu tên là màn hình danh sách dự án được mô tả ở Hình 4.12 Hình 4.12: Minh họa màn hình chức năng danh sách dự án Ở đây, người dùng có thể nhìn thấy danh sách các dự án mà mình đã và đang tham gia cùng với các button để tương tác với công cụ bao gồm:

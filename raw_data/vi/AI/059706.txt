@@ -1,5 +1,0 @@
-Mô hình phi tuyến nước nông mới được phát triển nhằm mô phỏng dòng chảy sau vỡ đập trên nền đáy hạ lưu phức tạp. Mô hình này sử dụng hệ tọa độ không gian để mô tả dòng chảy và phản ánh các yếu tố phức tạp của đáy hạ lưu.
-
-Mô hình này có thể mô phỏng được các hiện tượng như dòng chảy xoáy, dòng chảy phân nhánh và dòng chảy bị ảnh hưởng bởi các yếu tố địa hình. Điều này cho phép các nhà khoa học và kỹ sư có thể dự đoán và kiểm soát dòng chảy sau vỡ đập một cách chính xác hơn.
-
-Mô hình phi tuyến nước nông này cũng có thể được ứng dụng trong các lĩnh vực khác như thủy văn học, môi trường và xây dựng. Nó giúp các nhà khoa học và kỹ sư có thể hiểu rõ hơn về các quá trình phức tạp của dòng chảy và có thể đưa ra các quyết định sáng suốt hơn trong việc xây dựng và quản lý các công trình thủy lợi.

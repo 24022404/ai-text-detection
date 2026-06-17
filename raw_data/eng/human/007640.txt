@@ -1,1 +1,0 @@
-Actors Involved : User – Preconditions : The file must be uploaded, and the system must extract the activity components from the file’s manifest or metadata.

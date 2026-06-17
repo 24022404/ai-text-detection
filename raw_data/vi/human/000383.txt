@@ -1,1 +1,0 @@
-Ngôn ngữ lập trình Elxr kết hợp lập trình chức năng và trạng thái bất biến và cách tiếp cận dựa trên tác nhân điển đồng thờ theo một cú pháp gọn gàng, hiện đại.

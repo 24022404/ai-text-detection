@@ -1,1 +1,0 @@
-Từ kết quả thực nghiệm của ha mô hình trong, em tiến hành so sánh kết quả đầu ra, cùng với các chỉ số của hai mô hình. Để đưa ra một mô hình tốt nhất cho bài toán phân tích sắc thá bình luận.

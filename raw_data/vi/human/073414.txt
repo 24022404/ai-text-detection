@@ -1,1 +1,0 @@
-Bên cạnh có thể thêm một hoặc nhiều server vào hệ thống để tăng khả năng chịu tải cho ứng dụng. Cách thêm server này có thể thực hiện bằng việc triển khai một hệ thống Load balancer và thiết lập hệ thống cache.

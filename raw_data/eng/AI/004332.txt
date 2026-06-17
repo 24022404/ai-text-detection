@@ -1,9 +1,0 @@
-This paper addresses the challenges in clustering ensemble solutions by proposing a novel semi-supervised approach that integrates limited labeled data with the unsupervised learning process. The primary goal is to enhance clustering accuracy and stability by leveraging available partial supervision while maximizing the diversity of clustering solutions.
-
-Methods: We introduce a semi-supervised clustering ensemble framework that employs a voting mechanism to integrate multiple clustering algorithms. The approach utilizes a small portion of labeled data to guide the aggregation of diverse clustering outputs. Our method dynamically assigns weights to individual clusters based on their alignment with the partially labeled data and optimizes the voting process to achieve a consensus solution with improved accuracy.
-
-Results: Through extensive experiments on benchmark datasets, the proposed method demonstrates superior performance in terms of clustering accuracy and robustness compared to traditional unsupervised ensemble methods. The incorporation of labeled data and the voting-based aggregation significantly enhance the quality of the final clustering outcomes, showing notable improvements in various evaluation metrics.
-
-Conclusion: This research presents a significant advancement in clustering ensemble techniques by effectively incorporating semi-supervised learning. The proposed voting mechanism not only improves the integration of results from diverse clustering algorithms but also enables better utilization of limited labeled information. Our findings suggest potential applications in fields where accurate clustering is critical and labeled data are scarce, such as bioinformatics and market segmentation.
-
-Keywords: Semi-supervised learning, Clustering ensemble, Voting mechanism, Partial supervision, Data clustering.

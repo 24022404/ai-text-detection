@@ -1,1 +1,0 @@
-Another choice is Webtorrent, which makes use of peer-to-peer technology toenable user-to-user data exchange, reducing the need for centralized storage. Webtorrent and IPFS are similar in several ways, however Webtorrent lacks built-in end to-end encryption, raising similar security issues.

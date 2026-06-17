@@ -1,1 +1,0 @@
-The image scanning option is particularly useful for ARNav, as the app already has an image database. This means that the user simply needs to scan an image that is displayed in the building, and the system will automatically detect their location based on that image. This makes the process of manual indoor positioning easier and more convenient for the user.

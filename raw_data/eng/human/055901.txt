@@ -1,1 +1,0 @@
-ProblemAs mentioned in section 2.1, to overcome the weaknesses of some existing prod ucts on the market, our application will provide an English - Vietnamese dictionary.

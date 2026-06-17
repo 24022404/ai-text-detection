@@ -1,1 +1,0 @@
-Tập q gồm tất cả các xâu trên Σn có tối đa ui ký hiệu i < q, với ui là một hằng số cho trước.

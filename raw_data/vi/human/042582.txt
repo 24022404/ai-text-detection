@@ -1,1 +1,0 @@
-Phát hiện chuyển động a, Khá nệm Phát hiện chuyển động là quá trình phát hiện sự thay đổi vị trí của đối tượng nào đó hoặc sự thanh đổi của môi trường xung quanh. Trong đồ án này tô thực hiện phương pháp so sánh ha khung hình nền kề nhau trong dòng video để phát hiện chuyển động.

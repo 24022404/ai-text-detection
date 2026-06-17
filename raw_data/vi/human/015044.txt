@@ -1,1 +1,0 @@
-Các cài đặt của MTCNN có ý nghĩa như sau:•thresholds: Thresholds chính là mức thresholds cho 3 lớp mạng P, R và O của mạng MTCNN.

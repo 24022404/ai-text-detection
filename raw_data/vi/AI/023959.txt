@@ -1,7 +1,0 @@
-Thiết lập môi trường dữ liệu chung là một yêu cầu quan trọng khi áp dụng mô hình thông tin công trình. Mô hình thông tin công trình là một công cụ quan trọng giúp quản lý và theo dõi thông tin liên quan đến công trình, từ khâu lập kế hoạch đến khâu hoàn thành và bàn giao.
-
-Để đảm bảo sự thống nhất và hiệu quả trong quá trình quản lý thông tin, thiết lập môi trường dữ liệu chung là cần thiết. Điều này giúp các bên liên quan có thể truy cập và sử dụng thông tin một cách dễ dàng và thống nhất.
-
-Môi trường dữ liệu chung bao gồm các yếu tố như cơ sở dữ liệu, hệ thống quản lý thông tin, và quy trình lưu trữ và quản lý dữ liệu. Thiết lập môi trường dữ liệu chung đòi hỏi sự hợp tác và thống nhất giữa các bên liên quan, bao gồm chủ đầu tư, nhà thầu, và các bên khác liên quan đến công trình.
-
-Bằng cách thiết lập môi trường dữ liệu chung, các bên liên quan có thể giảm thiểu rủi ro, tăng cường hiệu suất, và đảm bảo sự thống nhất trong quá trình quản lý thông tin. Điều này cũng giúp cải thiện chất lượng công trình và giảm thiểu chi phí.

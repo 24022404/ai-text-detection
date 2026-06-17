@@ -1,1 +1,0 @@
-API V1 Module xử lý và cung cấp các API để lấy dữ liệu nằm trong hệ thống Marketplace (NTFs, v.v) cho các hệ thống bên ngoài của đối tác.

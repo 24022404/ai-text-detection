@@ -1,1 +1,0 @@
-These algorithms are designed to accurately associate every input with its corresponding output, improving prediction and performance.

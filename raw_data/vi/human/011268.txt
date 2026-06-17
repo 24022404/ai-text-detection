@@ -1,1 +1,0 @@
-Phần mềm quản lý sản xuất sử dụng Hệ quản trị cơ sở dữ liệu MongoDB do các ưu điểm phù hợp như tốc độ truy vấn cao, các kiểu dữ liệu đa dạng cũng như dễ dàng mở rộng cơ sở dữ liệu.

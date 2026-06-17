@@ -1,1 +1,0 @@
-Spell Behaviour Class: lớp nền cho các lớp spell khác kế thừa. Lớp này bao gồm cách thức hoạt động chung mà một spell nào cũng có như đoạn của spell sẽ luôn bay về phía trước, hết thờ gan thì spell sẽ biến mất, khi va chạm vào kẻ thù thì sẽ làm gì, khi va vào địa hình bản đồ sẽ làm gì.

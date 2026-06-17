@@ -1,9 +1,0 @@
-Objective: We introduce Language2Pose, a novel framework for forecasting human 3D poses conditioned on natural language descriptions. While existing pose-prediction methods rely solely on past motion signals, Language2Pose enables users to guide future motion with open-vocabulary commands, broadening the scope of human-computer interaction in animation, robotics, and virtual reality.
-
-Methods: Our approach employs a cross-modal transformer architecture that jointly encodes a sequence of past 3D joint coordinates and an accompanying text query. A pretrained language encoder generates semantic embeddings for the input command, while a temporal pose encoder captures motion dynamics. These streams are fused via a cross-attention module to align linguistic cues with motion features. A decoder then autoregressively predicts a sequence of future joint positions in camera-centric coordinates. The entire model is trained end-to-end with a combination of mean squared error on joint locations and a language-alignment loss that enforces consistency between predicted motion and text semantics.
-
-Results: On two benchmark datasets augmented with textual prompts, Language2Pose achieves a 12–18% reduction in mean per-joint position error compared to state-of-the-art motion forecasting baselines. Qualitative studies demonstrate that our model faithfully interprets diverse directives (e.g., “reach forward,” “turn left and wave”) and generates semantically coherent movements.
-
-Conclusion: Language2Pose is the first end-to-end natural language-grounded pose forecasting system. By uniting text understanding with motion prediction, it paves the way for more intuitive human-machine collaboration in interactive and creative applications.  
-
-Keywords: natural language grounding, pose forecasting, human motion prediction, cross-modal transformer, 3D pose estimation.

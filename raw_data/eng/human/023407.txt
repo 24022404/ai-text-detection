@@ -1,1 +1,0 @@
-Automatic update data: For automating the data update process, I employed GitHub Actions, a powerful and flexible automation tool provided by GitHub. By using GitHub Actions, I could set up scheduled tasks to automatically fetch and update cryptocurrency data from CoinGecko at regular intervals.

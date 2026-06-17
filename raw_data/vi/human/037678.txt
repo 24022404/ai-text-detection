@@ -1,1 +1,0 @@
-Thuộc tính Kiểu dữ lệu Mô tả d BIGINTEGER Mã d của languages user_id BIGINTEGER Khóa ngoại lên kết với bảng users để truy vấn người thêm khả năng ngoại ngữ language VARCHAR(255) Tên ngôn ngữ proficiency ENUM Trình độ ngoại ngữ Bản 4.8: Cho tết bảng languages Bảng 4.9 mô tả chợ tết bảng work preferences:

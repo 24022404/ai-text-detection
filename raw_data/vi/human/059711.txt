@@ -1,1 +1,0 @@
-tích lũy điểm thưởng được tối ưu hoá.2.5.2 Policy Trong học tăng cường, điều tên quyết mà ta hướng đến là tìm ra một policy tối ưu. Từ đó, agent có thể biết được nên đưa ra các hành động như thế nào trong từng trạng thái cụ thể của mô trường.

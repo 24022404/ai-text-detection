@@ -1,1 +1,0 @@
-The MVC (Model-View-Controller) is a software architectural pattern commonly used in software development. It separates an application into three inter connected components: the Model, the View, and the Controller. Each componenthas a specific role and responsibility, making the codebase more organized, modu lar, and maintainable.

@@ -1,1 +1,0 @@
-The raw pixel data (The issue with this approach is that the feature space is vast, which makes it hard for models to generalize) 2. Attempt to extract features from the image so that the feature space can be reduced. If the second option is chosen, two methods are available for implementation:

@@ -1,1 +1,0 @@
-Expressjs Expressjs là một framework ứng dụng web có mã nguồn mở được xây dựng trên nền tảng nodejs. Expressjs gúp đơn giản hóa việc xử lý các yêu cầu HTTP, quản lý các định tuyến(routing), tạo và quản lý các middleware.

@@ -1,1 +1,0 @@
-Ràng buộc dự án với các điều kiện chủ quan và khách quan. Xác đi định tính khả thi của dự án.

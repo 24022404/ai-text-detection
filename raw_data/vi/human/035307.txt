@@ -1,1 +1,0 @@
-Phương pháp thứ hai là liên kết kho theo mặt hàng và quản lý sản phẩm theo dạng số lượng nhập trước. Khi sử dụng phương pháp này, cửa hàng sẽ lên kết với kho hàng điểm quản lý số lượng sản phẩm. Phương pháp này phù hợp với các cửa hàng có quy mô vừa và lớn, có nhu cầu quản lý số lượng sản phẩm và nhập hàng điều điặn.

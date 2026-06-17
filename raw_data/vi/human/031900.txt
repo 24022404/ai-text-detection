@@ -1,1 +1,0 @@
-Tính bảo mật : Nhờ vào hệ thống kiến trúc tập trung của mạn mà tất cả mọi dữ liệu có trong Client server điều được bảo vệ một cách tô đia. Điều này giúp người dùng có thể tiến hành việc kiểm soát truy cập bằng cách cấp quyền truy cập cho những người được thực hiện các thao tác cần thiết.

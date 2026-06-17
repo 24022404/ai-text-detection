@@ -1,1 +1,0 @@
-Usecase Diagram Use case diagram provides a high-level overview of the different functionalities of a system or an application, and it can help stakeholders understand the interactions between the users and the system.

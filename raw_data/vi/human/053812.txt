@@ -1,1 +1,0 @@
-ReactJs  là một thư viện mã nguồn mở được thiết kế bở Facebook dùng để xây dựng ứng dụng giao diện người dùng một cách nhanh chóng và hiệu quả.

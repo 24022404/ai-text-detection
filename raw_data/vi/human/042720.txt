@@ -1,1 +1,0 @@
-Sau khi thử nghiệm nhiều cách em đã chọn ra cách cuối cùng đó là liên kết với Firebase nhằm mục đích đăng tải hình ảnh lên kho hình ảnh trên firebase, lấy lại đường link của hình ảnh và lưu trữ.

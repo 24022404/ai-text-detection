@@ -1,1 +1,0 @@
-overtme_tckets:Lưu trữ thông tin về đơn bổ sung làm thêm giờ. Tương tự như đơn bổ sung công nhưng có thêm phần lst users tham ga TO.

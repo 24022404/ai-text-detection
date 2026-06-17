@@ -1,1 +1,0 @@
-Contrastive Learning Contrastive representation learning’s objective is to develop an embedding space where like sample pairs remain nearby while unlike sample pairs are spread away.

@@ -1,1 +1,0 @@
-A data point is a single observation characterized by multiple attributes, which can include both numeric values and non-numerical categories such as strings. These attributes help describe the specific properties or features associated with the observation.

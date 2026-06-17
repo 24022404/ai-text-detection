@@ -1,1 +1,0 @@
-External stylesheets enable the reuse of styles across multiple pages, promotingcode modularity and easy maintenance. Selectors and pseudo-classes further en hance CSS’s capabilities by allowing the targeting of specific states and attributes of elements 3.2.2 How CSS works CSS uses a simple English based syntax with a set of rules that govern it.

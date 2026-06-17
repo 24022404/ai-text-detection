@@ -1,1 +1,0 @@
-Popup đóng lạ và thông báo dạng toast hiện lên ở chính giữa góc dưới màn hình.Đoạt 2 Kiểm tra tính năng tạo khóa học mớ1. Bấm vào biểu tượng dấu cộng.

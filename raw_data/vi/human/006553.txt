@@ -1,1 +1,0 @@
-Mục tiêu thứ nhất là chuẩn bị bộ dữ liệu, tìm mô hình phù hợp để phát hiện và theo dõi những sản phẩm trên kệ hàng. Tô mong muốn gả pháp phả có độ chính xác cao đồng thờ có độ trễ không quá lớn.

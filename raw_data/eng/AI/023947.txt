@@ -1,9 +1,0 @@
-Objective: Moment localization with natural language queries aims to identify precise video segments corresponding to descriptive sentences. Existing methods often struggle to capture long-range temporal dependencies and handle background noise effectively. This paper proposes a novel 2D Temporal Adjacent Network (2D-TAN) to address these challenges by modeling video moments in a unified two-dimensional space.
-
-Methods: We convert a video into a grid of candidate segments, where each cell represents a start–end time pair. The 2D-TAN employs convolutional operations across this grid to learn rich temporal-adjacent relations, enabling the network to aggregate both short- and long-range context. Video features are extracted with a standard 3D convolutional backbone, while sentence embeddings are obtained via a bidirectional LSTM. A cross-modal interaction module then fuses visual and linguistic representations by attention-based weighting. Finally, a scoring layer predicts the most relevant segment for a given query.
-
-Results: Experiments on two public benchmarks (e.g., Charades-STA and ActivityNet Captions) demonstrate that 2D-TAN outperforms state-of-the-art approaches by an average of 5.2% in localization accuracy at Intersection-over-Union (IoU) thresholds of 0.5 and above. Ablation studies confirm the effectiveness of the 2D convolutional design and the cross-modal fusion strategy in capturing temporal context and filtering irrelevant content.
-
-Conclusion: By framing moment localization as a 2D reasoning problem over temporal candidates, 2D-TAN offers a robust and efficient solution for video-language understanding. Its improvements in accuracy and scalability suggest broad applicability to video retrieval, summarization, and human–machine interaction tasks. 
-
-Keywords: moment localization, temporal adjacent network, video–language, 2D convolution, cross-modal fusion.

@@ -1,1 +1,0 @@
-Yêu cầu về kỹ thuật Người dùng cần phải đăng nhập để sử dụng các chức năng của ứng dụng Đảm bảo hình ảnh cá nhân người dùng không bị lưu lại hay lan truyền trên nternet.

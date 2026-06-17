@@ -1,1 +1,0 @@
-When the image is in the TRACKING state, the code hides the fitToScanView ,creates a new augmented image node for the newly found image, adds it to the aug mentedImageMap , and sets the startingImage to the image that was just scanned. It also sets imageFound to true to indicate that an image has been found, and cancels the ”Detecting Image” text.

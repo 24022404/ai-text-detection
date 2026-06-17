@@ -1,1 +1,0 @@
-The package Model represents the data in the table, connecting to the database so that the controller can perform query operations with the tables.

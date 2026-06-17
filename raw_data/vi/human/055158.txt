@@ -1,1 +1,0 @@
-Tính tập trung: Máy chủ đóng vai trò trung tâm điều khiển, quản lý và cung cấp các dịch vụ cho máy khách.

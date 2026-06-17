@@ -1,9 +1,0 @@
-Objective: Accurate estimation of scene illumination from a single image is crucial for applications in augmented reality, relighting, and robotics. Existing methods often struggle to represent complex lighting environments with limited model capacity or require extensive data. We introduce GMLight, a novel framework that formulates lighting estimation as a geometric distribution approximation problem.  
-
-Methods: GMLight represents the full 360° environment illumination using a small set of learnable geometric primitives. We approximate the continuous light distribution by fitting a mixture of spherical Gaussian–like kernels whose centers and scales adapt to scene geometry. A lightweight convolutional neural network predicts primitive parameters directly from the input image and its coarse surface normals. We employ a differentiable rendering layer to compute shading residuals, enabling end-to-end training on both synthetic and real indoor/outdoor datasets without ground-truth panoramas.  
-
-Results: On standard benchmarks, GMLight achieves a 20% reduction in mean angular error compared to state-of-the-art single-image estimators while using 30% fewer parameters. Qualitative relighting tests demonstrate more faithful shadowing and highlight reproduction on virtual objects inserted into diverse scenes. Inference runs in under 25 ms on a modern GPU, making the method suitable for real-time applications.  
-
-Conclusion: By leveraging geometric distribution approximation, GMLight delivers accurate, efficient, and generalizable illumination estimates from single images. Its compact representation and fast inference open new possibilities for real-time AR/VR integration, mobile photography enhancement, and autonomous scene understanding.  
-
-Keywords: lighting estimation, environment illumination, geometric distribution approximation, spherical Gaussian mixture, relighting, computer vision.

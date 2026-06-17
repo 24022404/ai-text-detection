@@ -1,7 +1,0 @@
-Hệ thống điều khiển động cơ của vũ khí phòng không cao tốc CADS-N-1 trên tàu hải quân đang được nghiên cứu và phát triển để đạt được hiệu suất tối ưu. Để đạt được mục tiêu này, các nhà khoa học đang áp dụng phương pháp điều khiển sliding mode để xây dựng hệ thống điều khiển động cơ.
-
-Phương pháp điều khiển sliding mode là một phương pháp điều khiển tiên tiến, cho phép hệ thống điều khiển đạt được hiệu suất tối ưu trong điều kiện phức tạp. Phương pháp này dựa trên nguyên tắc tạo ra một bề mặt trượt (sliding surface) để hệ thống điều khiển đạt được trạng thái ổn định.
-
-Hệ thống điều khiển động cơ của vũ khí phòng không cao tốc CADS-N-1 trên tàu hải quân sẽ được thiết kế để đạt được hiệu suất tối ưu trong điều kiện phức tạp. Hệ thống điều khiển sẽ được xây dựng dựa trên phương pháp điều khiển sliding mode, cho phép đạt được hiệu suất tối ưu và ổn định trong quá trình hoạt động.
-
-Kết quả nghiên cứu này sẽ giúp hệ thống điều khiển động cơ của vũ khí phòng không cao tốc CADS-N-1 trên tàu hải quân đạt được hiệu suất tối ưu, giúp tăng cường khả năng phòng không của tàu hải quân.

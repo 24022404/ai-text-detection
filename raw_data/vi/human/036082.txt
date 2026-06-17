@@ -1,1 +1,0 @@
-Sử dụng các tính năng mớ nhật của PHP : Một trong những tính năng làm cho PHP, framework Laravel trở nên nổ hơn tất cả, đió là nó sử dụng tất cả các tính năng mớ của PHP. Các framework khác không tận dụng được điều này.

@@ -1,1 +1,0 @@
-Sau khi user ủy quyền cho yêu cầu trên thị một token string sẻ được sinh ra. Kh ứng dụng gửi thông tin định danh (ID) của mình kèm theo token string ủy quyền tớ Authorization Server, nếu thông tin định danh được xác thực và ủy quyền hợp lệ thì Authorization Server sẽ trả về cho ứng dụng một access token. Như vậy, quá trình ủy quyền được hoàn tất.

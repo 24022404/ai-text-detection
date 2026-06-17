@@ -1,1 +1,0 @@
-Symbolic execution represents a program’s behavior as a constructed formula and uses symbolic inputs to decide whether a certain path can be reached.

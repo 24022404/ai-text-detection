@@ -1,9 +1,0 @@
-Objective: Automated analysis of trail-camera images is critical for wildlife monitoring but is often hindered by domain shifts and a lack of transparency in deep learning models. This paper presents an explainable deep vision system for animal classification and detection in trail‐camera images, enhanced with an automatic post-deployment retraining mechanism to maintain performance under changing environmental and species distributions.
-
-Methods: We employ a convolutional neural network backbone augmented with an attention‐based explainability module that generates visual heatmaps highlighting regions driving each prediction. Following initial training on a diverse, annotated trail‐camera dataset, the system monitors its own prediction confidence during deployment. Images with low confidence scores are automatically queued for human verification or pseudo‐labeling and then incorporated into periodic retraining cycles to adapt the model to new lighting conditions, backgrounds, and species.
-
-Results: On a test set of 50,000 images from multiple geographic regions, our system achieves 92.3% classification accuracy and a mean average precision (mAP) of 0.88 for object detection—improvements of 7.8% and 0.11 over baseline models, respectively. Explainability analyses demonstrate that heatmap outputs correspond closely to animal contours and key features, enhancing trust and facilitating error diagnosis. The post-deployment retraining pipeline reduces manual labeling effort by 45% while preserving model robustness against domain shifts.
-
-Conclusion: The proposed framework combines high accuracy, interpretable outputs, and a self‐adaptation strategy, making it well suited for long‐term wildlife monitoring and conservation efforts. Its explainable, continuously learning design can be extended to other ecological imaging tasks.
-
-Keywords: trail‐camera imagery, deep learning, explainable AI, automatic retraining, wildlife monitoring.

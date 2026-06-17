@@ -1,1 +1,0 @@
-Flagging Potentially Dangerous Activities: If an activity is found to be brows able (i.e., has an intent filter with android.intent.action.VIEW ), the method evaluates the activity for potential security risks, such as:

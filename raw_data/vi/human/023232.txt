@@ -1,1 +1,0 @@
-Trong phạm vi đồ án, hệ thống quản lý dạy học và nhân sự cho Lớp học Cầu Vồng được xây dựng bằng cách sử dụng NodeJS ứng dụng ExpressJS framework ở phía backend và ReactJS framework ở phía frontend.

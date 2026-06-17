@@ -1,1 +1,0 @@
-Quá trình huấn luyện mô hình còn lên quan đến việc điều chỉnh và lựa chọn các siêu tham số phù hợp. Các siêu tham số này gồm learning rate (tốc độ học), weight decay (sự yêu bến của tham số), batch size (kích thước mẻ dữ liệu), và momentum (động lượng).

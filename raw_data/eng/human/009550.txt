@@ -1,1 +1,0 @@
-Solution To improve the system’s reliability and performance, it is a good idea to usemicroservices to handle complex and asynchronous operations. An individual mi croservice is a service that usually exists only for a single purpose, is self-contained and independent of other instances and services.

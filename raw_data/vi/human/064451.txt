@@ -1,1 +1,0 @@
-Server: thực hiện các thao tác xử lý điện cơ sở dữ liệu. Tầng này nhận các yêu cầu từ tầng Middleware và thực hiện các hành động cần thiết trên cơ sở dữ liệu như truy vấn, cập nhật, xóa, v.v.

@@ -1,1 +1,0 @@
-Thay vì phải xây dựng lần lượt từng phần trong giao diện chức năng, và kiến trúc Micro Frontends, các module khác nhau hoàn toàn có thể được phát triển bởi các đội ngũ khác nhau, giúp cho quá trình xây dựng sản phẩm có thể song song hóa các quy trình.

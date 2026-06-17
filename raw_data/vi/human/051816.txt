@@ -1,1 +1,0 @@
-Hậu điều kiện Thông tin phòng được lưu thành công trên hệ thống và hệ thống chuyển hướng vào phòng code mớ.

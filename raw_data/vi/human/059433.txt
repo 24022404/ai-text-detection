@@ -1,1 +1,0 @@
-Phân bổ các công việc vào các ga đoạn cũng giúp việc đánh giá tiến độ của dự án trở nên dễ dàng hơn. Khi đó, việc đánh giá có thể được dựa trên các mục tiêu khác nhau của dự án, cung cấp cho người quản lý một góc nhìn trực quan hơn về tình hình thực hiện dự án. Các ga đoạn cơ bản trong dự án thường bao gồm :

@@ -1,1 +1,0 @@
-Controller: The Controller acts as an intermediary between the Model and the View. It handles user input and updates the Model based on user actions. When a user interacts with the View, the Controller receives the input, processes it, and updates the Model accordingly. Similarly, when the Model changes, the Controller notifies the View to update the user interface accordingly.

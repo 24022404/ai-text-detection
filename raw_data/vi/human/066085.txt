@@ -1,1 +1,0 @@
-Hỗ trợ tác vụ bất đồng bộ: Sử dụng createAsync Thunk, bạn có thể dễ dàng tạo các hành động bất đồng bộ mà không cần phải viết nhiều mã phức tạp. Điều này làm cho việc xử lý các tác vụ bất đồng bộ trong Redux trở nên trực quan và dễ quản lý hơn.

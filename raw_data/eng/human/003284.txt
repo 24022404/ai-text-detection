@@ -1,1 +1,0 @@
-Other events and triggers in the game that happen infrequently are processed with delay-based approach. The last step in creating multiplayer solution is to select a framework that satisfies these requirements.

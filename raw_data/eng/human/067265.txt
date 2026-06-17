@@ -1,1 +1,0 @@
-Mapbox is an open-source mapping platform that provides powerful APIs and SDKs for developers to build location-based applications. It is a popular choice for ARNav due to its extensive range of features and functionalities.

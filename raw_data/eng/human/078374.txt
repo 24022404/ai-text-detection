@@ -1,1 +1,0 @@
-D. D.-C. A. G. F. B. M. V. Petar Tsankov Andrei Dan, “Securify: Practical security analysis of smart contracts,” Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security , 67––82, 2018.

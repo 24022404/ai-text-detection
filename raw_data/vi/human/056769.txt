@@ -1,1 +1,0 @@
-Hậu điều kiện Không có Ngoại lệ Không có Bản 2.4: Đặc tả use case Lock khóa học 2.3.3 Đặc tả use case Học khóa học Mã use case UC03 Tên use case Học khóa học Tên tác nhân Người dùng hoặc quản trị viên Mô tả Người dùng/quản trị viên tham gia học cho tết khóa học.

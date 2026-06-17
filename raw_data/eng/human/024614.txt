@@ -1,1 +1,0 @@
-Error handling: Avoid "UNKNOWN ERROR" as much as possible. Whenever there is an anomaly in users’ inputs or behaviors, the UI should be able to instruct users to review and correct those mistakes.

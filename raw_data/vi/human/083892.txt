@@ -1,1 +1,0 @@
-Gả quyết vấn đề Đồ án định ứng gả quyết vấn đề bằng việc xây dựng hệ thống mobile app sử dụng công nghệ đa nền tảng Flutter và hệ thống server Spring boot.

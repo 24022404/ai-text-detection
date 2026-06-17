@@ -1,1 +1,0 @@
-RNN experimentsThe confusion matrix shows that the model is performing well, with high accu racy on most classes. However, there are some areas for improvement.

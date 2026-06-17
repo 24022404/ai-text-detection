@@ -1,1 +1,0 @@
-Payment •make the payment process•A Successful message will appear. A new order will be created on the history page Create Product•Input product information Click the “create” button•If the value is not valid, an error message is displayed.

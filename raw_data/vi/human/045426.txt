@@ -1,1 +1,0 @@
-12GB HDH:Window 10 Pro Đạc Bản 4.19: Kiểm thử tương thích trên thiết bị 4.3.2 Kiếm thư họp đien(Black Box Testing) Kiếm thư họp điện là kiếm thư mà không biết nó hoạt động như nào.

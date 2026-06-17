@@ -1,9 +1,0 @@
-Objective: Continual area sweeping—where a mobile agent must repeatedly cover and monitor an environment over extended periods—poses distinct challenges for reinforcement learning (RL), since traditional episodic reward formulations are ill-suited to non-terminating tasks. This paper introduces Deep R-Learning, a novel algorithm that leverages average-reward optimization within a deep neural network framework to achieve stable, long-horizon coverage policies.
-
-Methods: Our approach extends the classical R-Learning paradigm by integrating a convolutional feature extractor with an average-reward critic and a policy network. State inputs consist of local occupancy maps and residual coverage heatmaps, allowing the model to encode both spatial layout and temporal sweeping history. We employ prioritized experience replay and adaptive learning rates to balance exploration of unseen regions against efficient re-coverage of known areas.
-
-Results: In simulated grid‐worlds and high‐fidelity robot simulators, Deep R-Learning achieves a 20% higher long-term coverage rate and 30% lower energy consumption compared to deep Q-learning and policy-gradient baselines under continuous operation. Ablation studies confirm that the average-reward objective is crucial for avoiding policy collapse and ensuring steady coverage gains over thousands of time steps. On a physical ground vehicle platform, Deep R-Learning maintained 95% area coverage over a 2-hour trial in a dynamic indoor environment with moving obstacles.
-
-Conclusion: Deep R-Learning offers a robust solution for continual coverage tasks, combining the theoretical benefits of average-reward RL with deep function approximation. Its ability to learn and sustain efficient sweeping strategies has implications for surveillance, environmental monitoring, and autonomous maintenance systems. 
-
-Keywords: deep reinforcement learning, R-Learning, continual learning, area coverage, robot navigation, average reward.

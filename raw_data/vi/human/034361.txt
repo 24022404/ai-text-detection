@@ -1,1 +1,0 @@
-Nếu dữ liệu trả về từ máy chủ website không được bảo vệ, thông tin cá nhân của người dùng có thể bị lộ ra bên ngoài. Đều này có thể gây ra nhiều vấn đề như xâm nhập vào tài khoản, truy cập trái phép vào thông tin cá nhân và chi tiết tài khoản của người dùng.

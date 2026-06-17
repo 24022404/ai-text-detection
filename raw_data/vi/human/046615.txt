@@ -1,1 +1,0 @@
-Chương 2 trình bày về tổng quan ngữ cảnh của bài toán, cùng với những kiến thức nền tảng bao gồm mô hình huấn luyện trước BART, mô hình BartPho, mô hình Transformer, một số thuật toán như Ngram. Đây là tiền điều để hiểu được các giải pháp được trình bày trong các chương tiếp theo.

@@ -1,1 +1,0 @@
-Để gả quyết các vấn đề nêu ra ở trên, cần một ứng dụng vớ đầy đủ các chức năng như chấm công và ghi nhận việc chấm công của nhân viên, thêm các đơn nghỉ phép, đi làm thêm để cập nhập bảng công, tính lương dựa trên bảng công điã điược chốt, quản lý thông tin nhân viên và hợp đồng đối với nhân viên đó.

@@ -1,1 +1,0 @@
-recursve_range : trường thông tin dạng số nguyên dương thể hiện số chu kì hồ quy của công thức chỉ báo. Vớ chỉ báo OBV có công thức OBV =OBV −1+sgn(C−C1)∗V, thì giá trị recursve_range = 1 .

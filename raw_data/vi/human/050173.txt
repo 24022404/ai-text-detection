@@ -1,1 +1,0 @@
-Người bán và người mua điều là người dùng cuối của hệ thống. Ở đây đồ án của em phần kịch bản sử dụng theo vai trò, nhu cầu của người dùng.

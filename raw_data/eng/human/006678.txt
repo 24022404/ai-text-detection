@@ -1,1 +1,0 @@
-Step 4: Finally, the pre-trained model undergoes fine-tuning on the curated Vietnamese Text Summarization datasets. This fine-tuning process enables the model to align itself more closely with the specific language and summarization tasks, resulting in superior performance and contextually relevant summarization outputs.

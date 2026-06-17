@@ -1,1 +1,0 @@
-H. Tran, V. I. Dinh, L. Phan andT. Nguyen, “Hierarchical transformer encoders for vietnamese spelling correction,” International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems Springer, 2021, pages 547–556.

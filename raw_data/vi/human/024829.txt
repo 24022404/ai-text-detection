@@ -1,1 +1,0 @@
-Để lưu trữ cơ sở dữ liệu cho đồ án môn học em đã tả ứng dụng MySQL Work Branch điểm dễ dàng thao tác trên cơ sở dữ liệu, theo dõi các bảng trong cơ sở dữ liệu và sửa đổi bảng nếu cần thiết.

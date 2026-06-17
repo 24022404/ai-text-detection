@@ -1,1 +1,0 @@
-Chương 4 :Đánh giá thử nghệm . Gớ thiệu về tập dữ liệu được sử dụng và mô trường trển kha hệ thống, trình bày phương pháp và các thông số đánh giá kết quả của chến lược được nghên cứu.

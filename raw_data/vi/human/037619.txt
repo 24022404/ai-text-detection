@@ -1,1 +1,0 @@
-Kh điã điăng nhập vào trang web, ở giao diện Bài viết của tố, nhấn vào button Tạo và vết Kh đó, người dùng điểm trong trường Tên sách Sau đó, hiển thị thông báo lỗi "Vu lòng trường tên sách không được để trống" Bảng 2.4: User story chức năng tạo bài viết 5. Vòng lặp 5:

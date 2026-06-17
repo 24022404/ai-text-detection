@@ -1,1 +1,0 @@
-Hơn nữa, việc tích hợp SQLite3 với Python là một lợi thế rõ ràng. Vớ tích hợp sẵn trong Python, SQLite3 giúp cho việc làm việc với cơ sở dữ liệu trở nên đơn giản và thuận tiện hơn. Python là một ngôn ngữ lập trình phổ biến và mạnh mẽ, việc sử dụng SQLite3 giúp giảm bớt khả năng xung đột và hỗ trợ các tác vụ phát triển và kiểm thử dễ dàng hơn.

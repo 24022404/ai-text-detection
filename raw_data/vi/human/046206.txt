@@ -1,1 +1,0 @@
-(v) Hậu điều kiện: sau khi thực hiện usecase hệ thống sẽ thông báo đặt mua thành công hay chưa. Kết thúc use case.

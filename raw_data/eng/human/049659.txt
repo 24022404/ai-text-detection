@@ -1,1 +1,0 @@
-Actors Involved : User Description : The user deletes a file from the list of recent scans, removing its associated data from the system.

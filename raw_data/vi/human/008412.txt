@@ -1,1 +1,0 @@
-Lưu trữ dữ lệu Dữ lệu sau khi được Snowplow thu thập sẽ được đẩy lên Apache Kafka. Sau đó một chương trình Spark Streaming sẽ đọc dữ lệu thô từ Kafka, lấy những thông tin về sự kiện hành vi khách hàng được quan tâm sau đó đưa lên Elasticsearch.

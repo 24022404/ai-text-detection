@@ -1,1 +1,0 @@
-Kh fle điã điược tả lên người dùng sẽ phải thực hiện việc chèn chữ ký, nếu không chèn bất cứ gì thì sẽ được mặc định là ký ẩn. Các tùy chọn chèn gồm có: chèn ảnh, chèn văn bản, tạo khung chữ ký (hình 4.19).

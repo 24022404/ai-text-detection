@@ -1,1 +1,0 @@
-Improper input handling increases risk by potentially enabling injection or other attacks, making the activity particularly vulnerable to exploitation.

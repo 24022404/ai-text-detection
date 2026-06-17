@@ -1,1 +1,0 @@
-Trích xuất thông tin: Trích xuất các thông tin liên quan đến đối tượng, bổ nghĩa cho một ý định qua việc nhận biết các Entty. Danh sách các entty điã điược kha báo và huấn luyện từ trước.

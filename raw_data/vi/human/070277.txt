@@ -1,1 +1,0 @@
-Mô hình kiến trúc 3 tầng là một kiến trúc kiểu client/server mà trong đó giao diện người dùng (UI user interface), cách xử lý logic, nghiệp vụ (Business rule hay Business logic), và việc lưu trữ dữ liệu (database) được phát triển như những module độc lập và hầu hết là được duy trì trên các nền tảng độc lập.

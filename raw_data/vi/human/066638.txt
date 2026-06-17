@@ -1,1 +1,0 @@
-Traffic Server Máy chủ xử lý các yêu cầu lưu lượng truy cập của người dùng và định tuyến chúng điến các thành phần thích hợp. Phản hồi từ các thành phần bên trong thường được chuyển qua máy chủ lưu lượng điện FrontEnd Systems.

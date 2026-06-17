@@ -1,1 +1,0 @@
-Có thể chạy chuyển đổi Babel sang ES5, cho phép bạn sử dụng các tính năng JavaScript mới nhất mà không cần lo lắng về sự hỗ trợ của trình duyệt.

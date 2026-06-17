@@ -1,1 +1,0 @@
-Với việc sử dụng Firebase, nhà phát triển có thể tập trung vào việc phát triển application mà không cần lo về việc sản phẩm của mình sẽ hoạt động và được quản lý thể nào ở phía Backend.

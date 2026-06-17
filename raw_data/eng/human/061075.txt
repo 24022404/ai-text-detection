@@ -1,1 +1,0 @@
-A message indicating the start of Android Behavior Analysis is logged.–The current status of the scan is updated by appending the log message to the scan status.

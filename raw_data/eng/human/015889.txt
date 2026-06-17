@@ -1,1 +1,0 @@
-Minimum Priority: The priority is demonstrated in the form of stars. The max imum number of stars here is three and if we check all three stars, the ticket is of the highest priority. If no star is lit up then it is of less priority.

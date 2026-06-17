@@ -1,1 +1,0 @@
-J. Hoffman, D. Wang, F. Yu, and T. Darrell, “Fcns in the wild: Pixel-level ad versarial and constraint-based adaptation,” arXiv preprint arXiv:1612.02649 , 2016.

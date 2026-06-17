@@ -1,1 +1,0 @@
-M. Pang, Y.m. Cheung, B. Wang andR. Lu, “Robust heterogeneous discriminative analysis for face recognition with single sample per person,” Pattern Recognition , journal 89,pages 91–107, 2019.

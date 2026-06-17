@@ -1,1 +1,0 @@
-Hệ thống cũng đã có chức năng xem ch tết, tổng hợp những lần nhập hàng, thanh toán đơn nhập hàng theo nhà cung cấp nhưng do các phần điều tương tự với chức năng này nên không được trình bày ở đây.

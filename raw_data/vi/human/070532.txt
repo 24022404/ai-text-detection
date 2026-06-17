@@ -1,1 +1,0 @@
-STT Tên Kiểu trả về Mô tả (mục đích) 1 GetMax ID nt Lấy ID lớn nhất của câu hỏi 2 ScrongTest Last<Result Test>Kiểm tra đáp án người dùng làm bà kiểm tra, trả về kết quả cụ thể đúng/sa từng câu Bảng 4.5: Các phương thức của lớp Question Service Parameter:

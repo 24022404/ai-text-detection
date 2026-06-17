@@ -1,1 +1,0 @@
-The tester evaluates how triggered exported activities behave to uncover abnormal or insecure actions, including sensitive data leaks, improper access control, or any unintended side effects that could risk security.

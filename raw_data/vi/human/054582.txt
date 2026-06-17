@@ -1,1 +1,0 @@
-Gà đoạn điầu tên (Iteration 0) Ở giai đoạn điầu tên là giai đoạn thiết lập các công việc điầu tiên sẽ được thực hiện bao gồm thu thập thông tin về dự án, xây dựng kế hoạch. Yêu cầu thu thập thông tin dự án ch tết liên quan đến các công việc thu thập các câu chuyện người dùng, các công việc phát triển và kiểm thử của dự án.

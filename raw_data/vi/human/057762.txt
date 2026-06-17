@@ -1,1 +1,0 @@
-Thông qua khảo sát người dùng thực tế về bổ sung các chức năng như thêm chức năng hiển thị danh sách các yêu cầu, câu hỏ điã điược tổng hợp từ các chuyên ga.

@@ -1,1 +1,0 @@
-Javascript được phát triển bởi Brendan Erich của Netscape vào năm 1995 và sau đó đã trở thành một tiêu chuẩn quốc tế được định nghĩa bởi tổ chức chuẩn ECMA.

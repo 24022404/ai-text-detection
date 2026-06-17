@@ -1,1 +1,0 @@
-T. O. Source, Tutorial: Intro to react . [On]. Avalable: https : / / reactjs.org/tutoral/tutoral.html#what s react (wasted on 06/25/2022).

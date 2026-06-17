@@ -1,1 +1,0 @@
-Bài toán đặt ra cho phương pháp này là cần sản xuất thêm bao nhiêu sản phẩm điểm đáp ứng nhu cầu của khách hàng. Nếu số lượng sản phẩm tồn kho quá nhiều so với nhu cầu của khách hàng sẽ tiêu tốn nhiều chi phí bảo quản lưu kho cho sản phẩm. Nếu số lượng sản phẩm tồn kho quá ít so với nhu cầu của khách hàng sẽ tốn thờ gần chờ đợi sản xuất thêm sản phẩm của khách hàng.

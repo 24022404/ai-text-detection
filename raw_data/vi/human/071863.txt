@@ -1,1 +1,0 @@
-Thứ tựTên Kểu dữ lệu Mô tảCó bắt buộcCó ràng buộc 1 d UUIDId chatbox (d của phòng chat)Có Khoá chính 2 name Varchar(255)Tên chatbox (tên của phòng chat)Không 3 avartar Varchar(255)Id lưu ảnh điạ diện chatboxKhông Bảng 4.2: Bảng dữ lệu Chatbox Bảng dữ lệu Message Mục điích: Lưu tin nhắn của các phòng chat.

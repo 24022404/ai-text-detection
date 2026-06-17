@@ -1,1 +1,0 @@
-1: Số lượng sản phẩm trong giỏ lớn hơn số lượng trong kho, hệ thống thông báo lỗ trở về trang giỏ hàng.

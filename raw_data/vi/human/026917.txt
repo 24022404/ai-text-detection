@@ -1,1 +1,0 @@
-Tuy nhiên, do tồn tại sự tương quan thấp giữa các đặc trưng tại các tầng khác nhau của cấu trúc km tự tháp, tích hợp các đặc trưng này một cách song song như được thiết kế ban đầu trong bài báo SegFormer  có thể tạo ra lỗ hổng thông tin.

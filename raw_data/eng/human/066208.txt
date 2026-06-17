@@ -1,1 +1,0 @@
-To solve the class imbalance problem in domain adaptation, I propose a novel mixing strategy. The proposed utilizes frequent scores normalized classwise to select pixels and generate mixed images with balanced class distribution.

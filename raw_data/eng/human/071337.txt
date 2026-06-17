@@ -1,1 +1,0 @@
-In efficient algorithms to find Eulerian cycles are presented. Especially,the approach in  can be used to generate all binary de Bruijn sequences. How ever, since the graph must be stored, applying such algorithms to find a positioning sequence requires exponential O(qk)space.

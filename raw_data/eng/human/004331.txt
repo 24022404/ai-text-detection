@@ -1,1 +1,0 @@
-The system will be deployed according to the client-server model. Because the product is being tested, I do not have clear statistics on the number of users, the number of hits, or the server’s load capacity. I use the Microsoft Azure server with configs as shown:

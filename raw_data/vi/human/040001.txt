@@ -1,1 +1,0 @@
-Bạn có thể tận dụng các công cụ như Docker Compose điểm quản lý và triển khai ứng dụng địa container, hoặc sử dụng Docker Swarm hoặc Kubernetes điểm trển kha các mạng và hệ thống phân tán.

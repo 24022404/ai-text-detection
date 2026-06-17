@@ -1,1 +1,0 @@
-Pooling layer: Pooling layer is the last layer and has the effect of simplifying the output information. That is, after completing the calculation and scanning through the layers, go to the pooling layer to remove unnecessary information. From there, produce the results as desired by the user.

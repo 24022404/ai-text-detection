@@ -1,1 +1,0 @@
-Hậu điều kiện Không có Ngoại lệ Không có Bảng 2.6: Đặc tả use case Làm bài kiểm tra khóa học 2.3.5 Đặc tả use case Thêm đánh giá khóa học Mã use case UC04 Tên use case Thêm đánh giá khóa học Tên tác nhân Người dùng hoặc quản trị viên Mô tả Người dùng/quản trị viên làm bà kiểm tra kiến thức cuối khóa học.

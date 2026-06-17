@@ -1,5 +1,0 @@
-Công nghệ cơ giới hóa đồng bộ hạng nhẹ đã được áp dụng tại Công ty Cổ phần Than Mông Dương để tăng cường hiệu suất và giảm thiểu chi phí trong quá trình khai thác than. Công nghệ này bao gồm hệ thống máy móc và thiết bị được thiết kế để hoạt động một cách tự động hóa và liên kết chặt chẽ với nhau.
-
-Hệ thống này đã giúp tăng cường năng suất khai thác than lên đến 30% và giảm thiểu chi phí vận hành xuống còn 25%. Đồng thời, công nghệ này cũng đã giúp giảm thiểu tác động môi trường và cải thiện an toàn lao động cho công nhân.
-
-Tuy nhiên, vẫn còn một số hạn chế và thách thức cần được giải quyết để tối ưu hóa hiệu suất của công nghệ này. Cụ thể, hệ thống cần được nâng cấp và cải tiến để tăng cường độ tin cậy và giảm thiểu thời gian dừng máy.

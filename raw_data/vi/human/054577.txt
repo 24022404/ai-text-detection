@@ -1,1 +1,0 @@
-Khả năng nhận diện ảnh AI đã được tích hợp ứng dụng, cho phép người dùng dễ dàng chụp hoặc tải lên hình ảnh để xác định các đối tượng. Nhận dạng động vật, thực vật người dùng sẽ nhận được kết quả chính xác và nhanh chóng từ mô hình AI đào tạo trước.

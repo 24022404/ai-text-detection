@@ -1,1 +1,0 @@
-BERT base — 12 layers (transformer blocks), 12 attention heads, 110 million parameters, and has an output size of 768-dimensions.

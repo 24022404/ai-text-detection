@@ -1,1 +1,0 @@
-CSR có điểm lợ là giúp cho phía server không phải quá tả kh phả làm thêm công việc render ra toàn bộ, việc render ra website sẽ là nhiệm vụ của phía client.

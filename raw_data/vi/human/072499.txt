@@ -1,1 +1,0 @@
-–Dùng các mô hình sinh ngẫu nhên để tạo ra các dữ liệu tương tự Gảm điộ phức tạp của mô hình:

@@ -1,1 +1,0 @@
-Do Specific Dynamic Analysis : This sub-use case will allow user to do some more specific analysis dynamically View Dynamic Analysis Report : This sub-use case will allow the user to view the dynamic analysis report.

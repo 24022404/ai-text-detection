@@ -1,1 +1,0 @@
-Margin: Phần không gian bọc bên ngoài phần từ.Hình 3.5: Bố cục của một phần từ HTML Đây là một ví dụ về một tệp CSS.

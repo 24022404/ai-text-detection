@@ -1,1 +1,0 @@
-Header Home Page Homestay Page story Page Payment Page Review Page My Homestay Page App Boxchat Hình 4.2: Kiến trúc Frontend trang Người dùng và Host Trong đió App là Component tổng trong ReactJS, bao gồm 6 trang chính là :

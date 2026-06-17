@@ -1,1 +1,0 @@
-Receiver Operating Curve (ROC) is a curve that represents the classification ability of a classification model at threshold thresholds. This curve is based on two indicators:

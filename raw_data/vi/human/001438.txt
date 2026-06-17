@@ -1,1 +1,0 @@
-MongoDB  là một hệ quản trị cơ sở dữ liệu ph quan hệ (NoSQL) phổ biến và mạnh mẽ. Nó được thiết kế điển lưu trữ và xử lý dữ liệu theo mô hình tài liệu (document oriented), trong đó dữ liệu được tổ chức thành các tài liệu TSONline có cấu trúc sinh hoạt.

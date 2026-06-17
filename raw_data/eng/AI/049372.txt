@@ -1,1 +1,0 @@
-Conjecture 2 has been confirmed for k = 1 and 2, and solved for k = 3, 4, 5 with some help from computers. It is also resolved for k = 6 when n and k are relatively prime. However, the conjecture remains unsolved for k ≥ 7 and for k = 6 when n and k are not relatively prime.

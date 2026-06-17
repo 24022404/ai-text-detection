@@ -1,1 +1,0 @@
-Ngôn ngữ SPARQL có bốn hình thức truy vấn khác nhau cho các mục đích khác nhau:Truy vấn SELECT : Sử dụng để trích xuất dữ liệu từ cơ sở tri thức, các kết quả được trả về trong định dạng bảng.

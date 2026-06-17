@@ -1,1 +1,0 @@
-Đặt vấn đề Thiết kế một hệ thống cho 1, 2 người dùng, chạy trên máy local vô cùng đơn giản. Tuy nhiên, một bài toán dễ đến mấy, khe mở rộng lên đến tầm hàng triệu người dùng cũng sẽ trở thành một bài toán lớn và khó hơn rất nhiều lần. Tại sao vậy? Cùng lấy ví dụ, một máy chủ server có thể chịu được 400 request mỗ gây.

@@ -1,1 +1,0 @@
-(v) Dễ dàng tích hợp: Kiến trúc Microservices cho phép các ứng dụng được tích hợp với các ứng dụng và dịch vụ khác một cách dễ dàng hơn.

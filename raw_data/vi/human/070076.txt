@@ -1,1 +1,0 @@
-Khởi tạo: Chọn số lượng cụm K cần phần cha và khởi tạo các trung tâm cụm ban đầu trên địa cầu tại đơn vị.

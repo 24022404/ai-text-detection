@@ -1,1 +1,0 @@
-VGGNet contains three fully connected layers, with the first two each having 4096 channels and the third consisting of 1000 channels, representing each class label.

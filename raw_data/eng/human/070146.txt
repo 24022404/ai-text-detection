@@ -1,1 +1,0 @@
-Long Short-term Memory Long Short-Term Memory (LSTM) networks are a type of RNN architecturespecifically designed to handle long-range dependencies. LSTMs can manage ex tended intervals between the occurrence of a feature and the moment it is required by the model. This capability is generally not feasible with standard RNNs due to the issue of vanishing gradients.

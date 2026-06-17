@@ -1,1 +1,0 @@
-–Nếu thành công, hiển thị thông báo tạo bà vết mờ thành công –Nếu thất bại, hiển thị thông báo lý do 2.3.3 Đặc tả usecase “Tạo bà dịch mớ” Mô tả ngắn gọn : Usecase này mô tả cách thức người dùng tạo một bài dịch mới cho một bài viết.

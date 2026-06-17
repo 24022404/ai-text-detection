@@ -1,1 +1,0 @@
-As mentioned in section ??, our proposed method is developed from 3D DenseNet Lean  Therefore, in this experiment, we compare these 2 approaches on the Hockey Fights dataset .

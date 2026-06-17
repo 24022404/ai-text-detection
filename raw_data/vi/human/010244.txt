@@ -1,1 +1,0 @@
-Gả pháp tổng quan Ngay từ ban điầu, khi thiết kế chương trình em đã thiết kế sẵn sơ đồ triển khai của hệ thống và từ đó thiết kế ứng dụng theo từng phần của sơ đồ.

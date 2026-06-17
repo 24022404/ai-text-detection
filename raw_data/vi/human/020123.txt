@@ -1,1 +1,0 @@
-Bên cạnh đó em sẽ trình bày cho tết về thiết kế cơ sở dữ liệu, các biểu đồ lớp, biểu đồ thực thể liên kết, thiết kế giao diện. Ở chương này em cũng sẽ nó về các thư viện và công cụ đã sử dụng để xây dựng ứng dụng, nêu lên các chức năng chính điã điạt điược. Đồng thời kiểm thử và triển khai dự án.

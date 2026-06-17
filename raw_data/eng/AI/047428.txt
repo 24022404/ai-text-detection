@@ -1,9 +1,0 @@
-Objective: Sequential data often involve dynamically evolving relations among entities, yet conventional recurrent neural networks (RNNs) lack explicit mechanisms for modeling such interactions. This paper introduces Relational Recurrent Neural Networks (RRNs), a novel architecture that integrates relational reasoning directly into recurrent state updates.  
-
-Methods: At each time step, RRNs represent the hidden state as a set of entity embeddings and construct pairwise relation tensors via a lightweight attention‐based module. These relation representations are then fused back into the entity embeddings through gated updates, enabling the network to track and refine inter‐entity dependencies over time. The model retains the efficiency of standard RNNs while incorporating an explicit relational inductive bias.  
-
-Results: We evaluate RRNs on synthetic relational reasoning benchmarks (e.g., Sort-of-CLEVR variants), multi‐object tracking in simulated scenes, and sequential relational language tasks. Compared to LSTM, GRU, and relational memory baselines, RRNs achieve up to 20% higher accuracy on relational queries, converge 30% faster during training, and generalize more robustly to sequences with novel object pairings.  
-
-Conclusion: By embedding relational computation within recurrent updates, RRNs offer a unified framework for learning complex spatio‐temporal and relational patterns in sequential data. This approach opens new avenues for applications in dynamic scene understanding, interactive language agents, and sequential decision‐making systems.  
-
-Keywords: relational reasoning, recurrent neural networks, attention mechanism, sequence modeling, deep learning.

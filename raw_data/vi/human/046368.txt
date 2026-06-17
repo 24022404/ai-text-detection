@@ -1,1 +1,0 @@
-CSS cũng cho phép tạo ra các chuyển động và hiệu ứng động, cải thiện trải nghiệm người dùng khi sử dụng trang web. Ví dụ, CSS có thể được sử dụng để tạo ra các hiệu ứng khi người dùng di chuột trên các phần tử trên trang web, hoặc để thay đổi màu sắc và kích thước của các phần tử kh người dùng tương tác với trang web.

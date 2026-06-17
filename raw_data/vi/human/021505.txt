@@ -1,1 +1,0 @@
-Khi một trạng thái thay đổi, Redux sẽ ghi nhận các thay đổi này và tự động cập nhật lại các thành phần sử dụng trạng thái đói. Đều này giúp cho việc quản lý trạng thái trở nên chính xác và giảm thiểu các lỗ có thể phát sinh.

@@ -1,1 +1,0 @@
-Người dùng nhập tài nhân sự bán hàng và đơn hàng vào trong khoản phần mềm và chọn lệnh đăng nh ập 4.Phần mềm xác  thực thông tin đăng nhập thành công và cho phép người dùng truy cập ứng dụng  6 Hậu điều kện 1.Ngườ dùng điăng nhập ứng dụng thành công 2.Hệ thống ghi nhận hoạt động đăng nhập thành công vào Activity Log.

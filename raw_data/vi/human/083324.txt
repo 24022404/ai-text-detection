@@ -1,1 +1,0 @@
-Cơ sở dữ liệu được tự động sinh ra bằng cách sử dụng thư viện Sequelize, một ORM (Object Relational Mapping) cho Nodejs. Sequelize cho phép ánh xạ các bản ghi trong cơ sở dữ liệu thành các đối tượng JavaScript, giúp quản lý và thao tác dữ liệu dễ dàng hơn. Nó cũng hỗ trợ các tính năng như migrations, quan hệ giữa các bảng, và các thao tác phức tạp khác trên cơ sở dữ liệu.

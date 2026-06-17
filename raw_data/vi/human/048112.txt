@@ -1,1 +1,0 @@
-. Lợi ích của mô hình client server Phân chia trách nhiệm rõ ràng: Mô hình client server cho phép phân chia trách nhiệm rõ ràng giữa các phần mềm. Phía máy chủ chịu trách nhiệm xử lý và quản lý dữ liệu, trong kh phía máy khách thực hiện các yêu cầu và hiển thị dữ liệu cho người dùng.

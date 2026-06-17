@@ -1,1 +1,0 @@
-Chương 5 trình bày về giải pháp, đóng góp trong quá trình xây dựng trang web, cách giải quyết các vấn đề khó khăn gặp phải, đồng thời đưa ra kết luận về trang web đã xây dựng: so sánh ưu điểm, nhược điểm với các trang web tương tự, hướng phát triển nhằm cải thiện, nâng cấp trang web.

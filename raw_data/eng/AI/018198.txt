@@ -1,9 +1,0 @@
-The increasing deployment of trail cameras for ecological monitoring has generated vast amounts of visual data, necessitating robust systems for automated animal classification and detection. Our study addresses this challenge by developing an advanced deep vision system that not only classifies and detects animals in trail-camera images but also incorporates mechanisms for explainability and automatic post-deployment retraining.
-
-Methods: We propose a deep learning framework utilizing convolutional neural networks (CNNs) optimized for processing trail-camera imagery. The system integrates Layer-wise Relevance Propagation (LRP) to enhance transparency, providing explanations for classification decisions. Furthermore, we introduce an innovative retraining module that continuously improves the model's accuracy by automatically updating weights with new data, leveraging semi-supervised learning techniques.
-
-Results: Our system demonstrated superior performance in accuracy and efficiency compared to existing models, achieving a significant improvement in classification precision across diverse environmental conditions and species. The explainability component effectively elucidated the decision-making process, enhancing trust and usability for ecological researchers.
-
-Conclusion: This explainable deep vision system with automatic retraining capabilities represents a novel approach in wildlife monitoring, addressing critical needs for accuracy, transparency, and adaptability. Its application could significantly streamline ecological data analysis, aiding in conservation efforts and biodiversity assessments. Key contributions include the integration of explainability with continuous learning in a real-world ecological context. 
-
-Keywords: Deep Vision System, Animal Classification, Trail-Camera Images, Explainable AI, Automatic Retraining, Convolutional Neural Networks, Layer-wise Relevance Propagation, Eco-Monitoring.

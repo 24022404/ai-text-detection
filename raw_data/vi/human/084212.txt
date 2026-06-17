@@ -1,1 +1,0 @@
-Phần frontend bao gồm các góc thành phần, có trang, có chức năng hỗ trợ và thư viện sử dụng.

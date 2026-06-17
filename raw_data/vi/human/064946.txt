@@ -1,1 +1,0 @@
-Kết quả đạt được Việc sử dụng index cho table trong cơ sở dữ liệu giúp tăng hiệu suất của hệ thống và giảm thời gian truy xuất dữ liệu. Tuy nhiên, việc tạo index cần được cân nhắc kỹ lưỡng điểm đảm bảo không làm chậm thao tác cập nhật dữ liệu và không tăng quá mức kích thước của cơ sở dữ liệu.

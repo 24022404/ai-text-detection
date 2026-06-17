@@ -1,1 +1,0 @@
-Keras was designed to be user-friendly and easy to use, with a focus on allowingresearchers and developers to quickly prototype and experiment with different neu ral network architectures. It provides a simple and intuitive interface for defining and training models, allowing users to focus on the modeling task rather than the implementation details.

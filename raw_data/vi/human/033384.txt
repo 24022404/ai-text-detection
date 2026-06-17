@@ -1,1 +1,0 @@
-view Là các giao diện thành phần có thể tái sử dụng. Tập hợp phần tử này tạo nên các gao den trong gió screen.

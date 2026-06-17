@@ -1,1 +1,0 @@
-CSS cho phép người lập trình tạo ra các thiết kế tùy chỉnh cho trang web, bao gồm màu sắc, font chữ, kích thước, khoảng cách, độ rộng, chiều cao và các hiệu ứng khác. CSS cho phép người lập trình tạo ra các lớp và ID riêng biệt điểm áp dụng các định dạng khác nhau cho các phần khác nhau của trang web, giúp tạo ra một giao diện đồng nhất và dễ đọc.

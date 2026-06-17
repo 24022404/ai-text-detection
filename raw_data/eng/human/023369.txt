@@ -1,1 +1,0 @@
-perform contrastive learning by maximizing similarity between features and proto types having same category. Similarly, we also perform contrastive learning in the label space, the output of the classifier. To update prototypes, we use embedding features which were extracted by passing source images and target images through teacher projection head H′.

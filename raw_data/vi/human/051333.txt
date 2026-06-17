@@ -1,1 +1,0 @@
-Hỗ trợ nhiều thư viện, do vậy thực hiện xây dựng các chức năng trở nên dễ dàng hơn, thuận tiện hơn.

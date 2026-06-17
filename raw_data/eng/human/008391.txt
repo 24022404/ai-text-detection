@@ -1,1 +1,0 @@
-Parser Parser receives URLs of news articles as inputs and returns objects that contain detailed information of those articles, including:

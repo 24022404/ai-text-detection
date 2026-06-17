@@ -1,1 +1,0 @@
-Containers deliver isolation from both the host system and other containers, guaranteeing that applications within a single container remain separate. This prevents interference between different apps or with the host.

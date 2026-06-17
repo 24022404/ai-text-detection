@@ -1,1 +1,0 @@
-Máy chủ web (webserver), trình bày một giao diện người dùng tiện dụng để kiểm tra, kích hoạt và gỡ lỗi hành vi của GANG và các tác vụ.

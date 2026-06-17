@@ -1,1 +1,0 @@
-Kiểm thử ứng dụng: Kiểm tra và xác nhận tính năng của ứng dụng, đảm bảo rằng nó hoạt động như mong muốn trên các thiết bị di động khác nhau.

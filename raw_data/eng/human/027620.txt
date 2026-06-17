@@ -1,1 +1,0 @@
-Y. Liu andP. Liu, “Simcls: A simple framework for contrastive learning of abstractive summarization,” inThe 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Short Papers) Association for Computational Linguistics, august 2021, pages 1065–1072.

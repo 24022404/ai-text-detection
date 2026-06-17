@@ -1,1 +1,0 @@
-J. Chen, Y. Lu, Q. Yu, et al., “Transnet: Transformers make strong encoders for medical image segmentation,” arXiv preprint arXiv:2102.04306 , 2021.

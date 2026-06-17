@@ -1,1 +1,0 @@
-v.Module Boundlesscaptveportal: module thành phần, đóng vai trò tạo giao diện xây dựng Captive page và quản lý lưu lượng truy cập mạng wf của khách hàng.

@@ -1,1 +1,0 @@
-Học máy: Firebase cung cấp thư viện học máy cho lập trình viên, hỗ trợ tố đia cho việc phát triển ứng dụng•Tạo ra lưu lượng truy cập: Vớ khả năng hỗ trợ tạo lập các chỉ mục, Firebase giúp nâng cao thứ hạng của ứng dụng trên bảng xếp hạng Google, từ đó tăng lượt traffic.

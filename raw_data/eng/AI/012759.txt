@@ -1,9 +1,0 @@
-Objective: The assessment and monitoring of infant sleep patterns are critical for early diagnosis of health and developmental issues. Traditional methods often struggle with noisy and incomplete time-series data, limiting their efficacy. This study proposes a novel approach utilizing low-rank matrix factorization (LRMF) to extract meaningful patterns from complex, real-world infant-sleep datasets.
-
-Methods: Our approach involves structuring multi-channel infant-sleep sensor readings into matrices, followed by the application of low-rank matrix factorization techniques. LRMF enables decomposition of high-dimensional time-series data into interpretable latent factors, effectively isolating key sleep stages and transitions while mitigating the impact of noise and missing values. We further evaluate the performance of LRMF against standard time-series analysis methods, including autoregressive models and principal component analysis.
-
-Results: Experiments were conducted on a large-scale infant-sleep dataset consisting of both actigraphy and video observations. The proposed method demonstrated superior accuracy in detecting sleep patterns and transition points, achieving an average improvement of 12% in pattern recognition metrics over baseline methods. Additionally, our approach exhibited enhanced robustness to missing or irregular data, providing more consistent results across sensor modalities.
-
-Conclusion: This research presents a robust and scalable framework for time-series analysis in infant-sleep studies, leveraging low-rank matrix factorization for improved pattern discovery and noise resilience. The findings contribute important advancements to automated sleep monitoring applications, offering potential benefits for pediatric health diagnostics and longitudinal developmental research.
-
-Keywords: Time-Series Analysis, Low-Rank Matrix Factorization, Infant Sleep, Sleep Pattern Recognition, Missing Data, Biomedical Signal Processing

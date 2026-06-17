@@ -1,1 +1,0 @@
-Tên Use case Mô tả tóm tắt Nhận yêu cầu Quản trị viên có thể xem yêu cầu từ danh sách các yêu cầu hoặc thông qua thông báo.

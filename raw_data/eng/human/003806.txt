@@ -1,1 +1,0 @@
-Text Summarization is the task of condensing lengthy texts into concise and coherent summaries that effectively conveys the main ideas and important information.

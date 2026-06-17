@@ -1,1 +1,0 @@
-Mỗ thành viên cuộc hội thoại có nhiều tin nhắn, mối quan hệ giữa thành viên cuộc hội thoại và tin nhắn là 1n.

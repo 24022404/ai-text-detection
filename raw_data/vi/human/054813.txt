@@ -1,1 +1,0 @@
-Hệ thống cung cấp các nộ dung học tập trực tuyến còn rất nhều không gan phát trển. Hiện tạ, hệ thống còn thếu một số chức năng mà những trang web cung cấp nộ dung học tập nổ tiếng thường có, như bình luận vdeo bà gảng, điánh gá khóa học, chia sẻ khóa học lên mạng xã hộ v.v. Những tính năng này sẽ điược em cập nhật dần dần trong các phên bản tếp theo.

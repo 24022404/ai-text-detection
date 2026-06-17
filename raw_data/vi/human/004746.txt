@@ -1,1 +1,0 @@
-Tích hợp Bootstrap: Bootstrap là một framework CSS phổ biến và mạnh mẽ, cung cấp các thành phần và lớp CSS điã điược chuẩn bị sẵn cho các kiểu dáng phổ biến. Việc tích hợp Bootstrap giúp em tiết kiệm thờ gan và công sức trong việc xây dựng giao diện, đồng thờ đảm bảo rằng trang web có giao diện thân thiện với người dùng trên mọi thiết bị.

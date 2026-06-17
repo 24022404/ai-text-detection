@@ -1,1 +1,0 @@
-H. Wang, T. Shen, W. Zhang, L.-Y. Duan, and T. Mei, “Classes matter: A fine-grained adversarial approach to cross-domain semantic segmentation,” inEuropean conference on computer vision , Springer, 2020, pp. 642–659.

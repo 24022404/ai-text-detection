@@ -1,1 +1,0 @@
-Postconditions : The user can view a report on the application’s TLS/SSLimplementation, including potential vulnerabilities, insecure configura tions, and recommendations for strengthening security.

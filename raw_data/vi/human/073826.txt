@@ -1,1 +1,0 @@
-Kết quả đạt được là một trang web bán nội thất trực tuyến với các chức năng cơ bản: xem, tìm kiếm sản phẩm, đặt mua, thanh toán kết hợp tư vấn khách hàng qua một kênh chat trên trang web.

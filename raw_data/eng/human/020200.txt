@@ -1,1 +1,0 @@
-Last but not least, I have learned the way to deploy a website and register a valid do main for the website with SSL certificate. For the app development, I used Docker locally and in the production environment, which is hosted in a GKE cluster.

@@ -1,1 +1,0 @@
-Chiều dài hàng chờ trung bình Kết quả đánh giá các hệ thống với độ đo đánh giá chiều dài hàng chờ trung bình được thể hiện trong hình 4.10. Ở đây ta cũng thấy được sự vượt trội của hệ thống tối ưu so với hệ thống gốc. Các cấu hình hệ thống tối ưu khác nhau không có quá nhiều sự chênh lệch về hiệu năng, điều ở mức giảm 21% chiều dài hàng chờ trung bình so với hệ thống gốc.

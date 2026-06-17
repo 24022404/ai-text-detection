@@ -1,1 +1,0 @@
-Chapter 7 presents the conclusion of the thesis, looks back at the results, knowledge, experience, and orientation for future development solutions, and draws experience after completing the system building.2.1 State of the art For this part, I will look at an existing website with similar goals to this project, Lyos - an e-commerce site selling clothes have streetwear style.

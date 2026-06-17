@@ -1,1 +1,0 @@
-UI2: Ứng dụng web sẽ cho phép điều hướng hoàn chỉnh và lựa chọn mục bằng cách sử dụng kết hợp chuột và bàn phím.

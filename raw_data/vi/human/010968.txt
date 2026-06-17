@@ -1,1 +1,0 @@
-Hiệu suất tốt trên các môi trường phục vụ lớn:  PHP có hiệu suất tốt trên các môi trường phục vụ lớn, vớ khả năng xử lý tả ao và tài nguyên hệ thống hiệu quả.

@@ -1,1 +1,0 @@
-Tương tác với các cơ sở dữ lệu: PHP có thể tương tác với các cơ sở dữlệu phổ bến như MySQL, PostgreSQL và Oracle. Cộng đồng phát trển lớn:PHP có một cộng đồng phát trển điông điảo và nhều tà lệu, thư vện và frameworks điể gúp lập trình viên phát trển ứng dụng web nhanh chóng và hiệu quả.

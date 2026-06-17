@@ -1,1 +1,0 @@
-Tầng ẩn (Hidden layer): Là nợ xử lý dữ liệu trước khi đưa ra output. Thường là hàm tổng (Summation function) điểm đưa ra giá trị của một nơron tạo hidden layer. Có thể có nhiều hơn một hidden layer. Kh đố đầu ra của một hidden layer sẽ là đầu vào cho hidden layer tiếp theo.

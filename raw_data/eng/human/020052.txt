@@ -1,1 +1,0 @@
-Increasing flexibility and maintainability: Using DTO reduces the dependence between layers, improving code reusability and the maintainability of the applica-tion.

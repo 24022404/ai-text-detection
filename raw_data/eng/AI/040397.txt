@@ -1,1 +1,0 @@
-A labeled graph is a directed graph in which both vertices, referred to as states, and edges bear labels. Each edge connects an initial state, or start vertex, to a terminal state, known as the end vertex. For a given state v, in-edges are the set of edges for which v is the terminal state, while out-edges comprise those where v acts as the initial state.

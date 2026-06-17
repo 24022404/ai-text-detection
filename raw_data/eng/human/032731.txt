@@ -1,1 +1,0 @@
-Restful APIs are provided by our server to the client application. A request withslow response time not only degrades the user experience, but it also has a signif icant impact on server resources. The longer a request takes to execute, the moreCPU, RAM and other resources will be used, which decreases the number of re quest can be handled at once by the server.

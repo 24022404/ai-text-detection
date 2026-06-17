@@ -1,1 +1,0 @@
-Tính linh động: MySQL chạy trên nhiều hệ thống UNIX cũng như không phải UNIX chẳng hạn như Windows hay OS/2. MySQL chạy được các vớ mộ phần cứng từ các máy PC ở nhà cho điến các máy server.

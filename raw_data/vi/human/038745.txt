@@ -1,1 +1,0 @@
-Đặc tả use case "Tạo sự kiện" Bảng 2.2: Đặc tả use case "Tạo sự kiện" Mã use case: UC002 Tên Use Case:

@@ -1,1 +1,0 @@
-ACTIONS : Includes buttons for actions like viewing the static report, downloading the binary, starting a diff/compare operation, or deleting the scan.

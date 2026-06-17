@@ -1,1 +1,0 @@
-Chiến lược tối ưu hoá Mỗ lớp trong mạng RoBERTa nắm bắt các mức ngữ cảnh khác nhau. Cụ thể, các lớp thấp hơn tạo ra các bản nhúng toàn cục cho các từ trong khi các bản nhúng từ các lớp trên thì không cụ thể hơn.

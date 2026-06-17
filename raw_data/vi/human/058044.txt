@@ -1,1 +1,0 @@
-Hệ thống cũng giới thiệu và áp dụng một tiêu chí phân biệt dựa trên ma trận scatter giữa các lớp và trong các lớp, có thể sử dụng hiệu quả thông tin cấu trúc toàn cầu của dữ liệu điểm cải thiện hiệu suất nhận diện khuôn mặt. Quy trình này có thể được biểu diễn dưới dạng một vấn đề tối ưu hóa lồ có thể gả quyết được, được gả quyết bằng một thuật toán lặp hiệu quả.

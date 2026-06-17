@@ -1,1 +1,0 @@
-job Code: mã công việc Exception: Không STT Tên Kiểu dữ liệu trả về Mô tả (mục đích) 6 getSubCategory ResponseEntity Lấy danh sách loại công việc Parameter: Không Exception: Không Methode : Không State : Không4.2.3 Thiết kế cơ sở dữ liệu Hình 4.25: Lược đồ thực thể liên kết Các thực thể chính là:

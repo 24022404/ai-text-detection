@@ -1,1 +1,0 @@
-Integrating collaborative tools, such as a shared database of known threats and patterns, enhances the malware detection ecosystem by enabling timely prevention and more effective coordinated defenses.

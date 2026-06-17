@@ -1,1 +1,0 @@
-Thống kê, xử lý các phản hồi của khách hàng lên hệ thống: Tổng hợp các phản hồi của khách hàng qua email, website và phân loại điểm người dùng có thể dễ dàng xử lý.

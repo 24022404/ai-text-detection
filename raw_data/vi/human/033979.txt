@@ -1,1 +1,0 @@
-Thao tác trên tài nguyên (Resource operations): REST API cho phép thao tác với các tài nguyên thông qua các yêu cầu HTTP như GET, POST, PUT và DELETE. Định dạng dữ lệu (Data formats): REST API hỗ trợ nhiều định dạng dữ lệu phổ biến như JSON, XML, v.v.

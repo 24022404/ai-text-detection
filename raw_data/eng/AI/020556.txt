@@ -1,9 +1,0 @@
-Objective: Accurate volumetric segmentation of 3D medical images is essential for diagnosis and treatment planning, yet existing convolutional neural networks often struggle to capture long-range dependencies while preserving fine spatial details. This paper introduces nnFormer, an interleaved transformer architecture designed to balance local feature extraction and global context modeling in volumetric data.
-
-Methods: nnFormer integrates 3D convolutional blocks with transformer modules in an encoder–decoder framework. At each resolution stage, convolutional layers first encode local texture and boundary cues, followed by multi-head self-attention blocks that aggregate global information across the volume. Positional embeddings tailored to 3D grids guide the attention mechanism, and skip connections between encoder and decoder maintain high-resolution detail. A lightweight upsampling strategy ensures computational efficiency.
-
-Results: We evaluate nnFormer on two benchmark datasets—BraTS for brain tumor segmentation and a hippocampus segmentation challenge. Compared with state-of-the-art 3D U-Net and transformer-based baselines, nnFormer achieves relative improvements of 3.5% in Dice coefficient and reduces boundary error by 12%. The model requires 20% fewer parameters and demonstrates 15% faster inference on a single GPU.
-
-Conclusion: By interleaving convolutions and transformers, nnFormer effectively captures both local and global features in volumetric segmentation tasks. Its superior accuracy and efficiency make it well suited for clinical deployment in radiology workflows.  
-
-Keywords: nnFormer; interleaved transformer; volumetric segmentation; 3D medical imaging; self-attention

@@ -1,1 +1,0 @@
-Dynamic approaches: Dynamic detection techniques execute the program and observe it into behaviors to determine the existence of vulnerabilities in smart contracts.

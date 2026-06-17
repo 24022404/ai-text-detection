@@ -1,1 +1,0 @@
-Dựa vào những yêu cầu được nêu ở chương 2 và những công nghệ được áp dụng ở chương 3, phần đầu chương 4 trình bày về thiết kế kiến trúc, thiết kế chi tiết của hệ thống. Phần tiếp theo đề cập tới việc xây dựng ứng dụng bao gồm các thư viện và công cụ sử dụng; những kết quả đạt được; minh họa những chức năng chính.

@@ -1,1 +1,0 @@
-Gả pháp đưa ra Sử dụng biểu đồ Cmnd Zen điển phác thảo phân tích yêu cầu, xác định các tiêu chí điầu ra với mỗi chức năng cần test ở mỗ vòng lặp.

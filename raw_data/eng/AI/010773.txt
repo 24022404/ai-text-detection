@@ -1,1 +1,0 @@
-The set of all Lyndon words whose lengths divide n is utilized in the formal encoder (algorithm 1) to build a (k, s)-RdB sequence efficiently.

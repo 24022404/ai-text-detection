@@ -1,1 +1,0 @@
-Chương 4 trình bày kết quả thực nghiệm, bao gồm kiến trúc tổng quan của hệ thống, mô hình cơ sở dữ liệu, và giao diện người dùng . Các kết quả thực nghiệm sẽ được mô tả và phân tích chi tiết trong chương này. Chương 4 sẽ giới thiệu các bước phát triển hệ thống, từ thiết kế điện trên kha, và đánh giá hiệu quả hoạt động của hệ thống thông qua các thử nghiệm thực tế.

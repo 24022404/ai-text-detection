@@ -1,9 +1,0 @@
-Objective: Decision trees are widely used for classification and regression but often suffer from overfitting and lack principled uncertainty estimates. This paper introduces a novel Bayesian Decision Tree Algorithm that integrates prior knowledge and probabilistic inference to construct more robust and interpretable models.
-
-Methods: We formulate decision tree induction as a Bayesian model-selection problem, assigning priors over tree structures and split parameters. A Markov Chain Monte Carlo (MCMC) sampler explores the space of possible trees, balancing data likelihood with model complexity. Posterior distributions over splits provide calibrated uncertainty measures, and hyperparameters are tuned via evidence maximization.
-
-Results: Experiments on benchmark datasets (including UCI repository tasks) demonstrate that our Bayesian Decision Tree achieves up to 8% higher classification accuracy than standard greedy algorithms and comparable performance to ensemble methods, while using 30–50% fewer nodes on average. Posterior predictive checks confirm better-calibrated confidence intervals, and ablation studies highlight the benefits of our tree-structure prior.
-
-Conclusion: By unifying decision-tree learning with Bayesian inference, the proposed algorithm delivers improved generalization, reduced overfitting, and intrinsic uncertainty quantification. This approach is particularly suited for domains requiring transparent decision rules and reliable confidence estimates, such as medical diagnosis, finance, and risk analysis.
-
-Keywords: Bayesian decision tree, probabilistic models, MCMC sampling, uncertainty quantification, machine learning.

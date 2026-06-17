@@ -1,1 +1,0 @@
-Quản lý nhân viên: Admin có thể quản lý nhân viên (thêm sửa xóa nhân viên) Cấu hình website: Admin có thể quản lý nội dung được hiển thị trên website Thống kê doanh thu: Admin có thể thống kê doanh thu của cửa hàng.

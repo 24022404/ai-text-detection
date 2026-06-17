@@ -1,1 +1,0 @@
-Vớ cách tếp cận này, Quản trị viên sẽ cà điặt các trường custom felds rêng, thư vện hoặc điề xuất kh tạo ra sẽ chọn các custom felds tương ứng.

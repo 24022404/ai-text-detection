@@ -1,1 +1,0 @@
-Nơ sử dụng trong ứng dụng Tô sử dụng dịch vụ này để thông báo khi người dùng điều khiển bằng cử chỉ tay, nhằm giúp người dùng xác nhận cử chỉ. Thêm vào đió, kh có thông báo, gTTS cũng hỗ trợ trong việc đọc thông báo đó.

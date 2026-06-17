@@ -1,1 +1,0 @@
-Domains are extracted and analyzed through update processes, malware and maltrail checks, as well as geolocation methods for accuracy.

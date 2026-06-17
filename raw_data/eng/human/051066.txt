@@ -1,1 +1,0 @@
-Amazon service solved my problem. I found s3, which is a service of amazon to storage media. Amazon S3 supports both server-side encryption and client-side encryption for data uploads. Amazon S3 offers flexible security features to block unauthorized users from accessing your data.

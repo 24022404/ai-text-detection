@@ -1,1 +1,0 @@
-Chuyển trạng thái CV thành "Trượt"1. Khi chọn option “Trượt” thì hiển thị popup xác nhận đổi trạng thái. Nếu người dùng ấn “Cancel” thì trạng thái của CV không bị thay đổi. Nếu người dùng ấn “Submit” thì trạng thái CV thay đổi thành “Trượt”.

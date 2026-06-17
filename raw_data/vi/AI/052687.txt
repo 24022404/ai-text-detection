@@ -1,9 +1,0 @@
-Xây dựng và thẩm định quy trình định lượng viên nén bao phim chứa hoạt chất Cefditoren pivoxil bằng phương pháp HPLC
-
-Một quy trình mới được xây dựng và thẩm định để định lượng hoạt chất Cefditoren pivoxil trong viên nén bao phim bằng phương pháp HPLC (Hệ thống phân tích sắc ký lỏng cao áp). Quy trình này được thiết kế để đảm bảo độ chính xác và tin cậy trong việc đo lường nồng độ hoạt chất trong sản phẩm.
-
-Quy trình định lượng bao gồm các bước chuẩn bị mẫu, chạy phân tích bằng HPLC và tính toán kết quả. Các bước chuẩn bị mẫu bao gồm việc nghiền viên nén, hòa tan trong dung dịch và lọc trước khi chạy phân tích.
-
-Phương pháp HPLC được sử dụng để phân tích và đo lường nồng độ hoạt chất Cefditoren pivoxil trong mẫu. Kết quả phân tích được tính toán và so sánh với giá trị chuẩn để xác định độ chính xác và tin cậy của quy trình.
-
-Quy trình này đã được thẩm định và chứng minh được độ chính xác và tin cậy trong việc định lượng hoạt chất Cefditoren pivoxil trong viên nén bao phim. Quy trình này có thể được áp dụng trong sản xuất và kiểm tra chất lượng sản phẩm để đảm bảo chất lượng và an toàn cho người sử dụng.

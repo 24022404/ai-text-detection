@@ -1,1 +1,0 @@
-Luồng tương đương/ngọa lệ:2.4.5 Nhắn tin Bảng 2.5: Đặc tả usecase – Nhắn tin Tên ca sử dụng: Nhắn tin IP: 5 Tác nhân chính: Bí thư, nhân sự Mục đích: Bí thư và nhân sự nhắn tin với nhau Mô tả: Ca sử dụng này mô tả cách bí thư và nhân sự nhắn tin với nhau Kích hoạt: Bí thư/nhân sự nhắn tin Luồng sự kiện chính:

@@ -1,7 +1,0 @@
-So sánh thiết kế khối FFT kiểu bướm trong hệ thống MIMO-OFDM sử dụng kiến trúc pipeline
-
-Hệ thống truyền thông đa anten (MIMO-OFDM) đang trở thành một phần quan trọng trong các công nghệ truyền thông hiện đại. Trong đó, khối Fast Fourier Transform (FFT) kiểu bướm đóng vai trò quan trọng trong quá trình truyền thông. Kiến trúc pipeline là một trong những phương pháp thiết kế khối FFT hiệu quả, giúp tăng tốc độ xử lý và giảm thiểu thời gian chờ đợi.
-
-Trong nghiên cứu này, chúng tôi so sánh thiết kế khối FFT kiểu bướm trong hệ thống MIMO-OFDM sử dụng kiến trúc pipeline. Kết quả cho thấy rằng kiến trúc pipeline có thể tăng tốc độ xử lý khối FFT lên đến 30% so với thiết kế truyền thống. Đồng thời, kiến trúc pipeline cũng giúp giảm thiểu thời gian chờ đợi và tăng cường độ tin cậy của hệ thống.
-
-Kết quả này cho thấy rằng kiến trúc pipeline là một phương pháp thiết kế khối FFT hiệu quả và có thể được áp dụng trong các hệ thống MIMO-OFDM hiện đại.

@@ -1,1 +1,0 @@
-Xem thông tin đảng viên Bảng 2.4: Đặc tả use case – Xem thông tin giảng viên Tên ca sử dụng: Xem thông tin đảng viên ID: 4 Tác nhân chính: Bí thư Mục đích: Xem thông tin của đảng viên Mô tả: Ca sử dụng này mô tả cách bí thư xem thông tin giảng viên Kích hoạt: Bí thư chọn đảng viên cần xem Luồng sự kiện chính:

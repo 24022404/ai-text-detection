@@ -1,1 +1,0 @@
-When s is greater than or equal to k, a (k, s)-RdB sequence is the same as a de Bruijn sequence, while for s equal to k−1, these sequences are derived by removing a single 0 from a 0^k run in a de Bruijn sequence. Therefore, the cases with s⩾k−1 are deemed trivial, leading the thesis to concentrate on the more complex scenario of s<k−1 and to always assume s is less than k−1.

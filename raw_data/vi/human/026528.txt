@@ -1,1 +1,0 @@
-Thuộc tính Kểu dữ lệu Khóa dsh_category_d nt Khóa chính dsh_category_mage nvarchar(MAX) name nvarchar(MAX) status nt Bảng 4.6: Bảng Category.

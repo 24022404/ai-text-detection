@@ -1,1 +1,0 @@
-The inventory supervisor receives the preliminary report from warehouse per sonnel, updates information, matches the quantity of goods in the system with the report, and simultaneously sends invoices and related documents to theaccounting department.8. Warehouse accounting personnel print out reports, inventory records, and re lated documents for storage.

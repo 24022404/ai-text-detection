@@ -1,1 +1,0 @@
-To ensure that network traffic on an Android device or emulator flows directly without interference, it is important to remove any HTTP or HTTPS proxy settings. This prevents proxies from affecting network analysis or altering how applications operate, resulting in more accurate results.

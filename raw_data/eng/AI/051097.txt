@@ -1,9 +1,0 @@
-The study aims to address the deficiency in standardized benchmarking frameworks for graph neural networks (GNNs) in node classification tasks, which poses significant challenges for researchers in conducting fair and consistent evaluations.
-
-Methods/Approach: We introduce a comprehensive pipeline designed to facilitate the fair comparison of GNNs by standardizing datasets, evaluation metrics, and experimental setups. The pipeline incorporates various graph sampling techniques, dataset normalization methods, and supports popular GNN architectures such as Graph Convolutional Networks (GCN), Graph Attention Networks (GAT), and more. Additionally, the pipeline automates hyperparameter tuning to optimize model performance consistently across different scenarios.
-
-Results/Findings: Our pipeline significantly reduces the variability in model performance outcomes caused by inconsistent experimental practices. We benchmark several GNN models across multiple datasets, demonstrating the pipeline's utility in delivering reproducible and fair comparisons. Key findings indicate variance reduction in model evaluation by up to 30% and consistent ranking of GNN architectures based on accuracy and efficiency metrics.
-
-Conclusion/Implications: This research contributes a novel, standardized benchmarking framework crucial for advancing GNN research by ensuring equitable evaluation conditions. The pipeline empowers researchers and practitioners by providing a reliable tool for assessing GNNs, promoting accurate discoveries in graph-based learning, and catalyzing further innovations in the field. The pipeline's potential applications extend to various domains, including social network analysis, bioinformatics, and recommendation systems.
-
-Key Keywords: Graph Neural Networks (GNNs), node classification, benchmarking pipeline, graph sampling, hyperparameter tuning, GCN, GAT, reproducibility, variance reduction.

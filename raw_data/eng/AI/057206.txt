@@ -1,9 +1,0 @@
-This research addresses the challenge of synthesizing realistic face photos from simple line drawings, an application with significant potential in digital art and design. The study aims to enhance creative expression by allowing artists to control facial attributes directly from a basic sketch.
-
-Methods/Approach: We introduce a novel approach that utilizes a deep learning framework capable of mapping line drawings to high-quality facial images with user-defined attributes such as age, gender, and expression. The core of our method is a generative adversarial network (GAN) specifically designed for attribute-controlled synthesis, supported by a feature-enhancement module to refine subtle details and artistic nuances.
-
-Results/Findings: Our experiments demonstrate that the proposed method generates more realistic and semantically meaningful facial photos compared to existing approaches. The incorporation of an attribute control mechanism enables users to effectively guide the synthesis process, achieving personalized photorealism. Quantitative and qualitative evaluations show superior performance in maintaining consistency between the drawn attributes and the resulting image features.
-
-Conclusion/Implications: The insights gained from this research contribute to the growing field of AI-assisted artistic creation, offering a versatile tool for designers and illustrators. The proposed model not only advances the state-of-the-art in line drawing-to-photo synthesis but also broadens the potential for interactive and creative digital content generation. Future applications may include virtual reality avatar creation and interactive character design.
-
-Keywords: face photo synthesis, line drawing, generative adversarial networks, attribute control, digital art, AI-assisted creation.

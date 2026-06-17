@@ -1,9 +1,0 @@
-Objective: Instructional videos with narrations offer rich, multimodal data for learning procedural knowledge, yet existing methods typically rely on manual annotation or supervised labels. This paper introduces an unsupervised framework to extract and align visual and textual cues from narrated instruction videos, enabling discovery of action–step representations without ground‐truth supervision.
-
-Methods: We propose a two‐stage approach. First, video frames and accompanying speech transcripts are processed through separate encoders— a convolutional network for visual features and a transformer‐based language model for textual embeddings. We then apply cross‐modal clustering to group semantically related segments, using a joint embedding space that encourages alignment between spoken instructions and corresponding visual scenes. Finally, we refine these clusters via a self‐supervised contrastive loss that enforces consistency across modalities and temporal coherence within each cluster.
-
-Results: Evaluated on two benchmark instruction video datasets, our method outperforms prior unsupervised baselines by 15–20% in action‐step segmentation accuracy and achieves competitive performance on zero‐shot action recognition. Ablation studies confirm the contributions of cross‐modal clustering and contrastive refinement, showing a 10% drop in performance when either component is removed.
-
-Conclusion: This work demonstrates the feasibility of learning structured action representations from narrated videos without manual labels, opening new avenues for scalable video understanding. The proposed framework has broad applications in automated tutorial indexing, robotic task learning, and multimedia retrieval.
-
-Keywords: unsupervised learning, multimodal representation, instruction videos, video understanding, cross‐modal alignment, contrastive learning

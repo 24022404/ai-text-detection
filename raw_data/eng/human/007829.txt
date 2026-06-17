@@ -1,1 +1,0 @@
-The decoding process takes place at the ground station, a look-up table is used to identify the unique position of the received sequences of length k. The complexity of this method is exponential.

@@ -1,1 +1,0 @@
-Delete Analyzed File : This sub-use case enables users to remove an analyzed file from the recent scans list. By selecting a file and confirming the action,users can permanently delete the file and its associated data from the system.

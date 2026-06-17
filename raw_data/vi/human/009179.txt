@@ -1,1 +1,0 @@
-Hệ thống quản lý thư viện địa dạng, phong phú, dễ dàng cài đặt và tích hợp các thư viện cần thiết. (thông qua Node package manager) .

@@ -1,1 +1,0 @@
-Hiệu suất và tốc độ tải trang: HTML, CSS và JavaScript được tối ưu hóa để tả nhanh chóng và hiển thị mượt mà trên trình duyệt. Đều này đảm bảo rằng hệ thống giao diện người dùng có hiệu suất cao và giúp cải thiện trải nghiệm người dùng.

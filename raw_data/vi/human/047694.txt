@@ -1,1 +1,0 @@
-Tram: Láy hay từ phía trước của từ bị sa rồ tìm trong mô hình N Gram từ có xác suất cao nhất xuất hiện phía sau.

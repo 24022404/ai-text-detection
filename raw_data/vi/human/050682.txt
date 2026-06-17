@@ -1,1 +1,0 @@
-Nếu thiết bị của bạn chạy một nền tảng Android chưa được cài đặt trong Android Studio và bạn thấy một thông báo hỏi xem bạn có muốn cài đặt nền tảng cần thiết hay không, hãy nhấn vào Install > Continue > Finish (Cài đặt > Tiếp tục > Hoàn tất). Android Studio sẽ cài đặt và chạy ứng dụng đó trên thiết bị.

@@ -1,7 +1,0 @@
-Nghiên cứu mới đây đã tập trung vào việc đánh giá hiệu quả của RNA silencing ở nấm sợi Aspergillus niger. Mục tiêu của nghiên cứu này là đánh giá khả năng của RNA silencing trong việc kiểm soát sự biểu hiện của gen ở nấm sợi này.
-
-Để thực hiện nghiên cứu này, các nhà khoa học đã sử dụng vector nhị thể tích hợp côn để chuyển gen vào nấm sợi Aspergillus niger. Vector này được thiết kế để có thể tích hợp vào gen của nấm sợi và kiểm soát sự biểu hiện của gen đó.
-
-Kết quả nghiên cứu cho thấy rằng RNA silencing đã có hiệu quả cao trong việc kiểm soát sự biểu hiện của gen ở nấm sợi Aspergillus niger. Các gen được kiểm soát bởi RNA silencing đã giảm sự biểu hiện đáng kể, trong khi các gen không bị kiểm soát vẫn tiếp tục biểu hiện bình thường.
-
-Nghiên cứu này có ý nghĩa quan trọng trong việc hiểu rõ hơn về cơ chế của RNA silencing và khả năng của nó trong việc kiểm soát sự biểu hiện của gen ở nấm sợi Aspergillus niger. Kết quả này cũng có thể được ứng dụng trong việc phát triển các phương pháp mới để kiểm soát sự biểu hiện của gen ở các loài nấm sợi khác.

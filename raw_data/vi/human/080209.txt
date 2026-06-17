@@ -1,1 +1,0 @@
-Vớ frebase, bạn có thể tạo ra những ứng dụng realtme như app chat, cùngnhều tính năng như xác thực người dùng, Cloud Messagng,... Bạn có thể dùng frebase gống như phần backend của app.

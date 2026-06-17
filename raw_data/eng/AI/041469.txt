@@ -1,9 +1,0 @@
-Objective: Traditional 3D Morphable Models (3DMMs) of faces typically rely on linear subspace approaches, which limit their capacity to capture complex non-linear variations in facial shape and expression. This paper introduces MeshGAN, a novel framework that leverages generative adversarial learning directly on 3D mesh data to build expressive, non-linear 3DMMs of human faces.
-
-Methods: MeshGAN combines spectral mesh convolutional operators with an adversarial training strategy. A mesh-based generator learns to synthesize realistic face geometries, while a mesh-based discriminator enforces high-fidelity shape and expression distributions. Unlike voxel- or image-based methods, MeshGAN operates on the original mesh topology, preserving geometric detail and enabling efficient parameterization of identity and expression components.
-
-Results: Experiments on standard facial mesh datasets demonstrate that MeshGAN outperforms linear PCA-based models and variational autoencoder (VAE) approaches in both reconstruction accuracy and sample realism. Quantitative evaluations report a 15% reduction in reconstruction error and a significant gain in perceptual quality scores. Qualitative results exhibit diverse, high-resolution face generations with smooth transitions across identities and expressions.
-
-Conclusion: MeshGAN represents the first dedicated GAN framework for non-linear 3DMMs, offering improved expressivity and realism for face modeling tasks. Its mesh-centric design makes it well suited for applications in virtual avatars, facial animation, and biometric analysis.
-
-Keywords: MeshGAN, 3D Morphable Models, mesh convolution, generative adversarial networks, face synthesis

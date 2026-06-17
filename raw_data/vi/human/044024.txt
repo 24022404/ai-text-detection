@@ -1,1 +1,0 @@
-TP: True Positive TN: True Negative FP: False Positive FN: False Negative sử trong trường hợp phân vùng có ha nhãn lớp: 0  nền, 1  vật thể, ma trận nhầm lẫn có thể được minh họa như trong Hình 4.3.

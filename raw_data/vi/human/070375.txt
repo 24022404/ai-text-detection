@@ -1,1 +1,0 @@
-Tuy nhên với hàm băm thiết kế tốt, điụng điộ là gần như không thể xảy ra được trên thực tế. Nó cách khác nếu cố đi tìm, khối lượng tính toán phả thực hiện là rất lớn, không khả th vớ công cụ tính toán hiện thờ.

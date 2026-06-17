@@ -1,1 +1,0 @@
-The decomposition use case diagram for view summary informa tion Figure 2.13: Synthesize information use case diagramActor: Administrators, leaders, employees.

@@ -1,1 +1,0 @@
-Each execute message within the executor message enumeration is designed with its own distinct structure and data payload, enabling the smart contract to cater to a wide range of interactions initiated by users or entities across the blockchain ecosystem. Detailed tables accompany these messages, offering comprehensive descriptions and specifications for each execute message.

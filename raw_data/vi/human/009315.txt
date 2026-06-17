@@ -1,1 +1,0 @@
-Đồ án gồm bốn đóng góp chính sau đây: () Đề xuất mô hình nhận diện cử chỉ tay dựa vào các điểm trên khung xương của bàn tay kết hợp mô hình học sâu () Bộ dữ liệu gồm các cử chỉ tay khác nhau () Ứng dụng để sử dụng các chức năng của camera (v) Điều khiển camera sử dụng cử chỉ tay thông qua Jetson Nano.

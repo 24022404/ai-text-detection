@@ -1,1 +1,0 @@
-Continuous Skip-gram: model uses the current word to predict the surrounding range of context words. Each context vector is considered and compared independently with CBoW. The Skip-gram model tries to predict words around the current word based on that current word.

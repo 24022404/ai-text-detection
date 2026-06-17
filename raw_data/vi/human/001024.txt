@@ -1,1 +1,0 @@
-Tếp điến là Đặt phòng, tạ bước này, người dùng chưa đăng kí sẽ được yêu cầu nhập thông tin cá nhân. Sau đó, điặt phòng sẽ được xác nhận thành công và gửi về phía chủ nhà. Chủ nhà sẽ lên hệ với khách hàng và tự thỏa thuận về thờ điểm thanh toán.

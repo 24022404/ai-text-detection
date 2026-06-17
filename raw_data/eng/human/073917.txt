@@ -1,1 +1,0 @@
-Container Management: Docker provides a set of commands and APIs to man age containers efficiently. Developers can start, stop, restart, pause, and re- move containers using these commands.

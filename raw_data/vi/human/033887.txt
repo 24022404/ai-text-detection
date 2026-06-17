@@ -1,1 +1,0 @@
-Tensorflow a, Khá nệm Tensorflow  là thư viện mã nguồn mở cho machine learning nổ tiếng, được phát triển bởi các nhà nghiên cứu từ Google. Việc hỗ trợ mạnh mẽ các phép toán học để tính toán trong học máy và học sâu điã gúp vệc tếp cận các bài toán trở nên đơn giản, nhanh chóng và tiện lợi hơn nhiều.

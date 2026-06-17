@@ -1,1 +1,0 @@
-extReport() : Đại diện trung tâm có quyền sửa báo cáo kh báo cáo chưa được xác nhận hoặc từ chối.

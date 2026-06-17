@@ -1,1 +1,0 @@
-This sub-use case enables users to create and export a detailed report that consolidates security and malware analysis results along with general information. Users can customize the report by choosing specific details or opting to include all findings, and export the report in formats such as PDF or JSON, making it convenient for further review or sharing with others.

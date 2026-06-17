@@ -1,1 +1,0 @@
-M. Kumar, Highcharts with angular custom directive and web api . [On line]. Available: highcharts-with-angular-custom-directive-and-web api/ (visited on 2017). E. jwt, Express jwt . [On]. Available:  package/express-jwt (visited on 02/23/2023).

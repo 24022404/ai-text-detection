@@ -1,1 +1,0 @@
-F. D. Luna and O. M. Rojas, Pro MERN Stack 2nd Edition: Full Stack Web App Development with Mongo, Express, React, and Node, Apress, 2020.

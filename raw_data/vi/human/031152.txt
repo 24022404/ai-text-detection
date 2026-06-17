@@ -1,1 +1,0 @@
-Trong quá trình trong các mô hình học máy và học sâu. Có sử dụng một số các kỹ thuật điểm trích chọn đặc trưng cũng như tăng độ chính xác của mô hình được thể hiện trong bảng bên dưới:

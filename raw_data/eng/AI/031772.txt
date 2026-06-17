@@ -1,9 +1,0 @@
-Objective: Real-time semantic segmentation of video remains challenging due to high computational cost and the need to exploit temporal redundancy. We introduce GSVNet, a novel framework that leverages Guided Spatially-Varying Convolution to accelerate and enhance segmentation quality on video streams.
-
-Methods: GSVNet comprises two branches: (1) a lightweight guidance network that, at each frame, predicts spatially-varying convolution kernels by comparing current and reference feature maps; (2) a segmentation backbone that applies these dynamic kernels to fuse temporal context without explicit optical flow estimation. The guidance network learns per-pixel modulation weights, enabling the segmentation branch to adapt its receptive fields dynamically and focus computation where appearance changes most between frames.
-
-Results: On standard video semantic segmentation benchmarks (e.g., Cityscapes-Video and CamVid), GSVNet achieves up to 30 FPS on 1080p input while maintaining a mean Intersection-over-Union (mIoU) within 1–2% of state-of-the-art offline methods. Compared with existing real-time approaches, GSVNet reduces FLOPs by 40% and improves mIoU by 3–5% under identical hardware constraints. Ablation studies demonstrate that spatially-varying convolution substantially outperforms fixed-kernel baselines and that the guidance network effectively captures temporal variations.
-
-Conclusion: GSVNet delivers a compelling trade-off between speed and accuracy by embedding learned, frame-wise convolutional adaptation. Its broad applicability spans autonomous driving, robotics, and interactive video analytics, where both real-time performance and segmentation fidelity are critical.
-
-Keywords: video semantic segmentation, real-time inference, spatially-varying convolution, dynamic convolution, temporal redundancy, guidance network.

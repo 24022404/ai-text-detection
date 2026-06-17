@@ -1,1 +1,0 @@
-Consequently, assigning higher weights to nodes with local gradients closely matching the global gradient can result in slowing down the convergence and worsening the learning performance.

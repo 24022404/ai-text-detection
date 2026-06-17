@@ -1,1 +1,0 @@
-Data dimensionality reduction: feature extraction helps reduce the number of attributes in the data, thereby reducing data dimensionality and helping the training model operate more effectively.

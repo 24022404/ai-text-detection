@@ -1,1 +1,0 @@
-Đầu ra: [’tra’, ’soát’, ’thử’, ’lỗ’, ’duyệt’] 3.3.3 Tập luật sử dụng cho bà toán sửa lỗ chính tả Ở bài toán này em đề xuất 7 dạng luật sửa 7 dạng lỗ:

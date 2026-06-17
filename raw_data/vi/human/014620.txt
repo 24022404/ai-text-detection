@@ -1,1 +1,0 @@
-Biểu đồ use case tổng quan Hình 2.1: Biểu đồ use case tổng quát Từ biểu đồ use case hình 2.1 (Hình ảnh hiển thị rõ hơn được trình bày ở phần phụ lục), ta có thể thấy các tác nhân chính trong hệ thống này bao gồm có Người dùng, Ứng viên, Nhà tuyển dụng và Nhà quản trị hệ thống (Admin) .

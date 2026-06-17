@@ -1,1 +1,0 @@
-To create these Poses, we must first convert the distances between the points in the path data into distances that the camera can understand. This requires a good understanding of the ARCore platform and the Java programming language, as well as a solid grasp of mathematical concepts such as 3D geometry and coordinate systems.

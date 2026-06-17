@@ -1,1 +1,0 @@
-Chương 2 của đồ án sẽ trình bày về cơ sở lý thuyết cho bài toán hệ thống phát hiện đột biến. Cùng với đó giới thiệu các công cụ phát hiện đột biến sẽ sử dụng, tập cơ sở dữ liệu về ung thư của COSMIC và các định dạng cần thiết để chúa gả đi một bến gen.

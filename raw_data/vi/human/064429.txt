@@ -1,1 +1,0 @@
-Quản lý có thể tạo lập, chỉnh sửa, xóa các sự kiện cũng như thông tin khuyến mãi của cửa hàng trong thờ gần sắp tới.

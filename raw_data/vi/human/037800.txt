@@ -1,1 +1,0 @@
-Smart contract được trên kha thông qua giao dịch blockchain và chứng chỉ được kích hoạt khi một Tài khoản độc lập (HOA) hoặc các smart contract khác call chúng. Tuy nhiên, kích hoạt đầu tên luôn từ phía XOA (người dùng).

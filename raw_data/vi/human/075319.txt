@@ -1,1 +1,0 @@
-Gó model: chứa các định nghĩa cho các đối tượng trong ứng dụng và cung cấp các phương thức để thao tác trực tiếp với CSDL như truy vấn, thêm, sửa, xóa dữ liệu.

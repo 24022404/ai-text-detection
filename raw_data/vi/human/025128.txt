@@ -1,1 +1,0 @@
-Logc này kế thừa gả pháp phía trên, tuy nhên sẽ cà điặt ở bên trong loạ thư vện, điều này phù hợp với thực tế khi các thư vện cùng một loạ sẽ có các trường tùy chỉnh tương tự nhau.

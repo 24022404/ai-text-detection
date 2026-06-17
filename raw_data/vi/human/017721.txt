@@ -1,1 +1,0 @@
-Tính tin cậy: và hệ thống QoS (Quality of Service), MQTT đáp ứng được nhiều mức độ yêu cầu cũng như điều kiện đường truyền khác nhau.

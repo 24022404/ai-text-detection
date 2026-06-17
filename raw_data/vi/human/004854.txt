@@ -1,1 +1,0 @@
-Hệ thống hoạt động của các phương tiện Các xe trong mô trường hoạt động theo cơ chế đi theo một lộ trình điã có. Các lộ trình này đã được gán cho mỗi xe trong quá trình tạo ra xe trong mô trường, là yếu tố chính quyết định sự d chuyển của xe. Bên cạnh đó, ta có thêm thông số về vận tốc, giúp ta kiểm soát được tốc độ xe d chuyển theo lộ trình định sẵn.

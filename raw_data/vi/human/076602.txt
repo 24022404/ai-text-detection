@@ -1,1 +1,0 @@
-Sau khi người dùng đăng nhập, mỗ yêu cầu tếp theo sẽ bao gồm JWT, cho phép người dùng truy cập các tuyến điường, dịch vụ và tài nguyên được phép vớ mã thông báo đió. Đăng nhập một lần là một tính năng được JWT sử dụng rộng rã hiện nay, vì ch phí nhỏ và khả năng dễ dàng sử dụng trên các mền khác nhau.

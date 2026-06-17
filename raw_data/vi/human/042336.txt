@@ -1,1 +1,0 @@
-Flask là một micro framework cho phát triển ứng dụng web bằng ngôn ngữ lập trình Python. Flask là một trong những framework web nhỏ nhất và đơn giản nhất trong số các framework web được sử dụng rộng rãi hiện nay.

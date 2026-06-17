@@ -1,7 +1,0 @@
-Object detection has traditionally relied on specialized architectures and task-specific pipelines, limiting flexibility and generalization. This paper introduces **Pix2seq**, a novel language modeling framework that reformulates object detection as a sequence generation task. By treating bounding boxes and class labels as discrete tokens, Pix2seq leverages a unified sequence-to-sequence model to predict objects in an image. The approach eliminates the need for handcrafted components such as anchor boxes or non-maximum suppression, simplifying the detection pipeline while maintaining competitive performance.  
-
-The proposed framework employs a transformer-based architecture trained end-to-end, enabling it to learn spatial and semantic relationships directly from pixel inputs. Experiments on benchmark datasets, including COCO, demonstrate that Pix2seq achieves state-of-the-art results, outperforming traditional detection methods in terms of both accuracy and scalability. Furthermore, the framework exhibits strong generalization capabilities, making it adaptable to diverse detection tasks beyond standard benchmarks.  
-
-Pix2seq represents a significant shift in object detection methodology, offering a more flexible and unified approach that aligns with advancements in language modeling. Its simplicity, combined with high performance, opens new avenues for research in vision-language tasks and multimodal learning.  
-
-**Keywords**: Object detection, sequence modeling, transformer, language modeling, Pix2seq, computer vision.

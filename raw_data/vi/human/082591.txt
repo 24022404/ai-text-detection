@@ -1,1 +1,0 @@
-Chương 5 sẽ tập trung vào đánh giá kết quả đồ án, các vấn điề điã điược gả quyết, các vấn đề thiếu sót và hướng phát triển trong tương lai.Bước đầu tiên trong quy trình phát triển phần mềm là thu thập và phân tích yêu cầu của khách hàng. Điều này bao gồm việc tìm hiểu các yêu cầu về chức năng, yêu cầu phi chức năng và các ràng buộc khác của phần mềm.

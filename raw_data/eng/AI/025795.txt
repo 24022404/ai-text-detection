@@ -1,9 +1,0 @@
-Objective: This paper addresses the challenge of efficient planning under model uncertainty in reinforcement learning (RL) by introducing a novel Bayesian planning algorithm that combines deep search with selective exploration. Traditional Bayesian RL approaches suffer from high computational cost when constructing full lookahead trees, while heuristic sampling methods can miss critical decision branches.
-
-Methods/Approach: We propose Deep, Sparse Sampling (DSS), a two-phase algorithm that interleaves Bayesian belief updates with focused tree expansion. At each decision step, DSS performs a limited-depth rollout guided by posterior samples of transition and reward models. Sparse sampling restricts expansions to the most promising actions based on current value estimates, while deep search backpropagates uncertainty-aware rewards. This strategy reduces the branching factor and prioritizes high-impact regions of the belief space.
-
-Results/Findings: Empirical evaluation on benchmark domains—including chain MDPs, grid-world navigation, and stochastic inventory control—demonstrates that DSS achieves comparable or superior cumulative rewards to state-of-the-art Bayesian and Monte Carlo Tree Search methods, using up to 70% fewer model simulations. We also establish theoretical bounds on the sample complexity required to guarantee near-optimal performance under standard ergodicity assumptions.
-
-Conclusion/Implications: Deep, Sparse Sampling offers a practical, scalable framework for Bayes-optimal planning in high-uncertainty environments. By balancing exploration depth with targeted sampling, DSS significantly improves sample efficiency and paves the way for real-time Bayesian RL in complex domains.
-
-Keywords: Bayesian reinforcement learning; deep sparse sampling; planning under uncertainty; belief MDP; sample efficiency

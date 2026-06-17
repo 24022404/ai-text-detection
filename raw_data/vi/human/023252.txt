@@ -1,1 +1,0 @@
-Trang quản trị phải thiết kế thành các vùng độc lập (có thể là các hàng, cột, bảng biểu) điểm kh tốc độ thao tác của quản trị viên nhanh chóng và chính xác.

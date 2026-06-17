@@ -1,1 +1,0 @@
-Người dùng có thể thay đổi trạng thái ẩn hoặc hiện của bộ sưu tập Các bộ sưu tập có trạng thái hiện sẽ được hiển thị tạ gao vện danh sách bộ sưu tập và bất cứ ai cũng có thể xem.

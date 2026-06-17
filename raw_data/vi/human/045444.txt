@@ -1,1 +1,0 @@
-Người dùng có thể triển khai phần mềm ngay trên môi trường localhost của máy tính cá nhân. Các bước thực hiện như sau:

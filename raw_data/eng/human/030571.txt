@@ -1,1 +1,0 @@
-Complementing the STEEM blockchain was the use of IPFS for content storage and distribution. By storing content on multiple nodes across the network, dTube minimized reliance on traditional centralized servers. This approach ensured thatcontent remained available and resilient, even in the face of potential server outages or attempts to suppress information.

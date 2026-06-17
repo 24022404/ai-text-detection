@@ -1,9 +1,0 @@
-This paper explores the utilization of variational approximations in the context of probabilistic models by leveraging Fisher divergence. We aim to address the computational challenges associated with traditional methods of approximating complex distributions. 
-
-Methods: We propose a novel approach to variational inference by incorporating Fisher divergence as a measure of discrepancy between the target distribution and the approximating family. This method contrasts with the commonly used Kullback-Leibler divergence by focusing on the sensitivity of the divergence to local changes and offering potential computational advantages. Our approach is implemented within various probabilistic models, making use of gradient-based optimization techniques to efficiently estimate the resulting variational parameters.
-
-Results: Experimental evaluations demonstrate that our method provides competitive performance in terms of accuracy and convergence speed when compared to existing variational inference techniques. The Fisher divergence-based approach consistently produces tighter bounds on the log likelihood, resulting in improved approximation quality across several benchmark datasets and models.
-
-Conclusion: The introduction of Fisher divergence into the variational inference framework presents a promising alternative to traditional divergence measures. This research contributes to the field by expanding the toolkit available for efficiently handling complex probability distributions, with potential applications in areas such as machine learning, Bayesian statistics, and data analysis. Future work could explore further enhancements to the scalability and robustness of the proposed method.
-
-Keywords: Variational approximations, Fisher divergence, probabilistic models, Bayesian inference, gradient-based optimization, log likelihood.

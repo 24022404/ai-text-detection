@@ -1,1 +1,0 @@
-MVC (Model View Controller): Đây là một trong những mô hình quan trọng nhất trong Magento. Controllers xử lý các yêu cầu của người dùng, Models tương tác với cơ sở dữ liệu và thực hiện logc kinh doanh, còn Vws xử lý hiển thị dữ liệu cho người dùng.

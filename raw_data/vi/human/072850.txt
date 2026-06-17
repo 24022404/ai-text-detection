@@ -1,1 +1,0 @@
-Bảo mật: Trang web có các biện pháp bảo mật điểm đảm bảo an toàn thông tin người dùng, bao gồm mã hóa dữ liệu, xác thực đăng nhập, quản lý phiên làm việc, và kiểm soát quyền truy cập.

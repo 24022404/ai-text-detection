@@ -1,1 +1,0 @@
-Cải thiện giao diện của hệ thống phát hiện đạo văn của hệ thống Coop điểm thân thiện với người dùng hơn.

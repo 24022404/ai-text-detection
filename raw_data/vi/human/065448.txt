@@ -1,1 +1,0 @@
-Microservice  là một kiểu kiến trúc phần mềm mà ở đó các module trong phần mềm này được chia thành các service rất nhỏ (microservice). Mỗ service sẽ được đặt trên một server riêng. Điều này sẽ làm cho ứng dụng trở nên dễ dàng nâng cấp và cân bằng hơn. Đồng thờ từng service cũng sẽ có khả năng mở rộng độc lập và tương tác với các dịch vụ khác thông qua nhiều cách khác nhau.

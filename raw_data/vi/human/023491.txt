@@ -1,1 +1,0 @@
-Các lớp trong gói dto là các tùy chỉnh dữ liệu trả về sau khi xử lý logic trong các gói service .

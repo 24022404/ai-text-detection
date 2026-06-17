@@ -1,9 +1,0 @@
-The research addresses the challenge of efficiently performing matrix factorization for recommender systems, a critical task in providing personalized recommendations. Standard matrix factorization methods often struggle with scalability and computational overhead when dealing with large datasets.
-
-Methods: We propose a novel Block based Singular Value Decomposition (Block-SVD) approach to matrix factorization. This method partitions the data matrix into smaller, manageable blocks, allowing for parallel processing and enhanced computational efficiency. The Block-SVD technique leverages the inherent sparsity in user-item interaction matrices to optimize factorization, improving both speed and accuracy.
-
-Results: Experimental evaluations on multiple benchmark datasets demonstrate that our Block-SVD approach significantly reduces computation time compared to traditional SVD methods while maintaining high recommendation accuracy. Furthermore, the Block-SVD method scales efficiently with increasing data size, outperforming conventional techniques in resource-limited environments. 
-
-Conclusion: The introduction of the Block-SVD method presents a significant advancement in matrix factorization for recommender systems by addressing scalability and performance barriers. The approach is particularly beneficial for large-scale applications, offering enhanced speed and accuracy. These findings can be readily applied in various industries, including e-commerce and online entertainment, where real-time and personalized recommendations are critical.
-
-Keywords: Block-SVD, matrix factorization, recommender systems, scalability, computational efficiency, parallel processing.

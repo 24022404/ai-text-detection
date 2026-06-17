@@ -1,1 +1,0 @@
-Dễ sử dụng:  Cho dù kiến thức PHP của bạn có hạn hẹp vẫn có thể phát triển website một cách nhanh chóng D chuyển Database dễ dàng  : Laravel cho phép duy trì cấu trúc cơ sở dữ liệu mà không cần phải tạo lạ. Thay vì sử dụng SQL, có thể dùng PHP để kiểm soát dữ liệu. Bên cạnh đó,  cũng có thể khôi phục được những thay đổi gần nhất của Database.

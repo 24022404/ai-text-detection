@@ -1,1 +1,0 @@
-Algorthm 6: Mã gả hàm save_data() output _topc, output _ndcator _data fortcker noutput _ndcator _data.keys ()do tcker _ndcator _data←output _ndcator _data[tcker ] SendToKafka (output _topc, tcker _ndcator _data) – execute() :

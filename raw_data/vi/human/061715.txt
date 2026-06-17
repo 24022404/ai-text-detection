@@ -1,1 +1,0 @@
-Chức năng bình luận: cho phép học viên và gáo viên có thể trao điổ trực tếp về bà gảng thông qua hệ thống bình luận.

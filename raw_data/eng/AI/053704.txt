@@ -1,1 +1,0 @@
-D. E. Knuth’s "The Art of Computer Programming, Volume 4, Fascicle 4" explores various methods and the history of generating all trees and related structures.

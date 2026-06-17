@@ -1,1 +1,0 @@
-A. M. Alhakim’s 2010 paper in The American Mathematical Monthly introduces a simple combinatorial algorithm to construct de Bruijn sequences.

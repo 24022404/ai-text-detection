@@ -1,1 +1,0 @@
-Vớ những tính năng nổi bật này, extJS đã trở thành một trong những lựa chọn phổ biến cho việc phát triển các ứng dụng đa dạng và phức tạp. Vì vậy em đã chọn NextJS để làm framework xây dựng frontend cho ĐATN này.

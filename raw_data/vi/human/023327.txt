@@ -1,1 +1,0 @@
-Các trung tâm có thể chủ động tạo yêu cầu trợ cấp mà không cần tự động kêu gọi các nguồn khác hoặc chờ các bên tổ chức điến trực tiếp làm việc, trao thẻ.

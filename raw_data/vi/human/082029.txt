@@ -1,1 +1,0 @@
-Em đã tổng hợp tất cả các thông tin thu thập được và sử dụng thông tin này điểm đánh giá các tính năng phần mềm cần phát triển. Kết quả cuối cùng của quá trình khảo sát này sẽ giúp em xác định mục tiêu và các yêu cầu cần thiết cho hệ thống bán giày trực tuyến như sau:

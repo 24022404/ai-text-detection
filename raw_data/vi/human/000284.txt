@@ -1,1 +1,0 @@
-Mở Rộng Xskt Learn: Tích hợp chặt chẽ với Scikit Learn điểm mở rộng các thuật toán và công cụ học máy.

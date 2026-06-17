@@ -1,1 +1,0 @@
-Thiết kế lớp Hình 4.7 mô tả các lớp chính tham gia chức năng đặt hàng.Hình 4.7: Thiết kế các lớp chính tham gia chức năng đặt hàng a, Thiết kế chợ tết lớp Restaurant Screen (boundary) Thuộc tính:

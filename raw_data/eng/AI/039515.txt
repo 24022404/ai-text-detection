@@ -1,1 +1,0 @@
-OpenCV is widely applied in surveillance and security systems, where it facilitates face detection, motion detection, and the tracking of objects.

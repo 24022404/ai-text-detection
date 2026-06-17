@@ -1,1 +1,0 @@
-Một cơ sở dữ liệu đáng tin cậy PostgreSQL không chỉ là quan hệ, mà còn là đối tượng quan hệ và hỗ trợ các cấu trúc phức tạp và nhiều loại dữ liệu được tích hợp sẵn và do người dùng xác định.

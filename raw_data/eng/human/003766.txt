@@ -1,1 +1,0 @@
-L. Deng, “The mnist database of handwritten digit images for machine learning research [best of the web],” IEEE signal processing magazine ,jourvol 29, number 6,pages 141–142, 2012.

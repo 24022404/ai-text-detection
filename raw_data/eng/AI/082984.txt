@@ -1,9 +1,0 @@
-The proliferation of visible watermarks on digital images poses a significant challenge in preserving image quality while ensuring copyright protection. This paper introduces WDNet, a novel Watermark-Decomposition Network designed to effectively remove visible watermarks from images without compromising content integrity.
-
-Methods/Approach: WDNet employs a neural network architecture specifically tailored for watermark removal. The approach leverages a dual-branch structure where one branch focuses on decomposing the watermark components and the other on restoring the underlying image. The model is trained using a comprehensive dataset containing watermarked images and their original counterparts, utilizing loss functions that prioritize both decomposition accuracy and visual quality.
-
-Results/Findings: The effectiveness of WDNet is demonstrated through extensive experiments, where it consistently outperforms existing techniques in both qualitative and quantitative evaluations. The network shows remarkable performance in accurately estimating and separating the watermark from diverse images, leading to superior image restoration. Comparative analysis reveals that WDNet achieves higher PSNR (Peak Signal-to-Noise Ratio) and SSIM (Structural Similarity Index) metrics, showcasing its ability to maintain image fidelity.
-
-Conclusion/Implications: WDNet represents a significant advancement in the field of image processing by providing an efficient solution for visible watermark removal. Its robust architecture ensures practicality across a wide range of applications, from digital content distribution to image editing. This research contributes to the development of more advanced image restoration technologies and highlights the potential for further innovations in watermark decomposition techniques.
-
-Keywords: watermark removal, image restoration, neural networks, WDNet, decomposition, PSNR, SSIM.

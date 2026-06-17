@@ -1,1 +1,0 @@
-Tóm lạ, Flask là một micro framework điwn gản và linh hoạt, giúp cho việc phát triển các ứng dụng web trở nên dễ dàng và hiệu quả. Flask là một lựa chọn tuyệt vời cho các nhà phát triển ứng dụng web và cũng được sử dụng rộng rãi trong cộng đồng lập trình viên Python.

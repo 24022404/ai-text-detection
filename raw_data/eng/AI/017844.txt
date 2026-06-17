@@ -1,9 +1,0 @@
-Objective: Semi-supervised regression methods that effectively leverage unlabeled data remain underexplored, especially in contexts where predictive uncertainty is critical. This paper introduces a novel framework—Semi-supervised Deep Kernel Learning (SS-DKL)—that integrates Gaussian process regression (GPR) with deep feature embeddings and a variance-minimization objective to exploit unlabeled inputs.
-
-Methods: SS-DKL first maps inputs through a deep neural network to learn task-specific representations. A Gaussian process equipped with a parameterized kernel operates on these embeddings for regression. To incorporate unlabeled data, we introduce a regularizer that minimizes the predictive variance of the GPR on unlabeled samples, encouraging the model to form confident predictions where labels are unavailable. The overall loss combines the standard marginal likelihood on labeled data with the variance-minimization term, optimized end-to-end via stochastic gradient descent.
-
-Results: We evaluate SS-DKL on multiple benchmark datasets, including UCI regression tasks and real-world sensor data. Compared to fully supervised deep kernel learning and conventional semi-supervised baselines (self-training, consistency regularization), SS-DKL achieves up to a 15% reduction in root mean square error (RMSE) and demonstrates significantly lower predictive uncertainty on out-of-distribution inputs.
-
-Conclusion: By explicitly minimizing predictive variance on unlabeled samples, SS-DKL bridges representation learning and uncertainty quantification in regression. This approach offers a principled path to improve prediction accuracy and reliability in applications such as environmental monitoring and robotics, where labeled data are scarce but confidence estimates are essential.
-
-Keywords: semi-supervised learning; deep kernel learning; Gaussian process regression; predictive variance; representation learning; unlabeled data.

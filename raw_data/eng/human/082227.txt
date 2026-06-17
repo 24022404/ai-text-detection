@@ -1,1 +1,0 @@
-Icons and Symbols Icons and symbols are used consistently throughout the interface to represent actions, status, and different types of in formation. This helps users quickly understand and interpret the interface.

@@ -1,1 +1,0 @@
-Comment Controller function createComment This function handles the request to create a new comment in post. If the post is not valid then it returns error. If the comment is reply to other comment and the other comment does not exist, then it also returns error. It creates new Comment document in the database and also update the corresponding Post document.

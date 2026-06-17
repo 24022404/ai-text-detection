@@ -1,1 +1,0 @@
-Hỗ trợ cải tiến quy trình thu thập hồ sơ đăng ký tình nguyện viên Hệ thống quản lý dạy học và nhân sự cho Lớp học Cầu Vồng điã hỗ trợ cả tên và hệ thống hóa quy trình thu thập hồ sơ đăng ký làm Tình nguyện viên. Quy trình được mô hình hóa tạ hình 2.10, cụ thể như sau:

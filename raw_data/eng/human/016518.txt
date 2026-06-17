@@ -1,1 +1,0 @@
-High performance: MySQL is optimized to provide high performance and good processing in heavily loaded applications. It supports query, index, and caching optimization, which improves query speed and response time.

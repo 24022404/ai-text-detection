@@ -1,1 +1,0 @@
-Pagnaton: không khó như framework khác, ở Laravel, việc phân trang rất điơn gản. Mặc định Laravel có 2 kiểu Vew phân trang.

@@ -1,1 +1,0 @@
-Giới thiệu các công nghệ được sử dụng trong hệ thống và lý do tại sao chúng được chọn. Phân tích điểm mạnh phù hợp với dự án phần mềm này.

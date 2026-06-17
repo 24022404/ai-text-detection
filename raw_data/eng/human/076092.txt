@@ -1,1 +1,0 @@
-Behavioral AnalysisBehavioral analysis examines the runtime behavior of the application in a sand box or test device environment to identify suspicious activities. These behaviors may include sending user data to unknown servers, unauthorized access to system resources, or other malicious actions. Key aspects include:

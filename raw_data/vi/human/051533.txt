@@ -1,1 +1,0 @@
-Nhanh chóng: Được xây dựng trên công cụ Javascript V8 của Google Chrome, thư viện Nodejs có khả năng xử lý mã vô cùng nhanh.

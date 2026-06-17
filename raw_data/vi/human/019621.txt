@@ -1,1 +1,0 @@
-Tính mở rộng : Hệ thống cần phải có khả năng mở rộng điể điáp ứng điược sự tăng trưởng trong tương la mà không ảnh hưởng đến hiệu suất hoặc khả năng sử dụng.

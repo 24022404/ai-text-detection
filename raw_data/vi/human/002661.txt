@@ -1,1 +1,0 @@
-Phân tích Google Analytics có thể xác định các trang có hiệu suất kém bằng các kỹ thuật như hình dung kênh, nợ khách truy cập điện từ (và: mạng xã hội, website, quảng cáo,..), họ ở lại bao lâu, vị trí địa lý và vô vàn tính năng khác. Nó cũng cung cấp nhiều tính năng nâng cao, bao gồm phân khúc khách truy cập tùy chỉnh.

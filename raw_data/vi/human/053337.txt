@@ -1,1 +1,0 @@
-React sử dụng một khá nệm gọi là virtual DOM  là bản copy của ĐỐM thật của trang gao den dian hiển thị, React sử dụng bản copy gió và tiến hành tìm kiếm ra thành phần mà LÀM thật cần cập nhật khi có sự kiện nào đó làm cho thành phần trong nó thay đổi để tối ưu hóa quá trình cập nhật giao diện, giúp tăng hiệu suất và cảm thờ gan phản hồi.

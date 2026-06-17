@@ -1,1 +1,0 @@
-lkt/Hình 3.2: Hoạt động của mô hình client server Khi không có redux, người dùng muốn truyền một dữ liệu tớ thành phần cuối cùng của cây thì cần phải truyền thông qua các thành phần cha của thành phần cuối. Như vậy sẽ rất rắc rối nếu phải truyền ngược lạ từ thành phần con lên thành phần cha.

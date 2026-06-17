@@ -1,1 +1,0 @@
-SQL: Một công dụng của Spark SQL là thực thi các truy vấn SQL. Khi chạy SQL từ bên trong một ngôn ngữ lập trình khác, kết quả sẽ được trả về dưới dạng Dataset/Data Frame.

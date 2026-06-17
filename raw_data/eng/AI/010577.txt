@@ -1,9 +1,0 @@
-Objective: Low-resource sentiment analysis suffers from insufficient labeled data, limiting the performance of supervised classifiers. This paper proposes a novel data augmentation framework based on generative adversarial networks (GANs) to enrich training sets and improve sentiment prediction in domains with scarce annotations.  
-
-Methods: We design a conditional text-GAN that learns to generate realistic sentiment-bearing sentences by pitting a generator against a discriminator. The generator produces synthetic reviews conditioned on positive or negative labels, while the discriminator distinguishes between real and generated samples. We introduce a reinforcement-learning–based reward signal to guide the generator toward sentiment coherence and lexical diversity. Augmented data are combined with original training examples to retrain standard sentiment classifiers (e.g., LSTM and transformer-based models).  
-
-Results: Experiments on two low-resource datasets—a customer reviews corpus with fewer than 1,000 labeled instances and a social media sentiment set—show that our GAN-based augmentation boosts classifier accuracy by 5–8% compared to baseline oversampling and synonym-replacement methods. Ablation studies confirm the importance of the sentiment-conditioned reward and diversity-promoting regularizer. We also demonstrate that performance gains hold across different model architectures and generalize to an unseen domain.  
-
-Conclusion: The proposed GAN-driven augmentation pipeline effectively alleviates data scarcity in sentiment analysis, offering a scalable approach to generate high-quality labeled text. This work contributes a practical tool for low-resource natural language processing and highlights the potential of adversarial text generation to enhance downstream classifiers.  
-
-Keywords: data augmentation, sentiment analysis, generative adversarial networks, low-resource NLP, text generation.

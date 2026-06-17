@@ -1,1 +1,0 @@
-PHP là ngôn ngữ mã nguồn mở, có nghĩa là người dùng có thể tùy chỉnh và sử dụng miễn phí. PHP cũng có thể chạy trên hầu hết các hệ điều hành, bao gồm Windows, macOS, Linux, Unix, và nhiều hơn nữa.

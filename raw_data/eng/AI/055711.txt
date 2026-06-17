@@ -1,9 +1,0 @@
-Objective: Autoregressive (AR) models underpin critical forecasting systems in domains such as finance, energy management, and sensor networks. This work investigates how an adversary can strategically manipulate environmental inputs to induce maximal forecast errors in AR models. 
-
-Methods: We introduce a bilevel optimization framework that determines the minimal perturbation to observable variables required to drive the model’s predictions away from true values over a multi-step horizon. By recasting the adversarial problem as a sequence of constrained optimizations, we derive closed-form update rules for linear AR processes and develop a gradient-based solver for more complex, nonlinear variants. A dynamic-programming–inspired algorithm ensures computational efficiency even for long forecasting horizons.
-
-Results: Experiments on synthetic AR(p) processes and real-world time-series datasets demonstrate that our optimal attack strategy increases forecast mean squared error by up to 250% compared to random or single-step perturbations, while using 40% smaller input modifications. Sensitivity analyses reveal key factors—such as model order, noise variance, and horizon length—that govern vulnerability. 
-
-Conclusion: This study highlights a previously overlooked security risk in autoregressive forecasting, offering both a rigorous threat model and practical attack algorithms. Our findings underscore the need for robust training schemes and environmental integrity checks in deployed AR systems. 
-
-Keywords: adversarial attack, autoregressive model, environment manipulation, robust forecasting, time-series security

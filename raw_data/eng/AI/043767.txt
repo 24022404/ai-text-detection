@@ -1,1 +1,0 @@
-The input consists of the application's checksum, the directory path to its source code, and its type, such as specifying whether it is an Android application or another kind.

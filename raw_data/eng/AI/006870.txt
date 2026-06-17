@@ -1,1 +1,0 @@
-Inspired by the purposeful approaches of Reddit and LinkedIn, the author decided to create a travel social network website named Vifrin for their graduation thesis project. Vifrin enables users to share photos, videos, and personal experiences related to tourist attractions, fostering a vibrant online community centered around travel and exploration.

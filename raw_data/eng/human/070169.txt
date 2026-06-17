@@ -1,1 +1,0 @@
-M. Fredman andR. Tarjan, “Fbonacc heaps and ther uses n mproved network optmzaton algorthms,” Journal of the ACM ,jourvol 34,number 3, pages 596–615, 1987. P. Hart, N. Nlsson andB. Raphael, “A formal bass for the heurstc determnaton of mnmum cost paths,” IEEE Transactons on Systems Scence and Cybernetcs , jourvol 4,number 2,pages 100–107, 1968.

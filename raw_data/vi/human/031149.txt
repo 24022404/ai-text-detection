@@ -1,1 +1,0 @@
-Doman Layer: Đây là lớp chứa các điố tượng lên quan đến các thực thể chính trong Magento, bao gồm sản phẩm, điơn điặt hàng, khách hàng và nhân viên. Lớp này cũng điược phát trển bằng PHP.

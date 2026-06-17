@@ -1,1 +1,0 @@
-stop: Đây là một chuỗi được sử dụng điểm chỉ định điểm dừng cho câu trả lời. Kh mô hình gặp chuỗi này trong quá trình tạo câu trả lời, nó sẽ dừng việc tạo ra tép câu trả lời. Trong ví dụ này, ta sử dụng chuỗi "" điểm dừng câu trả lời khi gặp dấu xuống dòng.

@@ -1,1 +1,0 @@
-MySQL hỗ trợ các cơ sở dữ liệu lớn, lên tớ 50 triệu hàng hoặc nhiều hơn nữa trong một bảng. Kích cỡ file mặc định được giới hạn cho một bảng là 4GB, nhưng chúng ta có thể tăng kích cỡ này (nếu hệ điều hành có thể xử lý nó) để đạt tới giới hạn lý thuyết là 8 TB.

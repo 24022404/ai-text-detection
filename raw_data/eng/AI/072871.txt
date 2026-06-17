@@ -1,9 +1,0 @@
-This paper investigates the vulnerability and robustness of reinforcement learning-based interactive recommender systems when subjected to adversarial attacks. These systems, which tailor user experiences by predicting preferences, are increasingly adopted in various domains; however, their susceptibility to adversarial perturbations poses significant security and reliability risks.
-
-Methods/Approach: We developed a comprehensive framework for generating adversarial attacks against reinforcement learning-based recommender systems and proposed novel detection mechanisms to identify such attacks. Our approach combines gradient-based methods to craft perturbations that manipulate system outputs subtly while exploring advanced anomaly detection techniques to safeguard the system.
-
-Results/Findings: Experimental results demonstrate that our adversarial attack framework effectively compromises the performance of state-of-the-art reinforcement learning recommender systems, significantly degrading recommendation accuracy and user satisfaction. Conversely, the proposed detection methods successfully identify adversarial activities with high precision and recall, restoring the system's reliability and performance to near-original levels.
-
-Conclusion/Implications: The study highlights critical vulnerabilities in reinforcement learning-based recommender systems and underscores the importance of robust defense mechanisms against adversarial threats. Our findings contribute to the advancement of more resilient interactive systems, fostering safer deployment in real-world applications. Future research directions include enhancing attack defenses and extending the methodology to other AI-driven adaptive technologies.
-
-Keywords: reinforcement learning, recommender systems, adversarial attacks, anomaly detection, interactive systems, AI security.

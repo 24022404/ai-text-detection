@@ -1,1 +1,0 @@
-Thứ tự các khóa học trong mảng này cũng chính là thứ tự các khóa học trong lộ trình học.

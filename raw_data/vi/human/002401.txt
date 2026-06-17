@@ -1,1 +1,0 @@
-Theo quan sát thực tế và khảo sát mong muốn người dùng hiện nay, cùng với các đặc điểm và tính năng của phần mềm có sẵn trên thị trường, phần mềm quản lý bán hàng cần có các tính năng chính sau:

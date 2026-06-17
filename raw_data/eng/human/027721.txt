@@ -1,1 +1,0 @@
-Angular Highcharts facilitates dynamic and interactive data visualization, of fering a diverse array of chart types such as  charts, bar charts, pie charts, and more (Figure 3.6). These charts can be extensively customized with styling options, tooltips, drill-down functionalities, and animation effects, resulting in an enriched user experience.

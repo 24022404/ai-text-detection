@@ -1,1 +1,0 @@
-Tuy nhiên nhìn hình trên ở phần test time với mục Faster RCNN thì thờ gan tính region proposal rất lâu và làm chậm thuật toán.

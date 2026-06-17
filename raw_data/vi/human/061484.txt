@@ -1,1 +1,0 @@
-Một điơn hàng tạ chỗ chỉ thuộc một chỗ ngồ(Seat) tạ nhà hàng, tương tự một chỗ ngồ(Seat) cũng chỉ thuộc một điơn hàng(DneIn) ở thờ điểm điơn hàng chưa hoàn thành.

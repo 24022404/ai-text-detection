@@ -1,1 +1,0 @@
-Giảm thiểu sự phức tạp: Redux gúp game thểu sự phức tạp của việc quản lý trạng thái của ứng dụng. Điều này giúp cho việc phát triển và bảo trì ứng dụng trở nên dễ dàng hơn.

@@ -1,1 +1,0 @@
-The function examines a particular network security configuration file identified by its name, or if no name is provided, it automatically searches for and uses a default configuration file instead.

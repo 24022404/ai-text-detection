@@ -1,1 +1,0 @@
-HTML (vết tắt của Hypertext Markup Language – Ngôn ngữ đánh dấu sêu văn bản) là ngôn ngữ dùng để xây dựng bố cục các trang con trong một ứng dụng web.

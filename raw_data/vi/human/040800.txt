@@ -1,1 +1,0 @@
-Tầng máy chủ cơ sở dữ lệu (Database) : Lớp này có va trò lưu trữ thông tin, thường là các máy chủ. Máy chủ sẽ lưu trữ, gám sát thông tin trong tầng Database và điều khển, xử lý tầng Mddleware. Dướ điây là hình ảnh kiến trúc 3 tầng của mô hình Clent Server:

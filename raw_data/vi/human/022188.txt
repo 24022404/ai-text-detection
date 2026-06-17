@@ -1,1 +1,0 @@
-Automated topic taxonomy construction from textrch network" vớ hạ bộ dữ liệu đầu vào thuộc hai lĩnh vực phổ biến hiện nay là lĩnh vực khoa học máy tính và lĩnh vực kinh tế. Bộ dữ liệu được sử dụng là các bài báo thuộc các hội nghị nổi bật trong lĩnh vực tương ứng. Sau đó là quá trình sử dụng kết quả thu được điểm xây dựng Ontology cho hệ thống quản lý thông tin các chuyên ga.

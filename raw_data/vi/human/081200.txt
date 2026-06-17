@@ -1,1 +1,0 @@
-() Dễ dàng mở rộng: Các Microservices có thể được phát triển, triển khai và mở rộng độc lập với nhau. Đều này cho phép các nhà phát triển chỉ tập trung vào một phần cụ thể của hệ thống mà không ảnh hưởng đến các phần khác.

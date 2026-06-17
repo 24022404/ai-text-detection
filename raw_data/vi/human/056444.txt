@@ -1,1 +1,0 @@
-y.sgn(˜X.˜W +b)⩾1∀ϵ− →1, n Bài toán SVM có thể gả bằng kỹ thuật sử dụng hàm đối ngẫu Lagrange điểm bến đổ về thành dạng đẳng thức. Một đặc điểm thú vị của SVM là mặt phẳng quyết định chỉ phụ thuộc các Support Vector và nó có khoảng cách đến mặt phẳng quyết định là 1 ⃗

@@ -1,1 +1,0 @@
-Trước ka, điểm ứng dụng có thể chạy được trên 2 nền tảng thì lập trình viên phải viết ra ha bộ code riêng biệt cho mỗi hệ điều hành tương ứng, nhưng vớ React Native thì điều này không còn cần thiết nữa.

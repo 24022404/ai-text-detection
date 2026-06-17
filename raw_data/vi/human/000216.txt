@@ -1,1 +1,0 @@
-Giới thiệu Công nghệ nhận dạng khuôn mặt, dùng để xác định hoặc xác minh danh tính của một người qua khuôn mặt, đã trả qua sự phát triển nhanh chóng và tiến bộ đáng kể trong những năm gần đây, chủ yếu do việc tích hợp các phương pháp học sâu. Công nghệ này có nhiều ứng dụng thực tế, từ an ninh và giám sát điện mạng xã hội và chăm sóc sức khỏe.

@@ -1,1 +1,0 @@
-Si=−CX jpjlogCpj (4.1) where Cis the number of classes in the federated learning system and pjis proportion of samples belonging to class jin the node i.

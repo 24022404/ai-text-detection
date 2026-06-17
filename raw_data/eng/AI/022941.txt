@@ -1,1 +1,0 @@
-These technologies deliver realistic and clear image displays without increasing bandwidth, simplifying observation for users. Figure 3.2 presents the Hikvision camera with a 25mm lens, while Figure 3.3 demonstrates its impact on sharpness adjustment.

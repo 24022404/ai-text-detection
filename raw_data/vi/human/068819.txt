@@ -1,1 +1,0 @@
-Nếu loạ sản phẩm điã có sẵn quản trị vện cũng có thể chọn chức năng chỉnh sửa để chỉnh sửa thông tin theo yêu cầu. Thông tin về loại sản phẩm sẽ bao gồm tên, hình ảnh, mô tả và trạng thái.

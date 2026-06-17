@@ -1,1 +1,0 @@
-HGVHGV, HGV SP lần lượt là biến thể theo HGVS cho trình tự tham chiếu bộ gen tuyến tính, trình tự tham chiếu DNA mã hóa protein và trình tự tham chiếu cho protein.

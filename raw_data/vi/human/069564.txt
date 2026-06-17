@@ -1,1 +1,0 @@
-Thông thường, về đ ư ợc tạo dựa vào thông tin dữ liệu model. Ví dụ như, view dùng đi để cập nhật bảng Products sẽ hiển thị các hộp văn bản, dropdown lst, và các checkbox dựa trên trạng thái hiện tại của một đối tượng Product.

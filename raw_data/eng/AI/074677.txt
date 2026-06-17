@@ -1,9 +1,0 @@
-In the current landscape of machine learning, adversarial attacks pose a significant threat, jeopardizing the reliability and security of deep learning models. This paper introduces DAFAR, a novel approach designed to enhance model robustness by leveraging Feedback-Autoencoder Reconstruction to defend against adversarial perturbations.
-
-Methods/Approach: DAFAR integrates an innovative combination of feedback mechanisms and autoencoder structures to detect and mitigate adversarial inputs. By reconstructing input data, the autoencoder eliminates adversarial noise, while feedback loops continually fine-tune the model's parameters to reinforce defense mechanisms. The system is evaluated on standard image recognition datasets under a variety of adversarial attack scenarios.
-
-Results/Findings: Experiments demonstrate that DAFAR significantly improves resilience against a range of adversarial attacks compared to traditional defensive strategies. The method achieves notable success in reducing misclassification rates by reconstructing inputs to their original form, without compromising model accuracy on clean data. Comparative analysis shows DAFAR's robustness outperforms existing defenses such as adversarial training and input transformation techniques.
-
-Conclusion/Implications: DAFAR presents a substantial advancement in safeguarding machine learning models against adversarial threats. The feedback-autoencoder architecture enables dynamic adaptation and presents a versatile framework for future application in various domains requiring secure model deployment. This work contributes to the ongoing efforts to develop comprehensive defense methodologies in the field of adversarial machine learning.
-
-Keywords: adversarial attacks, feedback-autoencoder, machine learning defense, model robustness, adversarial perturbations.

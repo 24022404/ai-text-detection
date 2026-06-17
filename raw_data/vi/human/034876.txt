@@ -1,1 +1,0 @@
-Bảo mật có thể bị đe dọa: Một số lỗ hổng bảo mật điã điược tìm thấy trong PHP trong quá khứ. Đều này yêu cầu lập trình viên thực hiện các biện pháp bảo mật chặt chẽ để tránh các cuộc tấn công và xâm nhập.

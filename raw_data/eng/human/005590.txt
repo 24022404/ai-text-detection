@@ -1,1 +1,0 @@
-Frontend The frontend of the system plays a critical role as it enables users or clients to interact with the system in a seamless and user-friendly manner. It serves as the interface through which users can access the system’s features, functionalities, and data.

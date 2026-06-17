@@ -1,1 +1,0 @@
-Kiểm thử chức năng đăng ký làm tình nguyện về nSTT Kịch bản kiểm thử Kết quả mong muốn 1 Tạ màn hình tổng quan lớp học, người dùng ấn nút "Nộp CV"Chuyển hướng đến màn hình form đăng ký làm tình nguyện viên. Màn hình form đăng ký làm tình nguyện viên bao gồm ba trang.

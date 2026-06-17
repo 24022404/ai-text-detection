@@ -1,1 +1,0 @@
-The CNN 1-d refined tests use the same basic setup ad CNN 1-d but include different hyperparameter selections. Hence, adding parameter improved the CNN 1-d case, reaching the best overall accuracy of 0.8932.

@@ -1,1 +1,0 @@
-Mitchell, Etzion, and Paterson (1996) introduced a method for building decodable de Bruijn sequences, making it easier to decode sequence positions for use in information theory.

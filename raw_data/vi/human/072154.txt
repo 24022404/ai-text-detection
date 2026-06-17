@@ -1,1 +1,0 @@
-Ngườ dùng ấn vào thanh thực điơn 2.2. Ngườ dùng ấn vào bểu tượng bút chì ở món ăn muốn sửa 2.3. Hệ thống hển thị giao diện chỉnh sửa món ăn 2.4. Ngườ dùng nhập thông tin cần chỉnh sửa 2.5. Ngườ dùng ấn nút sửa 2.6. Hệ thống cập nhật thông tin món ăn và hển thị trên giao diện 3. Xóa món ăn trong menu:

@@ -1,1 +1,0 @@
-Consequently, combining these locally trained models into a global model becomes challenging, leading to poor convergence rate and suboptimal generalization performance.

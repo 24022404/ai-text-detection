@@ -1,1 +1,0 @@
-Chức năng của controller là lấy, sửa đổi và cung cấp dữ liệu cho người dùng. Về cơ bản, controller là liên kết giữa View và Model.

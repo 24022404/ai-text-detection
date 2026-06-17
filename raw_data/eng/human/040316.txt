@@ -1,1 +1,0 @@
-As for GOAP library, below table 2.1, the author has created a comparison table highlighting the strengths and weaknesses of the available GOAP packages on the Unity Asset Store.

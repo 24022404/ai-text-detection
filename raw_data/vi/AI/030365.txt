@@ -1,7 +1,0 @@
-Xác định đột biến gen α-thalassemia bằng kỹ thuật Multiplex ligation-dependent probe amplification là một phương pháp mới và hiệu quả trong chẩn đoán và phân tích đột biến gen liên quan đến bệnh α-thalassemia. Bệnh α-thalassemia là một tình trạng di truyền ảnh hưởng đến sản xuất hemoglobin, một loại protein quan trọng trong máu.
-
-Kỹ thuật Multiplex ligation-dependent probe amplification (MLPA) là một phương pháp phân tích gen dựa trên kỹ thuật PCR (Polymerase Chain Reaction). Phương pháp này cho phép xác định đột biến gen α-thalassemia bằng cách sử dụng các probe (phát xạ) đặc hiệu để gắn vào các vùng gen bị đột biến.
-
-Phương pháp MLPA có thể xác định các đột biến gen α-thalassemia bao gồm mất đoạn gen, chuyển đoạn gen, và đột biến điểm. Kết quả phân tích gen bằng MLPA có thể giúp chẩn đoán và phân tích đột biến gen α-thalassemia một cách chính xác và hiệu quả.
-
-Phương pháp này đã được áp dụng trong các nghiên cứu và ứng dụng lâm sàng để xác định đột biến gen α-thalassemia và giúp điều trị bệnh một cách hiệu quả hơn.

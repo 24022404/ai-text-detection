@@ -1,1 +1,0 @@
-Trong phần này, tô trình bày ba ca kiểm thử các chức năng của hệ thống. Các ca kiểm thử khác được trình bày trong Phụ lục C4.4.1 Kiểm thử chức năng "Tạo Workspace" Dữ liệu đầu vào:

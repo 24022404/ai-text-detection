@@ -1,1 +1,0 @@
-Thống kê Tên ca sử dụng: Thống kê ID:12 Tác nhân chính: Quản trị viên Mục điích: Quản trị viên muốn xem thống kê Mô tả: Ca sử dung mô tả Quản trị viên muốn xem thống kê Kịch hoạt: Quản trị viên chọn xem thống kê Luồng sự kện chính:

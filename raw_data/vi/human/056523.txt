@@ -1,1 +1,0 @@
-Chương cuố cùng sẽ là phần kết luận và hướng phát trển trong tương la dành cho hệ thống này.2.1 Khảo sát hiện trạng Chương khảo sát hiện trạng sẽ trình bày về tình trạng và một số ưu điểm, nhược điểm của các hệ thống tương tự, từ đió đưa ra các chức năng và yêu cầu cần thiết cho hệ thống cần xây dựng.

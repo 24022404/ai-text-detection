@@ -1,1 +1,0 @@
-J. Devlin, M.W. Chang, K. Lee, and K. Toutanova, “Bert: Pre Training of deep bidirectional transformers for language understanding,” arXiv preprint arXiv:1810.04805 , 2018.

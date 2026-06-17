@@ -1,1 +1,0 @@
-Tố ưu hóa đa chiều: ScPy cung cấp các chức năng tối ưu hóa địa chều điểm giải quyết các bài toán tối ưu hóa không ràng buộc hoặc có ràng buộc với nhiều bến.

@@ -1,1 +1,0 @@
-Brevity Penalty =  1 ifc > r Finally, the BLEU score is computed by multiplying the Brevity Penalty with the Geometric Average of the Precision scores.

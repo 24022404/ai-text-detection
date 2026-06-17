@@ -1,1 +1,0 @@
-Người dùng  Người dùng là người truy cập vào website và thực hiện các chức năng của hệ thống; Người dùng sau khi đăng nhập có thể xem, lưu video mình thích, đăng tải video của mình; Đánh giá video của người khác (like, comment), báo cáo video của người khác nếu thấy có vấn đề...; Ngoài ra, người dùng có thể nhắn tin với người dùng khác cũng sử dụng website.

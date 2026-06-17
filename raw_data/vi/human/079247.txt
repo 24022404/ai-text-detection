@@ -1,1 +1,0 @@
-Presentaton layer: Đây là lớp giao diện người dùng, chịu trách nhệm hển thị dữ lệu và tương tác với người dùng. Lớp này điược phát trển bằng HTML, CSS, JavaScrpt và các công nghệ khác.

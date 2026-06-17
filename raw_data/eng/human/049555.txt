@@ -1,1 +1,0 @@
-Firstly, I chose to gather cryptocurrency data using the Coingecko API as it pro vides comprehensive and up-to-date information on various cryptocurrencies. This data is then stored on Github, ensuring a secure and easily accessible repository for further analysis.

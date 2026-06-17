@@ -1,1 +1,0 @@
-Sau quá trình trận, trọng số (weight) của model Yolo V5 sẽ được lưu trong thư mục run/trong xp/weights, đó là weights của của epoch tốt nhất và best.pt và epoch cuố cùng last.pt.

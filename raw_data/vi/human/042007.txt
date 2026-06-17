@@ -1,1 +1,0 @@
-Khả năng hỗ trợ cao: MySQL hỗ trợ hầu hết các ngôn ngữ, framework và các thư viện ORM hiện nay.

@@ -1,1 +1,0 @@
-Các bài báo của Chan, Games và Key tập trung nghiên cứu về độ phức tạp của các chuỗi de Bruijn và đã đề xuất một thuật toán nhanh nhằm xác định độ phức tạp của các chuỗi nhị phân có chu kỳ 2^n. Công trình này đóng vai trò quan trọng trong lĩnh vực mã hóa và lý thuyết thông tin, giúp nâng cao hiệu quả phân tích chuỗi tuần hoàn.

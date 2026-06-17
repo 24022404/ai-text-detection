@@ -1,1 +1,0 @@
-Trong phần kiểm thử, trình bày về kịch bản sử dụng, các kết quả kiểm thử. Cuối cùng là báo cáo về kế hoạch triển khai phần mềm trong thực tế.

@@ -1,1 +1,0 @@
-Bến đỗ và nhễu : Khi có ít dữ liệu, mô hình có thể không được đào tạo để đối phó với các bến đỗ như góc nhìn, ánh sáng, biểu cảm khuôn mặt, hoặc nhiễu trong quá trình chụp ảnh. Điều này làm giảm độ chính xác của việc nhận diện khuôn mặt.

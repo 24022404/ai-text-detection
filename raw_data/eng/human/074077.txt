@@ -1,1 +1,0 @@
-UnspawnAll(): Similar to Unspawn(), this method returns all active objects in the activeList back to the pool, making them inactive.

@@ -1,1 +1,0 @@
-Activity : Xử lý các yêu cầu lấy lịch sử giao dịch liên quan tới một collection hay một nft.

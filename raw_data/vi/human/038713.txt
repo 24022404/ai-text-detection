@@ -1,1 +1,0 @@
-Kết quả đạt được Khi sử dụng S3 điển lưu trữ file thay vì lưu trữ trực tiếp trong mã nguồn backend, sẽ giảm thiểu việc quản lý dữ liệu, tăng tốc độ xử lý và giảm thiểu tả cho server.

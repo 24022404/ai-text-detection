@@ -1,1 +1,0 @@
-Quản lý tổ chức: Quản trị viên hệ thống có quyền tạo mới một tổ chức trong hệ thống khi có yêu cầu muốn sử dụng dịch vụ từ tổ chức đó. Đồng thờ, quản trị viên sẽ thêm tài khoản Giám đốc điều hành để quản lý tổ chức này và sử dụng các tính năng của ứng dụng.

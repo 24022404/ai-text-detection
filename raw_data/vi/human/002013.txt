@@ -1,1 +1,0 @@
-Tạo dự án trên Google API Console với các thông tin cần thiết và đặc biệt cần thêm các phạm vi dự án(scopes). Ở đây ta thêm các quyền truy cập vào Google API Calendar.

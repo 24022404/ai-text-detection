@@ -1,1 +1,0 @@
-RNN encoders RNN encoders use LSTM or GRU layers to encode the source sequence. RNNencoders can use more than one layer to capture more fine-grained language represent ations . The 0thlayer is a sequence of word embeddings, which are extracted from the look-up table of the source side using the word ordering provided by the source sequence.

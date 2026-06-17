@@ -1,1 +1,0 @@
-Hiện tại, nhiều Startup nhỏ đang không áp dụng hệ thống quản lý chấm công cũng như quản lý thông tin nhân viên. Họ chỉ có 1 và nhân viên kế toán cũng như nhân sự cùng vớ bản báo cáo trích xuất từ máy chấm công hàng tháng để quản lý việc tính lương cũng như quản lý thông tin nhân viên từ những bản hồ sơ mà nhân viên cung cấp lúc vào công ty.

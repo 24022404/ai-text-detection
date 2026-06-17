@@ -1,1 +1,0 @@
-Tuy nhiên, một số nhược điểm của PostgreSQL là yêu cầu khá nhiều kinh nghiệm để sử dụng và cấu hình, đặc biệt là trong các hệ thống có quy mô lớn.

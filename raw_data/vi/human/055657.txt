@@ -1,1 +1,0 @@
-Meda Server có thể theo dõi luồng phương tiện một cách chủ động và thực hiện các biện pháp kiểm soát chất lượng. Nó có thể tố ưu hóa chất lượng video bằng cách điều chỉnh độ phân giải dựa trên điều kiện mạng và khả năng của người tham gia.

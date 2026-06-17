@@ -1,1 +1,0 @@
-Postconditions : The user can generate and download a report summariz ing all the tracked API calls and network interactions.

@@ -1,1 +1,0 @@
-Main Database All information that was dedicated to Trendz would be stored here, including crawled data, machine learning models outputs and generated data by users during their experience with Trendz.

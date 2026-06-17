@@ -1,1 +1,0 @@
-Use case reset password The supplier can reset their password. After resetting successfully, they can log in with the new password.

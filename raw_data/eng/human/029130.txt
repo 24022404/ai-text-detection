@@ -1,1 +1,0 @@
-When customers request support, they will access ANSV’s customer sup port website on their devices such as computers, phones... After registering and logging in information, their requests will be aggregated into ANSV’s helpdesk system.

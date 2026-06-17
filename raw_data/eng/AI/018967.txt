@@ -1,1 +1,0 @@
-The input layer, positioned on the far left of the network, serves as the entry point, receiving and representing its inputs.

@@ -1,1 +1,0 @@
-Có thể thấy, kiến trúc của Magento tuân theo kến trúc MVC (ModelVew Controller) nhưng điã điược cả tến điể dễ dàng phát trển cũng như phù hợp với thương mạ điện tử hơn. Cụ thể Magento điã thêm vào khá nệm Helpers cung cấp các chức năng hỗ trợ cho controllers và vews. Chúng điược chia thành ha loạ:

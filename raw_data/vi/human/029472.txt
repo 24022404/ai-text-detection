@@ -1,1 +1,0 @@
-Về cơ sở dữ lệu, những thông tin người dùng nhập vào để tạo bản gh mớ, sửa bản gh cũ, hay truy xuất dữ lệu sang phía người dùng điều cho kết quả chính xác.

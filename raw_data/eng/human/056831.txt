@@ -1,1 +1,0 @@
-html#Schwenk12 . T. Mikolov, I. Sutskever, K. Chen, G. S. Corrado andJ. Dean, “Distributed representations of words and phrases and their compositionality,” inAdvances in Neural Information Processing Systems 26 C. Burges, L. Bottou, M. Welling, Z. Ghahramani andK. Weinberger, editors , 2013, pages 3111–3119. url:

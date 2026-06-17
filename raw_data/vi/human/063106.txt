@@ -1,1 +1,0 @@
-Nhờ việc sử dụng Docker điểm container hóa ứng dụng, việc cài đặt, trên kha ở các môi trường khác nhau trở nên thuận tiện và đơn giản hơn rất nhiều.

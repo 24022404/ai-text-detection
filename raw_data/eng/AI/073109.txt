@@ -1,9 +1,0 @@
-This paper addresses the challenge of bias towards global statistics in image classification models, which can degrade performance by over-relying on aggregated image features. We introduce Permuted Adaptive Instance Normalization (Permuted AdaIN), a novel approach designed to enhance model generalization by reducing dependency on global statistics.
-
-Methods: Permuted AdaIN modifies the traditional Adaptive Instance Normalization process by permuting spatial dimensions before normalization, which disrupts the reliance on uniform global statistics. This approach is integrated into deep neural networks, particularly convolutional architectures, to improve image classification capabilities without the loss of spatial information critical for nuanced image understanding.
-
-Results: Experimental evaluations demonstrate that the inclusion of Permuted AdaIN consistently enhances classification accuracy across multiple benchmark datasets compared to conventional methods. The proposed method improves performance by maintaining a more balanced focus on both local and global image features, significantly outperforming standard AdaIN and related normalization techniques.
-
-Conclusion: The introduction of Permuted AdaIN is a significant contribution to the field of image classification, offering a robust solution to the bias issue by preserving essential spatial details. This technique not only advances the classification accuracy but also provides a framework applicable to various convolutional network architectures, paving the way for broader applications in computer vision tasks. 
-
-Keywords: Permuted AdaIN, image classification, global statistics bias, adaptive instance normalization, deep learning, convolutional networks, computer vision.

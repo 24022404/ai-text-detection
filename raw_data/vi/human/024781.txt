@@ -1,1 +1,0 @@
-Yêu cầu về bảo mật Hệ thống đảm bảo các tác nhân sẽ chỉ có thể truy cập vào các chức năng điã điược phân quyền phù hợp với tài khoản các tác nhân sử dụng điểm đăng nhập vào hệ thống.

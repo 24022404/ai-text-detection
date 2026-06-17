@@ -1,1 +1,0 @@
-Người dùng có quyền truy cập và cài đặt các ứng dụng, trên kha website, và quản lý các tác vụ khác một cách linh hoạt mà không cần lo lắng về việc quản lý toàn bộ máy chủ vật lý.

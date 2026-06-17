@@ -1,1 +1,0 @@
-Vớ API Key có thể tích hợp Chat GPT vào ứng dụng của mình để tận dụng khả năng tương tác ngôn ngữ tự nhiên của nó. API Key cho phép gửi các yêu cầu cho Cha GPT thông qua giao thức mạng, và nhận phản hồi từ mô hình để hiển thị cho người dùng. Đều này cho phép ứng dụng tương tác với người dùng, trả lời câu hỏi, cung cấp thông tin.

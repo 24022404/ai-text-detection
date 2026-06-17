@@ -1,1 +1,0 @@
-FrontEnd : Gồm các thành phần tạo nên những giao diện trực quan giúp người dùng tương tác và sử dụng hệ thống. Trong gió FrontEnd gồm các gó con Routes, Components, Hooks, Styles, FrontEnd Service, Assets.

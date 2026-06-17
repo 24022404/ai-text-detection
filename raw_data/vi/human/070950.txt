@@ -1,1 +1,0 @@
-Mỗ người dùng sở hữu nhiều cuộc hội thoại, mối quan hệ giữa project và task là 1n.•Mỗ người dùng là thành viên của các cuộc hội thoại khác nhau, mối quan hệ giữa người dùng và thành viên cuộc hội thoại là 1n.

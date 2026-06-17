@@ -1,1 +1,0 @@
-R. D. Hjelm, A. Fedorov, S. Lavoie-Marchildon andothers , “Learning deep representations by mutual information estimation and maximization,” inInternational Conference on Learning Representations 2019. url:

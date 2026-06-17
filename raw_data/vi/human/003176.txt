@@ -1,1 +1,0 @@
-swft run Run –hostname 192.168.1.24 –port 8080 Bước 4: Chạy sgnalng server phục vụ cho tính năng gọ điện vdeo trực tuyến.

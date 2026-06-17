@@ -1,1 +1,0 @@
-Auth Service: chịu trách nhiệm xử lý các logc liên quan đến đăng nhập, xác thực người dùng khi gọi API.

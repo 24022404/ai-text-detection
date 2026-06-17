@@ -1,1 +1,0 @@
-Vớ yêu cầu về tính dễ sử dụng ReactJS được thiết kế điểm phát triển giao diện người dùng hiệu quả, đặc biệt là ko phải xử lý các thành phần giao diện phức tạp.

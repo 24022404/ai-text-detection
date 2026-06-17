@@ -1,1 +1,0 @@
-Vòng lặp 1: Chức năng đăng ký và chức năng đăng nhập tài khoản Vòng lặp 2: Chức năng tìm kiếm và xem chi tiết bài viết Vòng lặp 3: Chức năng xem thông tin và chỉnh sửa thông tin tài khoản Vòng lặp 4: Chức năng xem danh sách bài viết của tô, tạo, chỉnh sửa và xóa bài viết Vòng lặp 5: Chức năng bình luận vào bài viết 1. Vòng lặp 1:

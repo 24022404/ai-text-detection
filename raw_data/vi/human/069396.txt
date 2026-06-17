@@ -1,1 +1,0 @@
-Dướ điây là hình vẽ mô tả kiến trúc và các thành phần tổng quan của hệ thống Apache Kafka.

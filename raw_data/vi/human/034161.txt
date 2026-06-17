@@ -1,1 +1,0 @@
-Tổng quan về WebRTC  cho thấy đây là một công nghệ mạnh mẽ và tiềm năng và khả năng tạo ra các ứng dụng truyền thông thờ gan thực đa dạng trên web mà không cần phụ thuộc vào các phần mềm bên ngoài.

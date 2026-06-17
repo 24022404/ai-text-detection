@@ -1,1 +1,0 @@
-Tô đã tìm hiểu và biết đến dịch vụ đám mây lưu trữ. Các dịch vụ đám mây cung cấp dung lượng lớn để có thể lưu trữ thông tin, đặc biệt có độ bảo mật tốt được rất nhiều cá nhân, doanh nghiệp lựa chọn và sử dụng hiện nay. Đặc biệt, có thể giúp tránh các vấn đề về video như video bị dừng khi người dùng đang xem hoặc không thể đăng tải video do phía server bị hết dung lượng.

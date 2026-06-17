@@ -1,9 +1,0 @@
-As the demand for distributed learning systems grows, the need to effectively transmit large datasets without compromising performance becomes critical. This research investigates the impact of using compressed images in distributed learning and inference tasks, aiming to optimize data transmission without sacrificing model accuracy.
-
-Methods/Approach: We propose a novel framework that integrates image compression techniques with distributed machine learning systems. The approach includes a custom compression scheme tailored to minimize information loss relevant to learning tasks. Additionally, this framework leverages a decentralized architecture to distribute both the computation and storage requirements across multiple nodes, ensuring scalability and efficiency.
-
-Results/Findings: Our experiments, conducted on benchmark datasets, demonstrate that the proposed framework can significantly reduce data transmission load while maintaining high model accuracy. In comparison to traditional uncompressed methods, our approach showed up to a 50% reduction in transmission size with less than a 2% drop in classification accuracy. We provide a detailed analysis of various compression levels and their trade-offs between data size and model performance.
-
-Conclusion/Implications: This study highlights the potential of compressed images in enhancing the efficiency of distributed learning systems, offering a viable solution for environments with bandwidth constraints. The proposed methodology not only contributes to the field of distributed artificial intelligence but also opens up new avenues in optimizing communication overhead in machine learning applications. Future work could explore adaptive compression techniques depending on the specific requirements of different learning tasks.
-
-Keywords: distributed learning, image compression, machine learning, data transmission, decentralized architecture, model accuracy.

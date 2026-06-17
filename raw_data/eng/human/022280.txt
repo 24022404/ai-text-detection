@@ -1,1 +1,0 @@
-–Positional Encoding: Positional encoding is used in transformers to provide positional information, helping the model understand the relative positions of words in the input sequence, as they do not have an inherent notion of word order.

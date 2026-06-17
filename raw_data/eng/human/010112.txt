@@ -1,1 +1,0 @@
-The proposed mechanism and benchmarks are evaluated using three evaluation metrics: exact match ratio (EMR), hamming loss, and accuracy .

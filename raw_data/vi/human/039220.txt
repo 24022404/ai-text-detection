@@ -1,1 +1,0 @@
-.Controller: nhận yêu cầu (request) từ Frontend và đưa đến đúng vị trí xử lý yêu cầu đó. Sau khi đã xử lý yêu cầu, Controller gửi phản hồi (Response) về cho người dùng.

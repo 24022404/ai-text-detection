@@ -1,1 +1,0 @@
-Thông qua các đánh giá thí nghiệm rộng rãi trên một số cơ sở dữ lệu chuẩn, hệ thống điã cho thấy phương pháp RHDA vượt trộ hơn nhiều phương pháp tiên tiến hiện nay, đặc biệt trong tình huống nhận diện khuôn mặt với một mẫu duy nhất cho mỗi người. Đây cung cấp một cách tiếp cận mới hứa hẹn cho việc nhận diện khuôn mặt robust vớ dữ liệu huấn luyện tối thiểu.

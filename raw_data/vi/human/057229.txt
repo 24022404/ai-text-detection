@@ -1,1 +1,0 @@
-Quản lý khách hàng: quản lý các thông tin ch tết của các khách hàng đã mua hàng tại cửa hàng Quản lý lợi nhuận và thống kê: thống kê về doanh số, tình trạng bán hàng.

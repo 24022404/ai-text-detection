@@ -1,1 +1,0 @@
-Vớ mỗ từ đầu vào, em chuyển từ đó thành mảng các ký tự bàn phím cấu tạo nên từ đó. Sau đó sẽ tính độ tương đồng giữa mảng ký tự của từ gợi ý với từ sai lỗi chính tả. Từ độ tương đồng tính được, em sắp xếp lại vị trí các từ gợi ý và đưa ra các từ gợi ý có độ tương đồng cao nhất.

@@ -1,1 +1,0 @@
-path: This column stores the details of the path between the source-vertex and thedestination-vertex . It may contain information such as the length of the path, the intermediate vertices, and any other relevant information.

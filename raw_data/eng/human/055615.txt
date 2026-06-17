@@ -1,1 +1,0 @@
-The next chapter, Chapter 2, will introduce the background knowledge of thetechnology that is used in this thesis such as blockchain, smart contract and espe cially Eueno, our decentralize storage method. Then it will discuss the approaches that has been made with the given objective.

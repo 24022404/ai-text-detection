@@ -1,1 +1,0 @@
-The system will access the Data Manager to get the data of the gameplay comple tion time and display it back to the Canvas High Score Screen.

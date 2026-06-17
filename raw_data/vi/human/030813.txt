@@ -1,1 +1,0 @@
-Cấu trúc của dự án sẽ được chia làm các dịch vụ riêng biệt: ký tài lệu, gao vện quản lý, gao dẫn sử dụng, lưu trữ cặp khóa và chứng thư.

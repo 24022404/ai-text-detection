@@ -1,1 +1,0 @@
-While TensorFlow may be slower in compute speed, its focus on stable production environments is viewed as the right approach over pure performance.

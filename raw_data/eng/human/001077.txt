@@ -1,1 +1,0 @@
-Step 5: Repeating steps 3 and 4 until the merging process reaches a predefined threshold or the expected size of the vocabulary is achieved.

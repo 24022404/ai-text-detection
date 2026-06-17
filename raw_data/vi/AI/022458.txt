@@ -1,3 +1,0 @@
-Được đề xuất một thuật toán xác định tốc độ góc của các đối tượng di chuyển với nhiều loại cảm biến gia tốc
-
-Một nhóm nghiên cứu đã đề xuất một thuật toán mới để xác định tốc độ góc của các đối tượng di chuyển. Thuật toán này sử dụng dữ liệu từ nhiều loại cảm biến gia tốc khác nhau để tính toán tốc độ góc chính xác. Với sự giúp đỡ của thuật toán này, các hệ thống giám sát và điều khiển có thể được cải thiện đáng kể, giúp đảm bảo an toàn và hiệu suất cao hơn.

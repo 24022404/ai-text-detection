@@ -1,9 +1,0 @@
-This paper investigates the role of the discount factor as a regularizer within reinforcement learning (RL) frameworks. The study addresses the fundamental question of how adjusting the discount factor impacts policy learning stability and overall performance in various environments.
-
-Methods/Approach: We propose a novel approach that treats the discount factor not merely as a parameter for weighing future rewards but as a crucial regularizer that influences the learning dynamics of RL agents. Our methodology involves systematically varying the discount factor in multiple RL algorithms, such as Q-learning and policy gradient methods, across diverse simulated environments. Extensive computational experiments were conducted to evaluate its impact on convergence rates and policy robustness.
-
-Results/Findings: The findings demonstrate that an optimized use of the discount factor can significantly enhance the learning process by preventing overfitting and ensuring smoother convergence to optimal policies. Our results show that applying the discount factor as a regularizer leads to improved performance compared to conventional methods, as evidenced by enhanced policy consistency and superior adaptability across a range of test scenarios.
-
-Conclusion/Implications: This study highlights the importance of re-evaluating the role of the discount factor in reinforcement learning, suggesting it as a vital tool for regularization. The insights gained from this research propose new avenues for refining RL algorithms, with implications for applications in robotics, automated control, and other domains where reinforcement learning is applied. By leveraging the discount factor appropriately, practitioners can achieve more reliable learning outcomes and enhance the generalizability of RL models.
-
-Keywords: discount factor, reinforcement learning, regularization, policy learning, convergence, Q-learning, policy gradient.

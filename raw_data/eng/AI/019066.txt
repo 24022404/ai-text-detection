@@ -1,1 +1,0 @@
-F. Chung, P. Diaconis, and R. Graham's 1992 paper explores universal cycles—cyclic sequences that efficiently encode combinatorial objects.

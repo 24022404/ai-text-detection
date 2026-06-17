@@ -1,1 +1,0 @@
-is chosen. In all cases, a decay rate of 0.995 is applied after each communicationFigure 5.5: LSTM model architecture used for Large Movie Review Dataset

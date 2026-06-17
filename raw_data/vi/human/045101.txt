@@ -1,1 +1,0 @@
-Biểu đồ use case phân rã quản lý thông tin bạn bè Hình 2.7: Biểu đồ use case phân rã quản lý thông tin bạn bè Use case "Quản lý thông tin bạn bè" được phân rã thành các use case nhỏ hơn như sau: () thêm bạn bè, () xem danh sách tất cả mọi người, () xem danh sách bạn bè, (v) tìm kiếm theo tên, (v) xem thông tin cá nhân bạn bè, (v) xóa bạn bè, (và) chặn bạn bè.

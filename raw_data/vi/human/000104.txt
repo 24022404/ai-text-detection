@@ -1,1 +1,0 @@
-Ko yêu cầu được gửi từ phía client lên thì hệ thống sẽ gọi đến đúng controller tương ứng với yêu cầu của người dùng. Từ đó, truy vấn đến đúng model tương ứng để lấy ra dữ lệu của người dùng cần. Sau đó, sẽ trả dữ lệu đó về cho phía người dùng. Lúc này, ở ứng dụng di động sẽ hiển thị dữ lệu đó ra theo đúng thiết kế từ trước.

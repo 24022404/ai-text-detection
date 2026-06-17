@@ -1,1 +1,0 @@
-X. Chen, H. Fan, R. B. Girshick andK. He, “Improved bases with momentum contrastive learning,” CoRR ,jourvol abs/2003.04297, 2020. arXiv: 2003.

@@ -1,1 +1,0 @@
-Reconnaissance The methodology for recognizing sensitive information within an application’s code or configuration files involves scanning the application’s files for patterns indicative of sensitive data.

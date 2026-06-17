@@ -1,1 +1,0 @@
-Users are able to download screenshots that demonstrate specific app behavior or security-related visuals, as long as the file has previously been analyzed and the corresponding screenshots are accessible for download.

@@ -1,1 +1,0 @@
-Firebase a, Giới thiệu Firebase  là một nền tảng do Google phát triển điểm tạo các ứng dụng web và di động. Nền tảng này cung cấp những dịch vụ hữu ích hỗ trợ lập trình viên trong quá trình phát triển ứng dụng.

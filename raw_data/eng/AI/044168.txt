@@ -1,9 +1,0 @@
-This study explores the application of the You Only Look Once (YOLO) framework, a notable real-time object detection system, for identifying and monitoring marine life. The research aims to address the challenge of accurately detecting and classifying diverse marine species in underwater environments, which are often characterized by complex visuals and varying lighting conditions.
-
-Methods/Approach: We utilized the YOLOv4 model, known for its speed and precision, to develop an automated system capable of analyzing underwater footage. The model was trained using a robust dataset gathered from various marine habitats, which included annotated images of different fish species, coral formations, and other marine organisms. Techniques for data augmentation and image preprocessing were employed to improve model robustness and mitigate the challenges posed by underwater imagery.
-
-Results/Findings: The implementation of the YOLO-based detection system demonstrated a high accuracy rate in identifying and classifying marine life, achieving a precision score of 92% and a recall score of 89% across the test dataset. The system outperformed existing models in terms of speed, processing frames at real-time speeds, making it suitable for deployment in field applications involving live video feeds.
-
-Conclusion/Implications: The findings underscore the efficacy of the YOLO framework in real-time marine species detection, providing a valuable tool for marine biologists and conservationists. This approach not only enhances the monitoring of biodiversity in marine environments but also facilitates better-informed conservation strategies and ecological studies. Future work may extend to the integration of this system in autonomous underwater vehicles (AUVs) to further broaden its application scope.
-
-Keywords: YOLO, real-time object detection, marine life, underwater imagery, marine biodiversity, automated monitoring.

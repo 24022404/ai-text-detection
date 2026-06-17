@@ -1,1 +1,0 @@
-Lớp Manage Job Controller trong package controller phụ thuộc vào các lớp view. Manager Job Controller chứa các hàm xử lý yêu cầu đầu vào của người dùng, và những yêu cầu này được thực hiện bởi người dùng thông qua các lớp JobView.

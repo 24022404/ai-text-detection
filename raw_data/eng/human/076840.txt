@@ -1,1 +1,0 @@
-Actors Involved : User – Preconditions : The file must be analyzed, and the user must have access to the analysis results.

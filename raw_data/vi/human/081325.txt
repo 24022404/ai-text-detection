@@ -1,1 +1,0 @@
-Mysql thuộc quyền sở hữu của gã khổng lồ Oracle, các phiên bản vẫn luôn luôn được cập nhật và bổ sung các tính năng giúp cho Mysql ngày càng tốt hơn.

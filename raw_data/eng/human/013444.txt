@@ -1,1 +1,0 @@
-Purpose of the Exported Activity TesterThe main goal of the exported activity tester is to identify activities that are unin tentionally exposed to external applications. These activities could allow malicious apps to interact with the target app’s internal components, potentially causing the following issues:

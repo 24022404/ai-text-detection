@@ -1,1 +1,0 @@
-Controller nhận được Model trả về cho App thông qua API.Hình 4.2: Luồng hoạt điộng của Backend theo mô hình kết hợp giữa mô hình ba lớp và MVC Mô hình MVVM được phát triển dựa trên cả MVC và MVP. MVVM được phát triển để tách CU ra khỏi logic nghiệp vụ. Một số ưu điểm của MVC:

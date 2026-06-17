@@ -1,1 +1,0 @@
-Transactions Transactions are fundamental elements of blockchain technology, serving as the building blocks for the transfer and exchange of digital assets. Each transaction is a public entry in bitcoin’s blockchain, the global double-entry bookkeeping ledger.

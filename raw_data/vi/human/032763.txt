@@ -1,1 +1,0 @@
-Nhưng đối với giải pháp Seq2Seq lạ có hạn chế là sửa lỗ luôn ngay sau khi phát hiện lỗ dẫn tớ có thể sẽ bị sửa sai ý của người dùng.

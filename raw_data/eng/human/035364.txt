@@ -1,1 +1,0 @@
-Since, we have free education Azure server, and they also native SDK for C devel opment, we decided to go with it.

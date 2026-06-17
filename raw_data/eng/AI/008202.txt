@@ -1,1 +1,0 @@
-When you run your program in the terminal, the Python interpreter takes your Python code and executes each instruction it contains.

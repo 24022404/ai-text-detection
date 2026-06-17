@@ -1,1 +1,0 @@
-Gó Vew: Gó điạ diện cho thành phần Vew trong kiến trúc MVC, gó chứa các gó thành phần, mỗ gó thành phần bao gồm Vew và controller trong nó. Gó có nhệm vụ hển thị dữ lệu, tương tác trực tếp với người dùng cũng như xử lý nghệp vụ logc.

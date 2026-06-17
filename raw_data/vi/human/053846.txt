@@ -1,1 +1,0 @@
-Bài toán phát hiện đối tượng đóng vai trò quan trọng trong các hệ thống phát hiện các khối u trong cơ thể người hay phát hiện làn đường , các vật thể cản trở giao thông, biển báo, đèn tín hiệu giao thông ... Bài toán phát hiện đối tượng giúp ích rất nhiều trong cuộc sống.

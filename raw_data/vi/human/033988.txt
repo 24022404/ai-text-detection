@@ -1,1 +1,0 @@
-Bảo mật: Laravel web development đảm bảo an toàn cho ứng dụng web. Nó sử dụng mật khẩu băm Bcrypt và không lưu mật khẩu ở dạng văn bản thuần túy. SQL statement được sử dụng bở Laravel khiến cho các injection attack khó tiếp cận được. Laravel cung cấp một phương pháp đơn giản để thoát khỏi user input, tránh injection của thẻ script (<script>).

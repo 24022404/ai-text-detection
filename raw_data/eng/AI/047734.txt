@@ -1,1 +1,0 @@
-Requirement Analysis is a crucial phase that focuses on studying system requirements, business processes, and end-user behavior to gain a comprehensive understanding of a project's needs and objectives, helping to ensure the interface is tailored effectively for optimal user experience.

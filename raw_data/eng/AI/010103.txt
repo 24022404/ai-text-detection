@@ -1,1 +1,0 @@
-OpenCV is widely utilized for computer vision tasks, including image and video processing, feature detection and extraction, object detection and tracking, as well as camera calibration and stereo vision applications.

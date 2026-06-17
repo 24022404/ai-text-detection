@@ -1,1 +1,0 @@
-Actors Involved : User – Preconditions : The file must have been analyzed, and screenshots mustbe available.– Postconditions : The user can download a screenshot that captures rele vant app behavior or security-related visuals.

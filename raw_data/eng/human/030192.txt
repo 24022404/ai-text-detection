@@ -1,1 +1,0 @@
-Kamng He et al. “Deep resdual learnng for mage recognton”. In: Pro ceedngs of the IEEE conference on computer vson and pattern recognton .

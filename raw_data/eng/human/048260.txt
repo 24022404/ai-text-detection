@@ -1,1 +1,0 @@
-This includes reviewing the use of insecure APIs, programming errors, hardcoded secrets, and other anomalous behaviors. The analysis can be conducted on source code or compiled binaries.

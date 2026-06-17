@@ -1,1 +1,0 @@
-Mô hình dự báo (Forecastng Model): Đây là một công cụ hoặc thuật toán dùng điể mô tả và dự đioán xu hướng và mẫu lặp lạ trong chuỗ thờ gan. Mô hình dự báo gúp ta xác định các yếu tố ảnh hưởng đến sự bến động của dữ lệu và từ đió, điưa ra dự báo cho các gá trị trong tương la.

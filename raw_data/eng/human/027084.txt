@@ -1,1 +1,0 @@
-In order to build and develop the functions in this study, and reuse resources from the Warehouse Management application, some client-side packages will bepreserved including Stock management, Bin location management, Category man agement , Request management.

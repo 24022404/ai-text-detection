@@ -1,1 +1,0 @@
-Phương thức này trển kha công thức tính toán chỉ báo, dựa theo từng chỉ báo và từng phên giao dịch.

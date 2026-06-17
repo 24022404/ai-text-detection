@@ -1,1 +1,0 @@
-Severity : This column indicates the severity level of the security issue, typ ically categorized as info, warning, high, or similar. The severity level helps prioritize addressing critical issues first.

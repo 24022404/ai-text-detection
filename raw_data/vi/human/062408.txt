@@ -1,1 +1,0 @@
-Hệ thống có khả năng chịu tải tốt, có thể cho phép nhiều lượt truy cập trong một khoảng thờ gắn.•Hệ thống có tốc độ xử lý ổn định, thờ gan xử lý các yêu cầu không quá lâu (Do hệ thống sử dụng công nghệ blockchain nên thờ gan thực hiện các giao dịch sẽ thường mất khoảng 30 giây đến 1 phút).

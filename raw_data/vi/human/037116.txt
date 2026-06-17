@@ -1,1 +1,0 @@
-React có thể được sử dụng làm cơ sở để phát triển các ứng dụng SPA (Song Lepage), thiết bị di động hoặc ứng dụng được kết xuất bằng máy chủ với các thư viện khác như Extjs. Trong ReactJs, có một số khái niệm cơ bản sau đây đóng vai trò là những thành phần cốt lõi của thư viện này: component, jsx, virtual dom, props và state, react hooks.

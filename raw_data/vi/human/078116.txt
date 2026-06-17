@@ -1,1 +1,0 @@
-Tiếp theo, sau khi kết nối thành công điến WebSocket Server, người dùng sẽ kết nối điện Signaling Server (Peer Server) để nhận một mã định danh peerId.

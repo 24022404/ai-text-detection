@@ -1,1 +1,0 @@
-Chương 5 đưa ra kết quả mà đồ án đạt được. Các ưu điểm và nhược điểm của ứng dụng. Chỉ ra được hướng phát triển của hệ thống trong tương la.2.1 Khảo sát Để có cá nhìn khách quan cũng như có trải nghiệm thực tế để xây dựng một ứng dụng quản lý đồ án Android em đã khảo sát qua một số ứng dụng: Trello, Asana, Any.Do, eHUST.

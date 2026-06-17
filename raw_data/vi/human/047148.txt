@@ -1,1 +1,0 @@
-Tiếp tục nghiên cứu và phát triển các chức năng mớ điểm đáp ứng nhu cầu và yêu cầu của người dùng. Một trong những mục tiêu chính của là cho phép người dùng upload sản phẩm của họ trên webste, để tạo ra một trải nghiệm tuyệt vời cho người dùng và giúp họ tăng doanh số bán hàng.

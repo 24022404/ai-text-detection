@@ -1,1 +1,0 @@
-Relational Database Management System: PostgreSQL is a mature and fullyfeatured relational database management system. It provides a robust and re liable foundation for storing and managing structured data.

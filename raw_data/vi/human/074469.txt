@@ -1,1 +1,0 @@
-Nơ sử dụng YOLO v5 được sử dụng để phát hiện những sản phẩm trong cửa hàng, từ đó đưa vào theo dõi.

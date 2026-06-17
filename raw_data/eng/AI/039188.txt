@@ -1,1 +1,0 @@
-"Payload" refers to the data sent from the client in a request, while "type" specifies common system types like action or notification types. "Entity" defines database field properties and their relationships, as in com.vifrin.post.

@@ -1,1 +1,0 @@
-This chapter will summarize the key findings and results of the ARNav project, and provide a conclusion on the feasibility and effectiveness of AR-based indoor navigation. It will also suggest any future work that can be done to improve the ARNav app or to address any limitations or areas for improvement.

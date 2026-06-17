@@ -1,1 +1,0 @@
-Leaky ReLU( figure2.12)Leaky ReLU is defined to address this problem. Instead of defining the ReLU ac tivation function as 0 for negative values of inputs(x), we define it as an extremely small ar component of x. Here is the formula for this activation function.

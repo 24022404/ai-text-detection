@@ -1,1 +1,0 @@
-Phương pháp này có thể xem xét nhiều tiêu chí, sẽ chọn ra được nhà cung cấp dịch vụ đám mây phù hợp thỏa mãn các tiêu chí được đặt ra. Và trong phần dưới đây, tôi sẽ trình bày cho tết gả pháp, kết quả nghiên cứu về tiêu chí đánh giá lựa chọn nhà cung cấp đám mây bằng phương pháp AHP.

@@ -1,1 +1,0 @@
-Các tiếp cận cố định : Springboot sử dụng một cách tiếp cận cố định để thêm và cấu hình các phụ thuộc bắt điầu, dựa trên nhu cầu dự án. Spring Boot sẽ chọn các gói nào để cài đặt, giá trị mặc định nào sẽ được sử dụng thay vì yêu cầu ta phải đưa ra tất cả các quyết định đó và thiết lập mọi thứ theo cách thủ công.

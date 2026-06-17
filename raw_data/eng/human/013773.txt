@@ -1,1 +1,0 @@
-Feature level and Multi-Level Contrastive Adaptation Comparison UDA Method Feature level Multi-level mIoU DACS 52.32 MCLDA (RCutMix+RClassMix) ✓ 55.91 MCLDA (RCutMix+RClassMix) ✓ 56.76 Table 4.4: Comparison of Contrastive Adaptation at the Feature Level and Multiple Levels.

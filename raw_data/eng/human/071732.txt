@@ -1,1 +1,0 @@
-Admin As a user who logs in to the system with an administrator role, he has full control over the system Overview of functions: Functions serve 3 agents.

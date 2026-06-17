@@ -1,1 +1,0 @@
-Contrast Adaptation . Images from the source and target domains xs, xt∈ student network. We compute the similarity between source features and each of prototypes. Each pixel has a vector P(i,j) s→p= [P(i,j,1) s→p, P(i,j,2) s→p, ..., P(i,j,C ) s→p]representing similarity scores between its feature and prototypes:

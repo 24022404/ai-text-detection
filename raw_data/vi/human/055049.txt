@@ -1,1 +1,0 @@
-Mỗ dòng hiển thị giờ ra vào, loại công, lượng công của 1 bảng chấm công.Hình 5.4: Gao vện Personal Information Màn hình Personal Information chứa các thông tin cá nhân của người dùng như tên, giới tính, căn cước công dân,... Đây là màn hình thực hiện chức năng chỉnh sửa thông tin cá nhân.

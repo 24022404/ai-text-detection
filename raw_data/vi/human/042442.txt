@@ -1,1 +1,0 @@
-Khá nệm DigitalOcean VPS là một nhà cung cấp dịch vụ máy chủ ảo, tương tự như các nhà cung cấp dịch vụ máy chủ ảo khác như Microsoft Azure hay Amazon VPS, DigitalOcean VPS cung cấp các dịch vụ Cloud Server VPS của họ dựa trên nền tảng điện toán đám mây giúp triển khai và mở rộng ứng dụng chạy đồng thời trên nhiều máy tính với các tính năng tối ưu từ đám mây (Cloud).

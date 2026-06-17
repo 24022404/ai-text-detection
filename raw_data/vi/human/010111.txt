@@ -1,1 +1,0 @@
-Cả thiện thuật toán phát hiện hành động lấy đồ, tăng độ chính xác cũng như đảm bảo phát hiện trong nhiều góc quan sát hơn.

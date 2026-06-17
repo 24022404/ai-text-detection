@@ -1,1 +1,0 @@
-In simple terms, recall in the context of ROUGE indicates how much of the information in the reference summary is captured by the system summary. It can be calculated as:

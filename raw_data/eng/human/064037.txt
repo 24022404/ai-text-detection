@@ -1,1 +1,0 @@
-Get ADB path and excute command by python: In my project, i will get theadb path by the environment variable or it can be set through the file set tings.py Start the ADB server:

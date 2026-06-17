@@ -1,1 +1,0 @@
-BackEnd a) NodeJS NodeJS là một môi trường runtime chạy javascript đa nền tảng và có mã nguồn mở, được build dựa trên Chrome’s V8 JavaScript engine. Nodejs sử dụng mô hình event driven, non blocking I/O khi bạn trở nên nhẹ và hiệu quả.

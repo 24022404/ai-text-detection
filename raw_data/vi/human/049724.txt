@@ -1,1 +1,0 @@
-Tích hợp DevTools: Redux Toolkit tích hợp sẵn Redux DevTools, cho phép bạn dễ dàng theo dõi và kiểm tra trạng thái của ứng dụng trong quá trình phát triển, giúp việc debug trở nên hiệu quả hơn.

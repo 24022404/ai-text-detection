@@ -1,1 +1,0 @@
-P. A. Pevzner, H. Tang, and M. S. Waterman, “A new approach to fragment assembly in dna sequencing,” in Proceedings of the fifth annual international conference on Computational biology , 2001, pp. 256–267.

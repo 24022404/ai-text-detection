@@ -1,1 +1,0 @@
-Em cũng đã tận dụng sức mạnh của OWASP ZAP API điển xây dựng chức năng kiểm thử phong phú và đa dạng, đảm bảo rằng công cụ có thể kiểm thử và phát hiện nhiều loại lỗ hổng khác nhau. Đồng thờ, việc tích hợp ZAP API vào công cụ giúp tối ưu hóa hiệu suất kiểm thử và giảm thiểu thờ gan phát hiện lỗ hổng.

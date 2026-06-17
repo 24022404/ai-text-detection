@@ -1,1 +1,0 @@
-After completing the job, the warehouse employee sends a request to confirm the completion of the work to the staff in charge.

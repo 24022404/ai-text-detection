@@ -1,1 +1,0 @@
-Tiết kiệm thờ gan và tăng tốc độ phát triển: Ant Design cung cấp sẵn các thành phần UI đẹp mắt và dễ sử dụng, giúp cho việc xây dựng UI trở nên dễ dàng hơn và đồng bộ hơn. Nhờ gió, nhà phát triển có thể tiết kiệm thờ gan và tăng tốc độ phát triển của ứng dụng.

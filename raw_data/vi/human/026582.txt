@@ -1,1 +1,0 @@
-Quote Items: đây là model để xử lý các thao tác giữa các phương thức với CSDL liên quan đến giỏ hàng.

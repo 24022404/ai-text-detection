@@ -1,1 +1,0 @@
-Mô hình Client  Server là một mô hình mạng máy tính, trong đó các thiết bị con đóng vai trò như một máy khách, chúng có nhiệm vụ gửi yêu cầu tới máy chủ, và máy chủ sẽ xử lý yêu cầu để trả lại kết quả cho máy khách đió.

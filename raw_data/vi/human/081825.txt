@@ -1,1 +1,0 @@
-mg: xác định kích thước hình ảnh đầu vào batch: số ảnh để load vào (1632) một lần epochs: số lần học data: đặt đường dẫn đến tệp xml cfg: chỉ định cấu hình mô hình weights: chỉ định một đường dẫn tùy chỉnh điện weights.

@@ -1,1 +1,0 @@
-(v) Tính khả chuyển: Việc phát triển theo kiến trúc Microservices cho phép hệ thống được trên khai trên nhiều môi trường khác nhau, bao gồm cả điện toán đám mây, trung tâm dữ lệu và các thiết bị IoT.

@@ -1,1 +1,0 @@
-Kh người dùng (Peer 1) cho phép bật camera và micro trên trình duyệt, dữ liệu hình ảnh và âm thanh của người dùng sẽ được trích xuất. Sau đó, trình duyệt sẽ sử dụng Signaling Server để yêu cầu kết nối peer to peer tớ một người dùng khác trong phòng (Peer 2). Để thực hiện điều này, trình duyệt sẽ gửi peerId của Peer 2 điến Signaling Server.

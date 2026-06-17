@@ -1,1 +1,0 @@
-Báo cáo về hành vi.Hình 4.15: Màn hình chức năng xem báo cáo về hành vi Hình 4.15 Bên dưới phía tay trái là bảng thể hiện số lượng người dùng truy cập với mỗi page của website. Phía bên tay phải thể hiện bounce rate và scroller của website.

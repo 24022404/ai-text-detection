@@ -1,1 +1,0 @@
-Giãn cách tạo xe sẽ thay đổi từ 0.5s tớ 1.5s. Đều này khiến cho lượng xe trên toàn bộ mô trường được thay đổi. Ở tập tiếp theo của môi trường, sự thay đổi này sẽ ngược lại, tức là từ 1.5s tớ 0.5s. Đểu này là để đảm bảo hoạt động tốt với các thông số thứ tự ưu tiên lẫn mật độ của các mức ưu tiên.

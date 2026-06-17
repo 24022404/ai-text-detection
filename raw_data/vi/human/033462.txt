@@ -1,1 +1,0 @@
-Độ bảo mật cao: MySQL có độ bảo mật cao với nhiều tính năng thích hợp cho các ứng dụng có truy cập CSDL trên Internet.

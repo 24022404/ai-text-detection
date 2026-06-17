@@ -1,1 +1,0 @@
-MongoDB  is an open-source document database built on horizontal scale out architecture. Founded in 2007, MongoDB has a worldwide following in the developer community.

@@ -1,1 +1,0 @@
-Step 4: Merging the pairs with the highest co-occurrence frequency to form a new n-gram character level for the vocabulary.

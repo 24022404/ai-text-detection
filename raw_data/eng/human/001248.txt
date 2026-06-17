@@ -1,1 +1,0 @@
-Neural Networks Neural networks, also known as artificial neural networks (ANNs) or simulated neural networks (SNNs) are at the heart of deep learning algorithms. Their name and structure are inspired by the human brain, mimicking the way that biological neurons signal to one another.

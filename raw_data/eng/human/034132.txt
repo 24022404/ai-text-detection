@@ -1,1 +1,0 @@
-Chapter 3 will present the theoretical foundation for building the three li braries, along with the technologies used in the game development process.

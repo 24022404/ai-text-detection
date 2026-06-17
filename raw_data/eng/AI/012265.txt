@@ -1,9 +1,0 @@
-Objective: Convolutional neural networks (CNNs) demand high computational throughput and memory efficiency, yet existing GPU libraries struggle to fully exploit low-precision arithmetic in Winograd convolutions. This paper introduces LANCE, an optimized framework for low-precision quantized Winograd convolution on graphics processing units.
-
-Methods: LANCE extends the Winograd convolution algorithm to 8-bit integer arithmetic through a novel quantization and range-scaling scheme that minimizes numerical error in the transformed domain. We fuse transformation, elementwise multiplications, and inverse transforms into a single GPU kernel to reduce memory traffic. Additional optimizations include register-level blocking, pipeline parallelism, and mixed‐precision accumulation to preserve model accuracy.
-
-Results: We evaluate LANCE on ResNet-50, MobileNetV2, and VGG-16 across ImageNet and CIFAR-10 datasets. Compared to standard FP32 Winograd from cuDNN, LANCE achieves 2.1× to 3.4× higher throughput on NVIDIA V100 and A100 GPUs, while reducing on-chip memory usage by up to 65%. Accuracy degradation is contained within 0.5% top-1 error on ImageNet. End-to-end inference on ResNet-50 attains 1.8× speedup with negligible impact on accuracy.
-
-Conclusion: LANCE demonstrates that low-precision quantized Winograd convolution can deliver substantial performance and efficiency gains on modern GPUs without sacrificing model quality. This work paves the way for deploying high‐throughput, resource‐efficient CNN inference in datacenter and edge applications.
-
-Keywords: Winograd convolution, low-precision quantization, GPU acceleration, convolutional neural networks, mixed precision.

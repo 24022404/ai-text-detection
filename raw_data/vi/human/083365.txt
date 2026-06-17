@@ -1,1 +1,0 @@
-Khảo sát về các nền tảng dữ lệu khách hàng Trước đây, trong tiếp thị các doanh nghiệp thường sử dụng nền tảng quản lý quan hệ khách hàng (customer resources management) dựa trên những lịch sử giao dịch cơ bản và thông tin khách hàng cố định tuy nhiên nhược điểm là nó thường được quản lý bởi các nhóm bán hàng, khó khăn trong việc tích hợp dữ lệu khách hàng.

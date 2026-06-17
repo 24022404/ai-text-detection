@@ -1,1 +1,0 @@
-Trong thuật toán, đã cung cấp trước các mẫu Môtô phổ biến gồm có: thuật ngữ  bài báo, thuật ngữ  bài báo  hội nghị phát hành bài báo, thuật ngữ  bài báo  tác giả, thuật ngữ  bài báo  hội nghị phát hành bài báo  năm phát hành, thuật ngữ  bài báo  tác giả  tác giả, thuật ngữ  bài báo  tác giả.

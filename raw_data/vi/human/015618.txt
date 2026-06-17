@@ -1,1 +1,0 @@
-Bí thư chọn đảng viên cần thay đổi tình trạng và chọn tình trạng phù hợp 2. Hệ thống xác nhận lại việc thay đổi 3. Bí thư nhấn “Đồng ý” 4. Hệ thống xử lý và thông báo kết quả Luồng sự kiện con:

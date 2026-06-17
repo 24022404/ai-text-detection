@@ -1,1 +1,0 @@
-The IP2Location library helps retrieve geolocation data and identify if a domain is located in a country or region subject to sanctions like the OFAC list.

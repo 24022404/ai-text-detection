@@ -1,1 +1,0 @@
-Tính năng quản lý dự án: Cho phép quản lý dự án có thể thêm, sửa, xóa, cập nhật thông tin dự án nhanh chóng.

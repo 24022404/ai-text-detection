@@ -1,1 +1,0 @@
-The referenced papers discuss algorithms for generating full-length cycles in nonar shift registers and explore a homomorphism of the de Bruijn graph to facilitate the design of feedback shift registers. Collectively, they contribute to advances in the field of shift register theory and applications.

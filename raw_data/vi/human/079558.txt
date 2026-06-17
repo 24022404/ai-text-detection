@@ -1,1 +1,0 @@
-Đa số giao diện điều có hai thành phần Header, Sidebar chỉ thay đổi phần Content tuỳ thuộc vào đường dẫn người dùng truy cập điểm đảm bảo thống nhất về phần giao diện. Header là thanh tiêu đề của trang web gồm logo và một thanh tìm kiếm.

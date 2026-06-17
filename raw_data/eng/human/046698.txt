@@ -1,1 +1,0 @@
-Y. Ganin, E. Ustinova, H. Ajakan, et al. , “Domain-adversarial training of neural networks,” The journal of machine learning research , vol. 17, no. 1, pp. 2096–2030, 2016.

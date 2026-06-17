@@ -1,1 +1,0 @@
-The File Upload Section allows users to easily drag and drop or select several files for uploading, making the process straightforward and efficient. It features a visible progress bar to track each file's upload status and offers clear, helpful instructions for drag-and-drop actions.

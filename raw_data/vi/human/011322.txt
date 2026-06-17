@@ -1,1 +1,0 @@
-Trong Chương 2 của đồ án sẽ khảo sát và phân tích yêu cầu đặt ra cho hệ thống, nêu tổng quan chức năng cần có, đặc tả một số chức năng nổi bật cho hệ thống triển lãm và giao dịch tranh nghệ thuật NFT.

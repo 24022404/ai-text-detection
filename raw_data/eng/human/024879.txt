@@ -1,1 +1,0 @@
-It supports features such as backup, data recovery, and data replication capabilities to ensure data safety and availability .ing to split data across multiple servers. It also supports features like partitioning to manage large data and enhance performance.

@@ -1,1 +1,0 @@
-Đố vớ quản trị vên: Chức năng thống kê vẫn còn chưa điầy đủ. Hiện tại quản trị viên chỉ có thể xem doanh thu bán ra của cửa hàng theo tuần, tháng, quý, xem các sản phẩm bán chạy và các thành viên mua nhiều.

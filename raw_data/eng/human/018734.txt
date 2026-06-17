@@ -1,1 +1,0 @@
-In this section, I would like to show the process of converting binaries to images and extract features, and opcodes from that.

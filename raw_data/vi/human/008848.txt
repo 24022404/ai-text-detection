@@ -1,1 +1,0 @@
-Ngoài ra, loại thiết bị người dùng sử dụng điểm đọc báo cũng có ảnh hưởng đến số lệu phân tích được. Vì vậy, một số bảng sẽ có thêm trường device điểm nếu cần thế người xem báo cáo có thể quan sát và so sánh số lệu giữa Mobile và PC trên cùng một khía cạnh phân tích.

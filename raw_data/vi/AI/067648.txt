@@ -1,7 +1,0 @@
-Tính năng lưu trữ của hệ thống điện phân phối kết nối lưới trong mạng phân phối bị biến dạng tần số
-
-Hệ thống điện phân phối kết nối lưới đang trở thành một phần quan trọng trong hệ thống điện hiện đại. Tuy nhiên, việc tích hợp các nguồn năng lượng phân tán vào mạng phân phối có thể gây ra biến dạng tần số, ảnh hưởng đến chất lượng điện năng. Một nghiên cứu mới đã tập trung vào việc đánh giá khả năng lưu trữ của hệ thống điện phân phối kết nối lưới trong mạng phân phối bị biến dạng tần số.
-
-Kết quả nghiên cứu cho thấy rằng khả năng lưu trữ của hệ thống điện phân phối kết nối lưới có thể bị giảm đáng kể do biến dạng tần số. Điều này có thể dẫn đến giảm hiệu suất của hệ thống điện và ảnh hưởng đến chất lượng điện năng. Tuy nhiên, nghiên cứu cũng chỉ ra rằng việc sử dụng các công nghệ lưu trữ năng lượng tiên tiến có thể giúp cải thiện khả năng lưu trữ của hệ thống điện phân phối kết nối lưới.
-
-Nghiên cứu này cung cấp thông tin quan trọng cho các nhà phát triển và quản lý hệ thống điện phân phối kết nối lưới, giúp họ hiểu rõ hơn về khả năng lưu trữ của hệ thống và cách cải thiện nó để đảm bảo chất lượng điện năng.

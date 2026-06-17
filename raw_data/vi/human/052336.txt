@@ -1,1 +1,0 @@
-Kh thuật toán kết thúc, đầu ra của thuật toán là các trung tâm cụm cuối cùng và các điểm dữ lệu điã điược gán vào từng cụm.

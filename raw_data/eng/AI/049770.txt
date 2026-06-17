@@ -1,1 +1,0 @@
-Odoo features a user-friendly interface with intuitively arranged modules, allowing new users to navigate and master the software efficiently. Its logical organization reduces the learning curve, making extensive training unnecessary for proficiency.

@@ -1,1 +1,0 @@
-Những điều thú vị là tích hợp cả mô hình AI này đã mở ra không gian sáng tạo và tương tác phong phú hơn cho người dùng. Kh người dùng tải lên một bức ảnh, mô hình nhận diện ảnh sẽ tự động xử lý và phân loại nó. Sau đó, Hệ thống có thể tự động đưa ra các câu hỏi, giúp người dùng khám phá thêm thông tin về các loài vật hoặc chủ đề lên quan.

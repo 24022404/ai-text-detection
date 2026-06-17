@@ -1,1 +1,0 @@
-Autoconfiguration An opinionated approach to configuration The ability to create standalone applications These features work together to provide you with a tool that allows you to set up a Spring-based application with minimal configuration and setup.

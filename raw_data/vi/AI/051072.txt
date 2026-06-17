@@ -1,7 +1,0 @@
-Khả năng nhận diện cử chỉ tay động đã trở thành một phần quan trọng trong các ứng dụng công nghệ như trò chơi, thiết bị thông minh và hệ thống hỗ trợ. Để cải thiện hiệu suất nhận diện, các nhà nghiên cứu đã đề xuất sử dụng không gian đa tạp (manifold space) để mô hình hóa các cử chỉ tay động đa chiều.
-
-Khả năng nhận diện cử chỉ tay động đòi hỏi phải phân biệt giữa các cử chỉ khác nhau dựa trên các yếu tố như vị trí, hướng và tốc độ của tay. Tuy nhiên, các cử chỉ tay động thường có nhiều biến thể và không gian đa tạp cung cấp một cách tiếp cận linh hoạt để mô hình hóa các biến thể này.
-
-Trong nghiên cứu này, các nhà nghiên cứu đã đề xuất sử dụng không gian đa tạp để mô hình hóa các cử chỉ tay động đa chiều. Họ đã sử dụng một phương pháp học máy để học hỏi từ các dữ liệu cử chỉ tay động và tạo ra một mô hình không gian đa tạp để phân biệt giữa các cử chỉ khác nhau.
-
-Kết quả cho thấy rằng phương pháp này có thể cải thiện hiệu suất nhận diện cử chỉ tay động so với các phương pháp truyền thống. Điều này cho thấy rằng không gian đa tạp có thể là một công cụ hữu ích trong việc phát triển các hệ thống nhận diện cử chỉ tay động chính xác và linh hoạt.

@@ -1,1 +1,0 @@
-Chương 5 trình bày về những điểm đặc biệt, đóng góp nổi bật trong đồ án và tính ứng dụng của đồ án vào sử dụng trong hệ thống thực tế. Cụ thể là những lợi ích mà các tính năng địa điểm lạ cho chuỗi cửa hàng cà phê, đồng thờ cần chỉ rõ sự khác biệt, nổi trội của nó so với các sản phẩm hiện có trên thị trường.

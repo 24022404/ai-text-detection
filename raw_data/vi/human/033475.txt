@@ -1,1 +1,0 @@
-User muốn thanh toán như khách vãng lai thì sẽ dẫn người dùng điện màn nhập địa chỉ rồi sau đó sẽ cập nhật địa chỉ và dẫn đến màn thanh toán.

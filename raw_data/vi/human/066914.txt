@@ -1,1 +1,0 @@
-Thêm vào đó, để truy cập vào hệ thống thì cần tương tác với dịch vụ xác thực (Authentication Server) đây là dịch vụ cho phép xác thực người dùng.

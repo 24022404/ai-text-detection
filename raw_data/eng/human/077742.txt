@@ -1,1 +1,0 @@
-D. R, E. Fenil, G. Manogaran andothers , “Real time violence detection framework for football stadium comprising of big data analysis and deep learning through bidirectional lstm,” Computer Networks ,jourvol 151, march 2019. DOI:10.1016/j.comnet.2019.01.028 .

@@ -1,1 +1,0 @@
-Nhiệm vụ của View là quyết định xem người dùng sẽ nhìn thấy gì trên màn hình của họ? Trong Ứng dụng thì phần Tea, Tree Detail,Cart, Bll, Bll Detail, User là những thành phần mà người dùng có thể xem. Các chức năng điều xác định những gì mỗ chế độ xem muốn khởi tạo và hiển thị. Chức năng này sẽ quyết định câu hỏi là người dùng sẽ nhìn gì và như thế nào trên màn hình.

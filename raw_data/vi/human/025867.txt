@@ -1,1 +1,0 @@
-Gó Logic: chứa các lớp có nhiệm vụ lấy các thông tin được cung cấp từ gói Data, sau đó truyền cho các lớp ở trong gió Interface.

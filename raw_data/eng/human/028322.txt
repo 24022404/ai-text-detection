@@ -1,1 +1,0 @@
-G. Mu, H. Cao and Q. Jin, “Violent scene detection using convolutional neural networks and deep audio features,” volume 663, november 2016,pages 451–463, ISBN : 978-981-10-3004-8. DOI:10.1007/978-981 10-3005-5_37 .

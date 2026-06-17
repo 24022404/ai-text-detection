@@ -1,1 +1,0 @@
-Đồng thờ, WebSocket Server cũng sẽ trả về danh sách các peerId của những người dùng đang tham gia vào phòng.

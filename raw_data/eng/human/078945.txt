@@ -1,1 +1,0 @@
-Rating product : This use case allows a User to rate a product on a scale of 1 to 5. User navigates to the product page of the product they want to rate.

@@ -1,1 +1,0 @@
-Thư viện và công cụ sử dụng Ngoài những công nghệ mà em đã trình bày ở chương 3, đồ án của em còn sử dụng thêm một số công cụ, thư viện. Do số lượng sử dụng khá nhiều nên em xin phép liệt kê một số thư viện và công cụ quan trọng sau:

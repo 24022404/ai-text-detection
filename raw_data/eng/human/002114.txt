@@ -1,1 +1,0 @@
-H. S. Le, A. Allauzen andF. Yvon, “Continuous space translation models with neural networks.,” inHLT-NAACL The Association for Computational Linguistics, 2012, pages 39–48, ISBN: 978-1-937284-20-6. url:http:// dblp.uni- trier.de/db/conf/naacl/naacl2012.html# LeAY12 .

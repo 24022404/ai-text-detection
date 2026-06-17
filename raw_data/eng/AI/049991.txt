@@ -1,1 +1,0 @@
-In satellite QKD, quantum information is transmitted in sync with classical information, allowing for secure communication, as illustrated in Figure 2.6.

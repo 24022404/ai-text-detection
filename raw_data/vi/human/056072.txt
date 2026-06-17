@@ -1,1 +1,0 @@
-Mỗ ảnh có thể chứa nhiều khuôn mặt với kích thước khác nhau. Để gả quyết vấn đề này, MTCNN sử dụng phép resize ảnh, tạo ra một loạt các bản sao khác nhau của cùng một hình ảnh ở các kích thước khác nhau điểm tìm kiếm các khuôn mặt có kích thước khác nhau trong hình ảnh (Image Pyramid).

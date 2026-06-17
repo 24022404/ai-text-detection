@@ -1,1 +1,0 @@
-CRUD vdeo Hình 4.12 là màn hình đăng tải video. Tại đây người dùng có thể chọn video mà mình muốn đăng tải bằng cách click vào chọn tập tn.

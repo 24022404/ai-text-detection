@@ -1,1 +1,0 @@
-Hệ thống 252 cảm biến cung cấp mức điểm thưởng trung bình cao nhất trong 3 cấu hình cảm biến. Trong đó, mức tối đa đạt được tạo mô hình vớ 152283 tham số. Thực nghiệm cho thấy không có thay đổi đáng kể kh tăng kích thước mô hình.

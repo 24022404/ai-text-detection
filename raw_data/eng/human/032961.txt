@@ -1,1 +1,0 @@
-– Sigmoid function : Sigmoid function is a non-ar function that has an S-shaped shape and the output value ranges from 0 to 1. This function is often used in old Neural Networks to calculate output probability.

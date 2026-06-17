@@ -1,1 +1,0 @@
-User updateUICanvasStartScreen Setting and Applyclick Setting buttonPopup_Setting OnSettingClick()SoundManager OnApply() updateUI Figure 2.2: Sequence diagram of Setting b, Highscore Figure 2.3 is the sequence diagram of Highscore feature. The stream will start when the player clicks on the High score button in the Canvas Play option Screen.

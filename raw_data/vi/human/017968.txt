@@ -1,1 +1,0 @@
-Spring Boot là sự cả tên tuyệt vời của Spring, cải thiện được rất nhiều khâu rườm rà điện từ Spring. Hơn thế, quá trình học hỏi và tiếp thu Springboot cũng trở nên dễ dàng hơn rất nhiều.

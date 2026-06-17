@@ -1,1 +1,0 @@
-Đố với người dùng với vai trò người dạy học hệ thống đáp ứng các chức năng quản lý các khóa học của mình: Tạo khóa học, sửa, xóa khóa học, xem đánh giá của các người dùng khác về khóa học.

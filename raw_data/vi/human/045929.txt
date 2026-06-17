@@ -1,1 +1,0 @@
-Lưu ý rằng trong các kịch bản kiểm thử dưới đây, tôi chỉ đưa các trường hợp kiểm thử mà chỉ có một trường được nhập không đúng). Các trường hợp nhiều trường sa cùng một lúc thì kết quả mong đợi vẫn là lỗ.4.4.1 Chức năng tạo sản phẩm Tiền điều kiện: quản trị viên truy cập vào hệ thống và chọn chức năng tạo sản phẩm.

@@ -1,1 +1,0 @@
-Khi một ứng dụng web tương tác với cơ sở dữ liệu, các thông tin được nhập từ người dùng sẽ được sử dụng để tạo ra các truy vấn SQL và NoSQL. Nếu không có các biện pháp bảo mật đủ mạnh, những điều vào ngày có thể bị tấn công và các truy vấn này có thể bị thay đổi, mở ra cánh cửa cho các hành vi tấn công.

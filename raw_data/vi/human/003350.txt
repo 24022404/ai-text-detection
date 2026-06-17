@@ -1,1 +1,0 @@
-Thông qua Composer : D chuyển thẳng vào thư mục htdocs của XAMPP, tạ điây mở cửa cố lệnh và gõ “composer createproject–preferdstlaravel/laravelexampleapp”. Trong đió exampleapp chính là tên thư mục laravel project của chúng ta.

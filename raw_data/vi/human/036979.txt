@@ -1,1 +1,0 @@
-Trong quá trình phát triển ứng dụng trên localhost của máy tính cá nhân với các thông số kỹ thuật sau: CPU i5 7200U, RAM 8GB, ổ cứng SSD 256GB, và hệ điều hành Windows 10. Trên máy tính cá nhân, ứng dụng hoạt động mượt mà và phản hồi tác vụ nhanh chóng.

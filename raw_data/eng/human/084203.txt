@@ -1,1 +1,0 @@
-API for back-end:Route Function Purpose getConfig GetAllConfig() Get all config postToken PostToken() post new token gethge getHGE() Get data from hasura putconfig PutConfig() Update config data postlog PostLog() Post new log Table 4.2: Back-end API c, View In this part, the application will have 2 main interfaces:

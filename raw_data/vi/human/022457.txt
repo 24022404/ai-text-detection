@@ -1,1 +1,0 @@
-Đồ họa UI  Game lựa chọn thiết kế UI đơn giản và thống nhất: Các nút sẽ có thiết kế giống nhau tùy theo chức năng là xác nhận hay hủy bỏ chức năng đang chọn.

@@ -1,1 +1,0 @@
-Hơn nữa, việc cung cấp chỉ một mẫu hình ảnh khuôn mặt duy nhất cho mỗi người dẫn đến việc thiếu hụt thông tin về sự biến đổi của khuôn mặt, chẳng hạn như bến đỗ do ánh sáng, góc nhìn, biểu cảm, tuổi tác, và yếu tố cá nhân khác.

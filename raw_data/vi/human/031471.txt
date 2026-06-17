@@ -1,1 +1,0 @@
-Đánh giá hiệu năng các chương trình Thực hiện các đánh giá kh thực hiện đưa các chương trình chạy trên cụm máy chủ. Bảng 5.3 là các cài đặt cơ bản của các chương trình được khởi chạy.

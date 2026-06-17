@@ -1,1 +1,0 @@
-Về mặt ứng dụng, em đã hoàn thành được hệ thống đánh giá sản phẩm cùng với một số tính năng phù hợp với nhu cầu của người dùng thực tế như: () Đánh giá sản phẩm trực tiếp bằng lnk, () Tìm kiếm sản phẩm đã thu thập và đánh giá trên hệ thống. Việc triển khai và phát triển hệ thống giúp cho gã pháp mà ĐATN điã điưa ra sẽ tiếp cận gần hơn với thực tiễn.

@@ -1,1 +1,0 @@
-HTML documents, saved with a .html extension, are basic text files created using text editors. These files form the foundation of web content, as browsers interpret the markup to present information. While HTML structures the content, CSS is used to style and format the appearance, and JavaScript adds interactive functionality.

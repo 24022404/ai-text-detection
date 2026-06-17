@@ -1,1 +1,0 @@
-C. Fernando, D. S. Banarse, C. Blundell andothers , “Pathnet: Evolution channels gradient descent in super neural networks,” ArXiv ,jourvol abs/1701.08734, 2017.

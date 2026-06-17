@@ -1,7 +1,0 @@
-Một nghiên cứu mới đã giới thiệu một thiết kế nhỏ gọn hơn cho anten PIFA (Planar Inverted-F Antenna) tái cấu trúc theo tần số bằng cấu trúc vòng chia cộng hưởng miniaturized. Anten PIFA là một loại anten phổ biến được sử dụng trong các thiết bị di động và các hệ thống truyền thông không dây khác.
-
-Thiết kế mới này sử dụng cấu trúc vòng chia cộng hưởng miniaturized để giảm kích thước của anten PIFA xuống còn 1/4 so với kích thước ban đầu. Điều này giúp giảm thiểu không gian cần thiết cho anten và tăng cường khả năng di động của thiết bị.
-
-Cấu trúc vòng chia cộng hưởng miniaturized được thiết kế để hoạt động ở tần số từ 2,4 GHz đến 2,7 GHz, phù hợp với các ứng dụng di động phổ biến như Wi-Fi và 4G. Anten PIFA tái cấu trúc theo tần số bằng cấu trúc vòng chia cộng hưởng miniaturized cho thấy khả năng hoạt động tốt và ổn định ở các tần số khác nhau.
-
-Nghiên cứu này có thể mang lại lợi ích cho các ứng dụng di động và truyền thông không dây khác, nơi mà không gian và kích thước là yếu tố quan trọng.

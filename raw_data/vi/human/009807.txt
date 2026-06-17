@@ -1,1 +1,0 @@
-Giảm thiểu các lỗi và tối ưu hóa hiệu suất: Ant Design được phát triển điểm đảm bảo tính ổn định và hiệu suất tốt. Nhờ đó, việc sử dụng thư viện này có thể giảm thiểu các lỗ và tối ưu hóa hiệu suất của ứng dụng.

@@ -1,1 +1,0 @@
-Trong khuôn khổ đồ án này, em sẽ không khai thác hết toàn bộ thông tin có trong dữ lệu thô, vì vậy cần có bước tiền xử lý điểm chọn lọc các trường dữ lệu cần thiết và chuẩn hóa định dạng của chúng.

@@ -1,1 +1,0 @@
-However, a key challenge remains that both BARTpho and ViT5 were not specifically designed for the Multi-document Summarization task, which involves processing lengthy inputs and clusters of related documents with potentially thousands of words.

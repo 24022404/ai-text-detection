@@ -1,1 +1,0 @@
-Cụ thể, trong chương này, em trình bày về học máy cơ bản, mô hình huấn luyện sẵn BERT, mô hình mạng nơron đồ thị Graph SAGE, thư viện xử lý hình ảnh OpenCV, bài toán nhận diện ký tự quang học (OCR). Trong chương tiếp theo, em sẽ trình bày về gả pháp đề xuất của em.

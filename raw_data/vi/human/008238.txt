@@ -1,1 +1,0 @@
-Từ kết quả trên có thể thấy rằng việc sử dụng ma trận tương tự giữa sản phẩm cho kết quả tốt hơn so với sử dụng ma trận tương tự customer. Vớ top 5 sản phẩm, số customer được gợi ý đúng chiếm khoảng 66%. Đố vớ top 10 sản phẩm, số customer được gợi ý đúng chiếm khoảng 77%.

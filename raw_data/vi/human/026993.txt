@@ -1,1 +1,0 @@
-Ở hệ thống của mình, để giải quyết bài toán này thì em vẫn sử dụng mô hình MVC. Có thể minh hoạ bằng hình dưới:

@@ -1,9 +1,0 @@
-Objective: This paper introduces R2-B2, a Recursive Reasoning-Based Bayesian Optimization framework designed to achieve no-regret learning in competitive and cooperative multi-agent games. We address the challenge of efficiently adapting strategies in environments where opponents’ behaviors evolve and payoff landscapes are complex.
-
-Methods: R2-B2 integrates a hierarchical recursive reasoning module with a Bayesian Optimization backbone. At each decision step, agents model opponents’ possible strategy updates using a two-level reasoning process (“I think that you think…”), then employ a Gaussian Process surrogate to estimate expected payoffs over the strategy space. An acquisition function tailored for game-theoretic regret metrics guides exploration toward high-value, low-uncertainty regions. This hybrid approach balances strategic foresight and statistical efficiency.
-
-Results: Experiments on zero-sum matrix games, iterated prisoner’s dilemma, and continuous-action resource allocation games demonstrate that R2-B2 converges to equilibrium strategies with significantly lower cumulative regret than state-of-the-art bandit-based and reinforcement learning baselines. Specifically, R2-B2 reduces average per-round regret by up to 35% and requires 40% fewer iterations to reach ϵ-Nash conditions. Ablation studies confirm the importance of recursive reasoning depth and the custom acquisition design.
-
-Conclusion: R2-B2 offers a novel, general-purpose approach for no-regret learning in dynamic multi-agent settings, combining cognitive hierarchy modeling with principled Bayesian search. Its adaptability and sample efficiency make it well suited for real-time strategic applications, from automated negotiations to adaptive security systems.
-
-Keywords: Bayesian optimization, recursive reasoning, game theory, no-regret learning, multi-agent systems, reinforcement learning.

@@ -1,1 +1,0 @@
-Hệ thống được lập trình trên kiến trúc MVC. Trong chương 5, em sẽ trình bày về những đóng góp nổi bật của đồ án cũng như khó khăn đã gặp phải.Trong Chương 5, em sẽ giới thiệu về đóng góp nổi bật của đồ án. Đồng thời cũng sẽ đề cập đến khó khăn gặp phải trong quá trình thực hiện đồ án và phương án khắc phục.

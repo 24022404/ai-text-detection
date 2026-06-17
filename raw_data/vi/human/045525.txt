@@ -1,1 +1,0 @@
-Chức năng quản lý, xác thực tài khoản người dùng: Đảm bảo vệ người dùng được xác thực trước khi sử dụng và có thể thay đổi thông tin tài khoản của bản thân Chức năng quản lý người dùng: Quản lý tài khoản của người dùng trong hệ thống, đảm bảo quyền của nhân viên một cách chặt chẽ.

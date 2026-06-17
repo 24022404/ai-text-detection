@@ -1,1 +1,0 @@
-Model : Lưu trữ thông tin về người dùng, dự án, lỗ hổng bảo mật...... Những thông tin này được lưu trữ trực tiếp trong cơ sở dữ liệu và được truy xuất thông qua các hàm trong Controller.

@@ -1,1 +1,0 @@
-Ngoài ra, PostgreSQL cũng có thể yêu cầu tài nguyên hệ thống cao hơn so với một số hệ quản trị cơ sở dữ liệu khác.

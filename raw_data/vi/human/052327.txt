@@ -1,1 +1,0 @@
-Quản lý thành viên: xem danh sách thành viên, thêm, sửa, xóa thành viên (chỉ admin, shop manager mới có quyền thực hiện).

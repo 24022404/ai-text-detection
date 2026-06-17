@@ -1,1 +1,0 @@
-By selecting and extracting the most relevant features, we can improve the accuracy and effectiveness of the model, ensuring that it can make accurate predictions on new data. For this process, we have chosen SecBERT, a BERT model that has beenFigure 3.4: Bert architecture  specifically trained on cybersecurity text and has learned cybersecurity knowledge.

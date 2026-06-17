@@ -1,1 +1,0 @@
-Và hàm mục tiêu là : Nmn(300 ∗a+ 350∗b+ 400∗c+ 350∗d+ 450∗e) Từ các ràng buộc và hàm mục tiêu trên, ta tiến hành giải bài toán QHTT (sử dụng thư viện glpk.js như đề cập ở mục 3.5.3) và thu được kết quả là a = e = 1, b = c = d =0, tổng chi phí thỏa hiệp là P750 ($).

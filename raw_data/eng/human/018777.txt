@@ -1,1 +1,0 @@
-A. L. Maas, R. E. Daly, P. T. Pham, D. Huang, A. Y. Ng andC. Potts, “Learning word vectors for sentiment analysis,” inProceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies Portland, Oregon, USA: Association for Computational Linguistics, 2011, pages 142–150. url:

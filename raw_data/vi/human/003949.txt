@@ -1,1 +1,0 @@
-Hiệu suất cao: PostgreSQL được tối ưu hóa để cung cấp hiệu suất cao và xử lý tả lớn. Nó hỗ trợ các kỹ thuật tối ưu hóa truy vấn, chỉ mục đa cấp, thống kê truy vấn và các phương pháp lưu trữ vật lý hiệu quả.

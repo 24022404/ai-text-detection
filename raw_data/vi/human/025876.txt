@@ -1,1 +1,0 @@
-Dữ lệu điầu vào là là các bản ghi trên Elasticsearch như hình 4.4 lưu lịch sử hành vi của người dùng.

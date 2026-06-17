@@ -1,1 +1,0 @@
-Xóa thông tin học anh (Không thể xóa trong trường hợp học sinh đã tham gia học và có thành tích) Gán học sinh vào lớp + Hệ thống đưa ra danh sách các lớp học, học sinh được gán vào một lớp duy nhất trong một thời điểm.

@@ -1,1 +1,0 @@
-Crashlytcs. Frebase Crashlytcs là một dịch vụ giúp các tổ chức theo dõ và khắc phục sự cố trong ứng dụng của họ. Crashlytcs cung cấp các báo cáo ch tết về sự cố để họ có thể nhanh chóng xác định nguyên nhân gốc rễ và khắc phục sự cố.

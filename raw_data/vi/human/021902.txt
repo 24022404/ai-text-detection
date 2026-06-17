@@ -1,1 +1,0 @@
-Các ndex có thể được tạo ra cho một hoặc nhiều cột trong bảng. Nếu bảng có nhiều cột, việc tạo index cho nhiều cột có thể giúp tối ưu hóa hiệu suất hệ thống.Tuy nhiên, việc tạo index cũng sẽ làm tăng kích thước của cơ sở dữ liệu và có thể làm chậm thao tác cập nhật dữ liệu.

@@ -1,1 +1,0 @@
-không chỉ thông tin về bảng và cột, mà còn thông tin về kiểu dữ liệu, hàm, phương thức truy cập, v.v.

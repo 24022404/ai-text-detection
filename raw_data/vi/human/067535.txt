@@ -1,1 +1,0 @@
-Chương 2 khảo sát một số trang web hiện tại làm về từ thiện, nêu ra những hạn chế mà các trang web này gặp phả và từ đó đưa ra các chức năng cần thiết cho hệ thống. Từ các chức năng em sẽ thết kế và đặc tả các biểu đồ use case và mô tả các yêu cầu phi chức năng.

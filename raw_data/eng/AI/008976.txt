@@ -1,1 +1,0 @@
-Generating a positioning sequence, especially of order k, necessitates finding a suitable primitive polynomial, which stands out as the main drawback of this encoder.

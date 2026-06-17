@@ -1,1 +1,0 @@
-Controller: Nhận các lệnh từ người dùng, gọ điúng phương thức xử lý và thực hiện. Sau đó trả về kết quả cho Vew.

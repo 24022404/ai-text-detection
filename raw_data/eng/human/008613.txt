@@ -1,1 +1,0 @@
-H. Zhu, J. Xu, S. Liu andY. Jin, “Federated learning on non-iid data: A survey,” Neurocomputing ,jourvol 465,pages 371–390, 2021.

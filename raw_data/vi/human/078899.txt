@@ -1,1 +1,0 @@
-Hệ thống kiểm tra tính hợp lệ, tiến hành lưu trữ thông tin vào hệ thống sau đó hiển thị ở những trang tương ứng.

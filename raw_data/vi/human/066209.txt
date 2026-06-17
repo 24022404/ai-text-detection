@@ -1,1 +1,0 @@
-Ứng dụng sẽ có các chức năng chính gồm gửi tín hiệu hồng ngoại điện điều khiển thiết bị gia dụng, học tập lưu trữ các tín hiệu mới, quản lý từng loại tín hiệu theo loại thiết bị được điều khiển. Ngoài ra, phần mềm giao diện sẽ hỗ trợ khả năng cài đặt thiết bị thu phát và chức năng hẹn giờ đơn giản.

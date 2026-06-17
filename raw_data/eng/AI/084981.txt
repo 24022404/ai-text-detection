@@ -1,9 +1,0 @@
-This paper addresses the challenge of model interpretability in machine learning by introducing a modified perturbed sampling method for Local Interpretable Model-agnostic Explanations (LIME). The goal is to enhance the accuracy and reliability of interpretability tools that help stakeholders understand and trust complex AI models.
-
-Methods/Approach: We propose an innovative perturbation strategy that refines the sampling process inherent in LIME, enabling more precise local explanations. Our approach involves optimizing the distribution and selection of perturbed samples to focus on critical regions of the feature space. This method is model-agnostic, making it applicable across various AI architectures and problem domains.
-
-Results/Findings: Experimental results demonstrate that our modified method improves the fidelity of explanations without incurring significant additional computational costs. Comparisons with the original LIME and other contemporary interpretability techniques reveal significant gains in explanation accuracy and consistency. This also facilitates better identification of feature importance and model decision boundaries.
-
-Conclusion/Implications: The research contributes a notable advancement in interpretable AI by refining the LIME methodology, providing more dependable insights into model behavior. Such improvements are essential for applications in high-stakes domains like healthcare, finance, and autonomous systems, where understanding model decisions is crucial. Our modified method not only bridges the gap between AI performance and interpretability but also lays the groundwork for future research into enhancing explainability techniques.
-
-Keywords: Model Interpretability, Local Interpretable Model-agnostic Explanation, LIME, Perturbation, Feature Importance.

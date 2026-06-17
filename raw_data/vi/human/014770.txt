@@ -1,1 +1,0 @@
-Kiến trúc ba tầng được sử dụng điểm tổ chức các ứng dụng thành ba tầng: Tầng trình diện, tầng ứng dụng và tầng dữ liệu.

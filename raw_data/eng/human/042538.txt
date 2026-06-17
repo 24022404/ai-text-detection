@@ -1,1 +1,0 @@
-Note that, a high rate is usually preferred. Accordingly, with each given pair (k, s), the maximal rate of all (k, s)-RdB sequence is defined.

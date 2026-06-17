@@ -1,1 +1,0 @@
-Khó khăn khi phác thảo yêu cầu người dùng 1. Vấn đề gặp phải Khi phác thảo các yêu người dùng, sẽ phác thảo phân tích yêu cầu người dùng quá nhiều sẽ dẫn đến gây khó khăn cho việc phân tích phác thảo các chức năng cho hệ thống.

@@ -1,1 +1,0 @@
-In addition to basic CRUD operations such as create, read, update, and delete, the system also supports functions like importing data into the database and exporting data to files for convenience.

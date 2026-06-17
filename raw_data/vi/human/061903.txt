@@ -1,1 +1,0 @@
-Bước 5: Hệ thống xác thực lại giao dịch gửi lên mạng chuỗ khố điã điược thực th và chắc chắn rằng giao dịch không bị revert bằng Block Confirmation (đề cập ở phần 0.2 ở trên).

@@ -1,1 +1,0 @@
-Collaborative Filtering: This method recommends items based on the user’s past behavior and the behavior of similar users. Collaborative filtering can be effective for longtail items because it can use the behavior of similar users to make recommendations even if the item has few ratings.

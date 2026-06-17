@@ -1,9 +1,0 @@
-This paper addresses the challenge of hyperparameter optimization in Kernel Ridge Regression (KRR) models, specifically applied to predicting traffic time series data. In dynamic and rapidly changing environments, efficient hyperparameter tuning is crucial for maintaining high model performance.
-
-Methods/Approach: We propose a novel online hyperparameter optimization framework that leverages efficient search algorithms to continuously update KRR model parameters in real-time. This framework is designed to adapt to changes in traffic patterns, using a combination of automated learning rate adjustments and cross-validation techniques to enhance prediction accuracy. The focus is on minimizing computational overhead, making the solution viable for large-scale traffic systems.
-
-Results/Findings: Experiments conducted on real-world traffic datasets demonstrate that our online optimization approach significantly improves the performance of KRR models when compared to traditional static hyperparameter tuning methods. Notably, our method achieves lower prediction error rates and efficiently adapts to temporal fluctuations in traffic conditions, showcasing its practicality for real-time applications.
-
-Conclusion/Implications: The research presents a significant advancement in the field of time series prediction by offering a robust solution for hyperparameter optimization in Kernel Ridge Regression. The proposed approach not only boosts model accuracy but also has the potential to be adapted for other time-sensitive domains requiring real-time data processing. Key contributions include the development of a resource-efficient optimization technique with applications extending beyond traffic analysis.
-
-Keywords: Kernel Ridge Regression, hyperparameter optimization, traffic time series prediction, online learning, real-time systems, machine learning.

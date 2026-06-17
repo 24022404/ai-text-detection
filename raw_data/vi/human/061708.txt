@@ -1,1 +1,0 @@
-Image: Là một ảnh đóng góp của môi trường, chứa tất cả các thành phần (tệp, thư vện, phụ thuộc, cấu hình,...) để có thể khởi chạy ứng dụng.

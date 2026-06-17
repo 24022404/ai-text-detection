@@ -1,1 +1,0 @@
-ASP vết đầy đủ là Active Server Pages, và .NET là viết tắt của Network Enabled Technologies. Cấu trúc của .Net framework dựa trên các thành phần cơ bản sau:

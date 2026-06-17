@@ -1,1 +1,0 @@
-userService: đây là thuộc tính được khởi tạo từ đối tượng UserService. Ko muốn thao tác với dữ liệu của user, ta sẽ sử dụng thuộc tính này.

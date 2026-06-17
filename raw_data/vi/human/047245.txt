@@ -1,1 +1,0 @@
-Một người dùng có thể tạo được nhiều video. Một video thuộc sở hữu của một người dùng duy nhất.

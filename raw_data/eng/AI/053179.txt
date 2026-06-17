@@ -1,1 +1,0 @@
-With the explicit formula for N(k, s), calculating the maximal asymptotic rate of the (k, s)-RdB sequence becomes more straightforward, as expressed through the equation from theorem 1.

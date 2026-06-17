@@ -1,1 +1,0 @@
-Dễ sử dụng: CryptoJS cung cấp các hàm mã hóa, băm và chữ ký số đơn giản để sử dụng trong ứng dụng. Các thuật toán mã hóa và băm phổ biến được tích hợp sẵn trong thư viện.

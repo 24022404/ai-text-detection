@@ -1,1 +1,0 @@
-Trong phạm v của đồ án này, nhu cầu từ vệc thư vện hoặc điề xuất có các trường tùy chỉnh là rất cần thết vì thư vện và điề xuất có tính chất là đia dạng về mặt dữ lệu. Một loạ thư vện điều có những thông tin phức tạp và không gống nhau gữa các loạ thư vện như vớ thư vện là ô tô thì sẽ có bển số xe, xuất xử, chỗ ngồ, ..

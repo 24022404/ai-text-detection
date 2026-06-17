@@ -1,1 +1,0 @@
-Shopfy : Nền tảng thương mạ điện tử Shopfy sử dụng Talwnd CSS trong trang quản trị và các giao diện người dùng tùy chỉnh của các cửa hàng trực tuyến.

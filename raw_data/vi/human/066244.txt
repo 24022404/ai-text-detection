@@ -1,1 +1,0 @@
-Dựa vào kết luận như trên, phương hướng phát triển được đưa ra thành 2 hướng chính: hoàn thiện những chức năng đã xây dựng và đề xuất các chức năng mớ.

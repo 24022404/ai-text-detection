@@ -1,1 +1,0 @@
-Trong phần này của đồ án, tô tiến hành đặc tả một số ca sử dụng quan trọng của hệ thống. Ch tết các đặc tả ca sử dụng được trình bày thông qua các bảng sau.

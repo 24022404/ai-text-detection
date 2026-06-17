@@ -1,1 +1,0 @@
-Tích hợp thư viện hỗ trợ giao diện đia ngôn ngữ điã gúp em cung cấp ứng dụng với các ngôn ngữ khác nhau, tăng tính tiện ích và tương tác cho người dùng từ khắp nơi trên thế giới.

@@ -1,1 +1,0 @@
-settings.py serves as the central configuration file, defining database settings, installed apps, file paths, and various other project parameters.

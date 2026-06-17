@@ -1,1 +1,0 @@
-Unspawn(): This method is used to return an object from the scene back to the pool, making it inactive and available for future use.

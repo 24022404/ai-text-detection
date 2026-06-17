@@ -1,1 +1,0 @@
-Đa nền tảng: VS Code hỗ trợ Windows, macOS và Linux, cho phép bạn làm việc trên nhiều nền tảng khác nhau.

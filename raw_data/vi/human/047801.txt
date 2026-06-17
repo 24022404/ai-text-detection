@@ -1,1 +1,0 @@
-Kích thước màn hình (Hỗ trợ tốt nhất)1920x1080 Màu sắc Toàn bộ dải màu RGB hoặc HEX Thiết kế nút Cỡ chữ 14px, chiều cao 32px, chiều dài tùy thuộc nội dung và màu sắc tùy thuộc chức năng.

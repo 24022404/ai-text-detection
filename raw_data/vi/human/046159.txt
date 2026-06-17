@@ -1,1 +1,0 @@
-Các layer trước thường là kết hợp của các Convolutional layers và các sonar activation functions và pooling, các layer trước layer cuốn là một công cụ giúp trích chọn đặc trưng của dữ liệu (Feature extraction), layer cuốn là softmax regression.

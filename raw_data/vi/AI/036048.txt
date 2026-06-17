@@ -1,5 +1,0 @@
-Khả năng kháng cắt của sàn phẳng bê tông cốt thép là một yếu tố quan trọng trong thiết kế và xây dựng công trình. Khả năng này được xác định bởi khả năng chịu lực của sàn phẳng khi bị cắt bởi các tải trọng bên ngoài. Để đánh giá khả năng kháng cắt của sàn phẳng bê tông cốt thép, các kỹ sư thường sử dụng phương pháp mô phỏng.
-
-Phương pháp mô phỏng này sử dụng các mô hình toán học để mô tả sự tương tác giữa sàn phẳng và các tải trọng bên ngoài. Các mô hình này có thể được sử dụng để tính toán khả năng kháng cắt của sàn phẳng dưới các điều kiện khác nhau, bao gồm tải trọng tĩnh và tải trọng động.
-
-Mô phỏng khả năng kháng cắt của sàn phẳng bê tông cốt thép giúp các kỹ sư xác định được khả năng chịu lực của công trình và đưa ra các quyết định thiết kế và xây dựng phù hợp. Điều này giúp đảm bảo an toàn và bền vững cho công trình.

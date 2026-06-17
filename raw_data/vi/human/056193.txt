@@ -1,1 +1,0 @@
-Nó cũng có khả năng hỗ trợ điầy đủ các thành phần HTTP: URL, request/response headers, caching, versioning, content forma.

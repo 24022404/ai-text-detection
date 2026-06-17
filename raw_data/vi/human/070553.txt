@@ -1,1 +1,0 @@
-Mã nguồn được hiển thị trên Code Editor View, cho phép người dùng thực hiện thay đổi thông qua phương thức change Code().

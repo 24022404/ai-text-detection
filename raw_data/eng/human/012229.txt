@@ -1,1 +1,0 @@
-PostgreSQL source code is freely available under an open source license. This allows you the freedom to use, modify, and implement it as per your business needs.

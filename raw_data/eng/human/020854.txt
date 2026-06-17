@@ -1,1 +1,0 @@
-Define the model: We need to define a PyTorch model that will perform the matrix factorization. A common model for matrix factorization is the matrix factorization model, which decomposes the input matrix into two lower-dimensional matrices, U and V.

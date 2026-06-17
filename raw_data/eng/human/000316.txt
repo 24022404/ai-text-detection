@@ -1,1 +1,0 @@
-For traditional web models, the interaction and interface processing mainly use pure JavaScript. These interactions will be performed on the DOM1, accessing and manipulating structured HTML or XML documents. Figure 3.1 will displays the structure of HTML DOM.

@@ -1,1 +1,0 @@
-ARNav offers an innovative solution to these limitations by using a graph generated from the building’s blueprint and traversing it only once to determine the path, rather than continuously detecting the frame through the camera. This approach provides high accuracy and performance, making ARNav a cutting-edge solution for indoor navigation.

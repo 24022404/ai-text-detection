@@ -1,1 +1,0 @@
-Spectral Decomposition Theorem Before delving into PCA, I first give details for Spectral Decomposition (or Eigendecomposition) which is a primary tool to conduct PCA. Given a square matrix A, ifAis symmetric and positive definite, A can always be decomposedas follow:

@@ -1,1 +1,0 @@
-postgres:14alpne DATABASE USERNAME: vaporusername  là username của database POSTGRES PASSWORD: vaporpassword  là mật khẩu của database POSTGRES DB: vapordatabase  là tên của database Cách cấu hình port forwardng cho PostgreSQL database trên Docker ports:

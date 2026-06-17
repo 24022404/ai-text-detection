@@ -1,1 +1,0 @@
-My computer does not have enough performance to build all microservice at the same time. That leads server being down then response time is out of time.

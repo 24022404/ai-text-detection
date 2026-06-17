@@ -1,1 +1,0 @@
-Theorem 2 demonstrates that the (k,1)-RdB sequence achieves a higher rate compared to the HdB sequence, making it advantageous for use in systems to boost transmission rates and enhance the speed of both encoding and decoding of signals.

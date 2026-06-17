@@ -1,1 +1,0 @@
-Chương 4: Phát triển và triển khai ứng dụng Chương 4 trình bày về kiến trúc, thiết kế hệ thống, các bước xây dựng ứng dụng và kiểm thử một số chức năng.

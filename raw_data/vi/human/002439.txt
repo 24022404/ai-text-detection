@@ -1,1 +1,0 @@
-Quản lý thông tin bạn bè: Người dùng có một danh sách các bạn bè để có thể tham khảo các thông tin trên trang cá nhân của nhau. Quản lý thông tin bạn bè liên quan đến việc thêm, xóa, chặn người dùng khác trong danh sách bạn bè của bản thân.

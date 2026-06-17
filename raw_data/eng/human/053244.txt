@@ -1,1 +1,0 @@
-Transformers include both an encoder segment and a decoder segment, similar to LSTMs, which can be utilized as encoder-decoder systems. Figure 3.4 shows the Transformer’s visualization.

@@ -1,1 +1,0 @@
-Một phần tử con của mô hình khuôn mặt 3DMM được lựa chọn, cho ra các gan R80. Lựa chọn này biểu diễn sự biến thiên về danh tính (identity), biểu hiện (expression) và bề mặt (texture) trong mô hình khuôn mặt 3D. Sự lựa chọn này giúp việc biểu diễn khuôn mặt và bề ngoài trở nên nhỏ gọn hơn, từ đó tạo điều kiện cho quá trình xây dựng và tá tạo hiệu quả.

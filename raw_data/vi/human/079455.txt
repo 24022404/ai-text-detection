@@ -1,1 +1,0 @@
-Có nghĩa là các điều mục bên phải vẫn còn giá trị, nhưng trong Eagle sẽ đánh giá cao hơn mục ở bên trá.

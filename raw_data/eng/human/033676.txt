@@ -1,1 +1,0 @@
-Aggregation : Aggregation operations process data records and return the com puted results. It is similar to the GROUPBY clause in SQL. A few aggregation expressions are sum, avg, min, max, etc Because of the flexibility of MongoDB, it was used in our application to store more complex data such as lessons content or exercises’ questions.

@@ -1,1 +1,0 @@
-It is used to select game modes, navigate to the shop, inventory, or forge. The Battle Screen contains information about the player while they are in the game.

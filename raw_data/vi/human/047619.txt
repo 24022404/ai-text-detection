@@ -1,1 +1,0 @@
-Cuối cùng, em sẽ minh họa các chức năng chính mà nhà tuyển dụng được hệ thống cấp quyền bằng những hình ảnh dưới đây.Hình 4.18: Màn hình Ứng viên Hình 4.18  Màn hình ứng viên hiển thị tất cả các ứng vên điã cập nhật công vệc mong muốn trên hệ thống. Tạ đây, nhà tuyển dụng có thể tìm kiếm ứng viên theo các tiêu chí, lưu lại những ứng viên tiềm năng.

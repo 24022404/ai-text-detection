@@ -1,1 +1,0 @@
-Thiết kế giao diện Giao diện được thiết kế hướng đến màn hình máy tính có thông số như sau. Độ phân giải: 1920x1080, kích thước màn hình: 1317 nch đối với laptop và 1924 nch đối với máy tính để bàn. Giao diện linh hoạt có thể ứng với nhiều kích thước màn hình điện thoại với độ phân giải 1920x1080.

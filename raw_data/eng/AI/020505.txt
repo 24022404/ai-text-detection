@@ -1,1 +1,0 @@
-PostgreSQL is a free, open-source database that offers developers the ability to use, modify, and distribute it without cost, making it a flexible and budget-friendly solution suitable for projects ranging from small startups to large enterprises.

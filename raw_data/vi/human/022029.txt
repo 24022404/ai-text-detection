@@ -1,1 +1,0 @@
-Contaner IoC : Còn được gọi là Inverson of Control, điây là một phương thức để tạo các điố tượng mớ mà không phải khở động bất kỳ thư viện bên ngoài nào. Nó cách khác, bạn có thể truy cập các điố tượng này từ bất cứ nơi nào bạn đang mã hóa, bạn sẽ không còn gặp khó khăn với các cấu trúc nguyên khối không lnh hoạt.

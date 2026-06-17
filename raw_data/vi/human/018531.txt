@@ -1,1 +1,0 @@
-android: chứa các file cấu hình của android assets: chứa các file cấu hình fonts OS: chứa các file cấu hình của OS meda: chứa các fle ảnh natvebasetheme: chứa các fle kha báo màu, font chữ, v.v.

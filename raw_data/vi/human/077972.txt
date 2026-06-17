@@ -1,1 +1,0 @@
-Quy trình đăng ký và chia sẻ mã định danh peerId được áp dụng cho tất cả người dùng trong phòng code, giúp xác định và theo dõi các người dùng tham gia và tương tác với nhau. WebSocket Server đóng vai trò quan trọng trong việc lắng nghe sự kiện và cung cấp kết nối giữa các người dùng thông qua giao thức WebSocket .

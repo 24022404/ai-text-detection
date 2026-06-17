@@ -1,1 +1,0 @@
-() Em sẽ thiết kế một website bao được toàn bộ các chức năng chính mà nhà hàng cần, hướng tới từng điố tượng sử dụng website. Website sẽ có gao dện điơn gản, dễ dùng điể người mua và người bán có thể tương tác dễ dàng nhất.

@@ -1,1 +1,0 @@
-Chức năng tả CV giúp ứng viên lưu được CV của mình dưới định dạng file PDF gúp chia sẻ qua mạng dễ dàng, tính bảo mật cao và có thể hiển thị trên những môi trường khác nhau.

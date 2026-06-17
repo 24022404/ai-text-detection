@@ -1,5 +1,0 @@
-Chuyển gen GNA kháng rầy rệp vào cây bông vải bằng vi khuẩn Agrobacterium tumefaciens là một công nghệ sinh học tiên tiến giúp tăng cường khả năng chống lại sâu bệnh cho cây trồng. Công nghệ này dựa trên việc sử dụng vi khuẩn Agrobacterium tumefaciens để chuyển gen GNA (Glucanase) vào cây bông vải. Gen GNA có khả năng phá vỡ vỏ của sâu bệnh, giúp cây trồng tự bảo vệ mình.
-
-Quá trình chuyển gen này được thực hiện bằng cách sử dụng vi khuẩn Agrobacterium tumefaciens như một vectơ để chuyển gen GNA vào cây bông vải. Vi khuẩn này có khả năng gắn kết với tế bào cây và chuyển gen vào trong đó. Sau đó, cây trồng được trồng và phát triển như bình thường.
-
-Công nghệ này có thể giúp tăng cường khả năng chống lại sâu bệnh cho cây bông vải, giúp tăng sản lượng và chất lượng của cây trồng. Tuy nhiên, công nghệ này cũng cần được nghiên cứu và thử nghiệm thêm để đảm bảo an toàn và hiệu quả.

@@ -1,1 +1,0 @@
-When the image is in the PAUSED state, the code displays a message ”De tecting Image ” + augmentedImage .getName() to inform the user that the app is detecting the image but hasn’t started tracking it yet.

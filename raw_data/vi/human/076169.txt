@@ -1,1 +1,0 @@
-Khi ta có được một hàm giá trị hợp lý, có một số cách để ta tìm được một policy tối ưu tương ứng. Tạ mỗi bước thờ gan, ta sử dụng Vps)để tìm ra trạng thái tối ưu trong bước thờ gan tiếp theo mà ta muốn đạt tới, sau đó ta sử dụng các thông tin tính chất của môi trường điểm từ đó đưa ra được lựa chọn tốt nhất.

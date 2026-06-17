@@ -1,7 +1,0 @@
-Áp dụng hướng dẫn EP15A3 của CLSI trong xác nhận phương pháp định lượng glucose máu bằng máy Accu-check
-
-Hướng dẫn EP15A3 của CLSI (Hiệp hội Y tế và Dược phẩm Hoa Kỳ) là một tiêu chuẩn quan trọng trong lĩnh vực xét nghiệm y khoa, cung cấp hướng dẫn chi tiết về quy trình xác nhận phương pháp định lượng glucose máu. Trong bối cảnh sử dụng máy Accu-check, việc áp dụng hướng dẫn này là vô cùng quan trọng để đảm bảo độ chính xác và tin cậy của kết quả xét nghiệm.
-
-Hướng dẫn EP15A3 yêu cầu thực hiện các bước sau: xác định giới hạn phát hiện và giới hạn đo lường của máy Accu-check, xác thực phương pháp bằng cách so sánh kết quả với phương pháp chuẩn, và đánh giá độ ổn định của máy. Qua đó, người thực hiện có thể xác định được độ chính xác và tin cậy của máy Accu-check trong việc định lượng glucose máu.
-
-Việc áp dụng hướng dẫn EP15A3 không chỉ giúp đảm bảo độ chính xác của kết quả xét nghiệm mà còn giúp nâng cao chất lượng dịch vụ y tế, giảm thiểu rủi ro cho bệnh nhân.

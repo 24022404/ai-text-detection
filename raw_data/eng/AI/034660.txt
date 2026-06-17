@@ -1,1 +1,0 @@
-Certificate information, including hardcoded certificates or keystore, is extracted while the app’s code undergoes analysis using specialized tools such as apkid_analysis, code_analysis, and behaviour_analysis.

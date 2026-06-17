@@ -1,1 +1,0 @@
-Surveillance and anomaly detection have become more important as the quantity of video data has grown rapidly . When compared to regular activity, such aberrant occurrences are uncommon. As a result, creating automated video surveillance systems for anomaly detection has become a need to reduce labour and time waste.

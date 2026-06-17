@@ -1,1 +1,0 @@
-Studying the methodology of this project, starting with planning, designing with MVC software architect pattern Learning how to analyse and design system architecture using UML diagrams to visualize and model the system’s architecture, interactions, and data flow.

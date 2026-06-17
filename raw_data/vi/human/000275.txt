@@ -1,1 +1,0 @@
-Nếu phía trước không có vật cản và trạng thái hiện tại đang là một trạng thái dừng, lúc này có nghĩa là xe đang dừng và cần bắt đầu d chuyển, ta chuyển trạng thái thành ACCELERATE.

@@ -1,1 +1,0 @@
-Đố với điố tượng sử dụng website là nhân viên sẽ có thêm các chức năng như điặt điơn hàng dùng tạ chỗ, quản lý điơn hàng, gỏ hàng, kểm tra thông tin chỗ ngồ.

@@ -1,1 +1,0 @@
-Screen Flow The game has two main screens: the Main Screen and the Battle Screen. The Main Screen is where players interact when they are in the lobby.

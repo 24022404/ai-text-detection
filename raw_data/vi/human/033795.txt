@@ -1,1 +1,0 @@
-Tốc độ: Về cơ bản, React cho phép các nhà phát triển sử dụng các phần riêng lẻ của ứng dụng của họ ở cả phía máy khách và phía máy chủ, điều này cuối cùng giúp tăng tốc độ của quá trình phát triển. Nó một cách dễ hiểu, các nhà phát triển khác nhau có thể viết các phần riêng lẻ và tất cả các thay đổi được thực hiện sẽ không gây ra tính logic của ứng dụng.

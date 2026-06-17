@@ -1,1 +1,0 @@
-Xây dựng ứng dụng: Sử dụng các công cụ như Visual Studio Code hoặc IntelliJ IDEA điểm xây dựng mã nguồn cho ứng dụng của bạn. React Native cung cấp một số thành phần UI điã điược xây dựng sẵn, cho phép tạo các màn hình và chức năng của ứng dụng của mình.

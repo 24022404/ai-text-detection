@@ -1,1 +1,0 @@
-Quản lý quá trình: PM2 cho phép bạn quản lý các quá trình Nodejs, bao gồm việc khởi động, dừng, khởi động lại và tắt các ứng dụng một cách dễ dàng.

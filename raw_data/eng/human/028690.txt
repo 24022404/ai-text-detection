@@ -1,1 +1,0 @@
-APIs, on the other hand, emerged as a promising route. Yet, the landscapeof cryptocurrency APIs revealed constraints, ranging from limited free access tothrottled requests over time. These limitations could hinder the seamless and dy namic flow of real-time data required for the application’s success.

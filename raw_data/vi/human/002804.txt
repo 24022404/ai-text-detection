@@ -1,1 +1,0 @@
-Những ứng dụng nên sử dụng NodeJS Ứng dụng thời gian thực (realtme) Bởi vì NodeJS hỗ trợ xử lý bất đồng bộ, giúp cho việc tạo ra các ứng dụng realtme như trò chơi trực tuyến, chat, hội họp trực tuyến, hay các ứng dụng đồng bộ dữ liệu như giá cả chứng khoán, thông tin địa điểm,.. được xử lý nhanh chóng và hiệu quả.

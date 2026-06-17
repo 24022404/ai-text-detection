@@ -1,1 +1,0 @@
-Luồng sự kiện phát sinh 1. Chủ cửa hàng truy cập trang đăng ký tài khoản nhân viên trên hệ thống.

@@ -1,1 +1,0 @@
-Some important parameters of the RFID reader (i) frequency: LF, HF, UHF,some manufacturers develop multi-function reader that can work on different fre quencies, (ii) standard protocol ISO, EPC, products of several manufacturers that support many different protocols and (iii) network capabilities: TCP/IP, Wireless LAN, Ethernet LAN, RS485.

@@ -1,1 +1,0 @@
-Tền điều kiện là người dùng đã đăng nhập vào hệ thống và đang ở màn hình home, 2 người muốn nhắn tin với nhau phải follow nhau.

@@ -1,1 +1,0 @@
-Future research can enhance behavioral analysis by incorporating runtime monitoring tools, enabling the capture of real-time network traffic and tracking of system-level interactions for more accurate and comprehensive insights.

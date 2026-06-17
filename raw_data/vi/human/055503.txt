@@ -1,1 +1,0 @@
-Về cơ bản có thể chia các thuật toán học máy này vào hạ nhóm. Đầu tên là dựa trên phương thức học của thuật toán. Thứ hai là dựa trên chức năng của mỗi thuật toán.

@@ -1,1 +1,0 @@
-In 2.5, Legal Document own 27.3%, Medical Publications is 0.3% and Software acquire 1.9%, all of domains I am considering which is contained in Mtet datasets.In this exposition, I shall provide a comprehensive account of the multi-domain machine translation system 3.1 I have developed, including two principal components:

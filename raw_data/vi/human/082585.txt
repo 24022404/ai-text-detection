@@ -1,1 +1,0 @@
-() Phân vùng dựa trên ngưỡng (Threshold Based Segmentation): là một dạng phân vùng ảnh đơn giản dựa trên việc đặt giá trị ngưỡng theo cường độ điểm ảnh của ảnh gốc. Để xác định giá trị ngưỡng, cần xem xét biểu đồ phân phối cường độ sáng của tất cả điểm ảnh trong ảnh, sau đó tiến hành chọn các ngưỡng điểm cho ảnh thành các phân vùng.

@@ -1,1 +1,0 @@
-Module gợi ý sản phẩm được xây dựng tuân thủ theo Design Patterns mà Magento sử dụng. Dưới đây là một số Design Patterns quan trọng trong Magento:

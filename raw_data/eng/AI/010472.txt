@@ -1,1 +1,0 @@
-A risk assessment should be conducted based on the type and visibility of sensitive information, giving higher risk to exposed data like API keys and medium risk to email addresses.

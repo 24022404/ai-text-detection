@@ -1,1 +1,0 @@
-– action_name : tên của Acton (VD: ADD_ITEM  thêm sản phẩm vào giỏ hàng).– acton payload : thông tin ch tết nội dung muốn gửi (VD: Đối tượng chứa thông tin ID, quantity, price, ... của sản phẩm).

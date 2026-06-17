@@ -1,1 +1,0 @@
-Sự kiểm soát phía người dùng : Vì JavaScript thực thi trên trình duyệt của người dùng, nên không thể kiểm soát mã nguồn hoàn toàn và có thể dẫn đến các lỗ không xác định.4.1 Thiết kế kiến trúc 4.1.1 Lựa chọn kiến trúc phần mềm Mô hình kiến trúc MVC MVC là mô hình phân bố source code thành 3 phần, mộ phần làm nhiệm vụ riêng biệt và độc lập với các phần khác.

@@ -1,1 +1,0 @@
-A self-service portal allows end users to log and track tickets, browse knowledge articles, and use a range of helpful self-service features.

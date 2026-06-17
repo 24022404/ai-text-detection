@@ -1,1 +1,0 @@
-Controller: Là nơi tiếp nhận những yêu cầu xử lý được gửi từ người dùng, bao gồm những class function xử lý nhiều nghiệp vụ logic giúp lấy đúng dữ liệu thông tin cần thiết nhờ các nghiệp vụ lớp Model cung cấp và hiển thị dữ liệu đó ra cho người dùng nhờ lớp View.

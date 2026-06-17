@@ -1,1 +1,0 @@
-Strategy Pattern  Mẫu thiết kế chiến lược là một mẫu thiết kế hành vi cho phép bạn xác định một nhóm thuật toán, đặt từng thuật toán vào một lớp riêng biệt và làm cho các đối tượng của chúng có thể hoán đổi cho nhau .

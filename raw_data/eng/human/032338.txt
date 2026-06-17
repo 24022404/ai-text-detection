@@ -1,1 +1,0 @@
-[Only]. Available:  man.580G. Lample, M. Ballesteros, S. Subramanian, K. Kawakami, and C. Dyer, “Neural architectures for named entity recognition,” arXiv preprint arXiv:1603.01360 , 2016.

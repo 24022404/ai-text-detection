@@ -1,1 +1,0 @@
-Tầng dữ lệu có nhiệm vụ kết nối tới cơ sở dữ lệu và bao gồm các lớp ánh xạ biến các bảng trong cơ sở dữ lệu tương ứng. Nó thực hiện các truy vấn tớ cơ sở dữ lệu và trả kết cho tầng logc.

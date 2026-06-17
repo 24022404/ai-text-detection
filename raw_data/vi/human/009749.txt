@@ -1,1 +1,0 @@
-Chương 3 tập trung trình bày đề xuất của đồ án. Trong chương này, em sẽ mô tả chi tiết các thành phần của hệ thống và cách cài đặt, triển khai hệ thống vớ dữ liệu gả trình tự do Đại học Y Hà Nội cung cấp.Trong chương 4, tiến hành thực nghiệm, đánh giá và so sánh kết quả thu được với kết quả của máy chạy phát hiện đột biến tại Bệnh viện.

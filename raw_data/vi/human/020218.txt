@@ -1,1 +1,0 @@
-Kểm thử các chức năng của chương trình đã chạy điúng hay chưa bằng cách sử dụng phương pháp kểm thử thủ công.

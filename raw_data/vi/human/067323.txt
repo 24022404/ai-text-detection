@@ -1,1 +1,0 @@
-Xuất đơn hàng Khi một sản phẩm nào đó xuất kho thì điều phải khai báo lại các thông tin trước khi xuất khỏi nhân sự bán hàng và đơn hàng và o trong kho  hàng.

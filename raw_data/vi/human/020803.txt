@@ -1,1 +1,0 @@
-Một phòng code có nhiều mã code của nhiều loại ngôn ngữ khác nhau nên quan hệ giữa Code Editor Room và Source Code là 1n.Hình 4.15: Biểu đồ thiết kế cơ sở dữ liệu Hình 4.15 là biểu đồ thiết kế cơ sở dữ liệu. Dưới đây là danh sách các bảng và ch tết của từng trường trong bảng.

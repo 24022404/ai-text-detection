@@ -1,1 +1,0 @@
-Server is built on Java which is a fast, secure, reliable programming language for coding anything. This language has been a popular choice among developers for more than two decades. There are millions of Java applications in use today. Java is a cross-platform, object-oriented, network-centric language that can be used as a platform.

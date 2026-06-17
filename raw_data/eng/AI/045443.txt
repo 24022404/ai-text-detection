@@ -1,1 +1,0 @@
-Once a file is selected within the application, it becomes highlighted, enabling the user to perform additional actions on it. Additionally, the system incorporates a Login/Register use case, as depicted in Figure 2.4 of the Task and Project Management Application, which facilitates user authentication, access management, and consists of several sub-use cases for clarity.

@@ -1,1 +1,0 @@
-M. Zhong, P. Liu, Y. Chen, D. Wang, X. Qiu andX. Huang, “Extractive summarization as text matching,” inProceedings of the 58th Annual Meeting of the Association for Computational Linguistics On: Association for Computational Linguistics, july2020, pages 6197–6208. DOI:10.18653/v1/2020.acl-main.552 .url:

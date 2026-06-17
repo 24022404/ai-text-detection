@@ -1,1 +1,0 @@
-Consistency: There should be no significant changes of components throughout the application: buttons should be in similar size, fonts should not be changedtoo often and components should follow one color palette.

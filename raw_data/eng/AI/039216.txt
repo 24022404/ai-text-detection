@@ -1,1 +1,0 @@
-The maximal length N(k, s) of a (k, s)-RdB sequence is given by the length ℓ(Gk,s) of the longest simple path in Gk,s plus k−1, since each simple path of length l in Gk,s corresponds to a (k, s)-RdB sequence of length l+k−1.

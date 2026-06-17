@@ -1,5 +1,0 @@
-Phản ứng khử điện hóa nitrat trên xúc tác Cu là một quá trình phức tạp liên quan đến việc chuyển đổi nitrat thành các sản phẩm khác nhau. Sử dụng phương pháp quang phổ hấp thụ nguyên tử (AAS), nghiên cứu này đã xác định được các sản phẩm của phản ứng này.
-
-Quá trình phản ứng xảy ra trên bề mặt xúc tác Cu, nơi nitrat được khử thành các sản phẩm như nitric oxide (NO), nitơ (N2), và nước (H2O). Kết quả đo quang phổ AAS cho thấy sự hiện diện của các sản phẩm này trong phản ứng.
-
-Nghiên cứu này cung cấp thông tin quan trọng về quá trình phản ứng khử điện hóa nitrat trên xúc tác Cu, giúp hiểu rõ hơn về cơ chế phản ứng và sản phẩm của nó. Kết quả này có thể được ứng dụng trong các lĩnh vực như công nghệ môi trường, hóa học và vật liệu.

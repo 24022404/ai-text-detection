@@ -1,1 +1,0 @@
-Nơ sử dụng trong ứng dụng NodeJS kết hợp với HTML, CSS và Python được dùng để xây dựng và phát triển ứng dụng.

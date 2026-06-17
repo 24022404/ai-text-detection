@@ -1,1 +1,0 @@
-OCR là thuật ngữ về nhận diện ký tự quang học có nhiều ứng dụng thực tế như số hóa các tài liệu, xe tự hành, etc. OCR có những bài toán điển hình như mô hình định vị văn bản và mô hình nhận diện văn bản.

@@ -1,1 +1,0 @@
-Khá nệm về Props Trong ReactJS, Props (viết tắt của Properties) là một khái niệm quan trọng. Nó là một đối tượng, một mảng hoặc một giá trị JavaScript để truyền từ component cha điến component con thông qua các thuộc tính của component. Giá trị của Props không thể thay đổi được bỏ component một kh điã truyền vào trong component đó.

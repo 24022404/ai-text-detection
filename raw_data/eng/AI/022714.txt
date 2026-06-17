@@ -1,9 +1,0 @@
-Objective: Precise bounding box regression remains a critical challenge in object detection, where misaligned box sides and corners lead to suboptimal localization despite high classification scores. This paper introduces SCALoss, a novel Side and Corner Aligned Loss function designed to directly penalize misalignment between predicted and ground-truth box edges and vertices.
-
-Methods: SCALoss decomposes localization error into two complementary components: (1) Side Alignment Loss, which measures the distance between each predicted edge and its corresponding ground-truth edge; and (2) Corner Alignment Loss, which captures the Euclidean offset at each box vertex. By combining these terms within a unified loss framework, SCALoss guides the network to correct both linear and angular misplacements. We integrate SCALoss into popular detection architectures (e.g., Faster R-CNN and YOLO) and train on standard benchmarks without modifying the feature backbone or proposal mechanism.
-
-Results: Extensive experiments on MS COCO and PASCAL VOC demonstrate that SCALoss consistently outperforms common IoU-based and ℓ1/ℓ2 regression losses. On MS COCO, integrating SCALoss yields a +2.3% absolute gain in AP@[.5:.95] and accelerates convergence by 20% in early training epochs. Ablation studies confirm that each alignment term contributes significantly to overall performance, particularly for small and irregularly shaped objects.
-
-Conclusion: SCALoss offers a lightweight yet effective approach to improve bounding box localization. By explicitly aligning sides and corners, it enhances detection accuracy without added architectural complexity. This alignment-focused loss can be readily adopted in real-time and high-precision detection systems, advancing applications in autonomous driving, surveillance, and robotics.
-
-Keywords: SCALoss, bounding box regression, side alignment, corner alignment, object detection, localization.

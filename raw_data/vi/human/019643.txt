@@ -1,1 +1,0 @@
-Bên App Android, người dùng có thể nhập thờ gan bắt đầu và thờ gần kết thúc, tùy chỉnh các cơ cấu chấp hành (bật/tắt bơm, điện, quạt) mong muốn cho hệ thống. Dữ liệu thờ gan bắt đầu và kết thúc được gửi lên Firebase và trả về cho Master, từ đó Master sẽ so sánh thờ gan nhận được từ Slave và thờ gan nhận được từ Firebase điểm đưa ra điều khiển phù hợp cho hệ thống.

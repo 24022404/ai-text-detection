@@ -1,1 +1,0 @@
-Hàm lợi thế Trong deep learning, gradient descent  thường hoạt động tốt nếu các giá trị của chúng ta được cân bằng hoá xung quanh 0. Ý tưởng này cũng được triển khai trong học tăng cường. Hàm lợi thế là một hàm có tác dụng đánh giá lợi thế của một hành động trong trạng thái so với mức điểm thưởng kỳ vọng thông thường ta có thể nhận được từ trạng thái s.

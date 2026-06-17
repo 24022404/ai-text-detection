@@ -1,1 +1,0 @@
-Công cụ phân tích thiết kế Visual Paradigm là một trong những công cụ mạnh mẽ và linh hoạt được sử dụng rộng rãi trong cộng đồng phát triển phần mềm để hỗ trợ các quy trình phát triển như Agile, Waterfall và DevOps.

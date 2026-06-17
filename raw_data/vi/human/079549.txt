@@ -1,1 +1,0 @@
-Sử dụng các giá trị mua hàng để tạo thành các vector đại diện cho mỗi sản phẩm trong không gian đa chiều. Vector này có số chiều bằng số lượng khách hàng.

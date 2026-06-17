@@ -1,1 +1,0 @@
-"Dead Scheduling for Real-Time Systems" examines algorithms like Earliest Deadline First (EDF), analyzing their methods and effects on task timing.

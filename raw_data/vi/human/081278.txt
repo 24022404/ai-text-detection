@@ -1,1 +1,0 @@
-Gó Interface: chứa lớp có nhiệm vụ tương tác với người dùng và hiển thị theo các thông tin được truyền từ gó Logic.

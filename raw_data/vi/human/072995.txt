@@ -1,1 +1,0 @@
-Người dùng gửi mã định danh peerId này điến WebSocket Server, và server này sẽ lưu trữ thông tin về peerId của người dùng.

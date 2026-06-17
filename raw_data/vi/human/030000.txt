@@ -1,1 +1,0 @@
-Checksum Checksum là phương pháp bảo mật cơ bản của Lewre đi cùng mỗ response, request; được sử dụng để xác thực trạng thán từ máy chủ không bị giả mạo trong trình duyệt. Thay vì chỉ truyền giá trị của các thuộc tính biến trình duyệt, Lewre sẽ thực hiện tạo một mã băm (sử dụng checksum) từ các giá trị này và gửi cùng response. Dưới đây là ví dụ về checksum của Lewre:

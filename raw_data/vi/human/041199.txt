@@ -1,1 +1,0 @@
-Tền điều kiện Người dùng đã tham gia vào phòng Luồng sự kiện chính STT Thực hiện bởi Hành động 1. Người dùng Chọn nút "Người tham gia" để hiển thị danh sách người dùng trong phòng.

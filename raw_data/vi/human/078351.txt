@@ -1,1 +1,0 @@
-Ngoài ra, TensorFlow còn được sử dụng rộng rãi trong nhiều ứng dụng thực tế và dự án nghiên cứu trong lĩnh vực học máy và trí tuệ nhân tạo.

@@ -1,1 +1,0 @@
-Methodology: The modified PRIMERA model for Vietnamese Multi-document Text Summarization task: Case study in Vietnamese contexts and present in depth the model architecture.

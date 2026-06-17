@@ -1,1 +1,0 @@
-FaceNet : FaceNet của Google sử dụng một kiến trúc dựa trên CNN, học cách ánh xạ hình ảnh khuôn mặt vào một không gian Euclide nhỏ gọn nơ các khoảng cách trực tiếp tương ứng với sự giống nhau của khuôn mặt. Bằng cách huấn luyện trên một tập dữ liệu lớn của hình ảnh khuôn mặt, FaceNet có thể tạo ra một "dấu vân tay" duy nhất cho mỗi khuôn mặt, cho phép nhận dạng chính xác.

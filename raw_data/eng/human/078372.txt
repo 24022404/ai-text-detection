@@ -1,1 +1,0 @@
-T. P. Pedersen, “A threshold cryptosystem without a trusted party,” in Ad vances in Cryptology — EUROCRYPT’91 , Springer, 1991, pp. 522–526.

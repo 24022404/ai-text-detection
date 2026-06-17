@@ -1,9 +1,0 @@
-This paper addresses the challenge of securing access control in semantic segmentation models. Specifically, it focuses on ensuring data security without compromising the model's performance by utilizing a novel technique to control access to sensitive data features.
-
-Methods/Approach: We introduce a spatially invariant permutation of feature maps within semantic segmentation models as a mechanism for access control. This approach involves permuting intermediate feature representations during the model inference stage, thereby transforming the data in a way that makes unauthorized access difficult while maintaining spatial coherence necessary for accurate segmentation.
-
-Results/Findings: The proposed method demonstrates robust access control capabilities with minimal impact on segmentation accuracy. Through extensive experimentation, our approach outperformed baseline methods, maintaining high accuracy levels while significantly enhancing security against potential data breaches. Comparative analyses revealed that our technique imposes a negligible computational overhead, ensuring its viability for real-time applications.
-
-Conclusion/Implications: This research contributes a novel layer of security for semantic segmentation models without degrading their performance, offering significant advancements in the field of secure AI applications. Our findings suggest that spatially invariant permutations can be effectively utilized in various contexts requiring secure and accurate image analysis. Future applications could extend to areas such as medical imaging, autonomous driving, and other domains where privacy preservation of sensitive data is paramount.
-
-Keywords: access control, semantic segmentation, feature maps, spatially invariant permutation, data security, secure AI applications

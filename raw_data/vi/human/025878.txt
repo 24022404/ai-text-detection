@@ -1,1 +1,0 @@
-Thiết kế tổng quan Hình 4.3: Biểu đồ gió tổng quan phần server của ứng dụng Hình 4.3 mô tả cấu trúc gói tổng quan cho phần server. Trong phần server này, có các góc sau:

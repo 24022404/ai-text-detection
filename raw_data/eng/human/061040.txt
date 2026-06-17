@@ -1,1 +1,0 @@
-JavaScriptJavaScript is an object-based language that uses prototype objects to model in heritance. Using JavaScript to create a dynamic page.

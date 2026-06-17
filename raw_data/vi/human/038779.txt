@@ -1,1 +1,0 @@
-Mặc dù hệ thống đã đạt được mục tiêu ban đầu nhưng hệ thống còn tồn đọng nhiều vấn đề về hiệu năng cũng như các tính năng mới bổ sung để hoàn thiện phần mềm. Một số tính năng bổ sung thêm trong tương lạ Tích hợp thêm các phương thức thanh toán hấp dẫn để kéo thêm khách mua hàng như phương thức trả góp.

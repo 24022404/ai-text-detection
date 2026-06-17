@@ -1,1 +1,0 @@
-Contrastive learning is typically used as a self-supervised by applying different transformations to the input and anticipating the same outcome and have recentlydemonstrated tremendous promise for representation learning in classification tasks.

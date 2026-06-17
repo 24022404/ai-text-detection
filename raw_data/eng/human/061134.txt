@@ -1,1 +1,0 @@
-P. Koehn, “Pharaoh: A beam search decoder for phrase-based statistical machine translation models.,” inAMTA R. E. Frederking andK. Taylor, editors ,jourser Lecture Notes in Computer Science, volume 3265, Springer, 2004, pages 115–124, ISBN: 3-540-23300-8. url:

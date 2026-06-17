@@ -1,1 +1,0 @@
-PHP (vết tắt điệ quy của Hypertext Preprocessor – Trình tền xử lý sêu văn bản) là ngôn ngữ scrpt mã nguồn mở được sử dụng rộng rã, điặc bệt phù hợp cho việc phát trển web. Ngôn ngữ scrpt chính là một chuỗ các lệnh có thể được thực hiện mà không cần bên dịch thành mã máy. Đặc bệt, PHP có thể được nhúng trong HTML (Hình 3.5).

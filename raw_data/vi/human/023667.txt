@@ -1,1 +1,0 @@
-Trong quá trình làm đồ án, em có học hỏi được cách sử dụng các công nghệ mới như MERN Stack. Việc phát triển và tích hợp ĐATN vào hệ thống DEClan cũng giúp em học hỏi được cách xây dựng một sản phẩm thực tế.

@@ -1,1 +1,0 @@
-Để bài toán trở nên hiệu quả trong việc đảm bảo an toàn cho cửa hàng tiện lợi, ứng dụng mà tô phát triển cần có các tính năng chính sau:

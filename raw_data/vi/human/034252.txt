@@ -1,1 +1,0 @@
-Quản trị viên: Là quản trị viên của website, có các quyền quản lý cao nhất nhưquản lý thuộc tính, quản lý sách, quản lý nhà cung cấp, quản lý điơn hàng, quản lý danh sách thành viên, quản lý slde, quản lý bà vết, quản lý điơn hàng, xem thống kê. Để thực hiện chức năng này quản trị viên phải đăng nhập.

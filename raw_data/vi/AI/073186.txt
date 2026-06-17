@@ -1,5 +1,0 @@
-Ứng dụng mô hình FLOW3D để đánh giá phương án xử lý thay đổi cao trình hồ xói đập dự án hồ chứa nước sông đã được thực hiện nhằm đánh giá hiệu quả của phương án này. Mô hình FLOW3D được sử dụng để mô phỏng quá trình xói đập và thay đổi cao trình hồ chứa nước sông.
-
-Kết quả mô phỏng cho thấy rằng phương án xử lý thay đổi cao trình hồ xói đập dự án hồ chứa nước sông có thể giúp giảm thiểu tác động của xói đập và bảo vệ hồ chứa nước sông khỏi sự xói mòn. Mô hình cũng cho thấy rằng việc tăng cường độ cao của hồ chứa nước sông có thể giúp giảm thiểu tác động của xói đập và bảo vệ hồ chứa nước sông khỏi sự xói mòn.
-
-Tổng kết, ứng dụng mô hình FLOW3D để đánh giá phương án xử lý thay đổi cao trình hồ xói đập dự án hồ chứa nước sông đã cho thấy hiệu quả của phương án này trong việc bảo vệ hồ chứa nước sông khỏi sự xói mòn và giảm thiểu tác động của xói đập.

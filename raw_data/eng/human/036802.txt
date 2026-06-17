@@ -1,1 +1,0 @@
-data diversity are no longer higher than those assigned to nodes with less data diversity, around from 0.095 to 0.105 for all nodes as demonstrated in Figure 4.5b.

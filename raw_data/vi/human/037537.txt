@@ -1,1 +1,0 @@
-Mục Số dòng code Dung lượng Frontend 8082 3.04 MB Backend 1497 68 KB Bảng 4.8: Thống kê về số dòng code và dung lượng 4.3.3 Minh họa các chức năng chính Trong phần này tôi sẽ trình bày về hạ chức năng chính của hệ thống là tạo phiếu khuyến mại và sử dụng phiếu khuyến mãi.

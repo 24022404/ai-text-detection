@@ -1,1 +1,0 @@
-The greedy and FKM algorithms generate the lexicographically smallest universal cycle of S, as demonstrated by several classes in example 2.4.

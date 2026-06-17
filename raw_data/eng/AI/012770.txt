@@ -1,9 +1,0 @@
-This study targets the challenge of traffic prediction, a critical component in modern urban planning and intelligent transport systems. We aim to enhance prediction accuracy by optimizing feature selection and loss function design, addressing gaps in existing methodologies.
-
-Methods: We introduce the Graph Ensemble Net, a novel approach that leverages graph neural networks (GNNs) to model complex traffic patterns. This method integrates multiple graph-based models into an ensemble to capture spatial-temporal dependencies more effectively. Additionally, we investigate the impact of different feature sets and design tailored loss functions to improve model robustness and performance.
-
-Results: Our experimental results demonstrate that the Graph Ensemble Net outperforms traditional traffic prediction models, achieving improved accuracy and generalization capabilities. We highlight significant advancements in prediction performance by refining feature selection and adapting loss function designs suitable for traffic data. Comparative analyses with baseline models underscore the superiority of our approach across diverse urban environments and traffic conditions.
-
-Conclusion: This research contributes crucial insights into the role of feature and loss function design in traffic prediction. The proposed Graph Ensemble Net not only advances the state of the art in traffic forecasting but also sets a new benchmark for future studies. Its application underscores potential benefits for urban planners and policy makers, optimizing traffic flow and enhancing commuter experiences.
-
-Keywords: traffic prediction, Graph Ensemble Net, graph neural networks, feature selection, loss function design, urban planning, intelligent transport systems.

@@ -1,1 +1,0 @@
-Khả năng chia sẻ trọng số: Thay vì học một bộ tham số khác nhau trong mỗi trường tiếp cận, trong từng lớp tích chập, mạng chỉ học một bộ lọc duy nhất để xử lý đặc trưng đầu vào. Đều này giảm đáng kể số lượng tham số, tăng tốc cho quá trình huấn luyện.

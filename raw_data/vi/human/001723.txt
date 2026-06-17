@@ -1,1 +1,0 @@
-Lớp HomeAdmnFragment gọ điến lớp AdmnManScreen trong hàm onCreat eVew() điể vẽ UI lên màn hình. Token được lưu trong SharedPreference sẽ được xoá khi người dùng đăng xuất ra khỏi hệ thống.Hình 4.9: Thiết kế chợ tết lớp Admin4.2.3 Thiết kế cơ sở dữ lệu Hình 4.10: Sơ đồ thiết kế cơ sở dữ liệu Bảng dữ lệu User Mục đích: Lưu thông tin của người dùng.

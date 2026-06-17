@@ -1,1 +1,0 @@
-Hệ thống thông báo lỗ cho nhân viên và yêu cầu nhập lại thông tin hoặc thực hiện kiểm tra lại số lượng sản phẩm trong kho hàng.

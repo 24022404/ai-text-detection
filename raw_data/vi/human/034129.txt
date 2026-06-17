@@ -1,1 +1,0 @@
-Để hiểu rõ hơn về ReactJS và tạ sao bạn nên sử dụng nó, chúng ta cùng nhau tìm hiểu 2 khá nệm trên để xem chúng thực sự làm việc như thế nào.

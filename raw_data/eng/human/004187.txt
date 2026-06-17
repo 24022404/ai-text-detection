@@ -1,1 +1,0 @@
-Overall design For the MVC architecture design, I used 3 packages: View package, Controllerpackage, Model package. The View package represents the app front end. Con troller package represent the app backend. Model package represents a model in database and we will be working with the databases.

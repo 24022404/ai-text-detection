@@ -1,1 +1,0 @@
-Từ thiết kế ở Chương 3, Chương 4 sẽ trình bày về việc xây dựng hệ thống. Cài đặt cụm Hadoop/Spark là bước điầu tiên. Tiếp theo là xây dựng các chương trình thực hiện lưu trữ và phân tích dữ lệu trên nền tảng điã cà điặt. Cuối cùng, xây dựng báo cáo phân tích và kết nối với nguồn dữ lệu điểm trực quan hóa dữ lệu phân tích lên các biểu đồ.

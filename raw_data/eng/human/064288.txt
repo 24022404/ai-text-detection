@@ -1,1 +1,0 @@
-Within the workflow, I defined the steps to run, which included calling the Python script responsible for fetching data through the Pycoingecko library. ThePython script executed API calls to CoinGecko and retrieved the required cryp tocurrency data.

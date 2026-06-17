@@ -1,1 +1,0 @@
-– The feed forward segment produces the encoding for each individual input. The input is represented in high dimensions by the encoding. A residual connection is available for the free flow of gradients also in this case.

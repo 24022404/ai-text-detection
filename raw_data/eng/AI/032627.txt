@@ -1,8 +1,0 @@
-Abstract  
-Reinforcement learning (RL) agents often struggle to learn efficient policies in complex environments due to the high dimensionality of raw observations and the diverse dynamics of multiple objects. This paper introduces a relevance-guided modeling framework that selectively focuses on object dynamics most predictive of task success. Our approach consists of two key components: a relevance estimator that assigns importance scores to detected objects based on their influence on future rewards, and a dynamic object model that learns transition functions only for high-relevance entities. By combining these modules within a model-based RL pipeline, the agent builds a compact predictive representation that emphasizes critical interactions while ignoring distractors.  
-
-We evaluate our method on benchmark control tasks featuring interacting objects, including simulated manipulation and navigation scenarios. Compared to baseline model-based and model-free algorithms, relevance-guided modeling yields faster convergence, requiring up to 50% fewer environment steps to reach comparable performance. Ablation studies confirm that both relevance estimation and targeted dynamics learning contribute significantly to sample efficiency and policy robustness.  
-
-Our findings demonstrate that guiding the modeling process with task-specific relevance not only reduces computational overhead but also enhances generalization to novel configurations. This relevance-guided paradigm offers a principled way to integrate object-centric representations into RL, paving the way for more scalable and interpretable decision-making agents.  
-
-Keywords: reinforcement learning, object dynamics, relevance-guided modeling, model-based RL, sample efficiency.

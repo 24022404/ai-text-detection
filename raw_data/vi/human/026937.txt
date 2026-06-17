@@ -1,1 +1,0 @@
-Bí thư nhập thông tin danh mục và nhấn thêm 2. Hệ thống thêm danh mục vào CSDL 3. Hệ thống hiển thị danh mục mới thêm trong danh sách danh mục Luồng sự kiện con:

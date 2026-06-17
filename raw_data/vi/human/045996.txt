@@ -1,1 +1,0 @@
-MySQL cung cấp một số tính năng mạnh mẽ, bao gồm các tính năng quản lý dữ liệu, tính toán và phân tích dữ liệu, tạo các bảng và quản lý chúng, và cung cấp một cấu trúc dữ liệu để lưu trữ dữ liệu.

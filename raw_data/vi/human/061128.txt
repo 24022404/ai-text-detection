@@ -1,1 +1,0 @@
-jon VideoCall: phương thức này gồm 2 tham số là conversationId và token, nhằm tham gia cuộc gọi video trong cuộc hội thoại có mã cuộc hội thoại là conversationId.

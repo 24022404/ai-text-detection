@@ -1,1 +1,0 @@
-Component: The event originates from the PackageManager , the systemcomponent responsible for managing application packages, including their in stallation, uninstallation, and permissions.

@@ -1,9 +1,0 @@
-Objective: Generative Adversarial Networks (GANs) achieve impressive results in image synthesis but demand substantial computational and memory resources, limiting deployment on resource-constrained devices. This paper introduces an Online Multi-Granularity Distillation (OMGD) framework to compress GANs efficiently without sacrificing image quality.
-
-Methods: OMGD employs a two-player distillation scheme in which a lightweight student GAN learns from a heavier teacher GAN in an end-to-end online fashion. We design multi-granularity distillation losses that align student and teacher at three levels: (1) pixel-level outputs to preserve fine details, (2) intermediate feature maps to capture structural representations, and (3) adversarial responses to maintain realism. Unlike traditional distillation that requires a fully pre-trained teacher, our method trains both networks simultaneously, reducing overall training time and eliminating the need for separate teacher pre-training.
-
-Results: We evaluate OMGD on standard benchmarks including CelebA and CIFAR-10. Experiments demonstrate that our compressed student GAN reduces parameter count by up to 75% and cuts floating-point operations (FLOPs) by 68%, while only incurring a marginal increase in Fréchet Inception Distance (FID) of 1.8 points. Qualitative comparisons show that OMGD preserves high-fidelity textures and diverse sample generation.
-
-Conclusion: OMGD offers a novel and practical solution for GAN compression, enabling deployment of generative models on edge devices. Its online multi-granularity distillation strategy can be extended to other deep generative architectures, facilitating broader adoption in applications such as mobile imaging and real-time content creation.
-
-Keywords: GAN compression; knowledge distillation; multi-granularity; online learning; generative adversarial network; model compression.

@@ -1,9 +1,0 @@
-Objective: This paper introduces a novel framework that casts the Bahdanau attention mechanism as an election process, where encoder hidden states serve as candidates and their relevance scores are determined via voting rules. We further enhance this election-based attention by integrating Q-Learning to adaptively select and weight multiple voting methods over the course of training.  
-
-Methods/Approach: We map each source token’s hidden representation to a candidate in an election. Attention weights emerge from classical voting schemes—such as plurality, Borda count, and Condorcet—whose outputs are interpreted as normalized vote counts. A Q-Learning agent observes state features of the decoding context (e.g., previous attention distributions, decoder hidden states) and learns a policy to choose or blend voting rules that maximize translation quality. This hybrid approach leverages reinforcement learning to dynamically adjust how attention is computed.  
-
-Results/Findings: Experiments on neural machine translation (IWSLT’14 English→German) and abstractive summarization (CNN/DailyMail) demonstrate that our election-based attention with Q-Learning outperforms standard Bahdanau attention by up to 1.7 BLEU and 2.4 ROUGE-L points. The model converges faster and yields more interpretable attention patterns, as different voting schemes are favored in distinct syntactic or semantic contexts.  
-
-Conclusion/Implications: By reconceptualizing attention as an adaptive voting mechanism, our approach offers increased modularity, interpretability, and performance in sequence-to-sequence tasks. This methodology can be extended to other alignment problems and multi-agent decision scenarios.  
-
-Keywords: Bahdanau attention, election methods, Q-Learning, sequence-to-sequence, interpretability, neural machine translation, abstractive summarization.

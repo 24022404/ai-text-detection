@@ -1,1 +1,0 @@
-looping through each node iin parallel and updating its local model using the LocalUpdate function, which is further described later in the algorithm, Algorithm 1: Federated Impurity Weighting Algorithm Input: T: the number of communication rounds, N: the number of nodes in the system, K: the number of participating nodes in each round, B:

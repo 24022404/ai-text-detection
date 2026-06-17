@@ -1,1 +1,0 @@
-Hiểu về dựng khuôn mặt 3D và học sâu Khô phục khuôn mặt liên quan đến việc tạo ra một mô hình 3D ch tết của khuôn mặt từ dữ liệu đầu vào như hình ảnh 2D hoặc video. Đây là một lĩnh vực con của thị giác máy tính cho phép máy tính hiểu và giả thích thế giới qua hình ảnh.

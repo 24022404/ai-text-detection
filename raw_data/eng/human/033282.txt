@@ -1,1 +1,0 @@
-The process begins with taking pictures of the solder joints on the PCB. These images are then processed to extract the region of interest, which is the weld. This is done using a segmentation algorithm that separates the match from the background.

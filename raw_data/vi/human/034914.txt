@@ -1,1 +1,0 @@
-Module relay 5V 1 kênh là một thiết bị điện tử cho phép bạn điều khiển các mạch công suất cao bằng tín hiệu công suất thấp. Nó thường bao gồm một rơle và một mạch điều khiển. Mô Đun tiếp sức thường được sử dụng cho tự động hóa gia đình, các dự án IoT và điều khiển các thiết bị điện.

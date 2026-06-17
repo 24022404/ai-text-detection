@@ -1,1 +1,0 @@
-Chương này giới thiệu các vấn đề thực tế dẫn tới việc em lựa chọn điều tà, tổng quan về hệ thống giao đồ ăn on. Sau đó nêu ra mục tiêu và phạm vi điều tà, định hướng giải pháp và bố cục của đồ án.

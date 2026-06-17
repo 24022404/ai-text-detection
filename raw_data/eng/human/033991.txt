@@ -1,1 +1,0 @@
-Y. Zhang, A. Ahmed, V. Josfovsk andA. Smola, “Taxonomy discovery for personalized recommendation,” Proceedings of the 7th ACM international conference on Web search and data mnng 2014, pages 243–252.

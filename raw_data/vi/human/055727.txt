@@ -1,1 +1,0 @@
-Bên cạnh bài toán phát hiện lỗ sa, thì bà toán sửa lỗ chính tả cũng là một bài toán đang được quan tâm nhiều trong lĩnh vực xử lý ngôn ngữ tự nhiên. Bài toán có đầu vào là những từ bị sai chính tả và đầu ra là những từ đúng chính tả có thể thay thế cho từ điã bị sa ở điầu vào.

@@ -1,1 +1,0 @@
-Player Controller: This component manages the player’s movement, jumping, and interaction with the environment. It handles input from the player and updates the player’s position and actions accordingly.

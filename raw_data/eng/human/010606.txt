@@ -1,1 +1,0 @@
-Description : This sub-use case allows the user to select a specific readmode for viewing the code. The user can choose between different pre sentation modes such as raw Smali, decompiled Java/Kotlin code, or a simplified view that highlights key components.

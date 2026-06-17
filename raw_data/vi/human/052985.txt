@@ -1,1 +1,0 @@
-Thích hợp cho việc phát triển web động:  PHP thích hợp cho việc phát triển các ứng dụng web động, bao gồm các trang web thương mại điện tử, diễn đàn, hệ thống quản lý nội dung (CMS), và hơn thế nữa.

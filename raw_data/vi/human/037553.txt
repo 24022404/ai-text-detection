@@ -1,1 +1,0 @@
-STT Tên trường Yêu cầu 1 Tên quyền Bắt buộc 2 Các thiết bị được phép truy cập Bắt buộc Bảng C.5: Dữ liệu đầu vào cho trường hợp kiểm thử "Tạo bộ quyền truy cập thiết bị" Các ca kiểm thử cho chức năng "Tạo bộ quyền truy cập thiết bị":

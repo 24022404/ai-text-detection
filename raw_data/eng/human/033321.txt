@@ -1,1 +1,0 @@
-Network Layer : Manages state between nodes in the Ethereum network so that a node can always receive blockchain updates from some other active node. Ethereum is a P2P (Peer-to-peer) network, which helps every node on the network have the same backup data across the entire network.

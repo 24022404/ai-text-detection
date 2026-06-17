@@ -1,1 +1,0 @@
-Tuy nhiên, trong trường hợp bị tấn công MITM, kẻ tấn công đã xâm nhập vào mạng truyền thông giữa trình duyệt của người dùng và máy chủ web, và đánh cắp dữ liệu trả về từ yêu cầu truy cập. Kẻ tấn công có thể sử dụng các công cụ như phần mềm độc hạ hoặc kỹ thuật xâm nhập mạng để thực hiện tấn công này.

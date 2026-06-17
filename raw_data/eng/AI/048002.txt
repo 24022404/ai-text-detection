@@ -1,1 +1,0 @@
-Reconnaissance involves scanning an application's code or configuration files to detect patterns that may reveal sensitive information, helping to identify potential security risks before exploitation.

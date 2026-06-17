@@ -1,1 +1,0 @@
-Quá trình tính toán chính của mạng nơron dễn ra trong các lớp ẩn. Tạ điây, các điầu vào từ lớp điầu vào được xử lý thông qua các phép tính cần thiết để tạo ra kết quả cuố cùng. Kết quả này sau đó được truyền tếp điến lớp điầu ra, nơ người dùng có thể xem kết quả tính toán.

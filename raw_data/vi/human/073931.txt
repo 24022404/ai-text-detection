@@ -1,1 +1,0 @@
-Webview là nơi chứa gao đệm cho người sử dụng, nơ đây lưu trữ các file HTML, CSS. Nó bao gồm bất cứ thứ gì mà người dùng có thể nhìn thấy được.

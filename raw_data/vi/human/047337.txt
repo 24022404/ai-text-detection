@@ -1,1 +1,0 @@
-Talent CSS là một utility first CSS framework, nó cũng giống như Bootstrap, nó có những class btn mà chúng ta có thể dùng. Talend CSS có nhiều các class bao gồm các thuộc tính CSS khác nhau và quan trọng, chúng ta có thể dễ dàng mở rộng tạo mở ra những class bằng chính những class của nó.

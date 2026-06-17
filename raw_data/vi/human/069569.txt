@@ -1,1 +1,0 @@
-getLstConversatons: phương thức này bao gồm 2 tham số là user Id và token, nhằm lấy ra danh sách các cuộc hội thoại mà người dùng có mã người dùng là userId tham gia.

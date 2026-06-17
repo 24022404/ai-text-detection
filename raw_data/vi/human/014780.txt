@@ -1,1 +1,0 @@
-Lý do lựa chọn Firebase hỗ trợ phát triển ứng dụng một cách đơn giản. Tiếp theo chính là Firebase hỗ trợ cho việc phát triển ứng dụng rất nhanh chóng. Ngoài ra còn cung cấp đia dịch vụ cho mục đích phát triển.

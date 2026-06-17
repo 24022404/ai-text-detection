@@ -1,1 +1,0 @@
-if(!augmentedImageMap.containsKey(augmentedImage AugmentedImageNode node = new AugmentedImageNode( this ); node.setImage(augmentedImage); augmentedImageMap.put(augmentedImage, node); // record the start point, which is the image we just scan startingImage = augmentedImage; imageFound = true ; break ; case STOPPED:

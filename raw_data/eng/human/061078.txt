@@ -1,1 +1,0 @@
-B. Schwartz, P. Zaitsev, and V. Tkachenko, High performance MySQL: optimization, backups, and replication . " O'Reilly Media, Inc.", 2012.

@@ -1,1 +1,0 @@
-Sau khi chỉnh sửa xong, người dùng có thể chạy mã code, có thể yêu cầu cung cấp đầu vào hoặc không. Nếu cần nhập đầu vào, hệ thống sẽ cho phép người dùng nhập thông tin. Kh mã code được chạy, hệ thống sẽ thực hiện việc biên dịch code điểm đảm bảo nó chạy một cách chính xác.

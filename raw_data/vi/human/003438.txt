@@ -1,1 +1,0 @@
-Người mua cần đăng nhập để vào ứng dụng. Khi đăng nhập xong người mua có thể đặt đồ ăn bằng các tìm kiếm đồ ăn, chọn cửa hàng yêu thích, xem đồ ăn, đánh cá và nêu cảm nhận về món ăn đi. Người mua cũng có thể sửa thông tin của mình qua ứng dụng khi vào mục tài khoản.

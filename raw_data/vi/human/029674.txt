@@ -1,1 +1,0 @@
-Redux là package điểm quản lý state giữa các component và hỗ trợ hoạt tương tác với backend thông qua api service.

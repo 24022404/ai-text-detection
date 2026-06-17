@@ -1,1 +1,0 @@
-Nginx được thiết kế để xử lý một số lượng lớn các kết nối đồng thờ một cách hiệu quả.4.1 Kiến trúc tổng quan hệ thống Hình 4.1: Kiến trúc tổng quan hệ thống Web chat client: Chứa các gao vện và logc điểm giao tiếp trực tiếp với người dùng.

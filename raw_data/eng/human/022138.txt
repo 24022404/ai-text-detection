@@ -1,1 +1,0 @@
-Edit customer 1. Click the button edit from the customer’s page1. If the input is correct, the home page is shown to the user.

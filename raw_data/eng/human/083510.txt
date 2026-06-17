@@ -1,1 +1,0 @@
-The input layer has a size corresponding to the dimensionality of the output features extracted by the previous stage. Due to the use of BERT architecture (only accepting 512 tokens), the classification model input will be equivalent to 768.

@@ -1,1 +1,0 @@
-Frontend sử dụng thư viện ReactJS nhằm xây dựng các thành phần giao diện nhận và gửi dữ liệu đến máy chủ thông qua API.

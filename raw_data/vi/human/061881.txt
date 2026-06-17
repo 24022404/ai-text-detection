@@ -1,1 +1,0 @@
-Đơn giản hóa cấu hình và quản lý trạng thái với các công cụ được cung cấp.•Phả quản lý nhiều mã boilerplate hơn.

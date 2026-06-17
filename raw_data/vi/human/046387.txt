@@ -1,1 +1,0 @@
-Kết quả áp dụng hệ thống va chạm này đã được thử nghiệm trong quá trình làm đồ án và hiệu năng tăng rõ rệt. Với logic xử lý chỉ dùng hệ thống vật lý của Unti, số lượng quá có thể sinh ra chỉ vào khoảng 50100 thì máy tính đã có dấu hiệu FPS thấp từ 3050, sau khi sử dụng hệ thống va chạm nêu trên kết hợp thì số lượng quá tăng lên từ 200300 và chạy ổn định và FPS trên 60.

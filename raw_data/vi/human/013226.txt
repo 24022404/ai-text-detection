@@ -1,1 +1,0 @@
-Khố điều khiển trên thiết bị Jetson Nano có sử dụng các công nghệ như đã đề cập trong trong phần trước để xây dựng chức năng điều khiển cử chỉ tay. Ngoài ra, có sử dụng những công nghệ khác được trình bày dưới đây.

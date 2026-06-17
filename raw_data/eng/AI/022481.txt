@@ -1,9 +1,0 @@
-Objective: Attributed network clustering seeks to partition nodes into meaningful communities by leveraging both graph topology and node attributes. However, existing methods often treat structure and attributes separately or fuse them ineffectively, leading to suboptimal clustering quality.
-
-Methods: We propose Variational Co-embedding Learning (VCoEL), a unified framework that jointly models network structure and node features through variational inference. VCoEL employs two parallel encoders to map adjacency and attribute information into a shared latent space, enforcing consistency via a co-regularized variational loss. The decoder reconstructs both edges and attributes, while a clustering-oriented prior drives the latent embeddings toward well-separated groups.
-
-Results: Experiments on four benchmark datasets (Cora, Citeseer, Pubmed, ACM) demonstrate that VCoEL consistently outperforms state-of-the-art baselines in clustering accuracy (up to 8% improvement in Normalized Mutual Information) and robustness to noisy or incomplete attributes. Ablation studies confirm the benefits of co-regularization and joint reconstruction in capturing complementary information.
-
-Conclusion: VCoEL provides an effective, scalable approach to attributed network clustering by seamlessly integrating structure and attributes into a coherent variational framework. Its enhanced clustering performance and resilience to data imperfections make it suitable for applications in community detection, recommendation systems, and bioinformatics.
-
-Keywords: attributed network, variational co-embedding, network clustering, graph representation learning, variational inference.

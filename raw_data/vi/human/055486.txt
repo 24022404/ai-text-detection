@@ -1,1 +1,0 @@
-Tích hợp số và tối ưu hóa: ScPy cung cấp các chức năng để gả các bài toán tích phân, gả hệ phương trình tuyến tính, và các vấn đề tối ưu hóa, giúp trong việc tìm ra giải pháp số cho nhiều vấn đề toán học và khoa học.

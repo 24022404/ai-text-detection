@@ -1,1 +1,0 @@
-Độ tin cậy: Cách các chức năng cụ thể được xử lý với MySQL (ví dụ tài lệu tham khảo, các giao dịch, kểm toán. . . ) làm cho nó kém tin cậy hơn so với một số hệ quản trị cơ sở dữ lệu quan hệ khác.

@@ -1,5 +1,0 @@
-Phân tích và mô phỏng các yếu tố tác động gây mất ổn định kè sông Cần Thơ là một nghiên cứu quan trọng nhằm đánh giá và dự đoán khả năng chịu tải của kè sông Cần Thơ. Sử dụng phần mềm Plaxis 2D, các nhà nghiên cứu đã mô phỏng các yếu tố tác động gây mất ổn định kè sông, bao gồm tải trọng nước, tải trọng gió, và tải trọng địa chấn.
-
-Kết quả nghiên cứu cho thấy rằng tải trọng nước là yếu tố chính gây mất ổn định kè sông Cần Thơ. Tải trọng nước có thể gây ra sự lún và sụt lún của kè sông, dẫn đến mất ổn định và thậm chí là sụp đổ. Ngoài ra, tải trọng gió và tải trọng địa chấn cũng có thể gây ra sự mất ổn định kè sông, nhưng mức độ ảnh hưởng thấp hơn so với tải trọng nước.
-
-Nghiên cứu này cung cấp thông tin quan trọng cho các nhà quản lý và xây dựng kè sông Cần Thơ, giúp họ đánh giá và dự đoán khả năng chịu tải của kè sông, từ đó đưa ra các biện pháp phòng ngừa và cải thiện để đảm bảo an toàn và ổn định của kè sông.

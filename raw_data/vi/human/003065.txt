@@ -1,1 +1,0 @@
-Giới thiệu về MYSQL MySQL là một hệ quản trị cơ sở dữ lệu, một hệ quản trị cơ sở dữ lệu quan hệ, được phát triển, phân phối và hỗ trợ bở MySQL AB.

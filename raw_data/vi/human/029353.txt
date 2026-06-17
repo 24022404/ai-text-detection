@@ -1,1 +1,0 @@
-Giảm thiểu boilerplate code: Một trong những vấn đề lớn nhất khi sử dụng Redux truyền thống là lượng mã bolerplate phả vết. Redux Toolkit gúp game thể điều này bằng cách cung cấp các phương thức như createSpace và createAsync Think, giúp tạo reducers và actions dễ dàng hơn.

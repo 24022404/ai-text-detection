@@ -1,1 +1,0 @@
-Yêu cầu điặc bệt 1.Không cho a khác ngoài nhân sự bán hàng và đơn hàng vào trong kho  đăng nhập về hệ thống nhân sự bán hàng và đơn hàng .

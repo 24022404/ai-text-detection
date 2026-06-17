@@ -1,1 +1,0 @@
-Bước 1: Tả về các mages của hệ thống Frontend và Backend và các dịch vụ lên quan (MongoDB, Nginx, . . . ) từ Docker Hub Bước 2: Khởi chạy các mages của hệ thống và các dịch vụ liên quan tạo ra các container Bước 3: Khởi chạy các container tạo ra các dịch vụ (service). Các dịch vụ giao tiếp với nhau tạo nên hệ thống.

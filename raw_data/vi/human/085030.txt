@@ -1,1 +1,0 @@
-Trong đồ án của em, toàn bộ hệ thống backend được trên khai trên dịch vụ Virtual Machine của Azure.4.1 Thiết kế kiến trúc 4.1.1 Lựa chọn kiến trúc phần mềm Hình 4.1: Kiến trúc tổng quan của hệ thống Phần BackEnd của hệ thống được xây dựng bằng Spring boot, dựa trên sự kết hợp của hai mô hình MVC và mô hình ba lớp. Phần Android được xây dựng dựa trên kiến trúc MVC.

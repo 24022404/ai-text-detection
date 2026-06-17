@@ -1,1 +1,0 @@
-The other way is estimating the prototypes as the moving average of the pro totypes in mini-batches, to track the slowly moving prototypes. The prototype is estimated to be in each iteration as:

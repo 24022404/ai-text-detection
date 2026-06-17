@@ -1,1 +1,0 @@
-Register•Input register information account Click the “Register” button•If the email does not exist, the home page is shown to the user.

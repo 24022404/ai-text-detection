@@ -1,1 +1,0 @@
-Phân tích dữ liệu giao dịch cho các bộ sưu tập có trên hệ thống, cá nhân hóa gợi ý cho người dùng, từ đó hỗ trợ người dùng theo dõi, phân tích và giao dịch một cách thuận tiện hơn.

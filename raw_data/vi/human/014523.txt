@@ -1,1 +1,0 @@
-Vì độ tin cậy và tính phổ biến của OAuth2 nên tác giả đã sử dụng công nghệ này cho đồ án của mình để giúp người dùng đăng nhập với các tài khoản xã hội như Email, Facebook.

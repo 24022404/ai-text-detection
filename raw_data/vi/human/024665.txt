@@ -1,1 +1,0 @@
-–Enemies Data: chứa danh sách quá đang xuất hiện trên bản đồ.Mục đích Công cụ Phiên bản IDE lập trình Visual Studio 2019 Nền tảng phát triển game Unity 2021.3.22 Ngôn ngữ C Bảng 4.2: Danh sách công cụ sử dụng –Defeated name Count: số lượng quá đã thêu dệt.

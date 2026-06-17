@@ -1,1 +1,0 @@
-Xác định mối quan hệ (Relationships): Xác định các mối quan hệ giữa các thực thể trong Ontology, chẳng hạn như "là một phần của", "là loại của", "có thuộc tính", v.v.

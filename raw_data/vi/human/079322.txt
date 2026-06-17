@@ -1,1 +1,0 @@
-Đầu tên là màu sắc. Màu sắc mà hệ thống hướng đến là những màu sáng. Em sử dụng màu trắng cho nền trang web. Điều này giúp làm tôn lên nội dung và tạo ra sự tương phản với các thành phần khác trên trang web. Em sử dụng màu điện cho văn bản và các yếu tố khác trên trang web. Trong khi đó, các màu sáng như xanh dương, đỏ được sử dụng để làm nổ bật các yếu tố quan trọng.

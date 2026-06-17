@@ -1,1 +1,0 @@
-When you run a Streamlit app, the content will be displayed within the web browser window. The size of this window is determined by the browser settings or the device’s screen size. Users can resize the browser window, and Streamlit will automatically adjust the layout and content of the app to fit the new size.

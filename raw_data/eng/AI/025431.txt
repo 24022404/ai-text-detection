@@ -1,9 +1,0 @@
-Autonomous driving systems require robust and scalable solutions for motion forecasting to navigate complex real-world scenarios safely. This paper introduces the Waymo Open Motion Dataset, a large-scale, interactive dataset designed to advance research in motion prediction for autonomous vehicles. The dataset encompasses diverse driving scenarios, including multi-agent interactions, and provides high-resolution sensor data, trajectory annotations, and rich contextual information.  
-
-To address the challenges of motion forecasting, we propose a novel deep learning-based framework that leverages transformer architectures and graph neural networks (GNNs) to model agent interactions and predict future trajectories. Our approach integrates spatial-temporal dependencies and incorporates real-world constraints to improve prediction accuracy.  
-
-Experimental results demonstrate significant improvements in prediction performance compared to state-of-the-art methods, with a 15% reduction in average displacement error (ADE) and a 20% improvement in interaction-aware metrics. The proposed framework also exhibits strong generalization capabilities across diverse driving environments.  
-
-This research contributes to the field by providing a comprehensive dataset and a scalable, interaction-aware motion forecasting model. The findings have practical implications for enhancing the safety and reliability of autonomous driving systems, paving the way for future advancements in this domain.  
-
-**Keywords**: Autonomous driving, motion forecasting, Waymo Open Motion Dataset, transformer models, graph neural networks, multi-agent interactions.

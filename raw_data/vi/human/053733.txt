@@ -1,1 +1,0 @@
-Kh làm việc với Docker, ha khá nệm cần quan tâm nhất là Docker Image và Docker Contaner . Như đã nó, Docker là nền tảng cho phép khu bệt tài nguyên và tạo ra mô trường ảo hóa với điầy điủ tài nguyên và mô trường điể ứng dụng hoạt động. Một mô trường như vậy là một Docker Contaner .

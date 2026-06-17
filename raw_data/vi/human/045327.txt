@@ -1,1 +1,0 @@
-Cần nhập các trường bắt buộc. Nếu các trường đã nhập không đúng theo định dạng yêu cầu, hệ thống thông báo lỗ: Các trường đã nhập không đúng theo định dạng yêu cầu.

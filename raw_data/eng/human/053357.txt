@@ -1,1 +1,0 @@
-–Service: Contains functions that handle the server’s logic, query the database, and return data to the function caller Models - directory that stores the structure of the data.4.1.5 Detailed package design Figure 4.5: Detailed package design for client Figure 4.5 shows the details for the client-side repository management package that will have 7 parts including:

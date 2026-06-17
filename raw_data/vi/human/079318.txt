@@ -1,1 +1,0 @@
-Amazon RDS cho phép lập trình viên truy cập các tính năng của một cơ sở dữ liệu quen thuộc như MySQL, MariaDB, Oracle, SQL Server hay PostgreSQL.3.8.2 Mục đích sử dụng Amazon RDS được sử dụng để lưu trữ , truy vấn dữ liệu của đồ án.

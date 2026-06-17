@@ -1,1 +1,0 @@
-The measured length denotes the prefix of the granddaddy sequence x ending at the sub-string v, while uk,sis is identified as a Lyndon word.

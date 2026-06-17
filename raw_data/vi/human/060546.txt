@@ -1,1 +1,0 @@
-Sau khi thực hiện triển khai hệ thống, em có gửi tệp cài đặt cho một số người dùng và có nhận được các đánh giá. Dưới đây là bảng tổng kết đánh giá các tiêu chí của người dùng.

@@ -1,1 +1,0 @@
-B1. Nếu nhập sai mã OTP hệ thống sẽ hiển thị thông báo Hậu điều kiện Không có Bảng 3.3: Đặc tả use case đơn ký 3.3.3 Đặc tả use case xác thực tài liệu đã ký Usecase Xác thực tài liệu ID 03 Tác nhân chính Người dùng Phạm vi Người dùng truy cập vào website để xác thực tài liệu.

@@ -1,1 +1,0 @@
-Và cấu hình quyền truy cập phù hợp và xác thực token trả về từ Firebase để bảo vệ việc truy cập các chức năng và dữ lệu quan trọng trong ứng dụng di động.

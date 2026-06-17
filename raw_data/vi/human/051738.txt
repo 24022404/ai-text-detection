@@ -1,1 +1,0 @@
-Functional programming Lập trình hàm là một mô hình lập trình xử lý các chương trình như đánh gá các hàm toán học và tránh những thứ như dữ liệu có thể thay đổi và trạng thái thay đổi.

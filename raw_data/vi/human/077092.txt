@@ -1,1 +1,0 @@
-MVVM là một mô hình trong thiết kế xây dựng phần mềm. Ứng dụng được xây dựng dựa trên mô hình MVVM được chia làm 3 phần: Model, View, ViewModel.

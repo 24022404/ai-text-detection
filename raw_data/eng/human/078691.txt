@@ -1,1 +1,0 @@
-In the following chapters, we will detail the specific methodologies used, the design and implementation processes, and the evaluation of the application’s effectiveness in addressing the identified limitations.

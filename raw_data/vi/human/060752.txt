@@ -1,1 +1,0 @@
-Khi xe dừng lại do đèn đỏ hoặc do một xe khác đang chịu tác động của đèn đỏ, ta sẽ lưu lại các giá trị về thờ gan dừng, giá trị này sẽ có tác dụng đánh giá độ hiệu quả của tín hiệu đèn giao thông, từ đó đưa ra các mức điểm thưởng phù hợp.

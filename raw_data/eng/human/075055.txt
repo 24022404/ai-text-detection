@@ -1,1 +1,0 @@
-For mobile game development, the list of game engines currently available on the market is vast. Some of the most popular choices are Unity1, Unreal Engine2, GameMaker Studio3, Godot4. Each platform has its own set of features that is better suited to different requirements. The merits and downsides of those 4 game engines can be summarized in table 3.1.

@@ -1,1 +1,0 @@
-Loại fet thông dụng của ASP.Net là aspx. Giả sử chúng ta có một trang web có tên là MyPage.aspx, sẽ có một tệp khác có tên là MyPage.aspx.cs biểu thị cho phần mã code của trang. Bở vậy, Visual Studio mới tạo ra các tập tin riêng biệt cho mỗi trang web, một cho phần thiết kế và một dành cho mã code.

@@ -1,1 +1,0 @@
-Duyệt báo cáo Quản trị viên sau khi xem báo cáo sẽ đưa ra quyết định xác nhận hoặc từ chối báo cáo .

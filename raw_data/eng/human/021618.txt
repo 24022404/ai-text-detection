@@ -1,1 +1,0 @@
-ViewModel: The ViewModel is responsible for connecting the Model and theView. It contains the presentation logic that mediates between the two and ex poses the data and behaviors of the Model to the View through data binding. It also handles user interaction and updates the Model accordingly.The benefits of using the MVVM pattern include:

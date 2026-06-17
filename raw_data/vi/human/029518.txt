@@ -1,1 +1,0 @@
-Phần SQL của “MySQL” là viết tắt của “Ngôn ngữ truy vấn có cấu trúc”. SQL là ngôn ngữ tiêu chuẩn hóa phổ biến nhất được sử dụng điểm truy cập cơ sở dữ liệu giúp thực thi các hành động để đọc, gh và phân tích dữ liệu một cách dễ dàng .

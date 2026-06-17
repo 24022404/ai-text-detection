@@ -1,1 +1,0 @@
-Điều khiển thu phóng và xoay : Kiểm soát kích thước và vị trí xem trước trong trình chỉnh sửa.3. Android Layout Layout là nơi chứa các View trên gao vện và mỗ layout có một cách sắp xếp các control khác nhau, vì vậy vớ mỗ cấu trúc giao diện khác nhau ta nên chọn layout cho phù hợp. Sau đây là một số layout cơ bản để thiết kế giao diện :

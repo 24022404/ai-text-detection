@@ -1,1 +1,0 @@
-bwa index < resources hg38 path.fasta> Bộ gen tham chiếu có dung lượng rất lớn, khoảng 3.1 Gigabyte, nên quá trình đánh chỉ mục sẽ kết thúc sau khoảng 2 giờ chạy trên máy tính cá nhân. Sau kh có bộ gen tham chếu điã điược gắn chỉ mục, tiến hành đóng hàng đoạn đọc thông qua cấu trúc câu lệnh như sau:

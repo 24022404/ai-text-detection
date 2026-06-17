@@ -1,1 +1,0 @@
-Do đió, nếu phát trển các ứng dụng dựa trên PostgreSQL, ch phí sở sẽ thấp hơn so với các hệ thống quản trị dữ lệu khác.PostgreSQL điược điánh gá là một hệ quản trị cơ sở dữ lệu có tốc điộ cao, ổn định, dễ dùng, có khả năng thay điổ mô hình phù hợp với điều kện công vệc, điộ bảo mật cao, đia tính năng, có khả năng mở rộng và mạnh mẽ.

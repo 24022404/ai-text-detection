@@ -1,1 +1,0 @@
-Một số phương pháp tính tích chập Tích chập là một khái niệm đóng vai trò quan trọng và xuất hiện sớm trong xử lý tín hiệu số nhằm biến đổi thông tin đầu vào thông qua một phép tích chập với bộ lọc để trả về đầu ra là một tín hiệu mớ. Tín hiệu mới này sẽ làm giảm những đặc trưng mà bộ lọc không quan tâm và chỉ giữ lại những đặc trưng chính quan trọng.

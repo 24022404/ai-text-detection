@@ -1,1 +1,0 @@
-Trường feld lưu trữ thông tin về tên điều kiện. Bảng 4.8 liệt kê các đặc điểm người dùng mà em thực hiện.

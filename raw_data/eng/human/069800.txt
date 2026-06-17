@@ -1,1 +1,0 @@
-Increasing performance: DTO allows for selective transmission of necessary data, optimizing performance and reducing the amount of data transmitted over the network.

@@ -1,1 +1,0 @@
-Sau khi một acton được thực thi, dispatcher sẽ được kích hoạt và sử điện reducer một acton. Lúc này reducer thực hiện hành động dựa vào axeton được gửi đến. Sau đó, đồng thờ lưu lại giá trị của state mớ vào trong store và trả về state mớ đó.5.2 Lazy load Flatlist 5.2.1 Vấn đề Hãy tưởng tượng rằng bạn bước vào một quán nhậu:

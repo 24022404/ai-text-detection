@@ -1,1 +1,0 @@
-Kết quả đạt được Sử dụng env điểm cấu hình động cho hệ thống giúp chúng ta dễ dàng quản lý các bến mô trường và triển khai ứng dụng của mình trên nhiều môi trường khác nhau một cách dễ dàng và hiệu quả. Nó giúp chúng ta tránh được việc cấu hình thủ công tất cả các biến môi trường và giảm thiểu nguy cơ bị lỗ kh triển khai ứng dụng.

@@ -1,1 +1,0 @@
-Tền xử lý dữ liệu Tền xử lý dữ liệu (Data preprocessng) là quá trình chuẩn bị và bến điổ dữ liệu điầu vào trước khi đưa vào mô hình máy học. Mục têu của tền xử lý là tăng cường chất lượng và điộ tin cậy của dữ liệu điể giúp mô hình điạt hiệu suất tốt hơn.

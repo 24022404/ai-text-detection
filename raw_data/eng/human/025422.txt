@@ -1,1 +1,0 @@
-The manager will be able to access more information by connecting the history information with the ticket information using the coupon code. The data is readily accessible when managers need to retrieve it.

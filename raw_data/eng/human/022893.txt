@@ -1,1 +1,0 @@
-Y . Gao, H. Liu, X. Sun, C. Wang and Y . Liu, “Violence detection using oriented violent flows,” Image and Vision Computing ,jourvol 48-49, february 2016. DOI:10.1016/j.imavis.2016.01.006 .

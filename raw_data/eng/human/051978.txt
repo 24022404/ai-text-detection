@@ -1,1 +1,0 @@
-D. Silver, A. Huang, C. J. Madison, et al., “Mastering the game of go with deep neural networks and tree search,” nature , vol. 529, no. 7587, pp. 484– 489, 2016.

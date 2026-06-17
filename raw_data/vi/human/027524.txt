@@ -1,1 +1,0 @@
-Về phạm vi của đề là, hệ thống áp dụng công nghệ ký số từ xa sẽ được phát triển và triển khai nội bộ trong một tổ chức.

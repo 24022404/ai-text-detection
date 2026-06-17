@@ -1,1 +1,0 @@
-Trong trường hợp này, mô hình N Gram rất hữu ích điểm mô hình hóa các mối quan hệ này. Mô hình này được tạo ra dựa trên phương pháp thống kê. Do đó, sự phân bố và đa dạng từ vựng trên dữ liệu đào tạo đỉa ảnh hưởng đáng kể đến hiệu suất của hệ thống.

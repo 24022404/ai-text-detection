@@ -1,1 +1,0 @@
-Đồ án đề xuất một phương pháp tiền xử lý dữ liệu nhằm loại bỏ nhiễu và dữ liệu ngoạ la trước khi đưa vào huấn luyện mô hình.

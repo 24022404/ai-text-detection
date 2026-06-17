@@ -1,1 +1,0 @@
-Tếp theo, các Reducer trong Busness Logc sẽ lấy các dữ lệu đió sử dụng tạo ra các dữ lệu mớ rồ truyền lạ về phía Vew. Trong trường hợp cần thiết thì sẽ lạ gọi để lấy dữ lệu bên Model thông qua Controller.

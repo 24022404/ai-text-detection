@@ -1,1 +1,0 @@
-In deep learning, deep Neural Networks are designed with many hidden layers, allowing models to learn complex features and patterns of data. Deep learning models are capable of solving tasks such as natural language processing, image and video classification, speech recognition, translation, and many more.

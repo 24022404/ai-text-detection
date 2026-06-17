@@ -1,1 +1,0 @@
-Next Sentence Prediction (NSP): In BERT training, the model learns to predict if a second sentence follows a given first sentence. Half of the inputs have consecutive sentences, while the other half includes a random sentence. To help the model differentiate between the sentences, the input undergoes preprocessing before being fed into the model.

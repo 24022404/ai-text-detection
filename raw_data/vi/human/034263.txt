@@ -1,1 +1,0 @@
-Đây là màn hình thực hiện chức năng chỉnh sửa thông tin công việc.Hình 5.6: Gao vện Contact Information Màn hình Contact Information chứa các thông tin lên của người dùng như số điện thoại, địa chỉ,... Đây là màn hình thực hiện chức năng chỉnh sửa thông tin lên hệ của người dùng.

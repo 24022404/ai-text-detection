@@ -1,1 +1,0 @@
-TF(t, d) =số lần từ xuất hiện trong văn bản d tổng số từ trong văn bản d – TF(t, d) : Tần số xuất hiện của từ trong văn bản d.

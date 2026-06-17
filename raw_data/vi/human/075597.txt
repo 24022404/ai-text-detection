@@ -1,1 +1,0 @@
-Nhược điểm Quản lý tài nguyên: MySQL có thể yêu cầu tài nguyên máy tính khá lớn khu xử lý các tải lớn và truy vấn phức tạp. Điều này đò nhỏ phải quản lý tài nguyên hệ thống kỹ lưỡng điểm đảm bảo hiệu suất tốt.

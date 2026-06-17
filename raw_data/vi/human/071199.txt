@@ -1,1 +1,0 @@
-Các chức năng của phân hệ quản lý và lập lịch các trình tính toán chỉ báo bao gồm: tính toán các chỉ báo theo công thức, lập lịch các trình tính toán và tự động tạo mớ trình tính toán theo yêu cầu của người dùng. Các chức năng này sẽ được mô tả ch tết ở phần sau.

@@ -1,5 +1,0 @@
-Xây dựng website bán sách trực tuyến "Laos Book Shop" là một dự án quan trọng nhằm đáp ứng nhu cầu đọc sách của người dân Lào. Website này được thiết kế để cung cấp một nền tảng trực tuyến đa dạng và tiện lợi cho việc mua bán sách, giúp người dùng dễ dàng tìm kiếm và mua sách yêu thích. Website được xây dựng trên nền tảng web, sử dụng công nghệ web động và các công nghệ khác nhau để tạo nên một trải nghiệm người dùng tốt nhất.
-
-Website "Laos Book Shop" bao gồm các tính năng chính như quản lý sản phẩm, quản lý đơn hàng, quản lý khách hàng, và thanh toán trực tuyến. Hệ thống cũng được thiết kế để đảm bảo tính bảo mật và an toàn cho thông tin người dùng. Website được xây dựng dựa trên kiến thức và kỹ năng lập trình web, sử dụng các công nghệ như HTML, CSS, JavaScript, và PHP.
-
-Mục tiêu của dự án này là tạo ra một website bán sách trực tuyến hiệu quả và tiện lợi, đáp ứng nhu cầu của người dùng. Dự án này cũng nhằm mục đích nâng cao kỹ năng lập trình web và quản lý dự án của sinh viên. Website "Laos Book Shop" sẽ được triển khai và vận hành trên nền tảng web, giúp người dùng dễ dàng truy cập và sử dụng.

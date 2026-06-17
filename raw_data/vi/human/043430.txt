@@ -1,1 +1,0 @@
-Thiết kế giao diện Sau đây là các hình vẽ thiết kế một số chức năng chính trong ứng dụng giao đồ ăn. Hình 4.11 mô tả thiết kế giao diện trang chủ chứa danh sách các quán ăn.Hình 4.4: Thiết kế giao diện trang chủ Màn hình trang chủ được chia thành 3 thành phần con bao gồm:

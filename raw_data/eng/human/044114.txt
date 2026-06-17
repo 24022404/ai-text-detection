@@ -1,1 +1,0 @@
-D. Britz, Q. V. Le and R. Pryzant, “Effective domain mixing for neural machine translation.,” inWMT O. Bojar, C. Buck, R. Chatterjee andothers , editors , Association for Computational Linguistics, 2017, pages 118–126, ISBN: 978-1-945626-96-8. url:

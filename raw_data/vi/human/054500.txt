@@ -1,1 +1,0 @@
-pagination(): Phân trang dữ liệu trả về.Biểu đồ trình tự Tạo mớ sản phẩm Hình 4.14: Biểu đồ trình tự Tạo mớ sản phẩm 4.2.3 Thiết kế cơ sở dữ liệu Biểu đồ thực thể liên kết của hệ thống được triển khai như hình vẽ dưới đây:

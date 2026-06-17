@@ -1,1 +1,0 @@
-To offer a visual representation of the various packages and their interactions, theUML Package Relationship Diagram is included below. In this three-tier architec ture, there are three main packages representing distinct layers:

@@ -1,1 +1,0 @@
-Kết quả trả về: () True: thông báo tạo mới đơn hàng thành công, () False: thông báo tạo mới đơn hàng thất bại và lý do thất bại.

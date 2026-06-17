@@ -1,1 +1,0 @@
-Đặt vấn đề Ở phần trên em đã trình bày cách thiết kế tổng quan khóa học, phần này em sẽ trình bày các vấn đề và cách giải quyết vớ chi tiết từng bài giảng trong khóa học.

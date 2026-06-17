@@ -1,1 +1,0 @@
-Clicking the "Log in" button shows an error if your input is wrong, encouraging you to enter it again.

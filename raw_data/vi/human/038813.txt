@@ -1,1 +1,0 @@
-Quản lý đảng viên: cho phép quản lý thông tin về giảng viên.•Quản lý danh mục: cho phép quản lý các thông tin về dân tộc, tôn giáo, trình độ, nghề nghiệp, . . . của đảng viên.

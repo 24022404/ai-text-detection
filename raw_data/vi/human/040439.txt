@@ -1,1 +1,0 @@
-Vớ yêu cầu cùng hệ thống có sự liên kết giữa các đối tượng và các thành phần dữ liệu trong hệ thống có cấu trúc quan hệ, ràng buộc lẫn nhau nên em quyết định chọn MySQL làm hệ quản trị cơ sở dữ liệu cho hệ thống.

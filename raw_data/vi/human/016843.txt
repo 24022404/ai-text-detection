@@ -1,1 +1,0 @@
-Các ứng dụng chạy trên máy chủ NodeJS là một lựa chọn phổ biến cho các ứng dụng máy chủ như web server, proxy server, DNS server, mail server,.. đặc biệt là khi các ứng dụng cần xử lý các yêu cầu với nhiều kết nối đồng thờ.

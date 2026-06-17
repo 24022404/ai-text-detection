@@ -1,1 +1,0 @@
-Tác gả của HTML là Tm BernersLee, một nhà vật lý học người Anh. HTML khi mớ ra mắt năm 1991 chỉ có 18 phần tử, sau nhều năm trô qua với sự phát trển không ngừng của Internet, cho điến gờ, HTML đã có tớ 113 phần tử (theo Hình 3.1).

@@ -1,1 +1,0 @@
-HTML HTML (Hyper Text Markup Language)  is a standard markup language for web pages established by the W3C (World Wide Web Consortium) that aids in the definition of a page’s text structure. HTML elements are represented by tags, which are often expressed in pairs. HTML is something that a browser can comprehend and present to the user as an interactive interface.

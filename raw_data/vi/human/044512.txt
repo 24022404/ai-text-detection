@@ -1,1 +1,0 @@
-Quản lý tài nguyên  Sử dụng hợp lí nguồn tài nguyên game cung cấp cho bạn là yếu tố quan trọng trong việc hoàn thành một tựa game roguelike. Người Chơ cần quản lý tiền, vật phẩm, trang bị, v.v.

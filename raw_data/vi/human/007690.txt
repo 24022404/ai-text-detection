@@ -1,1 +1,0 @@
-Một ví dụ điển hình có thể kể đến là Object Capture  công cụ này do Apple phát trển, tương điố hiệu quả, có thể đánh giá là một trong các công cụ tốt nhất hiện nay. Tuy nhên, file 3D được trích xuất ra ở định dạng USDZ, định dạng này chỉ sử dụng được trên các thiết bị của Apple (OS, PadOS, MacOS).

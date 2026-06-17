@@ -1,1 +1,0 @@
-Cấu hình hết sức đơn giản kh so v ớ WCF Performance cao Hỗ trợ RESTful đi đầy đủ Hỗ trợ điầy đủ các thành phần MVC như: routing, controller, action result, filter, model binder, IoC container, dependency injection, unit test Open Source Nhược điểm:

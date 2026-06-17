@@ -1,1 +1,0 @@
-Đặt vấn đề Việc triển khai một ứng dụng web trên một nền tảng đám mây có hỗ trợ tốt như Digitalocean là một yêu cầu cần thiết đối với các doanh nghiệp và nhà phát triển hiện nay. Việc triển khai ứng dụng web trên một nền tảng đám mây mang lại nhiều lợi ích cho doanh nghiệp như tính mở rộng dễ dàng, hiệu suất cao, tiết kệm chi phí và độ tin cậy cao.

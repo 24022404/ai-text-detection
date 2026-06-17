@@ -1,1 +1,0 @@
-Cụ thể, Docker là một nền tảng mở cho phép lập trình viên phát trển, khở chạy và vận chuyển ứng dụng. Docker cho phép người dùng tách bệt ứng dụng vớ nền tảng phần cứng của thiết bị, tạo ra mô trường ảo hóa với tài nguyên rêng điể các ứng dụng thực th trong đó.

@@ -1,1 +1,0 @@
-An RFID reader is a device used to read cards with a radio antenna. When an RFID tag enters the reader’s range, it captures energy from this radio wave and activates the tag, then the tag responds these signals back to the reader with its data.

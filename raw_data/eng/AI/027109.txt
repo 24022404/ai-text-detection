@@ -1,9 +1,0 @@
-This paper addresses the critical need for explainability in agent-based systems deployed in complex environments such as Atari games. We focus on perturbation-based saliency maps as a method for interpreting decision-making processes in artificial intelligence (AI) agents trained with reinforcement learning. 
-
-Methods/Approach: We conduct a comprehensive benchmarking study of perturbation-based saliency maps, evaluating their efficacy in explaining the behaviors of Atari agents. The study involves systematically perturbing input states and observing the resulting variations in the agent's policy. Various perturbation techniques are assessed to identify which methods offer the most intuitive and informative visualizations of agent strategies.
-
-Results/Findings: Our results demonstrate that certain perturbation techniques consistently produce more accurate and insightful saliency maps compared to others. Specific perturbations effectively highlight critical regions within the game environment that influence agent decisions. We also identify limitations in existing methodologies where perturbations can lead to misleading interpretations under specific game scenarios.
-
-Conclusion/Implications: The insights from our analysis underscore the importance of choosing suitable perturbation techniques for generating reliable saliency maps. This work provides a foundation for enhancing transparency in reinforcement learning systems, enabling developers and researchers to better understand agent behaviors. The findings have significant implications for the design of explainable AI systems, particularly in gaming and other high-stakes environments where agent interpretability is paramount.
-
-Keywords: perturbation-based saliency maps, explainability, Atari agents, reinforcement learning, AI interpretation, benchmarking.

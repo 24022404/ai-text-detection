@@ -1,1 +1,0 @@
-M. Pham, J. Crego, F. Yvon andJ. Senellart, “Generic and specialized word embeddings for multi-domain machine translation,” inProceedings of the 16th International Conference on Spoken Language Translation Hong Kong:

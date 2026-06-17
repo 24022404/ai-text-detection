@@ -1,1 +1,0 @@
-Data Enrichment: Expand the scope of supported cryptocurrencies and historical data points, enriching the application’s dataset and enhancing its analyti cal capabilities.

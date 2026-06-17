@@ -1,1 +1,0 @@
-Besides, I could say that I have tried my best to complete the model with the expected core. The model is stopping at testing, and have not been deployed in the real situation yet, so there would be risks while detecting malware in real life.

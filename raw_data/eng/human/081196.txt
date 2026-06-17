@@ -1,1 +1,0 @@
-Training a language model to understand human language is a time-consumingFigure 2.3: Language modeling examples: (a) next word prediction; (b) masked wordprediction.

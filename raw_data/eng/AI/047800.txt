@@ -1,9 +1,0 @@
-Estimating statistical properties of sparse graphical models from truncated data is a fundamental challenge in high-dimensional statistics and network analysis. Many real-world datasets, such as financial transactions and biological networks, are subject to truncation, where observations fall below a detection threshold, leading to biased estimations. In this work, we propose an efficient statistical framework for learning sparse graphical models from truncated samples, ensuring accurate structure and parameter estimation.
-
-Our approach leverages a novel truncation-aware estimation technique that corrects for missing data biases while maintaining computational efficiency. We introduce an adaptive regularization strategy that enhances structure learning by incorporating the truncation mechanism into the graphical model inference process. This method enables robust estimation of conditional dependencies, even in highly sparse settings.
-
-We evaluate our framework on synthetic and real-world datasets, demonstrating significant improvements in accuracy over existing methods for truncated graphical models. Our results show that accounting for truncation leads to more reliable graph recovery and better predictive performance in downstream tasks.
-
-These findings provide a scalable and principled approach for handling truncation in sparse graphical models, with potential applications in finance, epidemiology, and social network analysis.
-
-Keywords: Sparse Graphical Models, Truncated Samples, High-Dimensional Statistics, Network Analysis, Structure Learning, Bias Correction.

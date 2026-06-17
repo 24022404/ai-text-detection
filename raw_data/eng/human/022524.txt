@@ -1,1 +1,0 @@
-The scope of this graduate thesis is to build an e-commerce website using React with key features such as user management, an intuitive and easy-to-use interface, order forms, on payment, and update product information. In addition, the thesis research will also analyze the factors affecting the website design and propose appropriate solutions to improve performance.

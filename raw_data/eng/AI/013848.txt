@@ -1,1 +1,0 @@
-The "View Signer Certificate" feature enables users to examine the digital signer certificate associated with an uploaded file, displaying important information such as the certificate’s validity period, issuer, subject, and signatures. This allows users to independently verify the authenticity and integrity of the file.

@@ -1,9 +1,0 @@
-Objective: Class imbalance in 3D point cloud datasets often leads to poor recognition accuracy for underrepresented object categories in neural network–based classification and segmentation tasks. This paper introduces a weighted point cloud augmentation (WPCA) framework to address this imbalance during training.
-
-Methods: WPCA assigns a dynamic sampling weight to each point cloud sample based on its class frequency. Minority-class samples receive higher weights, triggering controlled augmentation operations—such as random rotation, scaling, jittering, and point mixing—that generate additional synthetic examples. These weighted augmentations are integrated into the minibatch construction process, ensuring that the network sees a balanced distribution of classes without discarding any original data.
-
-Results: We evaluate WPCA on two benchmark datasets (ModelNet40 for object classification and ScanNet for semantic segmentation). Compared with standard oversampling and unweighted augmentation baselines, our method yields a 6.3% relative improvement in minority-class F1 score on ModelNet40 and a 4.8% mean intersection-over-union (mIoU) gain on ScanNet. Overall classification accuracy and segmentation quality also increase by 2.1% and 1.7%, respectively. Ablation studies confirm the effectiveness of weighted sampling and each augmentation operation.
-
-Conclusion: WPCA offers a simple yet powerful strategy for mitigating class imbalance in point cloud training data. By emphasizing minority classes through weighted augmentations, it boosts neural network performance across diverse 3D recognition tasks without altering model architecture. This approach can be readily applied to other 3D vision applications facing skewed class distributions.
-
-Keywords: point cloud, class imbalance, data augmentation, weighted sampling, neural network training.

@@ -1,1 +1,0 @@
-Thuộc tính Kểu dữ lệu Khóa step_d nt Khóa chính descrbe nvarchar(MAX) ttle nt formula_d nt Bảng 4.11: Bảng step.

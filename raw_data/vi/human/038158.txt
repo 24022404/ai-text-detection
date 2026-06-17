@@ -1,1 +1,0 @@
-Thứ nhất là sử dụng React Development Server không phù hợp cho môi trường production, vì đây là máy chủ dành cho phát triển, vì vậy kh số lượng người tăng thì khả năng quá tải của hệ thống sẽ tăng lên.

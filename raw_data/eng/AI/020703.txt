@@ -1,1 +1,0 @@
-Malware analysis has become a crucial aspect of Android security, as the number of malicious apps continues to rise. Current approaches are categorized into static and dynamic techniques. Each of these methods offers distinct advantages while also presenting certain limitations that must be considered.

@@ -1,9 +1,0 @@
-Objective: Lifelong adaptation in robotic systems remains challenging due to catastrophic forgetting when learning sequential tasks. This paper introduces a novel experience-retention framework for lifelong robotic reinforcement learning that preserves and reuses past interactions to support continual skill acquisition.
-
-Methods: We design a dual-memory architecture combining a Short-Term Experience Buffer (STEB) for recent data and a Long-Term Retention Module (LTRM) that selectively archives diverse and informative experiences. The LTRM employs clustering-based sampling and novelty scoring to maintain a fixed-capacity memory of salient transitions across tasks. During policy updates, our approach integrates prioritized replay from both buffers, balancing exploitation of new data with rehearsal of retained experiences. A dynamic allocation mechanism further adjusts memory quotas in response to task complexity.
-
-Results: Experiments on a suite of simulated continuous-control benchmarks and a real-world robotic arm manipulation sequence demonstrate that our method outperforms standard experience replay and recent lifelong-RL baselines. Across five sequential tasks, we achieve an average retention gain of 25% on earlier tasks while accelerating convergence on new tasks by 30%. Ablation studies confirm the importance of clustering-based retention and dynamic memory allocation.
-
-Conclusion: By explicitly retaining and replaying key experiences, our framework mitigates forgetting and enhances sample efficiency, paving the way for more autonomous and adaptable robots in long-term deployment.  
-
-Keywords: lifelong learning, robotic reinforcement learning, experience retention, continual learning, prioritized replay.

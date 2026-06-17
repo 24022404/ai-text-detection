@@ -1,1 +1,0 @@
-The sentences in the dataset have been carefully curated to ensure that they are grammatically correct and semantically meaningful. This makes the MTet dataset an ideal resource for training machine translation models that produce high-quality translations.

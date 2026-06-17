@@ -1,1 +1,0 @@
-Overview of Current Solutions In the Android ecosystem, malware analysis has become increasingly important due to the growing prevalence of malicious applications. Current approaches to malware analysis can be divided into static and dynamic methods, each with its own strengths and limitations.

@@ -1,1 +1,0 @@
-Nơ sử dụng Tô dùng thư viện LibVLC điểm đọc và phát những dòng camera trên thiết bị di động.4.1 Thiết kế kiến trúc 4.1.1 Lựa chọn kiến trúc phần mềm Để xây dựng một hệ thống hoàn chỉnh, chúng tôi lựa chọn mô hình Client  Server  và áp dụng kiến trúc Microservice  điểm tích hợp cùng lúc nhiều dịch vụ và đảm bảo khả năng mở rộng của hệ thống.

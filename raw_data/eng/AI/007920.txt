@@ -1,1 +1,0 @@
-It initiates a new process group and executes adb logcat to stream logs for the chosen package.

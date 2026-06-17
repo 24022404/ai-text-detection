@@ -1,1 +1,0 @@
-Gói views: là nơi lưu trữ các template để hiển thị dữ lệu. Dữ lệu hiển thị được nhận từ AI hoặc nhận trực tiếp từ các controller.

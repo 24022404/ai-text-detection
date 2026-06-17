@@ -1,1 +1,0 @@
-The client initiates an HTTPS GET request to the server, specifying particular criteria to filter the needed information. Upon receiving this request, the server queries the database to retrieve matching data and sends the corresponding results back to the client securely.

@@ -1,1 +1,0 @@
-Xoay ảnh: là xoay ngẫu nhiên ảnh trong một khoảng góc nhất định. Đối với bà toán nhận diện chữ viết không thể xoay ảnh với góc độ quá lớn nếu không ngữ nghĩa của văn bản có thể biến dạng. Do đó em đã giới hạn góc xoay trong khoảng 15 độ đến 15 độ.

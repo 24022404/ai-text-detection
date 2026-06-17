@@ -1,1 +1,0 @@
-O.F. Kurmaev’s 2011 paper in IEEE Transactions on Information Theory explores binary run-length limited codes with constant weight or charge, analyzing their properties.

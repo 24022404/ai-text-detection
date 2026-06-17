@@ -1,1 +1,0 @@
-Furthermore, GitHub Actions has an active community that contributes to a wide variety of pre-built actions and workflows. This means I can easily find and incorporate existing solutions into my project, saving time and effort.

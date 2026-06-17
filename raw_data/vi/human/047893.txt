@@ -1,1 +1,0 @@
-Selfattenton: Được sử dụng trong cùng một câu nhập, tạ encoder hoặc tạ decoder. Đây chính là attention được áp dụng tạ các MultiHead Attention ở đầu vào của cả hai ga đoạn encoder và decoder.

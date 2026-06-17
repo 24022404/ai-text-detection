@@ -1,1 +1,0 @@
-Khả năng mở rộng (Scalability). Các tiến trình tương tự này cho phép mở rộng quy mô hệ thống một cách dễ dàng, theo chiều ngang hoặc theo chiều dọc.

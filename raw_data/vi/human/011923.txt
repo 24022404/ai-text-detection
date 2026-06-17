@@ -1,1 +1,0 @@
-Props và State Props là viết tắt của Properties (thuộc tính) trong React, cho phép người dùng truyền các đối số hoặc dữ liệu cho các thành phần. Các props này giúp làm cho các thành phần năng động hơn. Props trong một component là chỉ đọc và không thể thay đổi.

@@ -1,1 +1,0 @@
-Shared weights and bias: This layer helps to minimize the number of parameters that have the main effect of this factor in the CNN network. In each convolution there will be different feature maps and each feature has the ability to help detect some features in the image.

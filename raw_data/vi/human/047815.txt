@@ -1,1 +1,0 @@
-Trước hết, em sử dụng các mô hình đường để tạo ra các làn và sau đó là thêm vào các hình gả phân cách để phân chia làn đường. Tiếp đó là thêm vào phần vỉa hè để hoàn thiện mô hình một làn đường đơn giản. Từ đó ta có thể lặp lại các bước trên và xây dựng được mô hình nền đường hoàn chỉnh.

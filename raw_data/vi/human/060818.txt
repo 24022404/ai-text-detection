@@ -1,1 +1,0 @@
-Một tính năng giúp quản trị viên có thể linh động hơn trong việc đặt ra các câu hỏi bắt buộc chính là chức năng cài đặt các câu hỏi phỏng vấn trong phần quản lý CV.

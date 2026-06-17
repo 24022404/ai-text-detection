@@ -1,1 +1,0 @@
-Tham số MINTRACK CONFIDENCE là giá trị tố thểu điểm các mốc bàn tay được co là theo dõi thành công, giá trị càng lớn độ tin cậy càng cao nhưng độ trễ cũng tăng lên.

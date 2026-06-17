@@ -1,1 +1,0 @@
-Tạo ra một chan để phát trển sản phẩm nhằm tăng tốc điộ và phát trển ch phí thay vì sử dụng Ethereum.

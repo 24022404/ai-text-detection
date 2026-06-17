@@ -1,1 +1,0 @@
-Lớp tổng hợp không chứa các tham số cần được cập nhật trong quá trình huấn luyện mô hình. Tuy nhên, lớp tổng hợp có các sêu tham số như kích thước bộ lọcsẽ tính gá trị tố đia hoặc trung bình.

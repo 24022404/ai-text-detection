@@ -1,3 +1,0 @@
-Phương pháp kết hợp tích lũy tương quan và lọc số để tách mục tiêu rađa di động đã trở thành một trong những công nghệ quan trọng trong lĩnh vực phân tích dữ liệu và phát hiện mục tiêu. Phương pháp này sử dụng kỹ thuật tích lũy tương quan để xác định các mẫu tương quan giữa các biến số, sau đó sử dụng kỹ thuật lọc số để loại bỏ các biến số không liên quan và tập trung vào các biến số quan trọng.
-
-Kết quả của phương pháp này là khả năng xác định mục tiêu rađa di động một cách chính xác và hiệu quả, giúp các tổ chức và cá nhân có thể đưa ra quyết định sáng suốt và kịp thời. Phương pháp này cũng có thể được ứng dụng trong nhiều lĩnh vực khác nhau, bao gồm kinh doanh, tài chính, y tế và quốc phòng.

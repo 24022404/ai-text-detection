@@ -1,1 +1,0 @@
-Centralized state management: Redux giúp tập trung quản lý trạng thái ứng dụng tạ một nơi duy nhất. Điều này làm cho việc theo dõi và kiểm soát trạng thái trở nên dễ dàng hơn.

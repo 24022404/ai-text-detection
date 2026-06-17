@@ -1,1 +1,0 @@
-–Trích xuất thực thể (entity extraction): Công cụ trích xuất thực thể chịu trách nhiệm xác định các từ khóa quan trọng từ truy vấn của người dùng nhằm xác định những gì người dùng đang tìm kiếm.

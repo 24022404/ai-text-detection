@@ -1,1 +1,0 @@
-Detail DesignThe Package PoolManager is divided into two main modules: ObjectPool Man agement and Memory Management. (shown as fgure 5.8) For ObjectPool Management, the module consists of three main classes: Object-Pool, AutoUnspawnObject, and ObjectPoolManagement.

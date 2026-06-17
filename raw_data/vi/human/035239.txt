@@ -1,1 +1,0 @@
-ResNet game thểu vấn đề này bằng cách giới thiệu các kết nối lối tắt cho phép gradient được lan truyền trực tiếp qua nhiều lớp bằng cách bỏ qua các lớp trung gan, tạo ra một đường dẫn ngắn hơn một cách hiệu quả. Những kết nối này tạo điều kiện cho việc học các ánh xạ dư, sau đó được sử dụng kết hợp với các đầu vào của lớp để tạo ra đầu ra cuối cùng của lớp.

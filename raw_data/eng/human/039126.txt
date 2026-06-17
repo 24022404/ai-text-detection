@@ -1,1 +1,0 @@
-More particularly, a labeled graph is a directed graph with its vertices and edges labeled. Vertices in the labeled graph are also called states. And the start and end vertices of a directed edge are called initial and terminal states respectively. Given a state v, in-edges of vare edges treating vas a terminal state. Similarly, out-edges ofvare edges taking vas an initial state.

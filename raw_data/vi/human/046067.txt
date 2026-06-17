@@ -1,1 +1,0 @@
-RECALL =TP TP+FN(2.2) Độ đo F1 score : còn được gọi là trung bình điều hòa của hai đại lượng Precision Recall. Công thức toán học:

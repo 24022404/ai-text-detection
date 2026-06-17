@@ -1,1 +1,0 @@
-Người dùng thì có khả năng đăng nhập, đăng xuất tài khoản của mình khỏi hệ thống. Người dùng có thể chơ game kh điã điăng nhập. Khi chơi game người dùng sẽ được trả thưởng. Người dùng có thể tích hợp nhiều ví trên ứng dụng để có thể mua hộp và mở hộp để có được Brd điểm chơi available

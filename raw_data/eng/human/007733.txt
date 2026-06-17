@@ -1,1 +1,0 @@
-Finally, the Database Package is responsible for managing the application’s database, which includes storing the preprocessed data, user preferences, and other necessary information.

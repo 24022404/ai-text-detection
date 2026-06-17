@@ -1,1 +1,0 @@
-–data: Transaction information. Data includes 2 parts: Function Signature and Function Arguments. Function Signature uses the first 4 bytes in the SHA3 encoding of the Function Name to make the Function Signature.

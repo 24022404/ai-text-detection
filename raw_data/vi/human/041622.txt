@@ -1,1 +1,0 @@
-Thông số Ch tết Số dòng code ∼4000 Số chức năng ∼30 Số góc ∼10 Dung lượng mã nguồn ∼16MB Bảng 4.7: Thông tin về ứng dụng 4.3.3 Minh họa các chức năng chính Sau đây, em xin giới thiệu một và màn hình quan trọng mà em đã phát triển trong đồ án.

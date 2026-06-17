@@ -1,1 +1,0 @@
-For the EMNIST dataset, an accuracy of 82.5% is set as the target for the ANN model, while 86.5% is the target for the CNN model.

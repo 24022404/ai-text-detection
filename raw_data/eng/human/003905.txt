@@ -1,1 +1,0 @@
-Control character using A and D to move, and space to jump and space again to double jump and J to attack- Step 1: Press A or D Step 2: Press space step 3: Press J when near a monsterThe character moves and rotates in the correct direction in steps 1.

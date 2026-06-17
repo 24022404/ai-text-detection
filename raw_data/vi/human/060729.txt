@@ -1,1 +1,0 @@
-Vấn đề Thông báo tự động là phương thức rất thuận tiện cho phép người dùng có thể biết tình hình kinh doanh của cửa hàng một cách thường xuyên, mọi lúc mọi nơ mà không cần phải đăng nhập sử dụng hệ thống. Do đó, tính năng gửi thông báo tự động được phát triển qua messenger và email vì 2 ứng dụng này có nhiều người dùng và có thể truy cập trên bất cứ nền tảng, thiết bị nào.

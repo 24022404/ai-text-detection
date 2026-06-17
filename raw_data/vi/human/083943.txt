@@ -1,1 +1,0 @@
-Hệ thống cũng được áp dụng một hàm mất mát mới, được gọi là Mất mát Sự Khác Biệt Trung Bình Tố Đa (MMD), điểm giảm sự sai khác về phân phối giữa mền nguồn và mền mục tiêu trong không gian đặc trưng sâu. Sự kết hợp của những phương pháp và kỹ thuật này cho phép hiệu suất nhận dạng khuôn mặt mạnh mẽ ngay cả trong các tình huống SSPP.

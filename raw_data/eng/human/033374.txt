@@ -1,1 +1,0 @@
-The system application is also installed on a lab android device. Finally, proceed to connect, test both the android app and the management web and conduct the test.This chapter will detail my contribution to the project, about problems need to be solved, approach, difficulties encountered, final solution, etc.

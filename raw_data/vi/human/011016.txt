@@ -1,1 +1,0 @@
-Use Case Manage Job Category Hình 4.8: Biểu đồ thiết kế cho tết gói use case Manage Job Category Hình 4.8 mô tả tương tác giữa các package để thực hiện chức năng quản lý loại công việc.

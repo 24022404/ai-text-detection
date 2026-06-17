@@ -1,1 +1,0 @@
-Kiểm thử là một hoạt động quan trọng trong quá trình phát triển phần mềm được thực hiện sau khi hệ thống đã hoàn thành việc triển khai. Nó đảm bảo rằng phần mềm đáp ứng được các yêu cầu và tiêu chuẩn chất lượng.

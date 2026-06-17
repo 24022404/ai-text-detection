@@ -1,1 +1,0 @@
-MappngChatBoxPvot: Nơ kha báo mố lên hệ gữa 2 bảng users và chat Boxes. Nó thể hiện quan hệ 1  nhều gữa bảng users và chatBoxes.

@@ -1,1 +1,0 @@
-Các Web Framework tốt nhất hiện nay có thể kể tớ: Ruby on Rals, React, Angular, ASP.net, Laravel. . . , mỗ framework đều có ưu nhược điểm rêng. Em lựa chọn sử dụng Laravel – một trong những framework phổ bến nhất hiện nay nhờ nguồn tài nguyên khổng lổ và sự điơn gản trong mã nguồn – kết hợp với ngôn ngữ lập trình PHP và HTML điể xây dựng dự án này.

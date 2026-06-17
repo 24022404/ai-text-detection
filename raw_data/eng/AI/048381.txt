@@ -1,1 +1,0 @@
-This sub-use case enables users to view the Smali source code that has been generated from the selected file.

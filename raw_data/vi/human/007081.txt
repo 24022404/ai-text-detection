@@ -1,1 +1,0 @@
-Đặc tả use case "Tạo sản phẩm" Bảng 2.3: Đặc tả use case "Tạo sản phẩm" Mã use case: UC003 Tên Use Case:

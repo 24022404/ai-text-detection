@@ -1,1 +1,0 @@
-In order to minimize the combined loss function of the two techniques, Masked LM and Next Sentence Prediction are learned jointly when training the BERT model.

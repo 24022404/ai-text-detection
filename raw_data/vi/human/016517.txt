@@ -1,1 +1,0 @@
-Quy trình khởi chạy hệ thống Backend : ch tết quy trình khởi chạy hệ thống Backend được mô tả như trong Hình 4.25 Hình 4.25: Quy trình khởi chạy hệ thống Backend Thiết lập docker điểm thực hiện tạo một docker image chứa hệ thống backend sẽ được khởi chạy theo các bước dưới đây:•Bước 1: Khởi tạo môi trường Node.

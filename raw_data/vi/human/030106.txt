@@ -1,1 +1,0 @@
-Ví dụ như trong cờ vua, sẽ có những nước mà ở đó ta có lợi thế lớn so với kh ta chuẩn bị thua, thông thường kh theo một policy tối ưu thì hàm giá trị cho nước đi đó sẽ trả về giá trị lớn hơn so với kh ta sắp thua.

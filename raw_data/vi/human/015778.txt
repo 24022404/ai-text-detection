@@ -1,1 +1,0 @@
-Thiết kế giao diện Đối với việc phát triển ứng dụng thì thiết kế giao diện là đặc biệt quan trọng.

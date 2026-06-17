@@ -1,1 +1,0 @@
-Người dùng có thể chọn bạn bè mà mình muốn nhắn tin, sau khi click vào 1 bạn bè bất kỳ, chi tiết cuộc trò chuyện sẽ được hiển thị bên cạnh danh sách bạn bè như hình 4.22.

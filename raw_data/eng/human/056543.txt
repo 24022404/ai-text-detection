@@ -1,1 +1,0 @@
-Understanding LSTM – a tutorial to Long Short Term Memory Recurrent Neural Networks, Cornell University. Available:  9586.pdf , (wasted on 6/2023).

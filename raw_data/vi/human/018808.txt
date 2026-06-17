@@ -1,1 +1,0 @@
-Số lượng người dùng trên 50 người Số lượng truy cập khoảng 10 lượt/gờ Khả năng chịu tải Nhanh nhất: 182,1 mlsec (0.18 gây) Chậm nhất: 12005,6 mlsec (12 gây) Trung bình: 608,3 mlsec (0,6 gây) Có 95% số lượng request hoàn thành dưới 1927,6 mlsec (1,9 gây).

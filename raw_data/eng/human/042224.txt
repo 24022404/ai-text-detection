@@ -1,1 +1,0 @@
-L. Phan, H. Tran, H. Nguyen andT. H. Trinh, “ViT5: Pretrained text-to-text transformer for Vietnamese language generation,” inProceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop Association for Computational Linguistics, 2022, pages 136–142. url:https:

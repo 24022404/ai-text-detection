@@ -1,1 +1,0 @@
-port: 443 targetPort: 3001 The Pods are defined separately from the Service that uses the Pods. Kubernetes uses labels to select the Pods that a Service addresses. With labels, you can have a Service that addresses Pods from different replica sets and has multiple services that point to an individual Pod.

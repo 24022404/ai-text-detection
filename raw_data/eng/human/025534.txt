@@ -1,1 +1,0 @@
-Olaf Ronneberger, Phlpp Fscher, and Thomas Brox. “Unet: Convolutonalnetworks for bomedcal mage segmentaton”. In: Medcal Image Comput ng and ComputerAsssted Interventon–MICCAI 2015: 18th Internatonal Conference, Munch, Germany, October 59, 2015, Proceedngs, Part III 18 .

@@ -1,1 +1,0 @@
-Tính năng dành cho đại diện trung tâm: tất cả các tính năng điều yêu cầu phả đăng nhập mớ thực hiện được.

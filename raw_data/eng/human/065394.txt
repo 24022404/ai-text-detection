@@ -1,1 +1,0 @@
-The idea of LFSR is to design a feedback function fmapping length kstrings to symbols of the current string to generate the next symbol until the maximal length polynomials generate maximal length sequences (positioning sequences) having length 2k−1that miss only the all 0string. The downside of this method is that it’s compulsory to find a primitive polynomial first.

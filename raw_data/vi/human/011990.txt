@@ -1,1 +1,0 @@
-Mục "Related Products" là các sản phẩm thuộc itemsets của sản phẩm hiện tạ thu được thông qua sử dụng thuật toán Apriori.Hình 4.19: Xem danh sách recommendation product product và error * Chức năng gợi ý sản phẩm dựa trên lịch sử mua hàng của người dùng đã đăng nhập:

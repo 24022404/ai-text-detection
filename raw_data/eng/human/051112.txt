@@ -1,1 +1,0 @@
-Formally, the HdB sequence’s rate is just 0.5, where rate is a quantity that needs to be as high as possible (the definition of sequences’ rate is given in section 4.2).

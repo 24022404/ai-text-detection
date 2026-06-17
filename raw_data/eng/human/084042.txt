@@ -1,1 +1,0 @@
-B.Jackson, B. Stevens, and G. Hurlbert, “Research problems on gray codes and universal cycles,” Discrete Mathematics , vol. 309, no. 17, pp. 5341– 5348, 2009.

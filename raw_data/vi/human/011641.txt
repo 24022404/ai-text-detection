@@ -1,1 +1,0 @@
-Sử dụng thư viện SocketIO của Node.js Trong chương 5 sẽ làm nổ bật nhưng gả pháp đã sử dụng và những đóng góp của gã pháp đó cho dự án.

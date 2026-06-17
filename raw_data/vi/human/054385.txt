@@ -1,1 +1,0 @@
-Tool window bar (Thanh cửa sổ công cụ) nằm xung quanh bên ngoài cửa sổ IDE và chứa các nút cho phép bạn mở rộng hoặc thu gọn từng cửa sổ công cụ riêng lẻ.

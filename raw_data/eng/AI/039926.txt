@@ -1,1 +1,0 @@
-An admin user, possessing full system control, logs in to oversee and manage essential functions that directly support the operations of three agents.

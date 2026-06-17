@@ -1,1 +1,0 @@
-Tếp đió, chuyển định dạng từ TSV sang CSV theo câu lệnh: tr ’’ ’,’ "ouput_gen.tsv" > "output_gen.csv" Trong đó, output_gen.tsv là file TSV từ câu lệnh trước đó; output gen.csv là file CSV kết quả cần trích xuất.

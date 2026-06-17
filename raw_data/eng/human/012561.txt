@@ -1,1 +1,0 @@
-Detailed design The GUI Manager package will revolve around five main classes as shown in the figure 5.3. The "ScreenBase" class serves as the foundation for all screens. It is designed with two main methods, "OnActive()" and "OnDeactive()". When users create a new screen, they will create a script that inherits from the "ScreenBase" class.

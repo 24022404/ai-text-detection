@@ -1,1 +1,0 @@
-Trong Android Studio, hãy chọn Par Devices Using WIFI (Ghép nối thiết bị bằng WF) từ trình đơn thả xuống về cấu hình chạy.Hình 4.34: Hộp thoại Par Devices Using WF Hộp thoại Par devices over WIFI (Ghép nối thiết bị qua WIFI) sẽ mở ra.

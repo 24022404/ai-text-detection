@@ -1,1 +1,0 @@
-Tài khoản quản trị viên:  Đăng nhập, quản lý thông tin cá nhân, quản lý loại sản phẩm, quản lý danh mục sản phẩm, quản lý sản phẩm, quản lý hóa đơn, quản lý khách hàng.

@@ -1,1 +1,0 @@
-The persistence of user data is not guaranteed due to the storage of metadata in a database. If the organization fails to manage this properly, it can result in the loss of information, leading to significant damages.

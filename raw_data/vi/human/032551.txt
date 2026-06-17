@@ -1,1 +1,0 @@
-Quản trị viên có thể quản lý sách, quản lý nhà cung cấp, quản lý điơn hàng, quản lý danh sách thành viên, quản lý slde, quản lý bà vết, quản lý điơn hàng, xem thống kê.2.2 Tổng quan chức năng 2.2.1 Bểu đồ use case tổng quát Hình 2.1: Bểu đồ usecase tổng quát Mô tả usecase tổng quát theo từng tác nhân:

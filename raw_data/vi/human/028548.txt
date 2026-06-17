@@ -1,1 +1,0 @@
-Hệ thống xử lý đúng nghiệp vụ, đúng tốc độ so với kỳ vọng của nhà phát triển. Các chức năng quản trị quản lý hoàn thành đúng nhiệm vụ.

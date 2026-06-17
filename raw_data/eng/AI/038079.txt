@@ -1,1 +1,0 @@
-The hierarchical structure model (Figure 5.3) is designed to determine the weights of indicators and prioritize tickets Pi by considering three key indicators: ticket running time, ticket value, and ticket energy consumption in the evaluation process.

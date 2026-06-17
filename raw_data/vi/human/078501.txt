@@ -1,1 +1,0 @@
-Phần cuối của chương là những thông tin, thống kê, kết quả kiểm thử, việc triển khai và trải nghiệm thực tế của người dùng. Nội dung chương 4 thể hiện rõ hệ thống làm gì, đã làm được gì, chất lượng sản phẩm.

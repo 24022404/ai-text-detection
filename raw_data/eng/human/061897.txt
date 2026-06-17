@@ -1,1 +1,0 @@
-Data Layer : Responsible for input/output operations, such as reading logs, fetching files, and extracting metadata. Examples include get_log_data , get_app_files , andextract_urls_domains_emails .

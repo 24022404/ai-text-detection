@@ -1,1 +1,0 @@
-Lập lịch sử dụng Apache Arflow Vớ những yêu cầu cụ thể về thờ gan và DAG trình tự thực hiện như trên, Apache Arflow điã điược sử dụng điể trển kha tính năng này. Ở nộ dung phần 3.3, các khá nệm chính của Arflow điã điược điề cập, trong đó có Task và DAG.

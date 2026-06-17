@@ -1,1 +1,0 @@
-Ví dụ: Kh tìm kiếm địa điểm du lịch theo quận huyện  "địa điểm du lịch ở quận Hoàn Kiếm", chatbot trả về danh sách các địa điểm theo yêu cầu.

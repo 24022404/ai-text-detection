@@ -1,1 +1,0 @@
-Nút ấn (button): Các nút ấn được thiết kế bo góc đảm bảo tính hà hòa, có sự khác biệt khi hiển thị trong từng trường hợp cụ thể.

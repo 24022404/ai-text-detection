@@ -1,1 +1,0 @@
-In FL, the gradient computed after each local training round on different participating nodes may be very different, especially in cases where the data distribution is heterogeneous among participating nodes. As a consequence, the contribution of the participating nodes for aggregating local models into a global model is different.

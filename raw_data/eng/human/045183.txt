@@ -1,1 +1,0 @@
-Tomcat is easy to install and can be used on various operating systems, including Windows, Linux, and macOS. It comes with a built-in web-based management interface that allows administrators to monitor and configure the server settings.

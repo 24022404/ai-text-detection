@@ -1,5 +1,0 @@
-Ứng dụng công cụ Google Earth Engine và DSAS để giám sát đường bờ biển tự động, áp dụng cho cửa tung, là một công nghệ hiện đại giúp theo dõi và dự đoán các sự kiện tự nhiên như lũ lụt, sóng thần và biến đổi khí hậu. Công cụ này sử dụng dữ liệu vệ tinh và máy học để phân tích và dự đoán các thay đổi trên bề mặt Trái Đất.
-
-Google Earth Engine là một nền tảng trực tuyến mạnh mẽ cho phép người dùng phân tích và hiển thị dữ liệu vệ tinh và địa lý trên toàn cầu. DSAS (Digital Shoreline Analysis System) là một công cụ chuyên dụng để giám sát và phân tích đường bờ biển.
-
-Ứng dụng này có thể được sử dụng để giám sát và dự đoán các sự kiện tự nhiên như lũ lụt, sóng thần và biến đổi khí hậu. Nó cũng có thể được sử dụng để theo dõi và phân tích các thay đổi trên bề mặt Trái Đất, giúp người dùng hiểu rõ hơn về các quá trình tự nhiên và có thể đưa ra các quyết định chính sách và quản lý tài nguyên một cách hiệu quả hơn.

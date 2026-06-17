@@ -1,1 +1,0 @@
-Number of colors supported: 16,777,216 colors Screen Location of standard buttons: At the bottom right (vertically) and in the middle (horizontally) of the frame.

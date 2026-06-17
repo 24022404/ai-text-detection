@@ -1,1 +1,0 @@
-Dữ liệu sẽ gồm 3 thông tin chính: định danh của đoạn đọc DNA, đoạn đọc DNA và chất lượng của các cơ sở trên đoạn đọc (như hình 3.4).

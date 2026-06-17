@@ -1,1 +1,0 @@
-A backward path Pv of length s−j can be constructed so that each edge lies outside P, ensuring that v is the end-vertex and none of the edges overlap with P.

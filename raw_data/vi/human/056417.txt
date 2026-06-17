@@ -1,1 +1,0 @@
-Thiết kế hệ thống Vớ các yêu cầu chức năng và ph chức năng trên, nhóm chúng tô có thống nhất và đưa ra mô hình thiết kế hệ thống gồm các phân hệ như sau:

@@ -1,1 +1,0 @@
-Các mã nguồn này chứa các thuật toán học máy khác nhau điểm có thể huấn luyện agent trông mô trường học. Python API là một giao thức giữa ứng dụng huấn luyện và hệ thống giao tiếp. Hệ thống giao tiếp nằm ở trong môi trường và có tác dụng kết nối mô trường này tớ Python API.

@@ -1,1 +1,0 @@
-Sử dụng hàm thuần túy để thay đổi. Với mục đích chỉ ra cách Estate được bến đỗ từ Acton. Vì thế, chúng ta cần sử dụng các pure function gọi là Reducer.

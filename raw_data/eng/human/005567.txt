@@ -1,1 +1,0 @@
-Heterogeneous HTML structures: Every news sites have their own HTML struc tures - different class name for articles’ titles, content, which requires different variables for crawling process of each sites.

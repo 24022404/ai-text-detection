@@ -1,1 +1,0 @@
-Micro framework: Flask là một micro framework, vớ kích thước nhỏ và không yêu cầu nhiều tài nguyên máy tính. Điều này giúp cho Flask trở thành lựa chọn phù hợp cho các ứng dụng web đơn giản và nhẹ.

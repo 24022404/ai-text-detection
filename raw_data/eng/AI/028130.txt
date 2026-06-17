@@ -1,1 +1,0 @@
-OpenCV plays a significant role in the entertainment industry, enabling face tracking, recognition, motion capture, and the creation of special effects.

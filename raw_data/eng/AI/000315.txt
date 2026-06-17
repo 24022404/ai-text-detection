@@ -1,9 +1,0 @@
-Objective: Designing optimal deep neural network (DNN) architectures remains a time-consuming task that relies heavily on expert intuition. This paper proposes an automated approach to structure learning of DNNs by framing architecture search as a sequential decision process and applying Q-Learning to select and assemble network layers.
-
-Methods: We model each candidate network as a state in a Markov decision process and actions correspond to adding, modifying, or terminating layer configurations. A Q-Learning agent iteratively explores the space of possible architectures, using experience replay and ε-greedy exploration to balance discovery and exploitation. A reward function based on validation accuracy and model complexity guides the agent toward compact, high-performing designs.
-
-Results: Experiments on image classification benchmarks (CIFAR-10, MNIST) and a text classification task demonstrate that our Q-Learning–driven search consistently identifies architectures that match or exceed the accuracy of manually designed models while reducing parameter count by up to 30%. Compared with random search and genetic algorithms, our method converges 40% faster and yields more stable performance across repeated runs.
-
-Conclusion: By leveraging reinforcement learning for structure learning, we offer a scalable, generalizable framework that automates DNN design without extensive human intervention. This approach accelerates model development and can be extended to diverse domains, including speech recognition and time-series forecasting.
-
-Keywords: deep neural network, Q-Learning, architecture search, reinforcement learning, model optimization.

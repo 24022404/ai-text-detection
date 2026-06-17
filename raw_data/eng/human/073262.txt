@@ -1,1 +1,0 @@
-S. Fang, H. Xe, Y. Wang, Z. Mao andY. Zhang, “Read like humans: Autonomous, bidirectional and iterative language modeling for scene text recognition,” Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021, pages 7098–7107.

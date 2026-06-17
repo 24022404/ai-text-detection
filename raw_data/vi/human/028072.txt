@@ -1,1 +1,0 @@
-Nhập mật khẩu cũ chính xác và nhập mật khẩu mới hợp lệ, xác nhận mật khẩu trùng khớp.  Hệ thống hiển thị thông báo “Thay đổi mật khẩu thành công”  và lưu thay đổi vào cơ sở dữ liệu . Hệ thống hiển thị thông báo “Thay đổi mật khẩu thành công” và lưu thay đổi vào cơ sở dữ liệu. Đạt TC04  1. Đ tớ mục Tài khoản của tô.

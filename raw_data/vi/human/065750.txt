@@ -1,1 +1,0 @@
-Chương 4 sẽ trình bày ch tết thết kế kiến trúc, thết kế ch tết, xây dựng ứng dụng, kểm thử và trển kha hệ thống.

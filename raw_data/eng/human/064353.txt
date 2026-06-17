@@ -1,1 +1,0 @@
-Results on GTAV to Cityscapes Pseudo labels Update prototypesmIoUOnly Confident pseudo labelsAll generated pseudo labelsEMA Averaging ✓ ✓ 53.44 ✓ ✓ 53.62 ✓ ✓ 53.20 Table 4.2: Comparison of different methods for updating prototypes and choosing pseudo labels.

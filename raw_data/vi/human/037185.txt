@@ -1,1 +1,0 @@
-Quản lý đơn hàng User có thể xem thông tin đơn hàng của mình trên ứng dụng (các đơn hàng thành công, thất bại hoặc đang xử lý). User cũng có thể tiến hành đặt lại đơn với từng đơn hàng.

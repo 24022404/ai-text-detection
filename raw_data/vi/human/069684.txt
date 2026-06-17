@@ -1,1 +1,0 @@
-Truy vấn ASK : Sử dụng điểm kiểm tra xem có hay không bộ ba theo mẫu, kết quả dạng trả về là True/False.

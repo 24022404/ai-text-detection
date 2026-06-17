@@ -1,1 +1,0 @@
-Lý do lựa chọn Lý do tô sử dụng Firebase là () tốc độ truyền tn nhanh () dễ dàng cài đặt và triển khả () tương tác tốt với ngôn ngữ JavaScript.

@@ -1,1 +1,0 @@
-Thuộc tính Kểu dữ lệu Khóa formula_d nt Khóa chính descrbe nvarchar(MAX) summary nvarchar(MAX) account_d nt Bảng 4.9: Bảng công thức món ăn.

@@ -1,1 +1,0 @@
-Gó này cung cấp cho ta các mô hình đồ hoạ chân thực liên quan đến giao thông như đường, vạch phân cách, xe cộ,... Với các mô hình đồ hoạ có sẵn này, ta có thể bỏ qua bước thiết kế đồ hoạ điểm giảm thiểu được thờ gan phát triển mô trường, phù hợp với phạm vi của một đồ án. Một số các mô hình đồ hoạ được gó này hỗ trợ được thể hiện ở hình 3.1.

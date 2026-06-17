@@ -1,1 +1,0 @@
-(1) Quản trị viên thao tác bấm vào quản lý xuất nhập hàng, kiểm kho, chuyển kho (2) Tạo, sửa, xóa các phiếu điều chỉnh kho hàng 2.3.4 Đặc tả use case Manage customers Tên Use case: Manage customers Tác nhân: Quản trị vện Tiền điều kiện: Cần phải đăng nhập vào hệ thống Luồng sự kiện: Use case này bắt đầu khi quản trị viên chọn phần quản lý thông tin khách hàng.

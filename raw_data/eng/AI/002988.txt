@@ -1,1 +1,0 @@
-An admin is a privileged system actor tasked with managing user accounts, overseeing system performance, addressing various issues, and handling permissions. In addition, admins are responsible for configuring important settings and ensuring that applications run smoothly for all users.

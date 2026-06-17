@@ -1,1 +1,0 @@
-Ví dụ : Bữa sáng là bữa ăn sử dụng những món ăn nhẹ và có nước như bánh mì hoặc phở,. . . Và câu hỏ điặt ra là bữa trưa và bữa tố cũng có thể ăn bánh mì và phở.

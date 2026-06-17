@@ -1,1 +1,0 @@
-Cloudinary là một dịch vụ dựa trên nền tảng đám mây, cung cấp giải pháp toàn diện cho việc quản lý hình ảnh, bao gồm upload, lưu trữ, thao tác, tối ưu hóa và phân phối ảnh.

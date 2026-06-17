@@ -1,1 +1,0 @@
-The player’s mission is to find the exit portal to escape the land. Each land will have its own time limit. If the time limit is exceeded, the player will have to restart from the beginning.

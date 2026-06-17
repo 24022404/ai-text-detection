@@ -1,1 +1,0 @@
-Chat Chatter streamlines two-way communication on individual support tickets, making it simple for customers to ask follow-up questions. This interaction helps helpdesk teams collect essential details, ensuring issues are resolved efficiently and within defined SLA timelines.

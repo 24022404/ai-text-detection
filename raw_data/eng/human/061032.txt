@@ -1,1 +1,0 @@
-A good architecture is essential for developing scalable, modular, and main tained programs. Different architectures may differ in their features, but they always strive for the same goal: separation of concerns. And they all attempt to establish this separation by layering the application.

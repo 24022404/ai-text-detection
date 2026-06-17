@@ -1,1 +1,0 @@
-Kích hoạt: Không Luồng sự kiện chính:1. Khách hàng tạo project trên hệ thống ; 2. Khác hàng nhúng link package vào website của mình; 3. Package tiến hành thu thập dữ lệu và gửi về server nếu như doman của webste điã điược điăng ký trong cơ sở dữ lệu.

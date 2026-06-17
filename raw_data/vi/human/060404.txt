@@ -1,1 +1,0 @@
-WebRTC  cung cấp một cách tiện lợi và tiêu chuẩn điểm truy cập và sử dụng hình ảnh và âm thanh từ camera và micro của người dùng trên trình duyệt web.

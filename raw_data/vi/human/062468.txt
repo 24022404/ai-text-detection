@@ -1,1 +1,0 @@
-Thuộc tính (Properties): Thuộc tính là một loại tài nguyên đặc biệt dùng để mô tả mối quan hệ giữa các tài nguyên. Thuộc tính trong RDF cũng được xác định bởi các URI.

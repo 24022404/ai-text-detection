@@ -1,1 +1,0 @@
-Metadata Database cơ sở dữ liệu lưu trữ thông tin của Task và DAG. Thông thường cơ sở dữ liệu của Arflow sẽ được trển kha với PostgreSQL, ngoài ra MySQL, MsSQL hay SQLte cũng điược hỗ trợ sử dụng.

@@ -1,1 +1,0 @@
-Ch tết thiết kế các bảng như sau: (tổng số 6 bảng) Bảng Users: lưu trữ các thông tin của người sử dụng, bao gồm: d, email, active Code, active Code Express, status, timestamp.

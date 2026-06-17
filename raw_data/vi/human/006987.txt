@@ -1,1 +1,0 @@
-Mô hình sinh (Generative Models) : Các mô hình sinh, như Generative Adversarial Networks (GANs), có thể được sử dụng để tạo ra thêm các ví dụ huấn luyện. Tuy nhiên, cần phải thận trọng điểm đảm bảo rằng các ví dụ được tạo ra là thực tế và đa dạng.

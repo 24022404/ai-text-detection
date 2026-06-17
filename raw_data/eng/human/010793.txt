@@ -1,1 +1,0 @@
-Misclassifications: Look for patterns in misclassifications. For example, are certain classes frequently misclassified as others? Understanding these pat-Figure 4.1: Confusion matrix of KNN experiment terns can help guide model improvement efforts.

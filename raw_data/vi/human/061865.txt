@@ -1,1 +1,0 @@
-Chương 2: Trình bày tổng quan và vai trò của kiểm thử trong phát triển phần mềm linh hoạt. Đặc biệt hơn là tìm hiểu và xây dựng phương pháp kiểm thử hướng ngữ cảnh trong phát triển phần mềm linh hoạt, khảo sát và xây dựng website 2. Chương 3: Trình bày các công nghệ sẽ sử dụng điểm trong phương pháp kiểm thử và xây dựng website.

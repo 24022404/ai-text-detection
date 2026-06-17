@@ -1,1 +1,0 @@
-Dễ sử dụng: MySQL có một cú pháp dễ hiểu và các công cụ quản trị đồ họa như phpMyAdmin giúp việc quản lý cơ sở dữ liệu trở nên dễ dàng hơn.

@@ -1,1 +1,0 @@
-2 3 Breadcrumbs Bar giúp người dùng nhận định được chính xác vị trí của trang thứ cấp mà họ đang ở. Cũng như cho người dùng thấy được sự phân cấp rõ ràng nhất về nội dung giữa các trang con trong tổng thể webste.

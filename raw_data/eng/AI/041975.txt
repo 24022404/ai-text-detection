@@ -1,1 +1,0 @@
-Successful project execution relies on all infrastructure components functioning effectively, with nodes playing a crucial role in key registration and creation. However, expanding the infrastructure to support growth can result in significant expenses.

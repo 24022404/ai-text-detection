@@ -1,1 +1,0 @@
-D. Lopez-Paz andM. Ranzato, “Gradient episodic memory for continual learning,” inProceedings of the 31st International Conference on Neural Information Processing Systems jourser NIPS’17, Long Beach, California, USA: Curran Associates Inc., 2017, 6470–6479, ISBN: 9781510860964.

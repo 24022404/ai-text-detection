@@ -1,1 +1,0 @@
-Đa nền tảng: PostgreSQL có thể chạy trên nhiều hệ điều hành, bao gồm Windows, Linux và macOS. Điều này cho phép bạn trên kha và chạy cơ sở dữ liệu trên nhiều môi trường khác nhau một cách linh hoạt.

@@ -1,1 +1,0 @@
-Quản lý sản phẩm: Cung cấp thông tin về sản phẩm bảo gồm tên sản phẩm, gá, hình ảnh và mô tả ch tết.

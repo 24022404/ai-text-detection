@@ -1,1 +1,0 @@
-Khả năng giảm kích thước hình ảnh: Hình ảnh sau khi đi qua những bộ lọc và những lớp poolng sẽ được giảm kích thước khá đáng kể mà vẫn tương đối bảo toàn được những đặc trưng về không gian trong những bức ảnh.

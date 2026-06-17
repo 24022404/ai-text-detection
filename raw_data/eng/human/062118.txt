@@ -1,1 +1,0 @@
-Besides the graph-based approach, there are other well-known methods to con struct such sequences, including LFSR, recursive methods, greedy methods, and concatenation approaches.

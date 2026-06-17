@@ -1,1 +1,0 @@
-Còn đi với giải pháp sử dụng mô hình N Gram kết hợp với khoảng cách Levenshtein lạ có hạn chế là chỉ sử dụng từ điển nên không có ngữ cảnh cho câu dẫn tớ có thể sẽ tìm và sửa lỗ bị sai ngữ cảnh của câu văn.

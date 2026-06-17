@@ -1,1 +1,0 @@
-Việc quản lý hệ thống là cần thiết. Người quản trị hệ thống cần phải có các quyền như: đăng nhập hệ thống, quản lý sản phẩm, danh mục sản phẩm, quản lý các bà viết, quản lý các đơn hàng, quản lý người dùng. Giao diện webste cần thiết kế đẹp dễ dàng tiếp cận nhưng không quá rườm rà điểm thuận lợi trong quá trình mua sắm của khách hàng.

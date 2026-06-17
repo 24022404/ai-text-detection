@@ -1,1 +1,0 @@
-Once the features have been extracted, machine learning algorithms are used to classify the match as acceptable or faulty. This is done by training the algorithm on a set of labeled images, where each image is annotated with its corresponding class label. The trained algorithm can then be applied to the new images to classify the joints.

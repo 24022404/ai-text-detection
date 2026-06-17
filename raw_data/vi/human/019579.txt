@@ -1,1 +1,0 @@
-Dữ liệu: Các bản gh dữ lệu điã điược xác thực của người dùng điược bảo vệ bằng thuật toán mã hóa tùy thuộc vào từng blockchain.

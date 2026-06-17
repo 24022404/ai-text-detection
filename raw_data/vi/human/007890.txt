@@ -1,1 +1,0 @@
-Người bán xem ch tết đơn mà khách đã đặt và có thể ấn xác nhận đơn hàng.Hình 4.18: Gao vện theo dõi đơn hàng cho người bán Hình 4.19 thể hiện giao diện của màn hình Quản lý món ăn cho người bán.

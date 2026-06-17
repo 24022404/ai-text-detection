@@ -1,1 +1,0 @@
-Xây dựng chức năng quản lý hiệu quả cho phía người quản trị viên, đảm bảo quản lý sản phẩm, đơn hàng và người dùng dễ dàng và tiện lợi. Thêm vào đó, cung cấp chức năng thống kê doanh thu lnh hoạt theo thờ gan tùy chọn.

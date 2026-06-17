@@ -1,5 +1,0 @@
-Nghiên cứu mới đây đã tập trung vào việc chế tạo kít LAMP (Loop-mediated Isothermal Amplification) để chẩn đoán sán lá gan nhỏ Clonorchis sinensis nhiễm trên người. Kít LAMP là một công nghệ chẩn đoán nhanh chóng và dễ dàng, cho phép phát hiện các gen của sán lá gan nhỏ trong mẫu máu hoặc nước tiểu.
-
-Kết quả nghiên cứu cho thấy kít LAMP có độ chính xác cao, với khả năng phát hiện sán lá gan nhỏ trong mẫu máu và nước tiểu với tỷ lệ chính xác lên đến 95%. So với các phương pháp chẩn đoán truyền thống, kít LAMP cho phép chẩn đoán nhanh chóng và dễ dàng, giảm thiểu thời gian và chi phí.
-
-Nghiên cứu này có thể mở ra một hướng mới trong việc chẩn đoán và điều trị sán lá gan nhỏ, giúp giảm thiểu tác động của bệnh này lên sức khỏe con người.

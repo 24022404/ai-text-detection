@@ -1,1 +1,0 @@
-Với mong muốn xây dựng một ứng dụng web chat với đầy đủ các tính năng và hiệu suất mạnh mẽ thì trong tương la em sẽ cải thiện ứng dụng cả về kiến trúc hệ thống lẫn tính năng:

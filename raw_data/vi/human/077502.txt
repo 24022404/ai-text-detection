@@ -1,1 +1,0 @@
-changeName: phương thức này gồm 3 tham số là newName, conversation Id và token, nhằm đổi tên cuộc hội thoại có mã cuộc hội thoại là conversationId thành newName.

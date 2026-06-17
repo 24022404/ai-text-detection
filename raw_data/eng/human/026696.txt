@@ -1,1 +1,0 @@
-Y. Liu andM. Lapata, “Text summarization with pretrained encoders,” inThe 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing On: Association for Computational Linguistics, november 2019, pages 3730–3740.

@@ -1,1 +1,0 @@
-Stored XSS: Loại tấn công này là khtn tặc chèn mã độc vào cơ sở dữ liệu của ứng dụng web và mã độc này được lưu trữ trên máy chủ. Khi người dùng truy cập trang web đó, mã độc sẽ được tải xuống và thực thi trên trình duyệt của họ, cho phép tin tặc thu thập thông tin của người dùng hoặc thực hiện các hành động khác.

@@ -1,1 +1,0 @@
-MoBSIFT Local spatiotemporal feature extractors have been explored in previous studies; nevertheless, they come with the overhead of complicated optical flow estimates.

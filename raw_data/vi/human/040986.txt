@@ -1,1 +1,0 @@
-Azure Blob Storage lưu trữ dữ liệu theo kiểu thư mục – file. Mở file dữ liệu lưu trữ được gọi là blob. Các blob nằm trong một container tương tự như một tệp nằm trong thư mục. Các container nằm trong storage account.

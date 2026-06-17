@@ -1,1 +1,0 @@
-Chương 2 trình bày về hiện trạng của bà toán điã điược khảo sát, ví dụ về các ứng dụng giả phát hiện có trên thị trường, từ đó đề xuất, thiết kế tổng quan và ch tết các chức năng của ứng dụng.

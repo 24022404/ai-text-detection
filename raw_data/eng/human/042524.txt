@@ -1,1 +1,0 @@
-Get File DependenciesThis sub-use case enables users to identify and analyze the dependencies associated with an Android application or library file. Dependency analysis pro vides insights into the external libraries, frameworks, or components the file relies on for functionality.

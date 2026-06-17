@@ -1,1 +1,0 @@
-React also provides a complex development framework for e-commerce web applications. It provides tools and techniques to create a powerful and responsiveweb application for the customer. It also provides a very flexible and performance improving toolset to optimize your e-commerce web application.

@@ -1,7 +1,0 @@
-Monocular depth estimation is a fundamental computer vision task with applications in autonomous driving, robotics, and scene understanding. While recent deep learning approaches have achieved significant progress, they often struggle with depth consistency and generalization due to the lack of geometric constraints in single-image estimation. In this work, we propose a novel adversarial training framework to enhance monocular depth estimation by leveraging the power of generative adversarial networks (GANs).
-
-Our approach introduces a depth-aware discriminator that distinguishes between real and predicted depth maps, encouraging the model to generate more realistic depth distributions. Additionally, we incorporate a self-supervised consistency loss to enforce structural coherence and reduce artifacts in estimated depth maps. The generator, implemented as a convolutional neural network, is trained to minimize depth reconstruction errors while simultaneously fooling the discriminator, leading to sharper and more accurate depth predictions.
-
-Extensive experiments on benchmark datasets demonstrate that our adversarially trained model significantly outperforms state-of-the-art monocular depth estimation methods in terms of accuracy and visual realism. Our findings highlight the potential of adversarial learning to refine depth predictions and improve generalization to unseen scenes.
-
-Keywords: Monocular Depth Estimation, Adversarial Training, Generative Adversarial Networks, Self-Supervised Learning, Depth Consistency, Computer Vision.

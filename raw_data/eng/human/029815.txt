@@ -1,1 +1,0 @@
-A simple yet effective class-wise feature decorrelation regularization is proposed with the goal to boost the transferability of the representations. Furthermore, I theoretically show why feature decorrelation helps boost eigenvalues.

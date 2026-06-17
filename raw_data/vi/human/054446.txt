@@ -1,1 +1,0 @@
-Đặc tả use case Huỷ phiếu nhập/xuất Nhân viên quản lý kho hàng có thể truy cập vào danh sách các phiếu nhập/xuất hàng trong hệ thống. Kh cần huỷ một phếu nhập/xuất, nhân viên có thể chọn mã phiếu hoặc tìm kiếm phiếu theo loại phiếu, ngày tạo, tên nhân viên tạo phiếu, v.v.

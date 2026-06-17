@@ -1,1 +1,0 @@
-Chương 5 đóng vai trò tổng kết, trình bày về các đóng góp nổi bật của cả hệ thống. Đó là gả pháp giải quyết vấn đề người dùng trong hệ thống, các vấn đề hệ thống đãi gả quyết được và đồng thờ cũng đưa ra những tâm đắc của em kh phát triển hệ thống này.

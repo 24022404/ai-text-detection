@@ -1,1 +1,0 @@
-Step 2: Pre-train the model (modify the objective function to make it more suitable on Vietnamese language should be considered).

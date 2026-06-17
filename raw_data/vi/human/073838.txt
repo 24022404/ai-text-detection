@@ -1,1 +1,0 @@
-OWL sử dụng cú pháp RDF/XML và có ngữ nghĩa hình thức được xây dựng trên cơ sở logic bậc nhất. Một số thành phần cơ bản trong tài liệu OWL:

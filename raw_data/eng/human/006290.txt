@@ -1,1 +1,0 @@
-–Decoder: The decoder takes the encoded representation of the input sequence and generates an output sequence, typically used for tasks like machinetranslation or text generation. The decoder has multiple layers with self attention and cross-attention mechanisms, allowing it to attend to relevant parts of encoded input while generating output.

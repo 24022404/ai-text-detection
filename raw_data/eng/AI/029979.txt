@@ -1,1 +1,0 @@
-A false negative (FN) happens when the model wrongly predicts data as not X, despite the fact that it is truly labeled as X in reality.

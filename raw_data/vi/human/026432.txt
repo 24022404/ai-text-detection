@@ -1,1 +1,0 @@
-Kết quả tô thu được một mô hình nhận diện cử chỉ tay sử dụng mạng học sâu nhẹ, có tốc độ xử lý nhanh, phù hợp sử dụng trên các thiết bị yêu cầu.

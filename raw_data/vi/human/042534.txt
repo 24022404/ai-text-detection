@@ -1,1 +1,0 @@
-Tốc độ: Docker container rất nhẹ và nhanh, docker có thể khởi tạo và chạy trong vòng và gây, c, Nơ sử dụng Tô sử dụng Docker điểm đóng gói bài toán "phát hiện người và hành động lấy đồ trong cửa hàng tiện lợi" và triển khai nó trên máy chủ, tích hợp như một dịch vụ trong hệ thống camera thông minh nhằm mục đích thực nghiệm.

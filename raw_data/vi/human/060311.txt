@@ -1,1 +1,0 @@
-Luồng sự kiện chính : Đặc tả luồng sự kiện của usecase Lựa chọn ngôn ngữ hiển thị được mô tả trong Bảng 2.8.

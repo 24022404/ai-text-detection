@@ -1,1 +1,0 @@
-Cuối cùng để client nhận được dữ liệu từ WebSocket trả về, phía Client luôn luôn mở cổng socket để nhận được dữ liệu từ phía socket gửi về. Bên dưới là đoạn code xử lý nhận dữ liệu từ Socket gửi về client. Sau khi nhận được dữ liệu, Client xử lý dữ liệu và hiển thị ngay lập tức trên giao diện nhắn tin của người nhận.

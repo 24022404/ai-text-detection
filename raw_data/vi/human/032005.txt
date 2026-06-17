@@ -1,1 +1,0 @@
-Người dùng: các chức năng quản lý thông tin cá nhân, đặt phòng, thanh toán, nhận xét và đánh giá phòng, nhận xét điểm điến. . .

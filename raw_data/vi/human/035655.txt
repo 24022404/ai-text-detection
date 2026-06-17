@@ -1,1 +1,0 @@
-Sêu dữ liệu lên quan gặp vấn đề về độ chính xác và nhất quán. Với dữ liệu về thông tin hội nghị phát hành bài báo, cùng một hội nghị có rất nhiều tên thể hiện như tên đầy đủ, tên viết tắt, tên hội nghị đi cùng năm phát hành.

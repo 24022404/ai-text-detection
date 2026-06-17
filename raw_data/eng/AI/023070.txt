@@ -1,1 +1,0 @@
-The ground station relies on a look-up table to decode received sequences of length k, matching each sequence to its unique position, though this approach results in exponential computational complexity.

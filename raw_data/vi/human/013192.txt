@@ -1,1 +1,0 @@
-Tính bảo mật : PostgreSQL có các tính năng bảo mật mạnh mẽ như xác thực đia cấp điộ, quản lý truy cập, mã hóa và kểm tra toàn vẹn dữ lệu. Nó cũng hỗ trợ các têu chuẩn bảo mật như SSL và GSSAPI.

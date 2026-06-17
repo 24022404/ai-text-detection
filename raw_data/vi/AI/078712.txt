@@ -1,5 +1,0 @@
-Bắc Ninh đang đẩy mạnh công tác xây dựng bản đồ đất đai thông qua ứng dụng mô hình hồi quy logistic đa thức. Mô hình này được đánh giá có khả năng dự đoán chính xác các yếu tố ảnh hưởng đến giá trị đất đai, từ đó giúp chính quyền địa phương xây dựng bản đồ đất đai một cách khoa học và hiệu quả.
-
-Mô hình hồi quy logistic đa thức được áp dụng dựa trên các yếu tố như vị trí địa lý, độ cao, độ dốc, độ ẩm, và các yếu tố kinh tế - xã hội khác. Qua đó, mô hình có thể dự đoán được giá trị đất đai tại từng khu vực, giúp chính quyền địa phương có thể xây dựng bản đồ đất đai một cách chính xác và hiệu quả.
-
-Bằng việc ứng dụng mô hình hồi quy logistic đa thức, Bắc Ninh hy vọng sẽ xây dựng được bản đồ đất đai một cách khoa học và hiệu quả, giúp chính quyền địa phương có thể quản lý và sử dụng đất đai một cách hợp lý và hiệu quả.

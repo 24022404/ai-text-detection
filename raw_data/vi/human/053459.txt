@@ -1,1 +1,0 @@
-Đã có nhiều mô hình đào tạo trước cho một số ngôn ngữ riêng huấn luyện trên RoBERTa. Đại diện có thể là RobBERT  cho ngôn ngữ Hà Lan.Hình 2.7: Kết quả của mô hình RoBERTa.

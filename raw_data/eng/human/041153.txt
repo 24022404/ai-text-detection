@@ -1,1 +1,0 @@
-Additionally, the dashboard will offer an export chart feature, enabling providers to download and save their financial and appointment data for further analysis or reporting purposes.

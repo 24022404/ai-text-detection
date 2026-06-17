@@ -1,1 +1,0 @@
-Redis supports data persistence, AOF and RDBRedis supports master-slave replication. The host will automatically synchro nize the data to the slave, allowing read-write separation.

@@ -1,1 +1,0 @@
-Sau khi file DAG được hoàn thiện, hệ thống Arflow sẽ điọc và hển thị kết quả trên giao diện của thành phần Webserver như hình dưới điây.

@@ -1,1 +1,0 @@
-A dropdown menu enables users to choose how many items appear per page (options like 5, 10, or 20). Figure 4.5 displays the Androlyzer Application’s database design, focusing on the auth_permission table and its unique id column.

@@ -1,9 +1,0 @@
-Objective: Person image synthesis and editing remain challenging due to the entangled representation of body shape, pose, and clothing appearance. We introduce PISE, a decoupled Generative Adversarial Network (GAN) framework that separates shape and appearance modeling to achieve high-fidelity, controllable image generation and editing.
-
-Methods: PISE employs two complementary branches: a Shape Generator that maps target poses and body layouts to a structural representation, and an Appearance Generator that renders clothing textures and fine-grained details conditioned on the generated structure. A shared discriminator evaluates realism while enforcing consistency between predicted shape and appearance. We further incorporate identity-preserving and perceptual losses to maintain subject identity and visual quality during editing operations.
-
-Results: Extensive experiments on benchmark datasets demonstrate that PISE outperforms state-of-the-art methods in both quantitative and qualitative evaluations. We report significant improvements in Fréchet Inception Distance (FID reduced by 35%) and Learned Perceptual Image Patch Similarity (LPIPS improved by 20%) compared to leading baselines. PISE also supports flexible editing tasks—such as pose transfer, attribute manipulation, and partial re-texturing—without retraining.
-
-Conclusion: By decoupling structural and appearance components, PISE delivers superior visual fidelity, identity preservation, and editing versatility. This framework paves the way for advanced applications in virtual try-on, augmented reality, and personalized avatar creation.
-
-Keywords: person image synthesis, image editing, decoupled GAN, pose transfer, identity preservation.

@@ -1,1 +1,0 @@
-Từ biểu đồ thực thể liên kết, em đã thiết kế cơ sở dữ lệu ph quan hệ NoSQL sử dụng Cloud Firestore như Hình 4.10 . Cơ sở dữ lệu gồm có 8 collections đó là users, addresses, categories, restaurants, menus, menu Items, orders, orderItems.

@@ -1,1 +1,0 @@
-Các bước thực hiện:1. Đầu tên, cắt những hộp từ (wordbox) ra, sau đó dùng mô hình tạm thời để dự đoán region score.

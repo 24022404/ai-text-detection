@@ -1,1 +1,0 @@
-Last but not least, utility package provides helpful routines and methods that make game development easier. Built on top of Unity API, utility contains helper functions for math (vector) calculation as well as game object and components manipulation.

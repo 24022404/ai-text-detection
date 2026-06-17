@@ -1,1 +1,0 @@
-Spark là bất khả tr đố vớ cluster manager. Miễn là nó có thể có được các tiến trình executor và các tiến trình này giao tiếp với nhau, thì việc chạy nó tương đối dễ dàng ngay cả trong một cluster manager hỗ trợ cả các ứng dụng khác (ví dụ: Mesos/YARN/Kubernetes).

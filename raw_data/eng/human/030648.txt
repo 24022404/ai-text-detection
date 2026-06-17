@@ -1,1 +1,0 @@
-The approaches for generating such multi-document datasets are rather intricate and time-consuming. Therefore, I initially considered using Google’s translate API to translate English data into Vietnamese. However, due to the maximum token limit of 5000, the data had to be divided into smaller segments for translation.

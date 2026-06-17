@@ -1,1 +1,0 @@
-Model: The Model is responsible for representing the data and business logic. It is an abstraction of the real-world entity that is being modeled and can be thought of as the application’s data layer.

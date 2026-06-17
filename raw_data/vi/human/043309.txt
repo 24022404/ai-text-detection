@@ -1,1 +1,0 @@
-Về phía Backend  phần xử lý của hệ thống, được viết bằng ngôn ngữ NodeJS và hỗ trợ của framework ExpressJS. Em chọn sử dụng framework ExpressJS bởi vì nó dễ dàng sử dụng, hiệu năng tốt, và đơn giản trong việc mở rộng hệ thống sau này.

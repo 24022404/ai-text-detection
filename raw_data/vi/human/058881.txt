@@ -1,1 +1,0 @@
-Java Sprng Boot là một công cụ giúp phát trển ứng dụng web và mcroservce với Sprng Framework nhanh hơn và dễ dàng hơn thông qua ba khả năng cốt lõ:

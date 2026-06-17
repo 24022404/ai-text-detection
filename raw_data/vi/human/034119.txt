@@ -1,1 +1,0 @@
-Tô đã cố gắng tăng thêm độ phức tạp và tiền xử lý dữ liệu bằng những phương pháp khác nhau, nhưng độ chính xác của mô hình vẫn không tăng quá nhiều.

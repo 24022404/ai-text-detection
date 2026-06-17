@@ -1,1 +1,0 @@
-Java Spring Framework (Spring Framework) is a popular, open-source, enterprise level framework for creating standalone, production-grade applications that run on the Java Virtual Machine (JVM).

@@ -1,1 +1,0 @@
-Bộ điều phố (Scheduler). Đây là thành phần lập lịch chịu trách nhiệm quản lý các spyder. Nó đảm bảo rằng các spyder không tả quá nhiều các trang web và có thể xử lý lỗ xảy ra trong quá trình thu thập dữ liệu.

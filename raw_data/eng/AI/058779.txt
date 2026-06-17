@@ -1,9 +1,0 @@
-Objective: Real-time perception in autonomous systems is often hampered by the latency incurred when waiting for complete LiDAR sweeps before performing object detection. StrObe addresses this bottleneck by detecting objects on-the-fly directly from incoming LiDAR packets, significantly reducing end-to-end detection delay.
-
-Methods: We introduce a streaming pipeline that processes each 3D LiDAR packet as soon as it arrives. A lightweight packet-level feature extractor encodes partial point clouds into compact representations. These per-packet features are incrementally aggregated using a temporal fusion module, which maintains spatial coherence across packets. A detection head built on a modified voxel-based network then produces bounding-box predictions in real time. The entire architecture is optimized for low-latency inference on embedded GPUs.
-
-Results: Evaluated on the KITTI and nuScenes benchmarks, StrObe achieves comparable mean average precision to state-of-the-art offline detectors (within 2.5% mAP) while lowering average detection latency by 40–60%. In end-to-end tests, our system processes 10 ms LiDAR packets with under 15 ms delay per packet, enabling >20 Hz update rates. Compared to full-sweep methods, StrObe reduces the perception-to-action loop by up to 50 ms.
-
-Conclusion: By shifting object detection to the packet level, StrObe offers a practical, low-latency solution for safety-critical real-time applications in autonomous driving and robotics. Its modular design supports integration with diverse LiDAR sensors and downstream planning modules.
-
-Keywords: LiDAR streaming, real-time object detection, packet-level processing, temporal fusion, autonomous driving.

@@ -1,1 +1,0 @@
-Vew lấy các thông tin từ Model và trình bày điến người dùng. Trên cùng một Model, có thể có nhều Vew cùng đăng ký. Kh có một thay điổ từ Model, tất cả các Vew điều được thông báo thông qua observer mà nó đã đăng ký.

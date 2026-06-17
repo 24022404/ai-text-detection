@@ -1,1 +1,0 @@
- t−1 After measuring the contribution of the participating nodes based on the smoothed angles, the authors design a non-ar mapping function to quantify the contribution of each node. This function follows the criterion that nodes with higher contributions deserve higher weights for aggregation in each global round. The function is defined as:

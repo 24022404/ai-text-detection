@@ -1,1 +1,0 @@
-Xác thực: Laravel cung cấp sẵn những tính năng xác thực người dùng ví dụnhư: đăng nhập, điăng kí, quên mật khẩu,. . . ngay cả phân quyền người dùng.

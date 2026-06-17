@@ -1,1 +1,0 @@
-Bên phía máy chủ : Cung cấp các đối tượng liên quan đến việc chạy JavaScript trên máy chủ. Có các tiện ích mở rộng phía máy chủ cho phép ứng dụng giao tiếp với cơ sở dữ liệu và cung cấp tính liên tục của thông tin từ lệnh gọi này sang lệnh gọi khác của ứng dụng hoặc thực hiện thao tác tệp trên máy chủ.

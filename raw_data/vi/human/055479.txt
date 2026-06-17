@@ -1,1 +1,0 @@
-Khả năng tương thích : Một số tính năng JavaScript có thể không tương thích hoặc không được hỗ trợ đầy đi trên các trình duyệt cũ hoặc các thiết bị di động.

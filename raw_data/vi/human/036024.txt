@@ -1,1 +1,0 @@
-Lệnh mua và lệnh bán: Là các yêu cầu mua hoặc bán chứng khoán được đưa ra trên sàn giao dịch chứng khoán.

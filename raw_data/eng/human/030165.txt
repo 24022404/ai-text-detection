@@ -1,1 +1,0 @@
-Zbot : is installed through email. After downloading, it will share user information to attackers, and even disable a firewall.

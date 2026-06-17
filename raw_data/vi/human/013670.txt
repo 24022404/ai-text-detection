@@ -1,1 +1,0 @@
-Để đánh giá hiệu năng của các phương pháp trên vớ nhau cũng như vớ hiệu năng cơ sở, em sử dụng một số độ đo đánh giá như sau:

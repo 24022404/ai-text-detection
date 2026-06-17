@@ -1,1 +1,0 @@
-G. Berman, M. Abad, and M. Torgerson, “Understanding typescript,” n European Conference on ObjectOrented Programming , Springer, 2014, pp. 257– 281.

@@ -1,1 +1,0 @@
-ISO 14443-3 : This section defines classes and protocols to ensure confiden tiality and avoid collisions during communication. It covers data encryptionand authentication methods, as well as how to handle data conflicts when mul tiple cards are placed side by side near a card reader.

@@ -1,1 +1,0 @@
-Additionally, in traditional authentication methods using sessions, logging in on a different browser will no longer have the active session, and the user will have to log in again, losing the active session on the old browser.

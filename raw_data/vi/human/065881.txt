@@ -1,1 +1,0 @@
-Bài toán Trong bất cứ hệ thống công nghệ thông tin nào, việc xác thực và phân quyền người dùng luôn là phần cực kỳ quan trọng. Chúng ta đã quá quen với việc sử dụng Session được lưu trữ bên phía Backend. Session mang tính Stateful, vì việc trao đổi thông tin giữa Client và Server được lưu lạ bên phía Server. Đều này có khả năng gây ra quá tải đối với Server.

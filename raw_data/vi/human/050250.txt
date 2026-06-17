@@ -1,1 +1,0 @@
-Tìm hiểu về RabbitMQ RabbitMQ là một AMQP message broker. Là một chương trình trung gan được xây dựng với mục đích liên kết các ứng dụng vớ nhau, gao sếp một cách dễ dàng.

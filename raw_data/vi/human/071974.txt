@@ -1,1 +1,0 @@
-Ngoà các bến thể lên quan đến số lượng dữ liệu, còn tồn tạ các bến thể của GD như SGD vớ quán tính (momentum) và các phương pháp điều chỉnh gradent tự động (adaptve gradent  AdaGrad), được sử dụng phổ bến như Adam [ adam ].

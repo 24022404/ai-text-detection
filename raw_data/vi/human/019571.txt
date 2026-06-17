@@ -1,1 +1,0 @@
-MySQL là một hệ thống quản lý cơ sở dữ liệu quan hệ điầy tiện lợi và dễ sử dụng.

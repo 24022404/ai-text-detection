@@ -1,1 +1,0 @@
-Bộ lập lịch có thể có cắm được, hiện tại có các bộ lập lịch ví dụ như bộ lập lịch công suất (Capacity Scheduler) và bộ lập lịch công bằng (Fair Scheduler).

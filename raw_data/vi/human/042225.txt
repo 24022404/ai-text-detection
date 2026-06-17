@@ -1,1 +1,0 @@
-Nhận thấy được những lợi thế này, sau một thời gian, ứng dụng giao diện phía người dùng cuối cùng bắt đầu được "micro hóa", ra đời khá nệm Micro Frontends vào cuối năm 2016. Micro Frontends, về cơ bản sẽ bao gồm các thành phần (tên gọi có thể khác nhau ở từng ứng dụng trên kha):

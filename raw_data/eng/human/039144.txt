@@ -1,1 +1,0 @@
-Objective Tools/Libs URL IDE Intellij Ultimate a64 bit  Language Java  Language Javascript  Javascript library Jquery  Testing APIs Postman  User authentication JWT  Resource management Github  Database Mysql server  Table 5.1: Libraries and tools 5.1.2 Achievement After surveying and developing the system, I created the website with the main functions:

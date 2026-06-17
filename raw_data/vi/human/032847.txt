@@ -1,1 +1,0 @@
-Đăng nhập. Truy cập vào website của quản trị viên và đại diện trung tâm 2. Nhập gmail và mật khẩu vào các ô tương ứng 3. Ấn nút đăng nhập. Hiển thị form đăng nhập nếu người dùng chưa đăng nhập vào hệ thống 2. Kiểm tra dữ liệu nhập vào, nếu nhập thiếu hiển thị thông báo ngay bên dưới ô input 3. Hệ thống gửi thông tin về cho server, trích xuất dữ liệu từ CSDL điểm kiểm tra.

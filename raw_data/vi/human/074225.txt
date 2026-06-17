@@ -1,1 +1,0 @@
-− Object Services Đây là các class tự động sinh ra tương ứng với mô hình dữ liệu. Các class này bao gồm:

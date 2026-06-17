@@ -1,1 +1,0 @@
-Trong Chương 3, em trình bày về tổng quan giải pháp cho bài toán phát hiện và sửa lỗi chính tả mà ĐATN hướng tớ. Từ tổng quan gả pháp đó sẽ trình bày cho tết các thuật toán, mô hình điã mô tả trong tổng quan gả pháp.

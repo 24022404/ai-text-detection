@@ -1,1 +1,0 @@
-Chương 4 sẽ triển khai những gì đã tìm hiểu được về Unity engine để có thể hoàn thành điược các yêu cầu điã điặt ra từ chương 2 bao gồm thiết kế kịch bản game, gao vện, ... Sau đó, sẽ tiến hành cài đặt game, kiểm tra các chức năng xem có hoạt điộng như điã điề ra và thể hiện kết quả đạt được trong thờ gan làm đồ án.

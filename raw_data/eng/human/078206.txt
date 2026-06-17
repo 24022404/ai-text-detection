@@ -1,1 +1,0 @@
-Then, they employ pixel-to-pixel contrastive learning to increase the difference between inter-region pixels and decrease the consistency of pixels inside an area.

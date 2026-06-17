@@ -1,1 +1,0 @@
-The application has three actors. User is the main actor of the application. Guest is the actor that is not in the database, and they can signup to become a User. There is one Admin actor in the application, and they can see and manage all the User accounts in the system.

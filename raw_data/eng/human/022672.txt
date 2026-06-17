@@ -1,1 +1,0 @@
-The Controller takes the request and calls the appropriate service methods based on the used GET or POST method. The service method will set model data based on defined business logic and return the view name to DispatcherServlet.

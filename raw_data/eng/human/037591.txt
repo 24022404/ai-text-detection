@@ -1,1 +1,0 @@
-History record time: is the time to execute that order History type (material entry, damage, expiry date, return, . . . ) Quantity of goods involved in that activity The warehouse performs that operation.

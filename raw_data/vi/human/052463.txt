@@ -1,1 +1,0 @@
-Admin: Xử lý các chức năng của rêng người quản trị, do các chức năng này tập trung về quản lý hệ thống nên điã điược tách rêng ra khỏi package user.

@@ -1,1 +1,0 @@
-Kh một yêu cầu của từ máy khách (Client) gửi đến Server. Thì bị Controller trong MVC chặn lạ để xem đó là URL request hay sự kiện.

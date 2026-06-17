@@ -1,1 +1,0 @@
-Solution overviewRedux-saga is a library that aims to make application side effects (i.e. asyn chronous things like data fetching). At this part, we can perform a function to call API using Axios, handle logic business, and dispatch results to the global state.

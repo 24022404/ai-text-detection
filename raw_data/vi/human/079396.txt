@@ -1,1 +1,0 @@
-Trước tên, ĐATN tập trung nghiên cứu và thực nghiệm mô hình học sâu PoBERT mô hình quy mô lớn đầu tiên được đào tạo cho Tiếng Việt. Cùng với tư tưởng của RoBERTa nên chỉ sử dụng tác vụ Masked Language Model để huấn luyện, bỏ đi tác vụ Next Sentence Prediction.

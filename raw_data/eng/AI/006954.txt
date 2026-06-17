@@ -1,1 +1,0 @@
-A de Bruijn based timing and synchronization system employs a satellite that transmits a de Bruijn sequence to the ground using an on-off beacon model, enabling precise synchronization by leveraging the unique properties of de Bruijn sequences.

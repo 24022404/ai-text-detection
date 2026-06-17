@@ -1,1 +1,0 @@
-Coordnator (Ngườ điều phố) là tến trình chịu trách nhệm chính trong vệcquản lý và phân phố các phân mảnh dữ liệu (segment). Cụ thể hơn, Coord nator gửi và nhận tín hiệu từ Hstorcal điể thực hiện nhận một segment mớ hay xóa bỏ các segment hết hạn, điảm bảo các segment này được điọc bở nhều node Hstorcal.

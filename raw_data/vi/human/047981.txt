@@ -1,1 +1,0 @@
-Phần thứ nhất: sử dụng cấu trúc mạng VGG đơn giản phù hợp với kích thước ảnh nhỏ Phần thứ hai: sử dụng mô hình sequence to sequence gồm:

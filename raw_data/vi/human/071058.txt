@@ -1,1 +1,0 @@
-Worker node đơn giản chỉ là một hay nhiều máy ảo chạy trên cloud hoặc hệ thống tự dựng, hoặc máy chủ vật lý. Các node này sẽ chạy các khối lượng công việc được phân bổ bở master. Ở đây khối lượng công việc chính là chương trình. Các Thành phần cơ bản trong worker node bao gồm:

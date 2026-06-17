@@ -1,1 +1,0 @@
-Dscord : Nền tảng chat và gọ thoạ Dscord sử dụng Talwnd CSS điể tạo giao diện người dùng của ứng dụng trên nhều nền tảng.

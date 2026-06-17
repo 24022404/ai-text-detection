@@ -1,9 +1,0 @@
-This paper addresses the challenge of real-time referring expression comprehension, which involves the task of identifying specific objects in images based on natural language descriptions. Current methods are often hindered by computational inefficiencies and limited understanding of global context, which restrict their applicability in real-time scenarios.
-
-Methods/Approach: We introduce a novel, real-time Global Inference Network (GIN) designed to significantly enhance one-stage referring expression comprehension. Our approach integrates a streamlined end-to-end architecture that efficiently processes visual and linguistic inputs, leveraging an advanced inference mechanism to capture and exploit global context from the entire image. This allows for improved alignment between language expressions and their corresponding visual parts.
-
-Results/Findings: Experimental results demonstrate that our GIN outperforms existing state-of-the-art models by achieving higher accuracy and faster inference speed on multiple benchmark datasets. The real-time performance of our model is highlighted, making it suitable for applications requiring immediate response times, such as interactive image processing or autonomous navigation systems.
-
-Conclusion/Implications: Our research contributes a significant advancement in the field of referring expression comprehension by offering a solution that combines speed and accuracy through effective global context integration. This work opens up new possibilities for practical implementations across diverse domains, including augmented reality, robotics, and human-computer interaction. The proposed model sets a new benchmark for future research and applications in referring expression comprehension.
-
-Keywords: Referring Expression Comprehension, Real-time Processing, Global Inference Network, Object Identification, Natural Language Descriptions.

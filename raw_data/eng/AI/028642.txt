@@ -1,7 +1,0 @@
-Deep neural networks (DNNs) are increasingly deployed in critical applications, yet they remain vulnerable to Trojan attacks, where hidden backdoors allow malicious behavior under specific triggers. Existing Trojan attacks primarily manipulate input space perturbations, making them easier to detect through adversarial defense strategies. In this work, we introduce a novel Deep Feature Space Trojan Attack (DFTA), which operates at the feature level rather than the raw input, making it significantly stealthier and harder to detect.
-
-Our approach leverages a controlled detoxification mechanism, which strategically modifies latent representations to embed the Trojan trigger while maintaining model performance on clean data. By carefully altering feature activations, DFTA ensures the Trojan remains undetectable under conventional anomaly detection and robustness evaluation methods. We further propose an optimization-based strategy to control the attack’s effectiveness, ensuring a high success rate with minimal impact on standard accuracy.
-
-Extensive experiments on benchmark image classification models demonstrate that DFTA achieves high attack success rates while remaining resilient against state-of-the-art defense mechanisms. Our findings highlight the growing need for advanced security measures to protect neural networks from sophisticated feature-space attacks.
-
-Keywords: Trojan Attack, Deep Feature Space, Neural Network Security, Adversarial Machine Learning, Backdoor Attacks, Model Vulnerabilities.

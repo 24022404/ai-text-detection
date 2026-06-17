@@ -1,1 +1,0 @@
-BERT  (Bidirectional Encoder Representations from Transformers) được hiểu là một mô hình học sẵn (pretrain model) học mố tương quan giữa các từ và học ra các vectơ đại diện theo ngữ cảnh 2 chiều của từ, được sử dụng để chuyển sang các bài toán khác trong lĩnh vực xử lý ngôn ngữ tự nhiên.

@@ -1,9 +1,0 @@
-Graph embeddings play a crucial role in representing complex relational data for various machine learning applications, including recommendation systems, fraud detection, and biological network analysis. Traditional embedding methods often struggle with generalization to unseen nodes and computational efficiency in large-scale graphs. This paper introduces a novel inductive graph embedding framework that leverages locality encodings to capture structural and feature-based information efficiently.
-
-Our approach constructs node embeddings by encoding local graph neighborhoods using a combination of positional and feature-aware transformations. Unlike transductive methods that require retraining when new nodes appear, our inductive technique enables dynamic embedding generation, making it suitable for evolving graphs. We design a locality-aware encoding mechanism that integrates topological patterns and node attributes, enhancing representation quality while maintaining computational efficiency.
-
-Experiments on multiple benchmark datasets demonstrate that our model outperforms state-of-the-art inductive graph embedding techniques in terms of accuracy, scalability, and adaptability to unseen nodes. Notably, our method achieves significant improvements in link prediction and node classification tasks while reducing computational overhead.
-
-These findings highlight the effectiveness of locality encodings in inductive graph learning, paving the way for more efficient and adaptable graph-based representations in real-world applications.
-
-Keywords: Graph Embeddings, Inductive Learning, Locality Encodings, Graph Neural Networks, Representation Learning, Scalable Graph Processing.

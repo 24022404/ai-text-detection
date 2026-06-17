@@ -1,1 +1,0 @@
-Multi-class classification : In multiclass classification, data is classified into more than two classes. Each data sample is assigned one class label from a set of predefined classes. For example, classify images into different categories like cats, dogs, and birds.

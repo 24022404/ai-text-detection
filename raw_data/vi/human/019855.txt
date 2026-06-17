@@ -1,1 +1,0 @@
-STT Tên Kiểu trả về Mô tả (mục đích) 1 Get Evaluated By Course ID Lst<Evaluate>Lấy dữ liệu đánh giá theo ID khóa học 2 Insert Evaluate nt Thêm mớ đánh giá khóa học Bảng 4.6: Các phương thức của lớp Evaluate Service Parameter:

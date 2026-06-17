@@ -1,9 +1,0 @@
-Objective: Inverse Reinforcement Learning (IRL) aims to recover an expert’s underlying reward function from observed behavior, but existing approaches often suffer from ambiguity and poor generalization in high-dimensional tasks. This paper introduces Deep PQR, a novel IRL framework that leverages “anchor actions”—a small set of actions with known reward values—to guide and stabilize reward inference.
-
-Methods: Deep PQR jointly learns a deep reward network and a policy model by incorporating anchor actions as fixed reference points in the reward space. We extend the classical projection-based IRL (PBRL) formulation with three components—Policy, Q-value, and Reward (PQR)—implemented via neural networks. Anchor actions are enforced through auxiliary loss terms that align predicted rewards with known values, reducing the solution space and mitigating reward ambiguity. Training proceeds by alternating between policy optimization using soft actor-critic and reward network updates via gradient matching.
-
-Results: Experiments on gridworld navigation, MuJoCo continuous control, and robotic manipulation tasks demonstrate that Deep PQR recovers more accurate reward functions and yields policies that better match expert behavior. Compared to Maximum Entropy IRL and state-of-the-art deep IRL baselines, Deep PQR achieves up to 25% improvement in reward recovery error and 30% faster convergence.
-
-Conclusion: By integrating anchor actions into a deep learning IRL pipeline, Deep PQR offers a principled way to resolve reward ambiguity and enhance learning stability. This approach advances IRL applicability in robotics, autonomous systems, and complex decision-making domains.  
-
-Keywords: Inverse Reinforcement Learning, anchor actions, deep learning, reward inference, policy learning, Deep PQR.

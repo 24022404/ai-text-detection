@@ -1,1 +1,0 @@
-Obfuscator : attemps to conceal or disguise itself to evade malware detection sys tems Ongames : steals username, password, and other login information and tracks user’s activity.

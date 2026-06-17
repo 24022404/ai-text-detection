@@ -1,1 +1,0 @@
-Working EnviromentThe Decentralized Video Sharing Website was built with the goal of provid ing consumers with a seamless and streamd experience across various web browsers. The platform was carefully created and optimized to operate steadily on popular browsers, including, but not limited to, Mozilla Firefox, Microsoft Edge, and Google Chrome.

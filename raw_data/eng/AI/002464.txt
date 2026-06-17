@@ -1,1 +1,0 @@
-Theflags=0x3048be44 represent binary-encoded flags that convey additional details about a permission’s status or functionality, mainly for internal system usage.

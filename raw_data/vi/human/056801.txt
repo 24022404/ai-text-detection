@@ -1,1 +1,0 @@
-Thuộc tính Kểu dữ lệu Khóa ngredent_detal_d nt Khóa chính calo nt man_ngredent nt name nvarchar(MAX) quantty nt unt nvarchar(MAX) dsh_d nt Bảng 4.10: Bảng nguyên lệu.

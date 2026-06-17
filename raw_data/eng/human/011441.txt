@@ -1,1 +1,0 @@
-Step Description Keyword Object Data Step 1 click search Box Search Click input search Step 2 Enter data Set input search ’tool’ Step 3 Click button Tìm kiếm Click button Search Step 4ward until the browser loads the page and s ready to accept input data Was result text Bảng 4.6: Bảng kiểm thử chức năng tìm kiếm bài viết Màn hình kết quả: .

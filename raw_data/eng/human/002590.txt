@@ -1,1 +1,0 @@
-Postconditions : The user is provided with a report on the security posture of the TLS/SSL configuration, including weaknesses, certificate issues, supported protocols, and ciphers.

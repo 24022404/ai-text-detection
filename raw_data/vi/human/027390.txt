@@ -1,1 +1,0 @@
-Bar Pho  voi hạ phiên bản BartPho syllable và BartPho word, là những mô hình seq2seq đơn ngữ có quy mô lớn đầu tiên được đào tạo trước cho tiếng việt.

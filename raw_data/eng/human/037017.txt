@@ -1,1 +1,0 @@
-The user accesses the "Booking" page to view all the appointments assigned to them. On this page, the provider is presented with a list of appointments.

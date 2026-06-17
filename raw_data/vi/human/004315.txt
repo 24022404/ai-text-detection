@@ -1,1 +1,0 @@
-Giới thiệu về OWASP ZAP API Để xây dựng phần quản lý và kiểm thử lỗ hổng bảo mật cho đồ án tốt nghiệp, em đã quyết định chọn OWASP Zed Attack Proxy (ZAP) làm lõ chính cho hệ thống với những lý do vượt trội.

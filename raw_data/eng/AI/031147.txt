@@ -1,1 +1,0 @@
-In JavaScript, functions have first-class citizen status, allowing them to be assigned to variables, passed as arguments to other functions, or even returned from other functions as values.

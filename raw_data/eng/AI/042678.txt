@@ -1,9 +1,0 @@
-Objective: Generative adversarial networks (GANs) enable powerful image synthesis by navigating a high-dimensional latent space, but existing manipulation techniques largely rely on linear traversals that fail to capture complex semantic variations. This paper introduces WarpedGANSpace, a novel framework for discovering non-linear, Radial Basis Function (RBF) paths in GAN latent spaces, yielding more precise and semantically coherent image edits.
-
-Methods: We model latent trajectories as smooth curves defined by a small set of control points and RBF kernels, allowing flexible warping around key latent regions. Starting from a pretrained GAN, we automatically identify candidate control points via gradient-based sensitivity analysis. An optimization scheme then fits RBF parameters to maximize alignment between latent displacements and desired semantic attribute changes. The approach requires no additional GAN training and integrates seamlessly with common architectures such as StyleGAN2 and BigGAN.
-
-Results: Quantitative evaluation on facial attribute editing and object shape morphing demonstrates that WarpedGANSpace achieves up to 30% lower reconstruction error and 20% higher user preference scores compared to linear interpolation baselines. Qualitatively, our non-linear paths produce smoother attribute transitions and reduce unintended artifacts, especially for complex transformations like age progression, viewpoint rotation, and expression blending.
-
-Conclusion: By unlocking non-linear exploration of GAN latent manifolds, WarpedGANSpace significantly enhances editability and semantic control in image generation tasks. This work opens avenues for more intuitive and artifact-free user-driven manipulation in creative and scientific applications.
-
-Keywords: GAN, latent space, radial basis function, non-linear interpolation, image editing, semantic manipulation.

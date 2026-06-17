@@ -1,7 +1,0 @@
-Contrastive representation learning has achieved remarkable success in self-supervised learning by encouraging representations of similar images to be closer while pushing apart dissimilar ones. However, existing methods often suffer from overfitting to instance-level augmentations, leading to suboptimal generalization. To address this issue, we propose Center-wise Local Image Mixture (CLIM), a novel contrastive learning framework that enhances representation diversity and robustness by introducing a center-guided image mixture strategy.
-
-CLIM generates mixed samples by blending local regions of images based on their cluster centers in the feature space, ensuring that representations capture both instance-level and semantic-level similarities. Additionally, we introduce a center-aware contrastive loss, which refines positive pair selection by incorporating global and local context, leading to more discriminative and transferable representations.
-
-Experiments on standard self-supervised benchmarks demonstrate that CLIM significantly improves feature quality and downstream task performance compared to existing contrastive learning approaches. Our results highlight the effectiveness of incorporating center-wise local mixtures for better generalization and robustness in self-supervised representation learning.
-
-Keywords: Contrastive Learning, Representation Learning, Self-Supervised Learning, Image Mixture, Cluster Centers, Feature Generalization.

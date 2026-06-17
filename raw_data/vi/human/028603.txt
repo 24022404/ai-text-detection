@@ -1,1 +1,0 @@
-Lựa chọn kiến trúc phần mềm Mô hình client server là một kiểu cấu trúc ứng dụng phân tán, gồm một máy chủ (server) và nhiều máy khách (client) kết nối tới máy chủ. Giao tiếp giữa máy chủ và máy khách được thực hiện thông qua giao thức truyền tải dữ liệu như HTTP, TCP/IP, hoặc UDP.

@@ -1,1 +1,0 @@
-Represent Pu= [eu,1, eu,2,···, eu,i],Pv= [ev,1, ev,2,···, ev,j]. Assume to the contrary that ∃t⩽i, l⩽jsatisfying eu,t=ev,l. Without loss of generalization, we suppose that i−t⩽j−l. As all edges in PuandPvare labeled 0, we must have eu,t+1=ev,l+1,···, eu,i=ev,l+(i−t).

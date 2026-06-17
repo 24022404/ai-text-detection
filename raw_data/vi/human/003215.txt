@@ -1,1 +1,0 @@
-Trong chương 4, em sẽ đi sâu vào thiết kế kiến trúc mở của hệ thống CMS mà em đã thực hiện trong đồ án này.

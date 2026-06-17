@@ -1,1 +1,0 @@
-Đã thanh toán trong kỳ: Số tiền mà khách hàng đã thanh toán từ thờ gan bắt đầu đến thờ gần kết thúc.

@@ -1,1 +1,0 @@
-Đang chờ duyệt: Những khoản tền mà người dùng đã thực hiện thao tác thanh toán nhưng quản trị viên chưa xác nhận sẽ được lệt kê vào điây. Vì người dùng có thể thanh toán nhều khoản tền trong một lần thanh toán, thứ tự của bảng sẽ được sắp xếp theo mã thanh toán để tiện theo dõ.

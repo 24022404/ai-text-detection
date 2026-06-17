@@ -1,7 +1,0 @@
-Accurately predicting potential crowd flow is critical for urban planning, traffic management, and public safety. However, traditional forecasting models often struggle to capture the complex dependencies between various influencing factors, such as spatial-temporal dynamics, environmental conditions, and human mobility patterns. In this work, we propose a novel heterogeneous relational modeling framework that integrates multiple modes of data to enhance crowd flow prediction.
-
-Our approach constructs a multi-modal graph representation that encodes diverse relationships, including spatial proximity, temporal correlations, and external contextual influences. We employ a graph neural network (GNN) with attention mechanisms to adaptively learn the importance of different relations, allowing the model to capture both local and global dependencies. Additionally, we introduce a dynamic feature fusion strategy to integrate heterogeneous information, improving the model’s adaptability to varying urban conditions.
-
-Extensive experiments on real-world crowd mobility datasets demonstrate that our method significantly outperforms existing state-of-the-art approaches in both short-term and long-term prediction tasks. The results highlight the effectiveness of incorporating heterogeneous relations for more accurate and robust crowd flow forecasting.
-
-Keywords: Crowd Flow Prediction, Heterogeneous Graphs, Multi-Modal Learning, Spatial-Temporal Modeling, Graph Neural Networks, Urban Computing.

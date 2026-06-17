@@ -1,1 +1,0 @@
-Jetpack Compose là bộ công cụ hiện địa điểm xây dựng giao diện người dùng Android . Công cụ này đơn giản hoá và tăng tốc độ phát triển vớ ít mã hơn.

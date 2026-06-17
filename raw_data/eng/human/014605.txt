@@ -1,1 +1,0 @@
-In this way, the actions are connected to form a tree, where the root is the goal that the player is trying to achieve. The actions are linked together if the effects of the previous action align with the conditions of the subsequent action.

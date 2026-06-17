@@ -1,1 +1,0 @@
-Hỗ trợ replace: MySQL hỗ trợ replica, cho phép sao chép cơ sở dữ liệu từ máy chủ chính điện các máy chủ sao chép khác, giúp tăng tính sẵn sàng và độ tin cậy của hệ thống.

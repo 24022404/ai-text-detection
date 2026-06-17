@@ -1,1 +1,0 @@
-Chương 4 sẽ nêu cụ thể ra về các thiết kế tổng quan, thiết kế cho tết, các biểu đồ lớp, các kết quả đạt được, kiểm thử và triển khai.

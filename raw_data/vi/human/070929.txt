@@ -1,1 +1,0 @@
-Thờ gan phả hồ của ứng dụng từ kh thực hiện các chức năng xử lý ảnh và xem dòng hình ảnh đã qua xử lý không quá một gây.

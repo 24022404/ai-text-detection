@@ -1,1 +1,0 @@
-In 2014, V. Buterin and G. Wood introduced Ethereum as a next-generation platform designed for smart contracts and decentralized applications, as outlined in their official whitepaper.

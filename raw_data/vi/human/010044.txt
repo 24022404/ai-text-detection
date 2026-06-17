@@ -1,1 +1,0 @@
-Ưu điểm: Gúp code rành mạch và tường mnh hơn, một lớp có thể sử dụng bở một lớp cấp cao hơn mà không làm thay điổ bản chất lớp đió. Do mỗ lớp điảm nhận một va trò khác nhau, các lớp sẽ không bị phụ thuộc vào nhau.

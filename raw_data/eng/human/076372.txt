@@ -1,1 +1,0 @@
-Libraries and Tools The table 4.7 lists all the tools and libraries I used in the process of building the application.

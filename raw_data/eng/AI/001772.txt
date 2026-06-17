@@ -1,1 +1,0 @@
-Algorithms of this kind are known as Unsupervised learning since, unlike Supervised learning, they do not have the exact answers for each input.

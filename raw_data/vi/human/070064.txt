@@ -1,1 +1,0 @@
-Bảo mật: CryptoJS sử dụng các thuật toán mã hóa và băm phổ biến và được xem là an toàn để sử dụng trong các ứng dụng bảo mật.

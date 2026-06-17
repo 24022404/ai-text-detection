@@ -1,1 +1,0 @@
-In the standard FL scenario, participating nodes engage in localized training with consistent configurations, including the optimizer and learning rate. At each model w(t−1)from the previous communication round is transmitted to the selected nodes. Subsequently, each participating node iexecutes stochastic gradient descent (SGD) training to minimize its local objective Fi(w):

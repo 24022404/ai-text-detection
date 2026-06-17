@@ -1,1 +1,0 @@
-Đơn giản : Phân tích cảm xúc (thái độ) trong văn bản thành 2 lớp: tích cực(positive) và tiêu cực (negative).

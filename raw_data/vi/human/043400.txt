@@ -1,1 +1,0 @@
-Mã use case Tên use case UC01 Thêm khóa học UC02 Lọc khóa học UC03 Học khóa học UC04 Làm bài kiểm tra khóa học UC05 Thêm đánh giá khóa học Bảng 2.2: Danh sách các use case 2.3.1 Đặc tả use case Thêm khóa học Mã use case UC01 Tên use case Thêm khóa học Tên tác nhân Người dùng hoặc quản trị viên Mô tả Người dùng/quản trị viên thêm khóa học vào danh sách khóa học của tô.

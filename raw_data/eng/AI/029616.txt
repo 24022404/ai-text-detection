@@ -1,1 +1,0 @@
-The analysis determines whether the app has the Firebase Remote Config feature enabled by checking the Firebase configuration details obtained via the API.

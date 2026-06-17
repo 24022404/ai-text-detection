@@ -1,1 +1,0 @@
-Go server: Nhận dữ liệu từ controller, sử dụng dữ liệu từ cổng và modem (nếu cần thiết), chịu trách nhiệm truy vấn và xử lý đối với cơ sở dữ liệu.

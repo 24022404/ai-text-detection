@@ -1,1 +1,0 @@
-Entity Model Mô tả : là lớp chứa toàn bộ dữ liệu của nhân vật hoặc quá kế thừa từ interface Entity Data.

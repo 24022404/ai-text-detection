@@ -1,1 +1,0 @@
-G. A. Miller, “Wordnet: A lexical database for English,” Communications of the ACM ,journal 38,number 11,pages 39–41, 1995. R. Navel and. P. Ponzetto, “Babelnet: Building a very large multilingual semantic network,” Proceedings of the 48th annual meeting of the association for computational linguistics 2010, pages 216–225.

@@ -1,1 +1,0 @@
-Text=Ed∼PD(Dc) X t∈dX  (3.1) Hình 3.5: Ví dụ nhúng cục bộ các thuật ngữ. Nguồn  Trong đó C(t) là viết tắt của tập hợp các thuật ngữ trong cửa sổ ngữ cảnh củaNETWORK thuật ngữ t;PD(Dc)được tham số hóa bở trọng số tài liệu c,trong nút phân loại hiện tại. Do đó hàm mất mát ở đây đã có sự thay đổi so với hàm trong thuật toán Taxogen  và thuật toán nhúng cục bộ ban đầu .

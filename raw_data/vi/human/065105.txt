@@ -1,1 +1,0 @@
-Authentcaton (Xác thực). Frebase cung cấp một cách an toàn và dễ dàng để người dùng đăng nhập vào ứng dụng của họ. Các nhà phát trển có thể sử dụng Xác thực Frebase điể hỗ trợ đăng nhập emal và mật khẩu, Đăng nhập bằng Google, Đăng nhập bằng Facebook, v.v.

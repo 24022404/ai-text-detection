@@ -1,1 +1,0 @@
-Gó utls: chứa các hàm xử lý chung như xử lý ngày tháng, chuỗi, số liệu, v.v.4.1.3 Thiết kế cho tết có Hình 4.4: Thiết kế cho tết có chức năng Tạo giao dịch trả nợ Hình ảnh trình bày thiết kế cho tết các gói tham gia vào chức năng, bao gồm:

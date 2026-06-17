@@ -1,1 +1,0 @@
-Ngoài các chức năng về mặt kỹ thuật, Extjs còn có một cộng đồng hỗ trợ và phát triển đủ lớn, khiến nó trở thành một lựa chọn phổ biến điểm xây dựng các ứng dụng web hiện địa. Cho dù bạn đang xây dựng ứng dụng web đơn giản, ứng dụng trang đơn phức tạp, Extjs điều cung cấp các công cụ và khả năng bạn cần để xây dựng ứng dụng web nhanh chóng, có thể mở rộng và chất lượng cao.

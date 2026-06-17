@@ -1,1 +1,0 @@
-Chương 4 sẽ là phần phân tích thiết kế hệ thống điểm thực hiện đánh giá sâu và xác định các yêu cầu cụ thể của hệ thống.

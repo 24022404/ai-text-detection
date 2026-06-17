@@ -1,1 +1,0 @@
-Tính bảo mật: MQTT có thể dễ dàng mã hóa bản tin và tương tác tốt với các giao thức bảo mật hiện địa Trong các lựa chọn giao thức truyền thông, em nhận thấy MQTT thích hợp nhất do tính chất mô hình Publish/Subscribe phù hợp với việc xây dựng ứng dụng hướng sự kiện như điều tà này nó riêng và các dự án IoT nó chung.

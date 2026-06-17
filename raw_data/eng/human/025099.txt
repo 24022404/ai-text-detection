@@ -1,1 +1,0 @@
-config (str): The name of the network security configuration file to analyze. If the file name is not provided, the function attempts to find a default network security configuration file.

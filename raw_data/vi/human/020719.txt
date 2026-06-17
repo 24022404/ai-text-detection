@@ -1,1 +1,0 @@
-Virtualized là một kỹ thuật mà chỉ hiển thị những gì có thể nhìn thấy được (thường trong một màn hình). Được sử dụng trong một danh sách có nhiều phần tử mà có thể thao tác scroll trong danh sách đó và chỉ hiển thị những phần tử được nhìn thấy trong cửa sổ scrollable.

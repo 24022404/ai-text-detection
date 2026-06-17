@@ -1,1 +1,0 @@
-Tác nhân Người dùng Bền điều kiện Mọ thành viên trong cuộc hội thoại điều có quyền thêm thành viên, chỉ có người tạo cuộc hội thoại mớ có quyền loại bỏ thành viên.

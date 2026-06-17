@@ -1,1 +1,0 @@
-Price Prediction Using LSTM Model: The application includes the capability to predict cryptocurrency prices using an LSTM model. Users can select a specific cryptocurrency for prediction and view the prediction results.

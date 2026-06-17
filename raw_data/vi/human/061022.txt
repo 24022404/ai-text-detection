@@ -1,1 +1,0 @@
-EffcentNet a, Gớ thiệu Đối với các mô hình mạng nơron tích chập truyền thống, cách cải thiện hiệu suất hầu hết chỉ là tăng độ sâu. Tuy nhiên, việc tăng chiều sâu của mô hình cũng đò hỏ tài nguyên và sức mạnh tính toán lớn hơn. Hơn nữa, sau một độ sâu nhất định, sẽ có thể đạt tới trạng thái bão hòa khến mô hình không còn cải thiện nữa.

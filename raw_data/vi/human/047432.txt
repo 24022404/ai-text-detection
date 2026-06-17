@@ -1,1 +1,0 @@
-Nhược điểm mô hình MVC Bên cạnh những ưu điểm MVC mang lại thì nó cũng có một số nhược điểm cần khắc phục.

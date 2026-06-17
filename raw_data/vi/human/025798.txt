@@ -1,1 +1,0 @@
-Về phần Model : em đã xây dựng phần model bên phía server để đại diện cho các bảng trong cơ sở dữ liệu, có nhiệm vụ lưu trữ vào cơ sở dữ liệu và lấy ra dữ liệu từ cơ sở dữ liệu thông qua một ORM Sequelize. Trong các model sẽ là logic của các bảng dữ liệu, mối quan hệ giữa các bảng và kiểu dữ liệu của từng trường trong bảng.

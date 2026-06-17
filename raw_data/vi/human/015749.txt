@@ -1,1 +1,0 @@
-Các thẻ HTML được sử dụng điểm đánh dấu nội dung trên trang web và các thuộc tính sử dụng điểm cung cấp thông tin bổ sung về cách định hình nội dung. Ví dụ, thẻ <h1> được sử dụng để định dạng tiêu đề lớn trên trang, thẻ <p> được sử dụng để định dạng đoạn văn bản, và thuộc tính src được sử dụng điểm chỉ định tệp ảnh hoặc video được hiển thị trên trang.

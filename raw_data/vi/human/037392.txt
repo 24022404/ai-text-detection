@@ -1,1 +1,0 @@
-Luồng sự kiện phát sinh Không có 2.3.6 Đặc tả use case Tạo đơn hàng Khi có khách hàng đến mua hàng, nhân viên bán hàng sẽ quét mã sản phẩm và chọn khách hàng để tạo đơn hàng. Khách hàng có thể thanh toán bằng tiền mặt, quét mã QR để chuyển khoản hoặc yêu cầu nợ. Sau khi đơn hàng được tạo thành công, kho hàng sẽ được cập nhật.

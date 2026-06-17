@@ -1,1 +1,0 @@
-Các lớp controller là kết tập của các lớp service. Trong lớp Manage Job Controller, các lớp servce sẽ đóng vai trò xử lý logic các nghiệp vụ chính.

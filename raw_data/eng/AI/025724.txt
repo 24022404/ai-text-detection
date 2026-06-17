@@ -1,9 +1,0 @@
-Objective: Effective image segmentation often relies on multi-level thresholding of grayscale histograms, yet existing methods can struggle with high computational cost and sensitivity to noise. This paper introduces a novel multi-threshold segmentation technique based on histogram sampling to address these limitations.
-
-Methods: Our approach begins by constructing a smoothed intensity histogram from the input image and applying stratified sampling to identify prominent histogram regions. Candidate thresholds are extracted from sampled points corresponding to local maxima and valley regions. An efficient optimization routine then selects the optimal set of thresholds that maximize inter-class variance while minimizing intra-class variance. Finally, morphological post-processing refines region boundaries and suppresses spurious artifacts.
-
-Results: Experiments on standard benchmarks, including natural scene and medical imagery, demonstrate that the proposed method achieves higher segmentation accuracy and lower computational complexity compared to classical multi-threshold algorithms such as Otsu’s and Kapur’s methods. Quantitatively, our technique improves average Dice coefficient by 8–12% and reduces processing time by up to 40% on 512×512 images. Qualitative assessments confirm improved edge preservation and noise robustness.
-
-Conclusion: The histogram sampling–based multi-thresholding framework offers a balanced trade-off between segmentation quality and efficiency. Its scalability and robustness to diverse image types make it suitable for real-time computer vision tasks, including medical image analysis, remote sensing, and industrial inspection.
-
-Keywords: image segmentation; multi-thresholding; histogram sampling; optimization; morphological refinement.

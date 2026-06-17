@@ -1,1 +1,0 @@
-Views play a very important role in creating a beautiful and easy -to-use user experience. It is responsible for designing the user interface, including data display, buttons and images. Views also provide user feedback and perform functions such as user authentication and error handling .

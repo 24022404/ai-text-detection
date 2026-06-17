@@ -1,1 +1,0 @@
-() Tên use case: Xem thông tin sản phẩm () Các dòng sự kiện chính: trên giao diện màn hình chính, khách hàng chọn vào hình ảnh đại diện cho sản phẩm mình muốn xem thông tin. Sau khi chọn khách hàng sẽ được chuyển đến trang thông tin sản phẩm bao gồm mô tả, giá bán, số lượng sản phẩm cũng như có thể thực hiện các use case "Đặt mua", "Thêm sản phẩm vào giỏ hàng" tạ đây.

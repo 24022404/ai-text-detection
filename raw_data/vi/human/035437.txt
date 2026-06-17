@@ -1,1 +1,0 @@
-Các thư viện khác Apollo Server Apollo Server là một triển khai máy chủ GraphQL cho JavaScrpt, điặc bệt là cho Node.js.

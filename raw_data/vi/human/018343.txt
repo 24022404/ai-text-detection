@@ -1,1 +1,0 @@
-Ap: Thực hiện các lờ rọ ap tớ server, yêu cầu xử lý và truy vấn dữ liệu của client. đến server. Nhận phản hồi từ server và xử lý.

@@ -1,1 +1,0 @@
-My item-item based collaborative filtering algorithm has the number of neighbors varying in values from 1 to 5. In the user-user algorithm, the number of neighbors varies in 1, 5, 10, 50, 100.

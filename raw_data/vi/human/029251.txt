@@ -1,1 +1,0 @@
-Do hệ thống đang trong quá trình xây dựng và phát triển nên rất cần thiết kế điển dễ dàng chỉnh sửa và nâng cấp theo yêu cầu từ phía người dùng.

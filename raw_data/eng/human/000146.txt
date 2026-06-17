@@ -1,1 +1,0 @@
-Solution When storing goods in the logistics warehouse, goods information needs to be stored correctly. The storage of goods is very important, that information will be used to perform other tasks such as shipping, inventory, maintenance, returns, etc.

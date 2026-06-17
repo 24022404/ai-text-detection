@@ -1,1 +1,0 @@
-Whenever distributors make an order, the supplier’s reserve quantity will be subs tract. The reserved amount is to guarantee enough stock inventory for other orders.

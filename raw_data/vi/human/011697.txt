@@ -1,1 +1,0 @@
-Web ngày nay không thể lưu gữ lịch sử của nhân loạ: Tuổ thọ trung bình của một trang web là 100 ngày trước khi nó bến mất vĩnh vễn. Phương tiện của thờ điạ chúng ta không nên mong manh như thế này. IPFS giúp việc thiết lập các mạng lnh hoạt để phản chếu dữ liệu trở nên điơn gản và nhờ có điịa chỉ nộ dung, các tệp được lưu trữ bằng IPFS sẽ tự động được tạo phên bản.

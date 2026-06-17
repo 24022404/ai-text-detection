@@ -1,1 +1,0 @@
-Quản trị viên hoặc cán sự lớp có thể nhập vào ngày nghỉ hoạt động cho tình nguyện viên thông qua màn hình "cho tết tình nguyện viên".

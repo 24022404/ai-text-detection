@@ -1,1 +1,0 @@
-Font Awesome Trước đây để tạo các ICON đó ta phải thực hiện cắt chúng ra từ file PSD và dùng CSS để gán background hoặc dùng thẻ img để đưa ICON đói vào.

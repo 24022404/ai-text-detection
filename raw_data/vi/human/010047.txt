@@ -1,1 +1,0 @@
-Phương pháp tìm điường đi tố ưu hóa khoảng cách. Các phương pháp theo hướng này sẽ cố gắng tìm điường đi từ nguồn Sđiến điểm điích Tsao cho khoảng cách là ngắn nhất.

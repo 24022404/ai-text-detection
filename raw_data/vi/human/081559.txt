@@ -1,1 +1,0 @@
-Mục đích Công cụ Địa chỉ URL IDE lập trình Vsual Studo Code code.vsualstudo.com Mô trường Javascrpt Nodejs 16.17.1 nodejs.org/en/blog/release Cơ sở dữ lệu MongoDB Cloud Servces account.mongodb.com Chatbot Dalogflow Essentals dalogflow.cloud.google.com www.kommuncate.o Bảng 4.6: Danh sách thư viện và công cụ sử dụng Các thông tin cụ thể bao gồm:

@@ -1,1 +1,0 @@
-Dữ lệu điầu vào là những hành vi của khách hàng được lấy trên Kafka, sau đó được chương trình Spark Streaming đọc và xử lý.

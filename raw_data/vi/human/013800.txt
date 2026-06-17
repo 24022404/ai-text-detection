@@ -1,1 +1,0 @@
-Trong Magento, Python có thể được sử dụng cho các mục đích như phân tích dữ liệu khách hàng để tạo ra gợi ý sản phẩm dựa trên hành vi mua hàng trước đó, tối ưu hóa quy trình bán hàng, và cải thiện trải nghiệm người dùng.

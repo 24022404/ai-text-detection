@@ -1,1 +1,0 @@
-Đơn giản và dễ sử dụng: JWT được thiết kế điểm đơn giản và dễ sử dụng. Việc tạo và xác thực token JWT có thể được thực hiện vớ rất ít mã lệnh, giúp cho các lập trình viên tết kệ thờ gắn và công sức trong việc triển khai các tính năng xác thực và phân quyền truy cập trong ứng dụng của mình.

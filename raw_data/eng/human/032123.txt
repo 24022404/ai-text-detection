@@ -1,1 +1,0 @@
-Ecosystem and Community: GitHub Actions benefits from the active GitHub community, which shares and contributes to the available actions and workflows.

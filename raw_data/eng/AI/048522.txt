@@ -1,9 +1,0 @@
-This paper addresses the vulnerability of Spatiotemporal Graph Neural Networks (STGNNs) to adversarial attacks, specifically focusing on the development of a novel attack method designed to compromise the spatial component of these models. While STGNNs have shown promise in a variety of applications, including traffic prediction and social network analysis, their robustness against spatially targeted adversarial manipulations remains a concern.
-
-Methods/Approach: We introduce a Spatially Focused Attack (SFA) methodology that strategically perturbs spatial features within graph-based frameworks. Our approach leverages an optimization-based strategy to identify critical nodes and edges that, when altered, significantly degrade the model's performance. This adversarial attack is carefully crafted to be minimally perceptible while maximizing its impact on the STGNN's predictive capabilities.
-
-Results/Findings: Experiments conducted on several benchmark datasets demonstrate the efficacy of our proposed attack model. The SFA yields a substantial decline in prediction accuracy and overall network performance compared to unperturbed models. Furthermore, it outperforms existing adversarial attack techniques in terms of subtlety and effectiveness, highlighting the susceptibility of STGNNs to spatial feature perturbations.
-
-Conclusion/Implications: Our findings underscore the need for enhanced security measures and robust training techniques to fortify STGNNs against adversarial threats. By revealing the weaknesses of current models, this research contributes to the development of more resilient graph-based neural architectures. These insights are critical for applications in real-world systems where graph data integrity is imperative.
-
-Keywords: Spatiotemporal Graph Neural Networks, adversarial attack, spatial feature perturbation, model robustness, security measures.

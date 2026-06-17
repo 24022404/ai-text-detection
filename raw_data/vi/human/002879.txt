@@ -1,1 +1,0 @@
-Các phép toán liên quan đến địa số tuyến tính. NumPy tích hợp sẵn các hàm cho đại số tuyến tính và tạo số ngẫu nhiên.

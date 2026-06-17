@@ -1,1 +1,0 @@
-Tìm hiểu, nghiên cứu cách gửi và nhận email trong Laravel để giải quyết bài toán đặt ra (gửi email thông báo cho người dùng và lấy thông tin phản hồi của khách hàng). Qua quá trình tìm hiểu, em quyết định sử dụng Laravel Mal và Laravel Imap điểm xử lý bài toán.

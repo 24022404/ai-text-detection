@@ -1,1 +1,0 @@
-Step 3: Wait for another player joining.When there are two players in a room, a loading popup appears, and the players will be taken to the pre-designed Co-op scene.The scene corresponding to the co-op mode is loaded accurately.

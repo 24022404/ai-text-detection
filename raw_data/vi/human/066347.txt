@@ -1,1 +1,0 @@
-Công nghệ tiếp theo là Javascript. Javascript là một ngôn ngữ lập trình phía máy khách, được sử dụng để tạo các ứng dụng web động và tương tác trực tiếp với người dùng. Nó cung cấp khả năng điều khiển và thay đổi nội dung của trang web mà không cần phải trả lại trăng.

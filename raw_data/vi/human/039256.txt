@@ -1,1 +1,0 @@
-Ở Chương 4, thiết kế hệ thống, em tiến hành việc tập trung thiết kế hệ thống đánh giá hệ thống. Dựa trên những bà toán điã điặt ra ở trên, tiến hành thết kế hệ thống đảm bảo rằng hệ thống được xây dựng một cách chuẩn mực, hiệu quả và đáp ứng đầy đủ yêu cầu của dự án.

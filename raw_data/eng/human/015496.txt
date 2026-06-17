@@ -1,1 +1,0 @@
-ii) A CNN shown in Figure 5.2 with two 5x5 convolutional layers (the first with 32 channels, the second with 64, each followed with 2x2 max pooling), a fully connected layer with 512 units and ReLu activation, and a final softmax output layer.

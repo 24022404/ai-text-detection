@@ -1,1 +1,0 @@
-Anti-DDOS policies: News sites are usually developed and by experienced de velopers and operated on reliable cloud platforms, so they should be capable to detect abnormal requests. In fact, my crawlers were blocked a few times by almost all of the sites before applied a more specific approach.

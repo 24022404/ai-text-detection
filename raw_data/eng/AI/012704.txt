@@ -1,1 +1,0 @@
-The ViewModel plays a key role in the MVVM pattern by serving as a bridge between the Model and the View. It contains the presentation logic, exposes the Model’s data and behaviors to the View using data binding, manages user interactions, and updates the Model as needed, ensuring a clear separation of concerns.

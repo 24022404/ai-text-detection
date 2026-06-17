@@ -1,1 +1,0 @@
-Xây dựng Crawler Service để đồng bộ dữ liệu onchange onchange, hỗ trợ giảm thời gian truy xuất dữ liệu, tăng trải nghiệm người dùng. Đồng thời, đảm bảo sao lưu dữ liệu, tránh trường hợp mất mát dữ liệu.

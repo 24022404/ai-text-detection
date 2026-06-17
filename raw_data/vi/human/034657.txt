@@ -1,1 +1,0 @@
-Neck: Ở phần giữa Backbone và Head, thường có thêm một phần Neck. Neck thường được dùng để làm giàu thông tin bằng cách kết hợp thông tin giữa quá trình bottom up và quá trình topdown (do có một số thông tin quá nhỏ khi đi qua quá trình bottomup bị mất mát nên quá trình topdown không tái tạo lại được).

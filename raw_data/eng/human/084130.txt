@@ -1,1 +1,0 @@
-API keys and tokens: Typically identified by certain prefixes or lengths that are unique to the API provider (e.g., AIzaSy... for Google API keys).

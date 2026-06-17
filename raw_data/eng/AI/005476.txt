@@ -1,9 +1,0 @@
-The aim of this study is to address the prevalent challenge of estimation bias in Q-learning, a fundamental algorithm in reinforcement learning (RL). Estimation bias can lead to suboptimal policy learning, thereby undermining the effectiveness of RL applications. 
-
-Methods/Approach: We introduce Maxmin Q-learning, a novel adaptation of the Q-learning algorithm. This method integrates a maxmin strategy to systematically control and mitigate the estimation bias inherent in traditional Q-learning. The approach involves leveraging a more balanced estimation process that considers multiple action evaluations to provide a more accurate approximation of the value function.
-
-Results/Findings: Our empirical evaluations demonstrate that Maxmin Q-learning significantly reduces estimation bias compared to standard Q-learning. Experiments conducted across diverse RL environments reveal that the proposed method not only enhances learning efficiency but also results in improved policy performance. Comparative analysis shows that Maxmin Q-learning outperforms existing bias-correcting techniques in terms of convergence speed and robustness.
-
-Conclusion/Implications: This research contributes a robust Q-learning variation that effectively controls estimation bias without compromising computational efficiency. The findings have important implications for the development of more reliable and efficient RL systems, potentially benefiting complex decision-making tasks in AI applications. Our approach paves the way for more advanced strategies that can further refine Q-learning algorithms and broaden their applicability.
-
-Key Keywords: Q-learning, reinforcement learning, estimation bias, Maxmin Q-learning, policy learning, AI applications.

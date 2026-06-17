@@ -1,1 +1,0 @@
-Quản lý team: Trưởng phòng có quyền thêm các nhóm mớ, chỉnh sửa hoặc xóa các nhóm không cần thiết trong phòng ban của mình.

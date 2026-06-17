@@ -1,1 +1,0 @@
-A (learned) embedding layer allows us to capture the textual data in a way that machines can understand. Like the encoder segment, the embedding is position encoded as well.

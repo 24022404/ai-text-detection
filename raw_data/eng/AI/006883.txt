@@ -1,9 +1,0 @@
-Objective: Video frame interpolation (VFI) aims to synthesize plausible intermediate frames between consecutive inputs, enabling smooth slow-motion and frame-rate upconversion in video processing. Existing deep learning methods often trade off between interpolation quality and inference speed, limiting real-time applications on consumer hardware.
-
-Methods: We propose RIFE (Real-time Intermediate Flow Estimation), a lightweight neural network that directly predicts bidirectional intermediate optical flows and visibility maps in one pass. RIFE’s architecture employs a context-aware feature extractor and a flow refinement module optimized for parallel GPU execution. By estimating flows at the target temporal position rather than computing full forward and backward flows, RIFE circumvents expensive cost-volume operations and reduces memory footprint.
-
-Results: On standard VFI benchmarks, RIFE achieves comparable or superior peak signal-to-noise ratio (PSNR) and structural similarity (SSIM) to state-of-the-art methods, while running at over 120 frames per second (FPS) at 540p resolution on a single mid-range GPU. In ablation studies, our intermediate flow strategy demonstrates a 30% reduction in inference time with less than 0.2 dB drop in PSNR compared to two-stage flow methods.
-
-Conclusion: RIFE delivers a novel, efficient paradigm for real-time video frame interpolation, balancing speed and visual fidelity. Its low latency and high throughput make it suitable for live streaming, interactive media, and mobile deployment. 
-
-Keywords: video frame interpolation, optical flow estimation, real-time processing, deep learning, GPU acceleration, RIFE.

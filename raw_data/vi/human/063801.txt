@@ -1,1 +1,0 @@
-Chương 4 trình bày về các thiết kế từ tổng quan điến ch tết ứng dụng nền tảng dữ lệu khách hàng.

@@ -1,1 +1,0 @@
-Em cũng tìm hiểu các ứng dụng tương tự như Naturals và Seek by Naturals, những ứng dụng này đã thành công trong việc cung cấp thông tin chi tiết về loài động vật và thực vật thông qua tính năng nhận diện từ ảnh. Tuy nhiên, các tính năng tương tác và bà học liên quan đến tự nhiên còn có thể cần được cải thiện và mở rộng.

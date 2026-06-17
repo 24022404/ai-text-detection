@@ -1,1 +1,0 @@
-Hệ thống trao đổi phiếu khuyến mãi cho các nhãn hàng dựa trên công nghệ Blockchan tuy điã có thể thực hiện các chức năng cơ bản nhưng vẫn còn có thể cải thiện, Sau đây là một số phương hướng để thực hiện các cải thiện này.

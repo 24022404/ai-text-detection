@@ -1,1 +1,0 @@
-Đặc tả use case Manage warehouses Tên Use case: Manage warehouses Tác nhân: Quản trị vện Tiền điều kiện: Cần phải đăng nhập vào hệ thống Luồng sự kiện: Use case này bắt đầu khi quản trị viên chọn phần quản lý thông tin kho hàng. Hoặc quản trị vện thực hiện các thao tác xuất nhập hàng, kiểm kho, chuyển kho.

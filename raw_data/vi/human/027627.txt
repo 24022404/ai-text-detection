@@ -1,1 +1,0 @@
-Và tiêu chuẩn đang dùng phổ biến nhất là RestFul API (REpresentational State Transfer). Và em lựa chọn java spring boot là framework dùng để tạo ra các restful ap phía server.

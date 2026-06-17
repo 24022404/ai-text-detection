@@ -1,1 +1,0 @@
-The application offers a user-friendly interface that empowers regular users without technical expertise to identify and comprehend potential malware threats. By simplifying complex security information, it enables individuals to stay informed about the risks associated with the apps they use, ensuring a safer digital experience.

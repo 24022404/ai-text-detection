@@ -1,1 +1,0 @@
-Numeric OrderName Required Condition Example 1 Produt_id Yes GC_01 2 Title Yes Gucci Shoes 3 Price No Number 255 4 Description YesThis is product description 5 Category Yes Cucci 6 Stock Yes Number 80 7 Image YesType of image is a jpeg, png, jpg or webp, size of image is lower than 1024*1024(<1mb)2.2.9 View Products Usecase Figure 2.15: View Product UsecaseUse Case Description:

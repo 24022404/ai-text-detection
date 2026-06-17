@@ -1,9 +1,0 @@
-ANTEN MẢNG ĐỘ LỢI CAO VỚI MỨC BÚP PHỤ THẤP CHO HỆ THỐNG ĐỊNH VỊ HIGH GAIN ARRAY
-
-Một nghiên cứu mới đã phát triển một hệ thống anten mảng với độ lợi cao, sử dụng mức búp phụ thấp. Hệ thống này được thiết kế để tăng cường khả năng nhận tín hiệu của các thiết bị định vị, giúp cải thiện độ chính xác và ổn định của hệ thống.
-
-Hệ thống anten mảng mới sử dụng công nghệ tiên tiến để giảm thiểu mức búp phụ, đồng thời tăng cường độ lợi của anten. Điều này cho phép hệ thống nhận tín hiệu mạnh mẽ hơn, ngay cả trong điều kiện môi trường phức tạp.
-
-Nghiên cứu cho thấy hệ thống anten mảng mới có thể đạt được độ lợi cao hơn 10 dB so với các hệ thống anten mảng truyền thống. Điều này có nghĩa là hệ thống có thể nhận tín hiệu mạnh mẽ hơn, giúp cải thiện độ chính xác và ổn định của hệ thống định vị.
-
-Hệ thống anten mảng mới cũng có thể được ứng dụng trong các lĩnh vực khác như truyền thông không dây, giám sát và theo dõi. Với khả năng nhận tín hiệu mạnh mẽ và độ lợi cao, hệ thống này có thể giúp cải thiện hiệu suất và độ chính xác của các hệ thống này.

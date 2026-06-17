@@ -1,9 +1,0 @@
-Học sinh lớp 10 cần nắm vững kiến thức về hình học, đặc biệt là các hệ thức lượng trong tam giác. Đây là một phần quan trọng trong chương trình toán học, giúp học sinh hiểu rõ về mối quan hệ giữa các cạnh và góc trong tam giác.
-
-Hệ thức lượng trong tam giác bao gồm ba công thức cơ bản: 
-
-- Công thức Pythagorean (a² + b² = c²) để tính độ dài cạnh huyền của tam giác vuông.
-- Công thức lượng giác (sin, cos, tan) để tính góc và độ dài cạnh trong tam giác bất kỳ.
-- Công thức Heron để tính diện tích của tam giác.
-
-Học sinh cần nắm vững các công thức này để giải quyết các bài toán liên quan đến tam giác, từ đó mở rộng kiến thức về hình học và toán học.

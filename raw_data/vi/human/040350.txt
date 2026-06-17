@@ -1,1 +1,0 @@
-Đăng ký User sẽ có thể đăng ký tài khoản trên ứng dụng. Sau khi đăng ký xong thì user có thể dùng tài khoản địa điểm đăng nhập vào ứng dụng.

@@ -1,1 +1,0 @@
-Duyệt yêu cầu Quản trị viên sau khi xem yêu cầu sẽ đưa ra quyết định xác nhận hoặc từ chối yêu cầu.

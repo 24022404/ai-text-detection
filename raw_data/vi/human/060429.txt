@@ -1,1 +1,0 @@
-Một bài toán phân loại kh các nhãn của bộ dữ liệu đầu vào có thể được chia vào một số hữu hạn nhóm. Ví dụ một hệ thống xác định động vật là chó hay mèo hay nhận dạng hình vết tay có phải là số hay không. Trong khi đó bài toán hồi quy là khi các nhãn không được cha vào nhóm xác định nào đó mà là một giá trị cụ thể.

@@ -1,1 +1,0 @@
-Importance Sampling Để cải thiện vấn đề sử dụng dữ liệu không hiệu quả, importance sampling  cho phép ta tính toán lượng điểm thưởng kỳ vọng bằng một policy và sử dụng nó để học cho một policy khác.

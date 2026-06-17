@@ -1,5 +1,0 @@
-Khung thép là một trong những cấu trúc quan trọng trong xây dựng, được sử dụng rộng rãi trong các công trình dân dụng và công nghiệp. Tuy nhiên, tính toán và thiết kế khung thép đòi hỏi sự chính xác và an toàn để đảm bảo sự ổn định và bền vững của công trình.
-
-Nghiên cứu tính toán khung thép có liên quan đến việc ứng dụng mô hình Kishi-Chen, một phương pháp tính toán được phát triển để mô tả và phân tích hành vi của khung thép trong các điều kiện khác nhau. Mô hình này dựa trên nguyên tắc của cơ học vật liệu và được sử dụng để tính toán độ bền, độ ổn định và độ dẻo của khung thép.
-
-Nghiên cứu này tập trung vào việc áp dụng mô hình Kishi-Chen để tính toán và phân tích khung thép trong các điều kiện khác nhau, bao gồm cả các điều kiện tải trọng và điều kiện môi trường. Kết quả nghiên cứu này sẽ cung cấp thông tin quan trọng về tính toán và thiết kế khung thép, giúp đảm bảo sự an toàn và bền vững của công trình.

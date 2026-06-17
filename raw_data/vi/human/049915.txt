@@ -1,1 +1,0 @@
-Biểu đồ hoạt động Tạo và phê duyệt đơn từ Khi xảy ra sự cố trong việc chấm công hoặc nhân viên muốn yêu cầu nghỉ phép hoặc tính giờ tăng ca, họ có thể tạo đơn từ điển xử lý. Dưới đây là quy trình Tạo và phê duyệt đơn từ:

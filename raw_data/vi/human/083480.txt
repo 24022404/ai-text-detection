@@ -1,1 +1,0 @@
-//Demographcs.java return df.select(splt(col("dt")," ).getItem(0).as("date"), col("age"), col("gud")) .flter("age != 1") .groupBy("date", "age") .agg(count("gud").as("vew"), countDstnct("gud").as("user")) .collectAsLst(); Phân tích lưu lượng truy cập theo gớ tính Bà toán: Tính số lượng người dùng, lượt xem báo điện tử theo gớ tính.

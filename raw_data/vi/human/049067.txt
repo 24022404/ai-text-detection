@@ -1,1 +1,0 @@
-Vớ hooks, chúng ta sẽ có thể sử dụng state và lifecycles mà không cần dùng tới ES6 Class nữa. Một số hook nổi bật nên tìm hiểu khi bắt đầu làm quen với React:

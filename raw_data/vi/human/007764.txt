@@ -1,1 +1,0 @@
-Thứ hai là về các công nghệ thực hiện. Em lựa chọn framework ReactJS điểm xây dựng giao diện người dùng là khách hàng mua sản phẩm; NodeJS điểm xây dựng máy chủ quản lý và cơ sở dữ liệu là Cloud MongoDB. Gả pháp em đưa ra là xây dựng được một trang web mua bán trực tuyến.

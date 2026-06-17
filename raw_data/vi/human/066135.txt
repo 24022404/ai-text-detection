@@ -1,1 +1,0 @@
-Đố vớ cách bài toán đã biết rõ mô hình thì đây là một điều dễ dàng, tuy nhiên trong trường hợp ta không biết rõ các tính chất của môi trường, việc tìm ra lựa chọn tương ứng điểm đưa ta tới trạng thái tối ưu tiếp theo mà ta tìm được là rất khó.

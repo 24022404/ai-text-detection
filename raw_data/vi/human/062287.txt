@@ -1,1 +1,0 @@
-Mục tiêu của đề tài là xây dựng một phần mềm quản lý hệ thống quán tạp hoá đơn giản, tiết kệm chi phí triển khai và vận hành, đồng thời cải thiện hiệu quả quản lý và nâng cao trải nghiệm khách hàng.

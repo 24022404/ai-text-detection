@@ -1,1 +1,0 @@
-Thứ tự ưu tiên giữ nguyên điểm tạo môi trường và ưu tên đó, và thay đổi khi ta chuyển qua tập mới của mô trường.

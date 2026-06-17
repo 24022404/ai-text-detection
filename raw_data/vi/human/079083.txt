@@ -1,1 +1,0 @@
-Thông tin màn hình Đối với giao diện trên hệ thống, em thiết kế sao cho người dùng dễ dàng sử dụng, bố trí các nút chức năng hợp lý và phối hợp màu sắc thống nhất theo quy tắc như sau:

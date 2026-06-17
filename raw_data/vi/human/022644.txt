@@ -1,1 +1,0 @@
-Tên Kiểu dữ lệu Mô tả Có bắt buộc Có Ràng buộc duser Int Id của người dùng Có Khóa chính subject Varchar(255) Mã môn học Có Khóa chính Bảng 4.5: Bảng dữ lệu User_object Bảng dữ lệu Task Mục đích: Lưu thông tin công việc.

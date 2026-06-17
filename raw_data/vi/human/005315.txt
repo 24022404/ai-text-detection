@@ -1,1 +1,0 @@
-Luồng sự kiện thay thế:Khách hàng kiểm tra lại các bước cài đặt trên webste điã điúng hay.2.3.4 Đặc tả use case Send Email Bản 2.4: Đặc tả use case Send Email Tên Use case: Send Email Tác nhân Customer Mô tả: Khách hàng tiến hành các chiến dịch quảng cáo, marketing thông qua mal .

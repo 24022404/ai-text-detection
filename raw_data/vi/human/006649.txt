@@ -1,1 +1,0 @@
-Hỗ trợ nhều loạ cơ sở dữ lệu, bao gồm MySQL, Oracle, SQL Server, PostgreSQL và SQLte. Hỗ trợ các giao thức web chuẩn, bao gồm REST, SOAP và XMLRPC.

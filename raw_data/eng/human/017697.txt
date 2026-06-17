@@ -1,1 +1,0 @@
-Suspicious Behavior Detection : The app will analyze Android applications for suspicious or harmful behaviors, such as unusual permissions, suspicious API calls, or abnormal network activity. Regular users can see a clear report of any identified risks, which will empower them to make informed decisions about whether to keep or uninstall specific apps.

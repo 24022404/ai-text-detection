@@ -1,1 +1,0 @@
-This thesis is motivated by image classification and sentiment analysis tasks, with the overarching goal of significantly improving the usability of mobile devices.

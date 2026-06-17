@@ -1,1 +1,0 @@
-C. Yao, X. Su, X. Wang, X. Kang, J. Zhang and J. Ren, “Motion direction inconsistency-based fight detection for multiview surveillance videos,” Wireless Communications and Mobile Computing ,jourvol 2021, pages 1–11, may 2021. DOI:10.1155/2021/9965781 .

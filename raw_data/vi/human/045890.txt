@@ -1,1 +1,0 @@
-Thẻ RFID đọc/ghi (Read/Write RFID tags): Là loại thẻ RFID có khả năng đọc và ghi dữ liệu nhiều lần vào bộ nhớ của thẻ. Loại thẻ này được sử dụng rộng rãi trong các ứng dụng quản lý kho hàng, đánh dấu thời gian và quản lý thời gian làm việc của nhân viên.

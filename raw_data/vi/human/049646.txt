@@ -1,1 +1,0 @@
-Engine trò chơi của Unity3D Unity  cung cấp một engine trò chơi và một IDE bao gồm hệ thống tương tác với môi trường (editor), hệ thống vật dụng (asset), hệ thống xây dựng cảnh, hệ thống mạng và một số yếu tố khác. Và vớ những yếu tố trên, tất nhiên Unity 3D có thể được sử dụng để làm nhiều việc, không chỉ bị giới hạn ở việc thiết kế trò chơi.

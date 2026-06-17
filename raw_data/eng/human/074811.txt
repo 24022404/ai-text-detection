@@ -1,1 +1,0 @@
-Change Password : This sub-use case allows users to change their currentpassword to a new one. This is essential for maintaining account security, es pecially if a user suspects that their current password has been compromised.

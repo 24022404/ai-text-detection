@@ -1,1 +1,0 @@
-Executing smart contracts on blockchain networks like Ethereum uses gas, a met ric for the computing effort necessary to complete a transaction. The cost of gas increases with query complexity and with the size of the data being requested. This can make it economically impossible to run complicated queries or query massive datasets.

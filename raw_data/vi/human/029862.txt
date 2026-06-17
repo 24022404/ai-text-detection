@@ -1,1 +1,0 @@
-Bootstrap hỗ trợ thực hiện responsive cho trang , phù hợp với các loại thiết bị như smartphone, tablet, desktop, . . .

@@ -1,1 +1,0 @@
-In addition, MySQL provides security mechanisms, data backup and recovery, and replication options, all of which contribute to the dependability and accessibility of your metadata storage.

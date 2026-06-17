@@ -1,1 +1,0 @@
-Em đã trải nghiệm thử một số những trang web hỗ trợ tìm kiếm việc làm nổ tiếng tại Việt Nam như TopCV  , Vietnamworks  và một số trang web của những công ty hỗ trợ đưa người Việt Nam sang Nhật Bản làm việc như trang CEO (  Từ đó, xác định những yếu tố, tính năng cải tiến cần có trong hệ thống cửa mình.

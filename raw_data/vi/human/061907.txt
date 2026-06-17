@@ -1,1 +1,0 @@
-Luồng sự kiện thay thế:Khách hàng kiểm tra lạ package điã điược cà điặt và chạy ổn định hay chưa ;2.3.6 Đặc tả use case Send SMS Bảng 2.6: Đặc tả use case Send SMS Tên Use case: Send SMS Tác nhân Customer Mô tả: Khách hàng tiến hành các chiến dịch quảng cáo, marketing thông qua SMS .

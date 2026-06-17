@@ -1,1 +1,0 @@
-N. Alshuqayran, N. Ali, and R. Evans, “A systematic mapping study in microservice architecture,” in 2016 IEEE 9th International Conference on Service-Oriented Computing and Applications (SOCA) , IEEE, 2016, pp. 44– 51.

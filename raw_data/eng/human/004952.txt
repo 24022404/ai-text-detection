@@ -1,1 +1,0 @@
-Docker Container: A container is a runtime instance of a Docker image. It is an isolated environment that runs on the host OS kernel, ensuring consistency across different environments. Containers share the host OS kernel but have their separate filesystem, processes, and network.

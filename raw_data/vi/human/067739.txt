@@ -1,1 +1,0 @@
-Tích hợp JavaScript: JavaScript là ngôn ngữ lập trình phía client mạnh mẽ, cho phép tạo ra các hiệu ứng tương tác động, tạo sự sống động cho giao diện người dùng. Việc sử dụng JavaScript giúp cải thiện trải nghiệm người dùng và tạo ra các tính năng tùy chỉnh theo nhu cầu của hệ thống.

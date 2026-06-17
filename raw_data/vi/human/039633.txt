@@ -1,1 +1,0 @@
-Quản lý bộ sưu tập Người dùng có thể tạo bộ sưu tập điểm lưu trữ các bài viết mình mong muốn. Đồng thờ có thể sửa/xóa bộ sưu tập mình đã tạo Quản lý thông tin cá nhân Người dùng có thể xem và cập nhật thông tin tài khoản và thông tin cá nhân của bản thân Các use case với tác nhân quản trị viên hệ thống được mô tả trong Bảng 2.4.

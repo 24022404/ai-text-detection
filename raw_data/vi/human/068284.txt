@@ -1,1 +1,0 @@
-Hệ thống được đóng gói thành 3 phần lần lượt là Trang web quản lý, Trang web giới thiệu và hỗ trợ đăng ký làm tình nguyện viên, API Service.

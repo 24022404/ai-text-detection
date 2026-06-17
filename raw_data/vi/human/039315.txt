@@ -1,1 +1,0 @@
-Ngoài ra, hệ thống còn sử dụng routing điểm nhận request từ người dùng và chuyển đến controller để xử lý; kết hợp với việc sử dụng package Viewer hệ thống sẽ được triển khai theo mô hình dưới đây:

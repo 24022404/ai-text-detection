@@ -1,1 +1,0 @@
-Hiệu suất phụ thuộc vào trình duyệt : Hiệu suất của mã JavaScript có thể khác nhau trên các trình duyệt khác nhau, làm giảm tính nhất quán trong hiển thị và trải nghiệm của người dùng.

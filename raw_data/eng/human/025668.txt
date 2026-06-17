@@ -1,1 +1,0 @@
-2-Dimensional Image CNNs experiments Based on 2-dimensional image features, I have tested CNN model using somehyperparameter suchas image-dim with test values are [64,128,256,1024], learning rate with the range of value is [0.001, 0.0001], batch-size is 256, and epochs is 50.

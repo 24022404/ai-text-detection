@@ -1,5 +1,0 @@
-Nghiên cứu mới đây đã tập trung vào việc cải thiện hiệu suất của các đường dây trên cao 110 kV khi bị tấn công trực tiếp bởi sét. Các nhà khoa học đã sử dụng phương pháp tính toán và mô phỏng để đánh giá hiệu quả của việc sử dụng điện tích trong việc giảm thiểu tác động của sét.
-
-Kết quả cho thấy việc sử dụng điện tích có thể giúp giảm thiểu tác động của sét lên đường dây trên cao, từ đó giảm thiểu thiệt hại và đảm bảo an toàn cho hệ thống điện. Phương pháp này cũng có thể giúp tăng cường hiệu suất của đường dây trên cao và giảm thiểu chi phí bảo trì.
-
-Nghiên cứu này có thể đóng góp vào việc phát triển các công nghệ mới để cải thiện hiệu suất của đường dây trên cao và đảm bảo an toàn cho hệ thống điện.

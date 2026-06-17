@@ -1,1 +1,0 @@
-Mã nguồn của hệ thống được trên kha theo kiến trúc: Micro Frontends trong xây dựng giao diện người dùng và Microservices trong xây dựng thành phần xử lý logc. Đây là các mô hình kiến trúc hiện đại, đang và sẽ được sử dụng rộng rãi, đảm bảo sản phẩm hoạt động ổn định, đáp ứng được các chức năng điều ra, dễ dàng bảo trì và hướng tới mở rộng quy mô trong tương la.

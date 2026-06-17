@@ -1,1 +1,0 @@
-Chapter 4 presents the software architecture of the application, describing into the detailed design of each module, class design, database design, as well as the tools and libraries used during the application development process.

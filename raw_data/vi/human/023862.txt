@@ -1,1 +1,0 @@
-Mô hình MVC được trên koha cho hệ thống với sự tách biệt giữa thành phần View và hai thành phần còn lạ là Model và Controller. Model thực hiện nhiệm vụ vận chuyển dữ lệu cho Controller. Từ đó thành phần Web sẽ gao xếp vớ Controller qua các lời gọi API.

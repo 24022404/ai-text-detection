@@ -1,1 +1,0 @@
-Trước khi đưa vào BERT, thì 15% số từ trong chuỗi được thay thế ngẫu nhiên bở token [MASK], kh đió mô hình sẽ dự đoán từ được thay thế bởi [MASK] vớ context là các từ không bị thay thế bởi [MASK]. Mask ML gồm các bước xử lý sau:

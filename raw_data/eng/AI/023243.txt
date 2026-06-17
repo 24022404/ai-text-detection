@@ -1,9 +1,0 @@
-Objective: Designing optical thin films with tailored spectral properties is critical for applications ranging from solar energy harvesting to anti-reflective coatings. Traditional optimization techniques often struggle with high-dimensional parameter spaces and multiple performance criteria. This paper introduces a reinforcement learning (RL) framework that automates and accelerates the inverse design of multilayer thin-film stacks.
-
-Methods: We formulate the thin-film design problem as a Markov decision process, where each action corresponds to adding or adjusting a layer’s material and thickness. A deep Q-network (DQN) serves as the agent, learning a policy to maximize a reward function defined in terms of spectral reflectance and transmittance targets over a specified wavelength band. To improve sample efficiency, we incorporate experience replay, target-network updates, and a hierarchical exploration strategy that dynamically refines layer granularity.
-
-Results: In simulations for anti-reflective and high-reflectivity coatings across the visible and near-infrared ranges, the RL agent converged to designs matching or exceeding the performance of gradient-based and genetic-algorithm benchmarks. Our method reduced the number of design iterations by up to 60% and achieved spectral deviations below 1.5% from target curves. The learned policy generalized across different material libraries, demonstrating adaptability to new design specifications without retraining from scratch.
-
-Conclusion: The proposed RL-based design approach provides a flexible, efficient, and model-agnostic solution for complex thin-film optimization problems. By automating layer selection and thickness tuning, it opens pathways to rapid prototyping of advanced optical coatings in research and industry.
-
-Keywords: reinforcement learning, optical thin-film design, deep Q-network, inverse design, multilayer coatings.

@@ -1,9 +1,0 @@
-Objective: Learning the structure and parameters of graphical models is a central challenge in probabilistic modeling, often requiring iterative updates and careful balance between exploration and exploitation. This paper presents a novel algorithmic framework that leverages the multiplicative weights update method to efficiently learn both the topology and potential functions of undirected graphical models.  
-
-Methods: We cast model learning as an online convex optimization problem, where node potentials and edge weights are treated as decision variables updated via multiplicative weights. At each iteration, our algorithm computes marginal estimates using belief propagation, measures the loss relative to observed data, and adjusts parameters multiplicatively to minimize cumulative regret. We provide a streamlined implementation that scales linearly with the number of edges per update.  
-
-Results: We establish rigorous convergence guarantees, proving that our method achieves O(ε) additive error in log-likelihood within O((log n)/ε²) samples and O((m/ε²)·log n) runtime for n nodes and m edges. Empirical evaluations on synthetic benchmarks and real-world networks (social, biological, and sensor data) demonstrate that our approach matches or outperforms state-of-the-art maximum‐likelihood and pseudo‐likelihood estimators in both accuracy and computational cost.  
-
-Conclusion: By integrating multiplicative weights into graphical-model learning, our method offers a unified, theoretically grounded, and practical solution for scalable structure and parameter estimation. Potential applications include large-scale network inference, anomaly detection, and combinatorial optimization.  
-
-Keywords: Graphical models, multiplicative weights, structure learning, parameter estimation, probabilistic inference.

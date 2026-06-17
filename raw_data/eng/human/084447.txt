@@ -1,1 +1,0 @@
-D. Sorokin andI. Gurevych, “Context-aware representations for knowledge base relation extraction,” inProceedings of the 2017 Conference on Empirical Methods in Natural Language Processing Copenhagen, Denmark: Association for Computational Linguistics, september 2017, pages 1784–1789. DOI:

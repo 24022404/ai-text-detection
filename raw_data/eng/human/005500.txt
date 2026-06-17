@@ -1,1 +1,0 @@
-Y. Fan, L. X, D. S. T. Hughes, et al., “MuSE: Accounting for tumor heterogeneity using a samplespecfc error model improves sensitivity and spec fcty n mutation calling from sequencing data,” Genome Biology , vol. 17, no. 1, p. 178, Aug. 2016.

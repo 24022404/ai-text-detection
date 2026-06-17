@@ -1,1 +1,0 @@
-Ngoài ra còn sự tham gia của gó Core chứa lớp MonoSingleton, các lớp Gameplay Manager, InterManager, Collision System kế thừa từ lớp này để thể hiện mẫu thiết kế Singleton (trong kho game được thực thi có duy nhất một thực thể của các Tên có Mục đích/nhiệm vụ của gói Core Chứa những lớp hỗ trợ và hệ thống nền tảng cho game như Singleton, Poolng, v.v.

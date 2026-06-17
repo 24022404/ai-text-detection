@@ -1,1 +1,0 @@
-Hậu điều kện Hệ thống điã tạo thành công điơn hàng và cập nhật thông tn hàng hóa trong kho.Luồng sự kện chính 1. Khách hàng đến mua hàng.

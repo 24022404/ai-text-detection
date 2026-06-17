@@ -1,9 +1,0 @@
-Objective: Early and accurate prediction of Humphrey Visual Fields (HVFs) is critical for proactive management of progressive optic neuropathies such as glaucoma. This study presents a novel deep learning framework to forecast future HVF measurements based on prior test sequences.
-
-Methods: We developed a hybrid convolutional–recurrent neural network that ingests a patient’s longitudinal HVF maps together with demographic and clinical covariates (age, intraocular pressure, and treatment history). The model was trained on a de-identified cohort of 8,500 eyes with at least four prior HVF tests each, and evaluated on an independent test set of 2,000 eyes. Performance was compared against standard linear progression models and a purely convolutional baseline, using mean absolute error (MAE) over 54 test locations and global mean deviation (MD) as primary endpoints.
-
-Results: Our approach achieved an average point-wise MAE of 1.45 dB for predictions up to 24 months ahead, representing a 28% improvement over linear regression (2.02 dB) and a 15% improvement over the convolutional baseline (1.71 dB). Forecasted MD values correlated strongly with actual outcomes (Pearson r = 0.87, p < 0.001) and accurately captured both diffuse and focal field loss patterns.
-
-Conclusion: The proposed deep learning model significantly outperforms traditional methods in forecasting future HVFs, offering clinicians a data-driven tool to anticipate visual field decline and personalize treatment plans. Its ability to predict localized progression may enhance early intervention strategies and optimize long-term visual outcomes.
-
-Keywords: Humphrey Visual Field, glaucoma, deep learning, forecasting, convolutional–recurrent neural network, visual field progression.

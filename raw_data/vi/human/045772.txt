@@ -1,1 +1,0 @@
-Thờ gan bắt đầu, kết thúc: Hệ thống sẽ tìm các đơn được tạo hoặc thay đổi trong khoảng thời gian này; người dùng có thể lựa chọn 1 số option có sẵn của hệ thống như: hôm nay, tuần trước, tháng trước, 3 tháng trước, 1 năm trước hoặc tùy chỉnh thờ gan bắt đầu, thờ gần kết thúc vào ô tìm kiếm.

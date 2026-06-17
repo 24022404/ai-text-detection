@@ -1,1 +1,0 @@
-URI (Uniform Resource Identifier) là những chuỗi ký tự tham chiếu đến điểm nhận dạng và định danh tài nguyên.

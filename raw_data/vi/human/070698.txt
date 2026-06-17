@@ -1,1 +1,0 @@
-Nhược điểm Lewre có một số nhược điểm sau đây: giảm hiệu năng của máy chủ do các thay đổi điều được thực hiện thông qua Ajax request; khắc phục các lỗ lâu hơn do sự kết hợp logic giữa cả frontend và backend.

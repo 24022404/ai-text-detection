@@ -1,1 +1,0 @@
-Huấn luyện mô hình Transformer cho mô đun phát hiện lỗ chính tả Sau kh điã chuẩn bị dữ lệu và tiền xử lý dữ liệu xong, em tiến hành huấn luyện mô hình Transformer trên tập dữ liệu đã chuẩn bị. Trước khi huấn luyện em tiến hành cài đặt và sử dụng một số thư viện cho quá trình huấn luyện như:

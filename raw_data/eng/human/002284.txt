@@ -1,1 +1,0 @@
-Medical imaging: OpenCV is used in medical imaging for tasks such as image seg mentation, object recognition, and analysis of medical images.

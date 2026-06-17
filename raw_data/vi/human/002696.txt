@@ -1,1 +1,0 @@
-Một tình nguyện vên sau kh điã điược nhập vào ngày nghỉ hoạt điộng thì tạ màn hình cho tết sẽ hiển thị thông tin ngày nghỉ hoạt động,thông tin người cập nhật ngày nghỉ hoạt động và disable nút thay đổi trạng thái.

@@ -1,9 +1,0 @@
-Objective: Detecting anomalies in high-dimensional data often suffers from limited labeled examples and imbalanced class distributions. This paper investigates whether synthetic data can be used to train robust ensembles of anomaly detectors and improve detection accuracy in real-world scenarios.  
-
-Methods: We propose a two-stage framework. First, a generative model synthesizes diverse anomaly examples by perturbing normal data under domain-informed constraints. Second, multiple lightweight detectors (including one-class SVM, isolation forest, and autoencoder-based models) are trained on a combined dataset of real normal samples and generated anomalies. An ensemble strategy based on weighted voting is then used to aggregate individual decisions. We optimize detector weights via cross-validation on a small hold-out set.  
-
-Results: Experiments on three benchmark datasets (network intrusion, credit-card fraud, and industrial sensor readings) demonstrate that our synthetic-data-driven ensembles outperform single-model baselines by 8–15% in area under the ROC curve and reduce false positive rates by up to 25%. Ablation studies show that incorporating synthetic anomalies increases model diversity and complements real data where anomaly labels are scarce.  
-
-Conclusion: Learning ensembles on synthetic anomalies offers a practical solution for domains with few labeled outliers. The proposed framework enhances detection performance, generalizes to different data types, and can be extended to other unsupervised or semi-supervised anomaly detection tasks.  
-
-Keywords: anomaly detection, synthetic data, ensemble learning, generative models, machine learning.

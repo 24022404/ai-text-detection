@@ -1,1 +1,0 @@
-. Các giao diện hiển thị hiện đang tập trung hoàn toàn vào tính năng, bỏ qua phần trải nghiệm người dùng hơn.

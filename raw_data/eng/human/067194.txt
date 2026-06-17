@@ -1,1 +1,0 @@
-Z. Barzilai, D. Coppersmith, and A. L. Rosenberg, “Exhaustive generation of bit patterns with applications to vlsi self-testing,” IEEE Transactions on Computers , vol. 32, no. 02, pp. 190–194, 1983.

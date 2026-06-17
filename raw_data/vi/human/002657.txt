@@ -1,1 +1,0 @@
-Bảo mật mạnh mẽ: Firebase storage cung cấp các tính năng bảo mật mạnh mẽ, cho phép quản lý quyền truy cập vào tệp, đảm bảo chỉ có người dùng được ủy quyền mới có quyền truy cập vào dữ lệu. Bạn cũng có thể tùy chỉnh cách thức truy cập và sử dụng dữ lệu.

@@ -1,1 +1,0 @@
-Không có máy chủ: Điều này giúp Firebase có khả năng tối ưu hóa về hiệu suất làm việc thông qua mở rộng cụm database.

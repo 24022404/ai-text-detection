@@ -1,9 +1,0 @@
-Objective: We present a novel framework for real-time video enhancement that leverages sparse depth measurements to boost both speed and visual fidelity. By integrating depth cues into the enhancement pipeline, our method addresses common artifacts such as blur, noise, and color distortion, especially in dynamic scenes with rapid motion.  
-
-Methods: We introduce a lightweight depth-guided enhancement network that fuses sparse depth samples and RGB frames through a spatiotemporal fusion module. Sparse depth points—obtained from low-cost sensors or SLAM systems—are projected onto video frames and processed alongside color information in a two-stage architecture. The first stage performs coarse alignment and noise suppression; the second stage refines edges and textures using a residual attention mechanism. Temporal consistency is enforced via a recurrent propagation unit that carries depth-aware features across frames.  
-
-Results: On standard video benchmarks, our approach achieves a 2.3 dB average PSNR gain and a 15% increase in structural similarity (SSIM) over state-of-the-art frame-only methods. Runtime evaluation on a single GPU demonstrates real-time performance at 30 frames per second for 720p video, outperforming comparable deep-learning solutions by up to 40% in throughput.  
-
-Conclusion: By exploiting sparse depth information, our system offers a fast and accurate solution for video enhancement, suitable for applications in mobile AR/VR, robotics vision, and post-production. This work highlights the value of depth-guided processing and opens pathways for further integration of geometric cues in real-time video pipelines.  
-
-Keywords: video enhancement, sparse depth, depth-guided network, real-time processing, spatiotemporal fusion.

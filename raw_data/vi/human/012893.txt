@@ -1,1 +1,0 @@
-Vấn đề Khi xây dựng các chức năng cần sự tương tác với mảng chuỗi khố như đã nêu ở các phần trên, hệ thống NFT Marketplace phả phụ thuộc vào quá trình xử lý các giao dịch trên mạng chuỗi khố. Ngoài các ưu điểm của mạng chuỗi khố  ở đây cụ thể là các mạng chuỗi khố được xây dựng trên kiến trúc EVM thì cũng có không ít các nhược điểm như:

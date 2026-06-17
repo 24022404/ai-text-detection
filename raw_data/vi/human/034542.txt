@@ -1,1 +1,0 @@
-Không cần sử dụng thêm các công cụ build mã nguồn quá phức tạp mà chỉ cần khai báo một mã script.

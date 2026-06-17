@@ -1,1 +1,0 @@
-Thư viện này cung cấp nhiều công cụ và thuật toán tiện ích giúp thực hiện nhiều nhiệm vụ quan trọng liên quan đến thị giác máy tính.

@@ -1,1 +1,0 @@
-ObjectPool: This class serves as a container for objects, where each pool man ages a specific type of object, identified by the name of the gameObject prefab. The inactiveList is a variable that stores objects that are currently in the pool but not in use, while the activeList contains objects that have been spawned in the scenes.

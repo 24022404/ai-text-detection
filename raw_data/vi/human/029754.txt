@@ -1,1 +1,0 @@
-Luồng thu thập (crawl) dữ liệu chứng khoán hoạt động bằng cách lấy dữ liệu từ trang TCBS thông qua thư viện "vnstock" của Python. Dữ liệu sau khi được thu thập sẽ được đưa vào hệ thống hàng điợ phân tán Apache Kafka rồ đi tớ lưu trữ cố định tạ Apache Drud  nền tảng lưu trữ dữ liệu chuỗ thờ gan.

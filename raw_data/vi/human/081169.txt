@@ -1,1 +1,0 @@
-Ưu điểm của ngôn ngữ PHP là dễ học hơn nhiều so với các ngôn ngữ lập trình khác bở nguồn tài liệu tương đối nhiều và ch tết về từng tính năng và ứng dụng.

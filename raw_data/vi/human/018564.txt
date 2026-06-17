@@ -1,1 +1,0 @@
-Tận dụng được ưu điểm của việc Docker hóa hệ thống: Hệ thống được đóng gói và lưu trữ dưới dạng mage sử dụng kho lưu trữ Docker Hub giúp chuyên môn hóa quá trình phát triển và quá trình triển khai.

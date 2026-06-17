@@ -1,1 +1,0 @@
-The 'commitments' field (Vec<Binary>) is essential for verifying that the rows come from the precise source. Table 4.13 details this field together with 'pk_share' (Binary), representing the public key of the final share rebuilt by the executor, using the provided rows and commitments from the share dealer.

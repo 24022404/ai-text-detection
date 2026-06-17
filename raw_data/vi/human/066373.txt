@@ -1,1 +1,0 @@
-Kết luận Sau khi thực hiện xong việc xây dựng module gợi ý sản phẩm trên Magento, tô đã học được ha phương pháp gợi ý sản phẩm cho người dùng đó là sử dụng Collaborative Filtering và sử dụng thuật toán Apriori. Trong Collaborative Filtering cha thành ha loạt chính đó là User Based Collaborative Filtering và Item Based Collaborative Filtering.

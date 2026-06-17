@@ -1,1 +1,0 @@
-Phức tạp hơn : Xếp hạng cảm xúc (thái độ) trong văn bản từ 1 đến 5. Có thể là tích cực (positive), trung bình (neutral), tiêu cực (negative).

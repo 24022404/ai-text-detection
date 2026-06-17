@@ -1,1 +1,0 @@
-Blockchain  là một cơ sở dữ liệu phân cấp lưu trữ thông tin trong các khối(block) được lên kết với nhau bằng mã hóa và mở rộng theo thờ gần điểm tạo thành một chuỗi(chan). Mỗ khố trong Blockchain sẽ được lên kết với khổ trước đó, chứa thông tin về thờ gắn khởi tạo kèm một mã thờ gan và dữ liệu giao dịch.

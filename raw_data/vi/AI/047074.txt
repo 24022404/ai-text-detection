@@ -1,1 +1,0 @@
-Minimum Sum :S∈Σn q là tập hợp các xâu độ dài n mà tổng các ký hiệu trong xâu ít nhất là một hằng số s.

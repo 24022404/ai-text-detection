@@ -1,1 +1,0 @@
-Tền điều kiện Không Luồng sự kiện chính STT Thực hiện bởi Hành động 1 Người dùng Chọn loại tài nguyên cần xem 2 Hệ thống Hiển thị danh sách tài nguyên 3 Người dùng Chọn tài nguyên cần xem 4 Hệ thống Hiển thị thông tin ch tết của tài nguyên Luồng sự kiện thay thế TT Thực hiện bởi Hành động Hậu điều kiện Không Chức năng "Truy vấn SPARQL" Bảng đặc tả:

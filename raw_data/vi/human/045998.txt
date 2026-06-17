@@ -1,1 +1,0 @@
-CryptoJs: nhằm mã hóa dữ liệu trả về, CryptoJs là một công cụ hữu hiệu điểm có thể tạo ra các hàm mã hóa dễ sử dụng theo yêu cầu hơn mà vẫn đảm bảo được về mặt bảo mật bở thư viện này đã cung cấp những thuật toán mã hóa đủ tốt trong thời điểm hiện tại.

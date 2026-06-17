@@ -1,1 +1,0 @@
-Tấn công XSS là một kỹ thuật tấn công web phổ biến, trong đó tn tặc cố gắng chèn mã độc vào trang web hoặc ứng dụng web. Mã độc này được chèn vào các trang web hoặc ứng dụng web thông qua các phương tiện đầu vào của người dùng, chẳng hạn như các biểu mẫu nhập liệu, trình duyệt, cookie, hoặc thậm chí là thông qua URL.

@@ -1,9 +1,0 @@
-Objective: GraphiT addresses the challenge of integrating explicit graph structure into transformer architectures for graph representation learning. While transformers excel at capturing long-range dependencies, they lack built-in mechanisms to leverage the relational information intrinsic to graph data.  
-
-Methods/Approach: We introduce GraphiT, a novel transformer variant that encodes graph topology through an adjacency-aware attention bias and learnable path encodings. GraphiT augments standard self-attention with structural masks derived from node neighborhoods and shortest-path distances, enabling the model to attend preferentially to connected nodes. To preserve efficiency, we adopt sparse attention kernels and hierarchical pooling layers that scale linearly with graph size.  
-
-Results/Findings: We evaluate GraphiT on six benchmark datasets spanning node classification, graph classification, and molecular property prediction. Across all tasks, GraphiT consistently outperforms state-of-the-art baselines—including Graph Convolutional Networks, GraphSAGE, and existing graph transformer models—achieving up to 4.3% relative improvement in accuracy and reducing training time by 20% on large graphs. Ablation studies confirm the complementary benefits of adjacency bias and path encoding, demonstrating robust performance even on graphs with diverse structural patterns.  
-
-Conclusion/Implications: By seamlessly combining structural priors with global attention, GraphiT advances the expressiveness and scalability of graph transformers. Its flexible design facilitates adaptation to domains such as social network analysis, cheminformatics, and recommendation systems, paving the way for more powerful and interpretable graph-based learning models.  
-
-Keywords: GraphiT, graph transformer, structural encoding, attention bias, graph representation learning, sparse attention.

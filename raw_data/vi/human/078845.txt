@@ -1,1 +1,0 @@
-Sau đó, chúng ta sẽ tạo một Pusher Channels mơ. Một lưu ý nhỏ là nếu ở Việt Nam thì chọn location là ap1(Singapore) điểm tốc độ truy cập được nhanh nhất.

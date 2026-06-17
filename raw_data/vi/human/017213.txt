@@ -1,1 +1,0 @@
-Cộng đồng và tài liệu phong phú: Là một công cụ chính thức của Redux, Redux Toolkit có tài liệu phong phú và được cộng đồng rộng rãi hỗ trợ, giúp bạn dễ dàng tìm kiếm giải pháp cho các vấn đề gặp phải.

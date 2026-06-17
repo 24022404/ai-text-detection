@@ -1,1 +1,0 @@
-Quản lý đơn hàng: sau khi đặt mua thông tin đơn hàng sẽ hiển thị trên giao diện khách hàng bào gồm: tên sản phẩm đặt mua, số lượng, đơn giá, tổng giá tiền. Khách hàng có thể tiến hành cập nhật lại thông tin đơn hàng nếu muốn.

@@ -1,1 +1,0 @@
-Model architecture For the EMNIST dataset, two model architecture is used including: (i) A ANN shown in Figure 5.1 with two fully connected hidden layers with 200 units each, and a final softmax output layer, and ReLU activation is applied between each layer.

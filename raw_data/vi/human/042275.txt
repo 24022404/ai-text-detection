@@ -1,1 +1,0 @@
-Trong một quy trình sản xuất phải có liên thông giữa ba bộ phận để giải quyết các vấn đề () trao đổi thông tin giữa ba bộ phận và () xây dựng chức năng chung giữa ba bộ phận.

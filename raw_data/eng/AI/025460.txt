@@ -1,1 +1,0 @@
-Analyzing the segmented joint region yields features that characterize the joint’s shape, size, and texture for further assessment.

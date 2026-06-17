@@ -1,1 +1,0 @@
-Thu thập các cụm từ quan trọng của bà báo từ đó xây dựng tập thuật ngữ T cho tập dữ liệu đầu vào của thuật ngữ. Có ha cách tạo tập thuật ngữ: Sử dụng từ khóa của bà báo điược cung cấp trong tập dữ liệu hoặc trang web và sử dụng mô hình Auto Phrase để phát hiện các cụm từ có ý nghĩa.

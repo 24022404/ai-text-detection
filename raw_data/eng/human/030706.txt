@@ -1,1 +1,0 @@
-User interface designTo standardize the screen configuration, the app is responsive and should sup port multiple screen sizes. For the best experience, we strongly recommend the screen size 1920x1080 pixels. Number of colors supported: 16,777,216 colors. The main screen will be using the white background to best support readability.

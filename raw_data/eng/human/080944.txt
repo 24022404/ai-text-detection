@@ -1,1 +1,0 @@
-A. T. Luu, Y. Tay, CHu andS. K. Ng, “Learning term embeddings for taxonomic relation identification using dynamic weighting neural network,” Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing 2016, pages 403–413.

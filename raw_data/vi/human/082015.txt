@@ -1,1 +1,0 @@
-STT Tên biểu đồ Kiểu Mô tả 1 Biểu đồ lưu lượng truy cập theo thời gian Biểu đồ đường Trục hoành thể hiện thờ gắn, trục tung có đơn vị là số lượt xem. Mỗi điểm dữ lệu thể hiện số lượt xem trong một khoảng thờ gan. Biểu đồ này thể hiện giá trị cụ thể trong từng khoảng thờ gan, sự tăng giảm theo từng giai đoạn thờ gan của số lượt xem trên các trang báo điện tử.

@@ -1,1 +1,0 @@
-Bài toán Phân tích cảm xúc người dùng (Sentiment analysis) là một bài toán con của phân tích khía cạnh cảm xúc (ABS Aspect Based Sentiment Analysis).

@@ -1,1 +1,0 @@
-Business process The processing an order from beginning until delivered is describe as Figure 2.5:Figure 2.5: Activity diagram process an order As you can see, the distributor creates a valid order if the number of items is more significant than a minimum order quantity which is a product attribute.

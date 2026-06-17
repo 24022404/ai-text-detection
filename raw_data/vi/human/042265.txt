@@ -1,1 +1,0 @@
-JavaScript Javascript là một ngôn ngữ lập trình website, được tích hợp và nhúng trong HTML, giúp cho website trở nên sống động hơn. Đây là dạng ngôn ngữ theo kịch bản, được hình thành dựa trên chính đối tượng phát triển có sẵn hoặc đơn giản là tự định nghĩa ra. Javascript cho phép bạn kiểm soát các hành vi của trang web tốt hơn so với việc chỉ sử dụng mỗ HTML.

@@ -1,1 +1,0 @@
-Violent scene detection using CNN Deep Audio Features Violent scene detection system is proposed that uses CNN built on acoustic information from video clips . CNN is applied in two ways: a as a classifier directly or as a deep acoustic feature extractor.

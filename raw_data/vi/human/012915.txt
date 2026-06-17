@@ -1,1 +1,0 @@
-TensorFlow đã trở thành một trong những công cụ quan trọng và phổ biến nhất trong cộng đồng học máy và học sâu. Sự mạnh mẽ và linh hoạt của nó giúp cho việc triển khai các mô hình học máy phức tạp trở nên dễ dàng và hiệu quả hơn.

@@ -1,1 +1,0 @@
-General Use case DiagramThe GOAP library’s main function is to plan and control the actions of a char acter to achieve their set goals. To accomplish this functionality, users are required to perform three functions: (i)Create Agent, (ii)Add Goal, (iii)Add Action shown in the figure 4.4.

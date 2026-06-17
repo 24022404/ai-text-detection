@@ -1,1 +1,0 @@
-PostgreSQL provides robust security through user authentication, role-based access control, and SSL encryption, safeguarding data against unauthorized access.

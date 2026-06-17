@@ -1,1 +1,0 @@
-Vấn đề cuối cùng là việc theo dõi và tham khảo các giao dịch thu chi giữa các người dùng. Để gả quyết vấn đề này, em sẽ phát triển một mạng xã hộ nhỏ, giúp các tài khoản tạo liên kết với nhau. Nhờ đó, người dùng có thể thêm người thân và cùng nhau xem các giao dịch thu ch.

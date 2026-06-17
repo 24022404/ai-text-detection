@@ -1,1 +1,0 @@
-D.P. Fan, G.P. J, T. Zhou, et al. , “Prenat: Parallel reverse attention network for polyp segmentation,” n International conference on medical image computing and computerasssted intervention , Springer, 2020, pp. 263–273.

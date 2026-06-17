@@ -1,1 +1,0 @@
-Điểm đặc biệt của ứng dụng là tích hợp mô hình ngôn ngữ, cho phép người dùng có thể hỏi đáp và tăng cường tương tác với ứng dụng. Đều này giúp nâng cao trải nghiệm người dùng và tăng cường tính linh hoạt của ứng dụng.

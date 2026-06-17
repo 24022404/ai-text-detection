@@ -1,9 +1,0 @@
-Objective: Accurate prediction of genetic inheritance patterns from family pedigrees is fundamental for genetic counseling and disease risk assessment. However, existing machine learning approaches often act as “black boxes,” limiting clinical trust and actionable insights. This paper introduces EGIPP (Explainable Genetic Inheritance Pattern Prediction), a novel framework that combines high predictive performance with transparent reasoning.
-
-Methods: EGIPP represents pedigrees as graphs and applies a hybrid model integrating a Graph Neural Network (GNN) with an attention‐based explanation module. During training, the GNN learns to classify inheritance modes—autosomal dominant, autosomal recessive, X-linked dominant, and X-linked recessive—while the attention mechanism highlights influential relatives and genotype configurations. Post hoc explanations are generated using SHAP (SHapley Additive exPlanations), providing feature‐level importance scores consistent with Mendelian principles.
-
-Results: On both synthetic pedigrees and a curated clinical dataset of 1,200 families, EGIPP achieved 92.3% overall accuracy, outperforming baseline random forests (85.7%) and standard GNNs (88.1%). In user studies with clinical geneticists, 87% of the generated explanations were rated as “highly interpretable” and “clinically meaningful.” Case analyses demonstrate how EGIPP correctly identifies carrier status and penetrance factors that traditional models miss.
-
-Conclusion: EGIPP advances inheritance‐pattern prediction by uniting robust graph‐based learning with clear, rule‐aligned explanations. This approach enhances decision support in genetic counseling and lays the groundwork for broader adoption of explainable AI in genomics. 
-
-Keywords: genetic inheritance, explainable AI, interpretable machine learning, pedigree analysis, Graph Neural Network, genetic counseling.

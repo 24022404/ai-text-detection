@@ -1,1 +1,0 @@
-However, due to its bidirectional encoding nature, BERT is not easily adaptable forgenerative tasks, such as abstractive text summarization. Therefore, other transformer based models are preferred for such generative formats.

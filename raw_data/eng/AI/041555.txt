@@ -1,1 +1,0 @@
-The system leverages advanced security tools like smart contracts, Shamir’s secret sharing, and the Pedersen DKG protocol, providing users with a seamless and secure environment as they interact within the Web3 ecosystem and protect their assets.

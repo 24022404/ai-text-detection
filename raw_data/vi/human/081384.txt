@@ -1,1 +1,0 @@
-Homepage (trang chủ), Homestay Page (Danh sách homestay), History Page (Lịch sử đặt phòng), Payment Page (Chọn phương thức thanh toán), Review Page (Danh sách review địa điểm), My Homestay Page (Trang quản lý Homestay của Host). Ở đây em nhận thấy gao vện mỗi trang đều có phần Header ,Boxchat nên em vết tách riêng các Component này và tái sử dụng chúng ở trong các trang trên.

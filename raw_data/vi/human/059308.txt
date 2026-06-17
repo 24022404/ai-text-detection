@@ -1,1 +1,0 @@
-Trong kh phát triển và xây dựng chức năng, em còn sử dụng template của express là handlebar điểm xây dựng giao diện người dùng và sử dụng thư viện mongoose của javascript điển định nghĩa các đối tượng.

@@ -1,1 +1,0 @@
-F(3.4)Tiếp theo em sẽ tiến hành tố ưu hoá hàm mất mát bằng cách dùng Gradient Descent điểm tối ưu. Cách tính gradient như sau:

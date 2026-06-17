@@ -1,1 +1,0 @@
-Không thể thu hồ: Kh JWT được phát hành, nó sẽ không thể thu hồi được cho đến khi nó hết hạn. Do đó, nếu mã thông báo bị đánh cắp, người sử dụng sẽ không thể ngay lập tức thu hồ nói, điều này có thể gây nguy hiểm cho tính toàn vẹn và bảo mật của ứng dụng.

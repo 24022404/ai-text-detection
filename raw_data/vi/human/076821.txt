@@ -1,1 +1,0 @@
-Tập thực thể follows có những thuộc tính user_id, user follower d (người follow), deleted_at (ngày bỏ follow). Tập thực thể follow có quan hệ vớ tập thực thể users.

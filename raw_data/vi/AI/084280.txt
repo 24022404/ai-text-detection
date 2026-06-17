@@ -1,7 +1,0 @@
-Tìm hiểu và xây dựng game RPG sử dụng Unity engine là một dự án nghiên cứu nhằm khám phá khả năng của công cụ Unity trong việc tạo ra các trò chơi nhập vai (RPG) đa dạng và thú vị. Dự án này tập trung vào việc phân tích và áp dụng các kỹ thuật thiết kế game, lập trình và xây dựng cơ sở hạ tầng cho một trò chơi RPG hoàn chỉnh.
-
-Bằng cách sử dụng Unity engine, dự án này sẽ khám phá khả năng của công cụ này trong việc tạo ra các nhân vật, hệ thống chiến đấu, và môi trường 3D phong phú. Đồng thời, dự án này cũng sẽ nghiên cứu và áp dụng các kỹ thuật thiết kế game để tạo ra một trải nghiệm chơi game hấp dẫn và thú vị cho người chơi.
-
-Dự án này sẽ bao gồm các bước sau: nghiên cứu và phân tích các công nghệ và kỹ thuật hiện đại trong việc tạo ra trò chơi RPG; thiết kế và xây dựng cơ sở hạ tầng cho trò chơi; lập trình và tích hợp các tính năng và hệ thống cho trò chơi; và cuối cùng là thử nghiệm và đánh giá trò chơi.
-
-Mục tiêu của dự án này là tạo ra một trò chơi RPG hoàn chỉnh và đa dạng, sử dụng Unity engine như một công cụ chính để xây dựng và phát triển trò chơi. Dự án này sẽ cung cấp một cái nhìn sâu sắc về khả năng của Unity engine trong việc tạo ra các trò chơi nhập vai và sẽ là một nguồn tham khảo quan trọng cho các nhà phát triển game trong tương lai.

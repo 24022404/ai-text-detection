@@ -1,1 +1,0 @@
-Attention (Q, K, V ) =softmax QKT V Trong đó: đầu vào bao gồm ba ma trận Q (query), K (key) và V (value). Phép nhân tính phân phối xác suất cho ma trận trọng số chú ý. Cuối cùng, nhân kết quả vớ ma trận VI điểm đưa ra vector địa diện cuối cùng.

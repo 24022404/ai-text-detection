@@ -1,1 +1,0 @@
-Ý tưởng cơ bản của YARN là phân chia các chức năng của quản lý tài nguyên và lập lịch/giám sát công việc thành các luồng daemon xử lý riêng biệt. Có một trình quản lý tài nguyên (ResourceManager) và chủ quản lý ứng dụng (Applications ten) cho mỗi ứng dụng. Một ứng dụng là một công việc đơn lẻ hoặc một chuỗi các công việc.

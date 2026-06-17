@@ -1,1 +1,0 @@
-This is including, but not limited to manage the staffs, manage the zoo sites and control the main character of the game.2.2.3 Decomposition of use case "Play on" Figure 2.3: Play online use case diagram Figure 2.3 describes all functions that a player can do in an on game session.

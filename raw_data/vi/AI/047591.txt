@@ -1,5 +1,0 @@
-Một nghiên cứu mới về công nghệ 5G đã được công bố, tập trung vào việc phát triển một loại anten đa băng tần (multiband) cho ứng dụng sóng milimet (millimeter wave) trong công nghệ 5G. Loại anten này được thiết kế với cấu trúc hình bán nguyệt kép (double semi-circle structure) và có khả năng hỗ trợ tín hiệu 4x4 MIMO (Multiple-Input Multiple-Output).
-
-Cấu trúc hình bán nguyệt kép này cho phép anten có khả năng nhận tín hiệu từ nhiều băng tần khác nhau, bao gồm cả băng tần milimet, giúp tăng cường khả năng kết nối và tốc độ truyền dữ liệu. Đồng thời, nó cũng giúp giảm thiểu sự nhiễu loạn và tăng cường độ tin cậy của tín hiệu.
-
-Loại anten này được thiết kế để đáp ứng nhu cầu của công nghệ 5G, giúp tăng cường khả năng kết nối và tốc độ truyền dữ liệu cho các ứng dụng như truyền hình trực tuyến, chơi game trực tuyến và các ứng dụng khác yêu cầu băng thông cao.

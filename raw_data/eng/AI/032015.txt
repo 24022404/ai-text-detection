@@ -1,9 +1,0 @@
-Objective: Efficient exploration remains a major bottleneck in reinforcement learning (RL), especially in environments with sparse or deceptive rewards. This paper introduces “Never Give Up” (NGU), a novel directed exploration framework designed to drive agents toward under‐explored regions while maintaining persistence in challenging tasks.
-
-Methods: NGU integrates two complementary intrinsic‐motivation signals: episodic novelty, which encourages transient visits to unfamiliar states, and lifelong novelty, which promotes discovery of entirely new trajectories over training. We implement these signals via dual‐stream embedding networks and uncertainty‐aware intrinsic rewards. The resulting exploration policy is combined with standard off‐policy and on‐policy RL algorithms, requiring minimal architectural changes.
-
-Results: We evaluate NGU on a suite of hard‐exploration benchmarks, including Montezuma’s Revenge and sparse‐reward continuous‐control tasks in MuJoCo. Compared to leading intrinsic-reward methods—such as random network distillation and curiosity modules—NGU achieves up to 25% higher final performance and reduces sample complexity by 30% on average. Ablation studies confirm that both episodic and lifelong novelty terms are critical for balanced exploration and exploitation.
-
-Conclusion: NGU demonstrates that explicitly directed exploration mechanisms can substantially improve learning efficiency and final returns in sparse‐reward domains. Its modular design allows seamless integration into existing RL pipelines, opening avenues for more autonomous agents in robotics, game playing, and real‐world decision making.
-
-Keywords: directed exploration, intrinsic motivation, reinforcement learning, sparse rewards, curiosity-driven learning.

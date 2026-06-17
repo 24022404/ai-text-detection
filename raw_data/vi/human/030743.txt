@@ -1,1 +1,0 @@
-Bước 1: Dùng Selective Search algorithm điểm lấy ra khoảng 2000 bounding box trong input mà có khả năng chứa đối tượng.

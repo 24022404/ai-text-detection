@@ -1,1 +1,0 @@
-to generate a positioning sequence (of order kfor example). The prerequisite of finding a proper primitive polynomial is the main drawback of this encoder.

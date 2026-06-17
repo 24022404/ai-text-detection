@@ -1,1 +1,0 @@
-In conclusion, starting with GitHub Actions is a pragmatic choice for my small scale web application. It aligns well with the current scope and budget of the project. As the project grows, I can evaluate AWS automation services to address more extensive automation needs and cloud infrastructure requirements.

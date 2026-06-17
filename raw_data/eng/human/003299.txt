@@ -1,1 +1,0 @@
-Its user-friendly interface and Python-based approach make it an excellent choice for rapid prototyping and building data-centric web apps. Streamlit empowers datascientists and developers to create interactive and impactful web applications, mak ing it a valuable tool for data exploration, visualization, and sharing insights with stakeholders and the broader audience.

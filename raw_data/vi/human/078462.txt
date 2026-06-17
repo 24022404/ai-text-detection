@@ -1,1 +1,0 @@
-Chương 4 là phần trung tâm của báo cáo, trình bày thiết kế hệ thống dựa trên các yêu cầu chức năng điã điược điề xuất ở Chương 2 và các công nghệ được giới thiệu trong Chương 3. Kết quả của quá trình kiểm thử và triển khai ứng dụng.

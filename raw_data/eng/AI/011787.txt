@@ -1,9 +1,0 @@
-Objective: Static hand gesture recognition plays a critical role in natural human–computer interaction but often suffers from occlusion, viewpoint bias, and limited depth cues when using a single sensor. This paper introduces Duodepth, a novel framework that employs two time-synchronized depth cameras to capture complementary perspectives of hand postures.  
-
-Methods: Duodepth fuses multi-view depth streams through a dual-branch convolutional neural network (CNN). Each branch extracts spatial features from one sensor, and a mid-level fusion module aligns and integrates these representations to form a rich, unified feature embedding. We further incorporate a joint attention mechanism to emphasize discriminative hand regions and reduce background noise. The system is trained end-to-end on a newly collected benchmark dataset comprising 20 static gestures performed under varied lighting and background conditions.
-
-Results: In extensive experiments, Duodepth achieves 98.3% recognition accuracy, outperforming single-sensor baselines by 6.7% and state-of-the-art multi-view methods by 4.2%. The dual-sensor setup significantly enhances robustness against self-occlusion and viewpoint changes. Moreover, the proposed model runs at real-time speeds (30 fps) on a standard GPU, demonstrating its practicality for interactive applications.
-
-Conclusion: Duodepth advances static gesture recognition by leveraging dual depth sensors and a dedicated fusion architecture. Its high accuracy, real-time performance, and resilience to challenging scenarios make it well suited for deployment in augmented reality, sign language interpretation, and touch-free control systems.  
-
-Keywords: Duodepth, static gesture recognition, dual depth sensors, multi-view data fusion, convolutional neural network, human–computer interaction.

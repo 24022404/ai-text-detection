@@ -1,1 +1,0 @@
-Elasticsearch: với mục đích xây dựng một hệ thống gợi ý, tìm kiếm theo những từ khoá và dữ liệu người sử dụng thì elasticsearch là một công cụ hỗ trợ hữu ích để có thể đem lại một kết quả tốt hơn.

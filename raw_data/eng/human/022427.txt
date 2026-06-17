@@ -1,1 +1,0 @@
-Prometheus - Grafana stack Prometheus and Grafana form a powerful monitoring stack that is commonlyused to monitor active systems. Together, they provide comprehensive metrics col lection and visualization capabilities, enabling operators to gain valuable insights into system performance and identify anomalies promptly.

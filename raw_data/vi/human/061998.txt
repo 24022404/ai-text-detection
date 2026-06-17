@@ -1,1 +1,0 @@
-Trong mạng Neural, mỗi nút mạng là một sigmod Neural nhưng hàm kích hoạt của chúng có thể khác nhau. Tuy nhiên trong thực tế người ta thường để chúng cùng dạng với nhau để tính toán cho thuận lợi .

@@ -1,1 +1,0 @@
-Đố vớ mô hình PhoBERT trên bộ dữ liệu huấn luyện có thờ gan huấn luyện và thờ gan kiểm tra mô hình như sau:

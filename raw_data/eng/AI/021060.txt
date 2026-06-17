@@ -1,9 +1,0 @@
-This study investigates the development and deployment of adversarial stickers designed to disrupt face recognition systems in real-world scenarios. These systems, integral to surveillance and identification technologies, face vulnerabilities when confronted with deliberate perturbations.
-
-Methods: We introduce a novel approach combining adversarial machine learning techniques with physical-world testing. The creation of stickers involves optimizing patterns that challenge neural network-based face recognition algorithms. Rigorous testing was conducted in various lighting conditions and angles to ensure the robustness and efficacy of the stickers against state-of-the-art models.
-
-Results: The experimental results demonstrate that the proposed adversarial stickers significantly reduce the accuracy of tested face recognition systems. The stickers maintain effectiveness across multiple environments, proving their adaptability and resilience. Additionally, a comparison with existing obfuscation methods shows the superiority of our approach in terms of stealth and applicability in practical settings.
-
-Conclusion: This research contributes to the field by highlighting the potential risks associated with current face recognition systems and providing a framework for future adversarial attacks in the physical world. The implications emphasize the need for enhanced security measures and resilience in face recognition technologies to mitigate such vulnerabilities. The findings pave the way for further exploration into defensive mechanisms and improved algorithmic robustness.
-
-Keywords: Adversarial Stickers, Face Recognition, Physical World, Machine Learning, Neural Networks, Security, Vulnerability.

@@ -1,1 +1,0 @@
-When a substantial number of nodes exhibit this behavior, the global gradient, calculated as the average of these local gradients, may go in the unfavorable direction.

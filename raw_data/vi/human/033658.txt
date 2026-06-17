@@ -1,1 +1,0 @@
-Use case Đăng xuất UC ID and Name: UC2 Đăng xuất Tác nhân: Admnstrator, Moderator, User Mô tả: Chọn bểu tượng hình điạ diện và menu thả xuống được hển thị bao gồm nút đăng xuất. Sau đó nhấn "Đăng xuất" để đăng xuất khỏ hệ thống.

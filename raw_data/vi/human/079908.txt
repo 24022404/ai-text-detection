@@ -1,1 +1,0 @@
-Thư vện và framework phong phú: PHP có một cộng đồng phát trển lớn và sô động, cung cấp nhều thư vện và framework như Laravel, Symfony, CodeIgnter, gúp gảm thểu thờ gan và công sức trong vệc phát trển ứng dụng.

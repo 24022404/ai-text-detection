@@ -1,1 +1,0 @@
-Khố  Mỗi khối gồm 3 thành phần: Dữ liệu(data), mã hàm băm(hash) và mã hàm băm của khổ trước nó.

@@ -1,1 +1,0 @@
-Hỗ trợ ngôn ngữ SQL: MySQL sử dụng ngôn ngữ truy vấn cấp cao SQL (Structured Query Language) điểm tương tác và truy vấn dữ liệu từ cơ sở dữ liệu.

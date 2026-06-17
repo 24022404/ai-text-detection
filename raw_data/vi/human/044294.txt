@@ -1,1 +1,0 @@
-Jmp: với nhu cầu giải quyết bài toán thêm chữ ký ảnh cho các nguồn tài nguyên ảnh, Jmp đáp ứng được những yêu cầu cơ bản để giải quyết vấn đề này. Vớ đầu vào là ảnh gốc cùng vớ ảnh chữ ký, đầu ra sẽ là một ảnh mớ là ảnh gốc kèm chữ ký ảnh.

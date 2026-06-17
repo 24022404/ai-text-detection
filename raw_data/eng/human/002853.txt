@@ -1,1 +1,0 @@
-As a high-level language, Python uses an easy-to-read command syntax that itconverts to machine code. It also works on the Mac, Windows, and Linux plat forms, making it accessible to nearly every programmer.

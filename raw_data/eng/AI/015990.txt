@@ -1,1 +1,0 @@
-The application will be structured into screens, with each screen functioning as its own module that manages both state and UI independently. These modules will export configuration objects, enabling react-router to link routes to the correct components, as illustrated in the figure.

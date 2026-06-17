@@ -1,1 +1,0 @@
-Trong xây dựng website này, website này phát triển trên framework expressjs với kiến trúc theo mô hình MVC gồm ba phần chính là model, view và controller.

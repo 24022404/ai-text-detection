@@ -1,1 +1,0 @@
-Feature Extraction: LSTM can automatically learn relevant features from the data, reducing the need for manual feature engineering. This is particularlyadvantageous in the context of cryptocurrency price prediction, where identi fying relevant features can be challenging.

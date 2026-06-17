@@ -1,1 +1,0 @@
-The system display a waiting popup indicating that the connection is in progress. 4. Connect success.The system display a form to configure the display name and the color of the main character for the game session.

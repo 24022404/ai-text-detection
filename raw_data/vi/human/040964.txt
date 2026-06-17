@@ -1,1 +1,0 @@
-Là người dùng tô muốn có chức năng tìm kiếm bài viết để có thể thực hiện tìm kiếm bài viết theo tên sách Acceptance Criteria:

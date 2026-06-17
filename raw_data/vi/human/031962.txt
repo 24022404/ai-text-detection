@@ -1,1 +1,0 @@
-Tính nhất quán và toàn vẹn dữ liệu: PostgreSQL tuân thủ mô hình quan hệ và hỗ trợ các ràng buộc dữ liệu, khóa ngoại và các quy tắc kiểm tra dữ liệu. Đều này đảm bảo tính nhất quán và toàn vẹn của dữ liệu trong cơ sở dữ liệu.

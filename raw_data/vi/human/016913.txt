@@ -1,1 +1,0 @@
-Chức năng gợi ý sản phẩm dựa trên lịch sử mua hàng. Giúp cửa hàng hiểu người dùng hơn, tăng doanh thu bán hàng.

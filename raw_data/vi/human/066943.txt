@@ -1,1 +1,0 @@
-Frontend: được phát triển bằng thư viện ReactJs – một thư viện mã nguồn mở Javascript hiệu quả được phát triển bở Facebook, được sử dụng phổ biến để phát triển xây dựng giao diện người dùng hay UI. ReactJs cung cấp khả năng tái sử dụng code (Reusable Code) giúp tăng tốc quá trình phát triển và giảm thiểu những rủi ro có thể xảy ra trong quá trình phát triển.

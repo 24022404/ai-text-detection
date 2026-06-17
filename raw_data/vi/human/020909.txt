@@ -1,1 +1,0 @@
-Bên cạnh việc phân tích các yêu cầu về mặt chức năng của hệ thống ở trên thì các yêu cầu phi chức năng cũng cần phải chú trọng tớ.Yêu cầu về bảo mật:

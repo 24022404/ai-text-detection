@@ -1,1 +1,0 @@
-Tạo mới, chỉnh sửa, xóa các phiếu khuyến mãi 2. Kết nối đến tài khoản metamask 3. Truy vấn các giao dịch đã thực hiện trên hệ thống 4. Quản lý tài khoản cá nhân Đối với người dùng cuối:

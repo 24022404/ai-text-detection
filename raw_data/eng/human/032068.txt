@@ -1,1 +1,0 @@
-Use case forgot password When supplier forgets their password, they can use this function. After they submit the email, the system will send the link to reset the password in an email.

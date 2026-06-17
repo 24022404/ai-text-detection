@@ -1,1 +1,0 @@
-Initial training for new task ( 4 - 11): The parameters of the encoder and projector head are trained on the training sample in Dkwith SCL loss LCL.

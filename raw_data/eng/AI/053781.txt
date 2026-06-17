@@ -1,9 +1,0 @@
-Objective: Image-based table recognition plays a critical role in automating document analysis, yet existing approaches suffer from limited data diversity, inconsistent model architectures, and fragmented evaluation criteria. This paper presents a unified framework addressing these gaps through three main contributions—data, model, and evaluation.
-
-Methods: We introduce TabVision-500K, a large-scale, fully annotated dataset containing 500,000 real-world table images drawn from scientific articles, business reports, and web forms. Our proposed TableFormer architecture combines a convolutional backbone with a multi-head attention mechanism to jointly perform table detection, structure parsing, and cell content alignment in a single end-to-end network. To ensure broad applicability, we integrate a lightweight post-processing module that refines bounding boxes and corrects misaligned cells.
-
-Results: Experiments on TabVision-500K and two public benchmarks demonstrate that TableFormer achieves a 92.4% F1 score for structure recognition and an 88.7% accuracy for cell localization—outperforming state-of-the-art methods by 4.3% and 6.1%, respectively. Ablation studies confirm the effectiveness of our multi-task loss design and the robustness of our dataset under varying image resolutions and noise levels.
-
-Conclusion: Our comprehensive framework establishes new standards for image-based table recognition. By releasing TabVision-500K, the TableFormer model, and a unified evaluation suite, we enable reproducible research and accelerate advancements in document understanding, business intelligence, and digital archiving.
-
-Keywords: table recognition, document analysis, deep learning, dataset, multi-task learning, evaluation metrics.

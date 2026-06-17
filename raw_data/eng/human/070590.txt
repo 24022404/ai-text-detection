@@ -1,1 +1,0 @@
-Algorithm 2 outs the process of partitioning data for EMNIST and CIFAR-Algorithm 2: Data partition 1fori= 1,2, . . . , X +Ydo 4 else 6 Di=Ø; 7 forj= 1,2, . . . , M do 8 Sample y∈Cwith probability q; 9 Sample randomly x∈Sy; 10 Di=Di∪(x, y); 11 Sy=Sy\(x, y); 13 C\y; 14 q←ReNormalize (q, y); 15Function ReNormalize( q= (p1, p2, ..., p C), y):

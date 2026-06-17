@@ -1,1 +1,0 @@
-Scalability: The app should be able to grow and expand as more users and data are added. It should be designed to handle increased load and traffic without experiencing a decrease in performance.

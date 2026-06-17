@@ -1,1 +1,0 @@
-Here is an example of a report action. You can create an xml file inside your report directory. By using the HTML, the templates are designed. You can specify the structure of your report inside the <template> tag. By using the <t-call=” ”/> tag, you can call the other templates in your custom reports.

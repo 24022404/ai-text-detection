@@ -1,1 +1,0 @@
-And Design Ant Design cung cấp một đánh giá thực tế về các thiết kế đẹp dành cho cả các nhà thiết kế của Ant Design và những người đang sử dụng nó. Đồng thời, nó xây dựng một nền tảng trên cùng các nguyên tắc và mẫu thiết kế điểm đưa ra hướng dẫn và giải pháp chung cho mục tiêu thiết kế được chỉ định.

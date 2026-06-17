@@ -1,1 +1,0 @@
-Currency Token Module xử lý các chức năng liên quan đến các token và hệ thống sử dụng điểm người dùng có thể thanh toán trên hệ thống.

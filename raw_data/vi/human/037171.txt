@@ -1,1 +1,0 @@
-Ở hệ thống quản lý thì 3 tác nhân là Quản trị tên, Người dùng và Host cần đăng nhập để có thể sử dụng được các chức năng của hệ thống. Host và Người dùng chỉ có quyền quản lý thông tin homestay và đơn đặt phòng của mình.

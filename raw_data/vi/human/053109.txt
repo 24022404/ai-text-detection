@@ -1,1 +1,0 @@
-Virtual DOM React sử dụng một cấu trúc dữ liệu gọi là Virtual DOM điểm cải thiện hiệu suất ứng dụng. Virtual DOM là một bản sao của DOM thực sự, nhưng nó chỉ tồn tại trong bộ nhớ. Khi dữ liệu của ứng dụng thay đổi, React so sánh Virtual DOM và DOM thực sự và chỉ cập nhật những phần thay đổi.

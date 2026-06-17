@@ -1,1 +1,0 @@
-When you want to add a product for sale, the system admin (Employee or Manager) and the product add function then enter product information and confirm saving. After confirmation, the system checks the information: If valid, the database will be saved; otherwise, if an error occurs, it will notify failure and allow re -entry .

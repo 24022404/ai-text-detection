@@ -1,1 +1,0 @@
-Executor là cơ chế xác định nguồn tài nguyên tính toán được sử dụng để thực th các Task. Executor chạy như một thành phần trong Scheduler mỗ kh hệ thống Arflow hoạt động.

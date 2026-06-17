@@ -1,1 +1,0 @@
-Từ những công nghệ điã điược điề cập bên trên, tô sử dụng những công nghệ này để xây dựng ứng dụng hỗ trợ điều khiển camera bằng cử chỉ tay. Dưới đây là hình ảnh tổng quát về phương pháp tô điều xuất.

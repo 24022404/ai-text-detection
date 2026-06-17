@@ -1,1 +1,0 @@
-Y. Jum. Tren, F. Ma, Y. Jang, HSh, and J. Sun, “Evm Fuzz: Differential fuzz testing of ethereum virtual machine,” arXv preprint arXiv:1903.08483 , 2019.

@@ -1,1 +1,0 @@
-Chọn Đăng ký. Hệ thống hiển thị thông báo “Tên đăng nhập đã tồn tại” và đưa người dùng trở lại giao diện điền thông tin đăng ký.  Hệ thống hiển thị thông báo “Tên đăng nhập đã tồn tại” và đưa người dùng trở lại giao diện điền thông tin đăng ký.  Đạt TC04  1. Chọn đăng ký tài khoản.

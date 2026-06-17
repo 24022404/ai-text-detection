@@ -1,1 +1,0 @@
-General use case diagram The General Use Case Diagram in Figure 2.1 would provide a representation of the system’s core functionalities and the actors involved in its operation.

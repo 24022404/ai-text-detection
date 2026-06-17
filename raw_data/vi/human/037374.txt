@@ -1,1 +1,0 @@
-Đố vớ các nhà phát trển đã quen làm việc trên Web với React, điều này có nghĩa là bạn có thể vết các ứng dụng dành cho thiết bị d động với hiệu suấtvà giao diện của một ứng dụng gốc, trong khi sử dụng các công cụ quen thuộc.

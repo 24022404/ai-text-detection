@@ -1,1 +1,0 @@
-Trong hệ thống, tất cả các gao tập điều đi qua tầng ứng dụng. Tầng trình bày và tầng dữ liệu không thể giao tiếp trực tiếp với nhau.

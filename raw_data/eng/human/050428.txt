@@ -1,1 +1,0 @@
-Step 1: The first crucial task is to collect or build a comprehensive dataset specifically tailored for the Vietnamese language model. This dataset should be large-scale and encompass a diverse range of linguistic patterns and characteristicsrepresentative of the Vietnamese language’s nuances.

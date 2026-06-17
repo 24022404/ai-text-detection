@@ -1,1 +1,0 @@
-Luồng sự kiện phụ 1. Quản lý, Nhân viên, Khách hàng  đăng nhập không thành công 2. Hệ thống hiển thị thông báo và yêu cầu đăng bằng tài nhân sự bán hàng và đơn hàng vào trong khoản phần mềm.

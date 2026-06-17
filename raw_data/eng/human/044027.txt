@@ -1,1 +1,0 @@
-Hence, the dataset is almost 0.5 Terabyte and contains more than 500,000 malware samples in the form of labeled executable files.

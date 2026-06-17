@@ -1,1 +1,0 @@
-Vào thờ điểm hiện tạ, ứng dụng điã điảm bảo điược những yêu cầu cơ bản để có thể sử dụng trong thực tế, tuy nhên ứng dụng hoàn toàn có thể phát trển cho một nhà hàng có quy mô lớn hơn, bao hàm được nhều chức năng hơn và nhều tính năng hơn phục vụ cho công việc quản lý .

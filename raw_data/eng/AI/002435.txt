@@ -1,1 +1,0 @@
-The administrator examines the helpdesk account list to identify any inactivated accounts, and upon finding one, verifies its profile information for validity. If the profile meets the required criteria, the administrator proceeds to activate the account. In cases when there are no inactivated accounts, the verification and activation process is unnecessary.

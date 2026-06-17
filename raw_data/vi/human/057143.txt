@@ -1,1 +1,0 @@
-Bài toán Một trong những vấn đề tiếp theo khi làm việc với phần đơn hàng của phần mềm quản lý là làm thế nào để hiển thị nhiều nhất số lượng đơn hàng trên một trang. Điều này giúp cho khách hàng dễ dàng thao tác mà không cần phải chọn lần lượt các đơn hàng ở các trang khác nhau điểm thao tác cập nhật hàng loạt.

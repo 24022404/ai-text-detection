@@ -1,1 +1,0 @@
-From the survey, I pointed out the critical business in this system and the detailedspecifications of each use case. This chapter also describes essential business pro cesses in the activity diagram.

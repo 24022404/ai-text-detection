@@ -1,1 +1,0 @@
-Giao diện người dùng thân thiện và dễ sử dụng cho khách hàng, cung cấp thông tin chi tiết về sản phẩm và giá cả. Ngoài ra, hệ thống cần có tính bảo mật cao điểm bảo vệ dữ liệu của khách hàng và giao dịch mua hàng, cũng như cung cấp chức năng đánh giá và nhận xét cho sản phẩm giày từ phía khách hàng. Tất cả các tính năng này sẽ giúp cho hệ thống hoạt động mượt mà và hiệu quả.

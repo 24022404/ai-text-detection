@@ -1,1 +1,0 @@
-Không thể sử dụng lan truyền ngược điểm đào tạo mô hình vì đạo hàm của hàm này là một hằng số nên không thể có mối liên hệ với đầu vào.

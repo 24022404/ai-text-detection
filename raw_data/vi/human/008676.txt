@@ -1,1 +1,0 @@
-Tốc độ xử lý các giao dịch trên mạng là chậm, làm giảm trả nghiệm người dùng kh tương tác trực tiếp với mạng chủ khố.

@@ -1,1 +1,0 @@
-The header section is present but empty in this case.Main Content Area Title Section : A header titled "Recent Scans" with a rocket icon to represent the section.

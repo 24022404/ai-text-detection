@@ -1,1 +1,0 @@
-Shortest response time 0.055s Longest response time. 0.082s Average response time 0.0597s Number of successful requests 100 50 users simultaneously accessing within 10 seconds.

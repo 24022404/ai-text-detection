@@ -1,1 +1,0 @@
-Đầu ra: tập hợp những vectơ điã điược chuẩn hóa Hình 2.1: Mô tả thuật toán batch normalization Tác động của phương pháp Batch Normalization lên việc huấn luyện mô hình mạng nơron:

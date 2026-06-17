@@ -1,1 +1,0 @@
-Trường operator lưu trữ thông tin về kiểu giá trị. Bảng 4.7 liệt kê các kiểu dữ lệu được hỗ trợ.

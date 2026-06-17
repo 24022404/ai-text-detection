@@ -1,1 +1,0 @@
-The choice to use Streamlit’s sharing platform simplified the deployment pro cess significantly. It eliminated the need for me to manage and configure servers,which can be time-consuming and require technical expertise. Additionally, it en sured that the app could be accessed by users worldwide without any geographical restrictions.

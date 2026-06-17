@@ -1,1 +1,0 @@
-Using a well-established library such as Jayson also facilitates the implementa tion of JSON-RPC communication, resulting in a robust and dependable solution.

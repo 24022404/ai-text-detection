@@ -1,1 +1,0 @@
-Use case xem sản phẩm cho phép người dùng xem danh sách các sản phẩm trên hệ thống. Kh người dùng truy cập vào use case này, hệ thống sẽ truy xuất và hiển thị các sản phẩm có sẵn trên hệ thống, bao gồm tên sản phẩm, mô tả, giá bán và số lượng tồn kho.

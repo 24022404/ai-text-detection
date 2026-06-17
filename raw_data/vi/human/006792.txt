@@ -1,1 +1,0 @@
-Mục đích sử dụng STAMP được sử dụng để gửi và nhận các yêu cầu trong thờ gan thực, được sử dụng trong Chat.

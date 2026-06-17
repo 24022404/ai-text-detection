@@ -1,1 +1,0 @@
-Để cho việc xe d chuyển trong mô trường một cách hợp lý và đồng thờ có được các cơ chế tránh va chạm, các xe sẽ hoạt động theo cơ chế máy trạng thái hữu hạn (FSM). Các trạng thái của xe gồm có:

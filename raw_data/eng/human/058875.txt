@@ -1,1 +1,0 @@
-ROUGE score ROUGE , which stands for Recall-Oriented Understudy for Gisting Evaluation, is widely used as the primary metric for assessing the quality of summaries. It compares an automatically generated summary to a set of reference summaries, typically created by humans.

@@ -1,1 +1,0 @@
-Nodejs được sử dụng rộng rãi điển xây dựng các ứng dụng serverside, tạo API, real time application và các backend service. Cộng đồng lập trình viên vô cùng lớn của nó liên tục cung cấp các bản cập nhật và tiện ích mở rộng cho nền tảng, khiến nó trở thành lựa chọn vô cùng phổ biến của các lập trình viên.

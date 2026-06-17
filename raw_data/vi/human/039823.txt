@@ -1,1 +1,0 @@
-Xem danh sách sản phẩm: Khách hàng có thể xem danh sách sản phẩm theo danh mục, nhãn hàng.•Xem chi tiết sản phẩm: Khách hàng có thể xem ch tết sản phẩm, xem các mô tả sản phẩm và đánh giá của người mua trước đó.

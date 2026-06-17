@@ -1,1 +1,0 @@
-PHP >= 7.2.5 BCMath PHP Extenson Ctype PHP Extenson Flenfo PHP Extenson JSON PHP Extenson Mbstrng PHP Extenson OpenSSL PHP Extenson PDO PHP Extenson Tokenzer PHP Extenson XML PHP Extenson Đố vớ Wndows: sử dụng phần mềm tạo Webserver trên Wndows như Openserver, Wamp, Xampp, Ampps. . .

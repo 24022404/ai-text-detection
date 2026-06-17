@@ -1,1 +1,0 @@
-Tìm cách thu gọn danh sách từ gợi ý xuống còn nhỏ hơn 3: xây dựng phương pháp đánh trọng số cho các từ gợi ý, sau đó chọn 3 từ có trọng số lớn nhất để hiển thị.

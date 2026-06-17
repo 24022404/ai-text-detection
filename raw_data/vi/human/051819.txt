@@ -1,1 +1,0 @@
-FSM có thể được áp dụng vào việc thiết kế hệ thống lớn như quản lý môi trường, hay cũng có thể sử dụng trong từng object nhỏ trong môi trường như là mỗi xe. Một ví dụ về FSM được thể hiện trong hình 2.7 với các trạng thái là xanh, vàng và đỏ.

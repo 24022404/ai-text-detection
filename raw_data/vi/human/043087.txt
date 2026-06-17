@@ -1,1 +1,0 @@
-Hadoop Distributed File System (HDFS) : Hệ thống tệp phân tán cung cấp quyền truy cập thông lượng cao vào dữ lệu ứng dụng.

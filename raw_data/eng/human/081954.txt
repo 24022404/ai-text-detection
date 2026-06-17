@@ -1,1 +1,0 @@
-It serves as an abstraction layer between the database and the controller, han dling database operations such as querying, updating, or inserting data.

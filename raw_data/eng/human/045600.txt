@@ -1,1 +1,0 @@
-This software intends to provide a list of charts and metrics that help teams tomonitor and to quickly answer many questions about the effectiveness and produc tivity of the Helpdesk teams. For examples:

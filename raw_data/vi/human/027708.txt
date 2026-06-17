@@ -1,1 +1,0 @@
-Luồng xử lý có thể diễn tả như sau: Người dùng thao tác với giao diện đăng ký CV yêu cầu sử dụng chức năng “đăng ký làm Tình nguyện viên” . HUI đăng ký CV sẽ gửi yêu cầu đăng ký điện UploadController. Sau đó, UploadController gọi điện upload server để lưu file mà người dùng gửi lên trên Azure Blob Storage.

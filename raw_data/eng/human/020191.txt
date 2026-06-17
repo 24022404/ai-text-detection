@@ -1,1 +1,0 @@
-In this section, I show the effectiveness of my proposed regularization in terms of enlarging eigenvalues. I conduct the same experiment as in subsection 4.2 on three models: CRL, CRL with LCE, CRL with LCEandLFD. The gap in eigenvalues (Figure 6.1) shows that my feature decorrelation regularization actually increases the number of eigenvectors with large eigenvalues.

@@ -1,1 +1,0 @@
-Bước 2: Xây dựng ma trận tương tự giữa khách hàng Để tính toán độ tương tự giữa các khách hàng trong User Based Collaborative Filtering, có một số phương pháp đánh giá độ giống nhau giữa các cặp khách hàng dựa trên hành vi mua sắm của họ. Các phương pháp phổ biến bao gồm:

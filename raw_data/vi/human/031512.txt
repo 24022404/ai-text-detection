@@ -1,1 +1,0 @@
-Có thể gây ra hiểu lầm : Một số phương pháp tăng cường dữ liệu có thể dẫn đến việc tạo ra dữ liệu sa lệch hoặc không hợp lý. Ví dụ, nếu chúng ta xoay một bức ảnh khuôn mặt 180 độ, đó có thể không phải là một biểu diễn hợp lý của khuôn mặt trong thế giới thực.

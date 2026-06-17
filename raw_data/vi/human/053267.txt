@@ -1,1 +1,0 @@
-Một thực thể product bao gồm các thuộc tính mg, name, description, support, certificate, price. Thực thể product có mối quan hệ has vớ thực thể vendor. Một product thuộc nhiều vendor (nhà cung cấp). Một thực thể vendor có thuộc tính name, description, phone, address, img_url, lnk so, lnk, year. Ngoài ra, một product thuộc nhiều category (thể loại).

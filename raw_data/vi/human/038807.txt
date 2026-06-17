@@ -1,1 +1,0 @@
-Đặc trưng của ReactJS Single Way data flow (Luồng dữ liệu một chiều) : Những Framework sử dụng VirtualDUB như ReactJS khi VirtualDUB thay đổi, chúng ta không cần thao tác trực tiếp vớ DOM trên Web mà vẫn thấy được sự thay đổi đó.

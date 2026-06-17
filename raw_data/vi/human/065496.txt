@@ -1,1 +1,0 @@
-Ở cấp độ cao, mọ ứng dụng Spark điều có một chương trình điều khiển (driver program ) chạy chương trình chính của người dùng và thực hiện các hoạt động song song khác nhau trên một cụm.

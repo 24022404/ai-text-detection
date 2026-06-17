@@ -1,1 +1,0 @@
-M. Lewis, Y. Liu, N. Goyal andothers , “Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension,” inProceedings of the 58th Annual Meeting of the Association for Computational Linguistics Association for Computational Linguistics, july2020, pages 7871–7880.

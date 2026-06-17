@@ -1,1 +1,0 @@
-conversatonRepostory: đây là thuộc tính được khởi tạo từ điố tượng Con versatonRepostory. Kh muốn thao tác với dữ liệu của conversation, ta sẽ sử dụng thuộc tính này.

@@ -1,1 +1,0 @@
-PostgreSQL, an open-source relational database management system developed by a community of volunteers and free from corporate control, offers free access to its source code. It frequently surpasses MongoDB in various performance tests, making it a popular choice for many developers.

@@ -1,1 +1,0 @@
-Node modules: A directory containing library files installed on the server side Modules: The folder that contains all the logic on the server side. There are 3 main files:

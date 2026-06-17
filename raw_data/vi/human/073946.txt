@@ -1,1 +1,0 @@
-Trang web có thể phát triển một số tính năng mới như cho phép các cá nhân hay tổ chức đăng ký thêm thông tin vào cơ sở tri thức như khách sạn, nhà hàng,...;lên kết với các trang web khác để làm giàu nguồn dữ liệu,... T. Berners Lee, J. Hendler and O. Lassila, “The semantic web,” Scientific american ,journal 284,number 5,pages 34–43, 2001.

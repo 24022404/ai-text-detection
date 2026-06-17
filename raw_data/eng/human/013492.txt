@@ -1,1 +1,0 @@
-The system needs to be stable and run smoothly on both low-end devices and high-end devices with low latency and energy consumption. The system should also be well designed so that it can be extended later in order to fulfill future userrequirements. While data schema changes should be avoided, player’s off ses sion data should be capable of migrating to new version.

@@ -1,1 +1,0 @@
-Gó Presentaton Layer: chứa 3 gó ap, component, screen. Gó component gồm những component vết rêng cho việc tá sử dụng. Gó screen gồm cácmàn hình gao vện và gó ap chứa các phương thức giao tếp với server.

@@ -1,1 +1,0 @@
-(1)∀u̸=v,Ok u̸=Ok v (2)∀, u,Ck ̸=Ok u (3)Ok u∈ R Gọ khu vực gao cắt của các điường ray là giao lộ. Mỗ gao lộ tương ứng với một điỉnh trong đồ thị (gọ tắt là điỉnh ) và trọng số của điỉnh phản ánh thờ gan chờ điợ (thờ gan AGV phả dừng) trong tương la của AGV tếp theo ở giao lộ.

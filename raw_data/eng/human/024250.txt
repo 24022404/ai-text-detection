@@ -1,1 +1,0 @@
-Manually define a set of features and extract them. Some examples include edge detection as in Figure 2.2, corner detection, histograms, etc. The problem with this approach is that nothing guarantees that the number of corners is a good descriptor for classifying cat and dog images.

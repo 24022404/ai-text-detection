@@ -1,1 +1,0 @@
-Result As stated, we were able to effectively implement RabbitMQ into our system as a message broker. Our server was divided up into smaller services that are morequickly scalable and prepared for future growth.

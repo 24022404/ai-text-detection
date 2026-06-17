@@ -1,1 +1,0 @@
-Acton – là các đối tượng đơn giản, chỉ mô tả sự kiện đã xảy ra. Mỗ acton sẽ có một thuộc tính "type" để định danh kiểu của acton đó, còn các thuộc tính khác sẽ chứa dữ liệu cần thiết cho việc cập nhật trạng thái.

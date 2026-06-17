@@ -1,1 +1,0 @@
-The encoding algorithm is actually a concatenation scheme, which is later called FKM algorithm, the abbreviation of Fredrickesen, Kessller, and Maiorana, who discovered this strategy , . Its complexity has been proved to be constant amortized time per symbol by Frank Ruskey et.al  in 1992.

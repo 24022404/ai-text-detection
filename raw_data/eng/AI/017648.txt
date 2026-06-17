@@ -1,1 +1,0 @@
-The helper function read_process captures Logcat output lines and yields each line as an event formatted as data: <log line>, enabling easy event-based processing.

@@ -1,1 +1,0 @@
-Chương 2 trình bày về việc khảo sát hiện trạng các hệ thống có cùng mô hình knh doanh và những ưu điểm, nhược điểm của từng hệ thông đió. Sau đió, có phân tích điặc tả cụ thể những chức năng chính và yêu cầu của phần mềm.

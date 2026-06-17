@@ -1,1 +1,0 @@
-F. Lu, H. Zhou, L. Guo, J. Chen and L. Pei (2021). “An ARCore-Based Augmented Reality Campus Navigation System”. Applied Sciences , 11(16), 7515.

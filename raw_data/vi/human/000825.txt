@@ -1,1 +1,0 @@
-Trong đồ án này, vớ điố tượng người dùng là những người mô gớ điể tương tác với các chủ nhà, em đã xây dựng trang web với các chức năng cơ bản như sau:

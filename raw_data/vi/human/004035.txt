@@ -1,1 +1,0 @@
-Bên cạnh học tăng cường dựa vào mô hình và giá trị, còn một nhánh các nhóm phương pháp học tăng cường nữa là nhóm học tăng cường dựa vào policy. Của một cách gián tiếp thông qua việc tối ưu hàm giá trị hay dựa vào các bộ luật cụ thể của mô trường.

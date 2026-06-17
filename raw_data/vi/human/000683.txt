@@ -1,1 +1,0 @@
-Thiết kế cho tết Backend a, Luồng hoạt động Trong phần này tôi sẽ trình bày biểu đồ trình tự của ha use case "CRUD video" và “Nhắn tin”.

@@ -1,1 +1,0 @@
-User Experience (UX): Enhancing the user experience by identifying and op timizing the workflow of tasks in the system, arranging interface elements logically and comprehensively, and creating smooth and efficient operationsand interactions. Ensuring a consistent user experience across different de vices.

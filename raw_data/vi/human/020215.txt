@@ -1,1 +1,0 @@
-Level Class: lớp này quản lý lượng kinh nghiệm người chơ đang có, lượng kinh nghiệm cần có để có thể lên cấp và điểm tiềm năng mỗi khi người chơ lên cấp độ mớ.

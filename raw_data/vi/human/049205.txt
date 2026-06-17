@@ -1,1 +1,0 @@
-Đầu tiên chúng ta thực hiện kết nối cơ sở dữ lệu phân tích điểm làm nguồn dữ lệu cho Google Data Studio (hình 4.2).

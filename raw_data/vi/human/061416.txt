@@ -1,1 +1,0 @@
-Kiến trúc hexagonal Kiến trúc Onon Kiến trúc screaming DCI BCE Dù những kiến trúc này có bến đổ một chút về chợ tết, nhưng nhìn chung chúng tương tự nhau. Tất cả đều chung một mục đích là phân tách các mối quan hệ, bằng cách chà phần mềm vào các layer. Mỗ kiến trúc điều có ít nhất một layer cho quy tắc nghiệp vụ (business rule), và một layer cho gao vện.

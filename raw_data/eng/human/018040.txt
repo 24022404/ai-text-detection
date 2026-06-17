@@ -1,1 +1,0 @@
-Chapter 3 offers necessary background information on key concepts related to federated learning and explores the various algorithms, shedding light on their functionalities and components. By doing so, chapter 3 establishes the essential background for the subsequent development and understanding of the proposed methodology.

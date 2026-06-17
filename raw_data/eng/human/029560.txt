@@ -1,1 +1,0 @@
-Review: serves as a dedicated container for all API-related logic concerning reviews within the system. It encompasses functionalities related to handlingreview-related operations, such as adding reviews after purchasing a product and searching for reviews corresponding to specific items.

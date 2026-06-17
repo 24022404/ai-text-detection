@@ -1,1 +1,0 @@
-Multiplayer package extends some behaviors described in gameplay package to handle multiplayer scenario. It is composed of a multiplayer game manager and custom controllers for player that interact with the network system.

@@ -1,9 +1,0 @@
-Objective: Weakly supervised instance segmentation aims to delineate individual object masks using limited annotations, such as image-level labels or bounding boxes, to reduce costly pixel-level labeling. This paper presents Label-PEnet, a novel framework that sequentially propagates and enhances coarse label cues to achieve high-quality instance masks under weak supervision.  
-
-Methods: Label-PEnet consists of two interconnected modules. The Label Propagation Network (LPN) spreads initial coarse labels across spatial regions by leveraging feature affinities and objectness priors, generating preliminary mask estimates. The Label Enhancement Network (LEN) then refines these estimates by integrating multi-scale context and boundary alignment, iteratively correcting errors and sharpening object contours. Both modules are trained end-to-end with a hybrid loss that balances region consistency, edge accuracy, and class discrimination.  
-
-Results: Extensive experiments on PASCAL VOC 2012 and MS COCO demonstrate that Label-PEnet outperforms state-of-the-art weakly supervised approaches by 4.5% and 3.2% in mask mean Average Precision (mAP), respectively. Ablation studies confirm the effectiveness of the sequential propagation-enhancement pipeline and the designed loss components. Qualitative results show significant improvements in capturing fine-grained boundaries and separating adjacent instances.  
-
-Conclusion: Label-PEnet introduces an efficient, cascaded strategy for transforming sparse supervision into precise instance masks. Its propagation-enhancement paradigm offers a general mechanism for refining coarse annotations in various vision tasks. Potential applications include large-scale image annotation, real-time segmentation for robotics, and medical image analysis where full supervision is impractical.  
-
-Keywords: weakly supervised learning, instance segmentation, label propagation, feature enhancement, computer vision.

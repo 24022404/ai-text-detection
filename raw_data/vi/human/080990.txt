@@ -1,1 +1,0 @@
-Bộ mã hóa MAE. Kến trúc của bộ mã hóa là VT  nhưng chỉ được áp dụng trên các mảng có thể nhìn thấy, không bị che khuất. Gống như trong VT, bộ mã hóa nhúng các mảng bằng phép chếu tuyến tính cùng với các véctơ nhúng vị trí được thêm vào, sau đó xử lý tập hợp kết quả thông qua một loạt các khố Transformer.

@@ -1,7 +1,0 @@
-Nghiên cứu về vấn đề phát hiện mục tiêu của hệ thống radar thụ động sử dụng nguồn sáng cơ hội DVB-T
-
-Hệ thống radar thụ động đang trở thành một trong những công nghệ quan trọng trong lĩnh vực quân sự và an ninh. Trong nghiên cứu này, các nhà khoa học đã tập trung vào việc phát triển hệ thống radar thụ động sử dụng nguồn sáng cơ hội DVB-T để phát hiện mục tiêu. DVB-T là một chuẩn truyền thông không dây được sử dụng rộng rãi trên toàn thế giới, và các nhà nghiên cứu đã khám phá khả năng sử dụng nó như một nguồn sáng cơ hội để phát hiện mục tiêu.
-
-Kết quả nghiên cứu cho thấy rằng hệ thống radar thụ động sử dụng DVB-T có thể phát hiện mục tiêu với độ chính xác cao, ngay cả trong điều kiện môi trường phức tạp. Các nhà nghiên cứu cũng đã đề xuất một số phương pháp để cải thiện hiệu suất của hệ thống, bao gồm việc sử dụng kỹ thuật xử lý tín hiệu và tối ưu hóa cấu trúc của hệ thống.
-
-Nghiên cứu này có thể mở ra một số ứng dụng thực tế trong lĩnh vực quân sự và an ninh, bao gồm việc phát hiện và theo dõi mục tiêu, cũng như việc giám sát và quản lý giao thông. Tuy nhiên, vẫn còn nhiều thách thức cần được giải quyết để đưa hệ thống này vào ứng dụng thực tế.

@@ -1,1 +1,0 @@
-where P is orthogonal and has its columns as principal components and D is diagonal whose diagonal entries are composed of all eigenvalues of Covas well as variances along corresponding principal components.

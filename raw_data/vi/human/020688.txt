@@ -1,1 +1,0 @@
-Phần mềm đã hoàn thiện cơ bản các chức năng để quản lý thông tin như: họ tên, tuổi đời, dân tộc,. . .

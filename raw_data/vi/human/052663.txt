@@ -1,1 +1,0 @@
-Các tính năng của Zend Framework bao gồm: Cấu trúc môđiun, cho phép phát trển các ứng dụng lớn và phức tạp. Các thành phần tá sử dụng, gúp gảm thờ gan phát trển. Hỗ trợ các chuẩn quốc tế, bao gồm các chuẩn mã hóa và xác thực.

@@ -1,1 +1,0 @@
-Kiểm soát tập trung : Tất cả mọi thông tin cần thiết theo mô hình Client server sẽ được đặt tại một vị trí cố định duy nhất. Đây được xem là một ưu điểm cực kỳ hữu ích và được ưa chuộng bởi nhiều quản trị viên mạng bởi họ có thể toàn quyền quản lý và điều hành mọi việc. Tính năng này cũng giúp giải quyết mọi sự cố trong mạng và cập nhật tài nguyên tạ một nơ thống nhất.

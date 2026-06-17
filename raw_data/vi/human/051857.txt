@@ -1,1 +1,0 @@
-ReactJS cho phép lập trình vên sử dụng cú pháp JSX điểm xây dựng giao diện sản phẩm. JSX là một cú pháp mở rộng kết hợp của XML và JavaScript. JSX giúp lập trình viên xây dựng các thành phần giao diện ngay trong các tệp JavaScript. Điều này khiến việc lập trình trở nên nhanh chóng và trực quan.

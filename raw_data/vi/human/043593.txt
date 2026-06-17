@@ -1,1 +1,0 @@
-Sau khi ha người dùng bết thông tin kết nối của nhau, họ có thể thiết lập kết nối trực tiếp. Kh kết nối trực tiếp được thành lập, ha người dùng có thể truyền luồng dữ liệu đa phương tiện trực tiếp cho nhau thông qua kênh truyền điã thết lập.

@@ -1,1 +1,0 @@
-Biểu đồ phát thảo các op và kết nối giữa các node. Tuy nhiên, nó không hiển thị các giá trị. Phần edge của các node chính là tensor, 1 cách để nhận operation vớ dữ lệu.

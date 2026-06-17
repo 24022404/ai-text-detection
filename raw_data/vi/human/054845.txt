@@ -1,1 +1,0 @@
-Mỗ một lớp được  sử dụng các filter khác nhau thông thường có hàng trăm hàng nghìn filter như vậy và kết hợp kết quả của chúng lạ. Ngoài ra có một số layer khác như poolng/subsampling layer dùng để chắt lọc lại các thông tin hữu ích hơn (loại bỏ các thông tin nhiễu).

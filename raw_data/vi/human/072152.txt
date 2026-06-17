@@ -1,1 +1,0 @@
-Lý do lựa chọn Cú pháp đơn giản dựa trên ngôn ngữ Python  Tốc độ xử lý nhanh và có độ trễ thấp.

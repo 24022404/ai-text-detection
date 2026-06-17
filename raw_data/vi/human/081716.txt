@@ -1,1 +1,0 @@
-Manager không có quyền thao tác với account của nhân viên, việc này do System admin đảm nhiệm nên phải tạo điện tử điến System admin.2.2.5 Biểu đồ use case phân rã nhóm tác nhân System admin Hình 2.6: Biểu đồ use case tác nhân System admin System admin là tác nhân implement từ Employee, nên có đủ các use case của Employee, và có những use case của System admin gồm:

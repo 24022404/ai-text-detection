@@ -1,1 +1,0 @@
-The work of T. Kociumaka, J. Radoszewski, and W. Rytter introduces efficient algorithms for ranking Lyndon words and decoding lex-minimal de Bruijn sequences, detailed in SIAM J. Discrete Math., vol. 30, no. 4, 2016.

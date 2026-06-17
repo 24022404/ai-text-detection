@@ -1,1 +1,0 @@
-Region Proposal Network (RPM):Input của RPN là feature map và output là các region proposal. Ta thấy các region proposal là một hình chữ nhật.

@@ -1,9 +1,0 @@
-Objective: This paper investigates the number of interactions (sample complexity) required to learn near-optimal policies in episodic, fixed-horizon reinforcement learning (RL). In many practical applications—from robotics to game playing—agents operate in environments where tasks are naturally divided into episodes of known length. Understanding the theoretical limits of learning in this setting is crucial for both algorithm design and performance guarantees.
-
-Methods: We analyze a model-based, optimism-driven algorithm tailored for finite-horizon Markov Decision Processes (MDPs). By maintaining high-probability confidence sets over transition dynamics and rewards, the algorithm selects policies that maximize optimistic value estimates. Our analysis leverages concentration inequalities and dynamic programming arguments to bound the estimation error at each horizon step.
-
-Results: We prove that with probability at least 1–δ, the proposed method finds an ε-optimal policy after Õ((S²A H⁴)/(ε²) · log(1/δ)) episodes, where S is the number of states, A the number of actions, and H the episode length. We complement this upper bound with a matching lower bound of Ω((S A H²)/(ε²)) under standard MDP assumptions, demonstrating that our approach is near-optimal up to polynomial factors in H and S.
-
-Conclusion: Our findings yield the first tight sample complexity characterization for episodic fixed-horizon RL. The results illuminate how state size, action space, and horizon length jointly influence learning efficiency. These insights can guide the design of practical RL systems where episodic structure is inherent.
-
-Keywords: episodic reinforcement learning; fixed-horizon MDP; sample complexity; PAC bounds; optimism in face of uncertainty.

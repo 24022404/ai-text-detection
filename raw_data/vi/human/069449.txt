@@ -1,1 +1,0 @@
-React cũng hỗ trợ việc tạo ra các ứng dụng đa nền tảng, cho phép lập trình viên xây dựng các ứng dụng web hoặc di động bằng cùng một ngôn ngữ.

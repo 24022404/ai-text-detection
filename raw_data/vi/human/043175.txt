@@ -1,1 +1,0 @@
-Tất cả mã nguồn của dự án điược lưu trữ trên Github, nền tảng quản lý phên bản mạnh mẽ. Đều này cho phép theo dõ sự thay điổ trong mã nguồn theo thờ gan.

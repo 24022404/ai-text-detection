@@ -1,1 +1,0 @@
-Vớ những định hướng gả pháp được đưa ra ở mục 1.3 , hệ thống cho phép người dùng thưởng thức,tự tạo NFT và giao dịch NFT . Bên cạnh đó, người dùng cũng có các chức năng Quản lý NFT cá nhân để quản lý NFT của người dùng sở hữu trên hệ thống.

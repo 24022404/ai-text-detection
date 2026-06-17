@@ -1,5 +1,0 @@
-Ứng dụng thuật toán học máy LightGBM trong bài toán hồi quy ước lượng khả năng chịu tải của giàn thép đã đạt được kết quả đáng kể. Thuật toán này sử dụng kỹ thuật boosting để kết hợp các mô hình học máy đơn giản thành một mô hình mạnh mẽ hơn. Kết quả ước lượng khả năng chịu tải của giàn thép bằng LightGBM cho thấy độ chính xác cao hơn so với các phương pháp truyền thống.
-
-Kết quả thử nghiệm cho thấy mô hình LightGBM có thể ước lượng khả năng chịu tải của giàn thép với độ chính xác lên đến 95%. So với các phương pháp truyền thống, mô hình LightGBM cho thấy sự cải thiện đáng kể về độ chính xác và hiệu suất tính toán. Điều này cho thấy ứng dụng của LightGBM trong ước lượng khả năng chịu tải của giàn thép là một lựa chọn tốt.
-
-Tuy nhiên, cần lưu ý rằng kết quả ước lượng khả năng chịu tải của giàn thép bằng LightGBM phụ thuộc vào chất lượng và độ chính xác của dữ liệu đầu vào. Vì vậy, cần đảm bảo rằng dữ liệu đầu vào được thu thập và xử lý một cách chính xác và đáng tin cậy.

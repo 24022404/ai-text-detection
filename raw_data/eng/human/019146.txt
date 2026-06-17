@@ -1,1 +1,0 @@
-It is simple to install as part of a program or separately. The platform’s modular architecture incorporates all essential dependencies, making deployment as simple as copying a folder. Additionally, multiple.NET Core versions may operate on the same machine at the same time, making it simple to work on different projects while smoothly executing deployment.

@@ -1,1 +1,0 @@
-Approach The approach given is,Using three stores as an example, you might deploy the app there and compare how well it performs based on how many searches are made using it and well it is integrated into the consumer search page.

@@ -1,1 +1,0 @@
-Python is a widely used high-level programming language known for its clarity and straightforward syntax. To grasp a Python program, one must break it into several essential steps.

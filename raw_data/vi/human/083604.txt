@@ -1,1 +1,0 @@
-Chương 3 giới thiệu cụ thể hơn về các công nghệ sử dụng để xây dựng được hệ thống đảm bảo được mục tiêu đề ra ở phần 2.2. Trong chương này em sẽ trình bày các công nghệ được sử dụng điểm phát triển ứng dụng và lý do tại sao lựa chọn các công nghệ đió.

@@ -1,1 +1,0 @@
-Thực hiện phân tích thiết kế hệ thống với các chức năng đáp ứng được yêu cầu của bài toán ban điầu điều ra.

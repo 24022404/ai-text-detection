@@ -1,1 +1,0 @@
-Khả năng truy cập : Tạ Client server sẽ không có bất kỳ sự phân biệt nào giữa các nền tảng hay vị trí với nhau. Tất cả mọi máy khách điều có khả năng truy cập tốt vào hệ thống mạng máy tính. Điều này giúp cho tất cả các thành viên trong cùng một công ty có thể truy cập vào thông tin một cách dễ dàng mà không cần đến bộ xử lý khác.

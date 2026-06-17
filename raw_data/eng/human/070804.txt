@@ -1,1 +1,0 @@
-After completing the service, the provider updates rel evant evidence or details regarding the appointment and clicks the "Finish" button in the application.

@@ -1,1 +1,0 @@
-Quản trị viên có chức năng quản lý các tài khoản người dùng, danh sách Brd của người dùng, danh sách ví của người dùng, số token người chơi kiếm được.

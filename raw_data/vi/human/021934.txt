@@ -1,1 +1,0 @@
-Tuy nhiên là nó không tách 2000 region proposal ra khỏi ảnh và thực hiện bài toán mage classification cho mỗi ảnh. Fast R CNN cho cả bức ảnh vào ConvNet (một và convolutional layer + max pooling layer) để tạo ra convolutional feature map.

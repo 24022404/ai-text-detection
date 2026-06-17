@@ -1,1 +1,0 @@
-Semi-Passive RFID Tags are like passive tags, semi-passive tags respond (nottransmit) radio wave energy back to the reader. However, they also power the in tegrated circuits in the card. This type combines the advantages and limitations of the two types above.

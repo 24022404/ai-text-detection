@@ -1,9 +1,0 @@
-Objective: Neural network inference in resource-constrained or real-time environments often suffers from high latency and energy consumption due to fixed, over-parameterized architectures. This paper introduces AntiDote, an attention-based dynamic optimization framework designed to adaptively streamline network execution at runtime without compromising accuracy.
-
-Methods: AntiDote embeds lightweight attention modules at strategic layers to estimate the importance of intermediate features for each input. During inference, these modules guide conditional execution by activating only the most relevant channels and blocks, effectively performing on-the-fly pruning and early exit. A novel regularization term encourages sparsity in attention scores, ensuring that computational savings scale with input complexity. The framework is compatible with convolutional neural networks (CNNs) and transformer-based models, and requires minimal retraining.
-
-Results: Evaluations on ImageNet, COCO, and a speech recognition benchmark demonstrate that AntiDote achieves up to 40% reduction in floating-point operations (FLOPs) and a 35% decrease in inference latency on GPU and edge-CPU platforms. Across ResNet-50, MobileNetV3, and a ViT variant, accuracy drops remain below 1% compared to full-model baselines. AntiDote outperforms state-of-the-art dynamic inference methods in terms of both efficiency gains and accuracy retention.
-
-Conclusion: By leveraging attention mechanisms for input-adaptive computation, AntiDote offers a versatile solution to the efficiency challenges of modern deep learning. Its dynamic optimization approach facilitates deployment of high-performance neural networks in latency-sensitive and low-power settings. 
-
-Keywords: dynamic optimization, attention mechanism, runtime efficiency, neural networks, adaptive inference, deep learning.

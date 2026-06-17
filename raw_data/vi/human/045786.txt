@@ -1,1 +1,0 @@
-Hỗ trợ đia nền tảng PHP hoạt điộng trên hầu hết các hệ điều hành phổ bến như Wndows, Lnux, MacOS, và có khả năng tương thích với nhều loạ máy chủ web như Apache, Ngnx.

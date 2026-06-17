@@ -1,1 +1,0 @@
-Hiện nay, có một số trang web chỉ dừng ở mức phát hiện lỗ sa cho người dùng nhưng lại chưa đưa ra gợi ý sửa lỗ sai dẫn tới người dùng sẽ không biết cách để sửa những lỗ sa đó.

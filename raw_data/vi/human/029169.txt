@@ -1,1 +1,0 @@
-Phát triển web một cách đơn giản và nhanh chóng Config an toàn Có thể hỗ trợ YAML (YAML Ain't Markup Language) Có tính quản trị cao Dễ dàng ứng dụng Spring và các sự kiện Có thể cấu hình ở bên ngoài và tạo ra các tệp thuộc tính•Tính bảo mật cao Có ghi log Một số đặc điểm nổi bật:

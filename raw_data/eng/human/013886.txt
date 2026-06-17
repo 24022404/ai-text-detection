@@ -1,1 +1,0 @@
-The AR Integration Task involves integrating AR features into the app, making it an AR-based navigation app that allows the user to follow the path in a unique and engaging way. Through this chapter, you will get an in-depth understanding of the design and construction of ARNav, and how the technology used was integrated to bring the app to life.

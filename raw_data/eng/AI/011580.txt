@@ -1,1 +1,0 @@
-The methodology employs predefined patterns, notably regular expressions, to detect potentially sensitive data in uploaded files, identifying content like figures, images, or data references.

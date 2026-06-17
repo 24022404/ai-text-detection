@@ -1,1 +1,0 @@
-P. Vashistha, C. Bhatnagar and M. A. Khan, “An architecture to identify violence in video surveillance system using vif and lbp,” in2018 4th International Conference on Recent Advances in Information Technology (RAIT) 2018, pages 1–6. DOI:10.1109/RAIT.2018.8389027 .

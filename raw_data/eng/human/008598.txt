@@ -1,1 +1,0 @@
-In several cases, the feature extraction methods are not effective, leading to inaccurate results. Therefore, in this paper, we take into account the SecBert pre-train model to extract the implicit features of the bytecode to improve the performance.

@@ -1,1 +1,0 @@
-The ReLU activation function may lead to the exploding gradient problem, in which large error gradients result in exceedingly large updates to neural network weights during training. This destabilizes the model and can make it unable to effectively learn from the training data, hindering its ability to generalize well.

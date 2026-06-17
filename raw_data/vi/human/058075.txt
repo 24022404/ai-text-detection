@@ -1,1 +1,0 @@
-Ngoài ra, hệ thống có thể lấy được thông tin từ email, file đính kèm trong email theo điều kiện phân loại điểm hỗ trợ người dùng quản lý các phản hồi của khách hàng về hệ thống.

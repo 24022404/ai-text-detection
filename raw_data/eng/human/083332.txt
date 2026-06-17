@@ -1,1 +1,0 @@
-The Company’s IT helpdesk department is using software to support handling internal requests for project members who are employees in the company. This software is a windows-based helpdesk application.

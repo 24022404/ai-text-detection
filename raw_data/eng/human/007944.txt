@@ -1,1 +1,0 @@
-Character saves data in game- Step 1; Exit the game Step 2: Launch the gameagain and log in to the cor rect accountThe player’s data has been updated.The player’s data has been updated and displayed correctly on the main screen.

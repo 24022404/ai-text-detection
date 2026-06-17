@@ -1,1 +1,0 @@
-Truyền trực tiếp (peertopeer) Thiết lập kết nối: Các người dùng thiết lập kết nối trực tiếp với nhau sử dụng các thông tin kết nối như SDP  (Session Description Protocol) và ICE  (Interactive Connectivity Establishment) candidates. Quá trình này bao gồm khởi tạo và chia sẻ các thông tin kết nối giữa các người dùng, cho phép họ tìm thấy và kết nối với nhau trực tiếp.

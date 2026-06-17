@@ -1,1 +1,0 @@
-Đầu tiên cần nó về mô hình mà đồ án hướng điến ở đây là Taxonomy, một hệ thống phân cấp ngữ nghĩa, phân loại các khái niệm dựa theo quan hệ "sa" .

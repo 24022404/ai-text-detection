@@ -1,1 +1,0 @@
-Màn hình vật thể trong thực tế có các tuỳ chọn: chọn một hoặc nhều sản phẩm điể điặt vào không gan thực tế, xoá toàn bộ vật thể và chụp màn hình. Các thao tác d chuyển, xoay vật thể trong mặt phẳng cũng tương tự như trong màn hình xem thực tế vật thể.

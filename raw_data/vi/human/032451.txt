@@ -1,1 +1,0 @@
-Firebase đi kèm với kiến trúc không máy chủ, do vậy người dùng không cần suy nghĩ về cơ sở hạ tầng.Firebase tổ chức cơ sở dữ liệu theo kiểu trees, parent children chứ không phải kiểu table. Nên sẽ gây khó khăn với những ai đang quen với CSDL SQL.

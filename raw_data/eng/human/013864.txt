@@ -1,1 +1,0 @@
-Each declaration includes a CSS property name and a value, separated by acolon. A CSS declaration always ends with a semicolon, and declaration blocks are surrounded by curly braces.

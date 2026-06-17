@@ -1,1 +1,0 @@
-Detecting human violent behaviour by integrating trajectory and deep CNN Typical violence detection approaches depend on hand-crafted features, which may be insufficiently discriminative for the job of recognizing violent actions.

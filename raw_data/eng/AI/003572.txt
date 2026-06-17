@@ -1,9 +1,0 @@
-Objective: Precise age estimation from unconstrained “in-the-wild” facial images is challenging due to variations in pose, illumination, expression, and occlusion. We address this by proposing a novel Attention LSTM Network that learns fine-grained age cues across diverse real-world scenarios.  
-
-Methods: Our model integrates a convolutional backbone with an attention-guided Long Short-Term Memory (LSTM) module. First, a deep CNN extracts multi-scale facial features. Next, an attention mechanism highlights age-relevant regions (e.g., wrinkles, forehead lines, eye corners) by generating spatial attention maps. These maps drive the LSTM to sequentially aggregate localized features, capturing subtle temporal and spatial dependencies indicative of age progression. The network is trained end-to-end with a combined regression and ordinal loss to enforce both absolute and relative age ordering.  
-
-Results: We evaluate the proposed approach on three widely used benchmarks—MORPH II, FG-NET, and Adience—under “in-the-wild” conditions. Our Attention LSTM Network achieves mean absolute errors (MAE) of 2.67 years on MORPH II and 3.41 years on Adience, outperforming state-of-the-art methods by 8–12%. Ablation studies confirm the effectiveness of the attention module and the sequential LSTM aggregation in isolating discriminative age attributes.  
-
-Conclusion: The Attention LSTM Network delivers robust, fine-grained age estimation in unconstrained environments, offering significant gains over existing deep learning approaches. This framework can be extended to related facial analysis tasks, such as expression recognition and attribute prediction.  
-
-Keywords: age estimation, attention mechanism, LSTM, deep learning, face analysis, in-the-wild images.

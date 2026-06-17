@@ -1,1 +1,0 @@
-Trong quá trình xây dựng đồ án của mình, em dùng Docker thết lập mô trường và chạy các ứng dụng backend: Vapor, PostgreSQL, MongoDB.4.1 Thiết kế kiến trúc 4.1.1 Lựa chọn kiến trúc phần mềm Hình 4.1: Kến trúc tổng quan của hệ thống Phần BackEnd của hệ thống điược xây dựng bằng VaporSwft, dựa trên mô hình kiến trúc hướng sự kện. Phần OS điược xây dựng dựa trên kiến trúc MVC.

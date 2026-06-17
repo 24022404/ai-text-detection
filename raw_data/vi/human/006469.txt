@@ -1,1 +1,0 @@
-Ngoài ra, React còn cung cấp khả năng tùy chỉnh cao cho các thành phần, cho phép tạo ra các giao diện phức tạp và tùy biến theo nhu cầu của dự án.

@@ -1,1 +1,0 @@
-Visual Studio Code Phần này dựa trên nguồn tham khảo từ . Giới thiệu về trình biên dịch Visual Studio Code và lợi ích của nó.

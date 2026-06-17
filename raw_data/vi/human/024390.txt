@@ -1,1 +1,0 @@
-Kh ta đã có được một hàm Q Đủ tốt, ta tìm hành động tối ưu a∗= argmax as, a) Như vậy, ta có thể nó phương pháp học hàm giá trị hành động là không phụ thuộc vào mô hình.

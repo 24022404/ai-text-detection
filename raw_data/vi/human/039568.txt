@@ -1,1 +1,0 @@
-CodeEdtorRoom Controller: Đối tượng điều khiển các tương tác giữa người dùng và form cha sẻ phòng. Nó nhận các yêu cầu từ Shared Room Form và gọi các phương thức tương ứng của các đối tượng khác để thực hiện chức năng tương ứng 4. Code Editor Room Service: Đối tượng xử lý yêu cầu logic liên quan đến phòng code.

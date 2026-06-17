@@ -1,1 +1,0 @@
-Thư mục Resource chứa các vew và các asset thô, chưa được bên dịch như JavaScrpt và CSS. Ngoà ra thư mục Lang chứa những tập tin ngôn ngữ lên quan đến ứng dụng cũng nằm ở điây.

@@ -1,1 +1,0 @@
-Đây sẽ là 2 công nghệ em sử dụng trong việc định hướng trang và định hướng giao tiếp giữa máy khách và máy chủ.

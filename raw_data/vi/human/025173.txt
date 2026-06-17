@@ -1,1 +1,0 @@
-Sử dụng thuật toán này nhằm tìm ra tập các sản phẩm thường được mua cùng với nhau. Từ đó gợi ý cụ thể một số ít sản phẩm nên mua kèm khi người dùng tương tác với một sản phẩm. Mục đích của việc sử dụng thuật toán này trong module gợi ý sản phẩm nhằm tăng trải nghiệm mua sắm của người dùng theo hướng tích cực hơn.

@@ -1,1 +1,0 @@
-Mô hình CNet sẽ tạo ra một vector c∈R80vớ các phần tử dương đo lường sẽ không xem xét các hệ số khác như biểu cảm, góc chụp, và ánh sáng vì chúng thay đổi qua các hình ảnh và việc hợp nhất là không cần thiết và màu da của một đối tượng có thể thay đổi đáng kể qua các hình ảnh thu được từ thực tế nên kết cấu cũng được lược bỏ.

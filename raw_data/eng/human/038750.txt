@@ -1,1 +1,0 @@
-C.H.Bennett and G. Brassard, “Quantum cryptography: Public key distri bution and coin tossing,” in Proceedings of IEEE International Conference on Computers, Systems and Signal Processing , IEEE, vol. 175, 1984, p. 8.

@@ -1,1 +1,0 @@
-J. Phang, Y. Zhao andP. J. Liu, “Investigating efficiently extending transformers for long input summarization,” arXiv preprint arXiv:2208.04347 , 2022.

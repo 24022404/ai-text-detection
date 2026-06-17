@@ -1,1 +1,0 @@
-In addition, it is also necessary to pay attention to optimizing queries to reduce resources and processing time. Using indexes and temporary tables is also one of the ways to improve query performance.

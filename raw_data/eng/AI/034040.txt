@@ -1,1 +1,0 @@
-Frida utilizes API hooking to keep track of how applications interact with essential system services, including networking, filesystem, and cryptographic operations. By doing so, it can identify sensitive API calls that may reveal potentially malicious behaviors like unauthorized data access or the exfiltration of confidential information.

@@ -1,1 +1,0 @@
-Mô hình hóa dữ liệu: Visual Paradigm hỗ trợ mô hình hóa cơ sở dữ liệu thông qua các biểu đồ Entity Relationship Diagrams (ERD) và Data Flow Diagrams (DFD), giúp  việc thiết kế cơ sở dữ liệu một cách chính xác và linh hoạt.

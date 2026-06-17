@@ -1,9 +1,0 @@
-Objective: Deep convolutional neural networks have advanced computer vision tasks, yet effectively capturing cross-feature interactions while maintaining computational efficiency remains challenging. This paper introduces ResNeSt, a family of Split-Attention Networks designed to enhance representation power by integrating channel-wise attention across feature-map splits.
-
-Methods/Approach: ResNeSt extends the ResNeXt architecture by incorporating a novel Split-Attention block. Each block divides feature maps into multiple cardinal groups (“splits”), applies independent transformations, and dynamically recalibrates them through an attention mechanism that fuses information both within and across splits. We implement ResNeSt variants—ranging from lightweight to large-scale models—by adjusting split cardinality, group width, and network depth. Training employs standard data augmentation and optimization on the ImageNet dataset.
-
-Results/Findings: Experiments on ImageNet-1K classification demonstrate that ResNeSt outperforms baseline ResNet, ResNeXt, and Squeeze-and-Excitation networks, achieving up to 82.9% top-1 accuracy with comparable computational cost. Transferring to downstream tasks, ResNeSt significantly boosts performance on MS COCO object detection and instance segmentation, yielding relative improvements of 2–3% in average precision over state-of-the-art backbones.
-
-Conclusion/Implications: ResNeSt’s split-attention mechanism provides a flexible and efficient way to model inter-channel relationships, delivering stronger generalization across diverse vision tasks. Its design principles can be readily adopted in future network architectures to further advance accuracy–efficiency trade-offs.
-
-Keywords: ResNeSt, split-attention, convolutional neural networks, image classification, object detection, instance segmentation.

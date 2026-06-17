@@ -1,9 +1,0 @@
-The classification of hyperspectral images (HSI), especially with insufficient and imbalanced data, presents a significant challenge in remote sensing and image analysis. This paper proposes a novel global learning framework to enhance the accuracy and robustness of HSI classification under these constraints.
-
-Methods: Our approach introduces a spectral-spatial-dependent global learning framework that effectively integrates spectral and spatial information for improved classification. The framework employs advanced machine learning algorithms that leverage global learning strategies to mitigate data insufficiencies and imbalances. It involves innovative techniques for feature extraction and selection, designed to enhance the discriminative capabilities of the model.
-
-Results: Experimental evaluations demonstrate that our framework significantly outperforms traditional methods in classifying hyperspectral images with limited and imbalanced datasets. The proposed model shows marked improvements in classification accuracy and generalizability, yielding superior results when benchmarked against existing state-of-the-art methodologies.
-
-Conclusion: This research contributes a robust and effective solution for hyperspectral image classification in challenging scenarios characterized by insufficient and imbalanced data. The developed spectral-spatial-dependent global learning framework offers considerable potential for practical applications in remote sensing and environmental monitoring, providing a foundation for future advancements in hyperspectral analysis.
-
-Keywords: hyperspectral image classification, spectral-spatial learning, global learning framework, data imbalance, feature extraction, remote sensing.

@@ -1,1 +1,0 @@
-The first results in the de Bruijn graph focused on the alphabet of size 2. Later, in 1951, van Aardenne-Ehrenfest and de Bruijn  generalized the enumeration result for any arbitrary alphabet of finite size q, using a generalized graph for an alphabet Σof size q.

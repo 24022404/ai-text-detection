@@ -1,1 +1,0 @@
-Trong các thử nghiệm của mình, em sử dụng các kết hợp đầu ra khác nhau của các khố Transformer đó. Mô hình kiến trúc chung được thể hiện trong Hình 3.1 . Các tính năng được kết hợp trên các đầu ra của nhiều khố biến áp bằng cách ghép hoặc thêm vào được đưa vào đầu phân loại. Đầu phân loại đơn giản là một mạng được bảo vệ hoàn toàn không có các lớp ẩn.

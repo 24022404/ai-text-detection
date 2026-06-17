@@ -1,1 +1,0 @@
-Bài toán nhận người qua dữ liệu khuôn mặt a, Mô hình phát hiện khuôn mặt Trong bài toán này, tô sử dụng mạng MTCNN phát hiện khuôn mặt. Mạng MTCNN gồm 3 lớp mạng khác bệt, tượng trưng cho 3 stage chính là PNet, Net và Net. Mỗ mạng có cấu trúc khác nhau và đảm nhiệm vai trò khác nhau. Đầu ra của MTCNN là vị trí khuôn mặt và các điểm trên mặt như: mắt, mũi, miệng.

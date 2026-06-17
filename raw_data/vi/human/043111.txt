@@ -1,1 +1,0 @@
-Cơ chế hoạt động của Bootstrap là dựa trên xu hướng mã nguồn mở HTML, CSS và JavaScrpt. Vớ kiến thức cơ bản của 3 ngôn ngữ trên chúng ra có thể dễ dàng sử dụng Boostrap một cách hiệu quả.

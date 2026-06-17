@@ -1,1 +1,0 @@
-Đối với reng bài toán phát hiện lỗi sai thì ngoài sử dụng mô hình Seq2Seq, Ngram thì còn các cách tiếp cận khác như sử dụng RNN cùng LSTM. Nhưng do phải xử lý câu đầu vào một cách tuần tự nên nhược điểm của RNN và LSTM là tốc độ xử lý chậm và hạn chế trong việc biểu diễn sự phụ thuộc xa giữa các từ trong một câu.

@@ -1,1 +1,0 @@
-Huấn luyện tự động là tả lên các tài liệu nghiệp vụ, chẳng hạn như tài liệu về chính sách và và các loại hỏi đáp khác, đồng thờ hướng dẫn bot tự huấn luyện. Từ những tài liệu này, hệ thống tạo ra một danh sách các câu hỏi và câu trả lời. Nhờ vậy mà chatbot có thể trả lời chúng một cách trôi chảy và nhanh chóng .

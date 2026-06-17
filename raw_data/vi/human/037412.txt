@@ -1,1 +1,0 @@
-Chương này tập trung giới thiệu về những vấn đề thực tế dẫn tới việc chọn đề tài, tổng quan về bài toán phát hiện và sửa lỗi chính tả. Tiếp theo đưa ra mục tiêu và phạm vi của đồ án, định hướng gả pháp, đóng góp và bố cục trình bày của đồ án.

@@ -1,1 +1,0 @@
-Classification of errors This data set includes solder defects and substandard welds. In which, with poor quality welds, there are 3 basic errors: bridge foot, fat bridge and excess solder.

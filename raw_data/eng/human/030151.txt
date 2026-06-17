@@ -1,1 +1,0 @@
-The cell state acts as a gradient "highway" during backpropagation, allowing the gradient to flow much further back with a reduced risk of vanishing or exploding.

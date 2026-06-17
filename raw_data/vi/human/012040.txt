@@ -1,1 +1,0 @@
-Nhận thông báo khi có kệ hàng hết sản phẩm.2.2 Tổng quan chức năng 2.2.1 Biểu đồ use case tổng quát Thông qua khảo sát, tô đã phân tích các chức năng chính của ứng dụng và thể hiện thông qua biểu đồ use case tổng quát ở 2.1 Ứng dụng gồm ha tác nhân chính:

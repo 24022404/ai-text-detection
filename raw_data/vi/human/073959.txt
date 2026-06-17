@@ -1,1 +1,0 @@
-Tính thực th cao: Kến trúc strorageengne cho phép các chuyên ga cơ sở dữ lệu cấu hình máy chủ cơ sở dữ lệu MySQL điặc trưng cho các ứng dụng điặc thù, dù ứng dụng là một hệ thống xử lý giao dịch tốc điộ cao hay website dung lượng lớn phục vụ hàng trệu yêu cầu mỗ ngày.

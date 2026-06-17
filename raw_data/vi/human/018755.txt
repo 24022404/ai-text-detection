@@ -1,1 +1,0 @@
-Express.js cũng có cộng đồng lớn và hỗ trợ đa dạng, cung cấp nhiều thư viện và plugin hữu ích giúp lập trình viên dễ dàng phát triển ứng dụng. Ngoài ra, Expressjs cũng hỗ trợ nhiều định dạng dữ liệu như JSON, XML và URLencoded.

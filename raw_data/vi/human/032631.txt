@@ -1,1 +1,0 @@
-Các chức năng của hệ thống Bảng 2.1: Bảng chức năng của hệ thống STT  Tên chức năng  Ý nghĩa 1 Xem sản phẩm  Khách vãng lai, tài khoản thành viên có thể xem thông tin sản phẩm có trong hệ thống tìm kiếm sản phẩm theo từ khóa 3 Đăng ký tài khoản  Cho phép khách vãng lai có thể lựa chọn đăng ký và nhập thông tin điểm trở thành thành viên.

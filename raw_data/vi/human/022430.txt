@@ -1,1 +1,0 @@
-Tích hợp tốt với HTML: PHP có thể được sử dụng để tạo ra các trang web động, tương tác với người dùng và tạo ra nội dung HTML.

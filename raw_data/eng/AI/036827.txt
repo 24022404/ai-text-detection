@@ -1,9 +1,0 @@
-Objective: This paper introduces a novel framework for clustering time-varying networks, with a specific focus on functional brain connectivity graphs. Traditional graph‐based clustering methods struggle to capture both temporal dynamics and the intrinsic geometry of network structures. 
-
-Methods: We model each dynamic network via a kernel‐based autoregressive moving‐average (Kernel‐ARMA) process to obtain low‐dimensional feature representations that encode temporal dependencies. These features are then mapped onto a Grassmann manifold, exploiting its geometry to preserve subspace relationships among networks. Clustering is performed using a manifold‐aware K‐means algorithm, which leverages geodesic distances on the Grassmannian to group networks with similar dynamic patterns.
-
-Results: Experiments on resting‐state fMRI datasets demonstrate that the proposed Kernel‐ARMA–Grassmann pipeline outperforms conventional spectral clustering and static graph kernels by 12–18% in clustering accuracy and exhibits greater robustness to noise and missing data. Visual inspection of cluster centroids reveals meaningful brain‐state groupings that align with known cognitive tasks.
-
-Conclusion: By integrating temporal modeling with manifold learning, our approach advances network clustering in neuroscience and beyond. It offers a scalable, interpretable solution for uncovering dynamic connectivity patterns and can be readily extended to other domains involving time‐evolving graphs.
-
-Keywords: Kernel‐ARMA, Grassmann manifold, network clustering, brain networks, fMRI, manifold learning

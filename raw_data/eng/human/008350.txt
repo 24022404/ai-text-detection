@@ -1,1 +1,0 @@
-Large Movie Review Dataset : This dataset is tailored for binary sentiment classification, featuring a curated collection of 25,000 strongly polar movie reviews designated for training and an additional 25,000 for testing purposes.

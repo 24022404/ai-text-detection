@@ -1,1 +1,0 @@
-discriminative (c, t) =pc,t =1pc′ Trong đó một giá trị phân biệt discriminate( c, t) lớn hơn sẽ cung cấp một ứng cử vên thuật ngữ neo tốt hơn. Khi giá trị phân biệt discriminate( c, t) nhỏ hơn 1, đồng nghĩa với việc thuật ngữ không phải là một lựa chọn tốt để làm thuật ngữ neo.

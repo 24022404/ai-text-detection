@@ -1,1 +1,0 @@
-Json Web Token (JWT) JSON Web Token (JWT)  là một tiêu chuẩn mã hóa và truyền tải dữ liệu trong các ứng dụng web an toàn. JWT là một chuỗi base64 có ba phần được ngăn cách bằng dấu chấm ".". Các phần này bao gồm:

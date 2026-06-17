@@ -1,1 +1,0 @@
-Chương 4 trình bày về thiết kế hệ thống, bao gồm thiết kế cơ sở dữ liệu, thiết kế các lớp và thiết kế giao diện người dùng. Dựa trên các thiết kế đó, em sẽ phát triển phần mềm, tiến hành kiểm thử và đánh giá kết quả.

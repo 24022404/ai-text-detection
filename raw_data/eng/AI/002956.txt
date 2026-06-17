@@ -1,1 +1,0 @@
-Two significant papers contribute to the fields of surface profilometry and digital watermarking. The first reviews a range of contemporary structured light patterns that are applied to achieve precise surface measurements. In contrast, the second introduces a novel technique for embedding digital watermarks in images, enhancing authenticity and security.

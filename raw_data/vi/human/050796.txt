@@ -1,1 +1,0 @@
-Ngoài chia sẻ những bà cảm nhận về sách, người dùng có thể ghi lại nhật ký hoặc vệt sách.•Tạo thêm trang admin để quản lý người dùng, quản lý các bài viết và quản lý các bình luận vào bài viết.

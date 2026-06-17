@@ -1,1 +1,0 @@
-Django serves as the primary backend framework, handling routing, database operations, and API endpoints. Its scalable, modular architecture is perfectly suited for building complex web applications.

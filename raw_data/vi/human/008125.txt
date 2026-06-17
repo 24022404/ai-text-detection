@@ -1,1 +1,0 @@
-Đồ án xây dựng phần mềm quản lý công việc tập trung có đồng bộ với các nền tảng quản lý công việc Cloud sử dụng framework extJS điểm xây dựng giao diện người dùng bên frontend và bên phía backend sử dụng framework ExpressJS và giao thức OAuth2.

@@ -1,1 +1,0 @@
-Entity Pyramid Estimation: Based on the extracted named entities, an Entity Pyramid is constructed to estimate the salience of entities by considering their document frequency. This frequency indicates how often an entity appears across the cluster of related documents.

@@ -1,1 +1,0 @@
-Đền các thông tin cá nhân: Sô điện thoạ, tên khách hàng(có giá trị mặc định là tên khách hàng theo cơ sở dữ liệu), điịa chỉ giao hàng.

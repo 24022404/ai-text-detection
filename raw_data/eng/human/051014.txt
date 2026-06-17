@@ -1,1 +1,0 @@
-So what if we can’t specifically program the computer to do a certain job? This is where we need machine learning, instead of humans pointing out specific steps to solve a problem, machines can learn through observation from data.

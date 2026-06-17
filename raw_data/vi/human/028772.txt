@@ -1,1 +1,0 @@
-Trong qua trình em tìm hiểu đió, em đã phân tích thiết kế sản phẩm, sau đió đã tến hành xây dựng và phát trển thử nghệm được một website bán sách bao gồm chức năng điúng như trong phân tích thiết kế của đồ án.

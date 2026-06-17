@@ -1,1 +1,0 @@
-Khách hàng hoặc thành viên xem danh sách danh mục của cửa hàng 2. Hệ thống cập nhật CSDL và hển thị kết quả Luồng sự kện con:

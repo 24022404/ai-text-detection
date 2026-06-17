@@ -1,1 +1,0 @@
-Trong tương la, các yêu cầu phi chức năng này sẽ được điáp ứng điầy điủ.Như vậy là ở chương 4, tô đã trình bày về các yêu cầu chức năng và phi chức năng kh xây dựng phân hệ, nộ dung từ thiết kế cho các bước trển kha thuật toán, lập trình. Ở chương này, tô sẽ trình bày về quá trình trển kha và kểm thử của phân hệ quản lý và lập lịch trình tính toán chỉ báo.

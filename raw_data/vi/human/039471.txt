@@ -1,1 +1,0 @@
-Khi đó hệ thống sẽ chỉ gửi đoạn hash của tài liệu cho bên thứ ba sau đó nhận được chữ ký và tổng hợp lạ (ký hash).

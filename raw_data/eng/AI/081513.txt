@@ -1,9 +1,0 @@
-This paper addresses the challenges associated with tracking and rendering accurate 3D models in handheld augmented reality environments without the reliance on traditional markers. The research aims to develop a standalone system that enhances user interaction by providing seamless 3D tracking capabilities.
-
-Methods/Approach: The proposed system utilizes advanced computer vision algorithms and machine learning techniques to accurately track and reconstruct 3D environments. Key components include a novel deep learning model that processes visual data from the device’s camera to detect and track objects in real-time. The system leverages sensor fusion to increase accuracy and stability of the tracked models.
-
-Results/Findings: Experimental results demonstrate the system’s capability to achieve high precision and robustness in variable lighting and dynamic environments. Performance evaluations indicate that the tracker outperforms existing solutions in terms of latency and accuracy, making it particularly suited for mobile devices with limited processing power. Comparisons with traditional marker-based systems show significant improvements in user experience and interaction fluidity.
-
-Conclusion/Implications: The research introduces an innovative solution for markerless 3D tracking in handheld augmented reality, paving the way for more immersive and adaptable AR applications. The implications of this work are substantial for fields such as gaming, education, and mobile interface design, offering potential for broader adoption and advancement of AR technologies. Future work will explore scalability and integration with various AR platforms to enhance versatility and user engagement.
-
-Keywords: augmented reality, 3D tracking, markerless, computer vision, deep learning, sensor fusion, handheld devices.

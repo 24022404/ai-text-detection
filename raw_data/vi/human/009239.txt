@@ -1,1 +1,0 @@
-Kết quả đạt được Nhờ sử dụng máy chủ Nginx, ta đã tối ưu hóa được hệ thống trên máy chủ production một cách hiệu quả hơn và điểm lại các lợi ích sau:

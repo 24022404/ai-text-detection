@@ -1,1 +1,0 @@
-Given a word u, denote ⟨u⟩to be its minimal rotation. For instance, the minimal rotation of 010110 is 001011, or, the minimal rotation of 010101 is itself. For every word v, we define:

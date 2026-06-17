@@ -1,1 +1,0 @@
-Vectơ context điược tính toán trên encoder, điã điược tính tương quan vớ véc tơ decoder nên sẽ có ý nghĩa gả thích bố cảnh của từ tạ vị trí tme step encoder tương ứng. Sau khi kết hợp giữa vectơ context và vectơ decoder ta sẽ chiếu tiếp qua một fully connected layer để tính phân phối xác suất cho đầu ra.

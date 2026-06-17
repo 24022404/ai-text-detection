@@ -1,1 +1,0 @@
-Kh các nút khác tra cứu tệp của bạn, chúng sẽ hỏ các nút ngang hàng của chúng xem a đang lưu trữ nộ dung được tham chếu bở CID của tệp. Kh họ xem hoặc tả xuống tệp của bạn, họ sẽ lưu một bản sao vào bộ nhớ cache — và trở thành một nhà cung cấp nộ dung khác của bạn cho đến khi bộ nhớ cache của họ bị xóa.

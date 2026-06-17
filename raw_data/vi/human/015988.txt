@@ -1,1 +1,0 @@
-Vew điược tạo bở các dữ lệu mà chúng ta lấy từ dữ lệu trong model. Một vew yêu cầu model cung cấp điầy điủ dữ lệu điể nó hển thị điầu ra cho người dùng.

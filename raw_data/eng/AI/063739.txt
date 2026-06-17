@@ -1,9 +1,0 @@
-The paper investigates the challenge of accurate metric depth estimation using monocular vision systems, a crucial task for various applications in autonomous driving and robotics. Traditional systems face limitations due to their heavy reliance on dense LiDAR, which incurs high costs and complexity. This study explores the use of a few-beam LiDAR in conjunction with a monocular camera to achieve efficient and precise depth estimation.
-
-Methods/Approach: We propose LiDARTouch, a novel framework that integrates monocular vision data with sparse measurements from a few-beam LiDAR system. The approach utilizes machine learning models to fuse and enhance the depth information, leveraging the spatial understanding provided by the monocular camera. Advanced algorithms are developed to estimate and refine depth maps, improving upon traditional methods by optimizing the use of limited LiDAR data.
-
-Results/Findings: The experimental results demonstrate that LiDARTouch significantly enhances depth estimation accuracy compared to pure monocular systems and those using sparse LiDAR alone. The system achieves a remarkable balance between performance and resource efficiency, presenting improved metrics in both structured and unstructured environments. Notably, the integration of LiDARTouch leads to clear improvements in depth map resolution and reliability.
-
-Conclusion/Implications: This research contributes a practical alternative to conventional depth sensing techniques by combining the strengths of monocular cameras and limited LiDAR data. LiDARTouch offers a cost-effective solution that can be easily integrated into existing technologies, with potential applications in enhanced perception systems for autonomous vehicles. The proposed method underscores the potential of hybrid sensor systems in advancing the field of spatial perception.
-
-Keywords: monocular depth estimation, LiDAR, few-beam LiDAR, machine learning, autonomous vehicles, sensor fusion.

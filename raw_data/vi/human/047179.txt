@@ -1,1 +1,0 @@
-Hỗ trợ các loạ dữ lệu phổ bến, bao gồm số, chuỗ, ngày tháng, hình ảnh, âm thanh và vdeo Hỗ trợ các tính năng bảo mật, bao gồm xác thực người dùng, mã hóa dữ lệuvà quản lý quyền truy cập.

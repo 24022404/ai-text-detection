@@ -1,1 +1,0 @@
-Trình tạo truy vấn và ORM: Lập trình viên có thể thao tác với cơ sở dữ lệu bằng ha cách, với mã nguồn điơn gản, ngắn gọn, dễ hiểu.

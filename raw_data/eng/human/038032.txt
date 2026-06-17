@@ -1,1 +1,0 @@
-Recent works in continual learning has preferred the NCM classifier than the conventional Softmax classifier (trained with CE loss) because of better performance , . Intuitively, the NCM classifier requires the quantity and the quality of vectors that they use to compute class-mean vectors (prototypes) to perform well.

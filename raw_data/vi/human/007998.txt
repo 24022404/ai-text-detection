@@ -1,1 +1,0 @@
-ExpressJS Hình 3.6: ExpressJS framework ExpressJS là một framework phổ biến cho Nodejs, được sử dụng để xây dựng các ứng dụng hoàn chỉnh bằng Nodejs. ExpressJS cung cấp các tính năng như middleware (đoạn mã trung gian) để xử lý các yêu cầu và phản hồi, định tuyến điểm xác định các đường dẫn URL và cung cấp khả năng mở rộng điểm phát triển các ứng dụng lớn.

@@ -1,1 +1,0 @@
-Tất cả tính toán trong biểu đồ được thực hiện bằng cách kết nối các tensor lạ với nhau. 1  tensor  có 1 node  và 1 edge . Node mang operator toán học và sản xuất các output ở điầu cuối. Các edge gả thích mối quan hệ input/output giữa các node.

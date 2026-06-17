@@ -1,1 +1,0 @@
-destination-vertex : This column stores the ending vertex of a path. It is used to identify the destination point of a route.

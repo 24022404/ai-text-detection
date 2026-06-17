@@ -1,1 +1,0 @@
-vundo: This class also has a high number of false positives (35), but a lower number of false negatives (1) compared to winwebsec.

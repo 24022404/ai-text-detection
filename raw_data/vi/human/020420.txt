@@ -1,1 +1,0 @@
-Ngườ nhận tin nhắn•Chữ ký xác định người gửi Lượng ether chuyển từ người gửi sang người nhận Trường dữ liệu tùy chọn STARTGAS bểu thị số bước tính toán tố đia mà vệc thực hiện giao dịch được phép thực hiện GASPRICE bểu thị phí mà người gửi trả cho mỗ bước tính toán Ba trường điầu tên là các trường têu chuẩn trong bất kỳ loạ tền điện tử nào.

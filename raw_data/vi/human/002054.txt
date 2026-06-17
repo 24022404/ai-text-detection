@@ -1,1 +1,0 @@
-storage  Chứa các file bên soạn blade templates, file based sessions, file caches, và những file sinh ra từ project.

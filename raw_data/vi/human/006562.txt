@@ -1,1 +1,0 @@
-Kiểm thử chức năng đăng nhập Bảng 4.19 mô tả các trường hợp kiểm thử của chức năng đăng nhập, kết quả kiểm thử thực tế của webste.

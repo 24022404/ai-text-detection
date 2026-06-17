@@ -1,1 +1,0 @@
-Luồng tương đương/ngọa lệ:2.4.11 Sửa danh mục Bảng 2.11: Đặc tả use case – Sửa danh mục Tên ca sử dụng: Sửa danh mục ID: 11 Tác nhân chính: Bí thư Mục đích: : Bí thư sửa danh mục Mô tả: Ca sử dụng này mô tả cách bí thư sửa danh mục Kích hoạt: : Bí thư sửa danh mục Luồng sự kiện chính:

@@ -1,1 +1,0 @@
-Mọ hàm bất kỳ điều có thể xấp xỉ bởi một mạng MLP 3 tầng sử dụng hàm truyền sigmoid cho các neural tầng ẩn và hàm truyền tuyến tính cho các neural tầng ra.

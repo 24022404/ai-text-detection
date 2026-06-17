@@ -1,1 +1,0 @@
-Moreover, the web application’s adaptability allows for potential use cases be yond the crypto domain. The visualization techniques and tools employed in thisproject can be extended to other fields where momentum analysis and data visual ization are relevant.

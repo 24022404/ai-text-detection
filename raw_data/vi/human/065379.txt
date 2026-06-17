@@ -1,1 +1,0 @@
-Vớ Redux, trạng thái của ứng dụng của bạn được lưu trong một store và mỗ thành phần có thể truy cập vào bất kỳ trạng thái nào mà nó cần từ store này. Hãy đi sâu hơn một chút để biết lý do tại sao bạn có thể cần một công cụ quản lý state.

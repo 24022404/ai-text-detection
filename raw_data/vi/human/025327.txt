@@ -1,1 +1,0 @@
-Google Data Studio là công cụ tạo dashboard báo cáo miễn phí, dễ dàng kết nối, thu thập dữ lệu từ các nguồn dữ lệu on và off khác nhau. Với giao diện kéo thả dễ sử dụng, người dùng có thể tạo báo cáo chỉ trong vòng và phút mà không cần phải có nhiều kiến thức gì về mặt kỹ thuật .

@@ -1,1 +1,0 @@
-FastER a, Khá nệm Fast API  là một web framework được sử dụng để xây dựng các web API có hiệu năng cao và khả năng triển khai nhanh trên nền tảng Python.

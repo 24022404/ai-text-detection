@@ -1,1 +1,0 @@
-Tích hợp dễ dàng: CryptoJS có thể tích hợp dễ dàng vào các dự án thông qua các bản phát hành hoặc các công cụ quản lý phụ thuộc như npm.

@@ -1,1 +1,0 @@
-Sử dụng dịch vụ LUIS ( điển định nghĩa và huấn luyện các ý định và thuộc tính phục vụ cho việc nhận dạng các thông tin cần thiết từ người dùng.

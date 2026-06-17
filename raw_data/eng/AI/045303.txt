@@ -1,9 +1,0 @@
-This research addresses the challenge of enhancing the interpretability and accuracy of facial attribution classification using Deep Neural Networks (DNNs). The study explores the potential of directing DNNs' attention to relevant facial features to improve classification performance.
-
-Methods/Approach: We propose a novel methodology utilizing Gradient-weighted Class Activation Mapping (Grad-CAM) to direct the attention of DNNs. By overlaying the Grad-CAM maps onto input images, our approach allows the network to focus on key features that contribute most to the prediction of facial attributes. The framework is tested on pre-trained DNN architectures and evaluated for its effectiveness in highlighting critical regions of the face for attribute classification.
-
-Results/Findings: The experimental results demonstrate that our method significantly improves the model's performance in facial attribution classification tasks. The use of Grad-CAM enhances the model's interpretability by visualizing the specific regions influencing the classification decisions. Compared to traditional methods, our approach achieves higher accuracy and provides clearer insights into the decision-making process of DNNs.
-
-Conclusion/Implications: This research contributes a novel technique for directing DNNs' attention in facial attribution tasks, resulting in improved classification accuracy and interpretability. The proposed Grad-CAM-based attention method holds potential for applications in diverse fields such as security, identity verification, and user-centric AI systems, where understanding facial attributes accurately is critical. Further, this work extends the applicability of attention-guided models, paving the way for more robust and transparent AI systems in facial analysis.
-
-Key Keywords: Deep Neural Networks, Facial Attribution Classification, Gradient-weighted Class Activation Mapping, Interpretability, Attention Mechanism, AI Systems.

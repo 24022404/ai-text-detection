@@ -1,1 +1,0 @@
-File Upload Section Users can either drag and drop a file or click the upload button to choose a file. The file input allows multiple files to be uploaded. There is a progress bar that updates the user on the upload progress. The section also includes a small instruction text for drag-and-drop.

@@ -1,1 +1,0 @@
-Đồng bộ và nhất quán: Khi sử dụng Ant Design, các thành phần UI được thiết kế điển có thể kết hợp với nhau một cách hài hòa và nhất quán, giúp cho gao vện trở nên đồng bộ và chuyên nghiệp hơn.

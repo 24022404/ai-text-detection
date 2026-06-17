@@ -1,1 +1,0 @@
-scores. Recent works ,  suggested manually setting the threshold for ig noring the low-confidence pseudo labels, it is still difficult in a number of ways.

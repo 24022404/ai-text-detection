@@ -1,1 +1,0 @@
-Do tiếp cận theo tư tưởng của mô hình RoBERTa, vì vậy PhoBERT chỉ sử dụng Mô hình ngôn ngữ có mặt nạ (Masked Language Model) để huấn luyện và sẽ bỏ đi tác vụ Dự đoán câu tiếp theo (Next Sentence Prediction) trong quá trình huấn luyện.

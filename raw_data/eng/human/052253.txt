@@ -1,1 +1,0 @@
-source-vertex : This column stores the starting vertex of a path. It is used to identify the starting point of a route.

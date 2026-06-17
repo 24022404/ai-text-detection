@@ -1,1 +1,0 @@
-Có phương tện vận chuyển AGV đến và đi từ tất cả các trung tâm này. Các vật tư, thết bị y tế sẽ điược AGV vận chuyển điến trung tâm điược yêu cầu. Ngoà ra còn có một khách sạn dành cho bệnh nhân, một trung tâm PET và một trung tâm tâm thần, nhưng không có phương tện vận chuyển AGV điến các điịa điểm này.

@@ -1,1 +1,0 @@
-The user interface is built in java to provide users with an efficient working environment and speed with high accuracy. Support the team leader to effectively manage, and help employees have the fastest customer information suitable for customer care.

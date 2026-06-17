@@ -1,1 +1,0 @@
-Use case quản lý nợ cho phép người dùng quản lý nợ của khách hàng trên hệ thống. Kh người dùng truy cập vào use case này, hệ thống sẽ hiển thị các thông tin cần thiết về nợ của khách hàng, bao gồm số tiền nợ, thờ gan nợ và thông tin khác tương ứng với yêu cầu của người dùng. Người dùng có thể thêm mới hoặc xóa nợ của khách hàng và hệ thống sẽ tự động cập nhật thông tin.

@@ -1,1 +1,0 @@
-Tính năng này giúp cho tốc độ phát triển giao diện người dùng trở lên nhanh gọn hơn. Việc cha giao diện thành nhiều các component nhỏ lẻ là một cách hiệu quả giúp cho mã nguồn có thể dễ dàng mở rộng và bảo trì hơn. Hình 3.2 mô phỏng một trang web được chia thành nhiều component. Mỗ ô trong nét đứt đấy tương đương với một component.

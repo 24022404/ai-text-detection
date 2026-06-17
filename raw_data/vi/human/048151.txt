@@ -1,1 +1,0 @@
-Từ sơ đồ thực thể liên kết trên kết hợp với việc sử dụng hệ quản trị cơ sở dữ liệu MySQL và thực tế sử dụng hệ thống, cơ sở dữ liệu của hệ thống được thiết kế như hình vẽ dưới đây:Hình 4.16: Thiết kế cơ sở dữ liệu của hệ thống Sau đây là bảng mô tả ch tết các chức năng, nhiệm vụ của từng bảng:

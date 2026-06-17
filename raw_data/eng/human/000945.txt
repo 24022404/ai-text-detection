@@ -1,1 +1,0 @@
-In chapter 6, I give an analysis how my regularizer increases eigenvalues and conduct detailed ablation studies on the effects of it on my model.

@@ -1,1 +1,0 @@
-Xác định các tình huống mà người dùng có thể sử dụng từ điển xây dựng hệ thống intent (ý định của người dùng) và entities (thực thể cần trích xuất).

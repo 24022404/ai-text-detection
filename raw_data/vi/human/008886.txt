@@ -1,1 +1,0 @@
-Lý do lựa chọn Hiện nay, có nhiều thư viện hỗ trợ chuyển giọng nói từ văn bản, có thể kể đến như Video Text to Speech, tts reader, speech. Lý do tô sử dụng gTTS là () quá trình cài đặt và triển khai đơn giản () có hỗ trợ nhiều gọng nó () tương tác tốt với ngôn ngữ Python.

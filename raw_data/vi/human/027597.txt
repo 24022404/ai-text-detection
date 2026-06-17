@@ -1,1 +1,0 @@
-Async/Await: Khoa hỗ trợ sử dụng cú pháp async/awat, giúp làm cho việc xử lý các yêu cầu và phản hồi trở nên dễ dàng và rõ ràng hơn. Bạn có thể sử dụng các hàm async điểm xử lý các yêu cầu và các middleware trong Koa.
